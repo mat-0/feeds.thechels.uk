@@ -1,0 +1,10 @@
+<svg width="72" height="72" viewBox="0 0 72 72" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="72" height="72" rx="16" fill="#1A237E"/>
+  <g>
+    <path d="M36 14C36 14 20 20 20 32C20 48 36 58 36 58C36 58 52 48 52 32C52 20 36 14 36 14Z" fill="#FFF" stroke="#3949AB" stroke-width="2"/>
+    <rect x="30" y="32" width="12" height="4" rx="2" fill="#1A237E"/>
+    <rect x="34" y="24" width="4" height="12" rx="2" fill="#1A237E"/>
+    <rect x="28" y="40" width="16" height="4" rx="2" fill="#1A237E"/>
+  </g>
+  <text x="36" y="68" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#FFF">Insure News</text>
+</svg>

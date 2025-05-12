@@ -23,7 +23,7 @@ $background: #f5f4f4;
 $primary: #04100d;
 $secondary: #3c4b57;
 $links: #005ca3;
-$accent: #E86249;
+$accent: #e86249;
 $code: #c0deff;
 $font-stack: TheChelsLight, -system-ui, "Gill Sans", sans-serif;
 $header-stack: TheChelsMedium, -system-ui, "Gill Sans", sans-serif;
@@ -166,10 +166,10 @@ main:focus {
     height: 72px;
     width: 72px;
     margin-top: 0;
-    background: url("/assets/Secops.png") no-repeat;
+    background: url("/assets/insureNews.png") no-repeat;
 
     &:hover {
-        background: url("/assets/Secops-alt.png") no-repeat;
+        background: url("/assets/insureNews-alt.png") no-repeat;
         transition: all 2s ease-in-out 0.5s;
     }
 }
