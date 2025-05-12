@@ -1,0 +1,22 @@
+---
+---
+{% assign contents_of_page = site.pages | where: "name", "index.md" | first %}
+{% assign pub_date = site.time | date: "%Y-%m-%d" %}
+
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>Daily Rundown</title>
+     <link>https://github.com/mat-0/insure.thechels.uk/issues</link>
+     <description>List of open issues for insure.thechels.uk</description>
+    <item>
+      <title>Daily Rundown for {{ pub_date }}</title>
+      <link>https://github.com/mat-0/insure.thechels.uk/issues</link>
+      <guid isPermaLink="false">Daily Rundown for {{ pub_date }}</guid>
+      <description>
+      <![CDATA[ {{ contents_of_page.content | markdownify }} ]]>
+      </description>
+      <pubDate>{{ pub_date }}</pubDate>
+    </item>
+  </channel>
+</rss>

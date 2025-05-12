@@ -1,0 +1,267 @@
+name: RSS Cloud Providers
+
+on:
+    schedule:
+        - cron: "*/15 * * * *"
+    workflow_dispatch:
+
+permissions:
+    issues: write
+    contents: read
+
+jobs:
+    ModernInsurance:
+        runs-on: ubuntu-latest
+        steps:
+            - uses: guilhem/rss-issues-action@0.5.2
+              continue-on-error: true
+              with:
+                  repo-token: ${{ secrets.GITHUB_TOKEN }}
+                  feed: "https://moderninsurancemagazine.co.uk/bits-blogs-insurance-news-uk/"
+                  prefix: "[ModernInsurance]"
+                  dry-run: "false"
+                  lastTime: "24h"
+                  labels: "ModernInsurance"
+    Accenture:
+        runs-on: ubuntu-latest
+        steps:
+            - uses: guilhem/rss-issues-action@0.5.2
+              continue-on-error: true
+              with:
+                  repo-token: ${{ secrets.GITHUB_TOKEN }}
+                  feed: "https://insuranceblog.accenture.com"
+                  prefix: "[Accenture]"
+                  dry-run: "false"
+                  lastTime: "24h"
+                  labels: "Accenture"
+    IFAMagazine:
+        runs-on: ubuntu-latest
+        steps:
+            - uses: guilhem/rss-issues-action@0.5.2
+              continue-on-error: true
+              with:
+                  repo-token: ${{ secrets.GITHUB_TOKEN }}
+                  feed: "https://ifamagazine.com/category/insurance-and-protection/feed/"
+                  prefix: "[IFAMagazine]"
+                  dry-run: "false"
+                  lastTime: "24h"
+                  labels: "IFAMagazine"
+    InsuranceInsider:
+        runs-on: ubuntu-latest
+        steps:
+            - uses: guilhem/rss-issues-action@0.5.2
+              continue-on-error: true
+              with:
+                  repo-token: ${{ secrets.GITHUB_TOKEN }}
+                  feed: "https://www.insuranceinsider.com/index.rss"
+                  prefix: "[InsuranceInsider]"
+                  dry-run: "false"
+                  lastTime: "24h"
+                  labels: "InsuranceInsider"
+    Coverager:
+        runs-on: ubuntu-latest
+        steps:
+            - uses: guilhem/rss-issues-action@0.5.2
+              continue-on-error: true
+              with:
+                  repo-token: ${{ secrets.GITHUB_TOKEN }}
+                  feed: "https://coverager.com/feed/"
+                  prefix: "[Coverager]"
+                  dry-run: "false"
+                  lastTime: "24h"
+                  labels: "Coverager"
+    FintechGlobal:
+        runs-on: ubuntu-latest
+        steps:
+            - uses: guilhem/rss-issues-action@0.5.2
+              continue-on-error: true
+              with:
+                  repo-token: ${{ secrets.GITHUB_TOKEN }}
+                  feed: "https://fintech.global/category/insurtech/feed/"
+                  prefix: "[FintechGlobal]"
+                  dry-run: "false"
+                  lastTime: "24h"
+                  labels: "FintechGlobal"
+    InsuranceBusiness:
+        runs-on: ubuntu-latest
+        steps:
+            - uses: guilhem/rss-issues-action@0.5.2
+              continue-on-error: true
+              with:
+                  repo-token: ${{ secrets.GITHUB_TOKEN }}
+                  feed: "https://www.insurancebusinessmag.com/uk/feed/"
+                  prefix: "[InsuranceBusiness]"
+                  dry-run: "false"
+                  lastTime: "24h"
+                  labels: "InsuranceBusiness"
+    InsuranceTimes:
+        runs-on: ubuntu-latest
+        steps:
+            - uses: guilhem/rss-issues-action@0.5.2
+              continue-on-error: true
+              with:
+                  repo-token: ${{ secrets.GITHUB_TOKEN }}
+                  feed: "https://www.insurancetimes.co.uk/feed/"
+                  prefix: "[InsuranceTimes]"
+                  dry-run: "false"
+                  lastTime: "24h"
+                  labels: "InsuranceTimes"
+    PostOnline:
+        runs-on: ubuntu-latest
+        steps:
+            - uses: guilhem/rss-issues-action@0.5.2
+              continue-on-error: true
+              with:
+                  repo-token: ${{ secrets.GITHUB_TOKEN }}
+                  feed: "https://www.postonline.co.uk/feeds/rss/"
+                  prefix: "[PostOnline]"
+                  dry-run: "false"
+                  lastTime: "24h"
+                  labels: "PostOnline"
+
+    InsuranceNews:
+        runs-on: ubuntu-latest
+        steps:
+            - uses: guilhem/rss-issues-action@0.5.2
+              continue-on-error: true
+              with:
+                  repo-token: ${{ secrets.GITHUB_TOKEN }}
+                  feed: "https://www.insurancenews.com.au/feed/"
+                  prefix: "[InsuranceNews]"
+                  dry-run: "false"
+                  lastTime: "24h"
+                  labels: "InsuranceNews"
+    InsuranceNewsNet:
+        runs-on: ubuntu-latest
+        steps:
+            - uses: guilhem/rss-issues-action@0.5.2
+              continue-on-error: true
+              with:
+                  repo-token: ${{ secrets.GITHUB_TOKEN }}
+                  feed: "https://insurancenewsnet.com/feed"
+                  prefix: "[InsuranceNewsNet]"
+                  dry-run: "false"
+                  lastTime: "24h"
+                  labels: "InsuranceNewsNet"
+    InsuranceNewsUK:
+        runs-on: ubuntu-latest
+        steps:
+            - uses: guilhem/rss-issues-action@0.5.2
+              continue-on-error: true
+              with:
+                  repo-token: ${{ secrets.GITHUB_TOKEN }}
+                  feed: "https://www.insurancebusinessmagazine.co.uk/feed/"
+                  prefix: "[InsuranceNewsUK]"
+                  dry-run: "false"
+                  lastTime: "24h"
+                  labels: "InsuranceNewsUK"
+    ReinsuranceNews:
+        # https://www.reinsurancene.ws/feed/
+        runs-on: ubuntu-latest
+        steps:
+            - uses: guilhem/rss-issues-action@0.5.2
+              continue-on-error: true
+              with:
+                  repo-token: ${{ secrets.GITHUB_TOKEN }}
+                  feed: "https://www.reinsurancene.ws/feed/"
+                  prefix: "[ReinsuranceNews]"
+                  dry-run: "false"
+                  lastTime: "24h"
+                  labels: "ReinsuranceNews"
+    InsuranceJournal:
+        runs-on: ubuntu-latest
+        steps:
+            - uses: guilhem/rss-issues-action@0.5.2
+              continue-on-error: true
+              with:
+                  repo-token: ${{ secrets.GITHUB_TOKEN }}
+                  feed: "https://www.insurancejournal.com/rss/"
+                  prefix: "[InsuranceJournal]"
+                  dry-run: "false"
+                  lastTime: "24h"
+                  labels: "InsuranceJournal"
+
+    DigitalInsurance:
+        runs-on: ubuntu-latest
+        steps:
+            - uses: guilhem/rss-issues-action@0.5.2
+              continue-on-error: true
+              with:
+                  repo-token: ${{ secrets.GITHUB_TOKEN }}
+                  feed: "https://www.dig-in.com/feed"
+                  prefix: "[DigitalInsurance]"
+                  dry-run: "false"
+                  lastTime: "24h"
+                  labels: "DigitalInsurance"
+    TheActuary:
+        runs-on: ubuntu-latest
+        steps:
+            - uses: guilhem/rss-issues-action@0.5.2
+              continue-on-error: true
+              with:
+                  repo-token: ${{ secrets.GITHUB_TOKEN }}
+                  feed: "https://www.theactuary.com/feed/"
+                  prefix: "[TheActuary]"
+                  dry-run: "false"
+                  lastTime: "24h"
+                  labels: "TheActuary"
+    InsuranceEdge:
+        runs-on: ubuntu-latest
+        steps:
+            - uses: guilhem/rss-issues-action@0.5.2
+              continue-on-error: true
+              with:
+                  repo-token: ${{ secrets.GITHUB_TOKEN }}
+                  feed: "https://insurance-edge.net/feed/"
+                  prefix: "[InsuranceEdge]"
+                  dry-run: "false"
+                  lastTime: "24h"
+                  labels: "InsuranceEdge"
+    ABINews:
+        runs-on: ubuntu-latest
+        steps:
+            - uses: guilhem/rss-issues-action@0.5.2
+              continue-on-error: true
+              with:
+                  repo-token: ${{ secrets.GITHUB_TOKEN }}
+                  feed: "https://www.abi.org.uk/news/rss/"
+                  prefix: "[ABINews]"
+                  dry-run: "false"
+                  lastTime: "24h"
+                  labels: "ABINews"
+    Lloyds:
+        runs-on: ubuntu-latest
+        steps:
+            - uses: guilhem/rss-issues-action@0.5.2
+              continue-on-error: true
+              with:
+                  repo-token: ${{ secrets.GITHUB_TOKEN }}
+                  feed: "https://www.lloyds.com/rss/news"
+                  prefix: "[Lloyds]"
+                  dry-run: "false"
+                  lastTime: "24h"
+                  labels: "Lloyds"
+    InsurTechInsights:
+        runs-on: ubuntu-latest
+        steps:
+            - uses: guilhem/rss-issues-action@0.5.2
+              continue-on-error: true
+              with:
+                  repo-token: ${{ secrets.GITHUB_TOKEN }}
+                  feed: "https://insurtechinsights.com/feed/"
+                  prefix: "[InsurTechInsights]"
+                  dry-run: "false"
+                  lastTime: "24h"
+                  labels: "InsurTechInsights"
+    FCA:
+        runs-on: ubuntu-latest
+        steps:
+            - uses: guilhem/rss-issues-action@0.5.2
+              continue-on-error: true
+              with:
+                  repo-token: ${{ secrets.GITHUB_TOKEN }}
+                  feed: "https://www.fca.org.uk/news/rss.xml"
+                  prefix: "[FCA]"
+                  dry-run: "false"
+                  lastTime: "24h"
+                  labels: "FCA"
