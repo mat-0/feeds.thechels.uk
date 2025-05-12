@@ -139,8 +139,8 @@ def write_to_file(output_file, string_content):
     with open(output_file, 'r') as f:
         content = f.read()
 
-    start_tag = "<!-- SecOps start -->"
-    end_tag = "<!-- SecOps end -->"
+    start_tag = "<!-- Insure start -->"
+    end_tag = "<!-- Insure end -->"
 
     if start_tag not in content or end_tag not in content:
         raise ValueError(f"Error: Tags '{start_tag}' or '{end_tag}' not found in {output_file}.")
