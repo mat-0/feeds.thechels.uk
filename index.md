@@ -7,6 +7,6 @@ description: Latest Updates
 
 [Get this as an RSS feed](/feed.rss)
 
-<!-- SecOps start -->
+<!-- Insure start -->
 
-<!-- SecOps end -->
+<!-- Insure end -->

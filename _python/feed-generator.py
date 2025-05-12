@@ -156,8 +156,8 @@ def write_to_file(output_file, string_content):
 def main():
     # Get environment variables
     token = os.environ.get("GITHUB_TOKEN") or config.GH_TOKEN
-    repo_owner = os.environ.get("REPO_OWNER", "SecOpsNews")
-    repo_name = os.environ.get("REPO_NAME", "News")
+    repo_owner = os.environ.get("REPO_OWNER", "Mat-0")
+    repo_name = os.environ.get("REPO_NAME", "Insure.thechels.uk")
     output_file = os.environ.get("OUTPUT_FILE", "index.md")
 
     try:
