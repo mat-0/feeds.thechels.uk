@@ -46,30 +46,6 @@ jobs:
                   dry-run: "false"
                   lastTime: "24h"
                   labels: "IFAMagazine"
-    InsuranceInsider:
-        runs-on: ubuntu-latest
-        steps:
-            - uses: guilhem/rss-issues-action@0.5.2
-              continue-on-error: true
-              with:
-                  repo-token: ${{ secrets.GITHUB_TOKEN }}
-                  feed: "https://www.insuranceinsider.com/index.rss"
-                  prefix: "[InsuranceInsider]"
-                  dry-run: "false"
-                  lastTime: "24h"
-                  labels: "InsuranceInsider"
-    Coverager:
-        runs-on: ubuntu-latest
-        steps:
-            - uses: guilhem/rss-issues-action@0.5.2
-              continue-on-error: true
-              with:
-                  repo-token: ${{ secrets.GITHUB_TOKEN }}
-                  feed: "https://coverager.com/feed/"
-                  prefix: "[Coverager]"
-                  dry-run: "false"
-                  lastTime: "24h"
-                  labels: "Coverager"
     FintechGlobal:
         runs-on: ubuntu-latest
         steps:
@@ -118,31 +94,6 @@ jobs:
                   dry-run: "false"
                   lastTime: "24h"
                   labels: "PostOnline"
-
-    InsuranceNews:
-        runs-on: ubuntu-latest
-        steps:
-            - uses: guilhem/rss-issues-action@0.5.2
-              continue-on-error: true
-              with:
-                  repo-token: ${{ secrets.GITHUB_TOKEN }}
-                  feed: "https://www.insurancenews.com.au/feed/"
-                  prefix: "[InsuranceNews]"
-                  dry-run: "false"
-                  lastTime: "24h"
-                  labels: "InsuranceNews"
-    InsuranceNewsNet:
-        runs-on: ubuntu-latest
-        steps:
-            - uses: guilhem/rss-issues-action@0.5.2
-              continue-on-error: true
-              with:
-                  repo-token: ${{ secrets.GITHUB_TOKEN }}
-                  feed: "https://insurancenewsnet.com/feed"
-                  prefix: "[InsuranceNewsNet]"
-                  dry-run: "false"
-                  lastTime: "24h"
-                  labels: "InsuranceNewsNet"
     InsuranceNewsUK:
         runs-on: ubuntu-latest
         steps:
@@ -229,18 +180,6 @@ jobs:
                   dry-run: "false"
                   lastTime: "24h"
                   labels: "ABINews"
-    Lloyds:
-        runs-on: ubuntu-latest
-        steps:
-            - uses: guilhem/rss-issues-action@0.5.2
-              continue-on-error: true
-              with:
-                  repo-token: ${{ secrets.GITHUB_TOKEN }}
-                  feed: "https://www.lloyds.com/rss/news"
-                  prefix: "[Lloyds]"
-                  dry-run: "false"
-                  lastTime: "24h"
-                  labels: "Lloyds"
     InsurTechInsights:
         runs-on: ubuntu-latest
         steps:
