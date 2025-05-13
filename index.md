@@ -9,81 +9,421 @@ description: Latest Updates
 
 <!-- Insure start -->
 
-- [PostOnline] Chris Lay, Marsh McLennan - just now
-- [PostOnline] Donald Trump and Elon Musk - just now
-- [PostOnline] Adrian Cox, Beazley - just now
-- [PostOnline] Nick Turner, NFU Mutual - just now
-- [PostOnline] Jason Harris, QBE - just now
-- [PostOnline] Hannah Gurga, ABI and Graeme Trudgill, Biba - just now
-- [PostOnline] Matthew Hill, Chartered Insurance Institute - just now
-- [PostOnline] Neil Galjaard, Markel UK - just now
-- [PostOnline] Dan Saulter, Davies - just now
-- [PostOnline] Jason Storah, Aviva UK - just now
+- [PostOnline] Colm Holmes, Allianz UK - just now
 - [PostOnline] Louise O’Shea, CFC - just now
 - [PostOnline] Paul Lofkin, Crawford - just now
 - [PostOnline] Stuart McMurdo, Accredited UK and Europe - just now
+- [ReinsuranceNews] wefox sells Italian entities to J.C. Flowers & Co., completes restructure - just now
 - [PostOnline] Steve Tooze, Extinction Rebellion - just now
 - [PostOnline] Neil Gibson, Sedgwick - just now
 - [PostOnline] Georges De Macedo, Covéa - just now
-- [InsuranceJournal] Drug Companies Paying Hawaii $700 Million to Settle Plavix Blood Thinner Suit - just now
 - [PostOnline] Ant Middle, Ageas - just now
-- [InsuranceJournal] Tornadoes, Winds, Rain Hit Florida Panhandle and Parts of Alabama - just now
+- [InsuranceJournal] Markets/Coverages: QBE Starts New Commercial Property Product for Large Companies - just now
 - [PostOnline] Sam White, Stella Insurance - just now
-- [InsuranceJournal] Markets/Coverages: Markel Launches Clinical Trials Cover to Support Research Globally - just now
+- [InsuranceJournal] London Workers Hit by Travel Disruption After Power Outage - just now
 - [PostOnline] Paul Jewell, Bridgehaven - just now
-- [InsuranceJournal] Insurer Coalition: Costs From Business Email Compromise Rise in 2024 - just now
-- [PostOnline] Adam Winslow, Direct Line - just now
-- [PostOnline] Drazen Jaksic, Zurich UK - just now
-- [PostOnline] Jane Kielty, Aon UK - just now
-- [PostOnline] Matthew Crummack, Domestic & General - just now
-- [PostOnline] Jason Richards, Swiss Re - just now
-- [PostOnline] Donna Scully, Carpenters Group - just now
-- [PostOnline] Aki Hussain, Hiscox - just now
+- [InsuranceJournal] Space War: Marsh Sues Willis Over Aviation Insurance Hires Soliciting Clients - just now
+- [InsuranceJournal] Report Describes Final Moments of Plane Crash That Killed Massachusetts Family - just now
+- [PostOnline] David Ross, Ardonagh Group - just now
+- [InsuranceJournal] Family of Helicopter Pilot Killed in California Wildfire Reaches $15M Settlement - just now
 - [PostOnline] Matt Brewis, FCA - just now
+- [InsuranceJournal] Police: Truck Crossed Center Line in Crash With Tour Van That Killed 7 Near Yellowstone - just now
+- [PostOnline] Donna Scully, Carpenters Group - just now
+- [InsuranceJournal] Texas Insurance Fraudster Given Prison Sentence and $350K Fine - just now
+- [PostOnline] Paul Morden, Munich Re - just now
+- [InsuranceJournal] FM Clients to Receive Share of $1 Billion in ‘Membership Credits’ - just now
+- [PostOnline] Ajay Mistry, iCan - just now
+- [InsuranceJournal] Former XL CEO McGavick Returns to Insurance With AI Firm Mea Platform - just now
+- [PostOnline] Mark Roberts, Chubb - just now
 - [PostOnline] Stephanie Ogden, HDI Global - just now
 - [PostOnline] John Bissell, Chartered Institute of Loss Adjusters - just now
-- [PostOnline] Mark Roberts, Chubb - just now
-- [PostOnline] Ajay Mistry, iCan - just now
-- [PostOnline] Paul Morden, Munich Re - just now
-- [PostOnline] David Ross, Ardonagh Group - just now
-- [PostOnline] Only one fifth of brokers utilising artificial intelligence - just now
-- [ReinsuranceNews] Munich Re posts Q1’25 net result of €1.1bn, maintains FY profit guidance despite LA wildfire loss - just now
-- [InsuranceJournal] Hub to Get $1.6B Minority Investment, Valuing Company at $29B - 22 minutes ago
-- [InsuranceJournal] Chinese Exporters Elated by Reprieve in US-China Trade War - 22 minutes ago
-- [InsuranceJournal] Markets/Coverages: QBE Starts New Commercial Property Product for Large Companies - 22 minutes ago
-- [InsuranceJournal] FM Clients to Receive Share of $1 Billion in ‘Membership Credits’ - 22 minutes ago
-- [PostOnline] Alistair Hargreaves, Admiral - 1 hour ago
-- [PostOnline] Michael Rea, Gallagher - 1 hour ago
-- [PostOnline] Kevin Spencer, Markerstudy - 1 hour ago
+- [PostOnline] David Howden, Howden Group - just now
+- [PostOnline] Insurance Post’s Power List Top 10 Podcast 2025 - just now
+- [PostOnline] Ken Norgrove, RSA - 21 minutes ago
+- [PostOnline] Tara Foley, Axa - 22 minutes ago
+- [PostOnline] Sam Woods, Prudential Regulation Authority - 22 minutes ago
+- [PostOnline] Michael Rea, Gallagher - 22 minutes ago
+- [PostOnline] Alistair Hargreaves, Admiral - 22 minutes ago
+- [PostOnline] Adam Winslow, Direct Line - 22 minutes ago
+- [PostOnline] Kevin Spencer, Markerstudy - 22 minutes ago
+- [PostOnline] Drazen Jaksic, Zurich UK - 22 minutes ago
+- [PostOnline] Jane Kielty, Aon UK - 22 minutes ago
+- [PostOnline] Jason Richards, Swiss Re - 22 minutes ago
+- [PostOnline] Big Interview: Rob Schimek, Bolttech - 22 minutes ago
+- [PostOnline] FCA remains a work in progress - 22 minutes ago
+- [PostOnline] 60 Seconds With... Woodgate & Clark’s Liam Ball - 22 minutes ago
+- [PostOnline] Insurance industry’s most powerful players revealed - 22 minutes ago
+- [PostOnline] Power List: Ones to watch in insurance in 2025 - 22 minutes ago
+- [PostOnline] What it takes to be a Power List player in 2025 - 22 minutes ago
+- [PostOnline] Only one fifth of brokers utilising artificial intelligence - 22 minutes ago
+- [InsuranceJournal] Wisconsin Republicans Kill Cannabis Legalization And Tax Increases for Millionaires - 22 minutes ago
+- [PostOnline] Rising mobile phone attachment drives SquareTrade product expansion - 22 minutes ago
+- [InsuranceJournal] Labor Department Suing USPS Over Fired Texas Worker Who Reported Injury - 22 minutes ago
+- [PostOnline] Hiscox warns how tech insurance bubble could burst - 22 minutes ago
+- [InsuranceJournal] Appeals Court: Florida Deputy Used Excessive Force and is Not Immune from Suit - 22 minutes ago
+- [PostOnline] Biba launches question guidance to reduce disclosure disputes - 22 minutes ago
+- [InsuranceJournal] Residents Jumped From Windows in Wisconsin Apartment Fire That Killed 4 - 22 minutes ago
+- [ReinsuranceNews] IRB (Re) net income increases 50% in Q1’25 despite 13.34% written premiums decrease - 22 minutes ago
+- [InsuranceJournal] Google Facing at Least €12 Billion in Civil Claims Across Europe - 22 minutes ago
+- [InsuranceJournal] Man Who Fell 21 Feet at Pirates Game Takes First Steps But Has ‘Long Way to Go’ - 22 minutes ago
+- [InsuranceJournal] FAA Convening Emergency Task Force on Newark Telecom Outages - 22 minutes ago
+- [InsuranceJournal] Grid Warns Extreme Heat Risks Summer Power Shortages in Midwest to East - 22 minutes ago
+- [PostOnline] Chris Lay, Marsh McLennan - 50 minutes ago
+- [PostOnline] Donald Trump and Elon Musk - 50 minutes ago
+- [PostOnline] Adrian Cox, Beazley - 50 minutes ago
+- [PostOnline] Nick Turner, NFU Mutual - 50 minutes ago
+- [PostOnline] Hannah Gurga, ABI and Graeme Trudgill, Biba - 50 minutes ago
+- [PostOnline] Matthew Hill, Chartered Insurance Institute - 50 minutes ago
+- [PostOnline] Neil Galjaard, Markel UK - 50 minutes ago
+- [PostOnline] Jason Storah, Aviva UK - 50 minutes ago
+- [PostOnline] Matthew Crummack, Domestic & General - 50 minutes ago
+- [PostOnline] Aki Hussain, Hiscox - 50 minutes ago
+- [PostOnline] David Ross, Ardonagh Group - 50 minutes ago
+- [PostOnline] Matt Brewis, FCA - 50 minutes ago
+- [PostOnline] Donna Scully, Carpenters Group - 50 minutes ago
+- [PostOnline] Paul Morden, Munich Re - 50 minutes ago
+- [PostOnline] Ajay Mistry, iCan - 50 minutes ago
+- [PostOnline] Mark Roberts, Chubb - 50 minutes ago
+- [PostOnline] Stephanie Ogden, HDI Global - 50 minutes ago
+- [PostOnline] John Bissell, Chartered Institute of Loss Adjusters - 50 minutes ago
+- [PostOnline] David Howden, Howden Group - 50 minutes ago
+- [PostOnline] Insurance Post’s Power List Top 10 Podcast 2025 - 50 minutes ago
+- [InsurTechInsights] Mike McGavick Joins mea Platform as Board Chairman and Strategic Advisor - 50 minutes ago
+- [InsuranceJournal] SEC Chair Says Agency Plans to Create New Rules for Crypto Tokens - 50 minutes ago
+- [InsuranceJournal] Markel Insurance CEO Wilson Lays Out Strategy for ‘Bread-and-Butter’ E&S Business - 50 minutes ago
+- [InsuranceJournal] United Security Insurance Expands Personal Lines Auto to Arizona - 50 minutes ago
+- [ReinsuranceNews] Imaginera targets leadership in big-ticket re/insurance software market with Orca - 50 minutes ago
 - [PostOnline] Colm Holmes, Allianz UK - 1 hour ago
-- [InsuranceJournal] London Workers Hit by Travel Disruption After Power Outage - 1 hour ago
-- [PostOnline] Ken Norgrove, RSA - 1 hour ago
-- [InsuranceJournal] Space War: Marsh Sues Willis Over Aviation Insurance Hires Soliciting Clients - 1 hour ago
-- [PostOnline] Tara Foley, Axa - 1 hour ago
-- [InsuranceJournal] Report Describes Final Moments of Plane Crash That Killed Massachusetts Family - 1 hour ago
-- [PostOnline] Insurance Post’s Power List Top 10 Podcast 2025 - 1 hour ago
+- [PostOnline] Louise O’Shea, CFC - 1 hour ago
+- [PostOnline] Paul Lofkin, Crawford - 1 hour ago
+- [PostOnline] Stuart McMurdo, Accredited UK and Europe - 1 hour ago
+- [PostOnline] Steve Tooze, Extinction Rebellion - 1 hour ago
+- [PostOnline] Neil Gibson, Sedgwick - 1 hour ago
+- [PostOnline] Georges De Macedo, Covéa - 1 hour ago
+- [InsuranceJournal] India Approves More Russian Insurers to Provide Marine Cover - 1 hour ago
+- [PostOnline] Ant Middle, Ageas - 1 hour ago
+- [PostOnline] Sam White, Stella Insurance - 1 hour ago
+- [InsurTechInsights] KatRisk Acquires Gamma to Bolster Catastrophe Modeling and Location Intelligence Capabilities - 1 hour ago
+- [PostOnline] Paul Jewell, Bridgehaven - 1 hour ago
 - [PostOnline] Big Interview: Rob Schimek, Bolttech - 1 hour ago
 - [PostOnline] FCA remains a work in progress - 1 hour ago
+- [InsuranceEdge] Altea Adds Features to Its Healthcare Offer - 1 hour ago
 - [PostOnline] 60 Seconds With... Woodgate & Clark’s Liam Ball - 1 hour ago
 - [PostOnline] Insurance industry’s most powerful players revealed - 1 hour ago
 - [PostOnline] Power List: Ones to watch in insurance in 2025 - 1 hour ago
 - [PostOnline] What it takes to be a Power List player in 2025 - 1 hour ago
-- [ReinsuranceNews] HSBC’s Wayfoong becomes Hong Kong first captive insurer formed by a multinational enterprise - 1 hour ago
-- [InsuranceJournal] Family of Helicopter Pilot Killed in California Wildfire Reaches $15M Settlement - 1 hour ago
-- [InsuranceJournal] Police: Truck Crossed Center Line in Crash With Tour Van That Killed 7 Near Yellowstone - 1 hour ago
-- [InsuranceJournal] Texas Insurance Fraudster Given Prison Sentence and $350K Fine - 1 hour ago
-- [InsuranceJournal] Wisconsin Republicans Kill Cannabis Legalization And Tax Increases for Millionaires - 1 hour ago
-- [InsuranceJournal] Labor Department Suing USPS Over Fired Texas Worker Who Reported Injury - 1 hour ago
-- [InsuranceJournal] Appeals Court: Florida Deputy Used Excessive Force and is Not Immune from Suit - 1 hour ago
-- [InsuranceJournal] SEC Chair Says Agency Plans to Create New Rules for Crypto Tokens - 1 hour ago
-- [ReinsuranceNews] AM Best maintains stable outlook for Chile’s insurance industry amid regulatory advancements - 2 hours ago
-- [PostOnline] David Howden, Howden Group - 2 hours ago
-- [PostOnline] Amanda Blanc, Aviva - 2 hours ago
-- [PostOnline] Sam Woods, Prudential Regulation Authority - 2 hours ago
-- [InsuranceEdge] AXA Launches Management Liability Prevent & Protect - 11 hours ago
-- [InsuranceEdge] Decant Teams Up With Embri on Collectable Whisky - 11 hours ago
-- [FCA] AI through a different lens: what 115 experts taught us about AI innovation - 11 hours ago
-- [FCA] Seventy percent cut in capital rules red tape - 11 hours ago
+- [PostOnline] Only one fifth of brokers utilising artificial intelligence - 1 hour ago
+- [PostOnline] Rising mobile phone attachment drives SquareTrade product expansion - 1 hour ago
+- [PostOnline] Hiscox warns how tech insurance bubble could burst - 1 hour ago
+- [ReinsuranceNews] Global insured losses reach $146bn in 2024, driven by hurricanes & SCS: Swiss Re - 1 hour ago
+- [PostOnline] Biba launches question guidance to reduce disclosure disputes - 1 hour ago
+- [PostOnline] Ken Norgrove, RSA - 1 hour ago
+- [PostOnline] Tara Foley, Axa - 1 hour ago
+- [PostOnline] Sam Woods, Prudential Regulation Authority - 1 hour ago
+- [PostOnline] Michael Rea, Gallagher - 1 hour ago
+- [PostOnline] Alistair Hargreaves, Admiral - 1 hour ago
+- [PostOnline] Adam Winslow, Direct Line - 1 hour ago
+- [PostOnline] Kevin Spencer, Markerstudy - 1 hour ago
+- [PostOnline] Drazen Jaksic, Zurich UK - 1 hour ago
+- [PostOnline] Jane Kielty, Aon UK - 1 hour ago
+- [PostOnline] Jason Richards, Swiss Re - 1 hour ago
+- [PostOnline] Aki Hussain, Hiscox - 1 hour ago
+- [PostOnline] David Ross, Ardonagh Group - 1 hour ago
+- [PostOnline] Matt Brewis, FCA - 1 hour ago
+- [PostOnline] Donna Scully, Carpenters Group - 1 hour ago
+- [PostOnline] Paul Morden, Munich Re - 1 hour ago
+- [PostOnline] Ajay Mistry, iCan - 1 hour ago
+- [PostOnline] Mark Roberts, Chubb - 1 hour ago
+- [PostOnline] Stephanie Ogden, HDI Global - 1 hour ago
+- [PostOnline] John Bissell, Chartered Institute of Loss Adjusters - 1 hour ago
+- [PostOnline] David Howden, Howden Group - 1 hour ago
+- [InsuranceEdge] Latest Risk Radar Report is Published - 1 hour ago
+- [ReinsuranceNews] Munich Re ‘optimistic’ for mid-year renewals, US property cat still attractive: CFO Jurecka - 1 hour ago
+- [InsuranceJournal] Markets/Coverages: MGA Pen Launches Enhanced Cyber Risk Management Platform - 1 hour ago
+- [InsuranceJournal] Global Banking Regulators Agree to Prioritize Climate Risk Work - 1 hour ago
+- [PostOnline] Chris Lay, Marsh McLennan - 2 hours ago
+- [PostOnline] Donald Trump and Elon Musk - 2 hours ago
+- [PostOnline] Adrian Cox, Beazley - 2 hours ago
+- [PostOnline] Nick Turner, NFU Mutual - 2 hours ago
+- [PostOnline] Hannah Gurga, ABI and Graeme Trudgill, Biba - 2 hours ago
+- [PostOnline] Matthew Hill, Chartered Insurance Institute - 2 hours ago
+- [PostOnline] Neil Galjaard, Markel UK - 2 hours ago
+- [PostOnline] Jason Storah, Aviva UK - 2 hours ago
+- [PostOnline] Matthew Crummack, Domestic & General - 2 hours ago
+- [PostOnline] Insurance Post’s Power List Top 10 Podcast 2025 - 2 hours ago
+- [PostOnline] Big Interview: Rob Schimek, Bolttech - 2 hours ago
+- [PostOnline] FCA remains a work in progress - 2 hours ago
+- [PostOnline] 60 Seconds With... Woodgate & Clark’s Liam Ball - 2 hours ago
+- [PostOnline] Insurance industry’s most powerful players revealed - 2 hours ago
+- [PostOnline] Power List: Ones to watch in insurance in 2025 - 2 hours ago
+- [PostOnline] What it takes to be a Power List player in 2025 - 2 hours ago
+- [PostOnline] Only one fifth of brokers utilising artificial intelligence - 2 hours ago
+- [PostOnline] Rising mobile phone attachment drives SquareTrade product expansion - 2 hours ago
+- [PostOnline] Hiscox warns how tech insurance bubble could burst - 2 hours ago
+- [PostOnline] Biba launches question guidance to reduce disclosure disputes - 2 hours ago
+- [ReinsuranceNews] LMA welcomes Canopius’ Newman to its board - 2 hours ago
+- [PostOnline] Colm Holmes, Allianz UK - 3 hours ago
+- [PostOnline] Louise O’Shea, CFC - 3 hours ago
+- [PostOnline] Paul Lofkin, Crawford - 3 hours ago
+- [PostOnline] Stuart McMurdo, Accredited UK and Europe - 3 hours ago
+- [PostOnline] Steve Tooze, Extinction Rebellion - 3 hours ago
+- [PostOnline] Neil Gibson, Sedgwick - 3 hours ago
+- [PostOnline] Georges De Macedo, Covéa - 3 hours ago
+- [PostOnline] Ant Middle, Ageas - 3 hours ago
+- [PostOnline] Sam White, Stella Insurance - 3 hours ago
+- [PostOnline] Paul Jewell, Bridgehaven - 3 hours ago
+- [PostOnline] Jason Richards, Swiss Re - 3 hours ago
+- [PostOnline] Aki Hussain, Hiscox - 3 hours ago
+- [PostOnline] Matt Brewis, FCA - 3 hours ago
+- [PostOnline] Donna Scully, Carpenters Group - 3 hours ago
+- [PostOnline] Paul Morden, Munich Re - 3 hours ago
+- [PostOnline] Ajay Mistry, iCan - 3 hours ago
+- [PostOnline] Stephanie Ogden, HDI Global - 3 hours ago
+- [InsuranceEdge] New Risks Are Emerging All The Time, Says Report From FERMA - 3 hours ago
+- [PostOnline] Mark Roberts, Chubb - 3 hours ago
+- [InsuranceEdge] SureGo Opens New Office in Malaysia - 3 hours ago
+- [PostOnline] John Bissell, Chartered Institute of Loss Adjusters - 3 hours ago
+- [PostOnline] David Howden, Howden Group - 3 hours ago
+- [InsuranceJournal] People Moves: Everest Promotes Mesagaes to Reinsurance Head of Renewable Energy; Westfield Specialty International Taps Arch’s Poulteney and Kailia for Offshore Energy - 3 hours ago
+- [ReinsuranceNews] Mid-year renewals to mirror January & April trends as property pricing softens: Hannover Re’s Althoff - 3 hours ago
+- [PostOnline] Ken Norgrove, RSA - 3 hours ago
+- [PostOnline] Tara Foley, Axa - 3 hours ago
+- [PostOnline] Sam Woods, Prudential Regulation Authority - 3 hours ago
+- [PostOnline] Michael Rea, Gallagher - 3 hours ago
+- [PostOnline] Alistair Hargreaves, Admiral - 3 hours ago
+- [PostOnline] Adam Winslow, Direct Line - 3 hours ago
+- [PostOnline] Kevin Spencer, Markerstudy - 3 hours ago
+- [PostOnline] Drazen Jaksic, Zurich UK - 3 hours ago
+- [PostOnline] Jane Kielty, Aon UK - 3 hours ago
+- [PostOnline] David Ross, Ardonagh Group - 3 hours ago
+- [PostOnline] Insurance Post’s Power List Top 10 Podcast 2025 - 3 hours ago
+- [PostOnline] Big Interview: Rob Schimek, Bolttech - 3 hours ago
+- [PostOnline] FCA remains a work in progress - 3 hours ago
+- [PostOnline] 60 Seconds With... Woodgate & Clark’s Liam Ball - 3 hours ago
+- [PostOnline] Insurance industry’s most powerful players revealed - 3 hours ago
+- [PostOnline] Power List: Ones to watch in insurance in 2025 - 3 hours ago
+- [PostOnline] What it takes to be a Power List player in 2025 - 3 hours ago
+- [PostOnline] Only one fifth of brokers utilising artificial intelligence - 3 hours ago
+- [PostOnline] Rising mobile phone attachment drives SquareTrade product expansion - 3 hours ago
+- [PostOnline] Hiscox warns how tech insurance bubble could burst - 3 hours ago
+- [InsuranceJournal] German Reinsurers Report Q1 Profits Down Sharply on Los Angeles Wildfire Claims - 3 hours ago
+- [IFAMagazine] Seventy-two per cent of new absentees under group income protection policies returned to work during 2024 - 3 hours ago
+- [PostOnline] Chris Lay, Marsh McLennan - 4 hours ago
+- [PostOnline] Donald Trump and Elon Musk - 4 hours ago
+- [PostOnline] Adrian Cox, Beazley - 4 hours ago
+- [PostOnline] Nick Turner, NFU Mutual - 4 hours ago
+- [PostOnline] Hannah Gurga, ABI and Graeme Trudgill, Biba - 4 hours ago
+- [PostOnline] Matthew Hill, Chartered Insurance Institute - 4 hours ago
+- [PostOnline] Neil Galjaard, Markel UK - 4 hours ago
+- [PostOnline] Jason Storah, Aviva UK - 4 hours ago
+- [PostOnline] Dan Saulter, Davies - 4 hours ago
+- [PostOnline] Matthew Crummack, Domestic & General - 4 hours ago
+- [PostOnline] Jason Richards, Swiss Re - 4 hours ago
+- [PostOnline] Aki Hussain, Hiscox - 4 hours ago
+- [PostOnline] Matt Brewis, FCA - 4 hours ago
+- [PostOnline] Stephanie Ogden, HDI Global - 4 hours ago
+- [PostOnline] John Bissell, Chartered Institute of Loss Adjusters - 4 hours ago
+- [PostOnline] David Howden, Howden Group - 4 hours ago
+- [PostOnline] Mark Roberts, Chubb - 4 hours ago
+- [PostOnline] Ajay Mistry, iCan - 4 hours ago
+- [PostOnline] Paul Morden, Munich Re - 4 hours ago
+- [PostOnline] Donna Scully, Carpenters Group - 4 hours ago
+- [ReinsuranceNews] Zurich Singapore names Yeo as Head of Property & Ong as Head of Financial Lines - 4 hours ago
+- [PostOnline] Colm Holmes, Allianz UK - 4 hours ago
+- [PostOnline] Ant Middle, Ageas - 4 hours ago
+- [PostOnline] Louise O’Shea, CFC - 4 hours ago
+- [PostOnline] Paul Lofkin, Crawford - 4 hours ago
+- [PostOnline] Stuart McMurdo, Accredited UK and Europe - 4 hours ago
+- [PostOnline] Steve Tooze, Extinction Rebellion - 4 hours ago
+- [PostOnline] Neil Gibson, Sedgwick - 4 hours ago
+- [PostOnline] Georges De Macedo, Covéa - 4 hours ago
+- [PostOnline] Sam White, Stella Insurance - 4 hours ago
+- [PostOnline] Paul Jewell, Bridgehaven - 4 hours ago
+- [PostOnline] Adam Winslow, Direct Line - 4 hours ago
+- [PostOnline] David Ross, Ardonagh Group - 4 hours ago
+- [PostOnline] Insurance Post’s Power List Top 10 Podcast 2025 - 4 hours ago
+- [PostOnline] Big Interview: Rob Schimek, Bolttech - 4 hours ago
+- [PostOnline] FCA remains a work in progress - 4 hours ago
+- [PostOnline] 60 Seconds With... Woodgate & Clark’s Liam Ball - 4 hours ago
+- [PostOnline] Insurance industry’s most powerful players revealed - 4 hours ago
+- [PostOnline] Power List: Ones to watch in insurance in 2025 - 4 hours ago
+- [PostOnline] What it takes to be a Power List player in 2025 - 4 hours ago
+- [InsuranceEdge] MarvelX Secures $6m Funding as It Eyes AI Agent Potential - 4 hours ago
+- [PostOnline] Only one fifth of brokers utilising artificial intelligence - 4 hours ago
+- [InsuranceEdge] Preparing Customer Data for Generative AI - 4 hours ago
+- [InsuranceEdge] Hannover Re Results Q1 2025: Cat Losses Take Their Toll - 4 hours ago
+- [PostOnline] Rising mobile phone attachment drives SquareTrade product expansion - 4 hours ago
+- [InsuranceJournal] Is Your Distribution Network Built to Scale? - 4 hours ago
+- [PostOnline] Ken Norgrove, RSA - 5 hours ago
+- [PostOnline] Amanda Blanc, Aviva - 5 hours ago
+- [PostOnline] Tara Foley, Axa - 5 hours ago
+- [PostOnline] Sam Woods, Prudential Regulation Authority - 5 hours ago
+- [PostOnline] Michael Rea, Gallagher - 5 hours ago
+- [PostOnline] Alistair Hargreaves, Admiral - 5 hours ago
+- [PostOnline] Kevin Spencer, Markerstudy - 5 hours ago
+- [PostOnline] Drazen Jaksic, Zurich UK - 5 hours ago
+- [PostOnline] Jane Kielty, Aon UK - 5 hours ago
+- [PostOnline] Matthew Crummack, Domestic & General - 5 hours ago
+- [PostOnline] Jason Richards, Swiss Re - 5 hours ago
+- [PostOnline] Donna Scully, Carpenters Group - 5 hours ago
+- [PostOnline] Aki Hussain, Hiscox - 5 hours ago
+- [PostOnline] Matt Brewis, FCA - 5 hours ago
+- [PostOnline] Stephanie Ogden, HDI Global - 5 hours ago
+- [PostOnline] John Bissell, Chartered Institute of Loss Adjusters - 5 hours ago
+- [PostOnline] David Howden, Howden Group - 5 hours ago
+- [InsuranceJournal] Marks & Spencer Says Hackers Have Stolen Some Customer Data - 5 hours ago
+- [PostOnline] Mark Roberts, Chubb - 5 hours ago
+- [PostOnline] Ajay Mistry, iCan - 5 hours ago
+- [PostOnline] Paul Morden, Munich Re - 5 hours ago
+- [ReinsuranceNews] Willis launches FinTech Plus, a global insurance solution - 5 hours ago
+- [PostOnline] Chris Lay, Marsh McLennan - 5 hours ago
+- [PostOnline] Donald Trump and Elon Musk - 5 hours ago
+- [PostOnline] Adrian Cox, Beazley - 5 hours ago
+- [PostOnline] Nick Turner, NFU Mutual - 5 hours ago
+- [PostOnline] Jason Harris, QBE - 5 hours ago
+- [PostOnline] Hannah Gurga, ABI and Graeme Trudgill, Biba - 5 hours ago
+- [PostOnline] Matthew Hill, Chartered Insurance Institute - 5 hours ago
+- [PostOnline] Neil Galjaard, Markel UK - 5 hours ago
+- [PostOnline] Dan Saulter, Davies - 5 hours ago
+- [PostOnline] Jason Storah, Aviva UK - 5 hours ago
+- [PostOnline] Colm Holmes, Allianz UK - 5 hours ago
+- [PostOnline] David Ross, Ardonagh Group - 5 hours ago
+- [PostOnline] Insurance Post’s Power List Top 10 Podcast 2025 - 5 hours ago
+- [PostOnline] Big Interview: Rob Schimek, Bolttech - 5 hours ago
+- [PostOnline] FCA remains a work in progress - 5 hours ago
+- [PostOnline] 60 Seconds With... Woodgate & Clark’s Liam Ball - 5 hours ago
+- [PostOnline] Insurance industry’s most powerful players revealed - 5 hours ago
+- [PostOnline] Power List: Ones to watch in insurance in 2025 - 5 hours ago
+- [PostOnline] What it takes to be a Power List player in 2025 - 5 hours ago
+- [PostOnline] Only one fifth of brokers utilising artificial intelligence - 5 hours ago
+- [InsuranceEdge] Broker Insights Expands as GWP Passes £10Bn Mark - 5 hours ago
+- [InsuranceEdge] New Report Looks at Misplaced Optimism on Cyber Attacks - 5 hours ago
+- [ReinsuranceNews] Gallagher Re appoints Satoshi Yamazaki as Senior Manager in Tokyo - 5 hours ago
+- [InsuranceEdge] New Cyber Platform From Pen Underwriting - 5 hours ago
+- [PostOnline] Louise O’Shea, CFC - 6 hours ago
+- [PostOnline] Paul Lofkin, Crawford - 6 hours ago
+- [PostOnline] Stuart McMurdo, Accredited UK and Europe - 6 hours ago
+- [PostOnline] Steve Tooze, Extinction Rebellion - 6 hours ago
+- [PostOnline] Neil Gibson, Sedgwick - 6 hours ago
+- [PostOnline] Georges De Macedo, Covéa - 6 hours ago
+- [PostOnline] Ant Middle, Ageas - 6 hours ago
+- [PostOnline] Sam White, Stella Insurance - 6 hours ago
+- [PostOnline] Paul Jewell, Bridgehaven - 6 hours ago
+- [PostOnline] Adam Winslow, Direct Line - 6 hours ago
+- [PostOnline] Drazen Jaksic, Zurich UK - 6 hours ago
+- [PostOnline] Jane Kielty, Aon UK - 6 hours ago
+- [PostOnline] Matthew Crummack, Domestic & General - 6 hours ago
+- [PostOnline] Jason Richards, Swiss Re - 6 hours ago
+- [PostOnline] Donna Scully, Carpenters Group - 6 hours ago
+- [PostOnline] Aki Hussain, Hiscox - 6 hours ago
+- [InsuranceJournal] Carrier Management announces agenda and speakers for its 2025 InsurTech Summit - 6 hours ago
+- [PostOnline] Matt Brewis, FCA - 6 hours ago
+- [InsuranceJournal] Heathrow Fire Timeline Set Out as Grid Security Focus Sharpens - 6 hours ago
+- [PostOnline] Stephanie Ogden, HDI Global - 6 hours ago
+- [PostOnline] John Bissell, Chartered Institute of Loss Adjusters - 6 hours ago
+- [PostOnline] Mark Roberts, Chubb - 6 hours ago
+- [ReinsuranceNews] Hannover Re stays profitable in Q1’25 amid elevated catastrophe claims - 6 hours ago
+- [InsuranceEdge] DAC Beachcroft Partners With Gilchrist Connell in Australia - 6 hours ago
+- [PostOnline] Ken Norgrove, RSA - 6 hours ago
+- [PostOnline] Amanda Blanc, Aviva - 6 hours ago
+- [PostOnline] Tara Foley, Axa - 6 hours ago
+- [PostOnline] Sam Woods, Prudential Regulation Authority - 6 hours ago
+- [PostOnline] Michael Rea, Gallagher - 6 hours ago
+- [PostOnline] Alistair Hargreaves, Admiral - 6 hours ago
+- [PostOnline] Kevin Spencer, Markerstudy - 6 hours ago
+- [PostOnline] David Howden, Howden Group - 6 hours ago
+- [PostOnline] Ajay Mistry, iCan - 6 hours ago
+- [PostOnline] Paul Morden, Munich Re - 6 hours ago
+- [InsuranceJournal] Recovery of Superyacht Bayesian off Sicily Suspended After Diver Dies - 6 hours ago
+- [PostOnline] Colm Holmes, Allianz UK - 6 hours ago
+- [PostOnline] David Ross, Ardonagh Group - 6 hours ago
+- [InsuranceJournal] Newark Plane Traffic Slowed Again Due to Telecoms Issue, FAA Says - 6 hours ago
+- [PostOnline] Insurance Post’s Power List Top 10 Podcast 2025 - 6 hours ago
+- [InsuranceEdge] Brits Love to Complain, But Insurance Just Makes it Too Easy - 6 hours ago
+- [InsuranceJournal] Labor Market Stays Resilient, but Workers Less Productive in Q1 - 6 hours ago
+- [PostOnline] Big Interview: Rob Schimek, Bolttech - 6 hours ago
+- [InsuranceJournal] Tesla Driver Charged in California Attacks Arrested Again for Road Rage in Hawaii - 6 hours ago
+- [PostOnline] FCA remains a work in progress - 6 hours ago
+- [PostOnline] 60 Seconds With... Woodgate & Clark’s Liam Ball - 6 hours ago
+- [PostOnline] Insurance industry’s most powerful players revealed - 6 hours ago
+- [PostOnline] Power List: Ones to watch in insurance in 2025 - 6 hours ago
+- [PostOnline] What it takes to be a Power List player in 2025 - 6 hours ago
+- [PostOnline] Only one fifth of brokers utilising artificial intelligence - 6 hours ago
+- [PostOnline] Chris Lay, Marsh McLennan - 7 hours ago
+- [PostOnline] Donald Trump and Elon Musk - 7 hours ago
+- [PostOnline] Adrian Cox, Beazley - 7 hours ago
+- [PostOnline] Nick Turner, NFU Mutual - 7 hours ago
+- [PostOnline] Jason Harris, QBE - 7 hours ago
+- [PostOnline] Hannah Gurga, ABI and Graeme Trudgill, Biba - 7 hours ago
+- [PostOnline] Matthew Hill, Chartered Insurance Institute - 7 hours ago
+- [PostOnline] Neil Galjaard, Markel UK - 7 hours ago
+- [PostOnline] Dan Saulter, Davies - 7 hours ago
+- [PostOnline] Jason Storah, Aviva UK - 7 hours ago
+- [PostOnline] Louise O’Shea, CFC - 7 hours ago
+- [PostOnline] Paul Lofkin, Crawford - 7 hours ago
+- [PostOnline] Stuart McMurdo, Accredited UK and Europe - 7 hours ago
+- [PostOnline] Steve Tooze, Extinction Rebellion - 7 hours ago
+- [PostOnline] Neil Gibson, Sedgwick - 7 hours ago
+- [PostOnline] Georges De Macedo, Covéa - 7 hours ago
+- [InsuranceJournal] Drug Companies Paying Hawaii $700 Million to Settle Plavix Blood Thinner Suit - 7 hours ago
+- [PostOnline] Ant Middle, Ageas - 7 hours ago
+- [InsuranceJournal] Tornadoes, Winds, Rain Hit Florida Panhandle and Parts of Alabama - 7 hours ago
+- [PostOnline] Sam White, Stella Insurance - 7 hours ago
+- [InsuranceJournal] Markets/Coverages: Markel Launches Clinical Trials Cover to Support Research Globally - 7 hours ago
+- [PostOnline] Paul Jewell, Bridgehaven - 7 hours ago
+- [InsuranceJournal] Insurer Coalition: Costs From Business Email Compromise Rise in 2024 - 7 hours ago
+- [PostOnline] Adam Winslow, Direct Line - 7 hours ago
+- [PostOnline] Drazen Jaksic, Zurich UK - 7 hours ago
+- [PostOnline] Jane Kielty, Aon UK - 7 hours ago
+- [PostOnline] Matthew Crummack, Domestic & General - 7 hours ago
+- [PostOnline] Jason Richards, Swiss Re - 7 hours ago
+- [PostOnline] Donna Scully, Carpenters Group - 7 hours ago
+- [PostOnline] Aki Hussain, Hiscox - 7 hours ago
+- [PostOnline] Matt Brewis, FCA - 7 hours ago
+- [PostOnline] Stephanie Ogden, HDI Global - 7 hours ago
+- [PostOnline] John Bissell, Chartered Institute of Loss Adjusters - 7 hours ago
+- [PostOnline] Mark Roberts, Chubb - 7 hours ago
+- [PostOnline] Ajay Mistry, iCan - 7 hours ago
+- [PostOnline] Paul Morden, Munich Re - 7 hours ago
+- [PostOnline] David Ross, Ardonagh Group - 7 hours ago
+- [PostOnline] Only one fifth of brokers utilising artificial intelligence - 7 hours ago
+- [ReinsuranceNews] Munich Re posts Q1’25 net result of €1.1bn, maintains FY profit guidance despite LA wildfire loss - 7 hours ago
+- [InsuranceJournal] Hub to Get $1.6B Minority Investment, Valuing Company at $29B - 7 hours ago
+- [InsuranceJournal] Chinese Exporters Elated by Reprieve in US-China Trade War - 7 hours ago
+- [InsuranceJournal] Markets/Coverages: QBE Starts New Commercial Property Product for Large Companies - 7 hours ago
+- [InsuranceJournal] FM Clients to Receive Share of $1 Billion in ‘Membership Credits’ - 7 hours ago
+- [PostOnline] Alistair Hargreaves, Admiral - 8 hours ago
+- [PostOnline] Michael Rea, Gallagher - 8 hours ago
+- [PostOnline] Kevin Spencer, Markerstudy - 8 hours ago
+- [PostOnline] Colm Holmes, Allianz UK - 8 hours ago
+- [InsuranceJournal] London Workers Hit by Travel Disruption After Power Outage - 8 hours ago
+- [PostOnline] Ken Norgrove, RSA - 8 hours ago
+- [InsuranceJournal] Space War: Marsh Sues Willis Over Aviation Insurance Hires Soliciting Clients - 8 hours ago
+- [PostOnline] Tara Foley, Axa - 8 hours ago
+- [InsuranceJournal] Report Describes Final Moments of Plane Crash That Killed Massachusetts Family - 8 hours ago
+- [PostOnline] Insurance Post’s Power List Top 10 Podcast 2025 - 8 hours ago
+- [PostOnline] Big Interview: Rob Schimek, Bolttech - 8 hours ago
+- [PostOnline] FCA remains a work in progress - 8 hours ago
+- [PostOnline] 60 Seconds With... Woodgate & Clark’s Liam Ball - 8 hours ago
+- [PostOnline] Insurance industry’s most powerful players revealed - 8 hours ago
+- [PostOnline] Power List: Ones to watch in insurance in 2025 - 8 hours ago
+- [PostOnline] What it takes to be a Power List player in 2025 - 8 hours ago
+- [ReinsuranceNews] HSBC’s Wayfoong becomes Hong Kong first captive insurer formed by a multinational enterprise - 8 hours ago
+- [InsuranceJournal] Family of Helicopter Pilot Killed in California Wildfire Reaches $15M Settlement - 8 hours ago
+- [InsuranceJournal] Police: Truck Crossed Center Line in Crash With Tour Van That Killed 7 Near Yellowstone - 8 hours ago
+- [InsuranceJournal] Texas Insurance Fraudster Given Prison Sentence and $350K Fine - 8 hours ago
+- [InsuranceJournal] Wisconsin Republicans Kill Cannabis Legalization And Tax Increases for Millionaires - 8 hours ago
+- [InsuranceJournal] Labor Department Suing USPS Over Fired Texas Worker Who Reported Injury - 8 hours ago
+- [InsuranceJournal] Appeals Court: Florida Deputy Used Excessive Force and is Not Immune from Suit - 8 hours ago
+- [InsuranceJournal] SEC Chair Says Agency Plans to Create New Rules for Crypto Tokens - 8 hours ago
+- [ReinsuranceNews] AM Best maintains stable outlook for Chile’s insurance industry amid regulatory advancements - 9 hours ago
+- [PostOnline] David Howden, Howden Group - 9 hours ago
+- [PostOnline] Amanda Blanc, Aviva - 9 hours ago
+- [PostOnline] Sam Woods, Prudential Regulation Authority - 9 hours ago
+- [InsuranceEdge] AXA Launches Management Liability Prevent & Protect - 18 hours ago
+- [InsuranceEdge] Decant Teams Up With Embri on Collectable Whisky - 18 hours ago
+- [FCA] AI through a different lens: what 115 experts taught us about AI innovation - 18 hours ago
+- [FCA] Seventy percent cut in capital rules red tape - 18 hours ago
 
 
 <!-- Insure end -->
