@@ -10,18 +10,18 @@ permissions:
     contents: read
 
 jobs:
-    ModernInsurance:
+    InsuranceBusinessMagazine:
         runs-on: ubuntu-latest
         steps:
             - uses: guilhem/rss-issues-action@0.5.2
               continue-on-error: true
               with:
                   repo-token: ${{ secrets.GITHUB_TOKEN }}
-                  feed: "https://moderninsurancemagazine.co.uk/bits-blogs-insurance-news-uk/"
-                  prefix: "[ModernInsurance]"
+                  feed: "https://www.insurancebusinessmag.com/uk/rss/"
+                  prefix: "[InsuranceBusinessMagazine]"
                   dry-run: "false"
                   lastTime: "24h"
-                  labels: "ModernInsurance"
+                  labels: "InsuranceBusinessMagazine"
     Accenture:
         runs-on: ubuntu-latest
         steps:
@@ -58,18 +58,6 @@ jobs:
                   dry-run: "false"
                   lastTime: "24h"
                   labels: "FintechGlobal"
-    InsuranceBusiness:
-        runs-on: ubuntu-latest
-        steps:
-            - uses: guilhem/rss-issues-action@0.5.2
-              continue-on-error: true
-              with:
-                  repo-token: ${{ secrets.GITHUB_TOKEN }}
-                  feed: "https://www.insurancebusinessmag.com/uk/feed/"
-                  prefix: "[InsuranceBusiness]"
-                  dry-run: "false"
-                  lastTime: "24h"
-                  labels: "InsuranceBusiness"
     InsuranceTimes:
         runs-on: ubuntu-latest
         steps:
@@ -139,23 +127,11 @@ jobs:
               continue-on-error: true
               with:
                   repo-token: ${{ secrets.GITHUB_TOKEN }}
-                  feed: "https://www.dig-in.com/feed"
+                  feed: "https://www.dig-in.com/feed.rss"
                   prefix: "[DigitalInsurance]"
                   dry-run: "false"
                   lastTime: "24h"
                   labels: "DigitalInsurance"
-    TheActuary:
-        runs-on: ubuntu-latest
-        steps:
-            - uses: guilhem/rss-issues-action@0.5.2
-              continue-on-error: true
-              with:
-                  repo-token: ${{ secrets.GITHUB_TOKEN }}
-                  feed: "https://www.theactuary.com/feed/"
-                  prefix: "[TheActuary]"
-                  dry-run: "false"
-                  lastTime: "24h"
-                  labels: "TheActuary"
     InsuranceEdge:
         runs-on: ubuntu-latest
         steps:
@@ -168,18 +144,18 @@ jobs:
                   dry-run: "false"
                   lastTime: "24h"
                   labels: "InsuranceEdge"
-    ABINews:
+    FinTechTimes:
         runs-on: ubuntu-latest
         steps:
             - uses: guilhem/rss-issues-action@0.5.2
               continue-on-error: true
               with:
                   repo-token: ${{ secrets.GITHUB_TOKEN }}
-                  feed: "https://www.abi.org.uk/news/rss/"
-                  prefix: "[ABINews]"
+                  feed: "https://thefintechtimes.com/category/fintech/insurtech/feed/"
+                  prefix: "[FinTechTimes]"
                   dry-run: "false"
                   lastTime: "24h"
-                  labels: "ABINews"
+                  labels: "FinTechTimes"
     InsurTechInsights:
         runs-on: ubuntu-latest
         steps:
