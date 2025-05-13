@@ -10,6 +10,18 @@ permissions:
     contents: read
 
 jobs:
+    ActuarialPost:
+        runs-on: ubuntu-latest
+        steps:
+            - uses: guilhem/rss-issues-action@0.5.2
+              continue-on-error: true
+              with:
+                  repo-token: ${{ secrets.GITHUB_TOKEN }}
+                  feed: "https://www.actuarialpost.co.uk/rss_news/actuarialpost.xml"
+                  prefix: "[ActuarialPost]"
+                  dry-run: "false"
+                  lastTime: "24h"
+                  labels: "ActuarialPost"
     InsuranceBusinessMagazine:
         runs-on: ubuntu-latest
         steps:
