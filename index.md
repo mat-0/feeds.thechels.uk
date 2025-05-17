@@ -9,12 +9,12 @@ description: Latest Updates
 
 <!-- news_marker starts -->
 - Flood and Subsidence Claims Are on The Rise in The UK ([9 hours ago](https://insurance-edge.net/2025/05/17/flood-and-subsidence-claims-are-on-the-rise-in-the-uk/))
-- Severe Storm Batters St. Louis, Leaving At Least 4 Dead ([14 hours ago](https://www.insurancejournal.com/news/midwest/2025/05/16/824121.htm))
-- Edison Plans $6.2 Billion Fire-Prevention Plan After LA Blazes ([19 hours ago](https://www.insurancejournal.com/news/west/2025/05/16/824114.htm))
+- Severe Storm Batters St. Louis, Leaving At Least 4 Dead ([15 hours ago](https://www.insurancejournal.com/news/midwest/2025/05/16/824121.htm))
+- Edison Plans $6.2 Billion Fire-Prevention Plan After LA Blazes ([20 hours ago](https://www.insurancejournal.com/news/west/2025/05/16/824114.htm))
 - Guidewire Releases Study on EU Customer Attitudes Towards Insurers ([20 hours ago](https://insurance-edge.net/2025/05/16/guidewire-releases-study-on-eu-customer-attitudes-towards-insurers/))
 - Farmer Fined After Quadbike Tragedy ([21 hours ago](https://insurance-edge.net/2025/05/16/farmer-fined-after-quadbike-tragedy/))
 - IFB Warns On Ghost Brokers Using Social Media Channels ([21 hours ago](https://insurance-edge.net/2025/05/16/ifb-warns-on-ghost-brokers-using-social-media-channels/))
-- 6 Things to Know About Casino Insurance in 2025 ([21 hours ago](https://insurance-edge.net/2025/05/16/6-things-to-know-about-casino-insurance-in-2025/))
+- 6 Things to Know About Casino Insurance in 2025 ([22 hours ago](https://insurance-edge.net/2025/05/16/6-things-to-know-about-casino-insurance-in-2025/))
 - CIAB reports moderation in commercial insurance premium increases for Q1’25 ([1 days ago](https://www.reinsurancene.ws/ciab-reports-moderation-in-commercial-insurance-premium-increases-for-q125/))
 - Widow of Arkansas Airport Director Killed in Raid Sues ATF Over Husband’s Death ([1 days ago](https://www.insurancejournal.com/news/southcentral/2025/05/16/824097.htm))
 - Severe Storms Sweep Through Midwest, Leaving Thousands Without Power ([1 days ago](https://www.insurancejournal.com/news/midwest/2025/05/16/824092.htm))
