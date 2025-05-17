@@ -8,10 +8,10 @@ description: Latest Updates
 [Get this as an RSS feed](/feed.rss)
 
 <!-- news_marker starts -->
-- Flood and Subsidence Claims Are on The Rise in The UK ([12 hours ago](https://insurance-edge.net/2025/05/17/flood-and-subsidence-claims-are-on-the-rise-in-the-uk/))
+- Flood and Subsidence Claims Are on The Rise in The UK ([13 hours ago](https://insurance-edge.net/2025/05/17/flood-and-subsidence-claims-are-on-the-rise-in-the-uk/))
 - Severe Storm Batters St. Louis, Leaving At Least 4 Dead ([18 hours ago](https://www.insurancejournal.com/news/midwest/2025/05/16/824121.htm))
 - Edison Plans $6.2 Billion Fire-Prevention Plan After LA Blazes ([23 hours ago](https://www.insurancejournal.com/news/west/2025/05/16/824114.htm))
-- Guidewire Releases Study on EU Customer Attitudes Towards Insurers ([23 hours ago](https://insurance-edge.net/2025/05/16/guidewire-releases-study-on-eu-customer-attitudes-towards-insurers/))
+- Guidewire Releases Study on EU Customer Attitudes Towards Insurers ([1 days ago](https://insurance-edge.net/2025/05/16/guidewire-releases-study-on-eu-customer-attitudes-towards-insurers/))
 - Farmer Fined After Quadbike Tragedy ([1 days ago](https://insurance-edge.net/2025/05/16/farmer-fined-after-quadbike-tragedy/))
 - IFB Warns On Ghost Brokers Using Social Media Channels ([1 days ago](https://insurance-edge.net/2025/05/16/ifb-warns-on-ghost-brokers-using-social-media-channels/))
 - 6 Things to Know About Casino Insurance in 2025 ([1 days ago](https://insurance-edge.net/2025/05/16/6-things-to-know-about-casino-insurance-in-2025/))
