@@ -8,8 +8,8 @@ description: Latest Updates
 [Get this as an RSS feed](/feed.rss)
 
 <!-- news_marker starts -->
-- Flood and Subsidence Claims Are on The Rise in The UK ([15 hours ago](https://insurance-edge.net/2025/05/17/flood-and-subsidence-claims-are-on-the-rise-in-the-uk/))
-- Severe Storm Batters St. Louis, Leaving At Least 4 Dead ([20 hours ago](https://www.insurancejournal.com/news/midwest/2025/05/16/824121.htm))
+- Flood and Subsidence Claims Are on The Rise in The UK ([16 hours ago](https://insurance-edge.net/2025/05/17/flood-and-subsidence-claims-are-on-the-rise-in-the-uk/))
+- Severe Storm Batters St. Louis, Leaving At Least 4 Dead ([21 hours ago](https://www.insurancejournal.com/news/midwest/2025/05/16/824121.htm))
 - Edison Plans $6.2 Billion Fire-Prevention Plan After LA Blazes ([1 days ago](https://www.insurancejournal.com/news/west/2025/05/16/824114.htm))
 - Guidewire Releases Study on EU Customer Attitudes Towards Insurers ([1 days ago](https://insurance-edge.net/2025/05/16/guidewire-releases-study-on-eu-customer-attitudes-towards-insurers/))
 - Farmer Fined After Quadbike Tragedy ([1 days ago](https://insurance-edge.net/2025/05/16/farmer-fined-after-quadbike-tragedy/))
