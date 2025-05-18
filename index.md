@@ -8,7 +8,7 @@ description: Latest Updates
 [Get this as an RSS feed](/feed.rss)
 
 <!-- news_marker starts -->
-- Flood and Subsidence Claims Are on The Rise in The UK ([22 hours ago](https://insurance-edge.net/2025/05/17/flood-and-subsidence-claims-are-on-the-rise-in-the-uk/))
+- Flood and Subsidence Claims Are on The Rise in The UK ([23 hours ago](https://insurance-edge.net/2025/05/17/flood-and-subsidence-claims-are-on-the-rise-in-the-uk/))
 - Severe Storm Batters St. Louis, Leaving At Least 4 Dead ([1 days ago](https://www.insurancejournal.com/news/midwest/2025/05/16/824121.htm))
 - Edison Plans $6.2 Billion Fire-Prevention Plan After LA Blazes ([1 days ago](https://www.insurancejournal.com/news/west/2025/05/16/824114.htm))
 - Guidewire Releases Study on EU Customer Attitudes Towards Insurers ([1 days ago](https://insurance-edge.net/2025/05/16/guidewire-releases-study-on-eu-customer-attitudes-towards-insurers/))
@@ -54,7 +54,7 @@ description: Latest Updates
 - Sanjay Mehra joins Gallagher India as Head of Marine ([1 days ago](https://www.reinsurancene.ws/sanjay-mehra-joins-gallagher-india-as-head-of-marine/))
 - FCA hopes firms will gain confidence with fewer rules ([1 days ago](https://www.postonline.co.uk/news/7957766/fca-hopes-firms-will-gain-confidence-with-fewer-rules))
 - It’s still attractive but start of softening cycle is clear: Malmström, Swiss Re CFO ([1 days ago](https://www.reinsurancene.ws/its-still-attractive-but-start-of-softening-cycle-is-clear-malmstrom-swiss-re-cfo/))
-- Rogue Communication Devices Found in Chinese Solar Power Inverters ([1 days ago](https://www.insurancejournal.com/news/international/2025/05/16/824006.htm))
+- Rogue Communication Devices Found in Chinese Solar Power Inverters ([2 days ago](https://www.insurancejournal.com/news/international/2025/05/16/824006.htm))
 - Cyberattack-Hit M&S Says Food Availability Improving Every Day ([2 days ago](https://www.insurancejournal.com/news/international/2025/05/16/824002.htm))
 - Morton Salt Settles Ohio Discrimination Case With $75,000 Payment ([2 days ago](https://www.insurancejournal.com/news/midwest/2025/05/16/823999.htm))
 - Christian Dior Couture Client Data Breached in Cyberattack ([2 days ago](https://www.insurancejournal.com/news/national/2025/05/16/823975.htm))
