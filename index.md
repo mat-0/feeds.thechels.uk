@@ -8,7 +8,7 @@ description: Latest Updates
 [Get this as an RSS feed](/feed.rss)
 
 <!-- news_marker starts -->
-- Flood and Subsidence Claims Are on The Rise in The UK ([23 hours ago](https://insurance-edge.net/2025/05/17/flood-and-subsidence-claims-are-on-the-rise-in-the-uk/))
+- Flood and Subsidence Claims Are on The Rise in The UK ([1 days ago](https://insurance-edge.net/2025/05/17/flood-and-subsidence-claims-are-on-the-rise-in-the-uk/))
 - Severe Storm Batters St. Louis, Leaving At Least 4 Dead ([1 days ago](https://www.insurancejournal.com/news/midwest/2025/05/16/824121.htm))
 - Edison Plans $6.2 Billion Fire-Prevention Plan After LA Blazes ([1 days ago](https://www.insurancejournal.com/news/west/2025/05/16/824114.htm))
 - Guidewire Releases Study on EU Customer Attitudes Towards Insurers ([1 days ago](https://insurance-edge.net/2025/05/16/guidewire-releases-study-on-eu-customer-attitudes-towards-insurers/))
@@ -110,7 +110,7 @@ description: Latest Updates
 - Biba launches ‘Ben the Broker’ advert campaign ([3 days ago](https://www.postonline.co.uk/broker/7957742/biba-launches-ben-the-broker-advert-campaign))
 - CMA launches probe into Aviva’s takeover of Direct Line ([3 days ago](https://www.postonline.co.uk/regulation/7957748/cma-launches-probe-into-avivas-takeover-of-direct-line))
 - Bestow Secures $120 Million in Series D to Drive Life Insurance Tech Expansion ([3 days ago](https://www.insurtechinsights.com/bestow-secures-120-million-in-series-d-to-drive-life-insurance-tech-expansion/))
-- Thomas Carroll keeping door open to expansion and M&A ([3 days ago](https://www.postonline.co.uk/broker/7957710/thomas-carroll-keeping-door-open-to-expansion-and-ma))
+- Thomas Carroll keeping door open to expansion and M&A ([4 days ago](https://www.postonline.co.uk/broker/7957710/thomas-carroll-keeping-door-open-to-expansion-and-ma))
 - Blog: Why digital transformation fails – and how insurers can flip the script ([4 days ago](https://www.postonline.co.uk/market-access/technology/7957641/blog-why-digital-transformation-fails-and-how-insurers-can-flip-the-script))
 - Why legacy tech is a key driver of M&A in insurance ([4 days ago](https://www.postonline.co.uk/technology/7957402/why-legacy-tech-is-a-key-driver-of-ma-in-insurance))
 - What is making waves in marine insurance ([4 days ago](https://www.postonline.co.uk/commercial/7957426/what-is-making-waves-in-marine-insurance))
@@ -129,7 +129,6 @@ description: Latest Updates
 - New L&G data reveals value of technology to long-term absence management ([17 days ago](https://ifamagazine.com/new-lg-data-reveals-value-of-technology-to-long-term-absence-management/))
 - Canada Life reveals some of the most common estate planning misconceptions ([18 days ago](https://ifamagazine.com/some-of-the-most-common-estate-planning-misconceptions-revealed/))
 - L&G bolsters protection proposition with series of product enhancements ([19 days ago](https://ifamagazine.com/lg-bolsters-protection-proposition-with-series-of-product-enhancements/))
-- Guardian – critical illness cover upgrade, CIExpert responds ([24 days ago](https://ifamagazine.com/guardian-critical-illness-cover-upgrade-ciexpert-responds/))
-- Crawford Leverages CRIF Open Banking Tech to Speed up Insurance Claims ([29 days ago](https://thefintechtimes.com/crawford-leverages-crif-open-banking-tech-to-speed-up-insurance-claims/))
+- Guardian – critical illness cover upgrade, CIExpert responds ([25 days ago](https://ifamagazine.com/guardian-critical-illness-cover-upgrade-ciexpert-responds/))
 
 <!-- news_marker ends -->
