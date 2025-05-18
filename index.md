@@ -8,6 +8,7 @@ description: Latest Updates
 [Get this as an RSS feed](/feed.rss)
 
 <!-- news_marker starts -->
+- Independent agents need data support to use agentic AI ([3 minutes ago](https://www.dig-in.com/news/independent-agents-need-data-support-to-use-agentic-ai))
 - Flood and Subsidence Claims Are on The Rise in The UK ([1 days ago](https://insurance-edge.net/2025/05/17/flood-and-subsidence-claims-are-on-the-rise-in-the-uk/))
 - Severe Storm Batters St. Louis, Leaving At Least 4 Dead ([1 days ago](https://www.insurancejournal.com/news/midwest/2025/05/16/824121.htm))
 - Edison Plans $6.2 Billion Fire-Prevention Plan After LA Blazes ([1 days ago](https://www.insurancejournal.com/news/west/2025/05/16/824114.htm))
@@ -70,7 +71,7 @@ description: Latest Updates
 - What Tiernan will find in the Lloyd's CEO in-tray ([2 days ago](https://www.postonline.co.uk/lloydslondon/7957720/what-tiernan-will-find-in-the-lloyds-ceo-in-tray))
 - How insurers can use systemic risk knowledge internally ([2 days ago](https://www.dig-in.com/opinion/how-insurers-can-use-systemic-risk-knowledge-internally))
 - Marsh McLennan moves to Amazon cloud; ZestyAI in Connecticut and West Virginia: Insurtech news ([2 days ago](https://www.dig-in.com/news/marsh-mclennan-to-amazon-cloud-zestyai-and-insurtech-news))
-- WTW report exposes shifting terrorism insurance risks ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/wtw-report-exposes-shifting-terrorism-insurance-risks-535909.aspx))
+- WTW report exposes shifting terrorism insurance risks ([3 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/wtw-report-exposes-shifting-terrorism-insurance-risks-535909.aspx))
 - Tiernan calls out ‘egregious trading behaviours’ at Lloyd’s ([3 days ago](https://www.postonline.co.uk/lloydslondon/7957765/tiernan-calls-out-egregious-trading-behaviours-at-lloyds))
 - Nationwide Partners with Kadance to Offer Genomics-Based Precision Health to Life Insurance Customers ([3 days ago](https://www.insurtechinsights.com/nationwide-partners-with-kadance-to-offer-genomics-based-precision-health-to-life-insurance-customers/))
 - Africa startups to seek new backers ([3 days ago](https://www.dig-in.com/articles/africa-startups-to-seek-new-backers))
@@ -118,7 +119,6 @@ description: Latest Updates
 - FCA strips back insurance rulebook ([4 days ago](https://www.postonline.co.uk/news/7957740/fca-strips-back-insurance-rulebook))
 - State Farm emergency rate increase approved in California ([4 days ago](https://www.dig-in.com/news/state-farm-emergency-rate-increase-approved-in-california))
 - Global insured losses exceed $100 billion annually, Geneva Association ([4 days ago](https://www.dig-in.com/news/global-insured-losses-exceed-100-billion-annually))
-- Allstate joins the Chicago Quantum Exchange as corporate partner ([4 days ago](https://www.dig-in.com/news/allstate-chicago-quantum-exchange-partner-on-quantum-and-ai))
 - Mike McGavick Joins mea Platform as Board Chairman and Strategic Advisor ([5 days ago](https://www.insurtechinsights.com/mike-mcgavick-joins-mea-platform-as-board-chairman-and-strategic-advisor/))
 - Seventy-two per cent of new absentees under group income protection policies returned to work during 2024 ([5 days ago](https://ifamagazine.com/seventy-two-per-cent-of-new-absentees-under-group-income-protection-policies-returned-to-work-during-2024/))
 - OneFamily celebrates fifty years of inspiring better futures ([6 days ago](https://ifamagazine.com/onefamily-celebrates-fifty-years-of-inspiring-better-futures/))
