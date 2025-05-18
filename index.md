@@ -8,7 +8,7 @@ description: Latest Updates
 [Get this as an RSS feed](/feed.rss)
 
 <!-- news_marker starts -->
-- Independent agents need data support to use agentic AI ([3 minutes ago](https://www.dig-in.com/news/independent-agents-need-data-support-to-use-agentic-ai))
+- Independent agents need data support to use agentic AI ([32 minutes ago](https://www.dig-in.com/news/independent-agents-need-data-support-to-use-agentic-ai))
 - Flood and Subsidence Claims Are on The Rise in The UK ([1 days ago](https://insurance-edge.net/2025/05/17/flood-and-subsidence-claims-are-on-the-rise-in-the-uk/))
 - Severe Storm Batters St. Louis, Leaving At Least 4 Dead ([1 days ago](https://www.insurancejournal.com/news/midwest/2025/05/16/824121.htm))
 - Edison Plans $6.2 Billion Fire-Prevention Plan After LA Blazes ([1 days ago](https://www.insurancejournal.com/news/west/2025/05/16/824114.htm))
@@ -70,7 +70,7 @@ description: Latest Updates
 - Penny Black’s Social Diary: Markerstudy’s premiere; iCan’s lassi ([2 days ago](https://www.postonline.co.uk/people/7957568/penny-blacks-social-diary-markerstudys-premiere-icans-lassi))
 - What Tiernan will find in the Lloyd's CEO in-tray ([2 days ago](https://www.postonline.co.uk/lloydslondon/7957720/what-tiernan-will-find-in-the-lloyds-ceo-in-tray))
 - How insurers can use systemic risk knowledge internally ([2 days ago](https://www.dig-in.com/opinion/how-insurers-can-use-systemic-risk-knowledge-internally))
-- Marsh McLennan moves to Amazon cloud; ZestyAI in Connecticut and West Virginia: Insurtech news ([2 days ago](https://www.dig-in.com/news/marsh-mclennan-to-amazon-cloud-zestyai-and-insurtech-news))
+- Marsh McLennan moves to Amazon cloud; ZestyAI in Connecticut and West Virginia: Insurtech news ([3 days ago](https://www.dig-in.com/news/marsh-mclennan-to-amazon-cloud-zestyai-and-insurtech-news))
 - WTW report exposes shifting terrorism insurance risks ([3 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/wtw-report-exposes-shifting-terrorism-insurance-risks-535909.aspx))
 - Tiernan calls out ‘egregious trading behaviours’ at Lloyd’s ([3 days ago](https://www.postonline.co.uk/lloydslondon/7957765/tiernan-calls-out-egregious-trading-behaviours-at-lloyds))
 - Nationwide Partners with Kadance to Offer Genomics-Based Precision Health to Life Insurance Customers ([3 days ago](https://www.insurtechinsights.com/nationwide-partners-with-kadance-to-offer-genomics-based-precision-health-to-life-insurance-customers/))
@@ -96,8 +96,8 @@ description: Latest Updates
 - Throwback Thursday: CII card woes; Hiscox grows ([3 days ago](https://www.postonline.co.uk/personal/7956604/throwback-thursday-cii-card-woes-hiscox-grows))
 - Why blaming hybrid working for productivity problems is too easy ([3 days ago](https://www.postonline.co.uk/people/7957728/why-blaming-hybrid-working-for-productivity-problems-is-too-easy))
 - Digital is primary tool for customers to purchase insurance: J.D. Power ([3 days ago](https://www.dig-in.com/news/customers-prefer-buying-insurance-digitally-says-j-d-power))
-- Trust issues stall insurers' plans for youth, AI growth – GlobalData ([3 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/trust-issues-stall-insurers-plans-for-youth-ai-growth--globaldata-535747.aspx))
-- How AI detection can change risk assessments ([3 days ago](https://www.dig-in.com/opinion/how-ai-detection-can-change-risk-assessments))
+- Trust issues stall insurers' plans for youth, AI growth – GlobalData ([4 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/trust-issues-stall-insurers-plans-for-youth-ai-growth--globaldata-535747.aspx))
+- How AI detection can change risk assessments ([4 days ago](https://www.dig-in.com/opinion/how-ai-detection-can-change-risk-assessments))
 - Neutrinos Secures Major AI Underwriting Transformation Deal with Fortune 500 Life Insurer ([4 days ago](https://www.insurtechinsights.com/neutrinos-secures-major-ai-underwriting-transformation-deal-with-fortune-500-life-insurer/))
 - AI and MGAs have role to play in new era for insurance broking ([4 days ago](https://www.postonline.co.uk/technology/7957751/ai-and-mgas-have-role-to-play-in-new-era-for-insurance-broking))
 - Encova Insurance Appoints Ramu Lingala as Chief Information Officer ([4 days ago](https://www.insurtechinsights.com/encova-insurance-appoints-ramu-lingala-as-chief-information-officer/))
