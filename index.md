@@ -22,7 +22,7 @@ description: Latest Updates
 - Louisiana Plant at Center of Environmental Justice Fight Halts Operations ([1 days ago](https://www.insurancejournal.com/news/southcentral/2025/05/16/824085.htm))
 - Florida High Court Lets Stand Ruling on Damage Estimates in Supplemental Claims ([1 days ago](https://www.insurancejournal.com/news/southeast/2025/05/16/824076.htm))
 - Basel Committee resists US pressure to downplay climate risk ([1 days ago](https://www.dig-in.com/articles/basel-committee-resists-us-pressure-to-downplay-climate-risk))
-- Property & nat cat lines competitive but environment remains healthy: Swiss Re CEO ([1 days ago](https://www.reinsurancene.ws/property-nat-cat-lines-competitive-but-environment-remains-healthy-swiss-re-ceo/))
+- Property & nat cat lines competitive but environment remains healthy: Swiss Re CEO ([2 days ago](https://www.reinsurancene.ws/property-nat-cat-lines-competitive-but-environment-remains-healthy-swiss-re-ceo/))
 - Lloyd’s Has ‘Laser Focus’ on Oversight of Coverholders to Proactively Avoid Market Risk ([2 days ago](https://www.insurancejournal.com/news/international/2025/05/16/824065.htm))
 - Concirrus appoints O’Reilly to drive AI product innovation & business growth ([2 days ago](https://www.reinsurancene.ws/concirrus-appoints-oreilly-to-drive-ai-product-innovation-business-growth/))
 - Judge Orders Restoration of Health Program for West Virginia Coal Miners ([2 days ago](https://www.insurancejournal.com/news/southeast/2025/05/16/824060.htm))
