@@ -8,7 +8,7 @@ description: Latest Updates
 [Get this as an RSS feed](/feed.rss)
 
 <!-- news_marker starts -->
-- Flood and Subsidence Claims Are on The Rise in The UK ([19 hours ago](https://insurance-edge.net/2025/05/17/flood-and-subsidence-claims-are-on-the-rise-in-the-uk/))
+- Flood and Subsidence Claims Are on The Rise in The UK ([20 hours ago](https://insurance-edge.net/2025/05/17/flood-and-subsidence-claims-are-on-the-rise-in-the-uk/))
 - Severe Storm Batters St. Louis, Leaving At Least 4 Dead ([1 days ago](https://www.insurancejournal.com/news/midwest/2025/05/16/824121.htm))
 - Edison Plans $6.2 Billion Fire-Prevention Plan After LA Blazes ([1 days ago](https://www.insurancejournal.com/news/west/2025/05/16/824114.htm))
 - Guidewire Releases Study on EU Customer Attitudes Towards Insurers ([1 days ago](https://insurance-edge.net/2025/05/16/guidewire-releases-study-on-eu-customer-attitudes-towards-insurers/))
@@ -124,7 +124,7 @@ description: Latest Updates
 - OneFamily celebrates fifty years of inspiring better futures ([5 days ago](https://ifamagazine.com/onefamily-celebrates-fifty-years-of-inspiring-better-futures/))
 - Vitality research reveals gaps in employee awareness of sick leave policies and the role insurers play ([5 days ago](https://ifamagazine.com/vitality-research-reveals-gaps-in-employee-awareness-of-sick-leave-policies-and-the-role-insurers-play/))
 - 9 in 10 life cover applications with mental health disclosures instantly accepted on the underwriter protection platform in 2024 ([5 days ago](https://ifamagazine.com/9-in-10-life-cover-applications-with-mental-health-disclosures-instantly-accepted-on-the-underwriter-protection-platform-in-2024/))
-- IHC Set to Launch AI-Driven Reinsurance Platform in the Gulf Region ([6 days ago](https://thefintechtimes.com/ihc-set-to-launch-ai-driven-reinsurance-platform/))
+- IHC Set to Launch AI-Driven Reinsurance Platform in the Gulf Region ([7 days ago](https://thefintechtimes.com/ihc-set-to-launch-ai-driven-reinsurance-platform/))
 - What to be aware of when contesting a will ([16 days ago](https://ifamagazine.com/what-to-be-aware-of-when-contesting-a-will/))
 - New L&G data reveals value of technology to long-term absence management ([17 days ago](https://ifamagazine.com/new-lg-data-reveals-value-of-technology-to-long-term-absence-management/))
 - Canada Life reveals some of the most common estate planning misconceptions ([18 days ago](https://ifamagazine.com/some-of-the-most-common-estate-planning-misconceptions-revealed/))
