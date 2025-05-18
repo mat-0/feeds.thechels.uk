@@ -8,7 +8,7 @@ description: Latest Updates
 [Get this as an RSS feed](/feed.rss)
 
 <!-- news_marker starts -->
-- Flood and Subsidence Claims Are on The Rise in The UK ([20 hours ago](https://insurance-edge.net/2025/05/17/flood-and-subsidence-claims-are-on-the-rise-in-the-uk/))
+- Flood and Subsidence Claims Are on The Rise in The UK ([21 hours ago](https://insurance-edge.net/2025/05/17/flood-and-subsidence-claims-are-on-the-rise-in-the-uk/))
 - Severe Storm Batters St. Louis, Leaving At Least 4 Dead ([1 days ago](https://www.insurancejournal.com/news/midwest/2025/05/16/824121.htm))
 - Edison Plans $6.2 Billion Fire-Prevention Plan After LA Blazes ([1 days ago](https://www.insurancejournal.com/news/west/2025/05/16/824114.htm))
 - Guidewire Releases Study on EU Customer Attitudes Towards Insurers ([1 days ago](https://insurance-edge.net/2025/05/16/guidewire-releases-study-on-eu-customer-attitudes-towards-insurers/))
@@ -63,7 +63,7 @@ description: Latest Updates
 - Texas Sweetens Pitch to CEOs, Boards With New State Protections ([1 days ago](https://www.insurancejournal.com/news/southcentral/2025/05/16/823995.htm))
 - Insurance moves: Rokstone, Insurance Advisory, Evolution Claims and AXA XL ([1 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/insurance-moves-rokstone-insurance-advisory-evolution-claims-and-axa-xl-535937.aspx))
 - Interest in AI grows but adoption remains limited - LMA ([1 days ago](https://www.insurancebusinessmag.com/uk/news/technology/interest-in-ai-grows-but-adoption-remains-limited--lma-535936.aspx))
-- Sedgwick Experts Outline Key Workers’ Comp Claims Trends ([1 days ago](https://www.insurancejournal.com/news/national/2025/05/16/823936.htm))
+- Sedgwick Experts Outline Key Workers’ Comp Claims Trends ([2 days ago](https://www.insurancejournal.com/news/national/2025/05/16/823936.htm))
 - Estonia Says Russia Sent Jet After Attempt to Stop Sanction-Breaking Ship ([2 days ago](https://www.insurancejournal.com/news/international/2025/05/16/823959.htm))
 - California DoorDash Driver Pleads Guilty to Stealing $2.5M in Deliveries Scam ([2 days ago](https://www.insurancejournal.com/news/west/2025/05/16/823989.htm))
 - Penny Black’s Social Diary: Markerstudy’s premiere; iCan’s lassi ([2 days ago](https://www.postonline.co.uk/people/7957568/penny-blacks-social-diary-markerstudys-premiere-icans-lassi))
