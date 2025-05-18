@@ -8,8 +8,8 @@ description: Latest Updates
 [Get this as an RSS feed](/feed.rss)
 
 <!-- news_marker starts -->
-- How IoT complements Plymouth Rock's coverage strategy ([2 hours ago](https://www.dig-in.com/news/plymouth-rock-uses-iot-technology-to-manage-risks))
-- Independent agents need data support to use agentic AI ([3 hours ago](https://www.dig-in.com/news/independent-agents-need-data-support-to-use-agentic-ai))
+- How IoT complements Plymouth Rock's coverage strategy ([3 hours ago](https://www.dig-in.com/news/plymouth-rock-uses-iot-technology-to-manage-risks))
+- Independent agents need data support to use agentic AI ([4 hours ago](https://www.dig-in.com/news/independent-agents-need-data-support-to-use-agentic-ai))
 - Flood and Subsidence Claims Are on The Rise in The UK ([1 days ago](https://insurance-edge.net/2025/05/17/flood-and-subsidence-claims-are-on-the-rise-in-the-uk/))
 - Severe Storm Batters St. Louis, Leaving At Least 4 Dead ([1 days ago](https://www.insurancejournal.com/news/midwest/2025/05/16/824121.htm))
 - Edison Plans $6.2 Billion Fire-Prevention Plan After LA Blazes ([2 days ago](https://www.insurancejournal.com/news/west/2025/05/16/824114.htm))
@@ -117,7 +117,7 @@ description: Latest Updates
 - Why legacy tech is a key driver of M&A in insurance ([4 days ago](https://www.postonline.co.uk/technology/7957402/why-legacy-tech-is-a-key-driver-of-ma-in-insurance))
 - What is making waves in marine insurance ([4 days ago](https://www.postonline.co.uk/commercial/7957426/what-is-making-waves-in-marine-insurance))
 - Diversity and Inclusion in Insurance Awards open for entries ([4 days ago](https://www.postonline.co.uk/people/7957734/diversity-and-inclusion-in-insurance-awards-open-for-entries))
-- FCA strips back insurance rulebook ([4 days ago](https://www.postonline.co.uk/news/7957740/fca-strips-back-insurance-rulebook))
+- FCA strips back insurance rulebook ([5 days ago](https://www.postonline.co.uk/news/7957740/fca-strips-back-insurance-rulebook))
 - State Farm emergency rate increase approved in California ([5 days ago](https://www.dig-in.com/news/state-farm-emergency-rate-increase-approved-in-california))
 - Mike McGavick Joins mea Platform as Board Chairman and Strategic Advisor ([5 days ago](https://www.insurtechinsights.com/mike-mcgavick-joins-mea-platform-as-board-chairman-and-strategic-advisor/))
 - Seventy-two per cent of new absentees under group income protection policies returned to work during 2024 ([5 days ago](https://ifamagazine.com/seventy-two-per-cent-of-new-absentees-under-group-income-protection-policies-returned-to-work-during-2024/))
