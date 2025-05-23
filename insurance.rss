@@ -1,0 +1,22 @@
+---
+---
+{% assign contents_of_page = site.pages | where: "name", "insurance.md" | first %}
+{% assign pub_date = site.time | date: "%Y-%m-%d" %}
+
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>Daily Rundown - insurance</title>
+     <link>>https://feeds.thechels.uk</link>
+     <description>Insurance on feeds.thechels.uk</description>
+    <item>
+      <title>Daily Rundown for {{ pub_date }}</title>
+      <link>https://feeds.thechels.uk/#{{ pub_date }}</link>
+      <guid isPermaLink="false">Daily Summary for {{ pub_date }}</guid>
+      <pubDate>{{ pub_date }}</pubDate>
+      <description>
+      <![CDATA[ {{ contents_of_page.content | markdownify }} ]]>
+      </description>
+    </item>
+  </channel>
+</rss>

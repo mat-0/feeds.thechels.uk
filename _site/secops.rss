@@ -1,0 +1,230 @@
+
+
+
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>Daily Rundown - SecOps</title>
+     <link>>https://feeds.thechels.uk</link>
+     <description>SecOps on feeds.thechels.uk</description>
+    <item>
+      <title>Daily Rundown for 2025-05-23</title>
+      <link>https://feeds.thechels.uk/#2025-05-23</link>
+      <guid isPermaLink="false">Daily Summary for 2025-05-23</guid>
+      <pubDate>2025-05-23</pubDate>
+      <description>
+      <![CDATA[ <p><a href="/secops.rss">Get this as an RSS feed</a></p>
+
+<!-- news_marker starts -->
+<ul>
+  <li>Codespaces Scheduled Maintenance (<a href="https://www.githubstatus.com/incidents/67vdd3b7d1zq">2 hours ago</a>)</li>
+  <li>Ransomware scum leaked Nova Scotia Power customers’ info (<a href="https://go.theregister.com/feed/www.theregister.com/2025/05/23/novia_scotia_power_customers_info_leaked/">1 hours ago</a>)</li>
+  <li>Dozens of malicious packages on NPM collect host and network data (<a href="https://www.bleepingcomputer.com/news/security/dozens-of-malicious-packages-on-npm-collect-host-and-network-data/">1 hours ago</a>)</li>
+  <li>CISA says SaaS providers in firing line after Commvault zero-day Azure attack (<a href="https://go.theregister.com/feed/www.theregister.com/2025/05/23/cisa_commvault_zero_day/">2 hours ago</a>)</li>
+  <li>Microsoft dumps AI into Notepad as ‘Copilot all the things’ mania takes hold in Redmond (<a href="https://go.theregister.com/feed/www.theregister.com/2025/05/23/microsoft_ai_notepad/">2 hours ago</a>)</li>
+  <li>Hacker steals $223 million in Cetus Protocol cryptocurrency heist (<a href="https://databreaches.net/2025/05/23/hacker-steals-223-million-in-cetus-protocol-cryptocurrency-heist/">2 hours ago</a>)</li>
+  <li>Hacker steals $223 million in Cetus Protocol cryptocurrency heist (<a href="https://www.bleepingcomputer.com/news/security/hacker-steals-223-million-in-cetus-protocol-cryptocurrency-heist/">3 hours ago</a>)</li>
+  <li>How Java changed the development landscape entirely as code turns 30 (<a href="https://go.theregister.com/feed/www.theregister.com/2025/05/23/30_years_ago_java_arrived/">3 hours ago</a>)</li>
+  <li>FBI warns of Luna Moth extortion attacks targeting law firms (<a href="https://www.bleepingcomputer.com/news/security/fbi-warns-of-luna-moth-extortion-attacks-targeting-law-firms/">3 hours ago</a>)</li>
+  <li>Signal Adds Screenshot-Blocker to Thwart ‘Windows Recall’ (<a href="https://www.securityweek.com/signal-adds-screenshot-blocker-to-thwart-windows-recall/">4 hours ago</a>)</li>
+  <li>In Other News: Volkswagen App Hacked, DR32 Sentenced, New OT Security Solution (<a href="https://www.securityweek.com/in-other-news-volkswagen-app-hacked-dr32-sentenced-new-ot-security-solution/">5 hours ago</a>)</li>
+  <li>ViciousTrap Uses Cisco Flaw to Build Global Honeypot from 5,300 Compromised Devices (<a href="https://thehackernews.com/2025/05/vicioustrap-uses-cisco-flaw-to-build.html">6 hours ago</a>)</li>
+  <li>Operation ENDGAME strikes again: the ransomware kill chain broken at its source (<a href="https://databreaches.net/2025/05/23/operation-endgame-strikes-again-the-ransomware-kill-chain-broken-at-its-source/">6 hours ago</a>)</li>
+  <li>On Demand: Threat Detection &amp; Incident Response (TDIR) Summit (<a href="https://www.securityweek.com/virtual-event-today-threat-detection-incident-response-tdir-summit/">6 hours ago</a>)</li>
+  <li>What would a Microsoft engineer do to Ubuntu? AnduinOS is the answer (<a href="https://go.theregister.com/feed/www.theregister.com/2025/05/23/anduinos/">7 hours ago</a>)</li>
+  <li>Russian Qakbot Gang Leader Indicted in US (<a href="https://www.securityweek.com/russian-qakbot-gang-leader-indicted-in-us/">7 hours ago</a>)</li>
+  <li>Mysterious Database of 184 Million Records Exposes Vast Array of Login Credentials (<a href="https://databreaches.net/2025/05/23/mysterious-database-of-184-million-records-exposes-vast-array-of-login-credentials/">8 hours ago</a>)</li>
+  <li>One of Britain’s largest health trusts says ‘no ta’ to Palantir-run data platform – for now (<a href="https://go.theregister.com/feed/www.theregister.com/2025/05/23/greater_manchester_palantir_snub/">8 hours ago</a>)</li>
+  <li>Mysterious hacking group Careto was run by the Spanish government, sources say (<a href="https://databreaches.net/2025/05/23/mysterious-hacking-group-careto-was-run-by-the-spanish-government-sources-say/">8 hours ago</a>)</li>
+  <li>300 Servers and €3.5M Seized as Europol Strikes Ransomware Networks Worldwide (<a href="https://thehackernews.com/2025/05/300-servers-and-35m-seized-as-europol.html">8 hours ago</a>)</li>
+  <li>Companies Warned of Commvault Vulnerability Exploitation (<a href="https://www.securityweek.com/companies-warned-of-commvault-vulnerability-exploitation/">8 hours ago</a>)</li>
+  <li>SafeLine WAF: Open Source Web Application Firewall with Zero-Day Detection and Bot Protection (<a href="https://thehackernews.com/2025/05/safeline-waf-open-source-web.html">8 hours ago</a>)</li>
+  <li>TikTok videos now push infostealer malware in ClickFix attacks (<a href="https://www.bleepingcomputer.com/news/security/tiktok-videos-now-push-infostealer-malware-in-clickfix-attacks/">9 hours ago</a>)</li>
+  <li>Cityworks Zero-Day Exploited by Chinese Hackers in US Local Government Attacks (<a href="https://www.securityweek.com/cityworks-zero-day-exploited-by-chinese-hackers-in-us-local-government-attacks/">9 hours ago</a>)</li>
+  <li>Grandpa-conning crook jailed over sugar-coated drug scam (<a href="https://go.theregister.com/feed/www.theregister.com/2025/05/23/meth_smuggling_scam_prison/">9 hours ago</a>)</li>
+  <li>3AM ransomware attack poses as a call from IT support to compromise networks (<a href="https://www.tripwire.com/state-of-security/3am-ransomware-attackers-pose-it-support-compromise-networks">9 hours ago</a>)</li>
+  <li>DanaBot Botnet Disrupted, 16 Suspects Charged (<a href="https://www.securityweek.com/danabot-botnet-disrupted-by-law-enforcement-16-suspects-charged/">10 hours ago</a>)</li>
+  <li>Windows 11 Notepad gets AI-powered text writing capabilities (<a href="https://www.bleepingcomputer.com/news/microsoft/windows-11-notepad-gets-ai-powered-text-writing-capabilities/">10 hours ago</a>)</li>
+  <li>Chinese Spies Exploit Ivanti Vulnerabilities Against Critical Sectors (<a href="https://www.securityweek.com/chinese-spies-exploit-ivanti-vulnerabilities-against-critical-sectors/">10 hours ago</a>)</li>
+  <li>U.S. Dismantles DanaBot Malware Network, Charges 16 in $50M Global Cybercrime Operation (<a href="https://thehackernews.com/2025/05/us-dismantles-danabot-malware-network.html">12 hours ago</a>)</li>
+  <li>Police takes down 300 servers in ransomware supply-chain crackdown (<a href="https://www.bleepingcomputer.com/news/security/police-takes-down-300-servers-in-ransomware-supply-chain-crackdown/">12 hours ago</a>)</li>
+  <li>Stargate to land its first offshore datacenters in the United Arab Emirates (<a href="https://go.theregister.com/feed/www.theregister.com/2025/05/23/stargate_uae/">12 hours ago</a>)</li>
+  <li>CISA Warns of Suspected Broader SaaS Attacks Exploiting App Secrets and Cloud Misconfigs (<a href="https://thehackernews.com/2025/05/cisa-warns-of-suspected-broader-saas.html">13 hours ago</a>)</li>
+  <li>GitLab Duo Vulnerability Enabled Attackers to Hijack AI Responses with Hidden Prompts (<a href="https://thehackernews.com/2025/05/gitlab-duo-vulnerability-enabled.html">14 hours ago</a>)</li>
+  <li>Suspected creeps behind DanaBot malware that hit 300K+ computers revealed (<a href="https://go.theregister.com/feed/www.theregister.com/2025/05/23/300000_machine_danabot_endgame/">17 hours ago</a>)</li>
+  <li>Ivanti makes dedicated fans of Chinese spies who just can’t resist attacking its buggy kit (<a href="https://go.theregister.com/feed/www.theregister.com/2025/05/23/ivanti_chinese_spies_attack/">18 hours ago</a>)</li>
+  <li>US Navy sailor charged in horrific child sextortion case (<a href="https://go.theregister.com/feed/www.theregister.com/2025/05/23/us_navy_csam_blackmail/">18 hours ago</a>)</li>
+  <li>Claude 4 benchmarks show improvements, but context is still 200K (<a href="https://www.bleepingcomputer.com/news/artificial-intelligence/claude-4-benchmarks-show-improvements-but-context-is-still-200k/">19 hours ago</a>)</li>
+  <li>16 Defendants Federally Charged in Connection with DanaBot Malware Scheme That Infected Computers Worldwide (<a href="https://databreaches.net/2025/05/22/16-defendants-federally-charged-in-connection-with-danabot-malware-scheme-that-infected-computers-worldwide/">19 hours ago</a>)</li>
+  <li>Russian national and leader of Qakbot malware conspiracy indicted in long-running global ransomware scheme (<a href="https://databreaches.net/2025/05/22/russian-national-and-leader-of-qakbot-malware-conspiracy-indicted-in-long-running-global-ransomware-scheme/">20 hours ago</a>)</li>
+  <li>How lean security teams can build resilient defenses (<a href="https://go.theregister.com/feed/www.theregister.com/2025/05/22/prelude_security_monitoring_threat_exposure/">20 hours ago</a>)</li>
+  <li>Feds finger Russian ‘behind Qakbot malware’ that hit 700K computers (<a href="https://go.theregister.com/feed/www.theregister.com/2025/05/22/qakbot_criminal_mastermind_charged/">20 hours ago</a>)</li>
+  <li>Oops: DanaBot Malware Devs Infected Their Own PCs (<a href="https://krebsonsecurity.com/2025/05/oops-danabot-malware-devs-infected-their-own-pcs/">21 hours ago</a>)</li>
+  <li>Anthropic Claude 4 models a little more willing than before to blackmail some users (<a href="https://go.theregister.com/feed/www.theregister.com/2025/05/22/anthropic_claude_opus_4_sonnet/">21 hours ago</a>)</li>
+  <li>US indicts leader of Qakbot botnet linked to ransomware attacks (<a href="https://www.bleepingcomputer.com/news/security/us-indicts-leader-of-qakbot-botnet-linked-to-ransomware-attacks/">22 hours ago</a>)</li>
+  <li>Chinese snoops tried to break into US city utilities, says Talos (<a href="https://go.theregister.com/feed/www.theregister.com/2025/05/22/chinese_crew_us_city_utilities/">1 days ago</a>)</li>
+  <li>Akamai, Microsoft Disagree on Severity of Unpatched ‘BadSuccessor’ Flaw (<a href="https://www.securityweek.com/akamai-microsoft-disagree-on-severity-of-unpatched-badsuccessor-flaw/">1 days ago</a>)</li>
+  <li>SAP users grapple with 50% premium for industry-standard service levels (<a href="https://go.theregister.com/feed/www.theregister.com/2025/05/22/sap_sapphire_costs/">1 days ago</a>)</li>
+  <li>Hackers use fake Ledger apps to steal Mac users’ seed phrases (<a href="https://www.bleepingcomputer.com/news/security/hackers-use-fake-ledger-apps-to-steal-mac-users-seed-phrases/">1 days ago</a>)</li>
+  <li>Irish privacy watchdog OKs Meta to train AI on EU folks’ posts (<a href="https://go.theregister.com/feed/www.theregister.com/2025/05/22/irish_data_protection_commission_gives/">1 days ago</a>)</li>
+  <li>Irish privacy watchdog OKs Meta to train AI on EU folks’ posts (<a href="https://go.theregister.com/feed/www.theregister.com/2025/05/22/irish_data_protection_commission_gives/">1 days ago</a>)</li>
+  <li>Police arrests 270 dark web vendors, buyers in global crackdown (<a href="https://www.bleepingcomputer.com/news/security/police-arrests-270-dark-web-vendors-buyers-in-global-crackdown/">1 days ago</a>)</li>
+  <li>Lessons Learned from the Legal Aid Agency Data Breach (<a href="https://www.itgovernance.co.uk/blog/lessons-learned-from-the-legal-aid-agency-data-breach">1 days ago</a>)</li>
+  <li>Chinese Hackers Exploit Trimble Cityworks Flaw to Infiltrate U.S. Government Networks (<a href="https://thehackernews.com/2025/05/chinese-hackers-exploit-trimble.html">1 days ago</a>)</li>
+  <li>Russia expected to pass experimental law that tracks foreigners in Moscow via smartphones (<a href="https://go.theregister.com/feed/www.theregister.com/2025/05/22/russia_expected_to_pass_experimental/">1 days ago</a>)</li>
+  <li>Russia expected to pass experimental law that tracks foreigners in Moscow via smartphones (<a href="https://go.theregister.com/feed/www.theregister.com/2025/05/22/russia_expected_to_pass_experimental/">1 days ago</a>)</li>
+  <li>Ivanti EPMM flaw exploited by Chinese hackers to breach govt agencies (<a href="https://www.bleepingcomputer.com/news/security/ivanti-epmm-flaw-exploited-by-chinese-hackers-to-breach-govt-agencies/">1 days ago</a>)</li>
+  <li>Chinese hackers breach US local governments using Cityworks zero-day (<a href="https://www.bleepingcomputer.com/news/security/chinese-hackers-breach-us-local-governments-using-cityworks-zero-day/">1 days ago</a>)</li>
+  <li>Neptune OS is Debian made easy but, boy, does it need some housekeeping (<a href="https://go.theregister.com/feed/www.theregister.com/2025/05/22/neptune_os/">1 days ago</a>)</li>
+  <li>Signal shuts the blinds on Microsoft Recall with the power of DRM (<a href="https://go.theregister.com/feed/www.theregister.com/2025/05/22/signal_microsoft_recall/">1 days ago</a>)</li>
+  <li>Signal shuts the blinds on Microsoft Recall with the power of DRM (<a href="https://go.theregister.com/feed/www.theregister.com/2025/05/22/signal_microsoft_recall/">1 days ago</a>)</li>
+  <li>AI can’t replace freelance coders yet, but that day is coming (<a href="https://go.theregister.com/feed/www.theregister.com/2025/05/22/freelance_coders_ai_work/">1 days ago</a>)</li>
+  <li>Critical Windows Server 2025 dMSA Vulnerability Enables Active Directory Compromise (<a href="https://thehackernews.com/2025/05/critical-windows-server-2025-dmsa.html">1 days ago</a>)</li>
+  <li>FTC finalizes order requiring GoDaddy to secure hosting services (<a href="https://www.bleepingcomputer.com/news/security/ftc-finalizes-order-requiring-godaddy-to-secure-hosting-services/">1 days ago</a>)</li>
+  <li>Chinese Hackers Exploit Ivanti EPMM Bugs in Global Enterprise Network Attacks (<a href="https://thehackernews.com/2025/05/chinese-hackers-exploit-ivanti-epmm.html">1 days ago</a>)</li>
+  <li>Marlboro-Chesterfield Pathology Data Breach Impacts 235,000 People (<a href="https://www.securityweek.com/marlboro-chesterfield-pathology-data-breach-impacts-235000-people/">1 days ago</a>)</li>
+  <li>Texas Doctor Who Falsely Diagnosed Patients as Part of Insurance Fraud Scheme Sentenced to 10 Years’ Imprisonment (<a href="https://databreaches.net/2025/05/22/texas-doctor-who-falsely-diagnosed-patients-as-part-of-insurance-fraud-scheme-sentenced-to-10-years-imprisonment/">1 days ago</a>)</li>
+  <li>VanHelsing ransomware builder leaked on hacking forum (<a href="https://databreaches.net/2025/05/22/vanhelsing-ransomware-builder-leaked-on-hacking-forum/">1 days ago</a>)</li>
+  <li>Webinar: Learn How to Build a Reasonable and Legally Defensible Cybersecurity Program (<a href="https://thehackernews.com/2025/05/webinar-learn-how-to-build-reasonable.html">1 days ago</a>)</li>
+  <li>Identity Security Has an Automation Problem—And It’s Bigger Than You Think (<a href="https://thehackernews.com/2025/05/identity-security-has-automation.html">1 days ago</a>)</li>
+  <li>Critical Versa Concerto Flaws Let Attackers Escape Docker and Compromise Hosts (<a href="https://thehackernews.com/2025/05/unpatched-versa-concerto-flaws-let.html">1 days ago</a>)</li>
+  <li>Hack of Opexus Was at Root of Massive Federal Data Breach (<a href="https://databreaches.net/2025/05/22/hack-of-opexus-was-at-root-of-massive-federal-data-breach/">1 days ago</a>)</li>
+  <li>‘Deep concern’ for domestic abuse survivors as cybercriminals expected to publish confidential abuse survivors’ addresses (<a href="https://databreaches.net/2025/05/22/deep-concern-for-domestic-abuse-survivors-as-cybercriminals-expected-to-publish-confidential-abuse-survivors-addresses/">1 days ago</a>)</li>
+  <li>AROS turns any PC into an Amiga with USB-bootable distro (<a href="https://go.theregister.com/feed/www.theregister.com/2025/05/22/aros_live/">1 days ago</a>)</li>
+  <li>Scottish council admits ransomware crooks stole school data (<a href="https://go.theregister.com/feed/www.theregister.com/2025/05/22/west_lothian_school_ransomware/">1 days ago</a>)</li>
+  <li>Delayed GitHub Actions Jobs (<a href="https://www.githubstatus.com/incidents/cbdzqm5fw0fm">1 days ago</a>)</li>
+  <li>VMware price hikes? Between 800 and 1,500%, claim Euro customers (<a href="https://go.theregister.com/feed/www.theregister.com/2025/05/22/euro_cloud_body_ecco_says_broadcom_licensing_unfair/">1 days ago</a>)</li>
+  <li>DOJ charges 12 more in $263 million crypto fraud takedown where money was hidden in squishmallow stuffed animals (<a href="https://www.bitdefender.com/en-us/blog/hotforsecurity/doj-charges-12-263-million-crypto-fraud-takedown-where-money-hidden-squishmallow-stuffed-animals">1 days ago</a>)</li>
+  <li>FBI and Europol Disrupt Lumma Stealer Malware Network Linked to 10 Million Infections (<a href="https://thehackernews.com/2025/05/fbi-and-europol-disrupt-lumma-stealer.html">1 days ago</a>)</li>
+  <li>Google’s AI vision clouded by business model hallucinations (<a href="https://go.theregister.com/feed/www.theregister.com/2025/05/21/googles_ai_vision/">1 days ago</a>)</li>
+  <li>Smashing Security podcast #418: Grid failures, Instagram scams, and Legal Aid leaks (<a href="https://grahamcluley.com/smashing-security-podcast-418/">1 days ago</a>)</li>
+  <li>US teen to plead guilty to extortion attack against PowerSchool (<a href="https://go.theregister.com/feed/www.theregister.com/2025/05/21/teenager_extortion_powerschool/">1 days ago</a>)</li>
+  <li>Microsoft-backed AI out-forecasts hurricane experts without crunching the physics (<a href="https://go.theregister.com/feed/www.theregister.com/2025/05/21/earth_system_model_hurricane_forecast/">1 days ago</a>)</li>
+  <li>Estimating AI energy usage is fiendishly hard – but this report took a shot (<a href="https://go.theregister.com/feed/www.theregister.com/2025/05/21/ai_energy_consumption_loose_estimates/">1 days ago</a>)</li>
+  <li>Russia’s Fancy Bear swipes a paw at logistics, transport orgs’ email servers (<a href="https://go.theregister.com/feed/www.theregister.com/2025/05/21/russias_fancy_bear_alert/">1 days ago</a>)</li>
+  <li>FBI, Microsoft, international cops bust Lumma infostealer service (<a href="https://go.theregister.com/feed/www.theregister.com/2025/05/21/lumma_infostealer_service_busted/">2 days ago</a>)</li>
+  <li>Russian Hackers Exploit Email and VPN Vulnerabilities to Spy on Ukraine Aid Logistics (<a href="https://thehackernews.com/2025/05/russian-hackers-exploit-email-and-vpn.html">2 days ago</a>)</li>
+  <li>Coinbase confirms insiders handed over data of 70K users (<a href="https://go.theregister.com/feed/www.theregister.com/2025/05/21/coinbase_confirms_insider_breach_affects/">2 days ago</a>)</li>
+  <li>Shadow AI in the enterprise: Managing risk without slowing progress (<a href="https://go.theregister.com/feed/www.theregister.com/2025/05/21/delinea_shadow_ai_enterprise_risk/">2 days ago</a>)</li>
+  <li>Builder.ai coded itself into a corner – now it’s bankrupt (<a href="https://go.theregister.com/feed/www.theregister.com/2025/05/21/builderai_insolvency/">2 days ago</a>)</li>
+  <li>Windows reports two CPU speeds because one would be too simple (<a href="https://go.theregister.com/feed/www.theregister.com/2025/05/21/chen_windows_cpu_speed/">2 days ago</a>)</li>
+  <li>Judge allows Delta’s lawsuit against CrowdStrike to proceed with millions in damages on the line (<a href="https://go.theregister.com/feed/www.theregister.com/2025/05/21/judge_allows_deltas_lawsuit_against/">2 days ago</a>)</li>
+  <li>Google carves out cloudy safe spaces for nations nervous about America’s reach (<a href="https://go.theregister.com/feed/www.theregister.com/2025/05/21/google_sovereign_cloud_updates/">2 days ago</a>)</li>
+  <li>Trump announces $175B for Golden Dome defense shield over America (<a href="https://go.theregister.com/feed/www.theregister.com/2025/05/21/trump_golden_dome/">2 days ago</a>)</li>
+  <li>PureRAT Malware Spikes 4x in 2025, Deploying PureLogs to Target Russian Firms (<a href="https://thehackernews.com/2025/05/purerat-malware-spikes-4x-in-2025.html">2 days ago</a>)</li>
+  <li>Fake Kling AI Facebook Ads Deliver RAT Malware to Over 22 Million Potential Victims (<a href="https://thehackernews.com/2025/05/fake-kling-ai-facebook-ads-deliver-rat.html">2 days ago</a>)</li>
+  <li>Research reimagines LLMs as tireless tools of torture (<a href="https://go.theregister.com/feed/www.theregister.com/2025/05/21/llm_torture_tools/">2 days ago</a>)</li>
+  <li>Securing CI/CD workflows with Wazuh (<a href="https://thehackernews.com/2025/05/securing-cicd-workflows-with-wazuh.html">2 days ago</a>)</li>
+  <li>How to Detect Phishing Attacks Faster: Tycoon2FA Example (<a href="https://thehackernews.com/2025/05/how-to-detect-phishing-attacks-faster.html">2 days ago</a>)</li>
+  <li>Greater Manchester says its NHS analytics stack is years ahead of Palantir wares (<a href="https://go.theregister.com/feed/www.theregister.com/2025/05/21/greater_manchester_nhs_palantir/">2 days ago</a>)</li>
+  <li>M&amp;S warns of £300M dent in profits from cyberattack (<a href="https://go.theregister.com/feed/www.theregister.com/2025/05/21/ms_cyberattack_disruption/">2 days ago</a>)</li>
+  <li>Researchers Expose PWA JavaScript Attack That Redirects Users to Adult Scam Apps (<a href="https://thehackernews.com/2025/05/researchers-expose-pwa-javascript.html">2 days ago</a>)</li>
+  <li>Incident with Webhooks (<a href="https://www.githubstatus.com/incidents/89gkzpf9fc20">2 days ago</a>)</li>
+  <li>UK ‘extremely dependent’ on US for space security (<a href="https://go.theregister.com/feed/www.theregister.com/2025/05/21/uk_space_commitee/">2 days ago</a>)</li>
+  <li>Scattered Spider snared financial orgs before targeting shops in Britain, America (<a href="https://go.theregister.com/feed/www.theregister.com/2025/05/21/scattered_spider_snared_financial_orgs/">2 days ago</a>)</li>
+  <li>Google Chrome’s Built-in Manager Lets Users Update Breached Passwords with One Click (<a href="https://thehackernews.com/2025/05/google-chrome-can-now-auto-change.html">2 days ago</a>)</li>
+  <li>AI can’t replace devs until it understands office politics (<a href="https://go.theregister.com/feed/www.theregister.com/2025/05/21/opinion_column_ai_cant_replace_developers/">2 days ago</a>)</li>
+  <li>Nvidia CEO Jensen Huang labels US GPU export bans ‘precisely wrong’ and ‘a failure’ (<a href="https://go.theregister.com/feed/www.theregister.com/2025/05/21/jensen_huang_h20_ban_criticism/">2 days ago</a>)</li>
+  <li>‘Ongoing’ Ivanti hijack bug exploitation reaches clouds (<a href="https://go.theregister.com/feed/www.theregister.com/2025/05/21/ivanti_rce_attacks_ongoing/">2 days ago</a>)</li>
+  <li>Google crowns Jules to be its agent and spreads the AI love (<a href="https://go.theregister.com/feed/www.theregister.com/2025/05/21/google_crowns_jules_to_be/">2 days ago</a>)</li>
+  <li>KrebsOnSecurity Hit With Near-Record 6.3 Tbps DDoS (<a href="https://krebsonsecurity.com/2025/05/krebsonsecurity-hit-with-near-record-6-3-tbps-ddos/">2 days ago</a>)</li>
+  <li>Incident with Copilot (<a href="https://www.githubstatus.com/incidents/d3nnz2ckp2f7">2 days ago</a>)</li>
+  <li>Threat Actors Deploy LummaC2 Malware to Exfiltrate Sensitive Data from Organizations (<a href="https://www.cisa.gov/news-events/cybersecurity-advisories/aa25-141b">2 days ago</a>)</li>
+  <li>Elevated error rates for Claude Sonnet 3.7 (<a href="https://www.githubstatus.com/incidents/rkkhrht3j3y3">3 days ago</a>)</li>
+  <li>Freshly discovered bug in OpenPGP.js undermines whole point of encrypted comms (<a href="https://go.theregister.com/feed/www.theregister.com/2025/05/20/openpgp_js_flaw/">3 days ago</a>)</li>
+  <li>Hazy Hawk Exploits DNS Records to Hijack CDC, Corporate Domains for Malware Delivery (<a href="https://thehackernews.com/2025/05/hazy-hawk-exploits-dns-records-to.html">3 days ago</a>)</li>
+  <li>100+ Fake Chrome Extensions Found Hijacking Sessions, Stealing Credentials, Injecting Ads (<a href="https://thehackernews.com/2025/05/100-fake-chrome-extensions-found.html">3 days ago</a>)</li>
+  <li>The AI Fix #51: Divorce by coffee grounds, and why AI robots need your brain (<a href="https://grahamcluley.com/the-ai-fix-51/">3 days ago</a>)</li>
+  <li>AWS Default IAM Roles Found to Enable Lateral Movement and Cross-Service Exploitation (<a href="https://thehackernews.com/2025/05/aws-default-iam-roles-found-to-enable.html">3 days ago</a>)</li>
+  <li>The Crowded Battle: Key Insights from the 2025 State of Pentesting Report (<a href="https://thehackernews.com/2025/05/the-crowded-battle-key-insights-from.html">3 days ago</a>)</li>
+  <li>South Asian Ministries Hit by SideWinder APT Using Old Office Flaws and Custom Malware (<a href="https://thehackernews.com/2025/05/south-asian-ministries-hit-by.html">3 days ago</a>)</li>
+  <li>SEC Twitter hack: Man imprisoned for role in attack that caused Bitcoin’s price to soar. (<a href="https://www.bitdefender.com/en-us/blog/hotforsecurity/sec-twitter-hack-bitcoins-price">3 days ago</a>)</li>
+  <li>Software Security Code of Practice - Assurance Principles and Claims (APCs) (<a href="https://www.ncsc.gov.uk/guidance/software-security-code-of-practice-assurance-principles-claims">3 days ago</a>)</li>
+  <li>Decommissioning assets (<a href="https://www.ncsc.gov.uk/guidance/decommissioning-assets">3 days ago</a>)</li>
+  <li>Have I Been Pwned 2.0 is Now Live! (<a href="https://www.troyhunt.com/have-i-been-pwned-2-0-is-now-live/">3 days ago</a>)</li>
+  <li>The AI Fix nominated for top podcast award. Vote now! (<a href="https://grahamcluley.com/the-ai-fix-nominated-for-top-podcast-award-vote-now/">4 days ago</a>)</li>
+  <li>Unauthenticated Blind SQL Injection  -  RSI queue management system - V 3.0  -  CVE-2025-26086 (<a href="https://seclists.org/fulldisclosure/2025/May/21">6 days ago</a>)</li>
+  <li>CVE-2025-30072 Tiiwee X1 Alarm System - Authentication Bypass by Capture-replay (<a href="https://seclists.org/fulldisclosure/2025/May/20">6 days ago</a>)</li>
+  <li>SEC Consult SA-20250506-0 :: Honeywell MB Secure Authenticated Command Injection (<a href="https://seclists.org/fulldisclosure/2025/May/19">6 days ago</a>)</li>
+  <li>SEC Consult SA-20250429-0 :: Multiple Vulnerabilities in HP Wolf Security Controller and more (<a href="https://seclists.org/fulldisclosure/2025/May/18">6 days ago</a>)</li>
+  <li>SEC Consult SA-20250422-0:: Local Privilege Escalation via DLL Search Order Hijacking (<a href="https://seclists.org/fulldisclosure/2025/May/17">6 days ago</a>)</li>
+  <li>Session Invalidation in Economizzer Allows Unauthorized Access	After Logout (<a href="https://seclists.org/fulldisclosure/2025/May/16">6 days ago</a>)</li>
+  <li>Persistent Cross-Site Scripting in Economizzer Category Entry (<a href="https://seclists.org/fulldisclosure/2025/May/15">6 days ago</a>)</li>
+  <li>Persistent Cross-Site Scripting in Economizzer Cashbook Entry (<a href="https://seclists.org/fulldisclosure/2025/May/14">6 days ago</a>)</li>
+  <li>APPLE-SA-05-12-2025-9 Safari 18.5 (<a href="https://seclists.org/fulldisclosure/2025/May/13">6 days ago</a>)</li>
+  <li>APPLE-SA-05-12-2025-8 visionOS 2.5 (<a href="https://seclists.org/fulldisclosure/2025/May/12">6 days ago</a>)</li>
+  <li>APPLE-SA-05-12-2025-7 tvOS 18.5 (<a href="https://seclists.org/fulldisclosure/2025/May/11">6 days ago</a>)</li>
+  <li>APPLE-SA-05-12-2025-6 watchOS 11.5 (<a href="https://seclists.org/fulldisclosure/2025/May/10">6 days ago</a>)</li>
+  <li>APPLE-SA-05-12-2025-5 macOS Ventura 13.7.6 (<a href="https://seclists.org/fulldisclosure/2025/May/9">6 days ago</a>)</li>
+  <li>APPLE-SA-05-12-2025-4 macOS Sonoma 14.7.6 (<a href="https://seclists.org/fulldisclosure/2025/May/8">6 days ago</a>)</li>
+  <li>APPLE-SA-05-12-2025-3 macOS Sequoia 15.5 (<a href="https://seclists.org/fulldisclosure/2025/May/7">6 days ago</a>)</li>
+  <li>GitHub Enterprise Importer (GEI) is experiencing degraded throughput (<a href="https://www.githubstatus.com/incidents/71tl7pkqysgw">6 days ago</a>)</li>
+  <li>Weekly Update 452 (<a href="https://www.troyhunt.com/weekly-update-452/">6 days ago</a>)</li>
+  <li>Impact of AI on cyber threat from now to 2027 (<a href="https://www.ncsc.gov.uk/report/impact-ai-cyber-threat-now-2027">6 days ago</a>)</li>
+  <li>Disruption with some GitHub services (<a href="https://www.githubstatus.com/incidents/3nn1p9h5b76h">7 days ago</a>)</li>
+  <li>How to Spot a Phishing Email in 2025 –with Real Examples and Red Flags (<a href="https://www.itgovernance.co.uk/blog/5-ways-to-detect-a-phishing-email">7 days ago</a>)</li>
+  <li>Prescription for disaster: Sensitive patient data leaked in Ascension breach (<a href="https://www.fortra.com/blog/prescription-disaster-sensitive-patient-data-leaked-ascension-hack">7 days ago</a>)</li>
+  <li>Disruption with Gemini 2.5 Pro (<a href="https://www.githubstatus.com/incidents/pzrqw1n5ynw3">7 days ago</a>)</li>
+  <li>Breachforums Boss to Pay $700k in Healthcare Breach (<a href="https://krebsonsecurity.com/2025/05/breachforums-boss-to-pay-700k-in-healthcare-breach/">7 days ago</a>)</li>
+  <li>Welcoming the Malaysian Government to Have I Been Pwned (<a href="https://www.troyhunt.com/welcoming-the-malaysian-government-to-have-i-been-pwned/">7 days ago</a>)</li>
+  <li>Codespaces Scheduled Maintenance (<a href="https://www.githubstatus.com/incidents/bs901hhxgw33">8 days ago</a>)</li>
+  <li>Disruption with some GitHub services (<a href="https://www.githubstatus.com/incidents/hjylhb7b8zcq">8 days ago</a>)</li>
+  <li>Data breaches: guidance for individuals and families (<a href="https://www.ncsc.gov.uk/guidance/data-breaches">8 days ago</a>)</li>
+  <li>Disruption with Gemini 2.5 Pro model (<a href="https://www.githubstatus.com/incidents/kpv13bbn84n5">8 days ago</a>)</li>
+  <li>Smashing Security podcast #417: Hello, Pervert! – Sextortion scams and Discord disasters (<a href="https://grahamcluley.com/smashing-security-podcast-417/">8 days ago</a>)</li>
+  <li>Patch Tuesday, May 2025 Edition (<a href="https://krebsonsecurity.com/2025/05/patch-tuesday-may-2025-edition/">9 days ago</a>)</li>
+  <li>The AI Fix #50: AI brings dead man back for killer’s trial, and the judge loves it (<a href="https://grahamcluley.com/the-ai-fix-50/">10 days ago</a>)</li>
+  <li>Two years’ jail for down-on-his-luck man who sold ransomware online (<a href="https://www.bitdefender.com/en-us/blog/hotforsecurity/two-years-jail-for-down-on-his-luck-man-who-sold-ransomware-online">10 days ago</a>)</li>
+  <li>Timelines for migration to post-quantum cryptography (<a href="https://www.ncsc.gov.uk/guidance/pqc-migration-timelines">10 days ago</a>)</li>
+  <li>The Co-Op, M&amp;S, Harrods… You? Mitigating the Risk of Ransomware (<a href="https://www.itgovernance.co.uk/blog/the-co-op-ms-harrods-you-mitigating-the-risk-of-ransomware">10 days ago</a>)</li>
+  <li>Russian GRU Targeting Western Logistics Entities and Technology Companies (<a href="https://www.cisa.gov/news-events/cybersecurity-advisories/aa25-141a">11 days ago</a>)</li>
+  <li>Disruption with some GitHub services (<a href="https://www.githubstatus.com/incidents/gxf0jzns6rn2">11 days ago</a>)</li>
+  <li>Weekly Update 451 (<a href="https://www.troyhunt.com/weekly-update-451/">12 days ago</a>)</li>
+  <li>LockBit ransomware gang breached, secrets exposed (<a href="https://www.tripwire.com/state-of-security/lockbit-ransomware-gang-breached-secrets-exposed">14 days ago</a>)</li>
+  <li>Hackers hit deportation airline GlobalX, leak flight manifests, and leave an unsubtle message for “Donnie” Trump (<a href="https://www.bitdefender.com/en-us/blog/hotforsecurity/hackers-globalx-message-trump">14 days ago</a>)</li>
+  <li>After the Breach: Finding new Partners with Solutions for Have I Been Pwned Users (<a href="https://www.troyhunt.com/after-the-breach-finding-new-partners-with-solutions-for-have-i-been-pwned-users/">14 days ago</a>)</li>
+  <li>The 8 CISSP domains explained (<a href="https://www.itgovernance.co.uk/blog/the-8-cissp-domains-explained">15 days ago</a>)</li>
+  <li>Codespaces Scheduled Maintenance (<a href="https://www.githubstatus.com/incidents/hkp6z7kt2qm6">15 days ago</a>)</li>
+  <li>Incident with Git Operations (<a href="https://www.githubstatus.com/incidents/42gtccf6dd98">15 days ago</a>)</li>
+  <li>Ransomware: ‘WannaCry’ guidance for home users and small businesses (<a href="https://www.ncsc.gov.uk/guidance/wannacry-guidance-for-home-users-and-small-businesses">15 days ago</a>)</li>
+  <li>Ransomware: ‘WannaCry’ guidance for enterprise administrators (<a href="https://www.ncsc.gov.uk/guidance/ransomware-wannacry-guidance-enterprise-administrators-1">15 days ago</a>)</li>
+  <li>Introduction to logging for security purposes (<a href="https://www.ncsc.gov.uk/guidance/introduction-logging-security-purposes">15 days ago</a>)</li>
+  <li>Cyber security for major events (<a href="https://www.ncsc.gov.uk/guidance/cyber-security-for-major-events">15 days ago</a>)</li>
+  <li>Welcoming the Isle of Man Government to Have I Been Pwned (<a href="https://www.troyhunt.com/welcoming-the-isle-of-man-government-to-have-i-been-pwned/">15 days ago</a>)</li>
+  <li>OnRPG - 1,047,640 breached accounts (<a href="https://haveibeenpwned.com/PwnedWebsites#OnRPG">15 days ago</a>)</li>
+  <li>Smashing Security podcast #416: High street hacks, and Disney’s Wingdings woe (<a href="https://grahamcluley.com/smashing-security-podcast-416/">15 days ago</a>)</li>
+  <li>Pakistani Firm Shipped Fentanyl Analogs, Scams to US (<a href="https://krebsonsecurity.com/2025/05/pakistani-firm-shipped-fentanyl-analogs-scams-to-us/">15 days ago</a>)</li>
+  <li>NCSC warns of IT helpdesk impersonation trick being used by ransomware gangs after UK retailers attacked (<a href="https://www.exponential-e.com/blog/ncsc-warns-of-it-helpdesk-impersonation-trick-being-used-by-ransomware-gangs-after-uk-retailers-attacked">16 days ago</a>)</li>
+  <li>TeleMessage, the Signal clone used by US government officials, suffers hack (<a href="https://www.bitdefender.com/en-us/blog/hotforsecurity/telemessage-signal-clone-us-government-hack">16 days ago</a>)</li>
+  <li>The AI Fix #49: The typo from hell (<a href="https://grahamcluley.com/the-ai-fix-49/">17 days ago</a>)</li>
+  <li>Comparison of tools that extract files from PCAP (<a href="https://www.netresec.com/?page=Blog&amp;month=2025-05&amp;post=Comparison-of-tools-that-extract-files-from-PCAP">18 days ago</a>)</li>
+  <li>Passkeys for Normal People (<a href="https://www.troyhunt.com/passkeys-for-normal-people/">18 days ago</a>)</li>
+  <li>Weekly Update 450 (<a href="https://www.troyhunt.com/weekly-update-450/">20 days ago</a>)</li>
+  <li>Windows 10 End of Life: What Does it Mean for Your Organisation? (<a href="https://www.itgovernance.co.uk/blog/windows-10-end-of-life-what-does-it-mean-for-your-organisation">21 days ago</a>)</li>
+  <li>The Have I Been Pwned Alpine Grand Tour (<a href="https://www.troyhunt.com/the-have-i-been-pwned-alpine-grand-tour/">21 days ago</a>)</li>
+  <li>xAI Dev Leaks API Key for Private SpaceX, Tesla LLMs (<a href="https://krebsonsecurity.com/2025/05/xai-dev-leaks-api-key-for-private-spacex-tesla-llms/">21 days ago</a>)</li>
+  <li>Issue Attachments Failing to Upload (<a href="https://www.githubstatus.com/incidents/9zmv2mqqxsbm">21 days ago</a>)</li>
+  <li>Author of the Month: Richard Bingley (<a href="https://www.itgovernance.co.uk/blog/author-of-the-month-richard-bingley">22 days ago</a>)</li>
+  <li>TehetségKapu - 54,357 breached accounts (<a href="https://haveibeenpwned.com/PwnedWebsites#TehetsegKapu">22 days ago</a>)</li>
+  <li>Welcoming The Gambia National CSIRT to Have I Been Pwned (<a href="https://www.troyhunt.com/welcoming-the-gambia-national-csirt-to-have-i-been-pwned/">22 days ago</a>)</li>
+  <li>Smashing Security podcast #415: Hacking hijinks at the hospital, and WASPI scams (<a href="https://grahamcluley.com/smashing-security-podcast-415-hacking-hijinks-at-the-hospital-and-waspi-scams/">22 days ago</a>)</li>
+  <li>Alleged ‘Scattered Spider’ Member Extradited to U.S. (<a href="https://krebsonsecurity.com/2025/04/alleged-scattered-spider-member-extradited-to-u-s/">22 days ago</a>)</li>
+  <li>Disruption with Pull Request Ref Updates (<a href="https://www.githubstatus.com/incidents/7r0jg1plygfm">22 days ago</a>)</li>
+  <li>The AI Fix #48: AI Jesus, and is the AI Singularity almost upon us? (<a href="https://grahamcluley.com/the-ai-fix-48/">24 days ago</a>)</li>
+  <li>Delays for web and email notification delivery (<a href="https://www.githubstatus.com/incidents/jvyb8cp9h0lh">24 days ago</a>)</li>
+  <li>Ransomware attacks on critical infrastructure surge, reports FBI (<a href="https://www.tripwire.com/state-of-security/ransomware-attacks-critical-infrastructure-surge-reports-fbi">24 days ago</a>)</li>
+  <li>21 million employee screenshots leaked in bossware breach blunder (<a href="https://www.bitdefender.com/en-us/blog/hotforsecurity/21-million-employee-screenshots-leaked-in-bossware-breach-blunder">24 days ago</a>)</li>
+  <li>Incident with Git Operations, API Requests and Issues (<a href="https://www.githubstatus.com/incidents/7lbnm9mg6549">25 days ago</a>)</li>
+  <li>Decoding njRAT traffic with NetworkMiner (<a href="https://www.netresec.com/?page=Blog&amp;month=2025-04&amp;post=Decoding-njRAT-traffic-with-NetworkMiner">25 days ago</a>)</li>
+  <li>Weekly Update 449 (<a href="https://www.troyhunt.com/weekly-update-449/">26 days ago</a>)</li>
+  <li>You’ll Soon Be Able to Sign in to Have I Been Pwned (but Not Login, Log in or Log On) (<a href="https://www.troyhunt.com/youll-soon-be-able-to-sign-in-to-have-i-been-pwned-but-not-login-log-in-or-log-on/">29 days ago</a>)</li>
+  <li>Disruption with some GitHub services (<a href="https://www.githubstatus.com/incidents/7hdyxpt7sdzm">29 days ago</a>)</li>
+  <li>DOGE Worker’s Code Supports NLRB Whistleblower (<a href="https://krebsonsecurity.com/2025/04/doge-workers-code-supports-nlrb-whistleblower/">29 days ago</a>)</li>
+</ul>
+
+<!-- news_marker ends -->
+ ]]>
+      </description>
+    </item>
+  </channel>
+</rss>

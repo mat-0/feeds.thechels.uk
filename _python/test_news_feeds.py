@@ -1,6 +1,6 @@
 import unittest
 import feedparser
-from news import URL_1, URL_2, URL_4, URL_5, URL_6, URL_7, URL_8, URL_9, URL_10, URL_11
+from _python.rss_insurance import URL_1, URL_2, URL_4, URL_5, URL_6, URL_7, URL_8, URL_9, URL_10, URL_11
 
 class TestNewsFeedURLs(unittest.TestCase):
     def setUp(self):

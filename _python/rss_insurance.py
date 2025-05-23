@@ -52,7 +52,7 @@ if __name__ == "__main__":
             string += f"- {item['title']} ([{item_time}]({item['link']}))\n"
 
 
-        f = root / "index.md"
+        f = root / "insurance.md"
         m = f.open().read()
         c = helper.replace_chunk(m, "news_marker", string)
         f.open("w").write(c)

@@ -45,19 +45,28 @@
                         // For the discerning insurance tech professional
                     </p>
                     <nav class="blog-menu">
-                        {% if page.id %}
-                        <a href="{{ site.url }}" title="Back to all posts">&larr; Back</a>
-                        {% else %}
-                        <a href="{{ site.url }}" title="Back to all home">&larr; Home</a>
-                        {% endif %}
-                        {% for item in site.navigation_header %}
-                        <a href="{{item.link}}">{{item.title}}</a>
-                        {% endfor %}
+                        
+                        <a href="http://localhost:4000" title="Back to all home">&larr; Home</a>
+                        
+                        
+                        <a href="/dotnet">Dotnet</a>
+                        
+                        <a href="/insurance">Insurance</a>
+                        
+                        <a href="/secops">SecOps</a>
+                        
+                        <a href="https://tools.thechels.uk">Tools &#11084;</a>
+                        
                     </nav>
                 </header>
                 <div id="main" class="content">
-                    <h1 class="post-title">{{page.title}}</h1>
-                    {{ content }}
+                    <h1 class="post-title">Welcome</h1>
+                    <p>Your go-to source for curated and aggregated news focused on engineering within the insurance industry. Stay informed with the latest updates, trends, and insights relevant to insurance technology and innovation.</p>
+
+<p>We are not affiliated with any of the sources we aggregate. We do not endorse or promote any specific company, product, or service. Our goal is to provide a neutral platform for sharing information and insights related to insurance technology.</p>
+
+<p>see our github for more information: <a href="https://github.com/Mat-0/feeds.thechels.uk">GitHub</a> to report bugs or suggest new features or sources.</p>
+
                 </div>
     </body>
 

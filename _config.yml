@@ -4,4 +4,15 @@ future: false
 sass:
   style: compressed
 permalink: ./:title
-url: https://insure.thechels.uk
+url: https://feeds.thechels.uk
+## Header
+navigation_header:
+  - link: "/dotnet"
+    title: "Dotnet"
+  - link: "/insurance"
+    title: "Insurance"
+  - link: "/secops"
+    title: "SecOps"
+  - link: "https://tools.thechels.uk"
+    title: "Tools &#11084;"
+## SubMenu

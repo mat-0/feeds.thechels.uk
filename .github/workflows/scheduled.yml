@@ -27,7 +27,11 @@ jobs:
                   pip install -r requirements.txt
 
             - name: Generate RSS feed
-              run: python _python/news.py
+              run: |
+                  python _python/dotnet.py
+                  python _python/insurance.py
+                  python _python/secops.py
+
               env:
                   GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
