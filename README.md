@@ -4,19 +4,25 @@ A repository to track third party (RSS) feeds from various insurance sites as Gi
 
 ## Adding a new feed
 
-Add to the relevant action yml file the following code; replacing `SourceName` with the provider as needed, including URL of the RSS/Atom/Json feed + any labels as appropriate
+To add a new feed, update the relevant Python files in the repository:
 
-```yaml
-SourceName:
-    runs-on: ubuntu-latest
-    steps:
-    - uses: guilhem/rss-issues-action@0.5.2
-      continue-on-error: true
-      with:
-        repo-token: ${{ secrets.GITHUB_TOKEN }}
-        feed: "[URL]"
-        prefix: "[SourceName]"
-        dry-run: "false"
-        lastTime: "24h"
-        labels: "SourceName, [App, DevOps]"
+1. **Locate the feed configuration**: Open the Python file (e.g., `feeds.py` or similar) where existing feeds are listed.
+2. **Add your feed**: Insert a new entry with the feed's URL and any required metadata (such as name, tags, etc.) following the existing format.
+3. **Save your changes**: Commit and push the updated Python file to the repository.
+4. **Test the feed**: Run the script that processes the feeds to ensure your new feed is working correctly and is being tracked as expected.
+
+## Example feed configuration
+
+```python
+URL_1 ="https://sub.domain.tld/feed/"
+
+# processing
+if __name__ == "__main__":
+    try:
+        root = pathlib.Path(__file__).parent.parent.resolve()
+
+        urls = [URL_1, ...]
+        all_items = []
+        ...
+
 ```
