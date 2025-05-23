@@ -1,3 +1,9 @@
 _python/__pycache__/
 .github/.DS_Store
 .DS_Store
+.idea/
+.vscode/
+_site/
+site/
+__pycache__/
+*.pyc
