@@ -8,7 +8,7 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Coding Faster with dotNetTips Spargine: Validating Arguments Made Easy with Validator ([13 hours ago](https://dotnettips.wordpress.com/2025/05/25/coding-faster-with-dotnettips-spargine-validating-arguments-made-easy-with-validator/))
+- Coding Faster with dotNetTips Spargine: Validating Arguments Made Easy with Validator ([14 hours ago](https://dotnettips.wordpress.com/2025/05/25/coding-faster-with-dotnettips-spargine-validating-arguments-made-easy-with-validator/))
 - F# Weekly #21, 2025 - Build 2025 &amp; ReSharper in VS Code ([1 days ago](https://dotnetkicks.com/r/721063?url=https://sergeytihon.com/2025/05/24/f-weekly-21-2025-build-2025-resharper-in-vs-code/))
 - Avoid Build Breaks: Fixing SDK Conflicts Between Visual Studio and Preview Versions ([2 days ago](https://dotnettips.wordpress.com/2025/05/23/avoid-build-breaks-fixing-sdk-conflicts-between-visual-studio-and-preview-versions/))
 - Critter Stack Release Plans ([2 days ago](https://dotnetkicks.com/r/720986?url=https://jeremydmiller.com/2025/05/22/critter-stack-release-plans/))
@@ -46,7 +46,7 @@ description: DotNet Updates
 - Evaluating content safety in your .NET AI applications ([10 days ago](https://devblogs.microsoft.com/dotnet/evaluating-ai-content-safety/))
 - Software Innovations: IOS - The Operating System That Put The Future In Your Pocket  -  Build5Nines ([10 days ago](https://dotnetkicks.com/r/720062?url=https://build5nines.com/ios-the-operating-system-that-put-the-future-in-your-pocket/))
 - The Value of a JasperFx Support Contract ([10 days ago](https://dotnetkicks.com/r/720047?url=https://jeremydmiller.com/2025/05/14/the-value-of-a-jasperfx-support-contract/))
-- Form Akka.NET Clusters Dynamically with Akka.Management and Akka.Discovery ([10 days ago](https://dotnetkicks.com/r/720040?url=https://petabridge.com/blog/akka-management/))
+- Form Akka.NET Clusters Dynamically with Akka.Management and Akka.Discovery ([11 days ago](https://dotnetkicks.com/r/720040?url=https://petabridge.com/blog/akka-management/))
 - Boost Your .NET Projects: Supercharge Your Code with FastStringBuilder in Spargine ([11 days ago](https://dotnettips.wordpress.com/2025/05/14/boost-your-net-projects-supercharge-your-code-with-faststringbuilder-in-spargine/))
 - .NET and .NET Framework May 2025 servicing releases updates ([11 days ago](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-may-2025-servicing-updates/))
 - .NET 10 Preview 4 is now available! ([12 days ago](https://devblogs.microsoft.com/dotnet/dotnet-10-preview-4/))
