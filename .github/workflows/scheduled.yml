@@ -28,9 +28,9 @@ jobs:
 
             - name: Generate RSS feed
               run: |
-                  python _python/dotnet.py
-                  python _python/insurance.py
-                  python _python/secops.py
+                  python _python/rss_dotnet.py
+                  python _python/rss_insurance.py
+                  python _python/rss_secops.py
 
               env:
                   GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
