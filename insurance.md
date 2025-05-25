@@ -8,10 +8,10 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Van Insurance: Which Occupations Get The Lowest Quotes on Average? ([10 hours ago](https://insurance-edge.net/2025/05/25/van-insurance-which-occupations-get-the-lowest-quotes-on-average/))
-- Dissecting the McKinsey Report for Profitability in P&C ([11 hours ago](https://www.insurancejournal.com/blogs/agentsync/2025/05/25/822955.htm))
+- Van Insurance: Which Occupations Get The Lowest Quotes on Average? ([11 hours ago](https://insurance-edge.net/2025/05/25/van-insurance-which-occupations-get-the-lowest-quotes-on-average/))
+- Dissecting the McKinsey Report for Profitability in P&C ([12 hours ago](https://www.insurancejournal.com/blogs/agentsync/2025/05/25/822955.htm))
 - Do You Know How to Claim Damages For Potholes Wrecking Your Car? ([1 days ago](https://insurance-edge.net/2025/05/24/do-you-know-how-to-claim-damages-for-potholes-wrecking-your-car/))
-- California And 10 Other States Launch Clean Cars Coalition Following Senate Vote ([1 days ago](https://www.insurancejournal.com/news/west/2025/05/23/825019.htm))
+- California And 10 Other States Launch Clean Cars Coalition Following Senate Vote ([2 days ago](https://www.insurancejournal.com/news/west/2025/05/23/825019.htm))
 - AI Predictions: The Roadmap to The Future, Or Just a Gimmick? ([2 days ago](https://insurance-edge.net/2025/05/23/ai-predictions-the-roadmap-to-the-future-or-just-a-gimmick/))
 - California Brokerage Executive to Plead Guilty to Illegal Campaign Contributions ([2 days ago](https://www.insurancejournal.com/news/west/2025/05/23/825013.htm))
 - Insurtech: It’s Another Client Win For Sapiens ([2 days ago](https://insurance-edge.net/2025/05/23/insurtech-its-another-client-win-for-sapiens/))
