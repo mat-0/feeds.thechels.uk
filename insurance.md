@@ -21,7 +21,7 @@ description: Insurance Updates
 - Shareholders of Swiss Insurers Helvetia and Baloise Approve Merger ([1 days ago](https://www.insurancejournal.com/news/international/2025/05/23/824986.htm))
 - Don’t Miss Out: Enter Now for Insurance Journal’s Top 100 P/C Agencies Ranking ([1 days ago](https://www.insurancejournal.com/news/national/2025/05/23/824981.htm))
 - Aon promotes Reeve-Tucker to head of fac reinsurance for Latin America ([1 days ago](https://www.reinsurancene.ws/aon-promotes-reeve-tucker-to-head-of-fac-reinsurance-for-latin-america/))
-- Peak Claims Group and Canopy Weather partner to enhance Peak Triage platform ([1 days ago](https://www.reinsurancene.ws/peak-claims-group-and-canopy-weather-partner-to-enhance-peak-triage-platform/))
+- Peak Claims Group and Canopy Weather partner to enhance Peak Triage platform ([2 days ago](https://www.reinsurancene.ws/peak-claims-group-and-canopy-weather-partner-to-enhance-peak-triage-platform/))
 - Lockton welcomes Jeff Miller as National Practice Leader to boost People Solutions ([2 days ago](https://www.reinsurancene.ws/lockton-welcomes-jeff-miller-as-national-practice-leader-to-boost-people-solutions/))
 - Private Funds Are Turning to Complex Bonds to Tackle Cash Crunch ([2 days ago](https://www.insurancejournal.com/news/national/2025/05/23/824972.htm))
 - Dangerous-Dog Owners in Florida Must Now Get $100,000 in Liability Insurance ([2 days ago](https://www.insurancejournal.com/news/southeast/2025/05/23/824968.htm))
