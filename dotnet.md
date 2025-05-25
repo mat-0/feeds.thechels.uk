@@ -8,8 +8,8 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Coding Faster with dotNetTips Spargine: Validating Arguments Made Easy with Validator ([11 hours ago](https://dotnettips.wordpress.com/2025/05/25/coding-faster-with-dotnettips-spargine-validating-arguments-made-easy-with-validator/))
-- F# Weekly #21, 2025 - Build 2025 &amp; ReSharper in VS Code ([22 hours ago](https://dotnetkicks.com/r/721063?url=https://sergeytihon.com/2025/05/24/f-weekly-21-2025-build-2025-resharper-in-vs-code/))
+- Coding Faster with dotNetTips Spargine: Validating Arguments Made Easy with Validator ([12 hours ago](https://dotnettips.wordpress.com/2025/05/25/coding-faster-with-dotnettips-spargine-validating-arguments-made-easy-with-validator/))
+- F# Weekly #21, 2025 - Build 2025 &amp; ReSharper in VS Code ([23 hours ago](https://dotnetkicks.com/r/721063?url=https://sergeytihon.com/2025/05/24/f-weekly-21-2025-build-2025-resharper-in-vs-code/))
 - Avoid Build Breaks: Fixing SDK Conflicts Between Visual Studio and Preview Versions ([2 days ago](https://dotnettips.wordpress.com/2025/05/23/avoid-build-breaks-fixing-sdk-conflicts-between-visual-studio-and-preview-versions/))
 - Critter Stack Release Plans ([2 days ago](https://dotnetkicks.com/r/720986?url=https://jeremydmiller.com/2025/05/22/critter-stack-release-plans/))
 - Azure AI Foundry: What is it and Why Should You Care ([3 days ago](https://dotnetkicks.com/r/720812?url=https://www.mobilize.net/blog/azure-ai-foundry-what-is-it-and-why-should-you-care?utm_source=DNK-720812&utm_medium=DNK-720812&utm_content=DNK-720812&utm_campaign=DNK-720812))
@@ -24,7 +24,7 @@ description: DotNet Updates
 - Boost Your .NET Projects: Master Type Management with TypeHelper in Spargine ([4 days ago](https://dotnettips.wordpress.com/2025/05/21/boost-your-net-projects-master-type-management-with-typehelper-in-spargine/))
 - Pushing a whole stack of branches with a single Git command ([5 days ago](https://dotnetkicks.com/r/720595?url=https://andrewlock.net/pushing-a-whole-stack-of-branches-with-a-single-git-command/))
 - Pushing a whole stack of branches with a single Git command ([5 days ago](https://andrewlock.net/pushing-a-whole-stack-of-branches-with-a-single-git-command/))
-- .NET Aspire 9.3 is here and enhanced with GitHub Copilot! - .NET Blog ([5 days ago](https://dotnetkicks.com/r/720470?url=https://devblogs.microsoft.com/dotnet/introducing-dotnet-aspire-93/))
+- .NET Aspire 9.3 is here and enhanced with GitHub Copilot! - .NET Blog ([6 days ago](https://dotnetkicks.com/r/720470?url=https://devblogs.microsoft.com/dotnet/introducing-dotnet-aspire-93/))
 - .NET Aspire 9.3 is here and enhanced with GitHub Copilot! ([6 days ago](https://devblogs.microsoft.com/dotnet/introducing-dotnet-aspire-93/))
 - Faster .NET Upgrades Powered by GitHub Copilot - Visual Studio Blog ([6 days ago](https://dotnetkicks.com/r/720443?url=https://devblogs.microsoft.com/visualstudio/faster-net-upgrades-powered-by-github-copilot/))
 - Accelerate Your .NET Upgrades with GitHub Copilot - .NET Blog ([6 days ago](https://dotnetkicks.com/r/720428?url=https://devblogs.microsoft.com/dotnet/github-copilot-upgrade-dotnet/))
@@ -53,7 +53,7 @@ description: DotNet Updates
 - Using the new AI template to create a chatbot about a website ([12 days ago](https://andrewlock.net/using-the-new-ai-template-to-create-a-chatbot-about-a-website/))
 - dotNetDave Says… Avoid Going Across the Wire Until Necessary! ([13 days ago](https://dotnettips.wordpress.com/2025/05/12/dotnetdave-says-avoid-going-across-the-wire-until-necessary/))
 - Boost Your .NET Projects: Supercharge Your Performance Tracking with PerformanceStopwatch in Spargine ([14 days ago](https://dotnettips.wordpress.com/2025/05/11/boost-your-net-projects-supercharge-your-performance-tracking-with-performancestopwatch/))
-- C# 14 – Exploring extension members ([16 days ago](https://devblogs.microsoft.com/dotnet/csharp-exploring-extension-members/))
+- C# 14 – Exploring extension members ([17 days ago](https://devblogs.microsoft.com/dotnet/csharp-exploring-extension-members/))
 - ReSharper and Rider 2025.1.2 – Bug Fixes Have Landed! ([17 days ago](https://blog.jetbrains.com/dotnet/2025/05/08/resharper-rider-2025-1-2-bug-fix/))
 - Why we built our startup in C# ([18 days ago](https://devblogs.microsoft.com/dotnet/why-we-built-our-startup-in-csharp/))
 - Boost Your .NET Projects: Enhancing .NET Logging with LoggingHelper in Spargine ([18 days ago](https://dotnettips.wordpress.com/2025/05/07/boost-your-net-projects-enhancing-net-logging-with-logginghelper-in-spargine/))

@@ -8,8 +8,8 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Van Insurance: Which Occupations Get The Lowest Quotes on Average? ([7 hours ago](https://insurance-edge.net/2025/05/25/van-insurance-which-occupations-get-the-lowest-quotes-on-average/))
-- Dissecting the McKinsey Report for Profitability in P&C ([8 hours ago](https://www.insurancejournal.com/blogs/agentsync/2025/05/25/822955.htm))
+- Van Insurance: Which Occupations Get The Lowest Quotes on Average? ([8 hours ago](https://insurance-edge.net/2025/05/25/van-insurance-which-occupations-get-the-lowest-quotes-on-average/))
+- Dissecting the McKinsey Report for Profitability in P&C ([9 hours ago](https://www.insurancejournal.com/blogs/agentsync/2025/05/25/822955.htm))
 - Do You Know How to Claim Damages For Potholes Wrecking Your Car? ([1 days ago](https://insurance-edge.net/2025/05/24/do-you-know-how-to-claim-damages-for-potholes-wrecking-your-car/))
 - California And 10 Other States Launch Clean Cars Coalition Following Senate Vote ([1 days ago](https://www.insurancejournal.com/news/west/2025/05/23/825019.htm))
 - AI Predictions: The Roadmap to The Future, Or Just a Gimmick? ([1 days ago](https://insurance-edge.net/2025/05/23/ai-predictions-the-roadmap-to-the-future-or-just-a-gimmick/))
@@ -95,7 +95,7 @@ description: Insurance Updates
 - Geospatial data uncovers lower wildfire-risk properties in California, Triple-I ([3 days ago](https://www.dig-in.com/news/geospatial-data-wildfire-prone-california-properties))
 - Customer strategy: Clearing up flood insurance coverage confusion ([3 days ago](https://www.dig-in.com/opinion/clearing-up-flood-insurance-coverage-confusion))
 - Europe's farm sector loses $31.5B a year from climate risks ([3 days ago](https://www.dig-in.com/articles/europes-farm-sector-loses-31-5b-a-year-from-climate-risks))
-- Verizon-Frontier deal gets green light after ending DEI commitments ([3 days ago](https://www.insurancebusinessmag.com/uk/business-strategy/verizonfrontier-deal-gets-green-light-after-ending-dei-commitments-536482.aspx))
+- Verizon-Frontier deal gets green light after ending DEI commitments ([4 days ago](https://www.insurancebusinessmag.com/uk/business-strategy/verizonfrontier-deal-gets-green-light-after-ending-dei-commitments-536482.aspx))
 - Quandri Appoints Patrick Mulroy as Head of Strategy and Partnerships to Spearhead North American Expansion ([4 days ago](https://www.insurtechinsights.com/quandri-appoints-patrick-mulroy-as-head-of-strategy-and-partnerships-to-spearhead-north-american-expansion/))
 - Parametrix Launches Embedded Insurance Coverage for Endpoint Failures via Leading EDR Providers ([4 days ago](https://www.insurtechinsights.com/parametrix-launches-embedded-insurance-coverage-for-endpoint-failures-via-leading-edr-providers/))
 - MGAA looking at increasing Lloyd’s syndicate membership ([4 days ago](https://www.postonline.co.uk/news/7957794/mgaa-looking-at-increasing-lloyd%E2%80%99s-syndicate-membership))
