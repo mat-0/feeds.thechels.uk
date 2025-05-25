@@ -8,11 +8,11 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Coding Faster with dotNetTips Spargine: Validating Arguments Made Easy with Validator ([7 hours ago](https://dotnettips.wordpress.com/2025/05/25/coding-faster-with-dotnettips-spargine-validating-arguments-made-easy-with-validator/))
-- F# Weekly #21, 2025 - Build 2025 &amp; ReSharper in VS Code ([18 hours ago](https://dotnetkicks.com/r/721063?url=https://sergeytihon.com/2025/05/24/f-weekly-21-2025-build-2025-resharper-in-vs-code/))
+- Coding Faster with dotNetTips Spargine: Validating Arguments Made Easy with Validator ([8 hours ago](https://dotnettips.wordpress.com/2025/05/25/coding-faster-with-dotnettips-spargine-validating-arguments-made-easy-with-validator/))
+- F# Weekly #21, 2025 - Build 2025 &amp; ReSharper in VS Code ([19 hours ago](https://dotnetkicks.com/r/721063?url=https://sergeytihon.com/2025/05/24/f-weekly-21-2025-build-2025-resharper-in-vs-code/))
 - Avoid Build Breaks: Fixing SDK Conflicts Between Visual Studio and Preview Versions ([2 days ago](https://dotnettips.wordpress.com/2025/05/23/avoid-build-breaks-fixing-sdk-conflicts-between-visual-studio-and-preview-versions/))
 - Critter Stack Release Plans ([2 days ago](https://dotnetkicks.com/r/720986?url=https://jeremydmiller.com/2025/05/22/critter-stack-release-plans/))
-- Azure AI Foundry: What is it and Why Should You Care ([2 days ago](https://dotnetkicks.com/r/720812?url=https://www.mobilize.net/blog/azure-ai-foundry-what-is-it-and-why-should-you-care?utm_source=DNK-720812&utm_medium=DNK-720812&utm_content=DNK-720812&utm_campaign=DNK-720812))
+- Azure AI Foundry: What is it and Why Should You Care ([3 days ago](https://dotnetkicks.com/r/720812?url=https://www.mobilize.net/blog/azure-ai-foundry-what-is-it-and-why-should-you-care?utm_source=DNK-720812&utm_medium=DNK-720812&utm_content=DNK-720812&utm_campaign=DNK-720812))
 - Software Innovation: The Epic Journey Of Microsoft Visual Studio - Code, Craft, And Continuity  -  Build5Nines ([3 days ago](https://dotnetkicks.com/r/720896?url=https://build5nines.com/software-innovation-the-epic-journey-of-microsoft-visual-studio-code-craft-and-continuity/))
 - ReSharper 2025.2 EAP 2: First Public Build with Out-of-Process Mode Support ([3 days ago](https://blog.jetbrains.com/dotnet/2025/05/22/resharper-2025-2-eap-2-oop-mode/))
 - Message Concurrency, Parallelism, and Ordering with Wolverine ([3 days ago](https://dotnetkicks.com/r/720795?url=https://jeremydmiller.com/2025/05/21/message-concurrency-parallelism-and-ordering-with-wolverine/))
