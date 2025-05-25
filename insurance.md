@@ -8,8 +8,8 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Van Insurance: Which Occupations Get The Lowest Quotes on Average? ([8 hours ago](https://insurance-edge.net/2025/05/25/van-insurance-which-occupations-get-the-lowest-quotes-on-average/))
-- Dissecting the McKinsey Report for Profitability in P&C ([9 hours ago](https://www.insurancejournal.com/blogs/agentsync/2025/05/25/822955.htm))
+- Van Insurance: Which Occupations Get The Lowest Quotes on Average? ([9 hours ago](https://insurance-edge.net/2025/05/25/van-insurance-which-occupations-get-the-lowest-quotes-on-average/))
+- Dissecting the McKinsey Report for Profitability in P&C ([10 hours ago](https://www.insurancejournal.com/blogs/agentsync/2025/05/25/822955.htm))
 - Do You Know How to Claim Damages For Potholes Wrecking Your Car? ([1 days ago](https://insurance-edge.net/2025/05/24/do-you-know-how-to-claim-damages-for-potholes-wrecking-your-car/))
 - California And 10 Other States Launch Clean Cars Coalition Following Senate Vote ([1 days ago](https://www.insurancejournal.com/news/west/2025/05/23/825019.htm))
 - AI Predictions: The Roadmap to The Future, Or Just a Gimmick? ([1 days ago](https://insurance-edge.net/2025/05/23/ai-predictions-the-roadmap-to-the-future-or-just-a-gimmick/))
@@ -64,7 +64,7 @@ description: Insurance Updates
 - European Officials Weigh Response to US Efforts to Thwart Local DEI Programs ([2 days ago](https://www.insurancejournal.com/news/international/2025/05/23/824762.htm))
 - Are e-scooters worth the hassle? ([2 days ago](https://www.postonline.co.uk/regulation/7957744/are-e-scooters-worth-the-hassle))
 - Penny Black’s Social Diary: Crawford’s wind; Zurich’s golfing prowess ([2 days ago](https://www.postonline.co.uk/people/7957569/penny-black%E2%80%99s-social-diary-crawford%E2%80%99s-wind-zurich%E2%80%99s-golfing-prowess))
-- CFC boosts cyber cover for high-risk digital sectors ([2 days ago](https://www.insurancebusinessmag.com/uk/news/cyber/cfc-boosts-cyber-cover-for-highrisk-digital-sectors-536652.aspx))
+- CFC boosts cyber cover for high-risk digital sectors ([3 days ago](https://www.insurancebusinessmag.com/uk/news/cyber/cfc-boosts-cyber-cover-for-highrisk-digital-sectors-536652.aspx))
 - Combating misinformation strategy: Verify, then trust ([3 days ago](https://www.dig-in.com/opinion/strategies-for-fighting-misinformation))
 - AI is changing insurance strategies for small businesses ([3 days ago](https://www.dig-in.com/opinion/ai-is-changing-insurance-strategies-for-small-businesses))
 - Kota Raises $14.5 Million to Streamline Insurance Benefits Infrastructure ([3 days ago](https://www.insurtechinsights.com/kota-raises-14-5-million-to-streamline-insurance-benefits-infrastructure/))
