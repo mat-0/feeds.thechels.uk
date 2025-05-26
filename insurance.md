@@ -8,8 +8,8 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Australia’s East Coast Begins Flood Cleanup as Waters Recede ([2 hours ago](https://www.insurancejournal.com/news/international/2025/05/26/825043.htm))
-- AA weighs options as valuation tops £4 billion ([3 hours ago](https://www.insurancebusinessmag.com/uk/news/auto-motor/aa-weighs-options-as-valuation-tops-4-billion-536849.aspx))
+- Australia’s East Coast Begins Flood Cleanup as Waters Recede ([3 hours ago](https://www.insurancejournal.com/news/international/2025/05/26/825043.htm))
+- AA weighs options as valuation tops £4 billion ([4 hours ago](https://www.insurancebusinessmag.com/uk/news/auto-motor/aa-weighs-options-as-valuation-tops-4-billion-536849.aspx))
 - Van Insurance: Which Occupations Get The Lowest Quotes on Average? ([1 days ago](https://insurance-edge.net/2025/05/25/van-insurance-which-occupations-get-the-lowest-quotes-on-average/))
 - Dissecting the McKinsey Report for Profitability in P&C ([1 days ago](https://www.insurancejournal.com/blogs/agentsync/2025/05/25/822955.htm))
 - Do You Know How to Claim Damages For Potholes Wrecking Your Car? ([2 days ago](https://insurance-edge.net/2025/05/24/do-you-know-how-to-claim-damages-for-potholes-wrecking-your-car/))
@@ -34,7 +34,7 @@ description: Insurance Updates
 - Alchemy Insurance Solutions Expands Appetite to Cultivation ([2 days ago](https://www.insurancejournal.com/services/newswire/2025/05/23/822727.htm))
 - BHSI expands Executive & Professional insurance lines in Italy ([2 days ago](https://www.reinsurancene.ws/bhsi-expands-executive-professional-insurance-lines-in-italy/))
 - AIG Settles Lawsuit Against E&S Rival Dellwood and Former Employees ([2 days ago](https://www.insurancejournal.com/news/national/2025/05/23/824949.htm))
-- Disciplined strategy & deep commitment to clients key to MS Re’s 2024 performance: CEO ([2 days ago](https://www.reinsurancene.ws/disciplined-strategy-deep-commitment-to-clients-key-to-ms-res-2024-performance-ceo/))
+- Disciplined strategy & deep commitment to clients key to MS Re’s 2024 performance: CEO ([3 days ago](https://www.reinsurancene.ws/disciplined-strategy-deep-commitment-to-clients-key-to-ms-res-2024-performance-ceo/))
 - Competitive pension buyout costs decline in April 2025, Milliman reports ([3 days ago](https://www.reinsurancene.ws/competitive-pension-buyout-costs-decline-in-april-2025-milliman-reports/))
 - Fenchurch appoints Kingsley Flynn as Chairman and Non-Executive Director ([3 days ago](https://www.reinsurancene.ws/fenchurch-appoints-kingsley-flynn-as-chairman-and-non-executive-director/))
 - AmTrust sees continued growth in Turkish operations ([3 days ago](https://www.reinsurancene.ws/amtrust-sees-continued-growth-in-turkish-operations/))
@@ -70,7 +70,7 @@ description: Insurance Updates
 - AI is changing insurance strategies for small businesses ([3 days ago](https://www.dig-in.com/opinion/ai-is-changing-insurance-strategies-for-small-businesses))
 - Kota Raises $14.5 Million to Streamline Insurance Benefits Infrastructure ([3 days ago](https://www.insurtechinsights.com/kota-raises-14-5-million-to-streamline-insurance-benefits-infrastructure/))
 - State Farm's added California rate hike request gets pushback ([3 days ago](https://www.dig-in.com/news/state-farms-added-california-rate-hike-gets-pushback))
-- Previsico Report Finds Fewer Than 30% of UK Businesses Prepared for Growing Flood Risks Amid Climate Change ([3 days ago](https://www.insurtechinsights.com/previsico-report-finds-fewer-than-30-of-uk-businesses-prepared-for-growing-flood-risks-amid-climate-change/))
+- Previsico Report Finds Fewer Than 30% of UK Businesses Prepared for Growing Flood Risks Amid Climate Change ([4 days ago](https://www.insurtechinsights.com/previsico-report-finds-fewer-than-30-of-uk-businesses-prepared-for-growing-flood-risks-amid-climate-change/))
 - Marsh McLennan settles massive lawsuit ([4 days ago](https://www.insurancebusinessmag.com/uk/news/legal-insights/marsh-mclennan-settles-massive-lawsuit-536579.aspx))
 - Davies secures £275m for M&A and genAI investment ([4 days ago](https://www.postonline.co.uk/claims/7957808/davies-secures-%C2%A3275m-for-ma-and-genai-investment))
 - The case for MBOs: Yutree's managing director urges brokers to rethink their future ([4 days ago](https://www.insurancebusinessmag.com/uk/news/business-resilience/the-case-for-mbos-yutrees-managing-director-urges-brokers-to-rethink-their-future-536561.aspx))

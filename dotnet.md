@@ -8,7 +8,9 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Revisiting using a Content Security Policy (CSP) nonce in Blazor ([6 minutes ago](https://dotnetkicks.com/r/721107?url=https://damienbod.com/2025/05/26/revisiting-using-a-content-security-policy-csp-nonce-in-blazor/))
+- Azure AI Services in a Nutshell - A Developer's Mind Map ([13 minutes ago](https://dotnetkicks.com/r/721134?url=https://dailydotnettips.com/azure-ai-services-in-a-nutshell-a-developers-mind-map/))
+- Azure AI Services in a Nutshell - A Developer's Mind Map ([13 minutes ago](https://dotnetkicks.com/r/721130?url=https://dailydotnettips.com/azure-ai-services-in-a-nutshell-a-developers-mind-map/))
+- Revisiting using a Content Security Policy (CSP) nonce in Blazor ([33 minutes ago](https://dotnetkicks.com/r/721107?url=https://damienbod.com/2025/05/26/revisiting-using-a-content-security-policy-csp-nonce-in-blazor/))
 - Coding Faster with dotNetTips Spargine: Validating Arguments Made Easy with Validator ([1 days ago](https://dotnettips.wordpress.com/2025/05/25/coding-faster-with-dotnettips-spargine-validating-arguments-made-easy-with-validator/))
 - F# Weekly #21, 2025 - Build 2025 &amp; ReSharper in VS Code ([1 days ago](https://dotnetkicks.com/r/721063?url=https://sergeytihon.com/2025/05/24/f-weekly-21-2025-build-2025-resharper-in-vs-code/))
 - Avoid Build Breaks: Fixing SDK Conflicts Between Visual Studio and Preview Versions ([3 days ago](https://dotnettips.wordpress.com/2025/05/23/avoid-build-breaks-fixing-sdk-conflicts-between-visual-studio-and-preview-versions/))
@@ -45,8 +47,6 @@ description: DotNet Updates
 - Evaluating content safety in your .NET AI applications - .NET Blog ([10 days ago](https://dotnetkicks.com/r/720127?url=https://devblogs.microsoft.com/dotnet/evaluating-ai-content-safety/))
 - Evaluating content safety in your .NET AI applications - .NET Blog ([10 days ago](https://dotnetkicks.com/r/720117?url=https://devblogs.microsoft.com/dotnet/evaluating-ai-content-safety/))
 - Evaluating content safety in your .NET AI applications ([10 days ago](https://devblogs.microsoft.com/dotnet/evaluating-ai-content-safety/))
-- Software Innovations: IOS - The Operating System That Put The Future In Your Pocket  -  Build5Nines ([11 days ago](https://dotnetkicks.com/r/720062?url=https://build5nines.com/ios-the-operating-system-that-put-the-future-in-your-pocket/))
-- The Value of a JasperFx Support Contract ([11 days ago](https://dotnetkicks.com/r/720047?url=https://jeremydmiller.com/2025/05/14/the-value-of-a-jasperfx-support-contract/))
 - Boost Your .NET Projects: Supercharge Your Code with FastStringBuilder in Spargine ([12 days ago](https://dotnettips.wordpress.com/2025/05/14/boost-your-net-projects-supercharge-your-code-with-faststringbuilder-in-spargine/))
 - .NET and .NET Framework May 2025 servicing releases updates ([12 days ago](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-may-2025-servicing-updates/))
 - .NET 10 Preview 4 is now available! ([12 days ago](https://devblogs.microsoft.com/dotnet/dotnet-10-preview-4/))
@@ -60,7 +60,7 @@ description: DotNet Updates
 - Exploring the new AI chat template ([20 days ago](https://andrewlock.net/exploring-the-new-ai-chat-template/))
 - dotInsights  -  May 2025 ([20 days ago](https://blog.jetbrains.com/dotnet/2025/05/06/dotinsights-may-2025/))
 - Boost Your .NET Projects: Simplify Dictionary Handling with AutoDefaultDictionary in Spargine ([22 days ago](https://dotnettips.wordpress.com/2025/05/04/boost-your-net-projects-simplify-dictionary-handling-with-autodefaultdictionary-in-spargine/))
-- Coding Faster with dotNetTips.com Spargine 8: May 2025 Release ([24 days ago](https://dotnettips.wordpress.com/2025/05/01/coding-faster-with-dotnettips-com-spargine-8-may-2025-release/))
+- Coding Faster with dotNetTips.com Spargine 8: May 2025 Release ([25 days ago](https://dotnettips.wordpress.com/2025/05/01/coding-faster-with-dotnettips-com-spargine-8-may-2025-release/))
 - Packaging and Publishing a .NET MAUI Library with GitHub Actions ([25 days ago](https://devblogs.microsoft.com/dotnet/dotnet-maui-libraries-github-actions/))
 - Creating a 'pooled' dependency injection lifetime ([27 days ago](https://andrewlock.net/creating-a-pooled-dependency-injection-lifetime/))
 - The First Set of Bug Fixes for ReSharper and Rider 2025.1 Is Here! ([27 days ago](https://blog.jetbrains.com/dotnet/2025/04/29/2025-1-1-hot-fix/))
