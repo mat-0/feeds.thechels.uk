@@ -9,7 +9,7 @@ description: Insurance Updates
 
 <!-- news_marker starts -->
 - Australia’s East Coast Begins Flood Cleanup as Waters Recede ([2 hours ago](https://www.insurancejournal.com/news/international/2025/05/26/825043.htm))
-- AA weighs options as valuation tops £4 billion ([2 hours ago](https://www.insurancebusinessmag.com/uk/news/auto-motor/aa-weighs-options-as-valuation-tops-4-billion-536849.aspx))
+- AA weighs options as valuation tops £4 billion ([3 hours ago](https://www.insurancebusinessmag.com/uk/news/auto-motor/aa-weighs-options-as-valuation-tops-4-billion-536849.aspx))
 - Van Insurance: Which Occupations Get The Lowest Quotes on Average? ([1 days ago](https://insurance-edge.net/2025/05/25/van-insurance-which-occupations-get-the-lowest-quotes-on-average/))
 - Dissecting the McKinsey Report for Profitability in P&C ([1 days ago](https://www.insurancejournal.com/blogs/agentsync/2025/05/25/822955.htm))
 - Do You Know How to Claim Damages For Potholes Wrecking Your Car? ([2 days ago](https://insurance-edge.net/2025/05/24/do-you-know-how-to-claim-damages-for-potholes-wrecking-your-car/))
@@ -99,8 +99,8 @@ description: Insurance Updates
 - Verizon-Frontier deal gets green light after ending DEI commitments ([4 days ago](https://www.insurancebusinessmag.com/uk/business-strategy/verizonfrontier-deal-gets-green-light-after-ending-dei-commitments-536482.aspx))
 - Quandri Appoints Patrick Mulroy as Head of Strategy and Partnerships to Spearhead North American Expansion ([4 days ago](https://www.insurtechinsights.com/quandri-appoints-patrick-mulroy-as-head-of-strategy-and-partnerships-to-spearhead-north-american-expansion/))
 - Parametrix Launches Embedded Insurance Coverage for Endpoint Failures via Leading EDR Providers ([4 days ago](https://www.insurtechinsights.com/parametrix-launches-embedded-insurance-coverage-for-endpoint-failures-via-leading-edr-providers/))
-- MGAA looking at increasing Lloyd’s syndicate membership ([4 days ago](https://www.postonline.co.uk/news/7957794/mgaa-looking-at-increasing-lloyd%E2%80%99s-syndicate-membership))
-- Insurers must stay ‘live’ to broker tech capability ([4 days ago](https://www.postonline.co.uk/broker/7957792/insurers-must-stay-%E2%80%98live%E2%80%99-to-broker-tech-capability))
+- MGAA looking at increasing Lloyd’s syndicate membership ([5 days ago](https://www.postonline.co.uk/news/7957794/mgaa-looking-at-increasing-lloyd%E2%80%99s-syndicate-membership))
+- Insurers must stay ‘live’ to broker tech capability ([5 days ago](https://www.postonline.co.uk/broker/7957792/insurers-must-stay-%E2%80%98live%E2%80%99-to-broker-tech-capability))
 - Only 1 in 100 insurers say Claims-Finance Collaboration is “highly effective” ([5 days ago](https://ifamagazine.com/only-1-in-100-insurers-say-claims-finance-collaboration-is-highly-effective/))
 - Shortlists revealed for Best Insurance Employer categories for 2025 BIAs ([5 days ago](https://www.postonline.co.uk/broker/7957793/shortlists-revealed-for-best-insurance-employer-categories-for-2025-bias))
 - Data, data, data: MGAs play a key role in better market performance ([5 days ago](https://www.insurancebusinessmag.com/uk/news/columns/data-data-data-mgas-play-a-key-role-in-better-market-performance-536399.aspx))
@@ -127,7 +127,7 @@ description: Insurance Updates
 - Ageas to keep Esure and Saga brands ([6 days ago](https://www.postonline.co.uk/news/7957788/ageas-to-keep-esure-and-saga-brands))
 - Aviva targets midmarket with updated multinational proposition ([6 days ago](https://www.postonline.co.uk/broker/7957787/aviva-targets-midmarket-with-updated-multinational-proposition))
 - Industry reaction to the Law Comission’s will reform report ([7 days ago](https://ifamagazine.com/industry-reaction-to-the-law-comissions-will-reform-report/))
-- Relm Explains How Insurance is the Backbone For Pushing the Boundaries of Innovation ([8 days ago](https://thefintechtimes.com/relm-explains-how-insurance-is-the-backbone-for-pushing-the-boundaries-of-innovation/))
+- Relm Explains How Insurance is the Backbone For Pushing the Boundaries of Innovation ([9 days ago](https://thefintechtimes.com/relm-explains-how-insurance-is-the-backbone-for-pushing-the-boundaries-of-innovation/))
 - Rosemount Financial Solutions (IFA) announces 4C Platform partnership to support private medical insurance advice ([12 days ago](https://ifamagazine.com/rosemount-financial-solutions-ifa-announces-4c-platform-partnership-to-support-private-medical-insurance-advice/))
 - Seventy-two per cent of new absentees under group income protection policies returned to work during 2024 ([13 days ago](https://ifamagazine.com/seventy-two-per-cent-of-new-absentees-under-group-income-protection-policies-returned-to-work-during-2024/))
 - IHC Set to Launch AI-Driven Reinsurance Platform in the Gulf Region ([15 days ago](https://thefintechtimes.com/ihc-set-to-launch-ai-driven-reinsurance-platform/))

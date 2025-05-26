@@ -8,6 +8,7 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
+- Revisiting using a Content Security Policy (CSP) nonce in Blazor ([6 minutes ago](https://dotnetkicks.com/r/721107?url=https://damienbod.com/2025/05/26/revisiting-using-a-content-security-policy-csp-nonce-in-blazor/))
 - Coding Faster with dotNetTips Spargine: Validating Arguments Made Easy with Validator ([1 days ago](https://dotnettips.wordpress.com/2025/05/25/coding-faster-with-dotnettips-spargine-validating-arguments-made-easy-with-validator/))
 - F# Weekly #21, 2025 - Build 2025 &amp; ReSharper in VS Code ([1 days ago](https://dotnetkicks.com/r/721063?url=https://sergeytihon.com/2025/05/24/f-weekly-21-2025-build-2025-resharper-in-vs-code/))
 - Avoid Build Breaks: Fixing SDK Conflicts Between Visual Studio and Preview Versions ([3 days ago](https://dotnettips.wordpress.com/2025/05/23/avoid-build-breaks-fixing-sdk-conflicts-between-visual-studio-and-preview-versions/))
@@ -33,7 +34,7 @@ description: DotNet Updates
 - JetBrains AI Assistant – Now in Visual Studio Code ([7 days ago](https://blog.jetbrains.com/ai/2025/05/jetbrains-ai-assistant-now-in-visual-studio-code/))
 - ReSharper Comes to Microsoft Visual Studio Code: Public Preview Now Open ([7 days ago](https://blog.jetbrains.com/dotnet/2025/05/19/resharper-comes-to-microsoft-visual-studio-code/))
 - Using multiple external identity providers from ASP.NET Core Identity and Duende IdentityServer ([7 days ago](https://dotnetkicks.com/r/720373?url=https://damienbod.com/2025/05/19/using-multiple-external-identity-providers-from-asp-net-core-identity-and-duende-identityserver/))
-- F# Weekly #20, 2025 - .NET 10 Preview 4 &amp; VS 2022 17.14 ([7 days ago](https://dotnetkicks.com/r/720302?url=https://sergeytihon.com/2025/05/17/f-weekly-20-2025-net-10-preview-4-vs-2022-17-14/))
+- F# Weekly #20, 2025 - .NET 10 Preview 4 &amp; VS 2022 17.14 ([8 days ago](https://dotnetkicks.com/r/720302?url=https://sergeytihon.com/2025/05/17/f-weekly-20-2025-net-10-preview-4-vs-2022-17-14/))
 - Boost Your .NET Projects: Maximize Your .NET Performance with Spargine FastLoggerExtensions ([8 days ago](https://dotnettips.wordpress.com/2025/05/18/boost-your-net-projects-maximize-your-net-performance-with-spargine-fastloggerextensions/))
 - Fiddler in 2025 ([9 days ago](https://dotnetkicks.com/r/720271?url=https://textslashplain.com/2025/05/16/fiddler-in-2025/))
 - How to Watch Microsoft Build 2025 Online - Visual Studio Blog ([9 days ago](https://dotnetkicks.com/r/720228?url=https://devblogs.microsoft.com/visualstudio/how-to-watch-microsoft-build-2025-online/))
@@ -46,7 +47,6 @@ description: DotNet Updates
 - Evaluating content safety in your .NET AI applications ([10 days ago](https://devblogs.microsoft.com/dotnet/evaluating-ai-content-safety/))
 - Software Innovations: IOS - The Operating System That Put The Future In Your Pocket  -  Build5Nines ([11 days ago](https://dotnetkicks.com/r/720062?url=https://build5nines.com/ios-the-operating-system-that-put-the-future-in-your-pocket/))
 - The Value of a JasperFx Support Contract ([11 days ago](https://dotnetkicks.com/r/720047?url=https://jeremydmiller.com/2025/05/14/the-value-of-a-jasperfx-support-contract/))
-- Form Akka.NET Clusters Dynamically with Akka.Management and Akka.Discovery ([11 days ago](https://dotnetkicks.com/r/720040?url=https://petabridge.com/blog/akka-management/))
 - Boost Your .NET Projects: Supercharge Your Code with FastStringBuilder in Spargine ([12 days ago](https://dotnettips.wordpress.com/2025/05/14/boost-your-net-projects-supercharge-your-code-with-faststringbuilder-in-spargine/))
 - .NET and .NET Framework May 2025 servicing releases updates ([12 days ago](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-may-2025-servicing-updates/))
 - .NET 10 Preview 4 is now available! ([12 days ago](https://devblogs.microsoft.com/dotnet/dotnet-10-preview-4/))
