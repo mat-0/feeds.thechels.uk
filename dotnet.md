@@ -8,9 +8,9 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Azure AI Services in a Nutshell - A Developer's Mind Map ([9 hours ago](https://dotnetkicks.com/r/721134?url=https://dailydotnettips.com/azure-ai-services-in-a-nutshell-a-developers-mind-map/))
-- Azure AI Services in a Nutshell - A Developer's Mind Map ([9 hours ago](https://dotnetkicks.com/r/721130?url=https://dailydotnettips.com/azure-ai-services-in-a-nutshell-a-developers-mind-map/))
-- Revisiting using a Content Security Policy (CSP) nonce in Blazor ([9 hours ago](https://dotnetkicks.com/r/721107?url=https://damienbod.com/2025/05/26/revisiting-using-a-content-security-policy-csp-nonce-in-blazor/))
+- Azure AI Services in a Nutshell - A Developer's Mind Map ([10 hours ago](https://dotnetkicks.com/r/721134?url=https://dailydotnettips.com/azure-ai-services-in-a-nutshell-a-developers-mind-map/))
+- Azure AI Services in a Nutshell - A Developer's Mind Map ([10 hours ago](https://dotnetkicks.com/r/721130?url=https://dailydotnettips.com/azure-ai-services-in-a-nutshell-a-developers-mind-map/))
+- Revisiting using a Content Security Policy (CSP) nonce in Blazor ([10 hours ago](https://dotnetkicks.com/r/721107?url=https://damienbod.com/2025/05/26/revisiting-using-a-content-security-policy-csp-nonce-in-blazor/))
 - Coding Faster with dotNetTips Spargine: Validating Arguments Made Easy with Validator ([1 days ago](https://dotnettips.wordpress.com/2025/05/25/coding-faster-with-dotnettips-spargine-validating-arguments-made-easy-with-validator/))
 - F# Weekly #21, 2025 - Build 2025 &amp; ReSharper in VS Code ([2 days ago](https://dotnetkicks.com/r/721063?url=https://sergeytihon.com/2025/05/24/f-weekly-21-2025-build-2025-resharper-in-vs-code/))
 - Avoid Build Breaks: Fixing SDK Conflicts Between Visual Studio and Preview Versions ([3 days ago](https://dotnettips.wordpress.com/2025/05/23/avoid-build-breaks-fixing-sdk-conflicts-between-visual-studio-and-preview-versions/))
