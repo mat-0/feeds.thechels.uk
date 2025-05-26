@@ -48,7 +48,7 @@ description: DotNet Updates
 - Evaluating content safety in your .NET AI applications - .NET Blog ([11 days ago](https://dotnetkicks.com/r/720117?url=https://devblogs.microsoft.com/dotnet/evaluating-ai-content-safety/))
 - Evaluating content safety in your .NET AI applications ([11 days ago](https://devblogs.microsoft.com/dotnet/evaluating-ai-content-safety/))
 - Boost Your .NET Projects: Supercharge Your Code with FastStringBuilder in Spargine ([12 days ago](https://dotnettips.wordpress.com/2025/05/14/boost-your-net-projects-supercharge-your-code-with-faststringbuilder-in-spargine/))
-- .NET and .NET Framework May 2025 servicing releases updates ([12 days ago](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-may-2025-servicing-updates/))
+- .NET and .NET Framework May 2025 servicing releases updates ([13 days ago](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-may-2025-servicing-updates/))
 - .NET 10 Preview 4 is now available! ([13 days ago](https://devblogs.microsoft.com/dotnet/dotnet-10-preview-4/))
 - Using the new AI template to create a chatbot about a website ([13 days ago](https://andrewlock.net/using-the-new-ai-template-to-create-a-chatbot-about-a-website/))
 - dotNetDave Says… Avoid Going Across the Wire Until Necessary! ([14 days ago](https://dotnettips.wordpress.com/2025/05/12/dotnetdave-says-avoid-going-across-the-wire-until-necessary/))
