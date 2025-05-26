@@ -58,7 +58,7 @@ description: DotNet Updates
 - Why we built our startup in C# ([18 days ago](https://devblogs.microsoft.com/dotnet/why-we-built-our-startup-in-csharp/))
 - Boost Your .NET Projects: Enhancing .NET Logging with LoggingHelper in Spargine ([19 days ago](https://dotnettips.wordpress.com/2025/05/07/boost-your-net-projects-enhancing-net-logging-with-logginghelper-in-spargine/))
 - Exploring the new AI chat template ([19 days ago](https://andrewlock.net/exploring-the-new-ai-chat-template/))
-- dotInsights  -  May 2025 ([19 days ago](https://blog.jetbrains.com/dotnet/2025/05/06/dotinsights-may-2025/))
+- dotInsights  -  May 2025 ([20 days ago](https://blog.jetbrains.com/dotnet/2025/05/06/dotinsights-may-2025/))
 - Boost Your .NET Projects: Simplify Dictionary Handling with AutoDefaultDictionary in Spargine ([22 days ago](https://dotnettips.wordpress.com/2025/05/04/boost-your-net-projects-simplify-dictionary-handling-with-autodefaultdictionary-in-spargine/))
 - Coding Faster with dotNetTips.com Spargine 8: May 2025 Release ([24 days ago](https://dotnettips.wordpress.com/2025/05/01/coding-faster-with-dotnettips-com-spargine-8-may-2025-release/))
 - Packaging and Publishing a .NET MAUI Library with GitHub Actions ([25 days ago](https://devblogs.microsoft.com/dotnet/dotnet-maui-libraries-github-actions/))
