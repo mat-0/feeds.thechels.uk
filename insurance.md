@@ -8,7 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Australia’s East Coast Begins Flood Cleanup as Waters Recede ([8 hours ago](https://www.insurancejournal.com/news/international/2025/05/26/825043.htm))
+- Australia’s East Coast Begins Flood Cleanup as Waters Recede ([9 hours ago](https://www.insurancejournal.com/news/international/2025/05/26/825043.htm))
 - AA weighs options as valuation tops £4 billion ([9 hours ago](https://www.insurancebusinessmag.com/uk/news/auto-motor/aa-weighs-options-as-valuation-tops-4-billion-536849.aspx))
 - Van Insurance: Which Occupations Get The Lowest Quotes on Average? ([1 days ago](https://insurance-edge.net/2025/05/25/van-insurance-which-occupations-get-the-lowest-quotes-on-average/))
 - Dissecting the McKinsey Report for Profitability in P&C ([1 days ago](https://www.insurancejournal.com/blogs/agentsync/2025/05/25/822955.htm))
@@ -65,7 +65,7 @@ description: Insurance Updates
 - In Lawsuit Over Teen’s Death, Judge Rejects Free Speech Rights for AI Chatbots ([3 days ago](https://www.insurancejournal.com/news/national/2025/05/23/824758.htm))
 - Are e-scooters worth the hassle? ([3 days ago](https://www.postonline.co.uk/regulation/7957744/are-e-scooters-worth-the-hassle))
 - Penny Black’s Social Diary: Crawford’s wind; Zurich’s golfing prowess ([3 days ago](https://www.postonline.co.uk/people/7957569/penny-black%E2%80%99s-social-diary-crawford%E2%80%99s-wind-zurich%E2%80%99s-golfing-prowess))
-- CFC boosts cyber cover for high-risk digital sectors ([3 days ago](https://www.insurancebusinessmag.com/uk/news/cyber/cfc-boosts-cyber-cover-for-highrisk-digital-sectors-536652.aspx))
+- CFC boosts cyber cover for high-risk digital sectors ([4 days ago](https://www.insurancebusinessmag.com/uk/news/cyber/cfc-boosts-cyber-cover-for-highrisk-digital-sectors-536652.aspx))
 - Combating misinformation strategy: Verify, then trust ([4 days ago](https://www.dig-in.com/opinion/strategies-for-fighting-misinformation))
 - AI is changing insurance strategies for small businesses ([4 days ago](https://www.dig-in.com/opinion/ai-is-changing-insurance-strategies-for-small-businesses))
 - Kota Raises $14.5 Million to Streamline Insurance Benefits Infrastructure ([4 days ago](https://www.insurtechinsights.com/kota-raises-14-5-million-to-streamline-insurance-benefits-infrastructure/))
