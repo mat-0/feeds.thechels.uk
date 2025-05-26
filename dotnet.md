@@ -63,6 +63,6 @@ description: DotNet Updates
 - Coding Faster with dotNetTips.com Spargine 8: May 2025 Release ([24 days ago](https://dotnettips.wordpress.com/2025/05/01/coding-faster-with-dotnettips-com-spargine-8-may-2025-release/))
 - Packaging and Publishing a .NET MAUI Library with GitHub Actions ([25 days ago](https://devblogs.microsoft.com/dotnet/dotnet-maui-libraries-github-actions/))
 - Creating a 'pooled' dependency injection lifetime ([26 days ago](https://andrewlock.net/creating-a-pooled-dependency-injection-lifetime/))
-- The First Set of Bug Fixes for ReSharper and Rider 2025.1 Is Here! ([26 days ago](https://blog.jetbrains.com/dotnet/2025/04/29/2025-1-1-hot-fix/))
+- The First Set of Bug Fixes for ReSharper and Rider 2025.1 Is Here! ([27 days ago](https://blog.jetbrains.com/dotnet/2025/04/29/2025-1-1-hot-fix/))
 
 <!-- news_marker ends -->
