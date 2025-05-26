@@ -130,6 +130,6 @@ description: Insurance Updates
 - Relm Explains How Insurance is the Backbone For Pushing the Boundaries of Innovation ([8 days ago](https://thefintechtimes.com/relm-explains-how-insurance-is-the-backbone-for-pushing-the-boundaries-of-innovation/))
 - Rosemount Financial Solutions (IFA) announces 4C Platform partnership to support private medical insurance advice ([11 days ago](https://ifamagazine.com/rosemount-financial-solutions-ifa-announces-4c-platform-partnership-to-support-private-medical-insurance-advice/))
 - Seventy-two per cent of new absentees under group income protection policies returned to work during 2024 ([12 days ago](https://ifamagazine.com/seventy-two-per-cent-of-new-absentees-under-group-income-protection-policies-returned-to-work-during-2024/))
-- IHC Set to Launch AI-Driven Reinsurance Platform in the Gulf Region ([14 days ago](https://thefintechtimes.com/ihc-set-to-launch-ai-driven-reinsurance-platform/))
+- IHC Set to Launch AI-Driven Reinsurance Platform in the Gulf Region ([15 days ago](https://thefintechtimes.com/ihc-set-to-launch-ai-driven-reinsurance-platform/))
 
 <!-- news_marker ends -->
