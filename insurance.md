@@ -8,8 +8,8 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Van Insurance: Which Occupations Get The Lowest Quotes on Average? ([21 hours ago](https://insurance-edge.net/2025/05/25/van-insurance-which-occupations-get-the-lowest-quotes-on-average/))
-- Dissecting the McKinsey Report for Profitability in P&C ([22 hours ago](https://www.insurancejournal.com/blogs/agentsync/2025/05/25/822955.htm))
+- Van Insurance: Which Occupations Get The Lowest Quotes on Average? ([22 hours ago](https://insurance-edge.net/2025/05/25/van-insurance-which-occupations-get-the-lowest-quotes-on-average/))
+- Dissecting the McKinsey Report for Profitability in P&C ([23 hours ago](https://www.insurancejournal.com/blogs/agentsync/2025/05/25/822955.htm))
 - Do You Know How to Claim Damages For Potholes Wrecking Your Car? ([1 days ago](https://insurance-edge.net/2025/05/24/do-you-know-how-to-claim-damages-for-potholes-wrecking-your-car/))
 - California And 10 Other States Launch Clean Cars Coalition Following Senate Vote ([2 days ago](https://www.insurancejournal.com/news/west/2025/05/23/825019.htm))
 - AI Predictions: The Roadmap to The Future, Or Just a Gimmick? ([2 days ago](https://insurance-edge.net/2025/05/23/ai-predictions-the-roadmap-to-the-future-or-just-a-gimmick/))
@@ -82,7 +82,7 @@ description: Insurance Updates
 - RSA targets 30-minute quotes using AI-driven platform ([3 days ago](https://www.postonline.co.uk/commercial/7957756/rsa-targets-30-minute-quotes-using-ai-driven-platform))
 - King Risk Partners Expands Northeast Presence with Acquisition of Fidens Insurance Brokers ([3 days ago](https://www.insurtechinsights.com/king-risk-partners-expands-northeast-presence-with-acquisition-of-fidens-insurance-brokers/))
 - Galjaard cautious of history repeating itself with returning competition ([3 days ago](https://www.postonline.co.uk/news/7957781/galjaard-cautious-of-history-repeating-itself-with-returning-competition))
-- Aviva’s Storah urges homeowners to get gardens climate-ready ([3 days ago](https://www.postonline.co.uk/personal/7957795/aviva%E2%80%99s-storah-urges-homeowners-to-get-gardens-climate-ready))
+- Aviva’s Storah urges homeowners to get gardens climate-ready ([4 days ago](https://www.postonline.co.uk/personal/7957795/aviva%E2%80%99s-storah-urges-homeowners-to-get-gardens-climate-ready))
 - Scottish Widows turns to AI to speed up protection insurance claims and underwriting with Sprout.ai ([4 days ago](https://ifamagazine.com/scottish-widows-turns-to-ai-to-speed-up-protection-insurance-claims-and-underwriting-with-sprout-ai/))
 - UK flash flood warning as risk gap exposed ([4 days ago](https://www.insurancebusinessmag.com/uk/news/catastrophe/uk-flash-flood-warning-as-risk-gap-exposed-536538.aspx))
 - Geo Underwriting partners up to boost agricultural clients ([4 days ago](https://www.insurancebusinessmag.com/uk/news/property-insurance/geo-underwriting-partners-up-to-boost-agricultural-clients-536537.aspx))
@@ -110,7 +110,7 @@ description: Insurance Updates
 - Acrisure Secures $2.1 Billion Funding Led by Bain Capital, Boosts Valuation to $32 Billion ([4 days ago](https://www.insurtechinsights.com/acrisure-secures-2-1-billion-funding-led-by-bain-capital-boosts-valuation-to-32-billion/))
 - L&G upgrades Group Critical Illness Cover ([4 days ago](https://ifamagazine.com/lg-upgrades-group-critical-illness-cover/))
 - Cutting through the complexity of protection products ([4 days ago](https://ifamagazine.com/cutting-through-the-complexity-of-protection-products/))
-- Recent power cuts highlight coverage disparities ([4 days ago](https://www.postonline.co.uk/commercial/7957791/recent-power-cuts-highlight-coverage-disparities))
+- Recent power cuts highlight coverage disparities ([5 days ago](https://www.postonline.co.uk/commercial/7957791/recent-power-cuts-highlight-coverage-disparities))
 - How Aviva is redefining mid-market support ([5 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/how-aviva-is-redefining-midmarket-support-535375.aspx))
 - Acrisure secures major capital backing to advance fintech strategy ([5 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/acrisure-secures-major-capital-backing-to-advance-fintech-strategy-536392.aspx))
 - Tokio Marine sees net income almost double ([5 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/tokio-marine-sees-net-income-almost-double-536377.aspx))
