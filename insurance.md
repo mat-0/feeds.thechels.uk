@@ -9,7 +9,7 @@ description: Insurance Updates
 
 <!-- news_marker starts -->
 - Australia’s East Coast Begins Flood Cleanup as Waters Recede ([1 hours ago](https://www.insurancejournal.com/news/international/2025/05/26/825043.htm))
-- AA weighs options as valuation tops £4 billion ([1 hours ago](https://www.insurancebusinessmag.com/uk/news/auto-motor/aa-weighs-options-as-valuation-tops-4-billion-536849.aspx))
+- AA weighs options as valuation tops £4 billion ([2 hours ago](https://www.insurancebusinessmag.com/uk/news/auto-motor/aa-weighs-options-as-valuation-tops-4-billion-536849.aspx))
 - Van Insurance: Which Occupations Get The Lowest Quotes on Average? ([1 days ago](https://insurance-edge.net/2025/05/25/van-insurance-which-occupations-get-the-lowest-quotes-on-average/))
 - Dissecting the McKinsey Report for Profitability in P&C ([1 days ago](https://www.insurancejournal.com/blogs/agentsync/2025/05/25/822955.htm))
 - Do You Know How to Claim Damages For Potholes Wrecking Your Car? ([2 days ago](https://insurance-edge.net/2025/05/24/do-you-know-how-to-claim-damages-for-potholes-wrecking-your-car/))
@@ -36,7 +36,7 @@ description: Insurance Updates
 - AIG Settles Lawsuit Against E&S Rival Dellwood and Former Employees ([2 days ago](https://www.insurancejournal.com/news/national/2025/05/23/824949.htm))
 - Disciplined strategy & deep commitment to clients key to MS Re’s 2024 performance: CEO ([2 days ago](https://www.reinsurancene.ws/disciplined-strategy-deep-commitment-to-clients-key-to-ms-res-2024-performance-ceo/))
 - Competitive pension buyout costs decline in April 2025, Milliman reports ([2 days ago](https://www.reinsurancene.ws/competitive-pension-buyout-costs-decline-in-april-2025-milliman-reports/))
-- Fenchurch appoints Kingsley Flynn as Chairman and Non-Executive Director ([2 days ago](https://www.reinsurancene.ws/fenchurch-appoints-kingsley-flynn-as-chairman-and-non-executive-director/))
+- Fenchurch appoints Kingsley Flynn as Chairman and Non-Executive Director ([3 days ago](https://www.reinsurancene.ws/fenchurch-appoints-kingsley-flynn-as-chairman-and-non-executive-director/))
 - AmTrust sees continued growth in Turkish operations ([3 days ago](https://www.reinsurancene.ws/amtrust-sees-continued-growth-in-turkish-operations/))
 - Marsh’s data approach; Birkdale sponsors Southport FC; McLarens’ CIO ([3 days ago](https://www.postonline.co.uk/news/7957810/marsh%E2%80%99s-data-approach-birkdale-sponsors-southport-fc-mclarens%E2%80%99-cio))
 - How brokers can lead in a shifting mid-market ([3 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/how-brokers-can-lead-in-a-shifting-midmarket-536720.aspx))
@@ -126,9 +126,9 @@ description: Insurance Updates
 - Demand for support for Parkinsons and other long-term conditions is up 30%, finds RedArc ([6 days ago](https://ifamagazine.com/demand-for-support-for-parkinsons-and-other-long-term-conditions-is-up-30-finds-redarc/))
 - Ageas to keep Esure and Saga brands ([6 days ago](https://www.postonline.co.uk/news/7957788/ageas-to-keep-esure-and-saga-brands))
 - Aviva targets midmarket with updated multinational proposition ([6 days ago](https://www.postonline.co.uk/broker/7957787/aviva-targets-midmarket-with-updated-multinational-proposition))
-- Industry reaction to the Law Comission’s will reform report ([6 days ago](https://ifamagazine.com/industry-reaction-to-the-law-comissions-will-reform-report/))
+- Industry reaction to the Law Comission’s will reform report ([7 days ago](https://ifamagazine.com/industry-reaction-to-the-law-comissions-will-reform-report/))
 - Relm Explains How Insurance is the Backbone For Pushing the Boundaries of Innovation ([8 days ago](https://thefintechtimes.com/relm-explains-how-insurance-is-the-backbone-for-pushing-the-boundaries-of-innovation/))
-- Rosemount Financial Solutions (IFA) announces 4C Platform partnership to support private medical insurance advice ([11 days ago](https://ifamagazine.com/rosemount-financial-solutions-ifa-announces-4c-platform-partnership-to-support-private-medical-insurance-advice/))
+- Rosemount Financial Solutions (IFA) announces 4C Platform partnership to support private medical insurance advice ([12 days ago](https://ifamagazine.com/rosemount-financial-solutions-ifa-announces-4c-platform-partnership-to-support-private-medical-insurance-advice/))
 - Seventy-two per cent of new absentees under group income protection policies returned to work during 2024 ([13 days ago](https://ifamagazine.com/seventy-two-per-cent-of-new-absentees-under-group-income-protection-policies-returned-to-work-during-2024/))
 - IHC Set to Launch AI-Driven Reinsurance Platform in the Gulf Region ([15 days ago](https://thefintechtimes.com/ihc-set-to-launch-ai-driven-reinsurance-platform/))
 
