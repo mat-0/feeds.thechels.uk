@@ -8,7 +8,7 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Coding Faster with dotNetTips Spargine: Validating Arguments Made Easy with Validator ([20 hours ago](https://dotnettips.wordpress.com/2025/05/25/coding-faster-with-dotnettips-spargine-validating-arguments-made-easy-with-validator/))
+- Coding Faster with dotNetTips Spargine: Validating Arguments Made Easy with Validator ([21 hours ago](https://dotnettips.wordpress.com/2025/05/25/coding-faster-with-dotnettips-spargine-validating-arguments-made-easy-with-validator/))
 - F# Weekly #21, 2025 - Build 2025 &amp; ReSharper in VS Code ([1 days ago](https://dotnetkicks.com/r/721063?url=https://sergeytihon.com/2025/05/24/f-weekly-21-2025-build-2025-resharper-in-vs-code/))
 - Avoid Build Breaks: Fixing SDK Conflicts Between Visual Studio and Preview Versions ([2 days ago](https://dotnettips.wordpress.com/2025/05/23/avoid-build-breaks-fixing-sdk-conflicts-between-visual-studio-and-preview-versions/))
 - Critter Stack Release Plans ([3 days ago](https://dotnetkicks.com/r/720986?url=https://jeremydmiller.com/2025/05/22/critter-stack-release-plans/))
@@ -35,7 +35,7 @@ description: DotNet Updates
 - Using multiple external identity providers from ASP.NET Core Identity and Duende IdentityServer ([6 days ago](https://dotnetkicks.com/r/720373?url=https://damienbod.com/2025/05/19/using-multiple-external-identity-providers-from-asp-net-core-identity-and-duende-identityserver/))
 - F# Weekly #20, 2025 - .NET 10 Preview 4 &amp; VS 2022 17.14 ([7 days ago](https://dotnetkicks.com/r/720302?url=https://sergeytihon.com/2025/05/17/f-weekly-20-2025-net-10-preview-4-vs-2022-17-14/))
 - Boost Your .NET Projects: Maximize Your .NET Performance with Spargine FastLoggerExtensions ([7 days ago](https://dotnettips.wordpress.com/2025/05/18/boost-your-net-projects-maximize-your-net-performance-with-spargine-fastloggerextensions/))
-- Fiddler in 2025 ([8 days ago](https://dotnetkicks.com/r/720271?url=https://textslashplain.com/2025/05/16/fiddler-in-2025/))
+- Fiddler in 2025 ([9 days ago](https://dotnetkicks.com/r/720271?url=https://textslashplain.com/2025/05/16/fiddler-in-2025/))
 - How to Watch Microsoft Build 2025 Online - Visual Studio Blog ([9 days ago](https://dotnetkicks.com/r/720228?url=https://devblogs.microsoft.com/visualstudio/how-to-watch-microsoft-build-2025-online/))
 - Big Thinkers: James Gosling - Creator Of Java  -  Build5Nines ([9 days ago](https://dotnetkicks.com/r/720174?url=https://build5nines.com/big-thinkers-james-gosling-creator-of-java/))
 - Rider 2025.2 Early Access Program Is Live! ([9 days ago](https://blog.jetbrains.com/dotnet/2025/05/16/rider-2025-2-eap-1/))
