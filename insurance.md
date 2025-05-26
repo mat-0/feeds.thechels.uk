@@ -8,7 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Australia’s East Coast Begins Flood Cleanup as Waters Recede ([6 hours ago](https://www.insurancejournal.com/news/international/2025/05/26/825043.htm))
+- Australia’s East Coast Begins Flood Cleanup as Waters Recede ([7 hours ago](https://www.insurancejournal.com/news/international/2025/05/26/825043.htm))
 - AA weighs options as valuation tops £4 billion ([7 hours ago](https://www.insurancebusinessmag.com/uk/news/auto-motor/aa-weighs-options-as-valuation-tops-4-billion-536849.aspx))
 - Van Insurance: Which Occupations Get The Lowest Quotes on Average? ([1 days ago](https://insurance-edge.net/2025/05/25/van-insurance-which-occupations-get-the-lowest-quotes-on-average/))
 - Dissecting the McKinsey Report for Profitability in P&C ([1 days ago](https://www.insurancejournal.com/blogs/agentsync/2025/05/25/822955.htm))
@@ -19,7 +19,7 @@ description: Insurance Updates
 - Insurtech: It’s Another Client Win For Sapiens ([2 days ago](https://insurance-edge.net/2025/05/23/insurtech-its-another-client-win-for-sapiens/))
 - Parametrix Launches New Embedded Insurance Program ([2 days ago](https://insurance-edge.net/2025/05/23/parametrix-launches-new-embedded-insurance-program/))
 - Crypto & DeFi Offer Financial Inclusion for the Globally Unbanked ([2 days ago](https://insurance-edge.net/2025/05/23/crypto-defi-offer-financial-inclusion-for-the-globally-unbanked/))
-- People Moves: Jenks Named President of JH Blades; Gonzales Joins Alliant Healthcare ([2 days ago](https://www.insurancejournal.com/news/national/2025/05/23/824819.htm))
+- People Moves: Jenks Named President of JH Blades; Gonzales Joins Alliant Healthcare ([3 days ago](https://www.insurancejournal.com/news/national/2025/05/23/824819.htm))
 - Shareholders of Swiss Insurers Helvetia and Baloise Approve Merger ([3 days ago](https://www.insurancejournal.com/news/international/2025/05/23/824986.htm))
 - Don’t Miss Out: Enter Now for Insurance Journal’s Top 100 P/C Agencies Ranking ([3 days ago](https://www.insurancejournal.com/news/national/2025/05/23/824981.htm))
 - Aon promotes Reeve-Tucker to head of fac reinsurance for Latin America ([3 days ago](https://www.reinsurancene.ws/aon-promotes-reeve-tucker-to-head-of-fac-reinsurance-for-latin-america/))
