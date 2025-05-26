@@ -8,7 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Australia’s East Coast Begins Flood Cleanup as Waters Recede ([7 hours ago](https://www.insurancejournal.com/news/international/2025/05/26/825043.htm))
+- Australia’s East Coast Begins Flood Cleanup as Waters Recede ([8 hours ago](https://www.insurancejournal.com/news/international/2025/05/26/825043.htm))
 - AA weighs options as valuation tops £4 billion ([8 hours ago](https://www.insurancebusinessmag.com/uk/news/auto-motor/aa-weighs-options-as-valuation-tops-4-billion-536849.aspx))
 - Van Insurance: Which Occupations Get The Lowest Quotes on Average? ([1 days ago](https://insurance-edge.net/2025/05/25/van-insurance-which-occupations-get-the-lowest-quotes-on-average/))
 - Dissecting the McKinsey Report for Profitability in P&C ([1 days ago](https://www.insurancejournal.com/blogs/agentsync/2025/05/25/822955.htm))
@@ -96,7 +96,7 @@ description: Insurance Updates
 - Geospatial data uncovers lower wildfire-risk properties in California, Triple-I ([4 days ago](https://www.dig-in.com/news/geospatial-data-wildfire-prone-california-properties))
 - Customer strategy: Clearing up flood insurance coverage confusion ([4 days ago](https://www.dig-in.com/opinion/clearing-up-flood-insurance-coverage-confusion))
 - Europe's farm sector loses $31.5B a year from climate risks ([4 days ago](https://www.dig-in.com/articles/europes-farm-sector-loses-31-5b-a-year-from-climate-risks))
-- Verizon-Frontier deal gets green light after ending DEI commitments ([4 days ago](https://www.insurancebusinessmag.com/uk/business-strategy/verizonfrontier-deal-gets-green-light-after-ending-dei-commitments-536482.aspx))
+- Verizon-Frontier deal gets green light after ending DEI commitments ([5 days ago](https://www.insurancebusinessmag.com/uk/business-strategy/verizonfrontier-deal-gets-green-light-after-ending-dei-commitments-536482.aspx))
 - Quandri Appoints Patrick Mulroy as Head of Strategy and Partnerships to Spearhead North American Expansion ([5 days ago](https://www.insurtechinsights.com/quandri-appoints-patrick-mulroy-as-head-of-strategy-and-partnerships-to-spearhead-north-american-expansion/))
 - Parametrix Launches Embedded Insurance Coverage for Endpoint Failures via Leading EDR Providers ([5 days ago](https://www.insurtechinsights.com/parametrix-launches-embedded-insurance-coverage-for-endpoint-failures-via-leading-edr-providers/))
 - MGAA looking at increasing Lloyd’s syndicate membership ([5 days ago](https://www.postonline.co.uk/news/7957794/mgaa-looking-at-increasing-lloyd%E2%80%99s-syndicate-membership))
