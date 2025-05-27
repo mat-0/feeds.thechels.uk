@@ -8,9 +8,9 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Circuit Breaker Policy Fine-tuning Best Practice - .NET Blog ([55 minutes ago](https://dotnetkicks.com/r/721315?url=https://devblogs.microsoft.com/dotnet/circuit-breaker-policy-finetuning-best-practice/))
+- Circuit Breaker Policy Fine-tuning Best Practice - .NET Blog ([1 hours ago](https://dotnetkicks.com/r/721315?url=https://devblogs.microsoft.com/dotnet/circuit-breaker-policy-finetuning-best-practice/))
 - Circuit Breaker Policy Fine-tuning Best Practice ([1 hours ago](https://devblogs.microsoft.com/dotnet/circuit-breaker-policy-finetuning-best-practice/))
-- VisualStudio.Extensibility: Editor classification and updates to user prompt - Visual Studio Blog ([1 hours ago](https://dotnetkicks.com/r/721309?url=https://devblogs.microsoft.com/visualstudio/visualstudio-extensibility-editor-classification-and-updates-to-user-prompt/))
+- VisualStudio.Extensibility: Editor classification and updates to user prompt - Visual Studio Blog ([2 hours ago](https://dotnetkicks.com/r/721309?url=https://devblogs.microsoft.com/visualstudio/visualstudio-extensibility-editor-classification-and-updates-to-user-prompt/))
 - Converting a docker-compose file to .NET Aspire ([7 hours ago](https://dotnetkicks.com/r/721257?url=https://andrewlock.net/converting-a-docker-compose-file-to-aspire/))
 - Converting a docker-compose file to .NET Aspire ([9 hours ago](https://andrewlock.net/converting-a-docker-compose-file-to-aspire/))
 - Azure AI Services in a Nutshell - A Developer's Mind Map ([1 days ago](https://dotnetkicks.com/r/721134?url=https://dailydotnettips.com/azure-ai-services-in-a-nutshell-a-developers-mind-map/))
@@ -51,7 +51,7 @@ description: DotNet Updates
 - Evaluating content safety in your .NET AI applications ([12 days ago](https://devblogs.microsoft.com/dotnet/evaluating-ai-content-safety/))
 - Boost Your .NET Projects: Supercharge Your Code with FastStringBuilder in Spargine ([13 days ago](https://dotnettips.wordpress.com/2025/05/14/boost-your-net-projects-supercharge-your-code-with-faststringbuilder-in-spargine/))
 - .NET and .NET Framework May 2025 servicing releases updates ([13 days ago](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-may-2025-servicing-updates/))
-- .NET 10 Preview 4 is now available! ([13 days ago](https://devblogs.microsoft.com/dotnet/dotnet-10-preview-4/))
+- .NET 10 Preview 4 is now available! ([14 days ago](https://devblogs.microsoft.com/dotnet/dotnet-10-preview-4/))
 - Using the new AI template to create a chatbot about a website ([14 days ago](https://andrewlock.net/using-the-new-ai-template-to-create-a-chatbot-about-a-website/))
 - dotNetDave Says… Avoid Going Across the Wire Until Necessary! ([15 days ago](https://dotnettips.wordpress.com/2025/05/12/dotnetdave-says-avoid-going-across-the-wire-until-necessary/))
 - Boost Your .NET Projects: Supercharge Your Performance Tracking with PerformanceStopwatch in Spargine ([16 days ago](https://dotnettips.wordpress.com/2025/05/11/boost-your-net-projects-supercharge-your-performance-tracking-with-performancestopwatch/))
