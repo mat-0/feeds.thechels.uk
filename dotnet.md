@@ -10,7 +10,7 @@ description: DotNet Updates
 <!-- news_marker starts -->
 - Azure AI Services in a Nutshell - A Developer's Mind Map ([19 hours ago](https://dotnetkicks.com/r/721134?url=https://dailydotnettips.com/azure-ai-services-in-a-nutshell-a-developers-mind-map/))
 - Azure AI Services in a Nutshell - A Developer's Mind Map ([19 hours ago](https://dotnetkicks.com/r/721130?url=https://dailydotnettips.com/azure-ai-services-in-a-nutshell-a-developers-mind-map/))
-- Revisiting using a Content Security Policy (CSP) nonce in Blazor ([19 hours ago](https://dotnetkicks.com/r/721107?url=https://damienbod.com/2025/05/26/revisiting-using-a-content-security-policy-csp-nonce-in-blazor/))
+- Revisiting using a Content Security Policy (CSP) nonce in Blazor ([20 hours ago](https://dotnetkicks.com/r/721107?url=https://damienbod.com/2025/05/26/revisiting-using-a-content-security-policy-csp-nonce-in-blazor/))
 - Coding Faster with dotNetTips Spargine: Validating Arguments Made Easy with Validator ([2 days ago](https://dotnettips.wordpress.com/2025/05/25/coding-faster-with-dotnettips-spargine-validating-arguments-made-easy-with-validator/))
 - F# Weekly #21, 2025 - Build 2025 &amp; ReSharper in VS Code ([2 days ago](https://dotnetkicks.com/r/721063?url=https://sergeytihon.com/2025/05/24/f-weekly-21-2025-build-2025-resharper-in-vs-code/))
 - Avoid Build Breaks: Fixing SDK Conflicts Between Visual Studio and Preview Versions ([4 days ago](https://dotnettips.wordpress.com/2025/05/23/avoid-build-breaks-fixing-sdk-conflicts-between-visual-studio-and-preview-versions/))
@@ -58,7 +58,7 @@ description: DotNet Updates
 - Why we built our startup in C# ([19 days ago](https://devblogs.microsoft.com/dotnet/why-we-built-our-startup-in-csharp/))
 - Boost Your .NET Projects: Enhancing .NET Logging with LoggingHelper in Spargine ([20 days ago](https://dotnettips.wordpress.com/2025/05/07/boost-your-net-projects-enhancing-net-logging-with-logginghelper-in-spargine/))
 - Exploring the new AI chat template ([20 days ago](https://andrewlock.net/exploring-the-new-ai-chat-template/))
-- dotInsights  -  May 2025 ([20 days ago](https://blog.jetbrains.com/dotnet/2025/05/06/dotinsights-may-2025/))
+- dotInsights  -  May 2025 ([21 days ago](https://blog.jetbrains.com/dotnet/2025/05/06/dotinsights-may-2025/))
 - Boost Your .NET Projects: Simplify Dictionary Handling with AutoDefaultDictionary in Spargine ([23 days ago](https://dotnettips.wordpress.com/2025/05/04/boost-your-net-projects-simplify-dictionary-handling-with-autodefaultdictionary-in-spargine/))
 - Coding Faster with dotNetTips.com Spargine 8: May 2025 Release ([25 days ago](https://dotnettips.wordpress.com/2025/05/01/coding-faster-with-dotnettips-com-spargine-8-may-2025-release/))
 - Packaging and Publishing a .NET MAUI Library with GitHub Actions ([26 days ago](https://devblogs.microsoft.com/dotnet/dotnet-maui-libraries-github-actions/))
