@@ -9,9 +9,9 @@ description: DotNet Updates
 
 <!-- news_marker starts -->
 - Converting a docker-compose file to .NET Aspire ([2 hours ago](https://dotnetkicks.com/r/721257?url=https://andrewlock.net/converting-a-docker-compose-file-to-aspire/))
-- Converting a docker-compose file to .NET Aspire ([3 hours ago](https://andrewlock.net/converting-a-docker-compose-file-to-aspire/))
-- Azure AI Services in a Nutshell - A Developer's Mind Map ([23 hours ago](https://dotnetkicks.com/r/721134?url=https://dailydotnettips.com/azure-ai-services-in-a-nutshell-a-developers-mind-map/))
-- Azure AI Services in a Nutshell - A Developer's Mind Map ([23 hours ago](https://dotnetkicks.com/r/721130?url=https://dailydotnettips.com/azure-ai-services-in-a-nutshell-a-developers-mind-map/))
+- Converting a docker-compose file to .NET Aspire ([4 hours ago](https://andrewlock.net/converting-a-docker-compose-file-to-aspire/))
+- Azure AI Services in a Nutshell - A Developer's Mind Map ([1 days ago](https://dotnetkicks.com/r/721134?url=https://dailydotnettips.com/azure-ai-services-in-a-nutshell-a-developers-mind-map/))
+- Azure AI Services in a Nutshell - A Developer's Mind Map ([1 days ago](https://dotnetkicks.com/r/721130?url=https://dailydotnettips.com/azure-ai-services-in-a-nutshell-a-developers-mind-map/))
 - Revisiting using a Content Security Policy (CSP) nonce in Blazor ([1 days ago](https://dotnetkicks.com/r/721107?url=https://damienbod.com/2025/05/26/revisiting-using-a-content-security-policy-csp-nonce-in-blazor/))
 - Coding Faster with dotNetTips Spargine: Validating Arguments Made Easy with Validator ([2 days ago](https://dotnettips.wordpress.com/2025/05/25/coding-faster-with-dotnettips-spargine-validating-arguments-made-easy-with-validator/))
 - F# Weekly #21, 2025 - Build 2025 &amp; ReSharper in VS Code ([2 days ago](https://dotnetkicks.com/r/721063?url=https://sergeytihon.com/2025/05/24/f-weekly-21-2025-build-2025-resharper-in-vs-code/))
@@ -61,7 +61,7 @@ description: DotNet Updates
 - Exploring the new AI chat template ([21 days ago](https://andrewlock.net/exploring-the-new-ai-chat-template/))
 - dotInsights  -  May 2025 ([21 days ago](https://blog.jetbrains.com/dotnet/2025/05/06/dotinsights-may-2025/))
 - Boost Your .NET Projects: Simplify Dictionary Handling with AutoDefaultDictionary in Spargine ([23 days ago](https://dotnettips.wordpress.com/2025/05/04/boost-your-net-projects-simplify-dictionary-handling-with-autodefaultdictionary-in-spargine/))
-- Coding Faster with dotNetTips.com Spargine 8: May 2025 Release ([25 days ago](https://dotnettips.wordpress.com/2025/05/01/coding-faster-with-dotnettips-com-spargine-8-may-2025-release/))
+- Coding Faster with dotNetTips.com Spargine 8: May 2025 Release ([26 days ago](https://dotnettips.wordpress.com/2025/05/01/coding-faster-with-dotnettips-com-spargine-8-may-2025-release/))
 - Packaging and Publishing a .NET MAUI Library with GitHub Actions ([26 days ago](https://devblogs.microsoft.com/dotnet/dotnet-maui-libraries-github-actions/))
 - Creating a 'pooled' dependency injection lifetime ([28 days ago](https://andrewlock.net/creating-a-pooled-dependency-injection-lifetime/))
 - The First Set of Bug Fixes for ReSharper and Rider 2025.1 Is Here! ([28 days ago](https://blog.jetbrains.com/dotnet/2025/04/29/2025-1-1-hot-fix/))
