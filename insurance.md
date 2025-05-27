@@ -8,11 +8,11 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- New York City Employee Killed in Sewage-Boat Explosion on Hudson River ([4 hours ago](https://www.insurancejournal.com/news/east/2025/05/26/825077.htm))
-- Zurich announces leaders; Aon's new chief strategy officer: Career moves ([7 hours ago](https://www.dig-in.com/news/zurichs-leaders-aons-chief-strategy-officer-career-moves))
-- Business leaders concerned about cybersecurity: The Hartford ([8 hours ago](https://www.dig-in.com/news/business-leaders-concerned-about-cybersecurity-the-hartford))
+- New York City Employee Killed in Sewage-Boat Explosion on Hudson River ([5 hours ago](https://www.insurancejournal.com/news/east/2025/05/26/825077.htm))
+- Zurich announces leaders; Aon's new chief strategy officer: Career moves ([8 hours ago](https://www.dig-in.com/news/zurichs-leaders-aons-chief-strategy-officer-career-moves))
+- Business leaders concerned about cybersecurity: The Hartford ([9 hours ago](https://www.dig-in.com/news/business-leaders-concerned-about-cybersecurity-the-hartford))
 - Australia’s East Coast Begins Flood Cleanup as Waters Recede ([18 hours ago](https://www.insurancejournal.com/news/international/2025/05/26/825043.htm))
-- AA weighs options as valuation tops £4 billion ([18 hours ago](https://www.insurancebusinessmag.com/uk/news/auto-motor/aa-weighs-options-as-valuation-tops-4-billion-536849.aspx))
+- AA weighs options as valuation tops £4 billion ([19 hours ago](https://www.insurancebusinessmag.com/uk/news/auto-motor/aa-weighs-options-as-valuation-tops-4-billion-536849.aspx))
 - Van Insurance: Which Occupations Get The Lowest Quotes on Average? ([1 days ago](https://insurance-edge.net/2025/05/25/van-insurance-which-occupations-get-the-lowest-quotes-on-average/))
 - Dissecting the McKinsey Report for Profitability in P&C ([1 days ago](https://www.insurancejournal.com/blogs/agentsync/2025/05/25/822955.htm))
 - Do You Know How to Claim Damages For Potholes Wrecking Your Car? ([2 days ago](https://insurance-edge.net/2025/05/24/do-you-know-how-to-claim-damages-for-potholes-wrecking-your-car/))
@@ -130,6 +130,6 @@ description: Insurance Updates
 - Relm Explains How Insurance is the Backbone For Pushing the Boundaries of Innovation ([9 days ago](https://thefintechtimes.com/relm-explains-how-insurance-is-the-backbone-for-pushing-the-boundaries-of-innovation/))
 - Rosemount Financial Solutions (IFA) announces 4C Platform partnership to support private medical insurance advice ([12 days ago](https://ifamagazine.com/rosemount-financial-solutions-ifa-announces-4c-platform-partnership-to-support-private-medical-insurance-advice/))
 - Seventy-two per cent of new absentees under group income protection policies returned to work during 2024 ([13 days ago](https://ifamagazine.com/seventy-two-per-cent-of-new-absentees-under-group-income-protection-policies-returned-to-work-during-2024/))
-- IHC Set to Launch AI-Driven Reinsurance Platform in the Gulf Region ([15 days ago](https://thefintechtimes.com/ihc-set-to-launch-ai-driven-reinsurance-platform/))
+- IHC Set to Launch AI-Driven Reinsurance Platform in the Gulf Region ([16 days ago](https://thefintechtimes.com/ihc-set-to-launch-ai-driven-reinsurance-platform/))
 
 <!-- news_marker ends -->
