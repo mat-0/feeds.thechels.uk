@@ -8,8 +8,8 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Converting a docker-compose file to .NET Aspire ([3 hours ago](https://dotnetkicks.com/r/721257?url=https://andrewlock.net/converting-a-docker-compose-file-to-aspire/))
-- Converting a docker-compose file to .NET Aspire ([5 hours ago](https://andrewlock.net/converting-a-docker-compose-file-to-aspire/))
+- Converting a docker-compose file to .NET Aspire ([4 hours ago](https://dotnetkicks.com/r/721257?url=https://andrewlock.net/converting-a-docker-compose-file-to-aspire/))
+- Converting a docker-compose file to .NET Aspire ([6 hours ago](https://andrewlock.net/converting-a-docker-compose-file-to-aspire/))
 - Azure AI Services in a Nutshell - A Developer's Mind Map ([1 days ago](https://dotnetkicks.com/r/721134?url=https://dailydotnettips.com/azure-ai-services-in-a-nutshell-a-developers-mind-map/))
 - Azure AI Services in a Nutshell - A Developer's Mind Map ([1 days ago](https://dotnetkicks.com/r/721130?url=https://dailydotnettips.com/azure-ai-services-in-a-nutshell-a-developers-mind-map/))
 - Revisiting using a Content Security Policy (CSP) nonce in Blazor ([1 days ago](https://dotnetkicks.com/r/721107?url=https://damienbod.com/2025/05/26/revisiting-using-a-content-security-policy-csp-nonce-in-blazor/))
