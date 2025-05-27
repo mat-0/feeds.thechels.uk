@@ -8,8 +8,8 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Azure AI Services in a Nutshell - A Developer's Mind Map ([17 hours ago](https://dotnetkicks.com/r/721134?url=https://dailydotnettips.com/azure-ai-services-in-a-nutshell-a-developers-mind-map/))
-- Azure AI Services in a Nutshell - A Developer's Mind Map ([17 hours ago](https://dotnetkicks.com/r/721130?url=https://dailydotnettips.com/azure-ai-services-in-a-nutshell-a-developers-mind-map/))
+- Azure AI Services in a Nutshell - A Developer's Mind Map ([18 hours ago](https://dotnetkicks.com/r/721134?url=https://dailydotnettips.com/azure-ai-services-in-a-nutshell-a-developers-mind-map/))
+- Azure AI Services in a Nutshell - A Developer's Mind Map ([18 hours ago](https://dotnetkicks.com/r/721130?url=https://dailydotnettips.com/azure-ai-services-in-a-nutshell-a-developers-mind-map/))
 - Revisiting using a Content Security Policy (CSP) nonce in Blazor ([18 hours ago](https://dotnetkicks.com/r/721107?url=https://damienbod.com/2025/05/26/revisiting-using-a-content-security-policy-csp-nonce-in-blazor/))
 - Coding Faster with dotNetTips Spargine: Validating Arguments Made Easy with Validator ([2 days ago](https://dotnettips.wordpress.com/2025/05/25/coding-faster-with-dotnettips-spargine-validating-arguments-made-easy-with-validator/))
 - F# Weekly #21, 2025 - Build 2025 &amp; ReSharper in VS Code ([2 days ago](https://dotnetkicks.com/r/721063?url=https://sergeytihon.com/2025/05/24/f-weekly-21-2025-build-2025-resharper-in-vs-code/))
@@ -63,6 +63,6 @@ description: DotNet Updates
 - Coding Faster with dotNetTips.com Spargine 8: May 2025 Release ([25 days ago](https://dotnettips.wordpress.com/2025/05/01/coding-faster-with-dotnettips-com-spargine-8-may-2025-release/))
 - Packaging and Publishing a .NET MAUI Library with GitHub Actions ([26 days ago](https://devblogs.microsoft.com/dotnet/dotnet-maui-libraries-github-actions/))
 - Creating a 'pooled' dependency injection lifetime ([27 days ago](https://andrewlock.net/creating-a-pooled-dependency-injection-lifetime/))
-- The First Set of Bug Fixes for ReSharper and Rider 2025.1 Is Here! ([27 days ago](https://blog.jetbrains.com/dotnet/2025/04/29/2025-1-1-hot-fix/))
+- The First Set of Bug Fixes for ReSharper and Rider 2025.1 Is Here! ([28 days ago](https://blog.jetbrains.com/dotnet/2025/04/29/2025-1-1-hot-fix/))
 
 <!-- news_marker ends -->
