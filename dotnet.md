@@ -8,13 +8,13 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Coding Faster with dotNetTips Spargine: Validating Data Made Easy with Validator ([3 hours ago](https://dotnettips.wordpress.com/2025/05/28/coding-faster-with-dotnettips-spargine-validating-data-made-easy-with-validator/))
+- Coding Faster with dotNetTips Spargine: Validating Data Made Easy with Validator ([4 hours ago](https://dotnettips.wordpress.com/2025/05/28/coding-faster-with-dotnettips-spargine-validating-data-made-easy-with-validator/))
 - Web Category Filtering ([6 hours ago](https://dotnetkicks.com/r/721397?url=https://textslashplain.com/2025/05/27/web-category-filtering/))
 - Stream Compacting in Marten 8.0 ([8 hours ago](https://dotnetkicks.com/r/721381?url=https://jeremydmiller.com/2025/05/27/stream-compacting-in-marten-8-0/))
 - Circuit Breaker Policy Fine-tuning Best Practice - .NET Blog ([16 hours ago](https://dotnetkicks.com/r/721315?url=https://devblogs.microsoft.com/dotnet/circuit-breaker-policy-finetuning-best-practice/))
-- Circuit Breaker Policy Fine-tuning Best Practice ([16 hours ago](https://devblogs.microsoft.com/dotnet/circuit-breaker-policy-finetuning-best-practice/))
+- Circuit Breaker Policy Fine-tuning Best Practice ([17 hours ago](https://devblogs.microsoft.com/dotnet/circuit-breaker-policy-finetuning-best-practice/))
 - VisualStudio.Extensibility: Editor classification and updates to user prompt - Visual Studio Blog ([17 hours ago](https://dotnetkicks.com/r/721309?url=https://devblogs.microsoft.com/visualstudio/visualstudio-extensibility-editor-classification-and-updates-to-user-prompt/))
-- Converting a docker-compose file to .NET Aspire ([22 hours ago](https://dotnetkicks.com/r/721257?url=https://andrewlock.net/converting-a-docker-compose-file-to-aspire/))
+- Converting a docker-compose file to .NET Aspire ([23 hours ago](https://dotnetkicks.com/r/721257?url=https://andrewlock.net/converting-a-docker-compose-file-to-aspire/))
 - Converting a docker-compose file to .NET Aspire ([1 days ago](https://andrewlock.net/converting-a-docker-compose-file-to-aspire/))
 - Azure AI Services in a Nutshell - A Developer's Mind Map ([1 days ago](https://dotnetkicks.com/r/721134?url=https://dailydotnettips.com/azure-ai-services-in-a-nutshell-a-developers-mind-map/))
 - Azure AI Services in a Nutshell - A Developer's Mind Map ([1 days ago](https://dotnetkicks.com/r/721130?url=https://dailydotnettips.com/azure-ai-services-in-a-nutshell-a-developers-mind-map/))
