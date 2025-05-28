@@ -8,14 +8,14 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Coding Faster with dotNetTips Spargine: Validating Data Made Easy with Validator ([42 minutes ago](https://dotnettips.wordpress.com/2025/05/28/coding-faster-with-dotnettips-spargine-validating-data-made-easy-with-validator/))
+- Coding Faster with dotNetTips Spargine: Validating Data Made Easy with Validator ([1 hours ago](https://dotnettips.wordpress.com/2025/05/28/coding-faster-with-dotnettips-spargine-validating-data-made-easy-with-validator/))
 - Web Category Filtering ([3 hours ago](https://dotnetkicks.com/r/721397?url=https://textslashplain.com/2025/05/27/web-category-filtering/))
 - Stream Compacting in Marten 8.0 ([5 hours ago](https://dotnetkicks.com/r/721381?url=https://jeremydmiller.com/2025/05/27/stream-compacting-in-marten-8-0/))
 - Circuit Breaker Policy Fine-tuning Best Practice - .NET Blog ([13 hours ago](https://dotnetkicks.com/r/721315?url=https://devblogs.microsoft.com/dotnet/circuit-breaker-policy-finetuning-best-practice/))
-- Circuit Breaker Policy Fine-tuning Best Practice ([13 hours ago](https://devblogs.microsoft.com/dotnet/circuit-breaker-policy-finetuning-best-practice/))
+- Circuit Breaker Policy Fine-tuning Best Practice ([14 hours ago](https://devblogs.microsoft.com/dotnet/circuit-breaker-policy-finetuning-best-practice/))
 - VisualStudio.Extensibility: Editor classification and updates to user prompt - Visual Studio Blog ([14 hours ago](https://dotnetkicks.com/r/721309?url=https://devblogs.microsoft.com/visualstudio/visualstudio-extensibility-editor-classification-and-updates-to-user-prompt/))
-- Converting a docker-compose file to .NET Aspire ([19 hours ago](https://dotnetkicks.com/r/721257?url=https://andrewlock.net/converting-a-docker-compose-file-to-aspire/))
-- Converting a docker-compose file to .NET Aspire ([21 hours ago](https://andrewlock.net/converting-a-docker-compose-file-to-aspire/))
+- Converting a docker-compose file to .NET Aspire ([20 hours ago](https://dotnetkicks.com/r/721257?url=https://andrewlock.net/converting-a-docker-compose-file-to-aspire/))
+- Converting a docker-compose file to .NET Aspire ([22 hours ago](https://andrewlock.net/converting-a-docker-compose-file-to-aspire/))
 - Azure AI Services in a Nutshell - A Developer's Mind Map ([1 days ago](https://dotnetkicks.com/r/721134?url=https://dailydotnettips.com/azure-ai-services-in-a-nutshell-a-developers-mind-map/))
 - Azure AI Services in a Nutshell - A Developer's Mind Map ([1 days ago](https://dotnetkicks.com/r/721130?url=https://dailydotnettips.com/azure-ai-services-in-a-nutshell-a-developers-mind-map/))
 - Revisiting using a Content Security Policy (CSP) nonce in Blazor ([1 days ago](https://dotnetkicks.com/r/721107?url=https://damienbod.com/2025/05/26/revisiting-using-a-content-security-policy-csp-nonce-in-blazor/))
@@ -65,6 +65,6 @@ description: DotNet Updates
 - Boost Your .NET Projects: Simplify Dictionary Handling with AutoDefaultDictionary in Spargine ([24 days ago](https://dotnettips.wordpress.com/2025/05/04/boost-your-net-projects-simplify-dictionary-handling-with-autodefaultdictionary-in-spargine/))
 - Packaging and Publishing a .NET MAUI Library with GitHub Actions ([27 days ago](https://devblogs.microsoft.com/dotnet/dotnet-maui-libraries-github-actions/))
 - Creating a 'pooled' dependency injection lifetime ([28 days ago](https://andrewlock.net/creating-a-pooled-dependency-injection-lifetime/))
-- The First Set of Bug Fixes for ReSharper and Rider 2025.1 Is Here! ([28 days ago](https://blog.jetbrains.com/dotnet/2025/04/29/2025-1-1-hot-fix/))
+- The First Set of Bug Fixes for ReSharper and Rider 2025.1 Is Here! ([29 days ago](https://blog.jetbrains.com/dotnet/2025/04/29/2025-1-1-hot-fix/))
 
 <!-- news_marker ends -->
