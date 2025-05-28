@@ -8,12 +8,12 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Symbolically Important Wolverine 3.13.4 Release ([1 hours ago](https://dotnetkicks.com/r/721415?url=https://jeremydmiller.com/2025/05/28/symbolically-important-wolverine-3-13-4-release/))
-- Coding Faster with dotNetTips Spargine: Validating Data Made Easy with Validator ([8 hours ago](https://dotnettips.wordpress.com/2025/05/28/coding-faster-with-dotnettips-spargine-validating-data-made-easy-with-validator/))
+- Symbolically Important Wolverine 3.13.4 Release ([2 hours ago](https://dotnetkicks.com/r/721415?url=https://jeremydmiller.com/2025/05/28/symbolically-important-wolverine-3-13-4-release/))
+- Coding Faster with dotNetTips Spargine: Validating Data Made Easy with Validator ([9 hours ago](https://dotnettips.wordpress.com/2025/05/28/coding-faster-with-dotnettips-spargine-validating-data-made-easy-with-validator/))
 - Web Category Filtering ([11 hours ago](https://dotnetkicks.com/r/721397?url=https://textslashplain.com/2025/05/27/web-category-filtering/))
 - Stream Compacting in Marten 8.0 ([13 hours ago](https://dotnetkicks.com/r/721381?url=https://jeremydmiller.com/2025/05/27/stream-compacting-in-marten-8-0/))
 - Circuit Breaker Policy Fine-tuning Best Practice - .NET Blog ([21 hours ago](https://dotnetkicks.com/r/721315?url=https://devblogs.microsoft.com/dotnet/circuit-breaker-policy-finetuning-best-practice/))
-- Circuit Breaker Policy Fine-tuning Best Practice ([21 hours ago](https://devblogs.microsoft.com/dotnet/circuit-breaker-policy-finetuning-best-practice/))
+- Circuit Breaker Policy Fine-tuning Best Practice ([22 hours ago](https://devblogs.microsoft.com/dotnet/circuit-breaker-policy-finetuning-best-practice/))
 - VisualStudio.Extensibility: Editor classification and updates to user prompt - Visual Studio Blog ([22 hours ago](https://dotnetkicks.com/r/721309?url=https://devblogs.microsoft.com/visualstudio/visualstudio-extensibility-editor-classification-and-updates-to-user-prompt/))
 - Converting a docker-compose file to .NET Aspire ([1 days ago](https://dotnetkicks.com/r/721257?url=https://andrewlock.net/converting-a-docker-compose-file-to-aspire/))
 - Converting a docker-compose file to .NET Aspire ([1 days ago](https://andrewlock.net/converting-a-docker-compose-file-to-aspire/))
