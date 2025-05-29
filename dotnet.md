@@ -8,9 +8,9 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Database Coupling: How to FIX a Spaghetti Code System ([16 hours ago](https://dotnetkicks.com/r/721542?url=https://codeopinion.com/database-coupling-how-to-fix-a-spaghetti-code-system/))
-- Announcing dotnet run app.cs - A simpler way to start with C# and .NET 10 - .NET Blog ([19 hours ago](https://dotnetkicks.com/r/721492?url=https://devblogs.microsoft.com/dotnet/announcing-dotnet-run-app/))
-- Announcing dotnet run app.cs - A simpler way to start with C# and .NET 10 - .NET Blog ([19 hours ago](https://dotnetkicks.com/r/721481?url=https://devblogs.microsoft.com/dotnet/announcing-dotnet-run-app/))
+- Database Coupling: How to FIX a Spaghetti Code System ([17 hours ago](https://dotnetkicks.com/r/721542?url=https://codeopinion.com/database-coupling-how-to-fix-a-spaghetti-code-system/))
+- Announcing dotnet run app.cs - A simpler way to start with C# and .NET 10 - .NET Blog ([20 hours ago](https://dotnetkicks.com/r/721492?url=https://devblogs.microsoft.com/dotnet/announcing-dotnet-run-app/))
+- Announcing dotnet run app.cs - A simpler way to start with C# and .NET 10 - .NET Blog ([20 hours ago](https://dotnetkicks.com/r/721481?url=https://devblogs.microsoft.com/dotnet/announcing-dotnet-run-app/))
 - Improve the commands in your extensions - Visual Studio Blog ([20 hours ago](https://dotnetkicks.com/r/721458?url=https://devblogs.microsoft.com/visualstudio/improve-the-commands-in-your-extensions/))
 - Announcing dotnet run app.cs – A simpler way to start with C# and .NET 10 ([20 hours ago](https://devblogs.microsoft.com/dotnet/announcing-dotnet-run-app/))
 - Symbolically Important Wolverine 3.13.4 Release ([23 hours ago](https://dotnetkicks.com/r/721415?url=https://jeremydmiller.com/2025/05/28/symbolically-important-wolverine-3-13-4-release/))
@@ -24,7 +24,7 @@ description: DotNet Updates
 - Converting a docker-compose file to .NET Aspire ([2 days ago](https://andrewlock.net/converting-a-docker-compose-file-to-aspire/))
 - Azure AI Services in a Nutshell - A Developer's Mind Map ([2 days ago](https://dotnetkicks.com/r/721134?url=https://dailydotnettips.com/azure-ai-services-in-a-nutshell-a-developers-mind-map/))
 - Azure AI Services in a Nutshell - A Developer's Mind Map ([2 days ago](https://dotnetkicks.com/r/721130?url=https://dailydotnettips.com/azure-ai-services-in-a-nutshell-a-developers-mind-map/))
-- Revisiting using a Content Security Policy (CSP) nonce in Blazor ([2 days ago](https://dotnetkicks.com/r/721107?url=https://damienbod.com/2025/05/26/revisiting-using-a-content-security-policy-csp-nonce-in-blazor/))
+- Revisiting using a Content Security Policy (CSP) nonce in Blazor ([3 days ago](https://dotnetkicks.com/r/721107?url=https://damienbod.com/2025/05/26/revisiting-using-a-content-security-policy-csp-nonce-in-blazor/))
 - Coding Faster with dotNetTips Spargine: Validating Arguments Made Easy with Validator ([4 days ago](https://dotnettips.wordpress.com/2025/05/25/coding-faster-with-dotnettips-spargine-validating-arguments-made-easy-with-validator/))
 - F# Weekly #21, 2025 - Build 2025 &amp; ReSharper in VS Code ([4 days ago](https://dotnetkicks.com/r/721063?url=https://sergeytihon.com/2025/05/24/f-weekly-21-2025-build-2025-resharper-in-vs-code/))
 - Avoid Build Breaks: Fixing SDK Conflicts Between Visual Studio and Preview Versions ([6 days ago](https://dotnettips.wordpress.com/2025/05/23/avoid-build-breaks-fixing-sdk-conflicts-between-visual-studio-and-preview-versions/))
