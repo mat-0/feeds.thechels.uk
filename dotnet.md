@@ -9,12 +9,12 @@ description: DotNet Updates
 
 <!-- news_marker starts -->
 - Database Coupling: How to FIX a Spaghetti Code System ([7 hours ago](https://dotnetkicks.com/r/721542?url=https://codeopinion.com/database-coupling-how-to-fix-a-spaghetti-code-system/))
-- Announcing dotnet run app.cs - A simpler way to start with C# and .NET 10 - .NET Blog ([10 hours ago](https://dotnetkicks.com/r/721492?url=https://devblogs.microsoft.com/dotnet/announcing-dotnet-run-app/))
-- Announcing dotnet run app.cs - A simpler way to start with C# and .NET 10 - .NET Blog ([10 hours ago](https://dotnetkicks.com/r/721481?url=https://devblogs.microsoft.com/dotnet/announcing-dotnet-run-app/))
-- Improve the commands in your extensions - Visual Studio Blog ([10 hours ago](https://dotnetkicks.com/r/721458?url=https://devblogs.microsoft.com/visualstudio/improve-the-commands-in-your-extensions/))
-- Announcing dotnet run app.cs – A simpler way to start with C# and .NET 10 ([10 hours ago](https://devblogs.microsoft.com/dotnet/announcing-dotnet-run-app/))
-- Symbolically Important Wolverine 3.13.4 Release ([13 hours ago](https://dotnetkicks.com/r/721415?url=https://jeremydmiller.com/2025/05/28/symbolically-important-wolverine-3-13-4-release/))
-- Coding Faster with dotNetTips Spargine: Validating Data Made Easy with Validator ([20 hours ago](https://dotnettips.wordpress.com/2025/05/28/coding-faster-with-dotnettips-spargine-validating-data-made-easy-with-validator/))
+- Announcing dotnet run app.cs - A simpler way to start with C# and .NET 10 - .NET Blog ([11 hours ago](https://dotnetkicks.com/r/721492?url=https://devblogs.microsoft.com/dotnet/announcing-dotnet-run-app/))
+- Announcing dotnet run app.cs - A simpler way to start with C# and .NET 10 - .NET Blog ([11 hours ago](https://dotnetkicks.com/r/721481?url=https://devblogs.microsoft.com/dotnet/announcing-dotnet-run-app/))
+- Improve the commands in your extensions - Visual Studio Blog ([11 hours ago](https://dotnetkicks.com/r/721458?url=https://devblogs.microsoft.com/visualstudio/improve-the-commands-in-your-extensions/))
+- Announcing dotnet run app.cs – A simpler way to start with C# and .NET 10 ([11 hours ago](https://devblogs.microsoft.com/dotnet/announcing-dotnet-run-app/))
+- Symbolically Important Wolverine 3.13.4 Release ([14 hours ago](https://dotnetkicks.com/r/721415?url=https://jeremydmiller.com/2025/05/28/symbolically-important-wolverine-3-13-4-release/))
+- Coding Faster with dotNetTips Spargine: Validating Data Made Easy with Validator ([21 hours ago](https://dotnettips.wordpress.com/2025/05/28/coding-faster-with-dotnettips-spargine-validating-data-made-easy-with-validator/))
 - Web Category Filtering ([23 hours ago](https://dotnetkicks.com/r/721397?url=https://textslashplain.com/2025/05/27/web-category-filtering/))
 - Stream Compacting in Marten 8.0 ([1 days ago](https://dotnetkicks.com/r/721381?url=https://jeremydmiller.com/2025/05/27/stream-compacting-in-marten-8-0/))
 - Circuit Breaker Policy Fine-tuning Best Practice - .NET Blog ([1 days ago](https://dotnetkicks.com/r/721315?url=https://devblogs.microsoft.com/dotnet/circuit-breaker-policy-finetuning-best-practice/))
