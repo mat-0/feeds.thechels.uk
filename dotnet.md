@@ -8,9 +8,9 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Database Coupling: How to FIX a Spaghetti Code System ([14 hours ago](https://dotnetkicks.com/r/721542?url=https://codeopinion.com/database-coupling-how-to-fix-a-spaghetti-code-system/))
-- Announcing dotnet run app.cs - A simpler way to start with C# and .NET 10 - .NET Blog ([17 hours ago](https://dotnetkicks.com/r/721492?url=https://devblogs.microsoft.com/dotnet/announcing-dotnet-run-app/))
-- Announcing dotnet run app.cs - A simpler way to start with C# and .NET 10 - .NET Blog ([17 hours ago](https://dotnetkicks.com/r/721481?url=https://devblogs.microsoft.com/dotnet/announcing-dotnet-run-app/))
+- Database Coupling: How to FIX a Spaghetti Code System ([15 hours ago](https://dotnetkicks.com/r/721542?url=https://codeopinion.com/database-coupling-how-to-fix-a-spaghetti-code-system/))
+- Announcing dotnet run app.cs - A simpler way to start with C# and .NET 10 - .NET Blog ([18 hours ago](https://dotnetkicks.com/r/721492?url=https://devblogs.microsoft.com/dotnet/announcing-dotnet-run-app/))
+- Announcing dotnet run app.cs - A simpler way to start with C# and .NET 10 - .NET Blog ([18 hours ago](https://dotnetkicks.com/r/721481?url=https://devblogs.microsoft.com/dotnet/announcing-dotnet-run-app/))
 - Improve the commands in your extensions - Visual Studio Blog ([18 hours ago](https://dotnetkicks.com/r/721458?url=https://devblogs.microsoft.com/visualstudio/improve-the-commands-in-your-extensions/))
 - Announcing dotnet run app.cs – A simpler way to start with C# and .NET 10 ([18 hours ago](https://devblogs.microsoft.com/dotnet/announcing-dotnet-run-app/))
 - Symbolically Important Wolverine 3.13.4 Release ([21 hours ago](https://dotnetkicks.com/r/721415?url=https://jeremydmiller.com/2025/05/28/symbolically-important-wolverine-3-13-4-release/))
@@ -39,7 +39,7 @@ description: DotNet Updates
 - AI Shell Preview 4 Release! - PowerShell Team ([7 days ago](https://dotnetkicks.com/r/720721?url=https://devblogs.microsoft.com/powershell/preview-4-ai-shell/))
 - Announcing Public Preview of DiskANN in SQL Server 2025  -  Microsoft Community Hub ([7 days ago](https://dotnetkicks.com/r/720709?url=https://techcommunity.microsoft.com/blog/sqlserver/announcing-public-preview-of-diskann-in-sql-server-2025/4414683))
 - Boost Your .NET Projects: Master Type Management with TypeHelper in Spargine ([8 days ago](https://dotnettips.wordpress.com/2025/05/21/boost-your-net-projects-master-type-management-with-typehelper-in-spargine/))
-- Pushing a whole stack of branches with a single Git command ([8 days ago](https://dotnetkicks.com/r/720595?url=https://andrewlock.net/pushing-a-whole-stack-of-branches-with-a-single-git-command/))
+- Pushing a whole stack of branches with a single Git command ([9 days ago](https://dotnetkicks.com/r/720595?url=https://andrewlock.net/pushing-a-whole-stack-of-branches-with-a-single-git-command/))
 - Pushing a whole stack of branches with a single Git command ([9 days ago](https://andrewlock.net/pushing-a-whole-stack-of-branches-with-a-single-git-command/))
 - .NET Aspire 9.3 is here and enhanced with GitHub Copilot! - .NET Blog ([9 days ago](https://dotnetkicks.com/r/720470?url=https://devblogs.microsoft.com/dotnet/introducing-dotnet-aspire-93/))
 - .NET Aspire 9.3 is here and enhanced with GitHub Copilot! ([9 days ago](https://devblogs.microsoft.com/dotnet/introducing-dotnet-aspire-93/))
