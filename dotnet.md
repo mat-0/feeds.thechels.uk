@@ -11,9 +11,9 @@ description: DotNet Updates
 - Database Coupling: How to FIX a Spaghetti Code System ([11 hours ago](https://dotnetkicks.com/r/721542?url=https://codeopinion.com/database-coupling-how-to-fix-a-spaghetti-code-system/))
 - Announcing dotnet run app.cs - A simpler way to start with C# and .NET 10 - .NET Blog ([14 hours ago](https://dotnetkicks.com/r/721492?url=https://devblogs.microsoft.com/dotnet/announcing-dotnet-run-app/))
 - Announcing dotnet run app.cs - A simpler way to start with C# and .NET 10 - .NET Blog ([14 hours ago](https://dotnetkicks.com/r/721481?url=https://devblogs.microsoft.com/dotnet/announcing-dotnet-run-app/))
-- Improve the commands in your extensions - Visual Studio Blog ([14 hours ago](https://dotnetkicks.com/r/721458?url=https://devblogs.microsoft.com/visualstudio/improve-the-commands-in-your-extensions/))
-- Announcing dotnet run app.cs – A simpler way to start with C# and .NET 10 ([14 hours ago](https://devblogs.microsoft.com/dotnet/announcing-dotnet-run-app/))
-- Symbolically Important Wolverine 3.13.4 Release ([17 hours ago](https://dotnetkicks.com/r/721415?url=https://jeremydmiller.com/2025/05/28/symbolically-important-wolverine-3-13-4-release/))
+- Improve the commands in your extensions - Visual Studio Blog ([15 hours ago](https://dotnetkicks.com/r/721458?url=https://devblogs.microsoft.com/visualstudio/improve-the-commands-in-your-extensions/))
+- Announcing dotnet run app.cs – A simpler way to start with C# and .NET 10 ([15 hours ago](https://devblogs.microsoft.com/dotnet/announcing-dotnet-run-app/))
+- Symbolically Important Wolverine 3.13.4 Release ([18 hours ago](https://dotnetkicks.com/r/721415?url=https://jeremydmiller.com/2025/05/28/symbolically-important-wolverine-3-13-4-release/))
 - Coding Faster with dotNetTips Spargine: Validating Data Made Easy with Validator ([1 days ago](https://dotnettips.wordpress.com/2025/05/28/coding-faster-with-dotnettips-spargine-validating-data-made-easy-with-validator/))
 - Web Category Filtering ([1 days ago](https://dotnetkicks.com/r/721397?url=https://textslashplain.com/2025/05/27/web-category-filtering/))
 - Stream Compacting in Marten 8.0 ([1 days ago](https://dotnetkicks.com/r/721381?url=https://jeremydmiller.com/2025/05/27/stream-compacting-in-marten-8-0/))
@@ -65,6 +65,5 @@ description: DotNet Updates
 - dotInsights  -  May 2025 ([22 days ago](https://blog.jetbrains.com/dotnet/2025/05/06/dotinsights-may-2025/))
 - Boost Your .NET Projects: Simplify Dictionary Handling with AutoDefaultDictionary in Spargine ([25 days ago](https://dotnettips.wordpress.com/2025/05/04/boost-your-net-projects-simplify-dictionary-handling-with-autodefaultdictionary-in-spargine/))
 - Creating a 'pooled' dependency injection lifetime ([29 days ago](https://andrewlock.net/creating-a-pooled-dependency-injection-lifetime/))
-- The First Set of Bug Fixes for ReSharper and Rider 2025.1 Is Here! ([29 days ago](https://blog.jetbrains.com/dotnet/2025/04/29/2025-1-1-hot-fix/))
 
 <!-- news_marker ends -->
