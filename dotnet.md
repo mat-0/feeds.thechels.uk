@@ -10,7 +10,7 @@ description: DotNet Updates
 <!-- news_marker starts -->
 - Fine-tune the volume of logs your app produces - .NET Blog ([10 hours ago](https://dotnetkicks.com/r/721619?url=https://devblogs.microsoft.com/dotnet/finetune-the-volume-of-logs-your-app-produces/))
 - Fine-tune the volume of logs your app produces ([10 hours ago](https://devblogs.microsoft.com/dotnet/finetune-the-volume-of-logs-your-app-produces/))
-- Software Innovation: HashiCorp Terraform Revolutionized Infrastructure As Code (IaC)  -  Build5Nines ([11 hours ago](https://dotnetkicks.com/r/721591?url=https://build5nines.com/software-innovation-hashicorp-terraform-revolutionized-infrastructure-as-code-iac/))
+- Software Innovation: HashiCorp Terraform Revolutionized Infrastructure As Code (IaC)  -  Build5Nines ([12 hours ago](https://dotnetkicks.com/r/721591?url=https://build5nines.com/software-innovation-hashicorp-terraform-revolutionized-infrastructure-as-code-iac/))
 - Database Coupling: How to FIX a Spaghetti Code System ([1 days ago](https://dotnetkicks.com/r/721542?url=https://codeopinion.com/database-coupling-how-to-fix-a-spaghetti-code-system/))
 - Announcing dotnet run app.cs - A simpler way to start with C# and .NET 10 - .NET Blog ([1 days ago](https://dotnetkicks.com/r/721492?url=https://devblogs.microsoft.com/dotnet/announcing-dotnet-run-app/))
 - Announcing dotnet run app.cs - A simpler way to start with C# and .NET 10 - .NET Blog ([1 days ago](https://dotnetkicks.com/r/721481?url=https://devblogs.microsoft.com/dotnet/announcing-dotnet-run-app/))
@@ -18,7 +18,7 @@ description: DotNet Updates
 - Announcing dotnet run app.cs – A simpler way to start with C# and .NET 10 ([1 days ago](https://devblogs.microsoft.com/dotnet/announcing-dotnet-run-app/))
 - Symbolically Important Wolverine 3.13.4 Release ([1 days ago](https://dotnetkicks.com/r/721415?url=https://jeremydmiller.com/2025/05/28/symbolically-important-wolverine-3-13-4-release/))
 - Coding Faster with dotNetTips Spargine: Validating Data Made Easy with Validator ([1 days ago](https://dotnettips.wordpress.com/2025/05/28/coding-faster-with-dotnettips-spargine-validating-data-made-easy-with-validator/))
-- Web Category Filtering ([1 days ago](https://dotnetkicks.com/r/721397?url=https://textslashplain.com/2025/05/27/web-category-filtering/))
+- Web Category Filtering ([2 days ago](https://dotnetkicks.com/r/721397?url=https://textslashplain.com/2025/05/27/web-category-filtering/))
 - Stream Compacting in Marten 8.0 ([2 days ago](https://dotnetkicks.com/r/721381?url=https://jeremydmiller.com/2025/05/27/stream-compacting-in-marten-8-0/))
 - Circuit Breaker Policy Fine-tuning Best Practice - .NET Blog ([2 days ago](https://dotnetkicks.com/r/721315?url=https://devblogs.microsoft.com/dotnet/circuit-breaker-policy-finetuning-best-practice/))
 - Circuit Breaker Policy Fine-tuning Best Practice ([2 days ago](https://devblogs.microsoft.com/dotnet/circuit-breaker-policy-finetuning-best-practice/))
