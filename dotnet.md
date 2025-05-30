@@ -58,7 +58,7 @@ description: DotNet Updates
 - Using the new AI template to create a chatbot about a website ([17 days ago](https://andrewlock.net/using-the-new-ai-template-to-create-a-chatbot-about-a-website/))
 - dotNetDave Says… Avoid Going Across the Wire Until Necessary! ([18 days ago](https://dotnettips.wordpress.com/2025/05/12/dotnetdave-says-avoid-going-across-the-wire-until-necessary/))
 - Boost Your .NET Projects: Supercharge Your Performance Tracking with PerformanceStopwatch in Spargine ([19 days ago](https://dotnettips.wordpress.com/2025/05/11/boost-your-net-projects-supercharge-your-performance-tracking-with-performancestopwatch/))
-- C# 14 – Exploring extension members ([21 days ago](https://devblogs.microsoft.com/dotnet/csharp-exploring-extension-members/))
+- C# 14 – Exploring extension members ([22 days ago](https://devblogs.microsoft.com/dotnet/csharp-exploring-extension-members/))
 - ReSharper and Rider 2025.1.2 – Bug Fixes Have Landed! ([22 days ago](https://blog.jetbrains.com/dotnet/2025/05/08/resharper-rider-2025-1-2-bug-fix/))
 - Boost Your .NET Projects: Enhancing .NET Logging with LoggingHelper in Spargine ([23 days ago](https://dotnettips.wordpress.com/2025/05/07/boost-your-net-projects-enhancing-net-logging-with-logginghelper-in-spargine/))
 - Exploring the new AI chat template ([24 days ago](https://andrewlock.net/exploring-the-new-ai-chat-template/))
