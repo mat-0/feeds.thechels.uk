@@ -9,7 +9,7 @@ description: DotNet Updates
 
 <!-- news_marker starts -->
 - Fine-tune the volume of logs your app produces - .NET Blog ([13 hours ago](https://dotnetkicks.com/r/721619?url=https://devblogs.microsoft.com/dotnet/finetune-the-volume-of-logs-your-app-produces/))
-- Fine-tune the volume of logs your app produces ([13 hours ago](https://devblogs.microsoft.com/dotnet/finetune-the-volume-of-logs-your-app-produces/))
+- Fine-tune the volume of logs your app produces ([14 hours ago](https://devblogs.microsoft.com/dotnet/finetune-the-volume-of-logs-your-app-produces/))
 - Software Innovation: HashiCorp Terraform Revolutionized Infrastructure As Code (IaC)  -  Build5Nines ([15 hours ago](https://dotnetkicks.com/r/721591?url=https://build5nines.com/software-innovation-hashicorp-terraform-revolutionized-infrastructure-as-code-iac/))
 - Database Coupling: How to FIX a Spaghetti Code System ([1 days ago](https://dotnetkicks.com/r/721542?url=https://codeopinion.com/database-coupling-how-to-fix-a-spaghetti-code-system/))
 - Announcing dotnet run app.cs - A simpler way to start with C# and .NET 10 - .NET Blog ([1 days ago](https://dotnetkicks.com/r/721492?url=https://devblogs.microsoft.com/dotnet/announcing-dotnet-run-app/))
