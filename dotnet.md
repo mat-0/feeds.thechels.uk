@@ -8,7 +8,7 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Fine-tune the volume of logs your app produces - .NET Blog ([1 days ago](https://dotnetkicks.com/r/721619?url=https://devblogs.microsoft.com/dotnet/finetune-the-volume-of-logs-your-app-produces/))
+- Fine-tune the volume of logs your app produces - .NET Blog ([2 days ago](https://dotnetkicks.com/r/721619?url=https://devblogs.microsoft.com/dotnet/finetune-the-volume-of-logs-your-app-produces/))
 - Fine-tune the volume of logs your app produces ([2 days ago](https://devblogs.microsoft.com/dotnet/finetune-the-volume-of-logs-your-app-produces/))
 - Software Innovation: HashiCorp Terraform Revolutionized Infrastructure As Code (IaC)  -  Build5Nines ([2 days ago](https://dotnetkicks.com/r/721591?url=https://build5nines.com/software-innovation-hashicorp-terraform-revolutionized-infrastructure-as-code-iac/))
 - Database Coupling: How to FIX a Spaghetti Code System ([2 days ago](https://dotnetkicks.com/r/721542?url=https://codeopinion.com/database-coupling-how-to-fix-a-spaghetti-code-system/))
@@ -20,7 +20,7 @@ description: DotNet Updates
 - Coding Faster with dotNetTips Spargine: Validating Data Made Easy with Validator ([3 days ago](https://dotnettips.wordpress.com/2025/05/28/coding-faster-with-dotnettips-spargine-validating-data-made-easy-with-validator/))
 - Web Category Filtering ([3 days ago](https://dotnetkicks.com/r/721397?url=https://textslashplain.com/2025/05/27/web-category-filtering/))
 - Stream Compacting in Marten 8.0 ([3 days ago](https://dotnetkicks.com/r/721381?url=https://jeremydmiller.com/2025/05/27/stream-compacting-in-marten-8-0/))
-- Circuit Breaker Policy Fine-tuning Best Practice - .NET Blog ([3 days ago](https://dotnetkicks.com/r/721315?url=https://devblogs.microsoft.com/dotnet/circuit-breaker-policy-finetuning-best-practice/))
+- Circuit Breaker Policy Fine-tuning Best Practice - .NET Blog ([4 days ago](https://dotnetkicks.com/r/721315?url=https://devblogs.microsoft.com/dotnet/circuit-breaker-policy-finetuning-best-practice/))
 - Circuit Breaker Policy Fine-tuning Best Practice ([4 days ago](https://devblogs.microsoft.com/dotnet/circuit-breaker-policy-finetuning-best-practice/))
 - VisualStudio.Extensibility: Editor classification and updates to user prompt - Visual Studio Blog ([4 days ago](https://dotnetkicks.com/r/721309?url=https://devblogs.microsoft.com/visualstudio/visualstudio-extensibility-editor-classification-and-updates-to-user-prompt/))
 - Converting a docker-compose file to .NET Aspire ([4 days ago](https://dotnetkicks.com/r/721257?url=https://andrewlock.net/converting-a-docker-compose-file-to-aspire/))
@@ -44,7 +44,7 @@ description: DotNet Updates
 - Boost Your .NET Projects: Master Type Management with TypeHelper in Spargine ([10 days ago](https://dotnettips.wordpress.com/2025/05/21/boost-your-net-projects-master-type-management-with-typehelper-in-spargine/))
 - Pushing a whole stack of branches with a single Git command ([11 days ago](https://dotnetkicks.com/r/720595?url=https://andrewlock.net/pushing-a-whole-stack-of-branches-with-a-single-git-command/))
 - Pushing a whole stack of branches with a single Git command ([11 days ago](https://andrewlock.net/pushing-a-whole-stack-of-branches-with-a-single-git-command/))
-- .NET Aspire 9.3 is here and enhanced with GitHub Copilot! ([11 days ago](https://devblogs.microsoft.com/dotnet/introducing-dotnet-aspire-93/))
+- .NET Aspire 9.3 is here and enhanced with GitHub Copilot! ([12 days ago](https://devblogs.microsoft.com/dotnet/introducing-dotnet-aspire-93/))
 - Accelerate Your .NET Upgrades with GitHub Copilot ([12 days ago](https://devblogs.microsoft.com/dotnet/github-copilot-upgrade-dotnet/))
 - JetBrains AI Assistant – Now in Visual Studio Code ([12 days ago](https://blog.jetbrains.com/ai/2025/05/jetbrains-ai-assistant-now-in-visual-studio-code/))
 - ReSharper Comes to Microsoft Visual Studio Code: Public Preview Now Open ([12 days ago](https://blog.jetbrains.com/dotnet/2025/05/19/resharper-comes-to-microsoft-visual-studio-code/))

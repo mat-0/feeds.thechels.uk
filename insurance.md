@@ -8,12 +8,12 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Success is Infectious, Meet The Scale Up 50 Tech Finalists ([19 hours ago](https://insurance-edge.net/2025/05/30/success-is-infectious-meet-the-scale-up-50-tech-finalists/))
+- Success is Infectious, Meet The Scale Up 50 Tech Finalists ([20 hours ago](https://insurance-edge.net/2025/05/30/success-is-infectious-meet-the-scale-up-50-tech-finalists/))
 - New Executive Leadership Team at Novel Holdings ([20 hours ago](https://insurance-edge.net/2025/05/30/new-executive-leadership-team-at-novel-holdings/))
 - ALA Insurance is Rated One of The Best Places to Work by Sunday Times ([21 hours ago](https://insurance-edge.net/2025/05/30/ala-insurance-is-rated-one-of-the-best-places-to-work-by-sunday-times/))
-- We Built the Bank of the Future: Insights By Darren Bak ([21 hours ago](https://insurance-edge.net/2025/05/30/we-built-the-bank-of-the-future-insights-by-darren-bak/))
-- The Risks of Using Non-GamStop Betting Sites After Self-Exclusion ([21 hours ago](https://insurance-edge.net/2025/05/30/the-risks-of-using-non-gamstop-betting-sites-after-self-exclusion/))
-- UKGC Boosts Consumer Protection ([21 hours ago](https://insurance-edge.net/2025/05/30/ukgc-boosts-consumer-protection/))
+- We Built the Bank of the Future: Insights By Darren Bak ([22 hours ago](https://insurance-edge.net/2025/05/30/we-built-the-bank-of-the-future-insights-by-darren-bak/))
+- The Risks of Using Non-GamStop Betting Sites After Self-Exclusion ([22 hours ago](https://insurance-edge.net/2025/05/30/the-risks-of-using-non-gamstop-betting-sites-after-self-exclusion/))
+- UKGC Boosts Consumer Protection ([22 hours ago](https://insurance-edge.net/2025/05/30/ukgc-boosts-consumer-protection/))
 - IRB(Re) sponsors Brazil’s inaugural ILS transaction, R$33.7m Andrina ([1 days ago](https://www.reinsurancene.ws/irbre-sponsors-brazils-inaugural-ils-transaction-r33-7m-andrina/))
 - Former WV Fire Official Sentenced to 33 Months for Arson, Insurance Fraud ([1 days ago](https://www.insurancejournal.com/news/southeast/2025/05/30/825740.htm))
 - ZestyAI Gains Michigan Approval ([1 days ago](https://www.insurancejournal.com/news/midwest/2025/05/30/825745.htm))
