@@ -67,7 +67,7 @@ description: Insurance Updates
 - Ex-Connecticut Governor Rowland Pardoned by President Trump Was Insurance Agent ([1 days ago](https://www.insurancejournal.com/news/east/2025/05/30/825629.htm))
 - The insurance stories set to dominate the headlines in the second half of 2025 ([1 days ago](https://www.postonline.co.uk/commercial/7957828/the-insurance-stories-set-to-dominate-the-headlines-in-the-second-half-of-2025))
 - Penny Black’s Social Diary: NFU’s royal debut; Criterion’s rabbit ([1 days ago](https://www.postonline.co.uk/people/7957615/penny-black%E2%80%99s-social-diary-nfu%E2%80%99s-royal-debut-criterion%E2%80%99s-rabbit))
-- Trump’s Tariffs to Remain in Effect After Appeals Court Grants Stay ([1 days ago](https://www.insurancejournal.com/news/national/2025/05/29/825614.htm))
+- Trump’s Tariffs to Remain in Effect After Appeals Court Grants Stay ([2 days ago](https://www.insurancejournal.com/news/national/2025/05/29/825614.htm))
 - Why GRC programs could benefit cyber insurance ([2 days ago](https://www.dig-in.com/opinion/why-grc-programs-could-benefit-cyber-insurance))
 - Empathy gains support in new funding round ([2 days ago](https://www.dig-in.com/news/empathy-gains-support-in-new-funding-round))
 - Can these resilience proposals help "incentivise homeowners" to reduce property risks? ([2 days ago](https://www.insurancebusinessmag.com/uk/news/property-insurance/can-these-resilience-proposals-help-incentivise-homeowners-to-reduce-property-risks-537412.aspx))

@@ -53,7 +53,7 @@ description: DotNet Updates
 - The Early Access Program for ReSharper and .NET Tools 2025.2 Has Begun! ([15 days ago](https://blog.jetbrains.com/dotnet/2025/05/16/resharper-2025-2-eap-1/))
 - Evaluating content safety in your .NET AI applications ([16 days ago](https://devblogs.microsoft.com/dotnet/evaluating-ai-content-safety/))
 - Boost Your .NET Projects: Supercharge Your Code with FastStringBuilder in Spargine ([17 days ago](https://dotnettips.wordpress.com/2025/05/14/boost-your-net-projects-supercharge-your-code-with-faststringbuilder-in-spargine/))
-- .NET and .NET Framework May 2025 servicing releases updates ([17 days ago](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-may-2025-servicing-updates/))
+- .NET and .NET Framework May 2025 servicing releases updates ([18 days ago](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-may-2025-servicing-updates/))
 - .NET 10 Preview 4 is now available! ([18 days ago](https://devblogs.microsoft.com/dotnet/dotnet-10-preview-4/))
 - Using the new AI template to create a chatbot about a website ([18 days ago](https://andrewlock.net/using-the-new-ai-template-to-create-a-chatbot-about-a-website/))
 - dotNetDave Says… Avoid Going Across the Wire Until Necessary! ([19 days ago](https://dotnettips.wordpress.com/2025/05/12/dotnetdave-says-avoid-going-across-the-wire-until-necessary/))
