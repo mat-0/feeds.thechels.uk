@@ -8,7 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Success is Infectious, Meet The Scale Up 50 Tech Finalists ([22 hours ago](https://insurance-edge.net/2025/05/30/success-is-infectious-meet-the-scale-up-50-tech-finalists/))
+- Success is Infectious, Meet The Scale Up 50 Tech Finalists ([23 hours ago](https://insurance-edge.net/2025/05/30/success-is-infectious-meet-the-scale-up-50-tech-finalists/))
 - New Executive Leadership Team at Novel Holdings ([23 hours ago](https://insurance-edge.net/2025/05/30/new-executive-leadership-team-at-novel-holdings/))
 - ALA Insurance is Rated One of The Best Places to Work by Sunday Times ([1 days ago](https://insurance-edge.net/2025/05/30/ala-insurance-is-rated-one-of-the-best-places-to-work-by-sunday-times/))
 - We Built the Bank of the Future: Insights By Darren Bak ([1 days ago](https://insurance-edge.net/2025/05/30/we-built-the-bank-of-the-future-insights-by-darren-bak/))
@@ -96,7 +96,7 @@ description: Insurance Updates
 - Is Axiom Ince the start of a new era of SFO investigations? ([2 days ago](https://www.postonline.co.uk/broker/7957763/is-axiom-ince-the-start-of-a-new-era-of-sfo-investigations))
 - Q&A: Simon Ball, Embri ([2 days ago](https://www.postonline.co.uk/technology/7957476/qa-simon-ball-embri))
 - Throwback Thursday: ABI bad taste; Lloyd’s Russian horde ([2 days ago](https://www.postonline.co.uk/lloyd%E2%80%99slondon/7956606/throwback-thursday-abi-bad-taste-lloyd%E2%80%99s-russian-horde))
-- Travelers Canada business acquired by Definity for $2.4B: Insurtech news ([2 days ago](https://www.dig-in.com/news/travelers-canada-acquired-by-definity-2-4b-insurtech-news))
+- Travelers Canada business acquired by Definity for $2.4B: Insurtech news ([3 days ago](https://www.dig-in.com/news/travelers-canada-acquired-by-definity-2-4b-insurtech-news))
 - How insurance carriers and agencies can win together ([3 days ago](https://www.dig-in.com/opinion/how-insurance-carriers-and-agencies-can-win-together))
 - Acrisure to Acquire Heartland Payroll from Global Payments for $1.1 Billion ([3 days ago](https://www.insurtechinsights.com/acrisure-to-acquire-heartland-payroll-from-global-payments-for-1-1-billion/))
 - Title company sues feds over looming reporting rule ([3 days ago](https://www.dig-in.com/news/title-company-sues-feds-over-looming-reporting-rule))
