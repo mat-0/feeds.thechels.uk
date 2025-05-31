@@ -62,7 +62,7 @@ description: DotNet Updates
 - ReSharper and Rider 2025.1.2 – Bug Fixes Have Landed! ([22 days ago](https://blog.jetbrains.com/dotnet/2025/05/08/resharper-rider-2025-1-2-bug-fix/))
 - Boost Your .NET Projects: Enhancing .NET Logging with LoggingHelper in Spargine ([24 days ago](https://dotnettips.wordpress.com/2025/05/07/boost-your-net-projects-enhancing-net-logging-with-logginghelper-in-spargine/))
 - Exploring the new AI chat template ([24 days ago](https://andrewlock.net/exploring-the-new-ai-chat-template/))
-- dotInsights  -  May 2025 ([24 days ago](https://blog.jetbrains.com/dotnet/2025/05/06/dotinsights-may-2025/))
+- dotInsights  -  May 2025 ([25 days ago](https://blog.jetbrains.com/dotnet/2025/05/06/dotinsights-may-2025/))
 - Boost Your .NET Projects: Simplify Dictionary Handling with AutoDefaultDictionary in Spargine ([27 days ago](https://dotnettips.wordpress.com/2025/05/04/boost-your-net-projects-simplify-dictionary-handling-with-autodefaultdictionary-in-spargine/))
 
 <!-- news_marker ends -->
