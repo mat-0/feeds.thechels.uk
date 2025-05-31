@@ -9,8 +9,8 @@ description: Insurance Updates
 
 <!-- news_marker starts -->
 - Success is Infectious, Meet The Scale Up 50 Tech Finalists ([19 hours ago](https://insurance-edge.net/2025/05/30/success-is-infectious-meet-the-scale-up-50-tech-finalists/))
-- New Executive Leadership Team at Novel Holdings ([19 hours ago](https://insurance-edge.net/2025/05/30/new-executive-leadership-team-at-novel-holdings/))
-- ALA Insurance is Rated One of The Best Places to Work by Sunday Times ([20 hours ago](https://insurance-edge.net/2025/05/30/ala-insurance-is-rated-one-of-the-best-places-to-work-by-sunday-times/))
+- New Executive Leadership Team at Novel Holdings ([20 hours ago](https://insurance-edge.net/2025/05/30/new-executive-leadership-team-at-novel-holdings/))
+- ALA Insurance is Rated One of The Best Places to Work by Sunday Times ([21 hours ago](https://insurance-edge.net/2025/05/30/ala-insurance-is-rated-one-of-the-best-places-to-work-by-sunday-times/))
 - We Built the Bank of the Future: Insights By Darren Bak ([21 hours ago](https://insurance-edge.net/2025/05/30/we-built-the-bank-of-the-future-insights-by-darren-bak/))
 - The Risks of Using Non-GamStop Betting Sites After Self-Exclusion ([21 hours ago](https://insurance-edge.net/2025/05/30/the-risks-of-using-non-gamstop-betting-sites-after-self-exclusion/))
 - UKGC Boosts Consumer Protection ([21 hours ago](https://insurance-edge.net/2025/05/30/ukgc-boosts-consumer-protection/))
@@ -71,8 +71,8 @@ description: Insurance Updates
 - Why GRC programs could benefit cyber insurance ([1 days ago](https://www.dig-in.com/opinion/why-grc-programs-could-benefit-cyber-insurance))
 - Empathy gains support in new funding round ([1 days ago](https://www.dig-in.com/news/empathy-gains-support-in-new-funding-round))
 - Can these resilience proposals help "incentivise homeowners" to reduce property risks? ([1 days ago](https://www.insurancebusinessmag.com/uk/news/property-insurance/can-these-resilience-proposals-help-incentivise-homeowners-to-reduce-property-risks-537412.aspx))
-- Searing Heat in California and West Threatens to Break Temperature Records ([1 days ago](https://www.insurancejournal.com/news/west/2025/05/29/825542.htm))
-- Empathy Secures $72 Million Series C Funding and Launches Empathy Alliance to Transform Grief Support ([1 days ago](https://www.insurtechinsights.com/empathy-secures-72-million-series-c-funding-and-launches-empathy-alliance-to-transform-grief-support/))
+- Searing Heat in California and West Threatens to Break Temperature Records ([2 days ago](https://www.insurancejournal.com/news/west/2025/05/29/825542.htm))
+- Empathy Secures $72 Million Series C Funding and Launches Empathy Alliance to Transform Grief Support ([2 days ago](https://www.insurtechinsights.com/empathy-secures-72-million-series-c-funding-and-launches-empathy-alliance-to-transform-grief-support/))
 - Court orders repayment of commission-inflated premiums ([2 days ago](https://www.postonline.co.uk/commercial/7957833/court-orders-repayment-of-commission-inflated-premiums))
 - High-risk sectors and smart strategies for brokers in a volatile market ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/highrisk-sectors-and-smart-strategies-for-brokers-in-a-volatile-market-537319.aspx))
 - Lithium battery fires: What can brokers do to smother the flames? ([2 days ago](https://www.insurancebusinessmag.com/uk/news/auto-motor/lithium-battery-fires-what-can-brokers-do-to-smother-the-flames-537318.aspx))
