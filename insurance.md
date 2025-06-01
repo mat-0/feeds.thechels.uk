@@ -8,7 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Sharing data could enhance nat cat models, experts say ([1 hours ago](https://www.dig-in.com/news/sharing-data-could-enhance-nat-cat-models-experts-say))
+- Sharing data could enhance nat cat models, experts say ([2 hours ago](https://www.dig-in.com/news/sharing-data-could-enhance-nat-cat-models-experts-say))
 - Digital brings challenges for small, midsize life insurers: Equisoft ([2 hours ago](https://www.dig-in.com/news/digital-brings-challenges-for-small-midsize-life-insurers-equisoft))
 - Success is Infectious, Meet The Scale Up 50 Tech Finalists ([2 days ago](https://insurance-edge.net/2025/05/30/success-is-infectious-meet-the-scale-up-50-tech-finalists/))
 - New Executive Leadership Team at Novel Holdings ([2 days ago](https://insurance-edge.net/2025/05/30/new-executive-leadership-team-at-novel-holdings/))
@@ -29,7 +29,7 @@ description: Insurance Updates
 - Earnings to remain stable for global multiline insurers in 2025: S&P ([2 days ago](https://www.reinsurancene.ws/earnings-to-remain-stable-for-global-multiline-insurers-in-2025-sp/))
 - People Moves: Markel Taps Former RSA Exec Mooney to Succeed Galjaard; AXA XL Reinsurance Names Ivanova as Head of Property, International Reinsurance ([2 days ago](https://www.insurancejournal.com/news/international/2025/05/30/825701.htm))
 - Farmers Press Trump for Biofuels Boost to Counter Tariff Losses ([2 days ago](https://www.insurancejournal.com/news/midwest/2025/05/30/825702.htm))
-- CVS and Express Scripts Sue to Block Arkansas Law Restricting Pharmacy Benefit Managers ([2 days ago](https://www.insurancejournal.com/news/southcentral/2025/05/30/825696.htm))
+- CVS, Express Scripts Sue to Block Arkansas Law Restricting Pharmacy Benefit Managers ([2 days ago](https://www.insurancejournal.com/news/southcentral/2025/05/30/825696.htm))
 - US Coastal secures $330m in US named storm reinsurance with first cat bond ([2 days ago](https://www.reinsurancene.ws/us-coastal-secures-330m-in-us-named-storm-reinsurance-with-first-cat-bond/))
 - Lawsuit Says Zealous Honolulu PD Arresting Drivers for DUI Even When Sober ([2 days ago](https://www.insurancejournal.com/news/west/2025/05/30/825693.htm))
 - Czech Republic Accuses China of ‘Malicious Cyber Campaign’ Against Foreign Ministry ([2 days ago](https://www.insurancejournal.com/news/international/2025/05/30/825682.htm))
