@@ -8,10 +8,10 @@ description: SecOps News
 [Get this as an RSS feed](/secops.rss)
 
 <!-- news_marker starts -->
-- Fraudsters, murderers, students: who the GRU assembled a team of hacker provocateurs from and why it failed ([1 hours ago](https://databreaches.net/2025/06/01/fraudsters-murderers-students-who-the-gru-assembled-a-team-of-hacker-provocateurs-from-and-why-it-failed/))
+- Fraudsters, murderers, students: who the GRU assembled a team of hacker provocateurs from and why it failed ([2 hours ago](https://databreaches.net/2025/06/01/fraudsters-murderers-students-who-the-gru-assembled-a-team-of-hacker-provocateurs-from-and-why-it-failed/))
 - Order of Psychologists of Lombardy fined 30,000 € for inadequate data security protection and detection following ransomware attack ([2 hours ago](https://databreaches.net/2025/06/01/order-of-psychologists-of-lombardy-fined-30000-e-for-inadequate-data-security-protection-and-detection-following-ransomware-attack/))
-- VMware drops the lowest tier of its partner program – except in Europe ([4 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/06/01/vmware_channel_changes/))
-- Lower Merion School District says a data breach was caused by a computer glitch ([7 hours ago](https://databreaches.net/2025/06/01/lower-merion-school-district-says-a-data-breach-was-caused-by-a-computer-glitch/))
+- VMware drops the lowest tier of its partner program – except in Europe ([5 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/06/01/vmware_channel_changes/))
+- Lower Merion School District says a data breach was caused by a computer glitch ([8 hours ago](https://databreaches.net/2025/06/01/lower-merion-school-district-says-a-data-breach-was-caused-by-a-computer-glitch/))
 - After $1 Million Ransom Demand, Virgin Islands Lottery Restores Operations Without Paying Hackers ([10 hours ago](https://databreaches.net/2025/06/01/after-1-million-ransom-demand-virgin-islands-lottery-restores-operations-without-paying-hackers/))
 - Junior Defence Contractor Arrested For Leaking Indian Naval Secrets To Suspected Pakistani Spies ([10 hours ago](https://databreaches.net/2025/06/01/junior-defence-contractor-arrested-for-leaking-indian-naval-secrets-to-suspected-pakistani-spies/))
 - Exploit details for max severity Cisco IOS XE flaw now public ([1 days ago](https://www.bleepingcomputer.com/news/security/exploit-details-for-max-severity-cisco-ios-xe-flaw-now-public/))
@@ -135,7 +135,7 @@ description: SecOps News
 - Free - 13,926,173 breached accounts ([5 days ago](https://haveibeenpwned.com/Breach/FreeMobile))
 - Weekly Update 453 ([5 days ago](https://www.troyhunt.com/weekly-update-453/))
 - We're experiencing errors ([6 days ago](https://www.githubstatus.com/incidents/d0nm3xcdc5jw))
-- Operation Endgame 2.0 - 15,436,844 breached accounts ([8 days ago](https://haveibeenpwned.com/Breach/OperationEndgame2))
+- Operation Endgame 2.0 - 15,436,844 breached accounts ([9 days ago](https://haveibeenpwned.com/Breach/OperationEndgame2))
 - Disruption with some GitHub services ([9 days ago](https://www.githubstatus.com/incidents/y71cytztvck9))
 - 3AM ransomware attack poses as a call from IT support to compromise networks ([9 days ago](https://www.tripwire.com/state-of-security/3am-ransomware-attackers-pose-it-support-compromise-networks))
 - Fédération Francaise de Rugby - 281,977 breached accounts ([9 days ago](https://haveibeenpwned.com/Breach/FFR))
@@ -169,7 +169,7 @@ description: SecOps News
 - APPLE-SA-05-12-2025-6 watchOS 11.5 ([15 days ago](https://seclists.org/fulldisclosure/2025/May/10))
 - APPLE-SA-05-12-2025-5 macOS Ventura 13.7.6 ([15 days ago](https://seclists.org/fulldisclosure/2025/May/9))
 - GitHub Enterprise Importer (GEI) is experiencing degraded throughput ([15 days ago](https://www.githubstatus.com/incidents/71tl7pkqysgw))
-- Weekly Update 452 ([15 days ago](https://www.troyhunt.com/weekly-update-452/))
+- Weekly Update 452 ([16 days ago](https://www.troyhunt.com/weekly-update-452/))
 - Impact of AI on cyber threat from now to 2027 ([16 days ago](https://www.ncsc.gov.uk/report/impact-ai-cyber-threat-now-2027))
 - Disruption with some GitHub services ([16 days ago](https://www.githubstatus.com/incidents/3nn1p9h5b76h))
 - How to Spot a Phishing Email in 2025 –with Real Examples and Red Flags ([16 days ago](https://www.itgovernance.co.uk/blog/5-ways-to-detect-a-phishing-email))
@@ -208,6 +208,5 @@ description: SecOps News
 - TeleMessage, the Signal clone used by US government officials, suffers hack ([25 days ago](https://www.bitdefender.com/en-us/blog/hotforsecurity/telemessage-signal-clone-us-government-hack))
 - Comparison of tools that extract files from PCAP ([27 days ago](https://www.netresec.com/?page=Blog&month=2025-05&post=Comparison-of-tools-that-extract-files-from-PCAP))
 - Passkeys for Normal People ([27 days ago](https://www.troyhunt.com/passkeys-for-normal-people/))
-- Weekly Update 450 ([29 days ago](https://www.troyhunt.com/weekly-update-450/))
 
 <!-- news_marker ends -->
