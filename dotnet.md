@@ -8,8 +8,8 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- The Untapped Power of Veteran Engineers: Why Companies Are Overlooking Their Most Valuable Assets – Part 2 ([11 hours ago](https://dotnettips.wordpress.com/2025/06/01/the-untapped-power-of-veteran-engineers-why-companies-are-overlooking-their-most-valuable-assets-part-2/))
-- Boost Your .NET Projects: Enhance Your Workflow with AssemblyHelper in Spargine ([12 hours ago](https://dotnettips.wordpress.com/2025/06/01/boost-your-net-projects-enhance-your-workflow-with-assemblyhelper-in-spargine/))
+- The Untapped Power of Veteran Engineers: Why Companies Are Overlooking Their Most Valuable Assets – Part 2 ([12 hours ago](https://dotnettips.wordpress.com/2025/06/01/the-untapped-power-of-veteran-engineers-why-companies-are-overlooking-their-most-valuable-assets-part-2/))
+- Boost Your .NET Projects: Enhance Your Workflow with AssemblyHelper in Spargine ([13 hours ago](https://dotnettips.wordpress.com/2025/06/01/boost-your-net-projects-enhance-your-workflow-with-assemblyhelper-in-spargine/))
 - Fine-tune the volume of logs your app produces - .NET Blog ([3 days ago](https://dotnetkicks.com/r/721619?url=https://devblogs.microsoft.com/dotnet/finetune-the-volume-of-logs-your-app-produces/))
 - Fine-tune the volume of logs your app produces ([3 days ago](https://devblogs.microsoft.com/dotnet/finetune-the-volume-of-logs-your-app-produces/))
 - Software Innovation: HashiCorp Terraform Revolutionized Infrastructure As Code (IaC)  -  Build5Nines ([3 days ago](https://dotnetkicks.com/r/721591?url=https://build5nines.com/software-innovation-hashicorp-terraform-revolutionized-infrastructure-as-code-iac/))
@@ -31,7 +31,7 @@ description: DotNet Updates
 - Azure AI Services in a Nutshell - A Developer's Mind Map ([6 days ago](https://dotnetkicks.com/r/721130?url=https://dailydotnettips.com/azure-ai-services-in-a-nutshell-a-developers-mind-map/))
 - Revisiting using a Content Security Policy (CSP) nonce in Blazor ([6 days ago](https://dotnetkicks.com/r/721107?url=https://damienbod.com/2025/05/26/revisiting-using-a-content-security-policy-csp-nonce-in-blazor/))
 - Coding Faster with dotNetTips Spargine: Validating Arguments Made Easy with Validator ([7 days ago](https://dotnettips.wordpress.com/2025/05/25/coding-faster-with-dotnettips-spargine-validating-arguments-made-easy-with-validator/))
-- F# Weekly #21, 2025 - Build 2025 &amp; ReSharper in VS Code ([7 days ago](https://dotnetkicks.com/r/721063?url=https://sergeytihon.com/2025/05/24/f-weekly-21-2025-build-2025-resharper-in-vs-code/))
+- F# Weekly #21, 2025 - Build 2025 &amp; ReSharper in VS Code ([8 days ago](https://dotnetkicks.com/r/721063?url=https://sergeytihon.com/2025/05/24/f-weekly-21-2025-build-2025-resharper-in-vs-code/))
 - Avoid Build Breaks: Fixing SDK Conflicts Between Visual Studio and Preview Versions ([9 days ago](https://dotnettips.wordpress.com/2025/05/23/avoid-build-breaks-fixing-sdk-conflicts-between-visual-studio-and-preview-versions/))
 - Critter Stack Release Plans ([9 days ago](https://dotnetkicks.com/r/720986?url=https://jeremydmiller.com/2025/05/22/critter-stack-release-plans/))
 - Azure AI Foundry: What is it and Why Should You Care ([10 days ago](https://dotnetkicks.com/r/720812?url=https://www.mobilize.net/blog/azure-ai-foundry-what-is-it-and-why-should-you-care?utm_source=DNK-720812&utm_medium=DNK-720812&utm_content=DNK-720812&utm_campaign=DNK-720812))

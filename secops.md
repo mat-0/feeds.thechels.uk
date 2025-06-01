@@ -8,8 +8,8 @@ description: SecOps News
 [Get this as an RSS feed](/secops.rss)
 
 <!-- news_marker starts -->
-- VMware drops the lowest tier of its partner program – except in Europe ([2 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/06/01/vmware_channel_changes/))
-- Lower Merion School District says a data breach was caused by a computer glitch ([5 hours ago](https://databreaches.net/2025/06/01/lower-merion-school-district-says-a-data-breach-was-caused-by-a-computer-glitch/))
+- VMware drops the lowest tier of its partner program – except in Europe ([3 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/06/01/vmware_channel_changes/))
+- Lower Merion School District says a data breach was caused by a computer glitch ([6 hours ago](https://databreaches.net/2025/06/01/lower-merion-school-district-says-a-data-breach-was-caused-by-a-computer-glitch/))
 - After $1 Million Ransom Demand, Virgin Islands Lottery Restores Operations Without Paying Hackers ([8 hours ago](https://databreaches.net/2025/06/01/after-1-million-ransom-demand-virgin-islands-lottery-restores-operations-without-paying-hackers/))
 - Junior Defence Contractor Arrested For Leaking Indian Naval Secrets To Suspected Pakistani Spies ([8 hours ago](https://databreaches.net/2025/06/01/junior-defence-contractor-arrested-for-leaking-indian-naval-secrets-to-suspected-pakistani-spies/))
 - Exploit details for max severity Cisco IOS XE flaw now public ([1 days ago](https://www.bleepingcomputer.com/news/security/exploit-details-for-max-severity-cisco-ios-xe-flaw-now-public/))
@@ -23,7 +23,7 @@ description: SecOps News
 - Tesla FSD ignores school bus lights and hits 'child' dummy in staged demo ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2025/05/30/selfdriving_tesla_accident/))
 - Perplexity offers training wheels for building AI agents ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2025/05/30/perplexity_labs_ai_agent/))
 - Hackers are exploiting critical flaw in vBulletin forum software ([1 days ago](https://www.bleepingcomputer.com/news/security/hackers-are-exploiting-critical-flaw-in-vbulletin-forum-software/))
-- ConnectWise customers get mysterious warning about 'sophisticated' nation-state hack ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2025/05/30/connectwise_compromised_by_sophisticated_government/))
+- ConnectWise customers get mysterious warning about 'sophisticated' nation-state hack ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2025/05/30/connectwise_compromised_by_sophisticated_government/))
 - Microsoft now testing Notepad text formatting in Windows 11 ([2 days ago](https://www.bleepingcomputer.com/news/microsoft/microsoft-now-testing-notepad-text-formatting-in-windows-11/))
 - Feds arrest DoD techie, claim he dumped top secret files in park for foreign spies to find ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2025/05/30/feds_nab_dod_techie_dumping/))
 - Comstar LLC agrees to corrective action plan and fine to settle HHS OCR charges ([2 days ago](https://databreaches.net/2025/05/30/comstar-llc-agrees-to-corrective-action-plan-and-fine-to-settle-hhs-ocr-charges/))
@@ -68,7 +68,7 @@ description: SecOps News
 - Microsoft's May Patch Tuesday update fails on some Windows 11 VMs ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2025/05/29/microsoft_windows_problems/))
 - Anthropic CEO frets about 20% unemployment from AI, but economists are doubtful ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2025/05/29/anthropic_ceo_ai_job_threat/))
 - Why is China deep in US networks? 'They're preparing for war,' HR McMaster tells lawmakers ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2025/05/29/china_preparing_war_mcmaster/))
-- ConnectWise breached in cyberattack linked to nation-state hackers ([2 days ago](https://www.bleepingcomputer.com/news/security/connectwise-breached-in-cyberattack-linked-to-nation-state-hackers/))
+- ConnectWise breached in cyberattack linked to nation-state hackers ([3 days ago](https://www.bleepingcomputer.com/news/security/connectwise-breached-in-cyberattack-linked-to-nation-state-hackers/))
 - Economists blame Trump tariffs, AI explosion for threatening global economy ([3 days ago](https://go.theregister.com/feed/www.theregister.com/2025/05/29/economists_blame_trump_tariffs_ai/))
 - Codespaces Scheduled Maintenance ([3 days ago](https://www.githubstatus.com/incidents/67vdd3b7d1zq))
 - Threat actors abuse Google Apps Script in evasive phishing attacks ([3 days ago](https://www.bleepingcomputer.com/news/security/threat-actors-abuse-google-apps-script-in-evasive-phishing-attacks/))
