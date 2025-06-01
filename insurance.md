@@ -9,7 +9,7 @@ description: Insurance Updates
 
 <!-- news_marker starts -->
 - Sharing data could enhance nat cat models, experts say ([3 hours ago](https://www.dig-in.com/news/sharing-data-could-enhance-nat-cat-models-experts-say))
-- Digital brings challenges for small, midsize life insurers: Equisoft ([3 hours ago](https://www.dig-in.com/news/digital-brings-challenges-for-small-midsize-life-insurers-equisoft))
+- Digital brings challenges for small, midsize life insurers: Equisoft ([4 hours ago](https://www.dig-in.com/news/digital-brings-challenges-for-small-midsize-life-insurers-equisoft))
 - Success is Infectious, Meet The Scale Up 50 Tech Finalists ([2 days ago](https://insurance-edge.net/2025/05/30/success-is-infectious-meet-the-scale-up-50-tech-finalists/))
 - New Executive Leadership Team at Novel Holdings ([2 days ago](https://insurance-edge.net/2025/05/30/new-executive-leadership-team-at-novel-holdings/))
 - ALA Insurance is Rated One of The Best Places to Work by Sunday Times ([2 days ago](https://insurance-edge.net/2025/05/30/ala-insurance-is-rated-one-of-the-best-places-to-work-by-sunday-times/))
