@@ -8,8 +8,8 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Sharing data could enhance nat cat models, experts say ([2 hours ago](https://www.dig-in.com/news/sharing-data-could-enhance-nat-cat-models-experts-say))
-- Digital brings challenges for small, midsize life insurers: Equisoft ([2 hours ago](https://www.dig-in.com/news/digital-brings-challenges-for-small-midsize-life-insurers-equisoft))
+- Sharing data could enhance nat cat models, experts say ([3 hours ago](https://www.dig-in.com/news/sharing-data-could-enhance-nat-cat-models-experts-say))
+- Digital brings challenges for small, midsize life insurers: Equisoft ([3 hours ago](https://www.dig-in.com/news/digital-brings-challenges-for-small-midsize-life-insurers-equisoft))
 - Success is Infectious, Meet The Scale Up 50 Tech Finalists ([2 days ago](https://insurance-edge.net/2025/05/30/success-is-infectious-meet-the-scale-up-50-tech-finalists/))
 - New Executive Leadership Team at Novel Holdings ([2 days ago](https://insurance-edge.net/2025/05/30/new-executive-leadership-team-at-novel-holdings/))
 - ALA Insurance is Rated One of The Best Places to Work by Sunday Times ([2 days ago](https://insurance-edge.net/2025/05/30/ala-insurance-is-rated-one-of-the-best-places-to-work-by-sunday-times/))
@@ -69,7 +69,7 @@ description: Insurance Updates
 - Ex-Connecticut Governor Rowland Pardoned by President Trump Was Insurance Agent ([2 days ago](https://www.insurancejournal.com/news/east/2025/05/30/825629.htm))
 - The insurance stories set to dominate the headlines in the second half of 2025 ([2 days ago](https://www.postonline.co.uk/commercial/7957828/the-insurance-stories-set-to-dominate-the-headlines-in-the-second-half-of-2025))
 - Penny Black’s Social Diary: NFU’s royal debut; Criterion’s rabbit ([2 days ago](https://www.postonline.co.uk/people/7957615/penny-black%E2%80%99s-social-diary-nfu%E2%80%99s-royal-debut-criterion%E2%80%99s-rabbit))
-- Trump’s Tariffs to Remain in Effect After Appeals Court Grants Stay ([2 days ago](https://www.insurancejournal.com/news/national/2025/05/29/825614.htm))
+- Trump’s Tariffs to Remain in Effect After Appeals Court Grants Stay ([3 days ago](https://www.insurancejournal.com/news/national/2025/05/29/825614.htm))
 - Why GRC programs could benefit cyber insurance ([3 days ago](https://www.dig-in.com/opinion/why-grc-programs-could-benefit-cyber-insurance))
 - Empathy gains support in new funding round ([3 days ago](https://www.dig-in.com/news/empathy-gains-support-in-new-funding-round))
 - Can these resilience proposals help "incentivise homeowners" to reduce property risks? ([3 days ago](https://www.insurancebusinessmag.com/uk/news/property-insurance/can-these-resilience-proposals-help-incentivise-homeowners-to-reduce-property-risks-537412.aspx))
