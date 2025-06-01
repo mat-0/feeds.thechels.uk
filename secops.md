@@ -8,10 +8,10 @@ description: SecOps News
 [Get this as an RSS feed](/secops.rss)
 
 <!-- news_marker starts -->
-- Exploit details for max severity Cisco IOS XE flaw now public ([14 hours ago](https://www.bleepingcomputer.com/news/security/exploit-details-for-max-severity-cisco-ios-xe-flaw-now-public/))
-- Mysterious leaker GangExposed outs Conti kingpins in massive ransomware data dump ([17 hours ago](https://databreaches.net/2025/05/31/mysterious-leaker-gangexposed-outs-conti-kingpins-in-massive-ransomware-data-dump/))
-- Resource: HoganLovells Asia-Pacific Data, Privacy and Cybersecurity Guide 2025 ([17 hours ago](https://databreaches.net/2025/05/31/resource-hoganlovells-asia-pacific-data-privacy-and-cybersecurity-guide-2025/))
-- Class action settlement following ransomware attack will cost Fred Hutchinson Cancer Center about $52 million ([17 hours ago](https://databreaches.net/2025/05/31/class-action-settlement-following-ransomware-attack-will-cost-fred-hutchinson-cancer-center-about-52-million/))
+- Exploit details for max severity Cisco IOS XE flaw now public ([15 hours ago](https://www.bleepingcomputer.com/news/security/exploit-details-for-max-severity-cisco-ios-xe-flaw-now-public/))
+- Mysterious leaker GangExposed outs Conti kingpins in massive ransomware data dump ([18 hours ago](https://databreaches.net/2025/05/31/mysterious-leaker-gangexposed-outs-conti-kingpins-in-massive-ransomware-data-dump/))
+- Resource: HoganLovells Asia-Pacific Data, Privacy and Cybersecurity Guide 2025 ([18 hours ago](https://databreaches.net/2025/05/31/resource-hoganlovells-asia-pacific-data-privacy-and-cybersecurity-guide-2025/))
+- Class action settlement following ransomware attack will cost Fred Hutchinson Cancer Center about $52 million ([18 hours ago](https://databreaches.net/2025/05/31/class-action-settlement-following-ransomware-attack-will-cost-fred-hutchinson-cancer-center-about-52-million/))
 - Mysterious leaker GangExposed outs Conti kingpins in massive ransomware data dump ([18 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/05/31/gangexposed_coni_ransomware_leaks/))
 - New Linux Flaws Allow Password Hash Theft via Core Dumps in Ubuntu, RHEL, Fedora ([18 hours ago](https://thehackernews.com/2025/05/new-linux-flaws-allow-password-hash.html))
 - U.S. DoJ Seizes 4 Domains Supporting Cybercrime Crypting Services in Global Operation ([21 hours ago](https://thehackernews.com/2025/05/us-doj-seizes-4-domains-supporting.html))
@@ -90,7 +90,7 @@ description: SecOps News
 - European Commission: Make Europe Great Again... for startups ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2025/05/29/european_commission_wants_tech_startups/))
 - Chinese APT41 Exploits Google Calendar for Malware Command-and-Control Operations ([2 days ago](https://thehackernews.com/2025/05/chinese-apt41-exploits-google-calendar.html))
 - Over 100,000 WordPress Sites at Risk from Critical CVSS 10.0 Vulnerability in Wishlist Plugin ([2 days ago](https://thehackernews.com/2025/05/over-100000-wordpress-sites-at-risk.html))
-- India none-too-subtly reminds Big Tech that local laws prohibit dark patterns ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2025/05/29/india_nonetoosubtly_reminds_big_tech/))
+- India none-too-subtly reminds Big Tech that local laws prohibit dark patterns ([3 days ago](https://go.theregister.com/feed/www.theregister.com/2025/05/29/india_nonetoosubtly_reminds_big_tech/))
 - Victoria's Secret website laid bare for three days after 'security incident' ([3 days ago](https://go.theregister.com/feed/www.theregister.com/2025/05/29/victoria_secrets_outage/))
 - Adversarial AI: The new frontier in financial cybersecurity ([3 days ago](https://go.theregister.com/feed/www.theregister.com/2025/05/29/qa_adversarial_ai_financial_services_2025/))
 - Adversarial AI: The new frontier in financial cybersecurity ([3 days ago](https://go.theregister.com/feed/www.theregister.com/2025/05/29/qa_adversarial_ai_financial_services_2025/))
