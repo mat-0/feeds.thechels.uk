@@ -8,8 +8,8 @@ description: SecOps News
 [Get this as an RSS feed](/secops.rss)
 
 <!-- news_marker starts -->
-- VMware drops the lowest tier of its partner program – except in Europe ([1 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/06/01/vmware_channel_changes/))
-- Lower Merion School District says a data breach was caused by a computer glitch ([4 hours ago](https://databreaches.net/2025/06/01/lower-merion-school-district-says-a-data-breach-was-caused-by-a-computer-glitch/))
+- VMware drops the lowest tier of its partner program – except in Europe ([2 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/06/01/vmware_channel_changes/))
+- Lower Merion School District says a data breach was caused by a computer glitch ([5 hours ago](https://databreaches.net/2025/06/01/lower-merion-school-district-says-a-data-breach-was-caused-by-a-computer-glitch/))
 - After $1 Million Ransom Demand, Virgin Islands Lottery Restores Operations Without Paying Hackers ([7 hours ago](https://databreaches.net/2025/06/01/after-1-million-ransom-demand-virgin-islands-lottery-restores-operations-without-paying-hackers/))
 - Junior Defence Contractor Arrested For Leaking Indian Naval Secrets To Suspected Pakistani Spies ([7 hours ago](https://databreaches.net/2025/06/01/junior-defence-contractor-arrested-for-leaking-indian-naval-secrets-to-suspected-pakistani-spies/))
 - Exploit details for max severity Cisco IOS XE flaw now public ([1 days ago](https://www.bleepingcomputer.com/news/security/exploit-details-for-max-severity-cisco-ios-xe-flaw-now-public/))
@@ -124,7 +124,7 @@ description: SecOps News
 - ASUS to chase business PC market with free AI, or no AI - because nobody knows what to do with it ([4 days ago](https://go.theregister.com/feed/www.theregister.com/2025/05/28/asus_business_pc_plans/))
 - Don't click on that Facebook ad for a text-to-AI-video tool ([4 days ago](https://go.theregister.com/feed/www.theregister.com/2025/05/27/fake_social_media_ads_ai_tool/))
 - Adidas customers’ personal information at risk after data breach ([4 days ago](https://www.bitdefender.com/en-us/blog/hotforsecurity/adidas-customers-personal-information-at-risk-after-data-breach))
-- New Russian cyber-spy crew Laundry Bear joins the email-stealing pack ([4 days ago](https://go.theregister.com/feed/www.theregister.com/2025/05/27/new_russian_cyberspy_crew_laundry_bear/))
+- New Russian cyber-spy crew Laundry Bear joins the email-stealing pack ([5 days ago](https://go.theregister.com/feed/www.theregister.com/2025/05/27/new_russian_cyberspy_crew_laundry_bear/))
 - New Self-Spreading Malware Infects Docker Containers to Mine Dero Cryptocurrency ([5 days ago](https://thehackernews.com/2025/05/new-self-spreading-malware-infects.html))
 - Cybercriminals Clone Antivirus Site to Spread Venom RAT and Steal Crypto Wallets ([5 days ago](https://thehackernews.com/2025/05/cybercriminals-clone-antivirus-site-to_4.html))
 - The AI Fix #52: AI adopts its own social norms, and AI DJ creates diversity scandal ([5 days ago](https://grahamcluley.com/the-ai-fix-52/))
@@ -193,7 +193,7 @@ description: SecOps News
 - LockBit ransomware gang breached, secrets exposed ([23 days ago](https://www.tripwire.com/state-of-security/lockbit-ransomware-gang-breached-secrets-exposed))
 - Hackers hit deportation airline GlobalX, leak flight manifests, and leave an unsubtle message for “Donnie” Trump ([23 days ago](https://www.bitdefender.com/en-us/blog/hotforsecurity/hackers-globalx-message-trump))
 - After the Breach: Finding new Partners with Solutions for Have I Been Pwned Users ([23 days ago](https://www.troyhunt.com/after-the-breach-finding-new-partners-with-solutions-for-have-i-been-pwned-users/))
-- The 8 CISSP domains explained ([23 days ago](https://www.itgovernance.co.uk/blog/the-8-cissp-domains-explained))
+- The 8 CISSP domains explained ([24 days ago](https://www.itgovernance.co.uk/blog/the-8-cissp-domains-explained))
 - Codespaces Scheduled Maintenance ([24 days ago](https://www.githubstatus.com/incidents/hkp6z7kt2qm6))
 - Incident with Git Operations ([24 days ago](https://www.githubstatus.com/incidents/42gtccf6dd98))
 - Ransomware: 'WannaCry' guidance for home users and small businesses ([24 days ago](https://www.ncsc.gov.uk/guidance/wannacry-guidance-for-home-users-and-small-businesses))
