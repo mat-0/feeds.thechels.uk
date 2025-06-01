@@ -44,7 +44,7 @@ description: DotNet Updates
 - AI Shell Preview 4 Release! - PowerShell Team ([10 days ago](https://dotnetkicks.com/r/720721?url=https://devblogs.microsoft.com/powershell/preview-4-ai-shell/))
 - Announcing Public Preview of DiskANN in SQL Server 2025  -  Microsoft Community Hub ([10 days ago](https://dotnetkicks.com/r/720709?url=https://techcommunity.microsoft.com/blog/sqlserver/announcing-public-preview-of-diskann-in-sql-server-2025/4414683))
 - Boost Your .NET Projects: Master Type Management with TypeHelper in Spargine ([11 days ago](https://dotnettips.wordpress.com/2025/05/21/boost-your-net-projects-master-type-management-with-typehelper-in-spargine/))
-- Pushing a whole stack of branches with a single Git command ([11 days ago](https://dotnetkicks.com/r/720595?url=https://andrewlock.net/pushing-a-whole-stack-of-branches-with-a-single-git-command/))
+- Pushing a whole stack of branches with a single Git command ([12 days ago](https://dotnetkicks.com/r/720595?url=https://andrewlock.net/pushing-a-whole-stack-of-branches-with-a-single-git-command/))
 - Pushing a whole stack of branches with a single Git command ([12 days ago](https://andrewlock.net/pushing-a-whole-stack-of-branches-with-a-single-git-command/))
 - .NET Aspire 9.3 is here and enhanced with GitHub Copilot! ([12 days ago](https://devblogs.microsoft.com/dotnet/introducing-dotnet-aspire-93/))
 - Accelerate Your .NET Upgrades with GitHub Copilot ([12 days ago](https://devblogs.microsoft.com/dotnet/github-copilot-upgrade-dotnet/))
