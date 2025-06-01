@@ -8,8 +8,8 @@ description: SecOps News
 [Get this as an RSS feed](/secops.rss)
 
 <!-- news_marker starts -->
-- VMware drops the lowest tier of its partner program – except in Europe ([46 minutes ago](https://go.theregister.com/feed/www.theregister.com/2025/06/01/vmware_channel_changes/))
-- Lower Merion School District says a data breach was caused by a computer glitch ([3 hours ago](https://databreaches.net/2025/06/01/lower-merion-school-district-says-a-data-breach-was-caused-by-a-computer-glitch/))
+- VMware drops the lowest tier of its partner program – except in Europe ([1 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/06/01/vmware_channel_changes/))
+- Lower Merion School District says a data breach was caused by a computer glitch ([4 hours ago](https://databreaches.net/2025/06/01/lower-merion-school-district-says-a-data-breach-was-caused-by-a-computer-glitch/))
 - After $1 Million Ransom Demand, Virgin Islands Lottery Restores Operations Without Paying Hackers ([6 hours ago](https://databreaches.net/2025/06/01/after-1-million-ransom-demand-virgin-islands-lottery-restores-operations-without-paying-hackers/))
 - Junior Defence Contractor Arrested For Leaking Indian Naval Secrets To Suspected Pakistani Spies ([6 hours ago](https://databreaches.net/2025/06/01/junior-defence-contractor-arrested-for-leaking-indian-naval-secrets-to-suspected-pakistani-spies/))
 - Exploit details for max severity Cisco IOS XE flaw now public ([1 days ago](https://www.bleepingcomputer.com/news/security/exploit-details-for-max-severity-cisco-ios-xe-flaw-now-public/))
@@ -187,7 +187,7 @@ description: SecOps News
 - Two years’ jail for down-on-his-luck man who sold ransomware online ([19 days ago](https://www.bitdefender.com/en-us/blog/hotforsecurity/two-years-jail-for-down-on-his-luck-man-who-sold-ransomware-online))
 - Timelines for migration to post-quantum cryptography ([19 days ago](https://www.ncsc.gov.uk/guidance/pqc-migration-timelines))
 - The Co-Op, M&S, Harrods… You? Mitigating the Risk of Ransomware ([19 days ago](https://www.itgovernance.co.uk/blog/the-co-op-ms-harrods-you-mitigating-the-risk-of-ransomware))
-- Russian GRU Targeting Western Logistics Entities and Technology Companies ([19 days ago](https://www.cisa.gov/news-events/cybersecurity-advisories/aa25-141a))
+- Russian GRU Targeting Western Logistics Entities and Technology Companies ([20 days ago](https://www.cisa.gov/news-events/cybersecurity-advisories/aa25-141a))
 - Disruption with some GitHub services ([20 days ago](https://www.githubstatus.com/incidents/gxf0jzns6rn2))
 - Weekly Update 451 ([21 days ago](https://www.troyhunt.com/weekly-update-451/))
 - LockBit ransomware gang breached, secrets exposed ([23 days ago](https://www.tripwire.com/state-of-security/lockbit-ransomware-gang-breached-secrets-exposed))
