@@ -8,8 +8,8 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- The Untapped Power of Veteran Engineers: Why Companies Are Overlooking Their Most Valuable Assets – Part 2 ([1 hours ago](https://dotnettips.wordpress.com/2025/06/01/the-untapped-power-of-veteran-engineers-why-companies-are-overlooking-their-most-valuable-assets-part-2/))
-- Boost Your .NET Projects: Enhance Your Workflow with AssemblyHelper in Spargine ([2 hours ago](https://dotnettips.wordpress.com/2025/06/01/boost-your-net-projects-enhance-your-workflow-with-assemblyhelper-in-spargine/))
+- The Untapped Power of Veteran Engineers: Why Companies Are Overlooking Their Most Valuable Assets – Part 2 ([2 hours ago](https://dotnettips.wordpress.com/2025/06/01/the-untapped-power-of-veteran-engineers-why-companies-are-overlooking-their-most-valuable-assets-part-2/))
+- Boost Your .NET Projects: Enhance Your Workflow with AssemblyHelper in Spargine ([3 hours ago](https://dotnettips.wordpress.com/2025/06/01/boost-your-net-projects-enhance-your-workflow-with-assemblyhelper-in-spargine/))
 - Fine-tune the volume of logs your app produces - .NET Blog ([2 days ago](https://dotnetkicks.com/r/721619?url=https://devblogs.microsoft.com/dotnet/finetune-the-volume-of-logs-your-app-produces/))
 - Fine-tune the volume of logs your app produces ([2 days ago](https://devblogs.microsoft.com/dotnet/finetune-the-volume-of-logs-your-app-produces/))
 - Software Innovation: HashiCorp Terraform Revolutionized Infrastructure As Code (IaC)  -  Build5Nines ([2 days ago](https://dotnetkicks.com/r/721591?url=https://build5nines.com/software-innovation-hashicorp-terraform-revolutionized-infrastructure-as-code-iac/))
@@ -26,7 +26,7 @@ description: DotNet Updates
 - Circuit Breaker Policy Fine-tuning Best Practice ([4 days ago](https://devblogs.microsoft.com/dotnet/circuit-breaker-policy-finetuning-best-practice/))
 - VisualStudio.Extensibility: Editor classification and updates to user prompt - Visual Studio Blog ([4 days ago](https://dotnetkicks.com/r/721309?url=https://devblogs.microsoft.com/visualstudio/visualstudio-extensibility-editor-classification-and-updates-to-user-prompt/))
 - Converting a docker-compose file to .NET Aspire ([4 days ago](https://dotnetkicks.com/r/721257?url=https://andrewlock.net/converting-a-docker-compose-file-to-aspire/))
-- Converting a docker-compose file to .NET Aspire ([4 days ago](https://andrewlock.net/converting-a-docker-compose-file-to-aspire/))
+- Converting a docker-compose file to .NET Aspire ([5 days ago](https://andrewlock.net/converting-a-docker-compose-file-to-aspire/))
 - Azure AI Services in a Nutshell - A Developer's Mind Map ([5 days ago](https://dotnetkicks.com/r/721134?url=https://dailydotnettips.com/azure-ai-services-in-a-nutshell-a-developers-mind-map/))
 - Azure AI Services in a Nutshell - A Developer's Mind Map ([5 days ago](https://dotnetkicks.com/r/721130?url=https://dailydotnettips.com/azure-ai-services-in-a-nutshell-a-developers-mind-map/))
 - Revisiting using a Content Security Policy (CSP) nonce in Blazor ([5 days ago](https://dotnetkicks.com/r/721107?url=https://damienbod.com/2025/05/26/revisiting-using-a-content-security-policy-csp-nonce-in-blazor/))
@@ -45,7 +45,7 @@ description: DotNet Updates
 - Announcing Public Preview of DiskANN in SQL Server 2025  -  Microsoft Community Hub ([10 days ago](https://dotnetkicks.com/r/720709?url=https://techcommunity.microsoft.com/blog/sqlserver/announcing-public-preview-of-diskann-in-sql-server-2025/4414683))
 - Boost Your .NET Projects: Master Type Management with TypeHelper in Spargine ([11 days ago](https://dotnettips.wordpress.com/2025/05/21/boost-your-net-projects-master-type-management-with-typehelper-in-spargine/))
 - Pushing a whole stack of branches with a single Git command ([11 days ago](https://dotnetkicks.com/r/720595?url=https://andrewlock.net/pushing-a-whole-stack-of-branches-with-a-single-git-command/))
-- Pushing a whole stack of branches with a single Git command ([11 days ago](https://andrewlock.net/pushing-a-whole-stack-of-branches-with-a-single-git-command/))
+- Pushing a whole stack of branches with a single Git command ([12 days ago](https://andrewlock.net/pushing-a-whole-stack-of-branches-with-a-single-git-command/))
 - .NET Aspire 9.3 is here and enhanced with GitHub Copilot! ([12 days ago](https://devblogs.microsoft.com/dotnet/introducing-dotnet-aspire-93/))
 - Accelerate Your .NET Upgrades with GitHub Copilot ([12 days ago](https://devblogs.microsoft.com/dotnet/github-copilot-upgrade-dotnet/))
 - JetBrains AI Assistant – Now in Visual Studio Code ([12 days ago](https://blog.jetbrains.com/ai/2025/05/jetbrains-ai-assistant-now-in-visual-studio-code/))
@@ -57,12 +57,12 @@ description: DotNet Updates
 - Boost Your .NET Projects: Supercharge Your Code with FastStringBuilder in Spargine ([18 days ago](https://dotnettips.wordpress.com/2025/05/14/boost-your-net-projects-supercharge-your-code-with-faststringbuilder-in-spargine/))
 - .NET and .NET Framework May 2025 servicing releases updates ([18 days ago](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-may-2025-servicing-updates/))
 - .NET 10 Preview 4 is now available! ([18 days ago](https://devblogs.microsoft.com/dotnet/dotnet-10-preview-4/))
-- Using the new AI template to create a chatbot about a website ([18 days ago](https://andrewlock.net/using-the-new-ai-template-to-create-a-chatbot-about-a-website/))
+- Using the new AI template to create a chatbot about a website ([19 days ago](https://andrewlock.net/using-the-new-ai-template-to-create-a-chatbot-about-a-website/))
 - dotNetDave Says… Avoid Going Across the Wire Until Necessary! ([20 days ago](https://dotnettips.wordpress.com/2025/05/12/dotnetdave-says-avoid-going-across-the-wire-until-necessary/))
 - Boost Your .NET Projects: Supercharge Your Performance Tracking with PerformanceStopwatch in Spargine ([21 days ago](https://dotnettips.wordpress.com/2025/05/11/boost-your-net-projects-supercharge-your-performance-tracking-with-performancestopwatch/))
 - C# 14 – Exploring extension members ([23 days ago](https://devblogs.microsoft.com/dotnet/csharp-exploring-extension-members/))
 - ReSharper and Rider 2025.1.2 – Bug Fixes Have Landed! ([23 days ago](https://blog.jetbrains.com/dotnet/2025/05/08/resharper-rider-2025-1-2-bug-fix/))
-- Exploring the new AI chat template ([25 days ago](https://andrewlock.net/exploring-the-new-ai-chat-template/))
+- Exploring the new AI chat template ([26 days ago](https://andrewlock.net/exploring-the-new-ai-chat-template/))
 - dotInsights  -  May 2025 ([26 days ago](https://blog.jetbrains.com/dotnet/2025/05/06/dotinsights-may-2025/))
 
 <!-- news_marker ends -->
