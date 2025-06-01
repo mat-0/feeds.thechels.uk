@@ -57,7 +57,7 @@ description: Insurance Updates
 - Stellantis Financial partners with insurance tech firm Wrisk ([1 days ago](https://www.insurancebusinessmag.com/uk/news/auto-motor/stellantis-financial-partners-with-insurance-tech-firm-wrisk-537452.aspx))
 - Former Secretary of State for Northern Ireland joins M2 Recovery ([1 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/former-secretary-of-state-for-northern-ireland-joins-m2-recovery-537451.aspx))
 - Unum says dental claims rose 35% in 2024 ([1 days ago](https://www.insurancebusinessmag.com/uk/news/life-insurance/unum-says-dental-claims-rose-35-in-2024-537450.aspx))
-- Industry Vets Bonneau and Bredahl Form Novel Financial, Acquire Forza Insurance ([1 days ago](https://www.insurancejournal.com/news/national/2025/05/30/825618.htm))
+- Industry Vets Bonneau and Bredahl Form Novel Financial, Acquire Forza Insurance ([2 days ago](https://www.insurancejournal.com/news/national/2025/05/30/825618.htm))
 - DeSantis Vetoes Repeal of ‘Free Kill’ Medical Malpractice Bill ([2 days ago](https://www.insurancejournal.com/news/southeast/2025/05/30/825554.htm))
 - Trump Administration Is Rolling Out a New Way to Shrink FEMA’s Role ([2 days ago](https://www.insurancejournal.com/news/national/2025/05/30/825622.htm))
 - Georgia Insurance Office Uses Appointment Fees to Help Fund New Elevator Inspectors ([2 days ago](https://www.insurancejournal.com/news/southeast/2025/05/30/825592.htm))
