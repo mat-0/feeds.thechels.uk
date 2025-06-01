@@ -15,7 +15,7 @@ description: SecOps News
 - Mysterious leaker GangExposed outs Conti kingpins in massive ransomware data dump ([18 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/05/31/gangexposed_coni_ransomware_leaks/))
 - New Linux Flaws Allow Password Hash Theft via Core Dumps in Ubuntu, RHEL, Fedora ([18 hours ago](https://thehackernews.com/2025/05/new-linux-flaws-allow-password-hash.html))
 - U.S. DoJ Seizes 4 Domains Supporting Cybercrime Crypting Services in Global Operation ([21 hours ago](https://thehackernews.com/2025/05/us-doj-seizes-4-domains-supporting.html))
-- Codespaces Scheduled Maintenance ([23 hours ago](https://www.githubstatus.com/incidents/nwjwwhj118sf))
+- Codespaces Scheduled Maintenance ([1 days ago](https://www.githubstatus.com/incidents/nwjwwhj118sf))
 - Tesla FSD ignores school bus lights and hits 'child' dummy in staged demo ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2025/05/30/selfdriving_tesla_accident/))
 - Perplexity offers training wheels for building AI agents ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2025/05/30/perplexity_labs_ai_agent/))
 - Hackers are exploiting critical flaw in vBulletin forum software ([1 days ago](https://www.bleepingcomputer.com/news/security/hackers-are-exploiting-critical-flaw-in-vbulletin-forum-software/))

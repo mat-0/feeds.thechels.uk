@@ -131,6 +131,6 @@ description: Insurance Updates
 - 7.6 million adults take out private medical insurance as health crisis drives rapid growth in protection products ([10 days ago](https://ifamagazine.com/7-6-million-adults-take-out-private-medical-insurance-as-health-crisis-drives-rapid-growth-in-protection-products/))
 - L&G upgrades Group Critical Illness Cover ([10 days ago](https://ifamagazine.com/lg-upgrades-group-critical-illness-cover/))
 - Relm Explains How Insurance is the Backbone For Pushing the Boundaries of Innovation ([14 days ago](https://thefintechtimes.com/relm-explains-how-insurance-is-the-backbone-for-pushing-the-boundaries-of-innovation/))
-- IHC Set to Launch AI-Driven Reinsurance Platform in the Gulf Region ([20 days ago](https://thefintechtimes.com/ihc-set-to-launch-ai-driven-reinsurance-platform/))
+- IHC Set to Launch AI-Driven Reinsurance Platform in the Gulf Region ([21 days ago](https://thefintechtimes.com/ihc-set-to-launch-ai-driven-reinsurance-platform/))
 
 <!-- news_marker ends -->
