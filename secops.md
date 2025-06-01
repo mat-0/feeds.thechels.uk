@@ -8,8 +8,8 @@ description: SecOps News
 [Get this as an RSS feed](/secops.rss)
 
 <!-- news_marker starts -->
-- After $1 Million Ransom Demand, Virgin Islands Lottery Restores Operations Without Paying Hackers ([2 hours ago](https://databreaches.net/2025/06/01/after-1-million-ransom-demand-virgin-islands-lottery-restores-operations-without-paying-hackers/))
-- Junior Defence Contractor Arrested For Leaking Indian Naval Secrets To Suspected Pakistani Spies ([2 hours ago](https://databreaches.net/2025/06/01/junior-defence-contractor-arrested-for-leaking-indian-naval-secrets-to-suspected-pakistani-spies/))
+- After $1 Million Ransom Demand, Virgin Islands Lottery Restores Operations Without Paying Hackers ([3 hours ago](https://databreaches.net/2025/06/01/after-1-million-ransom-demand-virgin-islands-lottery-restores-operations-without-paying-hackers/))
+- Junior Defence Contractor Arrested For Leaking Indian Naval Secrets To Suspected Pakistani Spies ([3 hours ago](https://databreaches.net/2025/06/01/junior-defence-contractor-arrested-for-leaking-indian-naval-secrets-to-suspected-pakistani-spies/))
 - Exploit details for max severity Cisco IOS XE flaw now public ([23 hours ago](https://www.bleepingcomputer.com/news/security/exploit-details-for-max-severity-cisco-ios-xe-flaw-now-public/))
 - Mysterious leaker GangExposed outs Conti kingpins in massive ransomware data dump ([1 days ago](https://databreaches.net/2025/05/31/mysterious-leaker-gangexposed-outs-conti-kingpins-in-massive-ransomware-data-dump/))
 - Resource: HoganLovells Asia-Pacific Data, Privacy and Cybersecurity Guide 2025 ([1 days ago](https://databreaches.net/2025/05/31/resource-hoganlovells-asia-pacific-data-privacy-and-cybersecurity-guide-2025/))
@@ -107,7 +107,7 @@ description: SecOps News
 - Czech Republic Blames China-Linked APT31 Hackers for 2022 Cyberattack ([3 days ago](https://thehackernews.com/2025/05/czech-republic-blames-china-linked.html))
 - Firefox 139 arrives for non-Chromium browser fans ([3 days ago](https://go.theregister.com/feed/www.theregister.com/2025/05/28/firefox_139/))
 - Disruption with some GitHub services ([3 days ago](https://www.githubstatus.com/incidents/l5jqk83qnfzd))
-- Microsoft OneDrive File Picker Flaw Grants Apps Full Cloud Access — Even When Uploading Just One File ([3 days ago](https://thehackernews.com/2025/05/microsoft-onedrive-file-picker-flaw.html))
+- Microsoft OneDrive File Picker Flaw Grants Apps Full Cloud Access — Even When Uploading Just One File ([4 days ago](https://thehackernews.com/2025/05/microsoft-onedrive-file-picker-flaw.html))
 - New PumaBot Botnet Targets Linux IoT Devices to Steal SSH Credentials and Mine Crypto ([4 days ago](https://thehackernews.com/2025/05/new-pumabot-botnet-targets-linux-iot.html))
 - Russian IT pro sentenced to 14 years forced labor for sharing medical data with Ukraine ([4 days ago](https://go.theregister.com/feed/www.theregister.com/2025/05/28/russian_it_pro_sentenced_to/))
 - AI won't replace radiologists anytime soon ([4 days ago](https://go.theregister.com/feed/www.theregister.com/2025/05/28/ai_models_still_not_up/))
@@ -128,7 +128,7 @@ description: SecOps News
 - New Self-Spreading Malware Infects Docker Containers to Mine Dero Cryptocurrency ([4 days ago](https://thehackernews.com/2025/05/new-self-spreading-malware-infects.html))
 - Cybercriminals Clone Antivirus Site to Spread Venom RAT and Steal Crypto Wallets ([4 days ago](https://thehackernews.com/2025/05/cybercriminals-clone-antivirus-site-to_4.html))
 - The AI Fix #52: AI adopts its own social norms, and AI DJ creates diversity scandal ([4 days ago](https://grahamcluley.com/the-ai-fix-52/))
-- Incident with Actions ([4 days ago](https://www.githubstatus.com/incidents/9hzy25gws8vh))
+- Incident with Actions ([5 days ago](https://www.githubstatus.com/incidents/9hzy25gws8vh))
 - Disruption with some GitHub services ([5 days ago](https://www.githubstatus.com/incidents/2fk03fzv6zk0))
 - Russian Hackers Breach 20+ NGOs Using Evilginx Phishing via Fake Microsoft Entra Pages ([5 days ago](https://thehackernews.com/2025/05/russian-hackers-breach-20-ngos-using.html))
 - [Retroactive] Incident with Git Operations ([5 days ago](https://www.githubstatus.com/incidents/tyjjp463pg91))
