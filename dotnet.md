@@ -63,6 +63,6 @@ description: DotNet Updates
 - C# 14 – Exploring extension members ([23 days ago](https://devblogs.microsoft.com/dotnet/csharp-exploring-extension-members/))
 - ReSharper and Rider 2025.1.2 – Bug Fixes Have Landed! ([23 days ago](https://blog.jetbrains.com/dotnet/2025/05/08/resharper-rider-2025-1-2-bug-fix/))
 - Exploring the new AI chat template ([25 days ago](https://andrewlock.net/exploring-the-new-ai-chat-template/))
-- dotInsights  -  May 2025 ([25 days ago](https://blog.jetbrains.com/dotnet/2025/05/06/dotinsights-may-2025/))
+- dotInsights  -  May 2025 ([26 days ago](https://blog.jetbrains.com/dotnet/2025/05/06/dotinsights-may-2025/))
 
 <!-- news_marker ends -->
