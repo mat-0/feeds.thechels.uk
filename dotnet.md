@@ -8,8 +8,9 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- The Untapped Power of Veteran Engineers: Why Companies Are Overlooking Their Most Valuable Assets – Part 2 ([18 hours ago](https://dotnettips.wordpress.com/2025/06/01/the-untapped-power-of-veteran-engineers-why-companies-are-overlooking-their-most-valuable-assets-part-2/))
-- Boost Your .NET Projects: Enhance Your Workflow with AssemblyHelper in Spargine ([19 hours ago](https://dotnettips.wordpress.com/2025/06/01/boost-your-net-projects-enhance-your-workflow-with-assemblyhelper-in-spargine/))
+- Marten 8.0, Wolverine 4.0, and even Lamar 15.0 are out! ([22 minutes ago](https://dotnetkicks.com/r/721744?url=https://jeremydmiller.com/2025/06/01/marten-8-0-wolverine-4-0-and-even-lamar-15-0-are-out/))
+- The Untapped Power of Veteran Engineers: Why Companies Are Overlooking Their Most Valuable Assets – Part 2 ([19 hours ago](https://dotnettips.wordpress.com/2025/06/01/the-untapped-power-of-veteran-engineers-why-companies-are-overlooking-their-most-valuable-assets-part-2/))
+- Boost Your .NET Projects: Enhance Your Workflow with AssemblyHelper in Spargine ([20 hours ago](https://dotnettips.wordpress.com/2025/06/01/boost-your-net-projects-enhance-your-workflow-with-assemblyhelper-in-spargine/))
 - Fine-tune the volume of logs your app produces - .NET Blog ([3 days ago](https://dotnetkicks.com/r/721619?url=https://devblogs.microsoft.com/dotnet/finetune-the-volume-of-logs-your-app-produces/))
 - Fine-tune the volume of logs your app produces ([3 days ago](https://devblogs.microsoft.com/dotnet/finetune-the-volume-of-logs-your-app-produces/))
 - Software Innovation: HashiCorp Terraform Revolutionized Infrastructure As Code (IaC)  -  Build5Nines ([3 days ago](https://dotnetkicks.com/r/721591?url=https://build5nines.com/software-innovation-hashicorp-terraform-revolutionized-infrastructure-as-code-iac/))
@@ -33,7 +34,7 @@ description: DotNet Updates
 - Coding Faster with dotNetTips Spargine: Validating Arguments Made Easy with Validator ([7 days ago](https://dotnettips.wordpress.com/2025/05/25/coding-faster-with-dotnettips-spargine-validating-arguments-made-easy-with-validator/))
 - F# Weekly #21, 2025 - Build 2025 &amp; ReSharper in VS Code ([8 days ago](https://dotnetkicks.com/r/721063?url=https://sergeytihon.com/2025/05/24/f-weekly-21-2025-build-2025-resharper-in-vs-code/))
 - Avoid Build Breaks: Fixing SDK Conflicts Between Visual Studio and Preview Versions ([9 days ago](https://dotnettips.wordpress.com/2025/05/23/avoid-build-breaks-fixing-sdk-conflicts-between-visual-studio-and-preview-versions/))
-- Critter Stack Release Plans ([9 days ago](https://dotnetkicks.com/r/720986?url=https://jeremydmiller.com/2025/05/22/critter-stack-release-plans/))
+- Critter Stack Release Plans ([10 days ago](https://dotnetkicks.com/r/720986?url=https://jeremydmiller.com/2025/05/22/critter-stack-release-plans/))
 - Azure AI Foundry: What is it and Why Should You Care ([10 days ago](https://dotnetkicks.com/r/720812?url=https://www.mobilize.net/blog/azure-ai-foundry-what-is-it-and-why-should-you-care?utm_source=DNK-720812&utm_medium=DNK-720812&utm_content=DNK-720812&utm_campaign=DNK-720812))
 - Software Innovation: The Epic Journey Of Microsoft Visual Studio - Code, Craft, And Continuity  -  Build5Nines ([10 days ago](https://dotnetkicks.com/r/720896?url=https://build5nines.com/software-innovation-the-epic-journey-of-microsoft-visual-studio-code-craft-and-continuity/))
 - ReSharper 2025.2 EAP 2: First Public Build with Out-of-Process Mode Support ([10 days ago](https://blog.jetbrains.com/dotnet/2025/05/22/resharper-2025-2-eap-2-oop-mode/))
@@ -44,7 +45,6 @@ description: DotNet Updates
 - AI Shell Preview 4 Release! - PowerShell Team ([11 days ago](https://dotnetkicks.com/r/720721?url=https://devblogs.microsoft.com/powershell/preview-4-ai-shell/))
 - Announcing Public Preview of DiskANN in SQL Server 2025  -  Microsoft Community Hub ([11 days ago](https://dotnetkicks.com/r/720709?url=https://techcommunity.microsoft.com/blog/sqlserver/announcing-public-preview-of-diskann-in-sql-server-2025/4414683))
 - Boost Your .NET Projects: Master Type Management with TypeHelper in Spargine ([11 days ago](https://dotnettips.wordpress.com/2025/05/21/boost-your-net-projects-master-type-management-with-typehelper-in-spargine/))
-- Pushing a whole stack of branches with a single Git command ([12 days ago](https://dotnetkicks.com/r/720595?url=https://andrewlock.net/pushing-a-whole-stack-of-branches-with-a-single-git-command/))
 - Pushing a whole stack of branches with a single Git command ([12 days ago](https://andrewlock.net/pushing-a-whole-stack-of-branches-with-a-single-git-command/))
 - .NET Aspire 9.3 is here and enhanced with GitHub Copilot! ([13 days ago](https://devblogs.microsoft.com/dotnet/introducing-dotnet-aspire-93/))
 - Accelerate Your .NET Upgrades with GitHub Copilot ([13 days ago](https://devblogs.microsoft.com/dotnet/github-copilot-upgrade-dotnet/))
