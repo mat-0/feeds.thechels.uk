@@ -8,10 +8,10 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Azure Container Apps Vs AKS: Which Is Right For Your Enterprise Application?  -  Build5Nines ([5 hours ago](https://dotnetkicks.com/r/721787?url=https://build5nines.com/azure-container-apps-vs-aks-which-is-right-for-your-enterprise-application/))
-- F# Weekly #22, 2025 - Ionide with Cursor ([8 hours ago](https://dotnetkicks.com/r/721784?url=https://sergeytihon.com/2025/06/01/f-weekly-22-2025-ionide-with-cursor/))
+- Azure Container Apps Vs AKS: Which Is Right For Your Enterprise Application?  -  Build5Nines ([6 hours ago](https://dotnetkicks.com/r/721787?url=https://build5nines.com/azure-container-apps-vs-aks-which-is-right-for-your-enterprise-application/))
+- F# Weekly #22, 2025 - Ionide with Cursor ([9 hours ago](https://dotnetkicks.com/r/721784?url=https://sergeytihon.com/2025/06/01/f-weekly-22-2025-ionide-with-cursor/))
 - Handling OpenID Connect error events in ASP.NET Core ([11 hours ago](https://dotnetkicks.com/r/721763?url=https://damienbod.com/2025/06/02/handling-openid-connect-error-events-in-asp-net-core/))
-- dotNetDave Says… Soft Skills at Conferences Matter—A Lot! ([11 hours ago](https://dotnettips.wordpress.com/2025/06/02/dotnetdave-says-soft-skills-at-conferences-matter-a-lot/))
+- dotNetDave Says… Soft Skills at Conferences Matter—A Lot! ([12 hours ago](https://dotnettips.wordpress.com/2025/06/02/dotnetdave-says-soft-skills-at-conferences-matter-a-lot/))
 - Marten 8.0, Wolverine 4.0, and even Lamar 15.0 are out! ([15 hours ago](https://dotnetkicks.com/r/721744?url=https://jeremydmiller.com/2025/06/01/marten-8-0-wolverine-4-0-and-even-lamar-15-0-are-out/))
 - The Untapped Power of Veteran Engineers: Why Companies Are Overlooking Their Most Valuable Assets – Part 2 ([1 days ago](https://dotnettips.wordpress.com/2025/06/01/the-untapped-power-of-veteran-engineers-why-companies-are-overlooking-their-most-valuable-assets-part-2/))
 - Boost Your .NET Projects: Enhance Your Workflow with AssemblyHelper in Spargine ([1 days ago](https://dotnettips.wordpress.com/2025/06/01/boost-your-net-projects-enhance-your-workflow-with-assemblyhelper-in-spargine/))
@@ -60,7 +60,7 @@ description: DotNet Updates
 - .NET 10 Preview 4 is now available! ([19 days ago](https://devblogs.microsoft.com/dotnet/dotnet-10-preview-4/))
 - Using the new AI template to create a chatbot about a website ([20 days ago](https://andrewlock.net/using-the-new-ai-template-to-create-a-chatbot-about-a-website/))
 - dotNetDave Says… Avoid Going Across the Wire Until Necessary! ([21 days ago](https://dotnettips.wordpress.com/2025/05/12/dotnetdave-says-avoid-going-across-the-wire-until-necessary/))
-- C# 14 – Exploring extension members ([24 days ago](https://devblogs.microsoft.com/dotnet/csharp-exploring-extension-members/))
+- C# 14 – Exploring extension members ([25 days ago](https://devblogs.microsoft.com/dotnet/csharp-exploring-extension-members/))
 - ReSharper and Rider 2025.1.2 – Bug Fixes Have Landed! ([25 days ago](https://blog.jetbrains.com/dotnet/2025/05/08/resharper-rider-2025-1-2-bug-fix/))
 - Exploring the new AI chat template ([27 days ago](https://andrewlock.net/exploring-the-new-ai-chat-template/))
 - dotInsights  -  May 2025 ([27 days ago](https://blog.jetbrains.com/dotnet/2025/05/06/dotinsights-may-2025/))
