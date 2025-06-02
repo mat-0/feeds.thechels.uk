@@ -8,8 +8,9 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Q1 Has Lowest Insurance Agency M&A in 5 Years; Mega Deals Coming? ([13 minutes ago](https://www.insurancejournal.com/magazines/mag-features/2025/06/02/825577.htm))
-- Crafting a Marketing Strategy: Essential Steps for Insurance Professionals to Stay Ahead ([14 minutes ago](https://www.insurancejournal.com/magazines/mag-features/2025/06/02/825584.htm))
+- FastBond: Simplifying Smaller Bid Performance and Payment Bonds for Agents and Contractors ([18 minutes ago](https://www.insurancejournal.com/blogs/old-republic-surety/2025/06/02/817225.htm))
+- Q1 Has Lowest Insurance Agency M&A in 5 Years; Mega Deals Coming? ([41 minutes ago](https://www.insurancejournal.com/magazines/mag-features/2025/06/02/825577.htm))
+- Crafting a Marketing Strategy: Essential Steps for Insurance Professionals to Stay Ahead ([42 minutes ago](https://www.insurancejournal.com/magazines/mag-features/2025/06/02/825584.htm))
 - California Commissioner Launches Smoke Claims & Remediation Task Force ([4 hours ago](https://www.insurancejournal.com/magazines/mag-features/2025/06/02/825573.htm))
 - Report: California Workers’ Comp Combined Ratio Highest in 14 Years ([4 hours ago](https://www.insurancejournal.com/magazines/mag-features/2025/06/02/825572.htm))
 - State Farm VP Apologizes to Homeowner While Allstate Exec Gets Grilled at U.S. Senate Hearing ([4 hours ago](https://www.insurancejournal.com/magazines/mag-features/2025/06/02/825571.htm))
@@ -22,8 +23,8 @@ description: Insurance Updates
 - Q1 Shows ‘Clear’ Signs of Commercial P/C Softening, Says CIAB ([4 hours ago](https://www.insurancejournal.com/magazines/mag-features/2025/06/02/825561.htm))
 - How to Keep Third-Party Events from Becoming First-Party Losses ([4 hours ago](https://www.insurancejournal.com/magazines/mag-features/2025/06/02/825560.htm))
 - Homeowners Insurance Market Turns Corner ([4 hours ago](https://www.insurancejournal.com/magazines/mag-editorsnote/2025/06/02/825559.htm))
-- Sharing data could enhance nat cat models, experts say ([8 hours ago](https://www.dig-in.com/news/sharing-data-could-enhance-nat-cat-models-experts-say))
-- Digital brings challenges for small, midsize life insurers: Equisoft ([8 hours ago](https://www.dig-in.com/news/digital-brings-challenges-for-small-midsize-life-insurers-equisoft))
+- Sharing data could enhance nat cat models, experts say ([9 hours ago](https://www.dig-in.com/news/sharing-data-could-enhance-nat-cat-models-experts-say))
+- Digital brings challenges for small, midsize life insurers: Equisoft ([9 hours ago](https://www.dig-in.com/news/digital-brings-challenges-for-small-midsize-life-insurers-equisoft))
 - Success is Infectious, Meet The Scale Up 50 Tech Finalists ([2 days ago](https://insurance-edge.net/2025/05/30/success-is-infectious-meet-the-scale-up-50-tech-finalists/))
 - New Executive Leadership Team at Novel Holdings ([2 days ago](https://insurance-edge.net/2025/05/30/new-executive-leadership-team-at-novel-holdings/))
 - ALA Insurance is Rated One of The Best Places to Work by Sunday Times ([2 days ago](https://insurance-edge.net/2025/05/30/ala-insurance-is-rated-one-of-the-best-places-to-work-by-sunday-times/))
@@ -46,7 +47,6 @@ description: Insurance Updates
 - CVS, Express Scripts Sue to Block Arkansas Law Restricting Pharmacy Benefit Managers ([2 days ago](https://www.insurancejournal.com/news/southcentral/2025/05/30/825696.htm))
 - US Coastal secures $330m in US named storm reinsurance with first cat bond ([2 days ago](https://www.reinsurancene.ws/us-coastal-secures-330m-in-us-named-storm-reinsurance-with-first-cat-bond/))
 - Lawsuit Says Zealous Honolulu PD Arresting Drivers for DUI Even When Sober ([2 days ago](https://www.insurancejournal.com/news/west/2025/05/30/825693.htm))
-- Czech Republic Accuses China of ‘Malicious Cyber Campaign’ Against Foreign Ministry ([2 days ago](https://www.insurancejournal.com/news/international/2025/05/30/825682.htm))
 - Severe storms and flooding cause major damage across Texas and Oklahoma: Aon ([2 days ago](https://www.reinsurancene.ws/severe-storms-and-flooding-cause-major-damage-across-texas-and-oklahoma-aon/))
 - Arden surpasses $300m of in-force premium ([2 days ago](https://www.reinsurancene.ws/arden-surpasses-300m-of-in-force-premium/))
 - Florida’s personal property insurance market sees first underwriting profit in eight years: AM Best ([2 days ago](https://www.reinsurancene.ws/floridas-personal-property-insurance-market-sees-first-underwriting-profit-in-eight-years-am-best/))
@@ -131,6 +131,6 @@ description: Insurance Updates
 - 7.6 million adults take out private medical insurance as health crisis drives rapid growth in protection products ([11 days ago](https://ifamagazine.com/7-6-million-adults-take-out-private-medical-insurance-as-health-crisis-drives-rapid-growth-in-protection-products/))
 - L&G upgrades Group Critical Illness Cover ([11 days ago](https://ifamagazine.com/lg-upgrades-group-critical-illness-cover/))
 - Relm Explains How Insurance is the Backbone For Pushing the Boundaries of Innovation ([15 days ago](https://thefintechtimes.com/relm-explains-how-insurance-is-the-backbone-for-pushing-the-boundaries-of-innovation/))
-- IHC Set to Launch AI-Driven Reinsurance Platform in the Gulf Region ([21 days ago](https://thefintechtimes.com/ihc-set-to-launch-ai-driven-reinsurance-platform/))
+- IHC Set to Launch AI-Driven Reinsurance Platform in the Gulf Region ([22 days ago](https://thefintechtimes.com/ihc-set-to-launch-ai-driven-reinsurance-platform/))
 
 <!-- news_marker ends -->
