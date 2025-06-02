@@ -8,8 +8,9 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- dotNetDave Says… Soft Skills at Conferences Matter—A Lot! ([10 minutes ago](https://dotnettips.wordpress.com/2025/06/02/dotnetdave-says-soft-skills-at-conferences-matter-a-lot/))
-- Marten 8.0, Wolverine 4.0, and even Lamar 15.0 are out! ([3 hours ago](https://dotnetkicks.com/r/721744?url=https://jeremydmiller.com/2025/06/01/marten-8-0-wolverine-4-0-and-even-lamar-15-0-are-out/))
+- Handling OpenID Connect error events in ASP.NET Core ([27 minutes ago](https://dotnetkicks.com/r/721763?url=https://damienbod.com/2025/06/02/handling-openid-connect-error-events-in-asp-net-core/))
+- dotNetDave Says… Soft Skills at Conferences Matter—A Lot! ([43 minutes ago](https://dotnettips.wordpress.com/2025/06/02/dotnetdave-says-soft-skills-at-conferences-matter-a-lot/))
+- Marten 8.0, Wolverine 4.0, and even Lamar 15.0 are out! ([4 hours ago](https://dotnetkicks.com/r/721744?url=https://jeremydmiller.com/2025/06/01/marten-8-0-wolverine-4-0-and-even-lamar-15-0-are-out/))
 - The Untapped Power of Veteran Engineers: Why Companies Are Overlooking Their Most Valuable Assets – Part 2 ([23 hours ago](https://dotnettips.wordpress.com/2025/06/01/the-untapped-power-of-veteran-engineers-why-companies-are-overlooking-their-most-valuable-assets-part-2/))
 - Boost Your .NET Projects: Enhance Your Workflow with AssemblyHelper in Spargine ([1 days ago](https://dotnettips.wordpress.com/2025/06/01/boost-your-net-projects-enhance-your-workflow-with-assemblyhelper-in-spargine/))
 - Fine-tune the volume of logs your app produces - .NET Blog ([3 days ago](https://dotnetkicks.com/r/721619?url=https://devblogs.microsoft.com/dotnet/finetune-the-volume-of-logs-your-app-produces/))
@@ -44,7 +45,6 @@ description: DotNet Updates
 - AI and Vector Data Extensions are now Generally Available (GA) ([11 days ago](https://devblogs.microsoft.com/dotnet/ai-vector-data-dotnet-extensions-ga/))
 - Connecting to Private NuGet Feeds Just Got Easier - Visual Studio Blog ([11 days ago](https://dotnetkicks.com/r/720743?url=https://devblogs.microsoft.com/visualstudio/connecting-to-private-nuget-feeds-just-got-easier/))
 - AI Shell Preview 4 Release! - PowerShell Team ([11 days ago](https://dotnetkicks.com/r/720721?url=https://devblogs.microsoft.com/powershell/preview-4-ai-shell/))
-- Announcing Public Preview of DiskANN in SQL Server 2025  -  Microsoft Community Hub ([11 days ago](https://dotnetkicks.com/r/720709?url=https://techcommunity.microsoft.com/blog/sqlserver/announcing-public-preview-of-diskann-in-sql-server-2025/4414683))
 - Boost Your .NET Projects: Master Type Management with TypeHelper in Spargine ([12 days ago](https://dotnettips.wordpress.com/2025/05/21/boost-your-net-projects-master-type-management-with-typehelper-in-spargine/))
 - Pushing a whole stack of branches with a single Git command ([12 days ago](https://andrewlock.net/pushing-a-whole-stack-of-branches-with-a-single-git-command/))
 - .NET Aspire 9.3 is here and enhanced with GitHub Copilot! ([13 days ago](https://devblogs.microsoft.com/dotnet/introducing-dotnet-aspire-93/))
