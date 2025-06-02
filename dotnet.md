@@ -8,11 +8,11 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Extension Manager updates in Visual Studio - Visual Studio Blog ([14 minutes ago](https://dotnetkicks.com/r/721892?url=https://devblogs.microsoft.com/visualstudio/extension-manager-updates-in-visual-studio/))
-- Azure Container Apps Vs AKS: Which Is Right For Your Enterprise Application?  -  Build5Nines ([6 hours ago](https://dotnetkicks.com/r/721787?url=https://build5nines.com/azure-container-apps-vs-aks-which-is-right-for-your-enterprise-application/))
+- Extension Manager updates in Visual Studio - Visual Studio Blog ([38 minutes ago](https://dotnetkicks.com/r/721892?url=https://devblogs.microsoft.com/visualstudio/extension-manager-updates-in-visual-studio/))
+- Azure Container Apps Vs AKS: Which Is Right For Your Enterprise Application?  -  Build5Nines ([7 hours ago](https://dotnetkicks.com/r/721787?url=https://build5nines.com/azure-container-apps-vs-aks-which-is-right-for-your-enterprise-application/))
 - F# Weekly #22, 2025 - Ionide with Cursor ([9 hours ago](https://dotnetkicks.com/r/721784?url=https://sergeytihon.com/2025/06/01/f-weekly-22-2025-ionide-with-cursor/))
 - Handling OpenID Connect error events in ASP.NET Core ([12 hours ago](https://dotnetkicks.com/r/721763?url=https://damienbod.com/2025/06/02/handling-openid-connect-error-events-in-asp-net-core/))
-- dotNetDave Says… Soft Skills at Conferences Matter—A Lot! ([12 hours ago](https://dotnettips.wordpress.com/2025/06/02/dotnetdave-says-soft-skills-at-conferences-matter-a-lot/))
+- dotNetDave Says… Soft Skills at Conferences Matter—A Lot! ([13 hours ago](https://dotnettips.wordpress.com/2025/06/02/dotnetdave-says-soft-skills-at-conferences-matter-a-lot/))
 - Marten 8.0, Wolverine 4.0, and even Lamar 15.0 are out! ([16 hours ago](https://dotnetkicks.com/r/721744?url=https://jeremydmiller.com/2025/06/01/marten-8-0-wolverine-4-0-and-even-lamar-15-0-are-out/))
 - The Untapped Power of Veteran Engineers: Why Companies Are Overlooking Their Most Valuable Assets – Part 2 ([1 days ago](https://dotnettips.wordpress.com/2025/06/01/the-untapped-power-of-veteran-engineers-why-companies-are-overlooking-their-most-valuable-assets-part-2/))
 - Boost Your .NET Projects: Enhance Your Workflow with AssemblyHelper in Spargine ([1 days ago](https://dotnettips.wordpress.com/2025/06/01/boost-your-net-projects-enhance-your-workflow-with-assemblyhelper-in-spargine/))
@@ -37,7 +37,7 @@ description: DotNet Updates
 - Azure AI Services in a Nutshell - A Developer's Mind Map ([7 days ago](https://dotnetkicks.com/r/721130?url=https://dailydotnettips.com/azure-ai-services-in-a-nutshell-a-developers-mind-map/))
 - Revisiting using a Content Security Policy (CSP) nonce in Blazor ([7 days ago](https://dotnetkicks.com/r/721107?url=https://damienbod.com/2025/05/26/revisiting-using-a-content-security-policy-csp-nonce-in-blazor/))
 - Coding Faster with dotNetTips Spargine: Validating Arguments Made Easy with Validator ([8 days ago](https://dotnettips.wordpress.com/2025/05/25/coding-faster-with-dotnettips-spargine-validating-arguments-made-easy-with-validator/))
-- F# Weekly #21, 2025 - Build 2025 &amp; ReSharper in VS Code ([8 days ago](https://dotnetkicks.com/r/721063?url=https://sergeytihon.com/2025/05/24/f-weekly-21-2025-build-2025-resharper-in-vs-code/))
+- F# Weekly #21, 2025 - Build 2025 &amp; ReSharper in VS Code ([9 days ago](https://dotnetkicks.com/r/721063?url=https://sergeytihon.com/2025/05/24/f-weekly-21-2025-build-2025-resharper-in-vs-code/))
 - Avoid Build Breaks: Fixing SDK Conflicts Between Visual Studio and Preview Versions ([10 days ago](https://dotnettips.wordpress.com/2025/05/23/avoid-build-breaks-fixing-sdk-conflicts-between-visual-studio-and-preview-versions/))
 - Critter Stack Release Plans ([10 days ago](https://dotnetkicks.com/r/720986?url=https://jeremydmiller.com/2025/05/22/critter-stack-release-plans/))
 - Azure AI Foundry: What is it and Why Should You Care ([11 days ago](https://dotnetkicks.com/r/720812?url=https://www.mobilize.net/blog/azure-ai-foundry-what-is-it-and-why-should-you-care?utm_source=DNK-720812&utm_medium=DNK-720812&utm_content=DNK-720812&utm_campaign=DNK-720812))
