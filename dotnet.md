@@ -10,9 +10,9 @@ description: DotNet Updates
 <!-- news_marker starts -->
 - Azure Container Apps Vs AKS: Which Is Right For Your Enterprise Application?  -  Build5Nines ([2 hours ago](https://dotnetkicks.com/r/721787?url=https://build5nines.com/azure-container-apps-vs-aks-which-is-right-for-your-enterprise-application/))
 - F# Weekly #22, 2025 - Ionide with Cursor ([5 hours ago](https://dotnetkicks.com/r/721784?url=https://sergeytihon.com/2025/06/01/f-weekly-22-2025-ionide-with-cursor/))
-- Handling OpenID Connect error events in ASP.NET Core ([7 hours ago](https://dotnetkicks.com/r/721763?url=https://damienbod.com/2025/06/02/handling-openid-connect-error-events-in-asp-net-core/))
+- Handling OpenID Connect error events in ASP.NET Core ([8 hours ago](https://dotnetkicks.com/r/721763?url=https://damienbod.com/2025/06/02/handling-openid-connect-error-events-in-asp-net-core/))
 - dotNetDave Says… Soft Skills at Conferences Matter—A Lot! ([8 hours ago](https://dotnettips.wordpress.com/2025/06/02/dotnetdave-says-soft-skills-at-conferences-matter-a-lot/))
-- Marten 8.0, Wolverine 4.0, and even Lamar 15.0 are out! ([11 hours ago](https://dotnetkicks.com/r/721744?url=https://jeremydmiller.com/2025/06/01/marten-8-0-wolverine-4-0-and-even-lamar-15-0-are-out/))
+- Marten 8.0, Wolverine 4.0, and even Lamar 15.0 are out! ([12 hours ago](https://dotnetkicks.com/r/721744?url=https://jeremydmiller.com/2025/06/01/marten-8-0-wolverine-4-0-and-even-lamar-15-0-are-out/))
 - The Untapped Power of Veteran Engineers: Why Companies Are Overlooking Their Most Valuable Assets – Part 2 ([1 days ago](https://dotnettips.wordpress.com/2025/06/01/the-untapped-power-of-veteran-engineers-why-companies-are-overlooking-their-most-valuable-assets-part-2/))
 - Boost Your .NET Projects: Enhance Your Workflow with AssemblyHelper in Spargine ([1 days ago](https://dotnettips.wordpress.com/2025/06/01/boost-your-net-projects-enhance-your-workflow-with-assemblyhelper-in-spargine/))
 - Fine-tune the volume of logs your app produces - .NET Blog ([3 days ago](https://dotnetkicks.com/r/721619?url=https://devblogs.microsoft.com/dotnet/finetune-the-volume-of-logs-your-app-produces/))
