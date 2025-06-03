@@ -9,7 +9,7 @@ description: DotNet Updates
 
 <!-- news_marker starts -->
 - Making Event Sourcing with Marten Go Faster ([12 hours ago](https://dotnetkicks.com/r/721912?url=https://jeremydmiller.com/2025/06/02/making-event-sourcing-with-marten-go-faster/))
-- Extension Manager updates in Visual Studio - Visual Studio Blog ([15 hours ago](https://dotnetkicks.com/r/721892?url=https://devblogs.microsoft.com/visualstudio/extension-manager-updates-in-visual-studio/))
+- Extension Manager updates in Visual Studio - Visual Studio Blog ([16 hours ago](https://dotnetkicks.com/r/721892?url=https://devblogs.microsoft.com/visualstudio/extension-manager-updates-in-visual-studio/))
 - Azure Container Apps Vs AKS: Which Is Right For Your Enterprise Application?  -  Build5Nines ([22 hours ago](https://dotnetkicks.com/r/721787?url=https://build5nines.com/azure-container-apps-vs-aks-which-is-right-for-your-enterprise-application/))
 - F# Weekly #22, 2025 - Ionide with Cursor ([1 days ago](https://dotnetkicks.com/r/721784?url=https://sergeytihon.com/2025/06/01/f-weekly-22-2025-ionide-with-cursor/))
 - Handling OpenID Connect error events in ASP.NET Core ([1 days ago](https://dotnetkicks.com/r/721763?url=https://damienbod.com/2025/06/02/handling-openid-connect-error-events-in-asp-net-core/))
