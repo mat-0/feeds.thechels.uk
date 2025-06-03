@@ -8,9 +8,9 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Making Event Sourcing with Marten Go Faster ([5 hours ago](https://dotnetkicks.com/r/721912?url=https://jeremydmiller.com/2025/06/02/making-event-sourcing-with-marten-go-faster/))
+- Making Event Sourcing with Marten Go Faster ([6 hours ago](https://dotnetkicks.com/r/721912?url=https://jeremydmiller.com/2025/06/02/making-event-sourcing-with-marten-go-faster/))
 - Extension Manager updates in Visual Studio - Visual Studio Blog ([9 hours ago](https://dotnetkicks.com/r/721892?url=https://devblogs.microsoft.com/visualstudio/extension-manager-updates-in-visual-studio/))
-- Azure Container Apps Vs AKS: Which Is Right For Your Enterprise Application?  -  Build5Nines ([15 hours ago](https://dotnetkicks.com/r/721787?url=https://build5nines.com/azure-container-apps-vs-aks-which-is-right-for-your-enterprise-application/))
+- Azure Container Apps Vs AKS: Which Is Right For Your Enterprise Application?  -  Build5Nines ([16 hours ago](https://dotnetkicks.com/r/721787?url=https://build5nines.com/azure-container-apps-vs-aks-which-is-right-for-your-enterprise-application/))
 - F# Weekly #22, 2025 - Ionide with Cursor ([18 hours ago](https://dotnetkicks.com/r/721784?url=https://sergeytihon.com/2025/06/01/f-weekly-22-2025-ionide-with-cursor/))
 - Handling OpenID Connect error events in ASP.NET Core ([21 hours ago](https://dotnetkicks.com/r/721763?url=https://damienbod.com/2025/06/02/handling-openid-connect-error-events-in-asp-net-core/))
 - dotNetDave Says… Soft Skills at Conferences Matter—A Lot! ([21 hours ago](https://dotnettips.wordpress.com/2025/06/02/dotnetdave-says-soft-skills-at-conferences-matter-a-lot/))
@@ -27,7 +27,7 @@ description: DotNet Updates
 - Announcing dotnet run app.cs – A simpler way to start with C# and .NET 10 ([5 days ago](https://devblogs.microsoft.com/dotnet/announcing-dotnet-run-app/))
 - Symbolically Important Wolverine 3.13.4 Release ([5 days ago](https://dotnetkicks.com/r/721415?url=https://jeremydmiller.com/2025/05/28/symbolically-important-wolverine-3-13-4-release/))
 - Coding Faster with dotNetTips Spargine: Validating Data Made Easy with Validator ([5 days ago](https://dotnettips.wordpress.com/2025/05/28/coding-faster-with-dotnettips-spargine-validating-data-made-easy-with-validator/))
-- Web Category Filtering ([5 days ago](https://dotnetkicks.com/r/721397?url=https://textslashplain.com/2025/05/27/web-category-filtering/))
+- Web Category Filtering ([6 days ago](https://dotnetkicks.com/r/721397?url=https://textslashplain.com/2025/05/27/web-category-filtering/))
 - Stream Compacting in Marten 8.0 ([6 days ago](https://dotnetkicks.com/r/721381?url=https://jeremydmiller.com/2025/05/27/stream-compacting-in-marten-8-0/))
 - Circuit Breaker Policy Fine-tuning Best Practice - .NET Blog ([6 days ago](https://dotnetkicks.com/r/721315?url=https://devblogs.microsoft.com/dotnet/circuit-breaker-policy-finetuning-best-practice/))
 - Circuit Breaker Policy Fine-tuning Best Practice ([6 days ago](https://devblogs.microsoft.com/dotnet/circuit-breaker-policy-finetuning-best-practice/))
