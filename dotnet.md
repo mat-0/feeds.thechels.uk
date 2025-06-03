@@ -8,11 +8,11 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Cloud Academy: Unlock Your Azure Skills and Accelerate Your Career - Visual Studio Blog ([2 hours ago](https://dotnetkicks.com/r/721978?url=https://devblogs.microsoft.com/visualstudio/cloud-academy-benefit-for-visual-studio-subscribers/))
-- Using AI Foundry with .NET MAUI - .NET Blog ([3 hours ago](https://dotnetkicks.com/r/721968?url=https://devblogs.microsoft.com/dotnet/using-ai-foundry-with-dotnet-maui/))
-- Using AI Foundry with .NET MAUI - .NET Blog ([3 hours ago](https://dotnetkicks.com/r/721954?url=https://devblogs.microsoft.com/dotnet/using-ai-foundry-with-dotnet-maui/))
-- Using AI Foundry with .NET MAUI ([3 hours ago](https://devblogs.microsoft.com/dotnet/using-ai-foundry-with-dotnet-maui/))
-- dotInsights  -  June 2025 ([7 hours ago](https://blog.jetbrains.com/dotnet/2025/06/03/dotinsights-june-2025/))
+- Cloud Academy: Unlock Your Azure Skills and Accelerate Your Career - Visual Studio Blog ([3 hours ago](https://dotnetkicks.com/r/721978?url=https://devblogs.microsoft.com/visualstudio/cloud-academy-benefit-for-visual-studio-subscribers/))
+- Using AI Foundry with .NET MAUI - .NET Blog ([4 hours ago](https://dotnetkicks.com/r/721968?url=https://devblogs.microsoft.com/dotnet/using-ai-foundry-with-dotnet-maui/))
+- Using AI Foundry with .NET MAUI - .NET Blog ([4 hours ago](https://dotnetkicks.com/r/721954?url=https://devblogs.microsoft.com/dotnet/using-ai-foundry-with-dotnet-maui/))
+- Using AI Foundry with .NET MAUI ([4 hours ago](https://devblogs.microsoft.com/dotnet/using-ai-foundry-with-dotnet-maui/))
+- dotInsights  -  June 2025 ([8 hours ago](https://blog.jetbrains.com/dotnet/2025/06/03/dotinsights-june-2025/))
 - Creating your first sample game with MonoGame ([9 hours ago](https://dotnetkicks.com/r/721929?url=https://andrewlock.net/creating-your-first-sample-game-with-monogame/))
 - Creating your first sample game with MonoGame ([12 hours ago](https://andrewlock.net/creating-your-first-sample-game-with-monogame/))
 - Making Event Sourcing with Marten Go Faster ([23 hours ago](https://dotnetkicks.com/r/721912?url=https://jeremydmiller.com/2025/06/02/making-event-sourcing-with-marten-go-faster/))
