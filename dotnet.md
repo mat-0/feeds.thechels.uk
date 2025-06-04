@@ -8,9 +8,9 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Catch Up on Microsoft Build 2025: Essential Sessions for .NET Developers - .NET Blog ([2 hours ago](https://dotnetkicks.com/r/722051?url=https://devblogs.microsoft.com/dotnet/catching-up-on-microsoft-build-2025-essential-sessions-for-dotnet-developers/))
+- Catch Up on Microsoft Build 2025: Essential Sessions for .NET Developers - .NET Blog ([3 hours ago](https://dotnetkicks.com/r/722051?url=https://devblogs.microsoft.com/dotnet/catching-up-on-microsoft-build-2025-essential-sessions-for-dotnet-developers/))
 - Catch Up on Microsoft Build 2025: Essential Sessions for .NET Developers ([3 hours ago](https://devblogs.microsoft.com/dotnet/catching-up-on-microsoft-build-2025-essential-sessions-for-dotnet-developers/))
-- CoPilot Agents ([6 hours ago](https://dotnetkicks.com/r/722027?url=https://jesseliberty.com/2025/06/04/copilot-agents/))
+- CoPilot Agents ([7 hours ago](https://dotnetkicks.com/r/722027?url=https://jesseliberty.com/2025/06/04/copilot-agents/))
 - Boost Your .NET Projects: Mastering Unit Testing with Spargine’s UnitTester Class ([16 hours ago](https://dotnettips.wordpress.com/2025/06/04/boost-your-net-projects-mastering-unit-testing-with-spargines-unittester-class/))
 - Cloud Academy: Unlock Your Azure Skills and Accelerate Your Career - Visual Studio Blog ([1 days ago](https://dotnetkicks.com/r/721978?url=https://devblogs.microsoft.com/visualstudio/cloud-academy-benefit-for-visual-studio-subscribers/))
 - Using AI Foundry with .NET MAUI - .NET Blog ([1 days ago](https://dotnetkicks.com/r/721968?url=https://devblogs.microsoft.com/dotnet/using-ai-foundry-with-dotnet-maui/))
@@ -61,7 +61,7 @@ description: DotNet Updates
 - The Early Access Program for ReSharper and .NET Tools 2025.2 Has Begun! ([19 days ago](https://blog.jetbrains.com/dotnet/2025/05/16/resharper-2025-2-eap-1/))
 - Evaluating content safety in your .NET AI applications ([20 days ago](https://devblogs.microsoft.com/dotnet/evaluating-ai-content-safety/))
 - Boost Your .NET Projects: Supercharge Your Code with FastStringBuilder in Spargine ([21 days ago](https://dotnettips.wordpress.com/2025/05/14/boost-your-net-projects-supercharge-your-code-with-faststringbuilder-in-spargine/))
-- .NET and .NET Framework May 2025 servicing releases updates ([21 days ago](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-may-2025-servicing-updates/))
+- .NET and .NET Framework May 2025 servicing releases updates ([22 days ago](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-may-2025-servicing-updates/))
 - Using the new AI template to create a chatbot about a website ([22 days ago](https://andrewlock.net/using-the-new-ai-template-to-create-a-chatbot-about-a-website/))
 - ReSharper and Rider 2025.1.2 – Bug Fixes Have Landed! ([27 days ago](https://blog.jetbrains.com/dotnet/2025/05/08/resharper-rider-2025-1-2-bug-fix/))
 - Exploring the new AI chat template ([29 days ago](https://andrewlock.net/exploring-the-new-ai-chat-template/))
