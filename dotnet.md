@@ -9,11 +9,11 @@ description: DotNet Updates
 
 <!-- news_marker starts -->
 - Boost Your .NET Projects: Mastering Unit Testing with Spargine’s UnitTester Class ([3 hours ago](https://dotnettips.wordpress.com/2025/06/04/boost-your-net-projects-mastering-unit-testing-with-spargines-unittester-class/))
-- Cloud Academy: Unlock Your Azure Skills and Accelerate Your Career - Visual Studio Blog ([14 hours ago](https://dotnetkicks.com/r/721978?url=https://devblogs.microsoft.com/visualstudio/cloud-academy-benefit-for-visual-studio-subscribers/))
-- Using AI Foundry with .NET MAUI - .NET Blog ([15 hours ago](https://dotnetkicks.com/r/721968?url=https://devblogs.microsoft.com/dotnet/using-ai-foundry-with-dotnet-maui/))
-- Using AI Foundry with .NET MAUI - .NET Blog ([15 hours ago](https://dotnetkicks.com/r/721954?url=https://devblogs.microsoft.com/dotnet/using-ai-foundry-with-dotnet-maui/))
-- Using AI Foundry with .NET MAUI ([15 hours ago](https://devblogs.microsoft.com/dotnet/using-ai-foundry-with-dotnet-maui/))
-- dotInsights  -  June 2025 ([19 hours ago](https://blog.jetbrains.com/dotnet/2025/06/03/dotinsights-june-2025/))
+- Cloud Academy: Unlock Your Azure Skills and Accelerate Your Career - Visual Studio Blog ([15 hours ago](https://dotnetkicks.com/r/721978?url=https://devblogs.microsoft.com/visualstudio/cloud-academy-benefit-for-visual-studio-subscribers/))
+- Using AI Foundry with .NET MAUI - .NET Blog ([16 hours ago](https://dotnetkicks.com/r/721968?url=https://devblogs.microsoft.com/dotnet/using-ai-foundry-with-dotnet-maui/))
+- Using AI Foundry with .NET MAUI - .NET Blog ([16 hours ago](https://dotnetkicks.com/r/721954?url=https://devblogs.microsoft.com/dotnet/using-ai-foundry-with-dotnet-maui/))
+- Using AI Foundry with .NET MAUI ([16 hours ago](https://devblogs.microsoft.com/dotnet/using-ai-foundry-with-dotnet-maui/))
+- dotInsights  -  June 2025 ([20 hours ago](https://blog.jetbrains.com/dotnet/2025/06/03/dotinsights-june-2025/))
 - Creating your first sample game with MonoGame ([21 hours ago](https://dotnetkicks.com/r/721929?url=https://andrewlock.net/creating-your-first-sample-game-with-monogame/))
 - Creating your first sample game with MonoGame ([1 days ago](https://andrewlock.net/creating-your-first-sample-game-with-monogame/))
 - Making Event Sourcing with Marten Go Faster ([1 days ago](https://dotnetkicks.com/r/721912?url=https://jeremydmiller.com/2025/06/02/making-event-sourcing-with-marten-go-faster/))
