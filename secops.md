@@ -8,10 +8,10 @@ description: SecOps News
 [Get this as an RSS feed](/secops.rss)
 
 <!-- news_marker starts -->
-- Take ChatGPT back to the 2010s and they’d think AGI arrived, says Altman ([18 minutes ago](https://go.theregister.com/feed/www.theregister.com/2025/06/05/openai_altman/))
-- Incident with Actions ([24 minutes ago](https://www.githubstatus.com/incidents/ry1gsyjqj4qh))
+- Incident with Actions ([10 minutes ago](https://www.githubstatus.com/incidents/ry1gsyjqj4qh))
+- Take ChatGPT back to the 2010s and they’d think AGI arrived, says Altman ([31 minutes ago](https://go.theregister.com/feed/www.theregister.com/2025/06/05/openai_altman/))
 - Old AT&T data leak repackaged to link SSNs, DOBs to 49M phone numbers ([1 hours ago](https://www.bleepingcomputer.com/news/security/old-atandt-data-leak-repackaged-to-link-ssns-dobs-to-49m-phone-numbers/))
-- BidenCash busted as Feds nuke stolen credit card bazaar ([1 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/06/05/bidencash_busted/))
+- BidenCash busted as Feds nuke stolen credit card bazaar ([2 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/06/05/bidencash_busted/))
 - Hacker selling critical Roundcube webmail exploit as tech info disclosed ([2 hours ago](https://www.bleepingcomputer.com/news/security/hacker-selling-critical-roundcube-webmail-exploit-as-tech-info-disclosed/))
 - Popular Chrome Extensions Leak API Keys, User Data via HTTP and Hardcoded Credentials ([3 hours ago](https://thehackernews.com/2025/06/popular-chrome-extensions-leak-api-keys.html))
 - AI can spew code, but kids should still suffer like we did, says Raspberry Pi ([3 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/06/05/vibe_coding_raspberry_pi/))
@@ -51,7 +51,7 @@ description: SecOps News
 - Play ransomware crims exploit SimpleHelp flaw in double-extortion schemes ([19 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/06/04/play_ransomware_infects_900_victims/))
 - Ukraine strikes Russian bomber-maker with hack attack ([22 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/06/04/ukraine_hack_attack_russia/))
 - Microsoft unveils free EU cybersecurity program for governments ([22 hours ago](https://www.bleepingcomputer.com/news/microsoft/microsoft-unveils-free-eu-cybersecurity-program-for-governments/))
-- FBI: Play ransomware breached 900 victims, including critical orgs ([22 hours ago](https://www.bleepingcomputer.com/news/security/fbi-play-ransomware-breached-900-victims-including-critical-orgs/))
+- FBI: Play ransomware breached 900 victims, including critical orgs ([23 hours ago](https://www.bleepingcomputer.com/news/security/fbi-play-ransomware-breached-900-victims-including-critical-orgs/))
 - Ransomware scum leak patient data after disrupting chemo treatments at Kettering ([23 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/06/04/ransomware_scum_leak_kettering_patient_data/))
 - Hacker arrested for breaching 5,000 hosting accounts to mine crypto ([23 hours ago](https://www.bleepingcomputer.com/news/security/hacker-arrested-for-breaching-5-000-hosting-accounts-to-mine-crypto/))
 - Cisco warns of ISE and CCP flaws with public exploit code ([23 hours ago](https://www.bleepingcomputer.com/news/security/cisco-warns-of-ise-and-ccp-flaws-with-public-exploit-code/))
