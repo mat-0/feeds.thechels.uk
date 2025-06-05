@@ -9,7 +9,7 @@ description: DotNet Updates
 
 <!-- news_marker starts -->
 - Catch Up on Microsoft Build 2025: Essential Sessions for .NET Developers - .NET Blog ([14 hours ago](https://dotnetkicks.com/r/722051?url=https://devblogs.microsoft.com/dotnet/catching-up-on-microsoft-build-2025-essential-sessions-for-dotnet-developers/))
-- Catch Up on Microsoft Build 2025: Essential Sessions for .NET Developers ([14 hours ago](https://devblogs.microsoft.com/dotnet/catching-up-on-microsoft-build-2025-essential-sessions-for-dotnet-developers/))
+- Catch Up on Microsoft Build 2025: Essential Sessions for .NET Developers ([15 hours ago](https://devblogs.microsoft.com/dotnet/catching-up-on-microsoft-build-2025-essential-sessions-for-dotnet-developers/))
 - CoPilot Agents ([18 hours ago](https://dotnetkicks.com/r/722027?url=https://jesseliberty.com/2025/06/04/copilot-agents/))
 - Boost Your .NET Projects: Mastering Unit Testing with Spargine’s UnitTester Class ([1 days ago](https://dotnettips.wordpress.com/2025/06/04/boost-your-net-projects-mastering-unit-testing-with-spargines-unittester-class/))
 - Cloud Academy: Unlock Your Azure Skills and Accelerate Your Career - Visual Studio Blog ([1 days ago](https://dotnetkicks.com/r/721978?url=https://devblogs.microsoft.com/visualstudio/cloud-academy-benefit-for-visual-studio-subscribers/))
