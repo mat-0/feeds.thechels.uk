@@ -9,7 +9,7 @@ description: DotNet Updates
 
 <!-- news_marker starts -->
 - Catch Up on Microsoft Build 2025: Essential Sessions for .NET Developers - .NET Blog ([15 hours ago](https://dotnetkicks.com/r/722051?url=https://devblogs.microsoft.com/dotnet/catching-up-on-microsoft-build-2025-essential-sessions-for-dotnet-developers/))
-- Catch Up on Microsoft Build 2025: Essential Sessions for .NET Developers ([15 hours ago](https://devblogs.microsoft.com/dotnet/catching-up-on-microsoft-build-2025-essential-sessions-for-dotnet-developers/))
+- Catch Up on Microsoft Build 2025: Essential Sessions for .NET Developers ([16 hours ago](https://devblogs.microsoft.com/dotnet/catching-up-on-microsoft-build-2025-essential-sessions-for-dotnet-developers/))
 - CoPilot Agents ([19 hours ago](https://dotnetkicks.com/r/722027?url=https://jesseliberty.com/2025/06/04/copilot-agents/))
 - Boost Your .NET Projects: Mastering Unit Testing with Spargine’s UnitTester Class ([1 days ago](https://dotnettips.wordpress.com/2025/06/04/boost-your-net-projects-mastering-unit-testing-with-spargines-unittester-class/))
 - Cloud Academy: Unlock Your Azure Skills and Accelerate Your Career - Visual Studio Blog ([1 days ago](https://dotnetkicks.com/r/721978?url=https://devblogs.microsoft.com/visualstudio/cloud-academy-benefit-for-visual-studio-subscribers/))
@@ -43,7 +43,7 @@ description: DotNet Updates
 - Circuit Breaker Policy Fine-tuning Best Practice - .NET Blog ([8 days ago](https://dotnetkicks.com/r/721315?url=https://devblogs.microsoft.com/dotnet/circuit-breaker-policy-finetuning-best-practice/))
 - Circuit Breaker Policy Fine-tuning Best Practice ([8 days ago](https://devblogs.microsoft.com/dotnet/circuit-breaker-policy-finetuning-best-practice/))
 - VisualStudio.Extensibility: Editor classification and updates to user prompt - Visual Studio Blog ([8 days ago](https://dotnetkicks.com/r/721309?url=https://devblogs.microsoft.com/visualstudio/visualstudio-extensibility-editor-classification-and-updates-to-user-prompt/))
-- Converting a docker-compose file to .NET Aspire ([8 days ago](https://dotnetkicks.com/r/721257?url=https://andrewlock.net/converting-a-docker-compose-file-to-aspire/))
+- Converting a docker-compose file to .NET Aspire ([9 days ago](https://dotnetkicks.com/r/721257?url=https://andrewlock.net/converting-a-docker-compose-file-to-aspire/))
 - Converting a docker-compose file to .NET Aspire ([9 days ago](https://andrewlock.net/converting-a-docker-compose-file-to-aspire/))
 - Azure AI Services in a Nutshell - A Developer's Mind Map ([9 days ago](https://dotnetkicks.com/r/721134?url=https://dailydotnettips.com/azure-ai-services-in-a-nutshell-a-developers-mind-map/))
 - Coding Faster with dotNetTips Spargine: Validating Arguments Made Easy with Validator ([11 days ago](https://dotnettips.wordpress.com/2025/05/25/coding-faster-with-dotnettips-spargine-validating-arguments-made-easy-with-validator/))
@@ -57,8 +57,8 @@ description: DotNet Updates
 - JetBrains AI Assistant – Now in Visual Studio Code ([16 days ago](https://blog.jetbrains.com/ai/2025/05/jetbrains-ai-assistant-now-in-visual-studio-code/))
 - ReSharper Comes to Microsoft Visual Studio Code: Public Preview Now Open ([16 days ago](https://blog.jetbrains.com/dotnet/2025/05/19/resharper-comes-to-microsoft-visual-studio-code/))
 - Boost Your .NET Projects: Maximize Your .NET Performance with Spargine FastLoggerExtensions ([18 days ago](https://dotnettips.wordpress.com/2025/05/18/boost-your-net-projects-maximize-your-net-performance-with-spargine-fastloggerextensions/))
-- Rider 2025.2 Early Access Program Is Live! ([19 days ago](https://blog.jetbrains.com/dotnet/2025/05/16/rider-2025-2-eap-1/))
-- The Early Access Program for ReSharper and .NET Tools 2025.2 Has Begun! ([19 days ago](https://blog.jetbrains.com/dotnet/2025/05/16/resharper-2025-2-eap-1/))
+- Rider 2025.2 Early Access Program Is Live! ([20 days ago](https://blog.jetbrains.com/dotnet/2025/05/16/rider-2025-2-eap-1/))
+- The Early Access Program for ReSharper and .NET Tools 2025.2 Has Begun! ([20 days ago](https://blog.jetbrains.com/dotnet/2025/05/16/resharper-2025-2-eap-1/))
 - Evaluating content safety in your .NET AI applications ([20 days ago](https://devblogs.microsoft.com/dotnet/evaluating-ai-content-safety/))
 - Boost Your .NET Projects: Supercharge Your Code with FastStringBuilder in Spargine ([22 days ago](https://dotnettips.wordpress.com/2025/05/14/boost-your-net-projects-supercharge-your-code-with-faststringbuilder-in-spargine/))
 - .NET and .NET Framework May 2025 servicing releases updates ([22 days ago](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-may-2025-servicing-updates/))
