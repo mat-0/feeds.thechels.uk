@@ -8,11 +8,11 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Adding Extension Properties with State to Types, (Sort of) In Spargine ([9 hours ago](https://dotnettips.wordpress.com/2025/06/06/adding-extension-properties-to-types-sort-of-in-spargine/))
+- Adding Extension Properties with State to Types, (Sort of) In Spargine ([10 hours ago](https://dotnettips.wordpress.com/2025/06/06/adding-extension-properties-to-types-sort-of-in-spargine/))
 - Emit logs on-demand with log buffering - .NET Blog ([22 hours ago](https://dotnetkicks.com/r/722131?url=https://devblogs.microsoft.com/dotnet/emit-logs-on-demand-with-log-buffering/))
-- Emit logs on-demand with log buffering ([22 hours ago](https://devblogs.microsoft.com/dotnet/emit-logs-on-demand-with-log-buffering/))
+- Emit logs on-demand with log buffering ([23 hours ago](https://devblogs.microsoft.com/dotnet/emit-logs-on-demand-with-log-buffering/))
 - API Caching Done Right ([23 hours ago](https://dotnetkicks.com/r/722126?url=https://codeopinion.com/api-caching-done-right/))
-- Low Ceremony Railway Programming with Wolverine ([23 hours ago](https://dotnetkicks.com/r/722092?url=https://jeremydmiller.com/2025/06/05/low-ceremony-railway-programming-with-wolverine/))
+- Low Ceremony Railway Programming with Wolverine ([1 days ago](https://dotnetkicks.com/r/722092?url=https://jeremydmiller.com/2025/06/05/low-ceremony-railway-programming-with-wolverine/))
 - Error: The Delegate RequestDelegate does not take X arguments - Experiences with minimal APIs ([1 days ago](https://dotnetkicks.com/r/722083?url=https://csharp.christiannagel.com/2025/06/05/error-the-delegate-requestdelegate-does-not-take-x-arguments-experiences-with-minimal-apis/))
 - Managing GenAI Coding Risk Like an Investment ([1 days ago](https://dotnetkicks.com/r/722073?url=https://ardalis.com/genai-coding-investment-risk-strategy/))
 - Catch Up on Microsoft Build 2025: Essential Sessions for .NET Developers - .NET Blog ([1 days ago](https://dotnetkicks.com/r/722051?url=https://devblogs.microsoft.com/dotnet/catching-up-on-microsoft-build-2025-essential-sessions-for-dotnet-developers/))
@@ -41,8 +41,8 @@ description: DotNet Updates
 - Database Coupling: How to FIX a Spaghetti Code System ([8 days ago](https://dotnetkicks.com/r/721542?url=https://codeopinion.com/database-coupling-how-to-fix-a-spaghetti-code-system/))
 - Announcing dotnet run app.cs - A simpler way to start with C# and .NET 10 - .NET Blog ([8 days ago](https://dotnetkicks.com/r/721492?url=https://devblogs.microsoft.com/dotnet/announcing-dotnet-run-app/))
 - Announcing dotnet run app.cs - A simpler way to start with C# and .NET 10 - .NET Blog ([8 days ago](https://dotnetkicks.com/r/721481?url=https://devblogs.microsoft.com/dotnet/announcing-dotnet-run-app/))
-- Improve the commands in your extensions - Visual Studio Blog ([8 days ago](https://dotnetkicks.com/r/721458?url=https://devblogs.microsoft.com/visualstudio/improve-the-commands-in-your-extensions/))
-- Announcing dotnet run app.cs – A simpler way to start with C# and .NET 10 ([8 days ago](https://devblogs.microsoft.com/dotnet/announcing-dotnet-run-app/))
+- Improve the commands in your extensions - Visual Studio Blog ([9 days ago](https://dotnetkicks.com/r/721458?url=https://devblogs.microsoft.com/visualstudio/improve-the-commands-in-your-extensions/))
+- Announcing dotnet run app.cs – A simpler way to start with C# and .NET 10 ([9 days ago](https://devblogs.microsoft.com/dotnet/announcing-dotnet-run-app/))
 - Symbolically Important Wolverine 3.13.4 Release ([9 days ago](https://dotnetkicks.com/r/721415?url=https://jeremydmiller.com/2025/05/28/symbolically-important-wolverine-3-13-4-release/))
 - Coding Faster with dotNetTips Spargine: Validating Data Made Easy with Validator ([9 days ago](https://dotnettips.wordpress.com/2025/05/28/coding-faster-with-dotnettips-spargine-validating-data-made-easy-with-validator/))
 - Web Category Filtering ([9 days ago](https://dotnetkicks.com/r/721397?url=https://textslashplain.com/2025/05/27/web-category-filtering/))
@@ -51,7 +51,7 @@ description: DotNet Updates
 - Coding Faster with dotNetTips Spargine: Validating Arguments Made Easy with Validator ([12 days ago](https://dotnettips.wordpress.com/2025/05/25/coding-faster-with-dotnettips-spargine-validating-arguments-made-easy-with-validator/))
 - Avoid Build Breaks: Fixing SDK Conflicts Between Visual Studio and Preview Versions ([14 days ago](https://dotnettips.wordpress.com/2025/05/23/avoid-build-breaks-fixing-sdk-conflicts-between-visual-studio-and-preview-versions/))
 - ReSharper 2025.2 EAP 2: First Public Build with Out-of-Process Mode Support ([15 days ago](https://blog.jetbrains.com/dotnet/2025/05/22/resharper-2025-2-eap-2-oop-mode/))
-- AI and Vector Data Extensions are now Generally Available (GA) ([15 days ago](https://devblogs.microsoft.com/dotnet/ai-vector-data-dotnet-extensions-ga/))
+- AI and Vector Data Extensions are now Generally Available (GA) ([16 days ago](https://devblogs.microsoft.com/dotnet/ai-vector-data-dotnet-extensions-ga/))
 - Boost Your .NET Projects: Master Type Management with TypeHelper in Spargine ([16 days ago](https://dotnettips.wordpress.com/2025/05/21/boost-your-net-projects-master-type-management-with-typehelper-in-spargine/))
 - Pushing a whole stack of branches with a single Git command ([17 days ago](https://andrewlock.net/pushing-a-whole-stack-of-branches-with-a-single-git-command/))
 - .NET Aspire 9.3 is here and enhanced with GitHub Copilot! ([17 days ago](https://devblogs.microsoft.com/dotnet/introducing-dotnet-aspire-93/))
@@ -63,6 +63,6 @@ description: DotNet Updates
 - The Early Access Program for ReSharper and .NET Tools 2025.2 Has Begun! ([21 days ago](https://blog.jetbrains.com/dotnet/2025/05/16/resharper-2025-2-eap-1/))
 - Evaluating content safety in your .NET AI applications ([21 days ago](https://devblogs.microsoft.com/dotnet/evaluating-ai-content-safety/))
 - Using the new AI template to create a chatbot about a website ([24 days ago](https://andrewlock.net/using-the-new-ai-template-to-create-a-chatbot-about-a-website/))
-- ReSharper and Rider 2025.1.2 – Bug Fixes Have Landed! ([28 days ago](https://blog.jetbrains.com/dotnet/2025/05/08/resharper-rider-2025-1-2-bug-fix/))
+- ReSharper and Rider 2025.1.2 – Bug Fixes Have Landed! ([29 days ago](https://blog.jetbrains.com/dotnet/2025/05/08/resharper-rider-2025-1-2-bug-fix/))
 
 <!-- news_marker ends -->
