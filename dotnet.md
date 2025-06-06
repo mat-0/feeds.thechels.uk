@@ -8,12 +8,12 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Emit logs on-demand with log buffering - .NET Blog ([7 hours ago](https://dotnetkicks.com/r/722131?url=https://devblogs.microsoft.com/dotnet/emit-logs-on-demand-with-log-buffering/))
-- Emit logs on-demand with log buffering ([7 hours ago](https://devblogs.microsoft.com/dotnet/emit-logs-on-demand-with-log-buffering/))
-- API Caching Done Right ([8 hours ago](https://dotnetkicks.com/r/722126?url=https://codeopinion.com/api-caching-done-right/))
-- Low Ceremony Railway Programming with Wolverine ([8 hours ago](https://dotnetkicks.com/r/722092?url=https://jeremydmiller.com/2025/06/05/low-ceremony-railway-programming-with-wolverine/))
-- Error: The Delegate RequestDelegate does not take X arguments - Experiences with minimal APIs ([12 hours ago](https://dotnetkicks.com/r/722083?url=https://csharp.christiannagel.com/2025/06/05/error-the-delegate-requestdelegate-does-not-take-x-arguments-experiences-with-minimal-apis/))
-- Managing GenAI Coding Risk Like an Investment ([12 hours ago](https://dotnetkicks.com/r/722073?url=https://ardalis.com/genai-coding-investment-risk-strategy/))
+- Emit logs on-demand with log buffering - .NET Blog ([8 hours ago](https://dotnetkicks.com/r/722131?url=https://devblogs.microsoft.com/dotnet/emit-logs-on-demand-with-log-buffering/))
+- Emit logs on-demand with log buffering ([8 hours ago](https://devblogs.microsoft.com/dotnet/emit-logs-on-demand-with-log-buffering/))
+- API Caching Done Right ([9 hours ago](https://dotnetkicks.com/r/722126?url=https://codeopinion.com/api-caching-done-right/))
+- Low Ceremony Railway Programming with Wolverine ([9 hours ago](https://dotnetkicks.com/r/722092?url=https://jeremydmiller.com/2025/06/05/low-ceremony-railway-programming-with-wolverine/))
+- Error: The Delegate RequestDelegate does not take X arguments - Experiences with minimal APIs ([13 hours ago](https://dotnetkicks.com/r/722083?url=https://csharp.christiannagel.com/2025/06/05/error-the-delegate-requestdelegate-does-not-take-x-arguments-experiences-with-minimal-apis/))
+- Managing GenAI Coding Risk Like an Investment ([13 hours ago](https://dotnetkicks.com/r/722073?url=https://ardalis.com/genai-coding-investment-risk-strategy/))
 - Catch Up on Microsoft Build 2025: Essential Sessions for .NET Developers - .NET Blog ([1 days ago](https://dotnetkicks.com/r/722051?url=https://devblogs.microsoft.com/dotnet/catching-up-on-microsoft-build-2025-essential-sessions-for-dotnet-developers/))
 - Catch Up on Microsoft Build 2025: Essential Sessions for .NET Developers ([1 days ago](https://devblogs.microsoft.com/dotnet/catching-up-on-microsoft-build-2025-essential-sessions-for-dotnet-developers/))
 - CoPilot Agents ([1 days ago](https://dotnetkicks.com/r/722027?url=https://jesseliberty.com/2025/06/04/copilot-agents/))
