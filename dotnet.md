@@ -9,9 +9,9 @@ description: DotNet Updates
 
 <!-- news_marker starts -->
 - Adding Extension Properties with State to Types, (Sort of) In Spargine ([10 hours ago](https://dotnettips.wordpress.com/2025/06/06/adding-extension-properties-to-types-sort-of-in-spargine/))
-- Emit logs on-demand with log buffering - .NET Blog ([22 hours ago](https://dotnetkicks.com/r/722131?url=https://devblogs.microsoft.com/dotnet/emit-logs-on-demand-with-log-buffering/))
+- Emit logs on-demand with log buffering - .NET Blog ([23 hours ago](https://dotnetkicks.com/r/722131?url=https://devblogs.microsoft.com/dotnet/emit-logs-on-demand-with-log-buffering/))
 - Emit logs on-demand with log buffering ([23 hours ago](https://devblogs.microsoft.com/dotnet/emit-logs-on-demand-with-log-buffering/))
-- API Caching Done Right ([23 hours ago](https://dotnetkicks.com/r/722126?url=https://codeopinion.com/api-caching-done-right/))
+- API Caching Done Right ([1 days ago](https://dotnetkicks.com/r/722126?url=https://codeopinion.com/api-caching-done-right/))
 - Low Ceremony Railway Programming with Wolverine ([1 days ago](https://dotnetkicks.com/r/722092?url=https://jeremydmiller.com/2025/06/05/low-ceremony-railway-programming-with-wolverine/))
 - Error: The Delegate RequestDelegate does not take X arguments - Experiences with minimal APIs ([1 days ago](https://dotnetkicks.com/r/722083?url=https://csharp.christiannagel.com/2025/06/05/error-the-delegate-requestdelegate-does-not-take-x-arguments-experiences-with-minimal-apis/))
 - Managing GenAI Coding Risk Like an Investment ([1 days ago](https://dotnetkicks.com/r/722073?url=https://ardalis.com/genai-coding-investment-risk-strategy/))
@@ -39,8 +39,8 @@ description: DotNet Updates
 - Fine-tune the volume of logs your app produces ([7 days ago](https://devblogs.microsoft.com/dotnet/finetune-the-volume-of-logs-your-app-produces/))
 - Software Innovation: HashiCorp Terraform Revolutionized Infrastructure As Code (IaC)  -  Build5Nines ([8 days ago](https://dotnetkicks.com/r/721591?url=https://build5nines.com/software-innovation-hashicorp-terraform-revolutionized-infrastructure-as-code-iac/))
 - Database Coupling: How to FIX a Spaghetti Code System ([8 days ago](https://dotnetkicks.com/r/721542?url=https://codeopinion.com/database-coupling-how-to-fix-a-spaghetti-code-system/))
-- Announcing dotnet run app.cs - A simpler way to start with C# and .NET 10 - .NET Blog ([8 days ago](https://dotnetkicks.com/r/721492?url=https://devblogs.microsoft.com/dotnet/announcing-dotnet-run-app/))
-- Announcing dotnet run app.cs - A simpler way to start with C# and .NET 10 - .NET Blog ([8 days ago](https://dotnetkicks.com/r/721481?url=https://devblogs.microsoft.com/dotnet/announcing-dotnet-run-app/))
+- Announcing dotnet run app.cs - A simpler way to start with C# and .NET 10 - .NET Blog ([9 days ago](https://dotnetkicks.com/r/721492?url=https://devblogs.microsoft.com/dotnet/announcing-dotnet-run-app/))
+- Announcing dotnet run app.cs - A simpler way to start with C# and .NET 10 - .NET Blog ([9 days ago](https://dotnetkicks.com/r/721481?url=https://devblogs.microsoft.com/dotnet/announcing-dotnet-run-app/))
 - Improve the commands in your extensions - Visual Studio Blog ([9 days ago](https://dotnetkicks.com/r/721458?url=https://devblogs.microsoft.com/visualstudio/improve-the-commands-in-your-extensions/))
 - Announcing dotnet run app.cs – A simpler way to start with C# and .NET 10 ([9 days ago](https://devblogs.microsoft.com/dotnet/announcing-dotnet-run-app/))
 - Symbolically Important Wolverine 3.13.4 Release ([9 days ago](https://dotnetkicks.com/r/721415?url=https://jeremydmiller.com/2025/05/28/symbolically-important-wolverine-3-13-4-release/))
