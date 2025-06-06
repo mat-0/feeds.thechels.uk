@@ -9,9 +9,9 @@ description: DotNet Updates
 
 <!-- news_marker starts -->
 - Adding Extension Properties with State to Types, (Sort of) In Spargine ([1 hours ago](https://dotnettips.wordpress.com/2025/06/06/adding-extension-properties-to-types-sort-of-in-spargine/))
-- Emit logs on-demand with log buffering - .NET Blog ([13 hours ago](https://dotnetkicks.com/r/722131?url=https://devblogs.microsoft.com/dotnet/emit-logs-on-demand-with-log-buffering/))
+- Emit logs on-demand with log buffering - .NET Blog ([14 hours ago](https://dotnetkicks.com/r/722131?url=https://devblogs.microsoft.com/dotnet/emit-logs-on-demand-with-log-buffering/))
 - Emit logs on-demand with log buffering ([14 hours ago](https://devblogs.microsoft.com/dotnet/emit-logs-on-demand-with-log-buffering/))
-- API Caching Done Right ([14 hours ago](https://dotnetkicks.com/r/722126?url=https://codeopinion.com/api-caching-done-right/))
+- API Caching Done Right ([15 hours ago](https://dotnetkicks.com/r/722126?url=https://codeopinion.com/api-caching-done-right/))
 - Low Ceremony Railway Programming with Wolverine ([15 hours ago](https://dotnetkicks.com/r/722092?url=https://jeremydmiller.com/2025/06/05/low-ceremony-railway-programming-with-wolverine/))
 - Error: The Delegate RequestDelegate does not take X arguments - Experiences with minimal APIs ([19 hours ago](https://dotnetkicks.com/r/722083?url=https://csharp.christiannagel.com/2025/06/05/error-the-delegate-requestdelegate-does-not-take-x-arguments-experiences-with-minimal-apis/))
 - Managing GenAI Coding Risk Like an Investment ([19 hours ago](https://dotnetkicks.com/r/722073?url=https://ardalis.com/genai-coding-investment-risk-strategy/))
