@@ -8,7 +8,7 @@ description: SecOps News
 [Get this as an RSS feed](/secops.rss)
 
 <!-- news_marker starts -->
-- Supply chain attack hits Gluestack NPM packages with 960K weekly downloads ([2 hours ago](https://www.bleepingcomputer.com/news/security/supply-chain-attack-hits-gluestack-npm-packages-with-960k-weekly-downloads/))
+- Supply chain attack hits Gluestack NPM packages with 960K weekly downloads ([3 hours ago](https://www.bleepingcomputer.com/news/security/supply-chain-attack-hits-gluestack-npm-packages-with-960k-weekly-downloads/))
 - Malicious npm packages posing as utilities delete project directories ([8 hours ago](https://www.bleepingcomputer.com/news/security/malicious-npm-packages-posing-as-utilities-delete-project-directories/))
 - Disk Union - 690,667 breached accounts ([15 hours ago](https://haveibeenpwned.com/Breach/DiskUnion))
 - Linux Foundation tries to play peacemaker in ongoing WordPress scuffle ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2025/06/06/linux_foundation_wordpress_peacemaker/))
@@ -98,7 +98,7 @@ description: SecOps News
 - HPE Issues Security Patch for StoreOnce Bug Allowing Remote Authentication Bypass ([3 days ago](https://thehackernews.com/2025/06/hpe-issues-security-patch-for-storeonce.html))
 - ‘Deliberate attack’ deletes shopping app’s AWS and GitHub resources ([3 days ago](https://go.theregister.com/feed/www.theregister.com/2025/06/04/kiranapro_cyberattack_deletes_cloud_resources/))
 - Meta pauses mobile port tracking tech on Android after researchers cry foul ([3 days ago](https://go.theregister.com/feed/www.theregister.com/2025/06/03/meta_pauses_android_tracking_tech/))
-- You say Cozy Bear, I say Midnight Blizzard, Voodoo Bear, APT29 … ([3 days ago](https://go.theregister.com/feed/www.theregister.com/2025/06/03/microsoft_crowdstrike_cybercrew_naming_clarity/))
+- You say Cozy Bear, I say Midnight Blizzard, Voodoo Bear, APT29 … ([4 days ago](https://go.theregister.com/feed/www.theregister.com/2025/06/03/microsoft_crowdstrike_cybercrew_naming_clarity/))
 - Google quietly pushes emergency fix for Chrome 0-day as exploit runs wild ([4 days ago](https://go.theregister.com/feed/www.theregister.com/2025/06/03/google_chrome_zero_day_emergency_fix/))
 - Microsoft will stop pestering Windows users about Edge in EU ([4 days ago](https://go.theregister.com/feed/www.theregister.com/2025/06/03/microsoft_stops_eu_edge_pestering/))
 - CCTV and the GDPR in 2025: What Employers Must Know ([4 days ago](https://www.itgovernance.co.uk/blog/does-your-use-of-cctv-comply-with-the-gdpr))
@@ -140,7 +140,7 @@ description: SecOps News
 - Atlassian tweaks licenses to reward those who buy more, but gets its sums wrong ([4 days ago](https://go.theregister.com/feed/www.theregister.com/2025/06/03/atlassian_maximum_quantity_billing/))
 - New Chrome Zero-Day Actively Exploited; Google Issues Emergency Out-of-Band Patch ([4 days ago](https://thehackernews.com/2025/06/new-chrome-zero-day-actively-exploited.html))
 - Unlock the power of your data ([4 days ago](https://go.theregister.com/feed/www.theregister.com/2025/06/03/google_bigquery_unlock_data/))
-- IBM Watson zombie brand shuffles forward with new AI lab in NYC ([4 days ago](https://go.theregister.com/feed/www.theregister.com/2025/06/02/ibm_acquires_seek_ai/))
+- IBM Watson zombie brand shuffles forward with new AI lab in NYC ([5 days ago](https://go.theregister.com/feed/www.theregister.com/2025/06/02/ibm_acquires_seek_ai/))
 - Cryptojacking Campaign Exploits DevOps APIs Using Off-the-Shelf Tools from GitHub ([5 days ago](https://thehackernews.com/2025/06/cryptojacking-campaign-exploits-devops.html))
 - Preinstalled Apps on Ulefone, Krüger&Matz Phones Let Any App Reset Device, Steal PIN ([5 days ago](https://thehackernews.com/2025/06/preinstalled-apps-on-ulefone-kruger.html))
 - CapLoader 2.0 Released ([5 days ago](https://www.netresec.com/?page=Blog&month=2025-06&post=CapLoader-2-0-Released))
@@ -167,7 +167,7 @@ description: SecOps News
 - Operation Endgame 2.0 - 15,436,844 breached accounts ([15 days ago](https://haveibeenpwned.com/Breach/OperationEndgame2))
 - Disruption with some GitHub services ([15 days ago](https://www.githubstatus.com/incidents/y71cytztvck9))
 - 3AM ransomware attack poses as a call from IT support to compromise networks ([15 days ago](https://www.tripwire.com/state-of-security/3am-ransomware-attackers-pose-it-support-compromise-networks))
-- Fédération Francaise de Rugby - 281,977 breached accounts ([15 days ago](https://haveibeenpwned.com/Breach/FFR))
+- Fédération Francaise de Rugby - 281,977 breached accounts ([16 days ago](https://haveibeenpwned.com/Breach/FFR))
 - Oops: DanaBot Malware Devs Infected Their Own PCs ([16 days ago](https://krebsonsecurity.com/2025/05/oops-danabot-malware-devs-infected-their-own-pcs/))
 - Lessons Learned from the Legal Aid Agency Data Breach ([16 days ago](https://www.itgovernance.co.uk/blog/lessons-learned-from-the-legal-aid-agency-data-breach))
 - Delayed GitHub Actions Jobs ([16 days ago](https://www.githubstatus.com/incidents/cbdzqm5fw0fm))
@@ -205,8 +205,7 @@ description: SecOps News
 - The Co-Op, M&S, Harrods… You? Mitigating the Risk of Ransomware ([25 days ago](https://www.itgovernance.co.uk/blog/the-co-op-ms-harrods-you-mitigating-the-risk-of-ransomware))
 - Russian GRU Targeting Western Logistics Entities and Technology Companies ([26 days ago](https://www.cisa.gov/news-events/cybersecurity-advisories/aa25-141a))
 - Disruption with some GitHub services ([26 days ago](https://www.githubstatus.com/incidents/gxf0jzns6rn2))
-- Weekly Update 451 ([27 days ago](https://www.troyhunt.com/weekly-update-451/))
+- Weekly Update 451 ([28 days ago](https://www.troyhunt.com/weekly-update-451/))
 - LockBit ransomware gang breached, secrets exposed ([29 days ago](https://www.tripwire.com/state-of-security/lockbit-ransomware-gang-breached-secrets-exposed))
-- After the Breach: Finding new Partners with Solutions for Have I Been Pwned Users ([29 days ago](https://www.troyhunt.com/after-the-breach-finding-new-partners-with-solutions-for-have-i-been-pwned-users/))
 
 <!-- news_marker ends -->
