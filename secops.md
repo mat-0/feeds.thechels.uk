@@ -8,9 +8,9 @@ description: SecOps News
 [Get this as an RSS feed](/secops.rss)
 
 <!-- news_marker starts -->
-- Disk Union - 690,667 breached accounts ([11 hours ago](https://haveibeenpwned.com/Breach/DiskUnion))
+- Disk Union - 690,667 breached accounts ([12 hours ago](https://haveibeenpwned.com/Breach/DiskUnion))
 - Linux Foundation tries to play peacemaker in ongoing WordPress scuffle ([22 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/06/06/linux_foundation_wordpress_peacemaker/))
-- ChatGPT used for evil: Fake IT worker resumes, misinfo, and cyber-op assist ([22 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/06/06/chatgpt_for_evil/))
+- ChatGPT used for evil: Fake IT worker resumes, misinfo, and cyber-op assist ([23 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/06/06/chatgpt_for_evil/))
 - Microsoft shares script to restore inetpub folder you shouldn’t delete ([1 days ago](https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-script-to-restore-inetpub-folder-you-shouldnt-delete/))
 - Tax resolution firm Optima Tax Relief hit by ransomware, data leaked ([1 days ago](https://www.bleepingcomputer.com/news/security/tax-resolution-firm-optima-tax-relief-hit-by-ransomware-data-leaked/))
 - New Atomic macOS Stealer Campaign Exploits ClickFix to Target Apple Users ([1 days ago](https://thehackernews.com/2025/06/new-atomic-macos-stealer-campaign.html))
@@ -101,7 +101,7 @@ description: SecOps News
 - Meta pauses mobile port tracking tech on Android after researchers cry foul ([3 days ago](https://go.theregister.com/feed/www.theregister.com/2025/06/03/meta_pauses_android_tracking_tech/))
 - You say Cozy Bear, I say Midnight Blizzard, Voodoo Bear, APT29 … ([3 days ago](https://go.theregister.com/feed/www.theregister.com/2025/06/03/microsoft_crowdstrike_cybercrew_naming_clarity/))
 - Google quietly pushes emergency fix for Chrome 0-day as exploit runs wild ([3 days ago](https://go.theregister.com/feed/www.theregister.com/2025/06/03/google_chrome_zero_day_emergency_fix/))
-- Microsoft will stop pestering Windows users about Edge in EU ([3 days ago](https://go.theregister.com/feed/www.theregister.com/2025/06/03/microsoft_stops_eu_edge_pestering/))
+- Microsoft will stop pestering Windows users about Edge in EU ([4 days ago](https://go.theregister.com/feed/www.theregister.com/2025/06/03/microsoft_stops_eu_edge_pestering/))
 - CCTV and the GDPR in 2025: What Employers Must Know ([4 days ago](https://www.itgovernance.co.uk/blog/does-your-use-of-cctv-comply-with-the-gdpr))
 - The GDPR in 2025: What’s the Difference between Personal Data and Special Category Data? ([4 days ago](https://www.itgovernance.co.uk/blog/the-gdpr-do-you-know-the-difference-between-personal-data-and-sensitive-data))
 - Windows 11 market share stalls ahead of Windows 10 cutoff ([4 days ago](https://go.theregister.com/feed/www.theregister.com/2025/06/03/windows_11_market_share/))
