@@ -8,9 +8,9 @@ description: SecOps News
 [Get this as an RSS feed](/secops.rss)
 
 <!-- news_marker starts -->
-- Disk Union - 690,667 breached accounts ([10 hours ago](https://haveibeenpwned.com/Breach/DiskUnion))
-- Linux Foundation tries to play peacemaker in ongoing WordPress scuffle ([21 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/06/06/linux_foundation_wordpress_peacemaker/))
-- ChatGPT used for evil: Fake IT worker resumes, misinfo, and cyber-op assist ([21 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/06/06/chatgpt_for_evil/))
+- Disk Union - 690,667 breached accounts ([11 hours ago](https://haveibeenpwned.com/Breach/DiskUnion))
+- Linux Foundation tries to play peacemaker in ongoing WordPress scuffle ([22 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/06/06/linux_foundation_wordpress_peacemaker/))
+- ChatGPT used for evil: Fake IT worker resumes, misinfo, and cyber-op assist ([22 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/06/06/chatgpt_for_evil/))
 - Microsoft shares script to restore inetpub folder you shouldn’t delete ([1 days ago](https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-script-to-restore-inetpub-folder-you-shouldnt-delete/))
 - Tax resolution firm Optima Tax Relief hit by ransomware, data leaked ([1 days ago](https://www.bleepingcomputer.com/news/security/tax-resolution-firm-optima-tax-relief-hit-by-ransomware-data-leaked/))
 - New Atomic macOS Stealer Campaign Exploits ClickFix to Target Apple Users ([1 days ago](https://thehackernews.com/2025/06/new-atomic-macos-stealer-campaign.html))
@@ -47,7 +47,7 @@ description: SecOps News
 - Trump’s cyber czar pick grilled over CISA cuts: ‘If we have a cyber 9/11, you’re the guy’ ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2025/06/05/trump_cyber_nominee_cairncross/))
 - Misconfigured HMIs Expose US Water Systems to Anyone With a Browser ([1 days ago](https://www.securityweek.com/misconfigured-hmis-expose-us-water-systems-to-anyone-with-a-browser/))
 - Incident with Actions ([1 days ago](https://www.githubstatus.com/incidents/ry1gsyjqj4qh))
-- Take ChatGPT back to the 2010s and they’d think AGI arrived, says Altman ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2025/06/05/openai_altman/))
+- Take ChatGPT back to the 2010s and they’d think AGI arrived, says Altman ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2025/06/05/openai_altman/))
 - Old AT&T data leak repackaged to link SSNs, DOBs to 49M phone numbers ([2 days ago](https://www.bleepingcomputer.com/news/security/old-atandt-data-leak-repackaged-to-link-ssns-dobs-to-49m-phone-numbers/))
 - BidenCash busted as Feds nuke stolen credit card bazaar ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2025/06/05/bidencash_busted/))
 - Hacker selling critical Roundcube webmail exploit as tech info disclosed ([2 days ago](https://www.bleepingcomputer.com/news/security/hacker-selling-critical-roundcube-webmail-exploit-as-tech-info-disclosed/))
@@ -157,7 +157,7 @@ description: SecOps News
 - Pakistan Arrests 21 in ‘Heartsender’ Malware Service ([10 days ago](https://krebsonsecurity.com/2025/05/pakistan-arrests-21-in-heartsender-malware-service/))
 - Disruption with some GitHub services ([10 days ago](https://www.githubstatus.com/incidents/l5jqk83qnfzd))
 - SEC Consult SA-20250521-0 :: Multiple Vulnerabilities in eCharge Hardy Barth cPH2 and cPP2 charging stations ([10 days ago](https://seclists.org/fulldisclosure/2025/May/23))
-- Adidas customers’ personal information at risk after data breach ([10 days ago](https://www.bitdefender.com/en-us/blog/hotforsecurity/adidas-customers-personal-information-at-risk-after-data-breach))
+- Adidas customers’ personal information at risk after data breach ([11 days ago](https://www.bitdefender.com/en-us/blog/hotforsecurity/adidas-customers-personal-information-at-risk-after-data-breach))
 - The AI Fix #52: AI adopts its own social norms, and AI DJ creates diversity scandal ([11 days ago](https://grahamcluley.com/the-ai-fix-52/))
 - Incident with Actions ([11 days ago](https://www.githubstatus.com/incidents/9hzy25gws8vh))
 - Disruption with some GitHub services ([11 days ago](https://www.githubstatus.com/incidents/2fk03fzv6zk0))
@@ -166,7 +166,7 @@ description: SecOps News
 - Weekly Update 453 ([11 days ago](https://www.troyhunt.com/weekly-update-453/))
 - We're experiencing errors ([12 days ago](https://www.githubstatus.com/incidents/d0nm3xcdc5jw))
 - Operation Endgame 2.0 - 15,436,844 breached accounts ([14 days ago](https://haveibeenpwned.com/Breach/OperationEndgame2))
-- Disruption with some GitHub services ([14 days ago](https://www.githubstatus.com/incidents/y71cytztvck9))
+- Disruption with some GitHub services ([15 days ago](https://www.githubstatus.com/incidents/y71cytztvck9))
 - 3AM ransomware attack poses as a call from IT support to compromise networks ([15 days ago](https://www.tripwire.com/state-of-security/3am-ransomware-attackers-pose-it-support-compromise-networks))
 - Fédération Francaise de Rugby - 281,977 breached accounts ([15 days ago](https://haveibeenpwned.com/Breach/FFR))
 - Oops: DanaBot Malware Devs Infected Their Own PCs ([15 days ago](https://krebsonsecurity.com/2025/05/oops-danabot-malware-devs-infected-their-own-pcs/))
@@ -209,6 +209,5 @@ description: SecOps News
 - Weekly Update 451 ([27 days ago](https://www.troyhunt.com/weekly-update-451/))
 - LockBit ransomware gang breached, secrets exposed ([29 days ago](https://www.tripwire.com/state-of-security/lockbit-ransomware-gang-breached-secrets-exposed))
 - After the Breach: Finding new Partners with Solutions for Have I Been Pwned Users ([29 days ago](https://www.troyhunt.com/after-the-breach-finding-new-partners-with-solutions-for-have-i-been-pwned-users/))
-- The 8 CISSP domains explained ([29 days ago](https://www.itgovernance.co.uk/blog/the-8-cissp-domains-explained))
 
 <!-- news_marker ends -->
