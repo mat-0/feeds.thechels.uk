@@ -43,7 +43,7 @@ description: DotNet Updates
 - Announcing dotnet run app.cs - A simpler way to start with C# and .NET 10 - .NET Blog ([9 days ago](https://dotnetkicks.com/r/721481?url=https://devblogs.microsoft.com/dotnet/announcing-dotnet-run-app/))
 - Improve the commands in your extensions - Visual Studio Blog ([9 days ago](https://dotnetkicks.com/r/721458?url=https://devblogs.microsoft.com/visualstudio/improve-the-commands-in-your-extensions/))
 - Announcing dotnet run app.cs – A simpler way to start with C# and .NET 10 ([9 days ago](https://devblogs.microsoft.com/dotnet/announcing-dotnet-run-app/))
-- Symbolically Important Wolverine 3.13.4 Release ([9 days ago](https://dotnetkicks.com/r/721415?url=https://jeremydmiller.com/2025/05/28/symbolically-important-wolverine-3-13-4-release/))
+- Symbolically Important Wolverine 3.13.4 Release ([10 days ago](https://dotnetkicks.com/r/721415?url=https://jeremydmiller.com/2025/05/28/symbolically-important-wolverine-3-13-4-release/))
 - Coding Faster with dotNetTips Spargine: Validating Data Made Easy with Validator ([10 days ago](https://dotnettips.wordpress.com/2025/05/28/coding-faster-with-dotnettips-spargine-validating-data-made-easy-with-validator/))
 - Web Category Filtering ([10 days ago](https://dotnetkicks.com/r/721397?url=https://textslashplain.com/2025/05/27/web-category-filtering/))
 - Circuit Breaker Policy Fine-tuning Best Practice ([10 days ago](https://devblogs.microsoft.com/dotnet/circuit-breaker-policy-finetuning-best-practice/))
