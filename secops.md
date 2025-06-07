@@ -8,10 +8,10 @@ description: SecOps News
 [Get this as an RSS feed](/secops.rss)
 
 <!-- news_marker starts -->
-- Supply chain attack hits Gluestack NPM packages with 960K weekly downloads ([42 minutes ago](https://www.bleepingcomputer.com/news/security/supply-chain-attack-hits-gluestack-npm-packages-with-960k-weekly-downloads/))
+- Supply chain attack hits Gluestack NPM packages with 960K weekly downloads ([1 hours ago](https://www.bleepingcomputer.com/news/security/supply-chain-attack-hits-gluestack-npm-packages-with-960k-weekly-downloads/))
 - Malicious npm packages posing as utilities delete project directories ([6 hours ago](https://www.bleepingcomputer.com/news/security/malicious-npm-packages-posing-as-utilities-delete-project-directories/))
 - Disk Union - 690,667 breached accounts ([13 hours ago](https://haveibeenpwned.com/Breach/DiskUnion))
-- Linux Foundation tries to play peacemaker in ongoing WordPress scuffle ([23 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/06/06/linux_foundation_wordpress_peacemaker/))
+- Linux Foundation tries to play peacemaker in ongoing WordPress scuffle ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2025/06/06/linux_foundation_wordpress_peacemaker/))
 - ChatGPT used for evil: Fake IT worker resumes, misinfo, and cyber-op assist ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2025/06/06/chatgpt_for_evil/))
 - Microsoft shares script to restore inetpub folder you shouldn’t delete ([1 days ago](https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-script-to-restore-inetpub-folder-you-shouldnt-delete/))
 - Tax resolution firm Optima Tax Relief hit by ransomware, data leaked ([1 days ago](https://www.bleepingcomputer.com/news/security/tax-resolution-firm-optima-tax-relief-hit-by-ransomware-data-leaked/))
@@ -182,7 +182,7 @@ description: SecOps News
 - SEC Twitter hack: Man imprisoned for role in attack that caused Bitcoin’s price to soar. ([18 days ago](https://www.bitdefender.com/en-us/blog/hotforsecurity/sec-twitter-hack-bitcoins-price))
 - Software Security Code of Practice - Assurance Principles and Claims (APCs) ([18 days ago](https://www.ncsc.gov.uk/guidance/software-security-code-of-practice-assurance-principles-claims))
 - Decommissioning assets ([18 days ago](https://www.ncsc.gov.uk/guidance/decommissioning-assets))
-- Have I Been Pwned 2.0 is Now Live! ([18 days ago](https://www.troyhunt.com/have-i-been-pwned-2-0-is-now-live/))
+- Have I Been Pwned 2.0 is Now Live! ([19 days ago](https://www.troyhunt.com/have-i-been-pwned-2-0-is-now-live/))
 - The AI Fix nominated for top podcast award. Vote now! ([19 days ago](https://grahamcluley.com/the-ai-fix-nominated-for-top-podcast-award-vote-now/))
 - GitHub Enterprise Importer (GEI) is experiencing degraded throughput ([21 days ago](https://www.githubstatus.com/incidents/71tl7pkqysgw))
 - Weekly Update 452 ([21 days ago](https://www.troyhunt.com/weekly-update-452/))
