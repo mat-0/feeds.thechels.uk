@@ -9,8 +9,8 @@ description: SecOps News
 
 <!-- news_marker starts -->
 - Supply chain attack hits Gluestack NPM packages with 960K weekly downloads ([2 hours ago](https://www.bleepingcomputer.com/news/security/supply-chain-attack-hits-gluestack-npm-packages-with-960k-weekly-downloads/))
-- Malicious npm packages posing as utilities delete project directories ([7 hours ago](https://www.bleepingcomputer.com/news/security/malicious-npm-packages-posing-as-utilities-delete-project-directories/))
-- Disk Union - 690,667 breached accounts ([14 hours ago](https://haveibeenpwned.com/Breach/DiskUnion))
+- Malicious npm packages posing as utilities delete project directories ([8 hours ago](https://www.bleepingcomputer.com/news/security/malicious-npm-packages-posing-as-utilities-delete-project-directories/))
+- Disk Union - 690,667 breached accounts ([15 hours ago](https://haveibeenpwned.com/Breach/DiskUnion))
 - Linux Foundation tries to play peacemaker in ongoing WordPress scuffle ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2025/06/06/linux_foundation_wordpress_peacemaker/))
 - ChatGPT used for evil: Fake IT worker resumes, misinfo, and cyber-op assist ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2025/06/06/chatgpt_for_evil/))
 - Microsoft shares script to restore inetpub folder you shouldn’t delete ([1 days ago](https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-script-to-restore-inetpub-folder-you-shouldnt-delete/))
@@ -43,7 +43,7 @@ description: SecOps News
 - Uncle Sam puts $10M bounty on RedLine dev and Russia-backed cronies ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2025/06/05/rewards_for_justice_maxim_rudometov/))
 - ChatGPT prepares o3-pro model for $200 Pro subscribers ([1 days ago](https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-prepares-o3-pro-model-for-200-pro-subscribers/))
 - Proxy Services Feast on Ukraine’s IP Address Exodus ([1 days ago](https://krebsonsecurity.com/2025/06/proxy-services-feast-on-ukraines-ip-address-exodus/))
-- AT&amp;T not sure if new customer data dump is déjà vu ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2025/06/05/att_investigates_data_dump/))
+- AT&amp;T not sure if new customer data dump is déjà vu ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2025/06/05/att_investigates_data_dump/))
 - FBI: BADBOX 2.0 Android malware infects millions of consumer devices ([2 days ago](https://www.bleepingcomputer.com/news/security/fbi-badbox-20-android-malware-infects-millions-of-consumer-devices/))
 - Cellebrite buys Corellium to help cops bust phone encryption ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2025/06/05/cellebrite_corellium_merger/))
 - Trump’s cyber czar pick grilled over CISA cuts: ‘If we have a cyber 9/11, you’re the guy’ ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2025/06/05/trump_cyber_nominee_cairncross/))
@@ -168,7 +168,7 @@ description: SecOps News
 - Disruption with some GitHub services ([15 days ago](https://www.githubstatus.com/incidents/y71cytztvck9))
 - 3AM ransomware attack poses as a call from IT support to compromise networks ([15 days ago](https://www.tripwire.com/state-of-security/3am-ransomware-attackers-pose-it-support-compromise-networks))
 - Fédération Francaise de Rugby - 281,977 breached accounts ([15 days ago](https://haveibeenpwned.com/Breach/FFR))
-- Oops: DanaBot Malware Devs Infected Their Own PCs ([15 days ago](https://krebsonsecurity.com/2025/05/oops-danabot-malware-devs-infected-their-own-pcs/))
+- Oops: DanaBot Malware Devs Infected Their Own PCs ([16 days ago](https://krebsonsecurity.com/2025/05/oops-danabot-malware-devs-infected-their-own-pcs/))
 - Lessons Learned from the Legal Aid Agency Data Breach ([16 days ago](https://www.itgovernance.co.uk/blog/lessons-learned-from-the-legal-aid-agency-data-breach))
 - Delayed GitHub Actions Jobs ([16 days ago](https://www.githubstatus.com/incidents/cbdzqm5fw0fm))
 - DOJ charges 12 more in $263 million crypto fraud takedown where money was hidden in squishmallow stuffed animals ([16 days ago](https://www.bitdefender.com/en-us/blog/hotforsecurity/doj-charges-12-263-million-crypto-fraud-takedown-where-money-hidden-squishmallow-stuffed-animals))
