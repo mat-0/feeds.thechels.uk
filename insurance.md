@@ -114,7 +114,7 @@ description: Insurance Updates
 - Zurich pilots generative AI to spot claims trends ([3 days ago](https://www.postonline.co.uk/technology/7957786/zurich-pilots-generative-ai-to-spot-claims-trends))
 - What will AI bring to Group Protection? Asks L&G ([3 days ago](https://ifamagazine.com/what-will-ai-bring-to-group-protection-asks-lg/))
 - Generative AI innovations and policy interpretation ([3 days ago](https://www.dig-in.com/opinion/gene-ai-innovations-and-policy-interpretation))
-- Meet the insurtech: Hi Marley ([3 days ago](https://www.dig-in.com/news/meet-the-insurtech-hi-marley))
+- Meet the insurtech: Hi Marley ([4 days ago](https://www.dig-in.com/news/meet-the-insurtech-hi-marley))
 - What data or technology can insurers use to better manage risks? ([4 days ago](https://www.dig-in.com/news/insurers-turn-to-ai-new-data-for-risk-assessment-boosts))
 - Wealth Management Study identifies size of HNW international life insurance market for first time ([4 days ago](https://ifamagazine.com/wealth-management-study-identifies-size-of-hnw-international-life-insurance-market-for-first-time/))
 - Guardian’s second claims report show 40% year-on-year growth in claims paid in 2024 ([4 days ago](https://ifamagazine.com/guardians-second-claims-report-show-40-year-on-year-growth-in-claims-paid-in-2024/))
