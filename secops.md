@@ -9,8 +9,8 @@ description: SecOps News
 
 <!-- news_marker starts -->
 - Supply chain attack hits Gluestack NPM packages with 960K weekly downloads ([11 hours ago](https://www.bleepingcomputer.com/news/security/supply-chain-attack-hits-gluestack-npm-packages-with-960k-weekly-downloads/))
-- Malicious npm packages posing as utilities delete project directories ([16 hours ago](https://www.bleepingcomputer.com/news/security/malicious-npm-packages-posing-as-utilities-delete-project-directories/))
-- Disk Union - 690,667 breached accounts ([23 hours ago](https://haveibeenpwned.com/Breach/DiskUnion))
+- Malicious npm packages posing as utilities delete project directories ([17 hours ago](https://www.bleepingcomputer.com/news/security/malicious-npm-packages-posing-as-utilities-delete-project-directories/))
+- Disk Union - 690,667 breached accounts ([1 days ago](https://haveibeenpwned.com/Breach/DiskUnion))
 - Linux Foundation tries to play peacemaker in ongoing WordPress scuffle ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2025/06/06/linux_foundation_wordpress_peacemaker/))
 - ChatGPT used for evil: Fake IT worker resumes, misinfo, and cyber-op assist ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2025/06/06/chatgpt_for_evil/))
 - Microsoft shares script to restore inetpub folder you shouldn’t delete ([1 days ago](https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-script-to-restore-inetpub-folder-you-shouldnt-delete/))
@@ -161,7 +161,7 @@ description: SecOps News
 - Incident with Actions ([11 days ago](https://www.githubstatus.com/incidents/9hzy25gws8vh))
 - Disruption with some GitHub services ([11 days ago](https://www.githubstatus.com/incidents/2fk03fzv6zk0))
 - [Retroactive] Incident with Git Operations ([11 days ago](https://www.githubstatus.com/incidents/tyjjp463pg91))
-- Free - 13,926,173 breached accounts ([11 days ago](https://haveibeenpwned.com/Breach/FreeMobile))
+- Free - 13,926,173 breached accounts ([12 days ago](https://haveibeenpwned.com/Breach/FreeMobile))
 - Weekly Update 453 ([12 days ago](https://www.troyhunt.com/weekly-update-453/))
 - We're experiencing errors ([12 days ago](https://www.githubstatus.com/incidents/d0nm3xcdc5jw))
 - Operation Endgame 2.0 - 15,436,844 breached accounts ([15 days ago](https://haveibeenpwned.com/Breach/OperationEndgame2))
