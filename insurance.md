@@ -9,7 +9,7 @@ description: Insurance Updates
 
 <!-- news_marker starts -->
 - Are Online Financial Influencers a Menace? ([1 days ago](https://insurance-edge.net/2025/06/07/are-online-financial-influencers-a-menace/))
-- B.P. Marsh Subscribes to 49% Shareholding in Amiga ([1 days ago](https://insurance-edge.net/2025/06/06/b-p-marsh-subscribes-to-49-shareholding-in-amiga/))
+- B.P. Marsh Subscribes to 49% Shareholding in Amiga ([2 days ago](https://insurance-edge.net/2025/06/06/b-p-marsh-subscribes-to-49-shareholding-in-amiga/))
 - IFoA Comments on Pension Schemes Bill ([2 days ago](https://insurance-edge.net/2025/06/06/ifoa-comments-on-pension-schemes-bill/))
 - Conning Report Looks at US State Credit & Budgets ([2 days ago](https://insurance-edge.net/2025/06/06/conning-report-looks-at-us-state-credit-budgets/))
 - Can a Wedding Celebration Lead to Points on Your Licence? ([2 days ago](https://insurance-edge.net/2025/06/06/can-a-wedding-celebration-lead-to-points-on-your-licence/))
