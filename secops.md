@@ -9,7 +9,7 @@ description: SecOps News
 
 <!-- news_marker starts -->
 - Malicious Browser Extensions Infect 722 Users Across Latin America Since Early 2025 ([3 hours ago](https://thehackernews.com/2025/06/malicious-browser-extensions-infect-722.html))
-- Supply chain attack hits Gluestack NPM packages with 960K weekly downloads ([15 hours ago](https://www.bleepingcomputer.com/news/security/supply-chain-attack-hits-gluestack-npm-packages-with-960k-weekly-downloads/))
+- Supply chain attack hits Gluestack NPM packages with 960K weekly downloads ([16 hours ago](https://www.bleepingcomputer.com/news/security/supply-chain-attack-hits-gluestack-npm-packages-with-960k-weekly-downloads/))
 - Malicious npm packages posing as utilities delete project directories ([21 hours ago](https://www.bleepingcomputer.com/news/security/malicious-npm-packages-posing-as-utilities-delete-project-directories/))
 - Disk Union - 690,667 breached accounts ([1 days ago](https://haveibeenpwned.com/Breach/DiskUnion))
 - Linux Foundation tries to play peacemaker in ongoing WordPress scuffle ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2025/06/06/linux_foundation_wordpress_peacemaker/))
@@ -28,7 +28,7 @@ description: SecOps News
 - Microsoft Helps CBI Dismantle Indian Call Centers Behind Japanese Tech Support Scam ([1 days ago](https://thehackernews.com/2025/06/microsoft-helps-cbi-dismantle-indian.html))
 - Incident with Copilot ([1 days ago](https://www.githubstatus.com/incidents/wqrqgd9gyvz5))
 - Cybersecurity M&A Roundup: 42 Deals Announced in May 2025 ([1 days ago](https://www.securityweek.com/cybersecurity-ma-roundup-42-deals-announced-in-may-2025/))
-- Your ransomware nightmare just came true – now what? ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2025/06/06/ransomware_negotiation/))
+- Your ransomware nightmare just came true – now what? ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2025/06/06/ransomware_negotiation/))
 - MIND Raises $30 Million for Data Loss Prevention ([2 days ago](https://www.securityweek.com/mind-raises-30-million-for-data-loss-prevention-platform/))
 - US offers $10 million reward for tips about state-linked RedLine hackers ([2 days ago](https://www.tripwire.com/state-of-security/us-offers-10-million-reward-tips-about-state-linked-redline-cybercriminals))
 - Inside the Mind of the Adversary: Why More Security Leaders Are Selecting AEV ([2 days ago](https://thehackernews.com/2025/06/inside-mind-of-adversary-why-more.html))
@@ -62,8 +62,8 @@ description: SecOps News
 - LinkedIn CEO takes on second gig to lead Microsoft Office and M365 Copilot ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2025/06/05/linkedin_ceo_copilot_office/))
 - Datacenters have a public image problem, industry confesses to The Reg ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2025/06/05/datacenters_have_a_public_image/))
 - Controversial Firms Cellebrite and Corellium Announce $200 Million Acquisition Deal ([2 days ago](https://www.securityweek.com/controversial-firms-cellebrite-and-corellium-announce-200-million-acquisition-deal/))
-- Redefining Cyber Value: Why Business Impact Should Lead the Security Conversation ([2 days ago](https://thehackernews.com/2025/06/redefining-cyber-value-why-business.html))
-- Industry reacts to DuckDB's radical rethink of Lakehouse architecture ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2025/06/05/ducklake_db_industry_reacts/))
+- Redefining Cyber Value: Why Business Impact Should Lead the Security Conversation ([3 days ago](https://thehackernews.com/2025/06/redefining-cyber-value-why-business.html))
+- Industry reacts to DuckDB's radical rethink of Lakehouse architecture ([3 days ago](https://go.theregister.com/feed/www.theregister.com/2025/06/05/ducklake_db_industry_reacts/))
 - Iran-Linked BladedFeline Hits Iraqi and Kurdish Targets with Whisper and Spearal Malware ([3 days ago](https://thehackernews.com/2025/06/iran-linked-bladedfeline-hits-iraqi-and.html))
 - HMRC: Crooks broke into 100k accounts, stole £43M from British taxpayer in late 2024 ([3 days ago](https://go.theregister.com/feed/www.theregister.com/2025/06/05/hmrc_fraudsters_broke_into_100k/))
 - DoJ Seizes 145 Domains Tied to BidenCash Carding Marketplace in Global Takedown ([3 days ago](https://thehackernews.com/2025/06/doj-seizes-145-domains-tied-to.html))
@@ -189,7 +189,7 @@ description: SecOps News
 - Impact of AI on cyber threat from now to 2027 ([22 days ago](https://www.ncsc.gov.uk/report/impact-ai-cyber-threat-now-2027))
 - Disruption with some GitHub services ([22 days ago](https://www.githubstatus.com/incidents/3nn1p9h5b76h))
 - How to Spot a Phishing Email in 2025 –with Real Examples and Red Flags ([22 days ago](https://www.itgovernance.co.uk/blog/5-ways-to-detect-a-phishing-email))
-- Prescription for disaster: Sensitive patient data leaked in Ascension breach ([22 days ago](https://www.fortra.com/blog/prescription-disaster-sensitive-patient-data-leaked-ascension-hack))
+- Prescription for disaster: Sensitive patient data leaked in Ascension breach ([23 days ago](https://www.fortra.com/blog/prescription-disaster-sensitive-patient-data-leaked-ascension-hack))
 - Disruption with Gemini 2.5 Pro ([23 days ago](https://www.githubstatus.com/incidents/pzrqw1n5ynw3))
 - Breachforums Boss to Pay $700k in Healthcare Breach ([23 days ago](https://krebsonsecurity.com/2025/05/breachforums-boss-to-pay-700k-in-healthcare-breach/))
 - Welcoming the Malaysian Government to Have I Been Pwned ([23 days ago](https://www.troyhunt.com/welcoming-the-malaysian-government-to-have-i-been-pwned/))
@@ -206,6 +206,5 @@ description: SecOps News
 - Russian GRU Targeting Western Logistics Entities and Technology Companies ([26 days ago](https://www.cisa.gov/news-events/cybersecurity-advisories/aa25-141a))
 - Disruption with some GitHub services ([26 days ago](https://www.githubstatus.com/incidents/gxf0jzns6rn2))
 - Weekly Update 451 ([28 days ago](https://www.troyhunt.com/weekly-update-451/))
-- LockBit ransomware gang breached, secrets exposed ([29 days ago](https://www.tripwire.com/state-of-security/lockbit-ransomware-gang-breached-secrets-exposed))
 
 <!-- news_marker ends -->
