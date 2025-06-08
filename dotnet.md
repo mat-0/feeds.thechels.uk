@@ -8,7 +8,7 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- CollabTalk Podcast: Veteran Engineers Aren’t Done Yet – They’re Just Getting Started ([10 hours ago](https://dotnettips.wordpress.com/2025/06/07/collabtalk-podcast-veteran-engineers-arent-done-yet-theyre-just-getting-started/))
+- CollabTalk Podcast: Veteran Engineers Aren’t Done Yet – They’re Just Getting Started ([11 hours ago](https://dotnettips.wordpress.com/2025/06/07/collabtalk-podcast-veteran-engineers-arent-done-yet-theyre-just-getting-started/))
 - Adding Extension Properties with State to Types, (Sort of) In Spargine ([1 days ago](https://dotnettips.wordpress.com/2025/06/06/adding-extension-properties-to-types-sort-of-in-spargine/))
 - Emit logs on-demand with log buffering - .NET Blog ([2 days ago](https://dotnetkicks.com/r/722131?url=https://devblogs.microsoft.com/dotnet/emit-logs-on-demand-with-log-buffering/))
 - Emit logs on-demand with log buffering ([2 days ago](https://devblogs.microsoft.com/dotnet/emit-logs-on-demand-with-log-buffering/))

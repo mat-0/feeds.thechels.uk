@@ -8,9 +8,9 @@ description: SecOps News
 [Get this as an RSS feed](/secops.rss)
 
 <!-- news_marker starts -->
-- Supply chain attack hits Gluestack NPM packages with 960K weekly downloads ([5 hours ago](https://www.bleepingcomputer.com/news/security/supply-chain-attack-hits-gluestack-npm-packages-with-960k-weekly-downloads/))
-- Malicious npm packages posing as utilities delete project directories ([10 hours ago](https://www.bleepingcomputer.com/news/security/malicious-npm-packages-posing-as-utilities-delete-project-directories/))
-- Disk Union - 690,667 breached accounts ([17 hours ago](https://haveibeenpwned.com/Breach/DiskUnion))
+- Supply chain attack hits Gluestack NPM packages with 960K weekly downloads ([6 hours ago](https://www.bleepingcomputer.com/news/security/supply-chain-attack-hits-gluestack-npm-packages-with-960k-weekly-downloads/))
+- Malicious npm packages posing as utilities delete project directories ([11 hours ago](https://www.bleepingcomputer.com/news/security/malicious-npm-packages-posing-as-utilities-delete-project-directories/))
+- Disk Union - 690,667 breached accounts ([18 hours ago](https://haveibeenpwned.com/Breach/DiskUnion))
 - Linux Foundation tries to play peacemaker in ongoing WordPress scuffle ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2025/06/06/linux_foundation_wordpress_peacemaker/))
 - ChatGPT used for evil: Fake IT worker resumes, misinfo, and cyber-op assist ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2025/06/06/chatgpt_for_evil/))
 - Microsoft shares script to restore inetpub folder you shouldn’t delete ([1 days ago](https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-script-to-restore-inetpub-folder-you-shouldnt-delete/))
@@ -196,7 +196,7 @@ description: SecOps News
 - Codespaces Scheduled Maintenance ([23 days ago](https://www.githubstatus.com/incidents/bs901hhxgw33))
 - Disruption with some GitHub services ([23 days ago](https://www.githubstatus.com/incidents/hjylhb7b8zcq))
 - Data breaches: guidance for individuals and families ([23 days ago](https://www.ncsc.gov.uk/guidance/data-breaches))
-- Disruption with Gemini 2.5 Pro model ([23 days ago](https://www.githubstatus.com/incidents/kpv13bbn84n5))
+- Disruption with Gemini 2.5 Pro model ([24 days ago](https://www.githubstatus.com/incidents/kpv13bbn84n5))
 - Smashing Security podcast #417: Hello, Pervert! – Sextortion scams and Discord disasters ([24 days ago](https://grahamcluley.com/smashing-security-podcast-417/))
 - Patch Tuesday, May 2025 Edition ([24 days ago](https://krebsonsecurity.com/2025/05/patch-tuesday-may-2025-edition/))
 - The AI Fix #50: AI brings dead man back for killer’s trial, and the judge loves it ([25 days ago](https://grahamcluley.com/the-ai-fix-50/))
