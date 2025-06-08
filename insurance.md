@@ -71,7 +71,7 @@ description: Insurance Updates
 - Questions raised by insurers’ lopsided AI investments ([2 days ago](https://www.postonline.co.uk/technology/7957812/questions-raised-by-insurers%E2%80%99-lopsided-ai-investments))
 - How AI chatbots are revolutionizing insurance customer service ([2 days ago](https://www.dig-in.com/opinion/how-ai-chatbots-revolutionize-insurance-customer-service))
 - Creating a strategy for managing third-party cyber breaches ([2 days ago](https://www.dig-in.com/opinion/how-to-manage-third-party-cyber-breaches))
-- European Watch Company Partners with Chubb to Offer Specialized Global Coverage for Luxury Timepieces ([2 days ago](https://www.insurtechinsights.com/european-watch-company-partners-with-chubb-to-offer-specialized-global-coverage-for-luxury-timepieces/))
+- European Watch Company Partners with Chubb to Offer Specialized Global Coverage for Luxury Timepieces ([3 days ago](https://www.insurtechinsights.com/european-watch-company-partners-with-chubb-to-offer-specialized-global-coverage-for-luxury-timepieces/))
 - Ryan Specialty to Acquire J.M. Wilson Corporation, Expanding Midwest Binding Authority Presence ([3 days ago](https://www.insurtechinsights.com/ryan-specialty-to-acquire-j-m-wilson-corporation-expanding-midwest-binding-authority-presence/))
 - Auto Windscreens calls for more regulation in vehicle repairs ([3 days ago](https://www.postonline.co.uk/news/7957876/auto-windscreens-calls-for-more-regulation-in-vehicle-repairs))
 - Mexican Insurtech Crabi Raises $13.6M to Scale Digital Auto Insurance Offering ([3 days ago](https://www.insurtechinsights.com/mexican-insurtech-crabi-raises-13-6m-to-scale-digital-auto-insurance-offering/))
