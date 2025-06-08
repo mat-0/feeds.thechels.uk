@@ -9,7 +9,7 @@ description: DotNet Updates
 
 <!-- news_marker starts -->
 - Boost Your .NET Projects: Maximize Thread-Safe Performance in .NET with Spargine’s DistinctBlockingCollection ([5 hours ago](https://dotnettips.wordpress.com/2025/06/08/boost-your-net-projects-maximize-thread-safe-performance-in-net-with-spargines-distinctblockingcollection/))
-- F# Weekly #23, 2025 - Catch up on Microsoft Build ([12 hours ago](https://dotnetkicks.com/r/722226?url=https://sergeytihon.com/2025/06/07/f-weekly-23-2025-catch-up-on-microsoft-build/))
+- F# Weekly #23, 2025 - Catch up on Microsoft Build ([13 hours ago](https://dotnetkicks.com/r/722226?url=https://sergeytihon.com/2025/06/07/f-weekly-23-2025-catch-up-on-microsoft-build/))
 - CollabTalk Podcast: Veteran Engineers Aren’t Done Yet – They’re Just Getting Started ([1 days ago](https://dotnettips.wordpress.com/2025/06/07/collabtalk-podcast-veteran-engineers-arent-done-yet-theyre-just-getting-started/))
 - Adding Extension Properties with State to Types, (Sort of) In Spargine ([2 days ago](https://dotnettips.wordpress.com/2025/06/06/adding-extension-properties-to-types-sort-of-in-spargine/))
 - Emit logs on-demand with log buffering - .NET Blog ([3 days ago](https://dotnetkicks.com/r/722131?url=https://devblogs.microsoft.com/dotnet/emit-logs-on-demand-with-log-buffering/))
@@ -29,7 +29,7 @@ description: DotNet Updates
 - dotInsights  -  June 2025 ([5 days ago](https://blog.jetbrains.com/dotnet/2025/06/03/dotinsights-june-2025/))
 - Creating your first sample game with MonoGame ([5 days ago](https://dotnetkicks.com/r/721929?url=https://andrewlock.net/creating-your-first-sample-game-with-monogame/))
 - Creating your first sample game with MonoGame ([5 days ago](https://andrewlock.net/creating-your-first-sample-game-with-monogame/))
-- Making Event Sourcing with Marten Go Faster ([5 days ago](https://dotnetkicks.com/r/721912?url=https://jeremydmiller.com/2025/06/02/making-event-sourcing-with-marten-go-faster/))
+- Making Event Sourcing with Marten Go Faster ([6 days ago](https://dotnetkicks.com/r/721912?url=https://jeremydmiller.com/2025/06/02/making-event-sourcing-with-marten-go-faster/))
 - Extension Manager updates in Visual Studio - Visual Studio Blog ([6 days ago](https://dotnetkicks.com/r/721892?url=https://devblogs.microsoft.com/visualstudio/extension-manager-updates-in-visual-studio/))
 - Azure Container Apps Vs AKS: Which Is Right For Your Enterprise Application?  -  Build5Nines ([6 days ago](https://dotnetkicks.com/r/721787?url=https://build5nines.com/azure-container-apps-vs-aks-which-is-right-for-your-enterprise-application/))
 - F# Weekly #22, 2025 - Ionide with Cursor ([6 days ago](https://dotnetkicks.com/r/721784?url=https://sergeytihon.com/2025/06/01/f-weekly-22-2025-ionide-with-cursor/))
