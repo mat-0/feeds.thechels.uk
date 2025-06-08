@@ -9,10 +9,10 @@ description: SecOps News
 
 <!-- news_marker starts -->
 - New Mirai botnet infect TBK DVR devices via command injection flaw ([3 hours ago](https://www.bleepingcomputer.com/news/security/new-mirai-botnet-infect-tbk-dvr-devices-via-command-injection-flaw/))
-- New Supply Chain Malware Operation Hits npm and PyPI Ecosystems, Targeting Millions Globally ([3 hours ago](https://thehackernews.com/2025/06/new-supply-chain-malware-operation-hits.html))
-- Enterprises are getting stuck in AI pilot hell, say Chatterbox Labs execs ([4 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/06/08/chatterbox_labs_ai_adoption/))
-- Enterprises are getting stuck in AI pilot hell, say Chatterbox Labs execs ([4 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/06/08/chatterbox_labs_ai_adoption/))
-- Malicious Browser Extensions Infect Over 700 Users Across Latin America Since Early 2025 ([9 hours ago](https://thehackernews.com/2025/06/malicious-browser-extensions-infect-722.html))
+- New Supply Chain Malware Operation Hits npm and PyPI Ecosystems, Targeting Millions Globally ([4 hours ago](https://thehackernews.com/2025/06/new-supply-chain-malware-operation-hits.html))
+- Enterprises are getting stuck in AI pilot hell, say Chatterbox Labs execs ([5 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/06/08/chatterbox_labs_ai_adoption/))
+- Enterprises are getting stuck in AI pilot hell, say Chatterbox Labs execs ([5 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/06/08/chatterbox_labs_ai_adoption/))
+- Malicious Browser Extensions Infect Over 700 Users Across Latin America Since Early 2025 ([10 hours ago](https://thehackernews.com/2025/06/malicious-browser-extensions-infect-722.html))
 - Malware found in NPM packages with 1 million weekly downloads ([22 hours ago](https://www.bleepingcomputer.com/news/security/supply-chain-attack-hits-gluestack-npm-packages-with-960k-weekly-downloads/))
 - Malicious npm packages posing as utilities delete project directories ([1 days ago](https://www.bleepingcomputer.com/news/security/malicious-npm-packages-posing-as-utilities-delete-project-directories/))
 - Disk Union - 690,667 breached accounts ([1 days ago](https://haveibeenpwned.com/Breach/DiskUnion))
