@@ -8,8 +8,8 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- F# Weekly #23, 2025 - Catch up on Microsoft Build ([1 hours ago](https://dotnetkicks.com/r/722226?url=https://sergeytihon.com/2025/06/07/f-weekly-23-2025-catch-up-on-microsoft-build/))
-- CollabTalk Podcast: Veteran Engineers Aren’t Done Yet – They’re Just Getting Started ([20 hours ago](https://dotnettips.wordpress.com/2025/06/07/collabtalk-podcast-veteran-engineers-arent-done-yet-theyre-just-getting-started/))
+- F# Weekly #23, 2025 - Catch up on Microsoft Build ([2 hours ago](https://dotnetkicks.com/r/722226?url=https://sergeytihon.com/2025/06/07/f-weekly-23-2025-catch-up-on-microsoft-build/))
+- CollabTalk Podcast: Veteran Engineers Aren’t Done Yet – They’re Just Getting Started ([21 hours ago](https://dotnettips.wordpress.com/2025/06/07/collabtalk-podcast-veteran-engineers-arent-done-yet-theyre-just-getting-started/))
 - Adding Extension Properties with State to Types, (Sort of) In Spargine ([2 days ago](https://dotnettips.wordpress.com/2025/06/06/adding-extension-properties-to-types-sort-of-in-spargine/))
 - Emit logs on-demand with log buffering - .NET Blog ([2 days ago](https://dotnetkicks.com/r/722131?url=https://devblogs.microsoft.com/dotnet/emit-logs-on-demand-with-log-buffering/))
 - Emit logs on-demand with log buffering ([2 days ago](https://devblogs.microsoft.com/dotnet/emit-logs-on-demand-with-log-buffering/))
@@ -59,8 +59,8 @@ description: DotNet Updates
 - Accelerate Your .NET Upgrades with GitHub Copilot ([19 days ago](https://devblogs.microsoft.com/dotnet/github-copilot-upgrade-dotnet/))
 - JetBrains AI Assistant – Now in Visual Studio Code ([19 days ago](https://blog.jetbrains.com/ai/2025/05/jetbrains-ai-assistant-now-in-visual-studio-code/))
 - ReSharper Comes to Microsoft Visual Studio Code: Public Preview Now Open ([19 days ago](https://blog.jetbrains.com/dotnet/2025/05/19/resharper-comes-to-microsoft-visual-studio-code/))
-- Rider 2025.2 Early Access Program Is Live! ([22 days ago](https://blog.jetbrains.com/dotnet/2025/05/16/rider-2025-2-eap-1/))
-- The Early Access Program for ReSharper and .NET Tools 2025.2 Has Begun! ([22 days ago](https://blog.jetbrains.com/dotnet/2025/05/16/resharper-2025-2-eap-1/))
+- Rider 2025.2 Early Access Program Is Live! ([23 days ago](https://blog.jetbrains.com/dotnet/2025/05/16/rider-2025-2-eap-1/))
+- The Early Access Program for ReSharper and .NET Tools 2025.2 Has Begun! ([23 days ago](https://blog.jetbrains.com/dotnet/2025/05/16/resharper-2025-2-eap-1/))
 - Evaluating content safety in your .NET AI applications ([23 days ago](https://devblogs.microsoft.com/dotnet/evaluating-ai-content-safety/))
 - Using the new AI template to create a chatbot about a website ([26 days ago](https://andrewlock.net/using-the-new-ai-template-to-create-a-chatbot-about-a-website/))
 
