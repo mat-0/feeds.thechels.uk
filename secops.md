@@ -8,7 +8,7 @@ description: SecOps News
 [Get this as an RSS feed](/secops.rss)
 
 <!-- news_marker starts -->
-- New Mirai botnet infect TBK DVR devices via command injection flaw ([5 hours ago](https://www.bleepingcomputer.com/news/security/new-mirai-botnet-infect-tbk-dvr-devices-via-command-injection-flaw/))
+- New Mirai botnet infect TBK DVR devices via command injection flaw ([6 hours ago](https://www.bleepingcomputer.com/news/security/new-mirai-botnet-infect-tbk-dvr-devices-via-command-injection-flaw/))
 - New Supply Chain Malware Operation Hits npm and PyPI Ecosystems, Targeting Millions Globally ([6 hours ago](https://thehackernews.com/2025/06/new-supply-chain-malware-operation-hits.html))
 - Enterprises are getting stuck in AI pilot hell, say Chatterbox Labs execs ([7 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/06/08/chatterbox_labs_ai_adoption/))
 - Enterprises are getting stuck in AI pilot hell, say Chatterbox Labs execs ([7 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/06/08/chatterbox_labs_ai_adoption/))
@@ -16,7 +16,7 @@ description: SecOps News
 - Malware found in NPM packages with 1 million weekly downloads ([1 days ago](https://www.bleepingcomputer.com/news/security/supply-chain-attack-hits-gluestack-npm-packages-with-960k-weekly-downloads/))
 - Malicious npm packages posing as utilities delete project directories ([1 days ago](https://www.bleepingcomputer.com/news/security/malicious-npm-packages-posing-as-utilities-delete-project-directories/))
 - Disk Union - 690,667 breached accounts ([1 days ago](https://haveibeenpwned.com/Breach/DiskUnion))
-- Linux Foundation tries to play peacemaker in ongoing WordPress scuffle ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2025/06/06/linux_foundation_wordpress_peacemaker/))
+- Linux Foundation tries to play peacemaker in ongoing WordPress scuffle ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2025/06/06/linux_foundation_wordpress_peacemaker/))
 - ChatGPT used for evil: Fake IT worker resumes, misinfo, and cyber-op assist ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2025/06/06/chatgpt_for_evil/))
 - Microsoft shares script to restore inetpub folder you shouldn’t delete ([2 days ago](https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-script-to-restore-inetpub-folder-you-shouldnt-delete/))
 - Tax resolution firm Optima Tax Relief hit by ransomware, data leaked ([2 days ago](https://www.bleepingcomputer.com/news/security/tax-resolution-firm-optima-tax-relief-hit-by-ransomware-data-leaked/))
@@ -182,7 +182,7 @@ description: SecOps News
 - SEC Twitter hack: Man imprisoned for role in attack that caused Bitcoin’s price to soar. ([19 days ago](https://www.bitdefender.com/en-us/blog/hotforsecurity/sec-twitter-hack-bitcoins-price))
 - Software Security Code of Practice - Assurance Principles and Claims (APCs) ([19 days ago](https://www.ncsc.gov.uk/guidance/software-security-code-of-practice-assurance-principles-claims))
 - Decommissioning assets ([19 days ago](https://www.ncsc.gov.uk/guidance/decommissioning-assets))
-- Have I Been Pwned 2.0 is Now Live! ([19 days ago](https://www.troyhunt.com/have-i-been-pwned-2-0-is-now-live/))
+- Have I Been Pwned 2.0 is Now Live! ([20 days ago](https://www.troyhunt.com/have-i-been-pwned-2-0-is-now-live/))
 - The AI Fix nominated for top podcast award. Vote now! ([20 days ago](https://grahamcluley.com/the-ai-fix-nominated-for-top-podcast-award-vote-now/))
 - GitHub Enterprise Importer (GEI) is experiencing degraded throughput ([22 days ago](https://www.githubstatus.com/incidents/71tl7pkqysgw))
 - Weekly Update 452 ([22 days ago](https://www.troyhunt.com/weekly-update-452/))
