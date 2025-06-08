@@ -8,9 +8,9 @@ description: SecOps News
 [Get this as an RSS feed](/secops.rss)
 
 <!-- news_marker starts -->
-- Supply chain attack hits Gluestack NPM packages with 960K weekly downloads ([7 hours ago](https://www.bleepingcomputer.com/news/security/supply-chain-attack-hits-gluestack-npm-packages-with-960k-weekly-downloads/))
-- Malicious npm packages posing as utilities delete project directories ([12 hours ago](https://www.bleepingcomputer.com/news/security/malicious-npm-packages-posing-as-utilities-delete-project-directories/))
-- Disk Union - 690,667 breached accounts ([19 hours ago](https://haveibeenpwned.com/Breach/DiskUnion))
+- Supply chain attack hits Gluestack NPM packages with 960K weekly downloads ([8 hours ago](https://www.bleepingcomputer.com/news/security/supply-chain-attack-hits-gluestack-npm-packages-with-960k-weekly-downloads/))
+- Malicious npm packages posing as utilities delete project directories ([13 hours ago](https://www.bleepingcomputer.com/news/security/malicious-npm-packages-posing-as-utilities-delete-project-directories/))
+- Disk Union - 690,667 breached accounts ([20 hours ago](https://haveibeenpwned.com/Breach/DiskUnion))
 - Linux Foundation tries to play peacemaker in ongoing WordPress scuffle ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2025/06/06/linux_foundation_wordpress_peacemaker/))
 - ChatGPT used for evil: Fake IT worker resumes, misinfo, and cyber-op assist ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2025/06/06/chatgpt_for_evil/))
 - Microsoft shares script to restore inetpub folder you shouldn’t delete ([1 days ago](https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-script-to-restore-inetpub-folder-you-shouldnt-delete/))
@@ -155,7 +155,7 @@ description: SecOps News
 - Smashing Security podcast #419: Star Wars, the CIA, and a WhatsApp malware mirage ([10 days ago](https://grahamcluley.com/smashing-security-podcast-419/))
 - Pakistan Arrests 21 in ‘Heartsender’ Malware Service ([10 days ago](https://krebsonsecurity.com/2025/05/pakistan-arrests-21-in-heartsender-malware-service/))
 - Disruption with some GitHub services ([10 days ago](https://www.githubstatus.com/incidents/l5jqk83qnfzd))
-- SEC Consult SA-20250521-0 :: Multiple Vulnerabilities in eCharge Hardy Barth cPH2 and cPP2 charging stations ([10 days ago](https://seclists.org/fulldisclosure/2025/May/23))
+- SEC Consult SA-20250521-0 :: Multiple Vulnerabilities in eCharge Hardy Barth cPH2 and cPP2 charging stations ([11 days ago](https://seclists.org/fulldisclosure/2025/May/23))
 - Adidas customers’ personal information at risk after data breach ([11 days ago](https://www.bitdefender.com/en-us/blog/hotforsecurity/adidas-customers-personal-information-at-risk-after-data-breach))
 - The AI Fix #52: AI adopts its own social norms, and AI DJ creates diversity scandal ([11 days ago](https://grahamcluley.com/the-ai-fix-52/))
 - Incident with Actions ([11 days ago](https://www.githubstatus.com/incidents/9hzy25gws8vh))

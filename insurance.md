@@ -8,7 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Are Online Financial Influencers a Menace? ([17 hours ago](https://insurance-edge.net/2025/06/07/are-online-financial-influencers-a-menace/))
+- Are Online Financial Influencers a Menace? ([18 hours ago](https://insurance-edge.net/2025/06/07/are-online-financial-influencers-a-menace/))
 - B.P. Marsh Subscribes to 49% Shareholding in Amiga ([1 days ago](https://insurance-edge.net/2025/06/06/b-p-marsh-subscribes-to-49-shareholding-in-amiga/))
 - IFoA Comments on Pension Schemes Bill ([1 days ago](https://insurance-edge.net/2025/06/06/ifoa-comments-on-pension-schemes-bill/))
 - Conning Report Looks at US State Credit & Budgets ([1 days ago](https://insurance-edge.net/2025/06/06/conning-report-looks-at-us-state-credit-budgets/))
