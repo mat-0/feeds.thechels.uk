@@ -8,7 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Insurtech Insights New York reporter's notebook ([2 hours ago](https://www.dig-in.com/news/insurtech-insights-new-york-reporters-notebook))
+- Insurtech Insights New York reporter's notebook ([3 hours ago](https://www.dig-in.com/news/insurtech-insights-new-york-reporters-notebook))
 - Improving organizational data practices to leverage AI ([3 hours ago](https://www.dig-in.com/opinion/improving-organizational-data-practices-to-leverage-ai))
 - How does funding affect severe weather forecasts for insurers? ([3 hours ago](https://www.dig-in.com/news/funding-impacts-weather-forecasts-for-insurers))
 - Are Online Financial Influencers a Menace? ([1 days ago](https://insurance-edge.net/2025/06/07/are-online-financial-influencers-a-menace/))
