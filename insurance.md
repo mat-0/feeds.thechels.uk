@@ -16,7 +16,7 @@ description: Insurance Updates
 - Gambling Addiction In Pakistan: Why There Is No Self-Exclusion? ([1 days ago](https://insurance-edge.net/2025/06/06/gambling-addiction-in-pakistan-why-there-is-no-self-exclusion/))
 - Hub International Acquires Wycoff Insurance Agency in Washington ([1 days ago](https://www.insurancejournal.com/news/west/2025/06/06/826626.htm))
 - Homeowners Suing AAA Insurers and USAA over LA Wildfires ([1 days ago](https://www.insurancejournal.com/news/west/2025/06/06/826665.htm))
-- Texas Lawmakers Reined in Recreational THC for More Medical Marijuana ([1 days ago](https://www.insurancejournal.com/news/southcentral/2025/06/06/826661.htm))
+- Texas Lawmakers Reined in Recreational THC for More Medical Marijuana ([2 days ago](https://www.insurancejournal.com/news/southcentral/2025/06/06/826661.htm))
 - Scientists Take on Severe Storms to Study Hail, Costliest Weather Danger ([2 days ago](https://www.insurancejournal.com/news/southcentral/2025/06/06/826657.htm))
 - Transamerica Life Bermuda to establish in Dubai following DFSA licence approval ([2 days ago](https://www.reinsurancene.ws/transamerica-life-bermuda-to-establish-in-dubai-following-dfsa-licence-approval/))
 - Mattel Settles Baby Sleeper Death Suits Before Start of a Trial ([2 days ago](https://www.insurancejournal.com/news/national/2025/06/06/826650.htm))
