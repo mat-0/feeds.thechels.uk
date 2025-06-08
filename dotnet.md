@@ -9,7 +9,7 @@ description: DotNet Updates
 
 <!-- news_marker starts -->
 - F# Weekly #23, 2025 - Catch up on Microsoft Build ([4 hours ago](https://dotnetkicks.com/r/722226?url=https://sergeytihon.com/2025/06/07/f-weekly-23-2025-catch-up-on-microsoft-build/))
-- CollabTalk Podcast: Veteran Engineers Aren’t Done Yet – They’re Just Getting Started ([22 hours ago](https://dotnettips.wordpress.com/2025/06/07/collabtalk-podcast-veteran-engineers-arent-done-yet-theyre-just-getting-started/))
+- CollabTalk Podcast: Veteran Engineers Aren’t Done Yet – They’re Just Getting Started ([23 hours ago](https://dotnettips.wordpress.com/2025/06/07/collabtalk-podcast-veteran-engineers-arent-done-yet-theyre-just-getting-started/))
 - Adding Extension Properties with State to Types, (Sort of) In Spargine ([2 days ago](https://dotnettips.wordpress.com/2025/06/06/adding-extension-properties-to-types-sort-of-in-spargine/))
 - Emit logs on-demand with log buffering - .NET Blog ([2 days ago](https://dotnetkicks.com/r/722131?url=https://devblogs.microsoft.com/dotnet/emit-logs-on-demand-with-log-buffering/))
 - Emit logs on-demand with log buffering ([2 days ago](https://devblogs.microsoft.com/dotnet/emit-logs-on-demand-with-log-buffering/))
@@ -45,7 +45,7 @@ description: DotNet Updates
 - Announcing dotnet run app.cs - A simpler way to start with C# and .NET 10 - .NET Blog ([10 days ago](https://dotnetkicks.com/r/721481?url=https://devblogs.microsoft.com/dotnet/announcing-dotnet-run-app/))
 - Improve the commands in your extensions - Visual Studio Blog ([10 days ago](https://dotnetkicks.com/r/721458?url=https://devblogs.microsoft.com/visualstudio/improve-the-commands-in-your-extensions/))
 - Announcing dotnet run app.cs – A simpler way to start with C# and .NET 10 ([10 days ago](https://devblogs.microsoft.com/dotnet/announcing-dotnet-run-app/))
-- Symbolically Important Wolverine 3.13.4 Release ([10 days ago](https://dotnetkicks.com/r/721415?url=https://jeremydmiller.com/2025/05/28/symbolically-important-wolverine-3-13-4-release/))
+- Symbolically Important Wolverine 3.13.4 Release ([11 days ago](https://dotnetkicks.com/r/721415?url=https://jeremydmiller.com/2025/05/28/symbolically-important-wolverine-3-13-4-release/))
 - Coding Faster with dotNetTips Spargine: Validating Data Made Easy with Validator ([11 days ago](https://dotnettips.wordpress.com/2025/05/28/coding-faster-with-dotnettips-spargine-validating-data-made-easy-with-validator/))
 - Circuit Breaker Policy Fine-tuning Best Practice ([11 days ago](https://devblogs.microsoft.com/dotnet/circuit-breaker-policy-finetuning-best-practice/))
 - Converting a docker-compose file to .NET Aspire ([12 days ago](https://andrewlock.net/converting-a-docker-compose-file-to-aspire/))
