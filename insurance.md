@@ -131,6 +131,6 @@ description: Insurance Updates
 - Almost 1 in 3 young mortgage holders have no protection cover – LifeSearch and HomeOwners Alliance ([9 days ago](https://ifamagazine.com/almost-1-in-3-young-mortgage-holders-have-no-protection-cover-lifesearch-and-homeowners-alliance/))
 - Utilising AI in Insurance: Insly Report Reveals How it Can be Acheived ([17 days ago](https://thefintechtimes.com/utilising-ai-in-insurance-insly-report-reveals-how-it-can-be-acheived/))
 - Relm Explains How Insurance is the Backbone For Pushing the Boundaries of Innovation ([21 days ago](https://thefintechtimes.com/relm-explains-how-insurance-is-the-backbone-for-pushing-the-boundaries-of-innovation/))
-- IHC Set to Launch AI-Driven Reinsurance Platform in the Gulf Region ([27 days ago](https://thefintechtimes.com/ihc-set-to-launch-ai-driven-reinsurance-platform/))
+- IHC Set to Launch AI-Driven Reinsurance Platform in the Gulf Region ([28 days ago](https://thefintechtimes.com/ihc-set-to-launch-ai-driven-reinsurance-platform/))
 
 <!-- news_marker ends -->
