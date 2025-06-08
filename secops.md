@@ -8,7 +8,7 @@ description: SecOps News
 [Get this as an RSS feed](/secops.rss)
 
 <!-- news_marker starts -->
-- Supply chain attack hits Gluestack NPM packages with 960K weekly downloads ([10 hours ago](https://www.bleepingcomputer.com/news/security/supply-chain-attack-hits-gluestack-npm-packages-with-960k-weekly-downloads/))
+- Supply chain attack hits Gluestack NPM packages with 960K weekly downloads ([11 hours ago](https://www.bleepingcomputer.com/news/security/supply-chain-attack-hits-gluestack-npm-packages-with-960k-weekly-downloads/))
 - Malicious npm packages posing as utilities delete project directories ([16 hours ago](https://www.bleepingcomputer.com/news/security/malicious-npm-packages-posing-as-utilities-delete-project-directories/))
 - Disk Union - 690,667 breached accounts ([23 hours ago](https://haveibeenpwned.com/Breach/DiskUnion))
 - Linux Foundation tries to play peacemaker in ongoing WordPress scuffle ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2025/06/06/linux_foundation_wordpress_peacemaker/))
@@ -69,8 +69,8 @@ description: SecOps News
 - UK tech job openings climb 21% to pre-pandemic highs ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2025/06/05/accenture_uk_tech_vacancies/))
 - Smashing Security podcast #420: Fake Susies, flawed systems, and fruity fixes for anxiety ([2 days ago](https://grahamcluley.com/smashing-security-podcast-420/))
 - HashiCorp speaks up about adjusting to life under IBM ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2025/06/05/hashicorp_ibm_hashidays/))
-- AI kept 15-year-old zombie vuln alive, but its time is drawing near ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2025/06/05/llm_kept_persistent_path_traversal_bug_alive/))
-- AI kept 15-year-old zombie vuln alive, but its time is drawing near ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2025/06/05/llm_kept_persistent_path_traversal_bug_alive/))
+- AI kept 15-year-old zombie vuln alive, but its time is drawing near ([3 days ago](https://go.theregister.com/feed/www.theregister.com/2025/06/05/llm_kept_persistent_path_traversal_bug_alive/))
+- AI kept 15-year-old zombie vuln alive, but its time is drawing near ([3 days ago](https://go.theregister.com/feed/www.theregister.com/2025/06/05/llm_kept_persistent_path_traversal_bug_alive/))
 - Critical Cisco ISE Auth Bypass Flaw Impacts Cloud Deployments on AWS, Azure, and OCI ([3 days ago](https://thehackernews.com/2025/06/critical-cisco-ise-auth-bypass-flaw.html))
 - China accuses Taiwan of running five feeble APT gangs, with US help ([3 days ago](https://go.theregister.com/feed/www.theregister.com/2025/06/05/china_taiwan_us_apt_report/))
 - IBM Cloud login breaks for second time this week and Big Blue isn't saying why ([3 days ago](https://go.theregister.com/feed/www.theregister.com/2025/06/05/ibm_cloud_outage_critical_vulnerability/))
@@ -181,7 +181,7 @@ description: SecOps News
 - The AI Fix #51: Divorce by coffee grounds, and why AI robots need your brain ([18 days ago](https://grahamcluley.com/the-ai-fix-51/))
 - SEC Twitter hack: Man imprisoned for role in attack that caused Bitcoin’s price to soar. ([18 days ago](https://www.bitdefender.com/en-us/blog/hotforsecurity/sec-twitter-hack-bitcoins-price))
 - Software Security Code of Practice - Assurance Principles and Claims (APCs) ([18 days ago](https://www.ncsc.gov.uk/guidance/software-security-code-of-practice-assurance-principles-claims))
-- Decommissioning assets ([18 days ago](https://www.ncsc.gov.uk/guidance/decommissioning-assets))
+- Decommissioning assets ([19 days ago](https://www.ncsc.gov.uk/guidance/decommissioning-assets))
 - Have I Been Pwned 2.0 is Now Live! ([19 days ago](https://www.troyhunt.com/have-i-been-pwned-2-0-is-now-live/))
 - The AI Fix nominated for top podcast award. Vote now! ([19 days ago](https://grahamcluley.com/the-ai-fix-nominated-for-top-podcast-award-vote-now/))
 - GitHub Enterprise Importer (GEI) is experiencing degraded throughput ([22 days ago](https://www.githubstatus.com/incidents/71tl7pkqysgw))
