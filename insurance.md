@@ -8,7 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Are Online Financial Influencers a Menace? ([22 hours ago](https://insurance-edge.net/2025/06/07/are-online-financial-influencers-a-menace/))
+- Are Online Financial Influencers a Menace? ([23 hours ago](https://insurance-edge.net/2025/06/07/are-online-financial-influencers-a-menace/))
 - B.P. Marsh Subscribes to 49% Shareholding in Amiga ([1 days ago](https://insurance-edge.net/2025/06/06/b-p-marsh-subscribes-to-49-shareholding-in-amiga/))
 - IFoA Comments on Pension Schemes Bill ([1 days ago](https://insurance-edge.net/2025/06/06/ifoa-comments-on-pension-schemes-bill/))
 - Conning Report Looks at US State Credit & Budgets ([1 days ago](https://insurance-edge.net/2025/06/06/conning-report-looks-at-us-state-credit-budgets/))
@@ -54,7 +54,7 @@ description: Insurance Updates
 - Claims managers warned against trying to ‘solve the world’ using AI ([1 days ago](https://www.postonline.co.uk/claims/7957881/claims-managers-warned-against-trying-to-%E2%80%98solve-the-world%E2%80%99-using-ai))
 - Chubb appoints Doug White as SVP Asia Pacific ([1 days ago](https://www.reinsurancene.ws/chubb-appoints-doug-white-as-svp-asia-pacific/))
 - Ki slashes model development from years to weeks with genAI ([1 days ago](https://www.postonline.co.uk/technology/7957832/ki-slashes-model-development-from-years-to-weeks-with-genai))
-- Meghani to succeed Sheppard as Head of Property Treaty & Retrocession, OdysseyRe London ([1 days ago](https://www.reinsurancene.ws/meghani-to-succeed-sheppard-as-head-of-property-treaty-retrocession-odysseyre-london/))
+- Meghani to succeed Sheppard as Head of Property Treaty & Retrocession, OdysseyRe London ([2 days ago](https://www.reinsurancene.ws/meghani-to-succeed-sheppard-as-head-of-property-treaty-retrocession-odysseyre-london/))
 - Allianz lines up major acquisition - report ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/allianz-lines-up-major-acquisition--report-538203.aspx))
 - UK insurance M&A hits the brakes ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/uk-insurance-manda-hits-the-brakes-538198.aspx))
 - Hiscox revamps tech insurance product with AI focus ([2 days ago](https://www.insurancebusinessmag.com/uk/news/technology/hiscox-revamps-tech-insurance-product-with-ai-focus-538197.aspx))
@@ -119,7 +119,7 @@ description: Insurance Updates
 - Wealth Management Study identifies size of HNW international life insurance market for first time ([4 days ago](https://ifamagazine.com/wealth-management-study-identifies-size-of-hnw-international-life-insurance-market-for-first-time/))
 - Guardian’s second claims report show 40% year-on-year growth in claims paid in 2024 ([4 days ago](https://ifamagazine.com/guardians-second-claims-report-show-40-year-on-year-growth-in-claims-paid-in-2024/))
 - FCA data highlights notable shortcomings and low understanding in the life insurance market ([4 days ago](https://ifamagazine.com/fca-data-highlights-notable-shortcomings-and-low-understanding-in-the-life-insurance-market/))
-- Insurance industry cyber expert concerned that weak passwords are still widely used ([4 days ago](https://ifamagazine.com/insurance-industry-cyber-expert-concerned-that-weak-passwords-are-still-widely-used/))
+- Insurance industry cyber expert concerned that weak passwords are still widely used ([5 days ago](https://ifamagazine.com/insurance-industry-cyber-expert-concerned-that-weak-passwords-are-still-widely-used/))
 - Geopolitical tensions threaten shipping sector, Allianz ([5 days ago](https://www.dig-in.com/news/geopolitical-tensions-threaten-shipping-sector-allianz))
 - Strategies for closing the claims payment gap ([5 days ago](https://www.dig-in.com/opinion/strategies-for-closing-the-claims-payment-gap))
 - HIVE Underwriters Expands into Space Insurance with Appointment of Jack Kenneally ([5 days ago](https://www.insurtechinsights.com/hive-underwriters-expands-into-space-insurance-with-appointment-of-jack-kenneally/))
