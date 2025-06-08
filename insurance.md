@@ -8,7 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Insurtech Insights New York reporter's notebook ([36 minutes ago](https://www.dig-in.com/news/insurtech-insights-new-york-reporters-notebook))
+- Insurtech Insights New York reporter's notebook ([1 hours ago](https://www.dig-in.com/news/insurtech-insights-new-york-reporters-notebook))
 - Improving organizational data practices to leverage AI ([1 hours ago](https://www.dig-in.com/opinion/improving-organizational-data-practices-to-leverage-ai))
 - How does funding affect severe weather forecasts for insurers? ([1 hours ago](https://www.dig-in.com/news/funding-impacts-weather-forecasts-for-insurers))
 - Are Online Financial Influencers a Menace? ([1 days ago](https://insurance-edge.net/2025/06/07/are-online-financial-influencers-a-menace/))
@@ -97,7 +97,7 @@ description: Insurance Updates
 - Why insurers’ AI pilots should be assessed for regulatory proportionality ([3 days ago](https://www.postonline.co.uk/technology/7957785/why-insurers%E2%80%99-ai-pilots-should-be-assessed-for-regulatory-proportionality))
 - Axa reveals genAI enabled Lloyds Bank partnership ([3 days ago](https://www.postonline.co.uk/technology/7957803/axa-reveals-genai-enabled-lloyds-bank-partnership))
 - Zywave CTO warns AI’s power depends on training data ([3 days ago](https://www.postonline.co.uk/technology/7957746/zywave-cto-warns-ai%E2%80%99s-power-depends-on-training-data))
-- Mastering Insurance Modernisation ([3 days ago](https://www.insurancebusinessmag.com/uk/white-papers/mastering-insurance-modernisation-538014.aspx))
+- Mastering Insurance Modernisation ([4 days ago](https://www.insurancebusinessmag.com/uk/white-papers/mastering-insurance-modernisation-538014.aspx))
 - Small retirement plans need stronger cybersecurity to insure accounts ([4 days ago](https://www.dig-in.com/news/small-retirement-plans-need-stronger-cybersecurity))
 - Meet the insurtech: Quantiphi ([4 days ago](https://www.dig-in.com/news/meet-the-insurtech-quantiphi))
 - bolttech Closes $147M Series C, Announces Strategic Investment and Joint Venture with Sumitomo at Insurtech Insights ([4 days ago](https://www.insurtechinsights.com/bolttech-closes-147m-series-c-announces-strategic-investment-and-joint-venture-with-sumitomo-at-insurtech-insights/))
