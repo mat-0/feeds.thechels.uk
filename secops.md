@@ -9,8 +9,8 @@ description: SecOps News
 
 <!-- news_marker starts -->
 - Supply chain attack hits Gluestack NPM packages with 960K weekly downloads ([8 hours ago](https://www.bleepingcomputer.com/news/security/supply-chain-attack-hits-gluestack-npm-packages-with-960k-weekly-downloads/))
-- Malicious npm packages posing as utilities delete project directories ([13 hours ago](https://www.bleepingcomputer.com/news/security/malicious-npm-packages-posing-as-utilities-delete-project-directories/))
-- Disk Union - 690,667 breached accounts ([20 hours ago](https://haveibeenpwned.com/Breach/DiskUnion))
+- Malicious npm packages posing as utilities delete project directories ([14 hours ago](https://www.bleepingcomputer.com/news/security/malicious-npm-packages-posing-as-utilities-delete-project-directories/))
+- Disk Union - 690,667 breached accounts ([21 hours ago](https://haveibeenpwned.com/Breach/DiskUnion))
 - Linux Foundation tries to play peacemaker in ongoing WordPress scuffle ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2025/06/06/linux_foundation_wordpress_peacemaker/))
 - ChatGPT used for evil: Fake IT worker resumes, misinfo, and cyber-op assist ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2025/06/06/chatgpt_for_evil/))
 - Microsoft shares script to restore inetpub folder you shouldn’t delete ([1 days ago](https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-script-to-restore-inetpub-folder-you-shouldnt-delete/))
@@ -96,7 +96,7 @@ description: SecOps News
 - UK CyberEM Command to spearhead new era of armed conflict ([3 days ago](https://go.theregister.com/feed/www.theregister.com/2025/06/04/uk_cyberem_command_details/))
 - Ukraine war spurred infosec vet Mikko Hyppönen to pivot to drones ([3 days ago](https://go.theregister.com/feed/www.theregister.com/2025/06/04/mikko_hypponen_drone/))
 - HPE Issues Security Patch for StoreOnce Bug Allowing Remote Authentication Bypass ([3 days ago](https://thehackernews.com/2025/06/hpe-issues-security-patch-for-storeonce.html))
-- ‘Deliberate attack’ deletes shopping app’s AWS and GitHub resources ([3 days ago](https://go.theregister.com/feed/www.theregister.com/2025/06/04/kiranapro_cyberattack_deletes_cloud_resources/))
+- ‘Deliberate attack’ deletes shopping app’s AWS and GitHub resources ([4 days ago](https://go.theregister.com/feed/www.theregister.com/2025/06/04/kiranapro_cyberattack_deletes_cloud_resources/))
 - Meta pauses mobile port tracking tech on Android after researchers cry foul ([4 days ago](https://go.theregister.com/feed/www.theregister.com/2025/06/03/meta_pauses_android_tracking_tech/))
 - You say Cozy Bear, I say Midnight Blizzard, Voodoo Bear, APT29 … ([4 days ago](https://go.theregister.com/feed/www.theregister.com/2025/06/03/microsoft_crowdstrike_cybercrew_naming_clarity/))
 - Google quietly pushes emergency fix for Chrome 0-day as exploit runs wild ([4 days ago](https://go.theregister.com/feed/www.theregister.com/2025/06/03/google_chrome_zero_day_emergency_fix/))
