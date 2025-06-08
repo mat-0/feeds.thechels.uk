@@ -31,8 +31,8 @@ description: Insurance Updates
 - VIG Re appoints Swiss Re’s Milan Padych as CIO ([1 days ago](https://www.reinsurancene.ws/vig-re-appoints-swiss-res-milan-padych-as-cio/))
 - ABI names Chris Bose Director of General Insurance & International ([1 days ago](https://www.reinsurancene.ws/abi-names-chris-bose-director-of-general-insurance-international/))
 - W/R/B Underwriting becomes Berkley Specialty London in major rebrand ([1 days ago](https://www.reinsurancene.ws/w-r-b-underwriting-becomes-berkley-specialty-london-in-major-rebrand/))
-- FCA finds more insurance requirements that are ‘no longer needed’ ([1 days ago](https://www.postonline.co.uk/news/7957891/fca-finds-more-insurance-requirements-that-are-%E2%80%98no-longer-needed%E2%80%99))
-- Credit Suisse, SoftBank Fight Over Greensill Losses in $440 Million London Lawsuit ([1 days ago](https://www.insurancejournal.com/news/international/2025/06/06/826606.htm))
+- FCA finds more insurance requirements that are ‘no longer needed’ ([2 days ago](https://www.postonline.co.uk/news/7957891/fca-finds-more-insurance-requirements-that-are-%E2%80%98no-longer-needed%E2%80%99))
+- Credit Suisse, SoftBank Fight Over Greensill Losses in $440 Million London Lawsuit ([2 days ago](https://www.insurancejournal.com/news/international/2025/06/06/826606.htm))
 - New Zealand All Blacks Rugby Team Agrees Sponsorship Deal With Broker Gallagher ([2 days ago](https://www.insurancejournal.com/news/international/2025/06/06/826600.htm))
 - Reinsurance industry ‘better protected than ever’ for hurricane season: JP Morgan ([2 days ago](https://www.reinsurancene.ws/reinsurance-industry-better-protected-than-ever-for-hurricane-season-jp-morgan/))
 - Cyber Incidents in Canada Triple in 2 Years: QBE Research ([2 days ago](https://www.insurancejournal.com/news/international/2025/06/06/826597.htm))
@@ -130,7 +130,7 @@ description: Insurance Updates
 - Reimagining Insurance from the Inside Out: A Conversation with Tint Co-Founder and CEO, Matheus Riolfi ([8 days ago](https://www.insurtechinsights.com/reimagining-insurance-from-the-inside-out-a-conversation-with-tint-co-founder-and-ceo-matheus-riolfi/))
 - Almost 1 in 3 young mortgage holders have no protection cover – LifeSearch and HomeOwners Alliance ([10 days ago](https://ifamagazine.com/almost-1-in-3-young-mortgage-holders-have-no-protection-cover-lifesearch-and-homeowners-alliance/))
 - Utilising AI in Insurance: Insly Report Reveals How it Can be Acheived ([17 days ago](https://thefintechtimes.com/utilising-ai-in-insurance-insly-report-reveals-how-it-can-be-acheived/))
-- Relm Explains How Insurance is the Backbone For Pushing the Boundaries of Innovation ([21 days ago](https://thefintechtimes.com/relm-explains-how-insurance-is-the-backbone-for-pushing-the-boundaries-of-innovation/))
+- Relm Explains How Insurance is the Backbone For Pushing the Boundaries of Innovation ([22 days ago](https://thefintechtimes.com/relm-explains-how-insurance-is-the-backbone-for-pushing-the-boundaries-of-innovation/))
 - IHC Set to Launch AI-Driven Reinsurance Platform in the Gulf Region ([28 days ago](https://thefintechtimes.com/ihc-set-to-launch-ai-driven-reinsurance-platform/))
 
 <!-- news_marker ends -->
