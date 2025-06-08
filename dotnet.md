@@ -8,7 +8,7 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- F# Weekly #23, 2025 - Catch up on Microsoft Build ([25 minutes ago](https://dotnetkicks.com/r/722226?url=https://sergeytihon.com/2025/06/07/f-weekly-23-2025-catch-up-on-microsoft-build/))
+- F# Weekly #23, 2025 - Catch up on Microsoft Build ([54 minutes ago](https://dotnetkicks.com/r/722226?url=https://sergeytihon.com/2025/06/07/f-weekly-23-2025-catch-up-on-microsoft-build/))
 - CollabTalk Podcast: Veteran Engineers Aren’t Done Yet – They’re Just Getting Started ([19 hours ago](https://dotnettips.wordpress.com/2025/06/07/collabtalk-podcast-veteran-engineers-arent-done-yet-theyre-just-getting-started/))
 - Adding Extension Properties with State to Types, (Sort of) In Spargine ([2 days ago](https://dotnettips.wordpress.com/2025/06/06/adding-extension-properties-to-types-sort-of-in-spargine/))
 - Emit logs on-demand with log buffering - .NET Blog ([2 days ago](https://dotnetkicks.com/r/722131?url=https://devblogs.microsoft.com/dotnet/emit-logs-on-demand-with-log-buffering/))
@@ -31,7 +31,7 @@ description: DotNet Updates
 - Making Event Sourcing with Marten Go Faster ([5 days ago](https://dotnetkicks.com/r/721912?url=https://jeremydmiller.com/2025/06/02/making-event-sourcing-with-marten-go-faster/))
 - Extension Manager updates in Visual Studio - Visual Studio Blog ([5 days ago](https://dotnetkicks.com/r/721892?url=https://devblogs.microsoft.com/visualstudio/extension-manager-updates-in-visual-studio/))
 - Azure Container Apps Vs AKS: Which Is Right For Your Enterprise Application?  -  Build5Nines ([5 days ago](https://dotnetkicks.com/r/721787?url=https://build5nines.com/azure-container-apps-vs-aks-which-is-right-for-your-enterprise-application/))
-- F# Weekly #22, 2025 - Ionide with Cursor ([5 days ago](https://dotnetkicks.com/r/721784?url=https://sergeytihon.com/2025/06/01/f-weekly-22-2025-ionide-with-cursor/))
+- F# Weekly #22, 2025 - Ionide with Cursor ([6 days ago](https://dotnetkicks.com/r/721784?url=https://sergeytihon.com/2025/06/01/f-weekly-22-2025-ionide-with-cursor/))
 - Handling OpenID Connect error events in ASP.NET Core ([6 days ago](https://dotnetkicks.com/r/721763?url=https://damienbod.com/2025/06/02/handling-openid-connect-error-events-in-asp-net-core/))
 - dotNetDave Says… Soft Skills at Conferences Matter—A Lot! ([6 days ago](https://dotnettips.wordpress.com/2025/06/02/dotnetdave-says-soft-skills-at-conferences-matter-a-lot/))
 - Marten 8.0, Wolverine 4.0, and even Lamar 15.0 are out! ([6 days ago](https://dotnetkicks.com/r/721744?url=https://jeremydmiller.com/2025/06/01/marten-8-0-wolverine-4-0-and-even-lamar-15-0-are-out/))
