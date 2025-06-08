@@ -8,7 +8,7 @@ description: SecOps News
 [Get this as an RSS feed](/secops.rss)
 
 <!-- news_marker starts -->
-- New Mirai botnet infect TBK DVR devices via command injection flaw ([6 hours ago](https://www.bleepingcomputer.com/news/security/new-mirai-botnet-infect-tbk-dvr-devices-via-command-injection-flaw/))
+- New Mirai botnet infect TBK DVR devices via command injection flaw ([7 hours ago](https://www.bleepingcomputer.com/news/security/new-mirai-botnet-infect-tbk-dvr-devices-via-command-injection-flaw/))
 - New Supply Chain Malware Operation Hits npm and PyPI Ecosystems, Targeting Millions Globally ([7 hours ago](https://thehackernews.com/2025/06/new-supply-chain-malware-operation-hits.html))
 - Enterprises are getting stuck in AI pilot hell, say Chatterbox Labs execs ([8 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/06/08/chatterbox_labs_ai_adoption/))
 - Enterprises are getting stuck in AI pilot hell, say Chatterbox Labs execs ([8 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/06/08/chatterbox_labs_ai_adoption/))
@@ -49,7 +49,7 @@ description: SecOps News
 - ChatGPT prepares o3-pro model for $200 Pro subscribers ([2 days ago](https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-prepares-o3-pro-model-for-200-pro-subscribers/))
 - Proxy Services Feast on Ukraine’s IP Address Exodus ([2 days ago](https://krebsonsecurity.com/2025/06/proxy-services-feast-on-ukraines-ip-address-exodus/))
 - AT&amp;T not sure if new customer data dump is déjà vu ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2025/06/05/att_investigates_data_dump/))
-- FBI: BADBOX 2.0 Android malware infects millions of consumer devices ([2 days ago](https://www.bleepingcomputer.com/news/security/fbi-badbox-20-android-malware-infects-millions-of-consumer-devices/))
+- FBI: BADBOX 2.0 Android malware infects millions of consumer devices ([3 days ago](https://www.bleepingcomputer.com/news/security/fbi-badbox-20-android-malware-infects-millions-of-consumer-devices/))
 - Cellebrite buys Corellium to help cops bust phone encryption ([3 days ago](https://go.theregister.com/feed/www.theregister.com/2025/06/05/cellebrite_corellium_merger/))
 - Trump’s cyber czar pick grilled over CISA cuts: ‘If we have a cyber 9/11, you’re the guy’ ([3 days ago](https://go.theregister.com/feed/www.theregister.com/2025/06/05/trump_cyber_nominee_cairncross/))
 - Misconfigured HMIs Expose US Water Systems to Anyone With a Browser ([3 days ago](https://www.securityweek.com/misconfigured-hmis-expose-us-water-systems-to-anyone-with-a-browser/))
@@ -174,7 +174,7 @@ description: SecOps News
 - DOJ charges 12 more in $263 million crypto fraud takedown where money was hidden in squishmallow stuffed animals ([17 days ago](https://www.bitdefender.com/en-us/blog/hotforsecurity/doj-charges-12-263-million-crypto-fraud-takedown-where-money-hidden-squishmallow-stuffed-animals))
 - Smashing Security podcast #418: Grid failures, Instagram scams, and Legal Aid leaks ([17 days ago](https://grahamcluley.com/smashing-security-podcast-418/))
 - Incident with Webhooks ([18 days ago](https://www.githubstatus.com/incidents/89gkzpf9fc20))
-- KrebsOnSecurity Hit With Near-Record 6.3 Tbps DDoS ([18 days ago](https://krebsonsecurity.com/2025/05/krebsonsecurity-hit-with-near-record-6-3-tbps-ddos/))
+- KrebsOnSecurity Hit With Near-Record 6.3 Tbps DDoS ([19 days ago](https://krebsonsecurity.com/2025/05/krebsonsecurity-hit-with-near-record-6-3-tbps-ddos/))
 - Incident with Copilot ([19 days ago](https://www.githubstatus.com/incidents/d3nnz2ckp2f7))
 - Threat Actors Deploy LummaC2 Malware to Exfiltrate Sensitive Data from Organizations ([19 days ago](https://www.cisa.gov/news-events/cybersecurity-advisories/aa25-141b))
 - Elevated error rates for Claude Sonnet 3.7 ([19 days ago](https://www.githubstatus.com/incidents/rkkhrht3j3y3))
