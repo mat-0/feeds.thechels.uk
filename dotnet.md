@@ -8,7 +8,7 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Unlocking The Cloud: How To Seamlessly Migrate On-Prem File Shares To Azure Storage  -  Build5Nines ([35 minutes ago](https://dotnetkicks.com/r/722344?url=https://build5nines.com/unlocking-the-cloud-how-to-seamlessly-migrate-on-prem-file-shares-to-azure-storage/))
+- Unlocking The Cloud: How To Seamlessly Migrate On-Prem File Shares To Azure Storage  -  Build5Nines ([1 hours ago](https://dotnetkicks.com/r/722344?url=https://build5nines.com/unlocking-the-cloud-how-to-seamlessly-migrate-on-prem-file-shares-to-azure-storage/))
 - Boost Your .NET Projects: Maximize Thread-Safe Performance in .NET with Spargine’s DistinctBlockingCollection ([20 hours ago](https://dotnettips.wordpress.com/2025/06/08/boost-your-net-projects-maximize-thread-safe-performance-in-net-with-spargines-distinctblockingcollection/))
 - F# Weekly #23, 2025 - Catch up on Microsoft Build ([1 days ago](https://dotnetkicks.com/r/722226?url=https://sergeytihon.com/2025/06/07/f-weekly-23-2025-catch-up-on-microsoft-build/))
 - CollabTalk Podcast: Veteran Engineers Aren’t Done Yet – They’re Just Getting Started ([1 days ago](https://dotnettips.wordpress.com/2025/06/07/collabtalk-podcast-veteran-engineers-arent-done-yet-theyre-just-getting-started/))
