@@ -59,8 +59,8 @@ description: DotNet Updates
 - Accelerate Your .NET Upgrades with GitHub Copilot ([20 days ago](https://devblogs.microsoft.com/dotnet/github-copilot-upgrade-dotnet/))
 - JetBrains AI Assistant – Now in Visual Studio Code ([20 days ago](https://blog.jetbrains.com/ai/2025/05/jetbrains-ai-assistant-now-in-visual-studio-code/))
 - ReSharper Comes to Microsoft Visual Studio Code: Public Preview Now Open ([20 days ago](https://blog.jetbrains.com/dotnet/2025/05/19/resharper-comes-to-microsoft-visual-studio-code/))
-- Rider 2025.2 Early Access Program Is Live! ([23 days ago](https://blog.jetbrains.com/dotnet/2025/05/16/rider-2025-2-eap-1/))
-- The Early Access Program for ReSharper and .NET Tools 2025.2 Has Begun! ([23 days ago](https://blog.jetbrains.com/dotnet/2025/05/16/resharper-2025-2-eap-1/))
+- Rider 2025.2 Early Access Program Is Live! ([24 days ago](https://blog.jetbrains.com/dotnet/2025/05/16/rider-2025-2-eap-1/))
+- The Early Access Program for ReSharper and .NET Tools 2025.2 Has Begun! ([24 days ago](https://blog.jetbrains.com/dotnet/2025/05/16/resharper-2025-2-eap-1/))
 - Evaluating content safety in your .NET AI applications ([24 days ago](https://devblogs.microsoft.com/dotnet/evaluating-ai-content-safety/))
 - Using the new AI template to create a chatbot about a website ([27 days ago](https://andrewlock.net/using-the-new-ai-template-to-create-a-chatbot-about-a-website/))
 
