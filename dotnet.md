@@ -8,10 +8,12 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Converting a Microsoft XNA 3.1 game to MonoGame ([7 hours ago](https://dotnetkicks.com/r/722535?url=https://andrewlock.net/converting-an-xna-game-to-monogame/))
+- .NET 10 Preview 5 is now available! - .NET Blog ([9 minutes ago](https://dotnetkicks.com/r/722563?url=https://devblogs.microsoft.com/dotnet/dotnet-10-preview-5/))
+- .NET 10 Preview 5 is now available! ([12 minutes ago](https://devblogs.microsoft.com/dotnet/dotnet-10-preview-5/))
+- Converting a Microsoft XNA 3.1 game to MonoGame ([8 hours ago](https://dotnetkicks.com/r/722535?url=https://andrewlock.net/converting-an-xna-game-to-monogame/))
 - Converting a Microsoft XNA 3.1 game to MonoGame ([9 hours ago](https://andrewlock.net/converting-an-xna-game-to-monogame/))
 - SQL and NoSQL Query langauge support come to ReSharper! ([9 hours ago](https://blog.jetbrains.com/dotnet/2025/06/10/sql-and-nosql-query-langauge-support-come-to-resharper/))
-- Surviving the Great Commoditizer: Stop Getting 'Good' at ChatGPT ([23 hours ago](https://dotnetkicks.com/r/722479?url=https://daedtech.com/surviving-the-great-commoditizer-stop-getting-good-at-chatgpt/))
+- Surviving the Great Commoditizer: Stop Getting 'Good' at ChatGPT ([1 days ago](https://dotnetkicks.com/r/722479?url=https://daedtech.com/surviving-the-great-commoditizer-stop-getting-good-at-chatgpt/))
 - dotNetDave Rocks SQL Saturday in Louisiana ([1 days ago](https://dotnettips.wordpress.com/2025/06/09/dotnetdave-rocks-the-sql-saturday-in-louisiana/))
 - Next edit suggestions available in Visual Studio GitHub Copilot - Visual Studio Blog ([1 days ago](https://dotnetkicks.com/r/722382?url=https://devblogs.microsoft.com/visualstudio/next-edit-suggestions-available-in-visual-studio-github-copilot/))
 - Unlocking The Cloud: How To Seamlessly Migrate On-Prem File Shares To Azure Storage  -  Build5Nines ([1 days ago](https://dotnetkicks.com/r/722344?url=https://build5nines.com/unlocking-the-cloud-how-to-seamlessly-migrate-on-prem-file-shares-to-azure-storage/))
@@ -29,7 +31,7 @@ description: DotNet Updates
 - Catch Up on Microsoft Build 2025: Essential Sessions for .NET Developers ([5 days ago](https://devblogs.microsoft.com/dotnet/catching-up-on-microsoft-build-2025-essential-sessions-for-dotnet-developers/))
 - CoPilot Agents ([6 days ago](https://dotnetkicks.com/r/722027?url=https://jesseliberty.com/2025/06/04/copilot-agents/))
 - Boost Your .NET Projects: Mastering Unit Testing with Spargine’s UnitTester Class ([6 days ago](https://dotnettips.wordpress.com/2025/06/04/boost-your-net-projects-mastering-unit-testing-with-spargines-unittester-class/))
-- Cloud Academy: Unlock Your Azure Skills and Accelerate Your Career - Visual Studio Blog ([6 days ago](https://dotnetkicks.com/r/721978?url=https://devblogs.microsoft.com/visualstudio/cloud-academy-benefit-for-visual-studio-subscribers/))
+- Cloud Academy: Unlock Your Azure Skills and Accelerate Your Career - Visual Studio Blog ([7 days ago](https://dotnetkicks.com/r/721978?url=https://devblogs.microsoft.com/visualstudio/cloud-academy-benefit-for-visual-studio-subscribers/))
 - Using AI Foundry with .NET MAUI - .NET Blog ([7 days ago](https://dotnetkicks.com/r/721968?url=https://devblogs.microsoft.com/dotnet/using-ai-foundry-with-dotnet-maui/))
 - Using AI Foundry with .NET MAUI - .NET Blog ([7 days ago](https://dotnetkicks.com/r/721954?url=https://devblogs.microsoft.com/dotnet/using-ai-foundry-with-dotnet-maui/))
 - Using AI Foundry with .NET MAUI ([7 days ago](https://devblogs.microsoft.com/dotnet/using-ai-foundry-with-dotnet-maui/))
@@ -37,7 +39,7 @@ description: DotNet Updates
 - Creating your first sample game with MonoGame ([7 days ago](https://dotnetkicks.com/r/721929?url=https://andrewlock.net/creating-your-first-sample-game-with-monogame/))
 - Creating your first sample game with MonoGame ([7 days ago](https://andrewlock.net/creating-your-first-sample-game-with-monogame/))
 - Making Event Sourcing with Marten Go Faster ([7 days ago](https://dotnetkicks.com/r/721912?url=https://jeremydmiller.com/2025/06/02/making-event-sourcing-with-marten-go-faster/))
-- Extension Manager updates in Visual Studio - Visual Studio Blog ([7 days ago](https://dotnetkicks.com/r/721892?url=https://devblogs.microsoft.com/visualstudio/extension-manager-updates-in-visual-studio/))
+- Extension Manager updates in Visual Studio - Visual Studio Blog ([8 days ago](https://dotnetkicks.com/r/721892?url=https://devblogs.microsoft.com/visualstudio/extension-manager-updates-in-visual-studio/))
 - Azure Container Apps Vs AKS: Which Is Right For Your Enterprise Application?  -  Build5Nines ([8 days ago](https://dotnetkicks.com/r/721787?url=https://build5nines.com/azure-container-apps-vs-aks-which-is-right-for-your-enterprise-application/))
 - F# Weekly #22, 2025 - Ionide with Cursor ([8 days ago](https://dotnetkicks.com/r/721784?url=https://sergeytihon.com/2025/06/01/f-weekly-22-2025-ionide-with-cursor/))
 - Handling OpenID Connect error events in ASP.NET Core ([8 days ago](https://dotnetkicks.com/r/721763?url=https://damienbod.com/2025/06/02/handling-openid-connect-error-events-in-asp-net-core/))
@@ -48,7 +50,6 @@ description: DotNet Updates
 - Fine-tune the volume of logs your app produces - .NET Blog ([12 days ago](https://dotnetkicks.com/r/721619?url=https://devblogs.microsoft.com/dotnet/finetune-the-volume-of-logs-your-app-produces/))
 - Fine-tune the volume of logs your app produces ([12 days ago](https://devblogs.microsoft.com/dotnet/finetune-the-volume-of-logs-your-app-produces/))
 - Software Innovation: HashiCorp Terraform Revolutionized Infrastructure As Code (IaC)  -  Build5Nines ([12 days ago](https://dotnetkicks.com/r/721591?url=https://build5nines.com/software-innovation-hashicorp-terraform-revolutionized-infrastructure-as-code-iac/))
-- Database Coupling: How to FIX a Spaghetti Code System ([12 days ago](https://dotnetkicks.com/r/721542?url=https://codeopinion.com/database-coupling-how-to-fix-a-spaghetti-code-system/))
 - Announcing dotnet run app.cs – A simpler way to start with C# and .NET 10 ([13 days ago](https://devblogs.microsoft.com/dotnet/announcing-dotnet-run-app/))
 - Coding Faster with dotNetTips Spargine: Validating Data Made Easy with Validator ([13 days ago](https://dotnettips.wordpress.com/2025/05/28/coding-faster-with-dotnettips-spargine-validating-data-made-easy-with-validator/))
 - Circuit Breaker Policy Fine-tuning Best Practice ([14 days ago](https://devblogs.microsoft.com/dotnet/circuit-breaker-policy-finetuning-best-practice/))
@@ -63,7 +64,6 @@ description: DotNet Updates
 - ReSharper Comes to Microsoft Visual Studio Code: Public Preview Now Open ([22 days ago](https://blog.jetbrains.com/dotnet/2025/05/19/resharper-comes-to-microsoft-visual-studio-code/))
 - Rider 2025.2 Early Access Program Is Live! ([25 days ago](https://blog.jetbrains.com/dotnet/2025/05/16/rider-2025-2-eap-1/))
 - The Early Access Program for ReSharper and .NET Tools 2025.2 Has Begun! ([25 days ago](https://blog.jetbrains.com/dotnet/2025/05/16/resharper-2025-2-eap-1/))
-- Evaluating content safety in your .NET AI applications ([26 days ago](https://devblogs.microsoft.com/dotnet/evaluating-ai-content-safety/))
 - Using the new AI template to create a chatbot about a website ([28 days ago](https://andrewlock.net/using-the-new-ai-template-to-create-a-chatbot-about-a-website/))
 
 <!-- news_marker ends -->
