@@ -8,10 +8,10 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Converting a Microsoft XNA 3.1 game to MonoGame ([2 hours ago](https://dotnetkicks.com/r/722535?url=https://andrewlock.net/converting-an-xna-game-to-monogame/))
+- Converting a Microsoft XNA 3.1 game to MonoGame ([3 hours ago](https://dotnetkicks.com/r/722535?url=https://andrewlock.net/converting-an-xna-game-to-monogame/))
 - Converting a Microsoft XNA 3.1 game to MonoGame ([4 hours ago](https://andrewlock.net/converting-an-xna-game-to-monogame/))
 - SQL and NoSQL Query langauge support come to ReSharper! ([4 hours ago](https://blog.jetbrains.com/dotnet/2025/06/10/sql-and-nosql-query-langauge-support-come-to-resharper/))
-- Surviving the Great Commoditizer: Stop Getting 'Good' at ChatGPT ([18 hours ago](https://dotnetkicks.com/r/722479?url=https://daedtech.com/surviving-the-great-commoditizer-stop-getting-good-at-chatgpt/))
+- Surviving the Great Commoditizer: Stop Getting 'Good' at ChatGPT ([19 hours ago](https://dotnetkicks.com/r/722479?url=https://daedtech.com/surviving-the-great-commoditizer-stop-getting-good-at-chatgpt/))
 - dotNetDave Rocks SQL Saturday in Louisiana ([20 hours ago](https://dotnettips.wordpress.com/2025/06/09/dotnetdave-rocks-the-sql-saturday-in-louisiana/))
 - Next edit suggestions available in Visual Studio GitHub Copilot - Visual Studio Blog ([22 hours ago](https://dotnetkicks.com/r/722382?url=https://devblogs.microsoft.com/visualstudio/next-edit-suggestions-available-in-visual-studio-github-copilot/))
 - Unlocking The Cloud: How To Seamlessly Migrate On-Prem File Shares To Azure Storage  -  Build5Nines ([1 days ago](https://dotnetkicks.com/r/722344?url=https://build5nines.com/unlocking-the-cloud-how-to-seamlessly-migrate-on-prem-file-shares-to-azure-storage/))
@@ -33,7 +33,7 @@ description: DotNet Updates
 - Using AI Foundry with .NET MAUI - .NET Blog ([6 days ago](https://dotnetkicks.com/r/721968?url=https://devblogs.microsoft.com/dotnet/using-ai-foundry-with-dotnet-maui/))
 - Using AI Foundry with .NET MAUI - .NET Blog ([6 days ago](https://dotnetkicks.com/r/721954?url=https://devblogs.microsoft.com/dotnet/using-ai-foundry-with-dotnet-maui/))
 - Using AI Foundry with .NET MAUI ([6 days ago](https://devblogs.microsoft.com/dotnet/using-ai-foundry-with-dotnet-maui/))
-- dotInsights  -  June 2025 ([6 days ago](https://blog.jetbrains.com/dotnet/2025/06/03/dotinsights-june-2025/))
+- dotInsights  -  June 2025 ([7 days ago](https://blog.jetbrains.com/dotnet/2025/06/03/dotinsights-june-2025/))
 - Creating your first sample game with MonoGame ([7 days ago](https://dotnetkicks.com/r/721929?url=https://andrewlock.net/creating-your-first-sample-game-with-monogame/))
 - Creating your first sample game with MonoGame ([7 days ago](https://andrewlock.net/creating-your-first-sample-game-with-monogame/))
 - Making Event Sourcing with Marten Go Faster ([7 days ago](https://dotnetkicks.com/r/721912?url=https://jeremydmiller.com/2025/06/02/making-event-sourcing-with-marten-go-faster/))
