@@ -9,8 +9,8 @@ description: DotNet Updates
 
 <!-- news_marker starts -->
 - Converting a Microsoft XNA 3.1 game to MonoGame ([7 hours ago](https://dotnetkicks.com/r/722535?url=https://andrewlock.net/converting-an-xna-game-to-monogame/))
-- Converting a Microsoft XNA 3.1 game to MonoGame ([8 hours ago](https://andrewlock.net/converting-an-xna-game-to-monogame/))
-- SQL and NoSQL Query langauge support come to ReSharper! ([8 hours ago](https://blog.jetbrains.com/dotnet/2025/06/10/sql-and-nosql-query-langauge-support-come-to-resharper/))
+- Converting a Microsoft XNA 3.1 game to MonoGame ([9 hours ago](https://andrewlock.net/converting-an-xna-game-to-monogame/))
+- SQL and NoSQL Query langauge support come to ReSharper! ([9 hours ago](https://blog.jetbrains.com/dotnet/2025/06/10/sql-and-nosql-query-langauge-support-come-to-resharper/))
 - Surviving the Great Commoditizer: Stop Getting 'Good' at ChatGPT ([23 hours ago](https://dotnetkicks.com/r/722479?url=https://daedtech.com/surviving-the-great-commoditizer-stop-getting-good-at-chatgpt/))
 - dotNetDave Rocks SQL Saturday in Louisiana ([1 days ago](https://dotnettips.wordpress.com/2025/06/09/dotnetdave-rocks-the-sql-saturday-in-louisiana/))
 - Next edit suggestions available in Visual Studio GitHub Copilot - Visual Studio Blog ([1 days ago](https://dotnetkicks.com/r/722382?url=https://devblogs.microsoft.com/visualstudio/next-edit-suggestions-available-in-visual-studio-github-copilot/))
