@@ -8,10 +8,12 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Surviving the Great Commoditizer: Stop Getting 'Good' at ChatGPT ([15 hours ago](https://dotnetkicks.com/r/722479?url=https://daedtech.com/surviving-the-great-commoditizer-stop-getting-good-at-chatgpt/))
+- Converting a Microsoft XNA 3.1 game to MonoGame ([8 minutes ago](https://dotnetkicks.com/r/722535?url=https://andrewlock.net/converting-an-xna-game-to-monogame/))
+- Converting a Microsoft XNA 3.1 game to MonoGame ([1 hours ago](https://andrewlock.net/converting-an-xna-game-to-monogame/))
+- Surviving the Great Commoditizer: Stop Getting 'Good' at ChatGPT ([16 hours ago](https://dotnetkicks.com/r/722479?url=https://daedtech.com/surviving-the-great-commoditizer-stop-getting-good-at-chatgpt/))
 - dotNetDave Rocks SQL Saturday in Louisiana ([17 hours ago](https://dotnettips.wordpress.com/2025/06/09/dotnetdave-rocks-the-sql-saturday-in-louisiana/))
-- Next edit suggestions available in Visual Studio GitHub Copilot - Visual Studio Blog ([18 hours ago](https://dotnetkicks.com/r/722382?url=https://devblogs.microsoft.com/visualstudio/next-edit-suggestions-available-in-visual-studio-github-copilot/))
-- Unlocking The Cloud: How To Seamlessly Migrate On-Prem File Shares To Azure Storage  -  Build5Nines ([21 hours ago](https://dotnetkicks.com/r/722344?url=https://build5nines.com/unlocking-the-cloud-how-to-seamlessly-migrate-on-prem-file-shares-to-azure-storage/))
+- Next edit suggestions available in Visual Studio GitHub Copilot - Visual Studio Blog ([19 hours ago](https://dotnetkicks.com/r/722382?url=https://devblogs.microsoft.com/visualstudio/next-edit-suggestions-available-in-visual-studio-github-copilot/))
+- Unlocking The Cloud: How To Seamlessly Migrate On-Prem File Shares To Azure Storage  -  Build5Nines ([22 hours ago](https://dotnetkicks.com/r/722344?url=https://build5nines.com/unlocking-the-cloud-how-to-seamlessly-migrate-on-prem-file-shares-to-azure-storage/))
 - Boost Your .NET Projects: Maximize Thread-Safe Performance in .NET with Spargine’s DistinctBlockingCollection ([1 days ago](https://dotnettips.wordpress.com/2025/06/08/boost-your-net-projects-maximize-thread-safe-performance-in-net-with-spargines-distinctblockingcollection/))
 - F# Weekly #23, 2025 - Catch up on Microsoft Build ([2 days ago](https://dotnetkicks.com/r/722226?url=https://sergeytihon.com/2025/06/07/f-weekly-23-2025-catch-up-on-microsoft-build/))
 - CollabTalk Podcast: Veteran Engineers Aren’t Done Yet – They’re Just Getting Started ([2 days ago](https://dotnettips.wordpress.com/2025/06/07/collabtalk-podcast-veteran-engineers-arent-done-yet-theyre-just-getting-started/))
@@ -46,7 +48,6 @@ description: DotNet Updates
 - Fine-tune the volume of logs your app produces ([11 days ago](https://devblogs.microsoft.com/dotnet/finetune-the-volume-of-logs-your-app-produces/))
 - Software Innovation: HashiCorp Terraform Revolutionized Infrastructure As Code (IaC)  -  Build5Nines ([11 days ago](https://dotnetkicks.com/r/721591?url=https://build5nines.com/software-innovation-hashicorp-terraform-revolutionized-infrastructure-as-code-iac/))
 - Database Coupling: How to FIX a Spaghetti Code System ([12 days ago](https://dotnetkicks.com/r/721542?url=https://codeopinion.com/database-coupling-how-to-fix-a-spaghetti-code-system/))
-- Announcing dotnet run app.cs - A simpler way to start with C# and .NET 10 - .NET Blog ([12 days ago](https://dotnetkicks.com/r/721492?url=https://devblogs.microsoft.com/dotnet/announcing-dotnet-run-app/))
 - Announcing dotnet run app.cs – A simpler way to start with C# and .NET 10 ([12 days ago](https://devblogs.microsoft.com/dotnet/announcing-dotnet-run-app/))
 - Coding Faster with dotNetTips Spargine: Validating Data Made Easy with Validator ([13 days ago](https://dotnettips.wordpress.com/2025/05/28/coding-faster-with-dotnettips-spargine-validating-data-made-easy-with-validator/))
 - Circuit Breaker Policy Fine-tuning Best Practice ([13 days ago](https://devblogs.microsoft.com/dotnet/circuit-breaker-policy-finetuning-best-practice/))
