@@ -8,12 +8,12 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- .NET and .NET Framework June 2025 servicing releases updates - .NET Blog ([2 hours ago](https://dotnetkicks.com/r/722580?url=https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-june-2025-servicing-updates/))
-- .NET and .NET Framework June 2025 servicing releases updates - .NET Blog ([2 hours ago](https://dotnetkicks.com/r/722567?url=https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-june-2025-servicing-updates/))
-- .NET and .NET Framework June 2025 servicing releases updates ([2 hours ago](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-june-2025-servicing-updates/))
-- .NET 10 Preview 5 is now available! - .NET Blog ([4 hours ago](https://dotnetkicks.com/r/722563?url=https://devblogs.microsoft.com/dotnet/dotnet-10-preview-5/))
-- .NET 10 Preview 5 is now available! ([4 hours ago](https://devblogs.microsoft.com/dotnet/dotnet-10-preview-5/))
-- Converting a Microsoft XNA 3.1 game to MonoGame ([12 hours ago](https://dotnetkicks.com/r/722535?url=https://andrewlock.net/converting-an-xna-game-to-monogame/))
+- .NET and .NET Framework June 2025 servicing releases updates - .NET Blog ([3 hours ago](https://dotnetkicks.com/r/722580?url=https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-june-2025-servicing-updates/))
+- .NET and .NET Framework June 2025 servicing releases updates - .NET Blog ([3 hours ago](https://dotnetkicks.com/r/722567?url=https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-june-2025-servicing-updates/))
+- .NET and .NET Framework June 2025 servicing releases updates ([3 hours ago](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-june-2025-servicing-updates/))
+- .NET 10 Preview 5 is now available! - .NET Blog ([5 hours ago](https://dotnetkicks.com/r/722563?url=https://devblogs.microsoft.com/dotnet/dotnet-10-preview-5/))
+- .NET 10 Preview 5 is now available! ([5 hours ago](https://devblogs.microsoft.com/dotnet/dotnet-10-preview-5/))
+- Converting a Microsoft XNA 3.1 game to MonoGame ([13 hours ago](https://dotnetkicks.com/r/722535?url=https://andrewlock.net/converting-an-xna-game-to-monogame/))
 - Converting a Microsoft XNA 3.1 game to MonoGame ([14 hours ago](https://andrewlock.net/converting-an-xna-game-to-monogame/))
 - SQL and NoSQL Query langauge support come to ReSharper! ([14 hours ago](https://blog.jetbrains.com/dotnet/2025/06/10/sql-and-nosql-query-langauge-support-come-to-resharper/))
 - Surviving the Great Commoditizer: Stop Getting 'Good' at ChatGPT ([1 days ago](https://dotnetkicks.com/r/722479?url=https://daedtech.com/surviving-the-great-commoditizer-stop-getting-good-at-chatgpt/))
