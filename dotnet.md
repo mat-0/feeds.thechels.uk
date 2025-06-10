@@ -8,10 +8,11 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Converting a Microsoft XNA 3.1 game to MonoGame ([1 hours ago](https://dotnetkicks.com/r/722535?url=https://andrewlock.net/converting-an-xna-game-to-monogame/))
+- Converting a Microsoft XNA 3.1 game to MonoGame ([2 hours ago](https://dotnetkicks.com/r/722535?url=https://andrewlock.net/converting-an-xna-game-to-monogame/))
 - Converting a Microsoft XNA 3.1 game to MonoGame ([3 hours ago](https://andrewlock.net/converting-an-xna-game-to-monogame/))
-- Surviving the Great Commoditizer: Stop Getting 'Good' at ChatGPT ([17 hours ago](https://dotnetkicks.com/r/722479?url=https://daedtech.com/surviving-the-great-commoditizer-stop-getting-good-at-chatgpt/))
-- dotNetDave Rocks SQL Saturday in Louisiana ([19 hours ago](https://dotnettips.wordpress.com/2025/06/09/dotnetdave-rocks-the-sql-saturday-in-louisiana/))
+- SQL and NoSQL Query langauge support come to ReSharper! ([4 hours ago](https://blog.jetbrains.com/dotnet/2025/06/10/sql-and-nosql-query-langauge-support-come-to-resharper/))
+- Surviving the Great Commoditizer: Stop Getting 'Good' at ChatGPT ([18 hours ago](https://dotnetkicks.com/r/722479?url=https://daedtech.com/surviving-the-great-commoditizer-stop-getting-good-at-chatgpt/))
+- dotNetDave Rocks SQL Saturday in Louisiana ([20 hours ago](https://dotnettips.wordpress.com/2025/06/09/dotnetdave-rocks-the-sql-saturday-in-louisiana/))
 - Next edit suggestions available in Visual Studio GitHub Copilot - Visual Studio Blog ([21 hours ago](https://dotnetkicks.com/r/722382?url=https://devblogs.microsoft.com/visualstudio/next-edit-suggestions-available-in-visual-studio-github-copilot/))
 - Unlocking The Cloud: How To Seamlessly Migrate On-Prem File Shares To Azure Storage  -  Build5Nines ([1 days ago](https://dotnetkicks.com/r/722344?url=https://build5nines.com/unlocking-the-cloud-how-to-seamlessly-migrate-on-prem-file-shares-to-azure-storage/))
 - Boost Your .NET Projects: Maximize Thread-Safe Performance in .NET with Spargine’s DistinctBlockingCollection ([1 days ago](https://dotnettips.wordpress.com/2025/06/08/boost-your-net-projects-maximize-thread-safe-performance-in-net-with-spargines-distinctblockingcollection/))
