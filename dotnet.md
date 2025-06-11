@@ -8,8 +8,8 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- First Look: Apple's NEURLFilter API ([3 hours ago](https://dotnetkicks.com/r/722646?url=https://textslashplain.com/2025/06/10/apple-url-filter-api/))
-- Experimental alternative flow for OAuth First-Party Applications ([10 hours ago](https://dotnetkicks.com/r/722615?url=https://damienbod.com/2025/06/10/experimental-alternative-flow-for-oauth-first-party-applications/))
+- First Look: Apple's NEURLFilter API ([4 hours ago](https://dotnetkicks.com/r/722646?url=https://textslashplain.com/2025/06/10/apple-url-filter-api/))
+- Experimental alternative flow for OAuth First-Party Applications ([11 hours ago](https://dotnetkicks.com/r/722615?url=https://damienbod.com/2025/06/10/experimental-alternative-flow-for-oauth-first-party-applications/))
 - .NET and .NET Framework June 2025 servicing releases updates - .NET Blog ([14 hours ago](https://dotnetkicks.com/r/722580?url=https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-june-2025-servicing-updates/))
 - .NET and .NET Framework June 2025 servicing releases updates - .NET Blog ([14 hours ago](https://dotnetkicks.com/r/722567?url=https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-june-2025-servicing-updates/))
 - .NET and .NET Framework June 2025 servicing releases updates ([14 hours ago](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-june-2025-servicing-updates/))
@@ -62,8 +62,8 @@ description: DotNet Updates
 - .NET Aspire 9.3 is here and enhanced with GitHub Copilot! ([22 days ago](https://devblogs.microsoft.com/dotnet/introducing-dotnet-aspire-93/))
 - JetBrains AI Assistant – Now in Visual Studio Code ([22 days ago](https://blog.jetbrains.com/ai/2025/05/jetbrains-ai-assistant-now-in-visual-studio-code/))
 - ReSharper Comes to Microsoft Visual Studio Code: Public Preview Now Open ([22 days ago](https://blog.jetbrains.com/dotnet/2025/05/19/resharper-comes-to-microsoft-visual-studio-code/))
-- Rider 2025.2 Early Access Program Is Live! ([25 days ago](https://blog.jetbrains.com/dotnet/2025/05/16/rider-2025-2-eap-1/))
-- The Early Access Program for ReSharper and .NET Tools 2025.2 Has Begun! ([25 days ago](https://blog.jetbrains.com/dotnet/2025/05/16/resharper-2025-2-eap-1/))
+- Rider 2025.2 Early Access Program Is Live! ([26 days ago](https://blog.jetbrains.com/dotnet/2025/05/16/rider-2025-2-eap-1/))
+- The Early Access Program for ReSharper and .NET Tools 2025.2 Has Begun! ([26 days ago](https://blog.jetbrains.com/dotnet/2025/05/16/resharper-2025-2-eap-1/))
 - Using the new AI template to create a chatbot about a website ([29 days ago](https://andrewlock.net/using-the-new-ai-template-to-create-a-chatbot-about-a-website/))
 
 <!-- news_marker ends -->
