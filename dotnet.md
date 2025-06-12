@@ -8,7 +8,7 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Multimodal Voice Intelligence with .NET MAUI - .NET Blog ([16 hours ago](https://dotnetkicks.com/r/722710?url=https://devblogs.microsoft.com/dotnet/multimodal-voice-intelligence-with-dotnet-maui/))
+- Multimodal Voice Intelligence with .NET MAUI - .NET Blog ([17 hours ago](https://dotnetkicks.com/r/722710?url=https://devblogs.microsoft.com/dotnet/multimodal-voice-intelligence-with-dotnet-maui/))
 - Multimodal Voice Intelligence with .NET MAUI ([17 hours ago](https://devblogs.microsoft.com/dotnet/multimodal-voice-intelligence-with-dotnet-maui/))
 - First Look: Apple's NEURLFilter API ([1 days ago](https://dotnetkicks.com/r/722646?url=https://textslashplain.com/2025/06/10/apple-url-filter-api/))
 - Experimental alternative flow for OAuth First-Party Applications ([1 days ago](https://dotnetkicks.com/r/722615?url=https://damienbod.com/2025/06/10/experimental-alternative-flow-for-oauth-first-party-applications/))
@@ -17,7 +17,7 @@ description: DotNet Updates
 - .NET and .NET Framework June 2025 servicing releases updates ([1 days ago](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-june-2025-servicing-updates/))
 - .NET 10 Preview 5 is now available! - .NET Blog ([1 days ago](https://dotnetkicks.com/r/722563?url=https://devblogs.microsoft.com/dotnet/dotnet-10-preview-5/))
 - .NET 10 Preview 5 is now available! ([1 days ago](https://devblogs.microsoft.com/dotnet/dotnet-10-preview-5/))
-- Converting a Microsoft XNA 3.1 game to MonoGame ([1 days ago](https://dotnetkicks.com/r/722535?url=https://andrewlock.net/converting-an-xna-game-to-monogame/))
+- Converting a Microsoft XNA 3.1 game to MonoGame ([2 days ago](https://dotnetkicks.com/r/722535?url=https://andrewlock.net/converting-an-xna-game-to-monogame/))
 - Converting a Microsoft XNA 3.1 game to MonoGame ([2 days ago](https://andrewlock.net/converting-an-xna-game-to-monogame/))
 - SQL and NoSQL Query langauge support come to ReSharper! ([2 days ago](https://blog.jetbrains.com/dotnet/2025/06/10/sql-and-nosql-query-langauge-support-come-to-resharper/))
 - Surviving the Great Commoditizer: Stop Getting 'Good' at ChatGPT ([2 days ago](https://dotnetkicks.com/r/722479?url=https://daedtech.com/surviving-the-great-commoditizer-stop-getting-good-at-chatgpt/))
