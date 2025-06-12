@@ -9,7 +9,7 @@ description: DotNet Updates
 
 <!-- news_marker starts -->
 - ReSharper and Rider 2025.1.3: Important Updates Released ([1 hours ago](https://blog.jetbrains.com/dotnet/2025/06/12/resharper-and-rider-2025-1-3-important-updates-released/))
-- Multimodal Voice Intelligence with .NET MAUI - .NET Blog ([20 hours ago](https://dotnetkicks.com/r/722710?url=https://devblogs.microsoft.com/dotnet/multimodal-voice-intelligence-with-dotnet-maui/))
+- Multimodal Voice Intelligence with .NET MAUI - .NET Blog ([21 hours ago](https://dotnetkicks.com/r/722710?url=https://devblogs.microsoft.com/dotnet/multimodal-voice-intelligence-with-dotnet-maui/))
 - Multimodal Voice Intelligence with .NET MAUI ([21 hours ago](https://devblogs.microsoft.com/dotnet/multimodal-voice-intelligence-with-dotnet-maui/))
 - First Look: Apple's NEURLFilter API ([1 days ago](https://dotnetkicks.com/r/722646?url=https://textslashplain.com/2025/06/10/apple-url-filter-api/))
 - Experimental alternative flow for OAuth First-Party Applications ([1 days ago](https://dotnetkicks.com/r/722615?url=https://damienbod.com/2025/06/10/experimental-alternative-flow-for-oauth-first-party-applications/))
