@@ -8,7 +8,7 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Multimodal Voice Intelligence with .NET MAUI - .NET Blog ([17 hours ago](https://dotnetkicks.com/r/722710?url=https://devblogs.microsoft.com/dotnet/multimodal-voice-intelligence-with-dotnet-maui/))
+- Multimodal Voice Intelligence with .NET MAUI - .NET Blog ([18 hours ago](https://dotnetkicks.com/r/722710?url=https://devblogs.microsoft.com/dotnet/multimodal-voice-intelligence-with-dotnet-maui/))
 - Multimodal Voice Intelligence with .NET MAUI ([18 hours ago](https://devblogs.microsoft.com/dotnet/multimodal-voice-intelligence-with-dotnet-maui/))
 - First Look: Apple's NEURLFilter API ([1 days ago](https://dotnetkicks.com/r/722646?url=https://textslashplain.com/2025/06/10/apple-url-filter-api/))
 - Experimental alternative flow for OAuth First-Party Applications ([1 days ago](https://dotnetkicks.com/r/722615?url=https://damienbod.com/2025/06/10/experimental-alternative-flow-for-oauth-first-party-applications/))
@@ -57,11 +57,11 @@ description: DotNet Updates
 - Circuit Breaker Policy Fine-tuning Best Practice ([15 days ago](https://devblogs.microsoft.com/dotnet/circuit-breaker-policy-finetuning-best-practice/))
 - Converting a docker-compose file to .NET Aspire ([16 days ago](https://andrewlock.net/converting-a-docker-compose-file-to-aspire/))
 - Coding Faster with dotNetTips Spargine: Validating Arguments Made Easy with Validator ([18 days ago](https://dotnettips.wordpress.com/2025/05/25/coding-faster-with-dotnettips-spargine-validating-arguments-made-easy-with-validator/))
-- ReSharper 2025.2 EAP 2: First Public Build with Out-of-Process Mode Support ([20 days ago](https://blog.jetbrains.com/dotnet/2025/05/22/resharper-2025-2-eap-2-oop-mode/))
+- ReSharper 2025.2 EAP 2: First Public Build with Out-of-Process Mode Support ([21 days ago](https://blog.jetbrains.com/dotnet/2025/05/22/resharper-2025-2-eap-2-oop-mode/))
 - AI and Vector Data Extensions are now Generally Available (GA) ([21 days ago](https://devblogs.microsoft.com/dotnet/ai-vector-data-dotnet-extensions-ga/))
 - Pushing a whole stack of branches with a single Git command ([23 days ago](https://andrewlock.net/pushing-a-whole-stack-of-branches-with-a-single-git-command/))
-- JetBrains AI Assistant – Now in Visual Studio Code ([23 days ago](https://blog.jetbrains.com/ai/2025/05/jetbrains-ai-assistant-now-in-visual-studio-code/))
-- ReSharper Comes to Microsoft Visual Studio Code: Public Preview Now Open ([23 days ago](https://blog.jetbrains.com/dotnet/2025/05/19/resharper-comes-to-microsoft-visual-studio-code/))
+- JetBrains AI Assistant – Now in Visual Studio Code ([24 days ago](https://blog.jetbrains.com/ai/2025/05/jetbrains-ai-assistant-now-in-visual-studio-code/))
+- ReSharper Comes to Microsoft Visual Studio Code: Public Preview Now Open ([24 days ago](https://blog.jetbrains.com/dotnet/2025/05/19/resharper-comes-to-microsoft-visual-studio-code/))
 - Rider 2025.2 Early Access Program Is Live! ([27 days ago](https://blog.jetbrains.com/dotnet/2025/05/16/rider-2025-2-eap-1/))
 - The Early Access Program for ReSharper and .NET Tools 2025.2 Has Begun! ([27 days ago](https://blog.jetbrains.com/dotnet/2025/05/16/resharper-2025-2-eap-1/))
 
