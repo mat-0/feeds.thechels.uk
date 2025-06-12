@@ -8,7 +8,7 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Multimodal Voice Intelligence with .NET MAUI - .NET Blog ([14 hours ago](https://dotnetkicks.com/r/722710?url=https://devblogs.microsoft.com/dotnet/multimodal-voice-intelligence-with-dotnet-maui/))
+- Multimodal Voice Intelligence with .NET MAUI - .NET Blog ([15 hours ago](https://dotnetkicks.com/r/722710?url=https://devblogs.microsoft.com/dotnet/multimodal-voice-intelligence-with-dotnet-maui/))
 - Multimodal Voice Intelligence with .NET MAUI ([15 hours ago](https://devblogs.microsoft.com/dotnet/multimodal-voice-intelligence-with-dotnet-maui/))
 - First Look: Apple's NEURLFilter API ([1 days ago](https://dotnetkicks.com/r/722646?url=https://textslashplain.com/2025/06/10/apple-url-filter-api/))
 - Experimental alternative flow for OAuth First-Party Applications ([1 days ago](https://dotnetkicks.com/r/722615?url=https://damienbod.com/2025/06/10/experimental-alternative-flow-for-oauth-first-party-applications/))
@@ -25,7 +25,7 @@ description: DotNet Updates
 - Next edit suggestions available in Visual Studio GitHub Copilot - Visual Studio Blog ([2 days ago](https://dotnetkicks.com/r/722382?url=https://devblogs.microsoft.com/visualstudio/next-edit-suggestions-available-in-visual-studio-github-copilot/))
 - Unlocking The Cloud: How To Seamlessly Migrate On-Prem File Shares To Azure Storage  -  Build5Nines ([2 days ago](https://dotnetkicks.com/r/722344?url=https://build5nines.com/unlocking-the-cloud-how-to-seamlessly-migrate-on-prem-file-shares-to-azure-storage/))
 - Boost Your .NET Projects: Maximize Thread-Safe Performance in .NET with Spargine’s DistinctBlockingCollection ([3 days ago](https://dotnettips.wordpress.com/2025/06/08/boost-your-net-projects-maximize-thread-safe-performance-in-net-with-spargines-distinctblockingcollection/))
-- F# Weekly #23, 2025 - Catch up on Microsoft Build ([3 days ago](https://dotnetkicks.com/r/722226?url=https://sergeytihon.com/2025/06/07/f-weekly-23-2025-catch-up-on-microsoft-build/))
+- F# Weekly #23, 2025 - Catch up on Microsoft Build ([4 days ago](https://dotnetkicks.com/r/722226?url=https://sergeytihon.com/2025/06/07/f-weekly-23-2025-catch-up-on-microsoft-build/))
 - CollabTalk Podcast: Veteran Engineers Aren’t Done Yet – They’re Just Getting Started ([4 days ago](https://dotnettips.wordpress.com/2025/06/07/collabtalk-podcast-veteran-engineers-arent-done-yet-theyre-just-getting-started/))
 - Adding Extension Properties with State to Types, (Sort of) In Spargine ([6 days ago](https://dotnettips.wordpress.com/2025/06/06/adding-extension-properties-to-types-sort-of-in-spargine/))
 - Emit logs on-demand with log buffering - .NET Blog ([6 days ago](https://dotnetkicks.com/r/722131?url=https://devblogs.microsoft.com/dotnet/emit-logs-on-demand-with-log-buffering/))
