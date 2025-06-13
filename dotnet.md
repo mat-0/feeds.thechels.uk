@@ -9,10 +9,10 @@ description: DotNet Updates
 
 <!-- news_marker starts -->
 - Family Safety Content Filtering ([3 hours ago](https://dotnetkicks.com/r/722890?url=https://textslashplain.com/2025/06/12/family-safety-content-filtering/))
-- JetBrains GameDev Days 2025 – Call for Speakers ([4 hours ago](https://blog.jetbrains.com/dotnet/2025/06/13/jetbrains-gamedev-days-2025-call-for-speakers/))
+- JetBrains GameDev Days 2025 – Call for Speakers ([5 hours ago](https://blog.jetbrains.com/dotnet/2025/06/13/jetbrains-gamedev-days-2025-call-for-speakers/))
 - Improve Your Productivity with New GitHub Copilot Features for .NET! - .NET Blog ([21 hours ago](https://dotnetkicks.com/r/722812?url=https://devblogs.microsoft.com/dotnet/improve-productivity-with-github-copilot-dotnet/))
 - Improve Your Productivity with New GitHub Copilot Features for .NET! - .NET Blog ([21 hours ago](https://dotnetkicks.com/r/722805?url=https://devblogs.microsoft.com/dotnet/improve-productivity-with-github-copilot-dotnet/))
-- Improve Your Productivity with New GitHub Copilot Features for .NET! ([21 hours ago](https://devblogs.microsoft.com/dotnet/improve-productivity-with-github-copilot-dotnet/))
+- Improve Your Productivity with New GitHub Copilot Features for .NET! ([22 hours ago](https://devblogs.microsoft.com/dotnet/improve-productivity-with-github-copilot-dotnet/))
 - You DON'T Need Microservices for Serverless! ([22 hours ago](https://dotnetkicks.com/r/722771?url=https://codeopinion.com/you-dont-need-microservices-for-serverless/))
 - ReSharper and Rider 2025.1.3: Important Updates Released ([1 days ago](https://blog.jetbrains.com/dotnet/2025/06/12/resharper-and-rider-2025-1-3-important-updates-released/))
 - Multimodal Voice Intelligence with .NET MAUI - .NET Blog ([1 days ago](https://dotnetkicks.com/r/722710?url=https://devblogs.microsoft.com/dotnet/multimodal-voice-intelligence-with-dotnet-maui/))
