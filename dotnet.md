@@ -8,7 +8,7 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Family Safety Content Filtering ([8 hours ago](https://dotnetkicks.com/r/722890?url=https://textslashplain.com/2025/06/12/family-safety-content-filtering/))
+- Family Safety Content Filtering ([9 hours ago](https://dotnetkicks.com/r/722890?url=https://textslashplain.com/2025/06/12/family-safety-content-filtering/))
 - JetBrains GameDev Days 2025 – Call for Speakers ([10 hours ago](https://blog.jetbrains.com/dotnet/2025/06/13/jetbrains-gamedev-days-2025-call-for-speakers/))
 - Improve Your Productivity with New GitHub Copilot Features for .NET! - .NET Blog ([1 days ago](https://dotnetkicks.com/r/722812?url=https://devblogs.microsoft.com/dotnet/improve-productivity-with-github-copilot-dotnet/))
 - Improve Your Productivity with New GitHub Copilot Features for .NET! - .NET Blog ([1 days ago](https://dotnetkicks.com/r/722805?url=https://devblogs.microsoft.com/dotnet/improve-productivity-with-github-copilot-dotnet/))
@@ -19,9 +19,9 @@ description: DotNet Updates
 - Multimodal Voice Intelligence with .NET MAUI ([2 days ago](https://devblogs.microsoft.com/dotnet/multimodal-voice-intelligence-with-dotnet-maui/))
 - First Look: Apple's NEURLFilter API ([2 days ago](https://dotnetkicks.com/r/722646?url=https://textslashplain.com/2025/06/10/apple-url-filter-api/))
 - Experimental alternative flow for OAuth First-Party Applications ([2 days ago](https://dotnetkicks.com/r/722615?url=https://damienbod.com/2025/06/10/experimental-alternative-flow-for-oauth-first-party-applications/))
-- .NET and .NET Framework June 2025 servicing releases updates - .NET Blog ([2 days ago](https://dotnetkicks.com/r/722580?url=https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-june-2025-servicing-updates/))
-- .NET and .NET Framework June 2025 servicing releases updates - .NET Blog ([2 days ago](https://dotnetkicks.com/r/722567?url=https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-june-2025-servicing-updates/))
-- .NET and .NET Framework June 2025 servicing releases updates ([2 days ago](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-june-2025-servicing-updates/))
+- .NET and .NET Framework June 2025 servicing releases updates - .NET Blog ([3 days ago](https://dotnetkicks.com/r/722580?url=https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-june-2025-servicing-updates/))
+- .NET and .NET Framework June 2025 servicing releases updates - .NET Blog ([3 days ago](https://dotnetkicks.com/r/722567?url=https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-june-2025-servicing-updates/))
+- .NET and .NET Framework June 2025 servicing releases updates ([3 days ago](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-june-2025-servicing-updates/))
 - .NET 10 Preview 5 is now available! - .NET Blog ([3 days ago](https://dotnetkicks.com/r/722563?url=https://devblogs.microsoft.com/dotnet/dotnet-10-preview-5/))
 - .NET 10 Preview 5 is now available! ([3 days ago](https://devblogs.microsoft.com/dotnet/dotnet-10-preview-5/))
 - Converting a Microsoft XNA 3.1 game to MonoGame ([3 days ago](https://dotnetkicks.com/r/722535?url=https://andrewlock.net/converting-an-xna-game-to-monogame/))
