@@ -8,8 +8,8 @@ description: SecOps News
 [Get this as an RSS feed](/secops.rss)
 
 <!-- news_marker starts -->
-- WestJet investigates cyberattack disrupting internal systems ([2 hours ago](https://www.bleepingcomputer.com/news/security/westjet-investigates-cyberattack-disrupting-internal-systems/))
-- Anubis ransomware adds wiper to destroy files beyond recovery ([5 hours ago](https://www.bleepingcomputer.com/news/security/anubis-ransomware-adds-wiper-to-destroy-files-beyond-recovery/))
+- WestJet investigates cyberattack disrupting internal systems ([3 hours ago](https://www.bleepingcomputer.com/news/security/westjet-investigates-cyberattack-disrupting-internal-systems/))
+- Anubis ransomware adds wiper to destroy files beyond recovery ([6 hours ago](https://www.bleepingcomputer.com/news/security/anubis-ransomware-adds-wiper-to-destroy-files-beyond-recovery/))
 - Windows 11 users want these five features back ([6 hours ago](https://www.bleepingcomputer.com/news/microsoft/windows-11-users-want-these-five-features-back/))
 - As RHEL clones hit version 10, Rocky and Alma chart diverging paths ([12 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/06/14/rocky_alma_and_rhel_10/))
 - Discord Invite Link Hijacking Delivers AsyncRAT and Skuld Stealer Targeting Crypto Wallets ([17 hours ago](https://thehackernews.com/2025/06/discord-invite-link-hijacking-delivers.html))
@@ -51,7 +51,7 @@ description: SecOps News
 - Ransomware scum disrupted utility services with SimpleHelp attacks ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2025/06/12/cisa_simplehelp_flaw_exploit_warning/))
 - Inside a Dark Adtech Empire Fed by Fake CAPTCHAs ([1 days ago](https://krebsonsecurity.com/2025/06/inside-a-dark-adtech-empire-fed-by-fake-captchas/))
 - Some Copilot chat models are failing requests ([1 days ago](https://www.githubstatus.com/incidents/j46wj670px33))
-- Incident with Actions ([1 days ago](https://www.githubstatus.com/incidents/d9xd9k1j6sl0))
+- Incident with Actions ([2 days ago](https://www.githubstatus.com/incidents/d9xd9k1j6sl0))
 - Trend Micro fixes critical vulnerabilities in multiple products ([2 days ago](https://www.bleepingcomputer.com/news/security/trend-micro-fixes-six-critical-flaws-on-apex-central-endpoint-encryption-policyserver/))
 - Google Cloud and Cloudflare hit by widespread service outages ([2 days ago](https://www.bleepingcomputer.com/news/technology/google-cloud-and-cloudflare-hit-by-widespread-service-outages/))
 - AMD bets on rack-scale compute to boost AI efficiency 20x by 2030 ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2025/06/12/amd_20x_30/))
@@ -207,7 +207,7 @@ description: SecOps News
 - Elevated error rates for Claude Sonnet 3.7 ([25 days ago](https://www.githubstatus.com/incidents/rkkhrht3j3y3))
 - Software Security Code of Practice - Assurance Principles and Claims (APCs) ([25 days ago](https://www.ncsc.gov.uk/guidance/software-security-code-of-practice-assurance-principles-claims))
 - Decommissioning assets ([25 days ago](https://www.ncsc.gov.uk/guidance/decommissioning-assets))
-- Have I Been Pwned 2.0 is Now Live! ([25 days ago](https://www.troyhunt.com/have-i-been-pwned-2-0-is-now-live/))
+- Have I Been Pwned 2.0 is Now Live! ([26 days ago](https://www.troyhunt.com/have-i-been-pwned-2-0-is-now-live/))
 - GitHub Enterprise Importer (GEI) is experiencing degraded throughput ([28 days ago](https://www.githubstatus.com/incidents/71tl7pkqysgw))
 - Weekly Update 452 ([28 days ago](https://www.troyhunt.com/weekly-update-452/))
 - Impact of AI on cyber threat from now to 2027 ([29 days ago](https://www.ncsc.gov.uk/report/impact-ai-cyber-threat-now-2027))
