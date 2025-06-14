@@ -8,12 +8,12 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- David Howden awarded CBE in King’s Birthday Honours list ([3 hours ago](https://www.postonline.co.uk/news/7957942/david-howden-awarded-cbe-in-king%E2%80%99s-birthday-honours-list))
+- David Howden awarded CBE in King’s Birthday Honours list ([4 hours ago](https://www.postonline.co.uk/news/7957942/david-howden-awarded-cbe-in-king%E2%80%99s-birthday-honours-list))
 - Comment From Thatcham on Automated Vehicle Trials ([7 hours ago](https://insurance-edge.net/2025/06/14/comment-from-thatcham-on-automated-vehicle-trials/))
-- Homeowners battle insurers over $2.9T climate risk ([20 hours ago](https://www.dig-in.com/articles/homeowners-battle-insurers-over-2-9t-climate-risk))
+- Homeowners battle insurers over $2.9T climate risk ([21 hours ago](https://www.dig-in.com/articles/homeowners-battle-insurers-over-2-9t-climate-risk))
 - WTW says innovation starts with culture and strong leadership ([22 hours ago](https://www.insurancebusinessmag.com/uk/news/sme/wtw-says-innovation-starts-with-culture-and-strong-leadership-539078.aspx))
-- Insurer USAA Expands Presence in Virginia With Purchase of Building ([23 hours ago](https://www.insurancejournal.com/news/east/2025/06/13/827669.htm))
-- Parametric Solution For Hurricane Events Presented at IDF ([23 hours ago](https://insurance-edge.net/2025/06/13/parametric-solution-for-hurricane-events-presented-at-idf/))
+- Insurer USAA Expands Presence in Virginia With Purchase of Building ([1 days ago](https://www.insurancejournal.com/news/east/2025/06/13/827669.htm))
+- Parametric Solution For Hurricane Events Presented at IDF ([1 days ago](https://insurance-edge.net/2025/06/13/parametric-solution-for-hurricane-events-presented-at-idf/))
 - US home insurance becoming increasingly unaffordable: IRC ([1 days ago](https://www.reinsurancene.ws/us-home-insurance-becoming-increasingly-unaffordable-irc/))
 - ARC’s Board appoints David Maslo as interim CEO ([1 days ago](https://www.reinsurancene.ws/arcs-board-appoints-david-maslo-as-interim-ceo/))
 - Court deems credit hire companies liable for costs ([1 days ago](https://www.postonline.co.uk/news/7957939/court-deems-credit-hire-companies-liable-for-costs))
