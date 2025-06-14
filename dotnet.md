@@ -8,7 +8,7 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Family Safety Content Filtering ([23 hours ago](https://dotnetkicks.com/r/722890?url=https://textslashplain.com/2025/06/12/family-safety-content-filtering/))
+- Family Safety Content Filtering ([1 days ago](https://dotnetkicks.com/r/722890?url=https://textslashplain.com/2025/06/12/family-safety-content-filtering/))
 - JetBrains GameDev Days 2025 – Call for Speakers ([1 days ago](https://blog.jetbrains.com/dotnet/2025/06/13/jetbrains-gamedev-days-2025-call-for-speakers/))
 - Improve Your Productivity with New GitHub Copilot Features for .NET! - .NET Blog ([1 days ago](https://dotnetkicks.com/r/722812?url=https://devblogs.microsoft.com/dotnet/improve-productivity-with-github-copilot-dotnet/))
 - Improve Your Productivity with New GitHub Copilot Features for .NET! - .NET Blog ([1 days ago](https://dotnetkicks.com/r/722805?url=https://devblogs.microsoft.com/dotnet/improve-productivity-with-github-copilot-dotnet/))
@@ -60,10 +60,10 @@ description: DotNet Updates
 - Circuit Breaker Policy Fine-tuning Best Practice ([17 days ago](https://devblogs.microsoft.com/dotnet/circuit-breaker-policy-finetuning-best-practice/))
 - Converting a docker-compose file to .NET Aspire ([18 days ago](https://andrewlock.net/converting-a-docker-compose-file-to-aspire/))
 - Coding Faster with dotNetTips Spargine: Validating Arguments Made Easy with Validator ([20 days ago](https://dotnettips.wordpress.com/2025/05/25/coding-faster-with-dotnettips-spargine-validating-arguments-made-easy-with-validator/))
-- ReSharper 2025.2 EAP 2: First Public Build with Out-of-Process Mode Support ([22 days ago](https://blog.jetbrains.com/dotnet/2025/05/22/resharper-2025-2-eap-2-oop-mode/))
+- ReSharper 2025.2 EAP 2: First Public Build with Out-of-Process Mode Support ([23 days ago](https://blog.jetbrains.com/dotnet/2025/05/22/resharper-2025-2-eap-2-oop-mode/))
 - Pushing a whole stack of branches with a single Git command ([25 days ago](https://andrewlock.net/pushing-a-whole-stack-of-branches-with-a-single-git-command/))
-- JetBrains AI Assistant – Now in Visual Studio Code ([25 days ago](https://blog.jetbrains.com/ai/2025/05/jetbrains-ai-assistant-now-in-visual-studio-code/))
-- ReSharper Comes to Microsoft Visual Studio Code: Public Preview Now Open ([25 days ago](https://blog.jetbrains.com/dotnet/2025/05/19/resharper-comes-to-microsoft-visual-studio-code/))
+- JetBrains AI Assistant – Now in Visual Studio Code ([26 days ago](https://blog.jetbrains.com/ai/2025/05/jetbrains-ai-assistant-now-in-visual-studio-code/))
+- ReSharper Comes to Microsoft Visual Studio Code: Public Preview Now Open ([26 days ago](https://blog.jetbrains.com/dotnet/2025/05/19/resharper-comes-to-microsoft-visual-studio-code/))
 - Rider 2025.2 Early Access Program Is Live! ([29 days ago](https://blog.jetbrains.com/dotnet/2025/05/16/rider-2025-2-eap-1/))
 - The Early Access Program for ReSharper and .NET Tools 2025.2 Has Begun! ([29 days ago](https://blog.jetbrains.com/dotnet/2025/05/16/resharper-2025-2-eap-1/))
 
