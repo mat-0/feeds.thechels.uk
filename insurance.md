@@ -9,7 +9,7 @@ description: Insurance Updates
 
 <!-- news_marker starts -->
 - David Howden awarded CBE in King’s Birthday Honours list ([9 hours ago](https://www.postonline.co.uk/news/7957942/david-howden-awarded-cbe-in-king%E2%80%99s-birthday-honours-list))
-- Comment From Thatcham on Automated Vehicle Trials ([12 hours ago](https://insurance-edge.net/2025/06/14/comment-from-thatcham-on-automated-vehicle-trials/))
+- Comment From Thatcham on Automated Vehicle Trials ([13 hours ago](https://insurance-edge.net/2025/06/14/comment-from-thatcham-on-automated-vehicle-trials/))
 - Homeowners battle insurers over $2.9T climate risk ([1 days ago](https://www.dig-in.com/articles/homeowners-battle-insurers-over-2-9t-climate-risk))
 - WTW says innovation starts with culture and strong leadership ([1 days ago](https://www.insurancebusinessmag.com/uk/news/sme/wtw-says-innovation-starts-with-culture-and-strong-leadership-539078.aspx))
 - Insurer USAA Expands Presence in Virginia With Purchase of Building ([1 days ago](https://www.insurancejournal.com/news/east/2025/06/13/827669.htm))
