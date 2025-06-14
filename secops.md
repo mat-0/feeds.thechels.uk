@@ -8,8 +8,8 @@ description: SecOps News
 [Get this as an RSS feed](/secops.rss)
 
 <!-- news_marker starts -->
-- WestJet investigates cyberattack disrupting internal systems ([3 hours ago](https://www.bleepingcomputer.com/news/security/westjet-investigates-cyberattack-disrupting-internal-systems/))
-- Anubis ransomware adds wiper to destroy files beyond recovery ([6 hours ago](https://www.bleepingcomputer.com/news/security/anubis-ransomware-adds-wiper-to-destroy-files-beyond-recovery/))
+- WestJet investigates cyberattack disrupting internal systems ([4 hours ago](https://www.bleepingcomputer.com/news/security/westjet-investigates-cyberattack-disrupting-internal-systems/))
+- Anubis ransomware adds wiper to destroy files beyond recovery ([7 hours ago](https://www.bleepingcomputer.com/news/security/anubis-ransomware-adds-wiper-to-destroy-files-beyond-recovery/))
 - Windows 11 users want these five features back ([7 hours ago](https://www.bleepingcomputer.com/news/microsoft/windows-11-users-want-these-five-features-back/))
 - As RHEL clones hit version 10, Rocky and Alma chart diverging paths ([13 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/06/14/rocky_alma_and_rhel_10/))
 - Discord Invite Link Hijacking Delivers AsyncRAT and Skuld Stealer Targeting Crypto Wallets ([18 hours ago](https://thehackernews.com/2025/06/discord-invite-link-hijacking-delivers.html))
@@ -201,7 +201,7 @@ description: SecOps News
 - Lessons Learned from the Legal Aid Agency Data Breach ([23 days ago](https://www.itgovernance.co.uk/blog/lessons-learned-from-the-legal-aid-agency-data-breach))
 - Delayed GitHub Actions Jobs ([23 days ago](https://www.githubstatus.com/incidents/cbdzqm5fw0fm))
 - Incident with Webhooks ([24 days ago](https://www.githubstatus.com/incidents/89gkzpf9fc20))
-- KrebsOnSecurity Hit With Near-Record 6.3 Tbps DDoS ([24 days ago](https://krebsonsecurity.com/2025/05/krebsonsecurity-hit-with-near-record-6-3-tbps-ddos/))
+- KrebsOnSecurity Hit With Near-Record 6.3 Tbps DDoS ([25 days ago](https://krebsonsecurity.com/2025/05/krebsonsecurity-hit-with-near-record-6-3-tbps-ddos/))
 - Incident with Copilot ([25 days ago](https://www.githubstatus.com/incidents/d3nnz2ckp2f7))
 - Threat Actors Deploy LummaC2 Malware to Exfiltrate Sensitive Data from Organizations ([25 days ago](https://www.cisa.gov/news-events/cybersecurity-advisories/aa25-141b))
 - Elevated error rates for Claude Sonnet 3.7 ([25 days ago](https://www.githubstatus.com/incidents/rkkhrht3j3y3))
