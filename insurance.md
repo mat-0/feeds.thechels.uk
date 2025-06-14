@@ -9,9 +9,9 @@ description: Insurance Updates
 
 <!-- news_marker starts -->
 - David Howden awarded CBE in King’s Birthday Honours list ([2 hours ago](https://www.postonline.co.uk/news/7957942/david-howden-awarded-cbe-in-king%E2%80%99s-birthday-honours-list))
-- Comment From Thatcham on Automated Vehicle Trials ([5 hours ago](https://insurance-edge.net/2025/06/14/comment-from-thatcham-on-automated-vehicle-trials/))
-- Homeowners battle insurers over $2.9T climate risk ([19 hours ago](https://www.dig-in.com/articles/homeowners-battle-insurers-over-2-9t-climate-risk))
-- WTW says innovation starts with culture and strong leadership ([20 hours ago](https://www.insurancebusinessmag.com/uk/news/sme/wtw-says-innovation-starts-with-culture-and-strong-leadership-539078.aspx))
+- Comment From Thatcham on Automated Vehicle Trials ([6 hours ago](https://insurance-edge.net/2025/06/14/comment-from-thatcham-on-automated-vehicle-trials/))
+- Homeowners battle insurers over $2.9T climate risk ([20 hours ago](https://www.dig-in.com/articles/homeowners-battle-insurers-over-2-9t-climate-risk))
+- WTW says innovation starts with culture and strong leadership ([21 hours ago](https://www.insurancebusinessmag.com/uk/news/sme/wtw-says-innovation-starts-with-culture-and-strong-leadership-539078.aspx))
 - Insurer USAA Expands Presence in Virginia With Purchase of Building ([22 hours ago](https://www.insurancejournal.com/news/east/2025/06/13/827669.htm))
 - Parametric Solution For Hurricane Events Presented at IDF ([22 hours ago](https://insurance-edge.net/2025/06/13/parametric-solution-for-hurricane-events-presented-at-idf/))
 - US home insurance becoming increasingly unaffordable: IRC ([1 days ago](https://www.reinsurancene.ws/us-home-insurance-becoming-increasingly-unaffordable-irc/))
@@ -102,7 +102,7 @@ description: Insurance Updates
 - Tech mistakes insurance leaders keep making ([2 days ago](https://www.dig-in.com/opinion/tech-mistakes-insurance-leaders-keep-making))
 - Mergers and acquisitions heat up with AI, insurance, private equity moves ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/mergers-and-acquisitions-heat-up-with-ai-insurance-private-equity-moves-538787.aspx))
 - Starbucks unveils new AI assistant to ease baristas' work ([2 days ago](https://www.insurancebusinessmag.com/uk/business-strategy/starbucks-unveils-new-ai-assistant-to-ease-baristas-work-538756.aspx))
-- Reeves flood defence budget hike fails to ease insurance concerns ([2 days ago](https://www.postonline.co.uk/personal/7957925/reeves-flood-defence-budget-hike-fails-to-ease-insurance-concerns))
+- Reeves flood defence budget hike fails to ease insurance concerns ([3 days ago](https://www.postonline.co.uk/personal/7957925/reeves-flood-defence-budget-hike-fails-to-ease-insurance-concerns))
 - Uber alleges insurance fraud scheme in Florida ([3 days ago](https://www.dig-in.com/articles/uber-alleges-insurance-fraud-scheme-in-florida))
 - Goldman sees autonomous vehicles transforming insurance world ([3 days ago](https://www.dig-in.com/articles/goldman-autonomous-vehicles-transforming-insurance-world))
 - Lloyd's, AIG, Chubb, Swiss Re hit by Russian jet decision in UK court ([3 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/lloyds-aig-chubb-swiss-re-hit-by-russian-jet-decision-in-uk-court-538708.aspx))
