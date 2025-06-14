@@ -9,9 +9,9 @@ description: Insurance Updates
 
 <!-- news_marker starts -->
 - David Howden awarded CBE in King’s Birthday Honours list ([5 hours ago](https://www.postonline.co.uk/news/7957942/david-howden-awarded-cbe-in-king%E2%80%99s-birthday-honours-list))
-- Comment From Thatcham on Automated Vehicle Trials ([8 hours ago](https://insurance-edge.net/2025/06/14/comment-from-thatcham-on-automated-vehicle-trials/))
+- Comment From Thatcham on Automated Vehicle Trials ([9 hours ago](https://insurance-edge.net/2025/06/14/comment-from-thatcham-on-automated-vehicle-trials/))
 - Homeowners battle insurers over $2.9T climate risk ([22 hours ago](https://www.dig-in.com/articles/homeowners-battle-insurers-over-2-9t-climate-risk))
-- WTW says innovation starts with culture and strong leadership ([23 hours ago](https://www.insurancebusinessmag.com/uk/news/sme/wtw-says-innovation-starts-with-culture-and-strong-leadership-539078.aspx))
+- WTW says innovation starts with culture and strong leadership ([1 days ago](https://www.insurancebusinessmag.com/uk/news/sme/wtw-says-innovation-starts-with-culture-and-strong-leadership-539078.aspx))
 - Insurer USAA Expands Presence in Virginia With Purchase of Building ([1 days ago](https://www.insurancejournal.com/news/east/2025/06/13/827669.htm))
 - Parametric Solution For Hurricane Events Presented at IDF ([1 days ago](https://insurance-edge.net/2025/06/13/parametric-solution-for-hurricane-events-presented-at-idf/))
 - US home insurance becoming increasingly unaffordable: IRC ([1 days ago](https://www.reinsurancene.ws/us-home-insurance-becoming-increasingly-unaffordable-irc/))
@@ -70,7 +70,7 @@ description: Insurance Updates
 - Penny Black’s Social Diary: Lloyd’s history; iPrism cupcakes ([1 days ago](https://www.postonline.co.uk/people/7957721/penny-black%E2%80%99s-social-diary-lloyd%E2%80%99s-history-iprism-cupcakes))
 - M&S attack proves public-private cyber risk pool is required ([1 days ago](https://www.postonline.co.uk/commercial/7957915/ms-attack-proves-public-private-cyber-risk-pool-is-required))
 - Reinventing pet insurance as a platform ([1 days ago](https://www.dig-in.com/opinion/reinventing-pet-insurance-as-a-platform))
-- Tariffs push multinationals to diversify supply chains, creating new risks ([1 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/tariffs-push-multinationals-to-diversify-supply-chains-creating-new-risks-538920.aspx))
+- Tariffs push multinationals to diversify supply chains, creating new risks ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/tariffs-push-multinationals-to-diversify-supply-chains-creating-new-risks-538920.aspx))
 - Sproutr Emphasizes Structural Clarity as the Foundation for Enduring Specialty Insurance Programs ([2 days ago](https://www.insurtechinsights.com/sproutr-emphasizes-structural-clarity-as-the-foundation-for-enduring-specialty-insurance-programs/))
 - Why insurance claims payments are slow and what needs to change ([2 days ago](https://www.dig-in.com/opinion/why-insurance-claims-payments-are-slow-what-needs-to-change))
 - Can insurers stem the rise of social inflation? ([2 days ago](https://www.dig-in.com/news/can-insurers-stem-the-rise-of-social-inflation))
