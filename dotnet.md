@@ -8,9 +8,9 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- dotNetDave Says… Don’t Build Frankenstein’s Monster Applications! ([3 hours ago](https://dotnettips.wordpress.com/2025/06/15/dotnetdave-says-dont-build-frankensteins-monster-applications/))
+- dotNetDave Says… Don’t Build Frankenstein’s Monster Applications! ([4 hours ago](https://dotnettips.wordpress.com/2025/06/15/dotnetdave-says-dont-build-frankensteins-monster-applications/))
 - Family Safety Content Filtering ([1 days ago](https://dotnetkicks.com/r/722890?url=https://textslashplain.com/2025/06/12/family-safety-content-filtering/))
-- JetBrains GameDev Days 2025 – Call for Speakers ([1 days ago](https://blog.jetbrains.com/dotnet/2025/06/13/jetbrains-gamedev-days-2025-call-for-speakers/))
+- JetBrains GameDev Days 2025 – Call for Speakers ([2 days ago](https://blog.jetbrains.com/dotnet/2025/06/13/jetbrains-gamedev-days-2025-call-for-speakers/))
 - Improve Your Productivity with New GitHub Copilot Features for .NET! - .NET Blog ([2 days ago](https://dotnetkicks.com/r/722812?url=https://devblogs.microsoft.com/dotnet/improve-productivity-with-github-copilot-dotnet/))
 - Improve Your Productivity with New GitHub Copilot Features for .NET! - .NET Blog ([2 days ago](https://dotnetkicks.com/r/722805?url=https://devblogs.microsoft.com/dotnet/improve-productivity-with-github-copilot-dotnet/))
 - Improve Your Productivity with New GitHub Copilot Features for .NET! ([2 days ago](https://devblogs.microsoft.com/dotnet/improve-productivity-with-github-copilot-dotnet/))
