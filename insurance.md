@@ -8,7 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Latest Data Shows Pet Insurance Premiums Dipped in May ([22 minutes ago](https://insurance-edge.net/2025/06/15/latest-data-shows-pet-insurance-premiums-dipped-in-may/))
+- Latest Data Shows Pet Insurance Premiums Dipped in May ([58 minutes ago](https://insurance-edge.net/2025/06/15/latest-data-shows-pet-insurance-premiums-dipped-in-may/))
 - Claims: Costs Award in Credit Hire, Decision Welcomed by Admiral ([1 hours ago](https://insurance-edge.net/2025/06/15/claims-costs-award-in-credit-hire-decision-welcomed-by-admiral/))
 - Essential Tips for Maintaining Your Commercial Kitchen ([1 hours ago](https://insurance-edge.net/2025/06/15/essential-tips-for-maintaining-your-commercial-kitchen/))
 - David Howden awarded CBE in King’s Birthday Honours list ([22 hours ago](https://www.postonline.co.uk/news/7957942/david-howden-awarded-cbe-in-king%E2%80%99s-birthday-honours-list))
@@ -31,8 +31,8 @@ description: Insurance Updates
 - Families of People Killed in Georgia Ferry Dock Collapse Sue Companies That Built it ([1 days ago](https://www.insurancejournal.com/news/southeast/2025/06/13/827662.htm))
 - RIQ revealed as official name for AI-native reinsurance platform launched by IHC ([1 days ago](https://www.reinsurancene.ws/riq-revealed-as-official-name-for-ai-native-reinsurance-platform-launched-by-ihc/))
 - JetZero to Build $4.7B Next-Gen Plane Plant in NC With Up to 14,500 Jobs ([1 days ago](https://www.insurancejournal.com/news/southeast/2025/06/13/827650.htm))
-- Concirrus launches AI underwriting platform in US specialty market ([1 days ago](https://www.reinsurancene.ws/concirrus-launches-ai-underwriting-platform-in-us-specialty-market/))
-- Update: Ships Warned to Avoid Red Sea, Log Hormuz Voyages After Israel Hits Iran ([1 days ago](https://www.insurancejournal.com/news/international/2025/06/13/827636.htm))
+- Concirrus launches AI underwriting platform in US specialty market ([2 days ago](https://www.reinsurancene.ws/concirrus-launches-ai-underwriting-platform-in-us-specialty-market/))
+- Update: Ships Warned to Avoid Red Sea, Log Hormuz Voyages After Israel Hits Iran ([2 days ago](https://www.insurancejournal.com/news/international/2025/06/13/827636.htm))
 - Gallagher Re sees signs of recovery in Florida’s insurance market ([2 days ago](https://www.reinsurancene.ws/gallagher-re-sees-signs-of-recovery-in-floridas-insurance-market/))
 - Hymans Robertson launches risk transfer and investment service for small pension schemes ([2 days ago](https://www.reinsurancene.ws/hymans-robertson-launches-risk-transfer-and-investment-service-for-small-pension-schemes/))
 - Regulators Are Harming UK as a Financial Center, Lords Warn ([2 days ago](https://www.insurancejournal.com/news/international/2025/06/13/827617.htm))
@@ -107,7 +107,7 @@ description: Insurance Updates
 - Goldman sees autonomous vehicles transforming insurance world ([3 days ago](https://www.dig-in.com/articles/goldman-autonomous-vehicles-transforming-insurance-world))
 - Lloyd's, AIG, Chubb, Swiss Re hit by Russian jet decision in UK court ([3 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/lloyds-aig-chubb-swiss-re-hit-by-russian-jet-decision-in-uk-court-538708.aspx))
 - Mylo Partners with UENI to Deliver Insurance Solutions to Small Business Owners ([3 days ago](https://www.insurtechinsights.com/mylo-partners-with-ueni-to-deliver-insurance-solutions-to-small-business-owners/))
-- Markel Launches InsurtechRisk+ to Support Growing Needs of Global Insurtech Sector ([3 days ago](https://www.insurtechinsights.com/markel-launches-insurtechrisk-to-support-growing-needs-of-global-insurtech-sector/))
+- Markel Launches InsurtechRisk+ to Support Growing Needs of Global Insurtech Sector ([4 days ago](https://www.insurtechinsights.com/markel-launches-insurtechrisk-to-support-growing-needs-of-global-insurtech-sector/))
 - How Aviva's digital team is powering the next era of e-trading ([4 days ago](https://www.insurancebusinessmag.com/uk/news/sme/how-avivas-digital-team-is-powering-the-next-era-of-etrading-538687.aspx))
 - Samsung Fire and Marine boosts Canopius stake ([4 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/samsung-fire-and-marine-boosts-canopius-stake-538681.aspx))
 - Markel debuts InsurtechRisk+ covering UK and other major markets ([4 days ago](https://www.insurancebusinessmag.com/uk/news/technology/markel-debuts-insurtechrisk-covering-uk-and-other-major-markets-538677.aspx))
@@ -131,6 +131,6 @@ description: Insurance Updates
 - Guardian’s second claims report shows 40% year-on-year growth in claims paid in 2024 ([12 days ago](https://ifamagazine.com/guardians-second-claims-report-show-40-year-on-year-growth-in-claims-paid-in-2024/))
 - FCA data highlights notable shortcomings and low understanding in the life insurance market ([12 days ago](https://ifamagazine.com/fca-data-highlights-notable-shortcomings-and-low-understanding-in-the-life-insurance-market/))
 - Utilising AI in Insurance: Insly Report Reveals How it Can be Acheived ([24 days ago](https://thefintechtimes.com/utilising-ai-in-insurance-insly-report-reveals-how-it-can-be-acheived/))
-- Relm Explains How Insurance is the Backbone For Pushing the Boundaries of Innovation ([28 days ago](https://thefintechtimes.com/relm-explains-how-insurance-is-the-backbone-for-pushing-the-boundaries-of-innovation/))
+- Relm Explains How Insurance is the Backbone For Pushing the Boundaries of Innovation ([29 days ago](https://thefintechtimes.com/relm-explains-how-insurance-is-the-backbone-for-pushing-the-boundaries-of-innovation/))
 
 <!-- news_marker ends -->
