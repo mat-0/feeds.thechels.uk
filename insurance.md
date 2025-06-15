@@ -8,7 +8,8 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Make insurance more than just paying claims, Nationwide executive says ([23 minutes ago](https://www.dig-in.com/news/make-insurance-more-than-paying-claims-nationwide-exec-says))
+- Social inflation drives loss costs, Zywave ([6 minutes ago](https://www.dig-in.com/news/social-inflation-drives-loss-costs-zywave))
+- Make insurance more than just paying claims, Nationwide executive says ([52 minutes ago](https://www.dig-in.com/news/make-insurance-more-than-paying-claims-nationwide-exec-says))
 - Zywave Announces Winners in Cyber Risk Awards 2025 ([7 hours ago](https://insurance-edge.net/2025/06/15/zywave-announces-winners-in-cyber-risk-awards-2025/))
 - Latest Data Shows Pet Insurance Premiums Dipped in May ([8 hours ago](https://insurance-edge.net/2025/06/15/latest-data-shows-pet-insurance-premiums-dipped-in-may/))
 - Claims: Costs Award in Credit Hire, Decision Welcomed by Admiral ([9 hours ago](https://insurance-edge.net/2025/06/15/claims-costs-award-in-credit-hire-decision-welcomed-by-admiral/))
@@ -104,7 +105,6 @@ description: Insurance Updates
 - Mergers and acquisitions heat up with AI, insurance, private equity moves ([4 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/mergers-and-acquisitions-heat-up-with-ai-insurance-private-equity-moves-538787.aspx))
 - Starbucks unveils new AI assistant to ease baristas' work ([4 days ago](https://www.insurancebusinessmag.com/uk/business-strategy/starbucks-unveils-new-ai-assistant-to-ease-baristas-work-538756.aspx))
 - Reeves flood defence budget hike fails to ease insurance concerns ([4 days ago](https://www.postonline.co.uk/personal/7957925/reeves-flood-defence-budget-hike-fails-to-ease-insurance-concerns))
-- Uber alleges insurance fraud scheme in Florida ([4 days ago](https://www.dig-in.com/articles/uber-alleges-insurance-fraud-scheme-in-florida))
 - Lloyd's, AIG, Chubb, Swiss Re hit by Russian jet decision in UK court ([4 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/lloyds-aig-chubb-swiss-re-hit-by-russian-jet-decision-in-uk-court-538708.aspx))
 - Mylo Partners with UENI to Deliver Insurance Solutions to Small Business Owners ([4 days ago](https://www.insurtechinsights.com/mylo-partners-with-ueni-to-deliver-insurance-solutions-to-small-business-owners/))
 - Markel Launches InsurtechRisk+ to Support Growing Needs of Global Insurtech Sector ([4 days ago](https://www.insurtechinsights.com/markel-launches-insurtechrisk-to-support-growing-needs-of-global-insurtech-sector/))
