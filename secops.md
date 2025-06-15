@@ -8,11 +8,11 @@ description: SecOps News
 [Get this as an RSS feed](/secops.rss)
 
 <!-- news_marker starts -->
-- WestJet investigates cyberattack disrupting internal systems ([7 hours ago](https://www.bleepingcomputer.com/news/security/westjet-investigates-cyberattack-disrupting-internal-systems/))
-- Anubis ransomware adds wiper to destroy files beyond recovery ([10 hours ago](https://www.bleepingcomputer.com/news/security/anubis-ransomware-adds-wiper-to-destroy-files-beyond-recovery/))
-- Windows 11 users want these five features back ([10 hours ago](https://www.bleepingcomputer.com/news/microsoft/windows-11-users-want-these-five-features-back/))
-- As RHEL clones hit version 10, Rocky and Alma chart diverging paths ([16 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/06/14/rocky_alma_and_rhel_10/))
-- Discord Invite Link Hijacking Delivers AsyncRAT and Skuld Stealer Targeting Crypto Wallets ([21 hours ago](https://thehackernews.com/2025/06/discord-invite-link-hijacking-delivers.html))
+- WestJet investigates cyberattack disrupting internal systems ([8 hours ago](https://www.bleepingcomputer.com/news/security/westjet-investigates-cyberattack-disrupting-internal-systems/))
+- Anubis ransomware adds wiper to destroy files beyond recovery ([11 hours ago](https://www.bleepingcomputer.com/news/security/anubis-ransomware-adds-wiper-to-destroy-files-beyond-recovery/))
+- Windows 11 users want these five features back ([11 hours ago](https://www.bleepingcomputer.com/news/microsoft/windows-11-users-want-these-five-features-back/))
+- As RHEL clones hit version 10, Rocky and Alma chart diverging paths ([17 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/06/14/rocky_alma_and_rhel_10/))
+- Discord Invite Link Hijacking Delivers AsyncRAT and Skuld Stealer Targeting Crypto Wallets ([22 hours ago](https://thehackernews.com/2025/06/discord-invite-link-hijacking-delivers.html))
 - Cyber weapons in the Israel-Iran conflict may hit the US ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2025/06/13/cyber_weapons_israel_iran/))
 - Do you trust Xi with your 'private' browsing data? Apple, Google stores still offer China-based VPNs, report says ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2025/06/13/apple_google_chinabased_vpns/))
 - Larry Ellison is still not the world's richest person ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2025/06/13/larry_ellison_second_richest_person/))
