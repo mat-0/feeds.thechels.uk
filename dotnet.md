@@ -8,7 +8,7 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- dotNetDave Says… Don’t Build Frankenstein’s Monster Applications! ([5 hours ago](https://dotnettips.wordpress.com/2025/06/15/dotnetdave-says-dont-build-frankensteins-monster-applications/))
+- dotNetDave Says… Don’t Build Frankenstein’s Monster Applications! ([6 hours ago](https://dotnettips.wordpress.com/2025/06/15/dotnetdave-says-dont-build-frankensteins-monster-applications/))
 - Family Safety Content Filtering ([2 days ago](https://dotnetkicks.com/r/722890?url=https://textslashplain.com/2025/06/12/family-safety-content-filtering/))
 - JetBrains GameDev Days 2025 – Call for Speakers ([2 days ago](https://blog.jetbrains.com/dotnet/2025/06/13/jetbrains-gamedev-days-2025-call-for-speakers/))
 - Improve Your Productivity with New GitHub Copilot Features for .NET! - .NET Blog ([2 days ago](https://dotnetkicks.com/r/722812?url=https://devblogs.microsoft.com/dotnet/improve-productivity-with-github-copilot-dotnet/))
@@ -40,8 +40,8 @@ description: DotNet Updates
 - Emit logs on-demand with log buffering ([9 days ago](https://devblogs.microsoft.com/dotnet/emit-logs-on-demand-with-log-buffering/))
 - API Caching Done Right ([9 days ago](https://dotnetkicks.com/r/722126?url=https://codeopinion.com/api-caching-done-right/))
 - Low Ceremony Railway Programming with Wolverine ([9 days ago](https://dotnetkicks.com/r/722092?url=https://jeremydmiller.com/2025/06/05/low-ceremony-railway-programming-with-wolverine/))
-- Error: The Delegate RequestDelegate does not take X arguments - Experiences with minimal APIs ([9 days ago](https://dotnetkicks.com/r/722083?url=https://csharp.christiannagel.com/2025/06/05/error-the-delegate-requestdelegate-does-not-take-x-arguments-experiences-with-minimal-apis/))
-- Managing GenAI Coding Risk Like an Investment ([9 days ago](https://dotnetkicks.com/r/722073?url=https://ardalis.com/genai-coding-investment-risk-strategy/))
+- Error: The Delegate RequestDelegate does not take X arguments - Experiences with minimal APIs ([10 days ago](https://dotnetkicks.com/r/722083?url=https://csharp.christiannagel.com/2025/06/05/error-the-delegate-requestdelegate-does-not-take-x-arguments-experiences-with-minimal-apis/))
+- Managing GenAI Coding Risk Like an Investment ([10 days ago](https://dotnetkicks.com/r/722073?url=https://ardalis.com/genai-coding-investment-risk-strategy/))
 - Catch Up on Microsoft Build 2025: Essential Sessions for .NET Developers - .NET Blog ([10 days ago](https://dotnetkicks.com/r/722051?url=https://devblogs.microsoft.com/dotnet/catching-up-on-microsoft-build-2025-essential-sessions-for-dotnet-developers/))
 - Catch Up on Microsoft Build 2025: Essential Sessions for .NET Developers ([10 days ago](https://devblogs.microsoft.com/dotnet/catching-up-on-microsoft-build-2025-essential-sessions-for-dotnet-developers/))
 - CoPilot Agents ([10 days ago](https://dotnetkicks.com/r/722027?url=https://jesseliberty.com/2025/06/04/copilot-agents/))
