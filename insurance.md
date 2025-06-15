@@ -9,11 +9,11 @@ description: Insurance Updates
 
 <!-- news_marker starts -->
 - Social inflation drives loss costs, Zywave ([2 hours ago](https://www.dig-in.com/news/social-inflation-drives-loss-costs-zywave))
-- Make insurance more than just paying claims, Nationwide executive says ([2 hours ago](https://www.dig-in.com/news/make-insurance-more-than-paying-claims-nationwide-exec-says))
-- Zywave Announces Winners in Cyber Risk Awards 2025 ([9 hours ago](https://insurance-edge.net/2025/06/15/zywave-announces-winners-in-cyber-risk-awards-2025/))
-- Latest Data Shows Pet Insurance Premiums Dipped in May ([10 hours ago](https://insurance-edge.net/2025/06/15/latest-data-shows-pet-insurance-premiums-dipped-in-may/))
-- Claims: Costs Award in Credit Hire, Decision Welcomed by Admiral ([11 hours ago](https://insurance-edge.net/2025/06/15/claims-costs-award-in-credit-hire-decision-welcomed-by-admiral/))
-- Essential Tips for Maintaining Your Commercial Kitchen ([11 hours ago](https://insurance-edge.net/2025/06/15/essential-tips-for-maintaining-your-commercial-kitchen/))
+- Make insurance more than just paying claims, Nationwide executive says ([3 hours ago](https://www.dig-in.com/news/make-insurance-more-than-paying-claims-nationwide-exec-says))
+- Zywave Announces Winners in Cyber Risk Awards 2025 ([10 hours ago](https://insurance-edge.net/2025/06/15/zywave-announces-winners-in-cyber-risk-awards-2025/))
+- Latest Data Shows Pet Insurance Premiums Dipped in May ([11 hours ago](https://insurance-edge.net/2025/06/15/latest-data-shows-pet-insurance-premiums-dipped-in-may/))
+- Claims: Costs Award in Credit Hire, Decision Welcomed by Admiral ([12 hours ago](https://insurance-edge.net/2025/06/15/claims-costs-award-in-credit-hire-decision-welcomed-by-admiral/))
+- Essential Tips for Maintaining Your Commercial Kitchen ([12 hours ago](https://insurance-edge.net/2025/06/15/essential-tips-for-maintaining-your-commercial-kitchen/))
 - David Howden awarded CBE in King’s Birthday Honours list ([1 days ago](https://www.postonline.co.uk/news/7957942/david-howden-awarded-cbe-in-king%E2%80%99s-birthday-honours-list))
 - Comment From Thatcham on Automated Vehicle Trials ([1 days ago](https://insurance-edge.net/2025/06/14/comment-from-thatcham-on-automated-vehicle-trials/))
 - Homeowners battle insurers over $2.9T climate risk ([2 days ago](https://www.dig-in.com/articles/homeowners-battle-insurers-over-2-9t-climate-risk))
