@@ -8,7 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- David Howden awarded CBE in King’s Birthday Honours list ([16 hours ago](https://www.postonline.co.uk/news/7957942/david-howden-awarded-cbe-in-king%E2%80%99s-birthday-honours-list))
+- David Howden awarded CBE in King’s Birthday Honours list ([17 hours ago](https://www.postonline.co.uk/news/7957942/david-howden-awarded-cbe-in-king%E2%80%99s-birthday-honours-list))
 - Comment From Thatcham on Automated Vehicle Trials ([20 hours ago](https://insurance-edge.net/2025/06/14/comment-from-thatcham-on-automated-vehicle-trials/))
 - Homeowners battle insurers over $2.9T climate risk ([1 days ago](https://www.dig-in.com/articles/homeowners-battle-insurers-over-2-9t-climate-risk))
 - WTW says innovation starts with culture and strong leadership ([1 days ago](https://www.insurancebusinessmag.com/uk/news/sme/wtw-says-innovation-starts-with-culture-and-strong-leadership-539078.aspx))
@@ -50,9 +50,9 @@ description: Insurance Updates
 - London shouldn’t be allowed to dominate UK captives sector ([1 days ago](https://www.postonline.co.uk/commercial/7957933/london-shouldn%E2%80%99t-be-allowed-to-dominate-uk-captives-sector))
 - Jury Awards $500K to Exploited Guatemalan Laborers in Michigan ([1 days ago](https://www.insurancejournal.com/news/midwest/2025/06/13/827270.htm))
 - The Exeter release 2024 claims statistics, showing an increase in claims paid ([1 days ago](https://ifamagazine.com/the-exeter-release-2024-claims-statistics-showing-an-increase-in-claims-paid/))
-- People Moves: Feller Joins Huntington Insurance as Employee Benefits Senior Managing Director ([1 days ago](https://www.insurancejournal.com/news/midwest/2025/06/13/827413.htm))
-- Tax Credit to Offset Insurance Deductibles Is Part of Missouri Legislative Package ([1 days ago](https://www.insurancejournal.com/news/midwest/2025/06/13/827529.htm))
-- People Moves: Big ‘I’ Names Connors ACT Executive Director; WTW Makes Senior Hires to Insurance Consulting and Technology Business ([1 days ago](https://www.insurancejournal.com/news/national/2025/06/13/827407.htm))
+- People Moves: Feller Joins Huntington Insurance as Employee Benefits Senior Managing Director ([2 days ago](https://www.insurancejournal.com/news/midwest/2025/06/13/827413.htm))
+- Tax Credit to Offset Insurance Deductibles Is Part of Missouri Legislative Package ([2 days ago](https://www.insurancejournal.com/news/midwest/2025/06/13/827529.htm))
+- People Moves: Big ‘I’ Names Connors ACT Executive Director; WTW Makes Senior Hires to Insurance Consulting and Technology Business ([2 days ago](https://www.insurancejournal.com/news/national/2025/06/13/827407.htm))
 - Brokers warn on widespread underinsurance risk - Aviva ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/brokers-warn-on-widespread-underinsurance-risk--aviva-538954.aspx))
 - Climate Group Says State Farm Rate Hike to Cost California Homeowners $1,000 ([2 days ago](https://www.insurancejournal.com/news/national/2025/06/13/827210.htm))
 - Wrigglesworth named president of Aviation Insurance Association ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/wrigglesworth-named-president-of-aviation-insurance-association-538953.aspx))
