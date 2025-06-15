@@ -8,9 +8,9 @@ description: SecOps News
 [Get this as an RSS feed](/secops.rss)
 
 <!-- news_marker starts -->
-- ChatGPT's AI coder Codex now lets you choose the best solution ([44 minutes ago](https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpts-ai-coder-codex-now-lets-you-choose-the-best-solution/))
-- ChatGPT Search gets an upgrade as OpenAI takes aim at Google ([4 hours ago](https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-search-gets-an-upgrade-as-openai-takes-aim-at-google/))
-- Over 46,000 Grafana instances exposed to account takeover bug ([6 hours ago](https://www.bleepingcomputer.com/news/security/over-46-000-grafana-instances-exposed-to-account-takeover-bug/))
+- ChatGPT's AI coder Codex now lets you choose the best solution ([1 hours ago](https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpts-ai-coder-codex-now-lets-you-choose-the-best-solution/))
+- ChatGPT Search gets an upgrade as OpenAI takes aim at Google ([5 hours ago](https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-search-gets-an-upgrade-as-openai-takes-aim-at-google/))
+- Over 46,000 Grafana instances exposed to account takeover bug ([7 hours ago](https://www.bleepingcomputer.com/news/security/over-46-000-grafana-instances-exposed-to-account-takeover-bug/))
 - The launch of ChatGPT polluted the world forever, like the first atomic weapons tests ([10 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/06/15/ai_model_collapse_pollution/))
 - WestJet investigates cyberattack disrupting internal systems ([21 hours ago](https://databreaches.net/2025/06/14/westjet-investigates-cyberattack-disrupting-internal-systems/))
 - WestJet investigates cyberattack disrupting internal systems ([1 days ago](https://www.bleepingcomputer.com/news/security/westjet-investigates-cyberattack-disrupting-internal-systems/))
@@ -59,8 +59,8 @@ description: SecOps News
 - I'm just a Barbie Girl in a ChatGPT world ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2025/06/13/mattel_openai_barbie/))
 - Ransomware scum disrupted utility services with SimpleHelp attacks ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2025/06/12/cisa_simplehelp_flaw_exploit_warning/))
 - Inside a Dark Adtech Empire Fed by Fake CAPTCHAs ([2 days ago](https://krebsonsecurity.com/2025/06/inside-a-dark-adtech-empire-fed-by-fake-captchas/))
-- Some Copilot chat models are failing requests ([2 days ago](https://www.githubstatus.com/incidents/j46wj670px33))
-- School Districts Unaware BoardDocs Software Published Their Private Files ([2 days ago](https://databreaches.net/2025/06/12/school-districts-unaware-boarddocs-software-published-their-private-files/))
+- Some Copilot chat models are failing requests ([3 days ago](https://www.githubstatus.com/incidents/j46wj670px33))
+- School Districts Unaware BoardDocs Software Published Their Private Files ([3 days ago](https://databreaches.net/2025/06/12/school-districts-unaware-boarddocs-software-published-their-private-files/))
 - A guilty plea in the PowerSchool case still leaves unanswered questions ([3 days ago](https://databreaches.net/2025/06/12/a-guilty-plea-in-the-powerschool-case-still-leaves-unanswered-questions/))
 - Incident with Actions ([3 days ago](https://www.githubstatus.com/incidents/d9xd9k1j6sl0))
 - AMD bets on rack-scale compute to boost AI efficiency 20x by 2030 ([3 days ago](https://go.theregister.com/feed/www.theregister.com/2025/06/12/amd_20x_30/))
@@ -194,7 +194,7 @@ description: SecOps News
 - Free - 13,926,173 breached accounts ([19 days ago](https://haveibeenpwned.com/Breach/FreeMobile))
 - Weekly Update 453 ([19 days ago](https://www.troyhunt.com/weekly-update-453/))
 - We're experiencing errors ([20 days ago](https://www.githubstatus.com/incidents/d0nm3xcdc5jw))
-- Operation Endgame 2.0 - 15,436,844 breached accounts ([22 days ago](https://haveibeenpwned.com/Breach/OperationEndgame2))
+- Operation Endgame 2.0 - 15,436,844 breached accounts ([23 days ago](https://haveibeenpwned.com/Breach/OperationEndgame2))
 - Disruption with some GitHub services ([23 days ago](https://www.githubstatus.com/incidents/y71cytztvck9))
 - Fédération Francaise de Rugby - 281,977 breached accounts ([23 days ago](https://haveibeenpwned.com/Breach/FFR))
 - Oops: DanaBot Malware Devs Infected Their Own PCs ([23 days ago](https://krebsonsecurity.com/2025/05/oops-danabot-malware-devs-infected-their-own-pcs/))
@@ -209,6 +209,5 @@ description: SecOps News
 - Decommissioning assets ([26 days ago](https://www.ncsc.gov.uk/guidance/decommissioning-assets))
 - Have I Been Pwned 2.0 is Now Live! ([27 days ago](https://www.troyhunt.com/have-i-been-pwned-2-0-is-now-live/))
 - GitHub Enterprise Importer (GEI) is experiencing degraded throughput ([29 days ago](https://www.githubstatus.com/incidents/71tl7pkqysgw))
-- Weekly Update 452 ([29 days ago](https://www.troyhunt.com/weekly-update-452/))
 
 <!-- news_marker ends -->
