@@ -9,7 +9,7 @@ description: Insurance Updates
 
 <!-- news_marker starts -->
 - David Howden awarded CBE in King’s Birthday Honours list ([18 hours ago](https://www.postonline.co.uk/news/7957942/david-howden-awarded-cbe-in-king%E2%80%99s-birthday-honours-list))
-- Comment From Thatcham on Automated Vehicle Trials ([21 hours ago](https://insurance-edge.net/2025/06/14/comment-from-thatcham-on-automated-vehicle-trials/))
+- Comment From Thatcham on Automated Vehicle Trials ([22 hours ago](https://insurance-edge.net/2025/06/14/comment-from-thatcham-on-automated-vehicle-trials/))
 - Homeowners battle insurers over $2.9T climate risk ([1 days ago](https://www.dig-in.com/articles/homeowners-battle-insurers-over-2-9t-climate-risk))
 - WTW says innovation starts with culture and strong leadership ([1 days ago](https://www.insurancebusinessmag.com/uk/news/sme/wtw-says-innovation-starts-with-culture-and-strong-leadership-539078.aspx))
 - Insurer USAA Expands Presence in Virginia With Purchase of Building ([1 days ago](https://www.insurancejournal.com/news/east/2025/06/13/827669.htm))
@@ -126,10 +126,10 @@ description: Insurance Updates
 - Royal London strengthens its protection team with appointment of Setul Mehta ([5 days ago](https://ifamagazine.com/royal-london-strengthens-its-protection-team-with-appointment-of-setul-mehta/))
 - June 2025 at The Fintech Times: Insurtech ([9 days ago](https://thefintechtimes.com/june-2025-at-the-fintech-times-insurtech/))
 - Study reveals insurers are planning to increase their investment risk profiles ([9 days ago](https://ifamagazine.com/study-reveals-insurers-are-planning-to-increase-their-investment-risk-profiles/))
-- What will AI bring to Group Protection? Asks L&G ([10 days ago](https://ifamagazine.com/what-will-ai-bring-to-group-protection-asks-lg/))
+- What will AI bring to Group Protection? Asks L&G ([11 days ago](https://ifamagazine.com/what-will-ai-bring-to-group-protection-asks-lg/))
 - Wealth Management Study identifies size of HNW international life insurance market for first time ([11 days ago](https://ifamagazine.com/wealth-management-study-identifies-size-of-hnw-international-life-insurance-market-for-first-time/))
 - Guardian’s second claims report shows 40% year-on-year growth in claims paid in 2024 ([11 days ago](https://ifamagazine.com/guardians-second-claims-report-show-40-year-on-year-growth-in-claims-paid-in-2024/))
-- FCA data highlights notable shortcomings and low understanding in the life insurance market ([11 days ago](https://ifamagazine.com/fca-data-highlights-notable-shortcomings-and-low-understanding-in-the-life-insurance-market/))
+- FCA data highlights notable shortcomings and low understanding in the life insurance market ([12 days ago](https://ifamagazine.com/fca-data-highlights-notable-shortcomings-and-low-understanding-in-the-life-insurance-market/))
 - Utilising AI in Insurance: Insly Report Reveals How it Can be Acheived ([24 days ago](https://thefintechtimes.com/utilising-ai-in-insurance-insly-report-reveals-how-it-can-be-acheived/))
 - Relm Explains How Insurance is the Backbone For Pushing the Boundaries of Innovation ([28 days ago](https://thefintechtimes.com/relm-explains-how-insurance-is-the-backbone-for-pushing-the-boundaries-of-innovation/))
 
