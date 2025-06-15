@@ -8,7 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Social inflation drives loss costs, Zywave ([1 hours ago](https://www.dig-in.com/news/social-inflation-drives-loss-costs-zywave))
+- Social inflation drives loss costs, Zywave ([2 hours ago](https://www.dig-in.com/news/social-inflation-drives-loss-costs-zywave))
 - Make insurance more than just paying claims, Nationwide executive says ([2 hours ago](https://www.dig-in.com/news/make-insurance-more-than-paying-claims-nationwide-exec-says))
 - Zywave Announces Winners in Cyber Risk Awards 2025 ([9 hours ago](https://insurance-edge.net/2025/06/15/zywave-announces-winners-in-cyber-risk-awards-2025/))
 - Latest Data Shows Pet Insurance Premiums Dipped in May ([10 hours ago](https://insurance-edge.net/2025/06/15/latest-data-shows-pet-insurance-premiums-dipped-in-may/))
