@@ -100,7 +100,7 @@ description: Insurance Updates
 - Hiscox CUO on how underwriters must evolve in the age of AI ([3 days ago](https://www.postonline.co.uk/technology/7957894/hiscox-cuo-on-how-underwriters-must-evolve-in-the-age-of-ai))
 - Successful AI depends on insight, not efficiency, AXA XL CEO says ([3 days ago](https://www.dig-in.com/news/insight-not-efficiency-makes-ai-successful-axa-ceo-says))
 - Tech mistakes insurance leaders keep making ([3 days ago](https://www.dig-in.com/opinion/tech-mistakes-insurance-leaders-keep-making))
-- Mergers and acquisitions heat up with AI, insurance, private equity moves ([3 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/mergers-and-acquisitions-heat-up-with-ai-insurance-private-equity-moves-538787.aspx))
+- Mergers and acquisitions heat up with AI, insurance, private equity moves ([4 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/mergers-and-acquisitions-heat-up-with-ai-insurance-private-equity-moves-538787.aspx))
 - Starbucks unveils new AI assistant to ease baristas' work ([4 days ago](https://www.insurancebusinessmag.com/uk/business-strategy/starbucks-unveils-new-ai-assistant-to-ease-baristas-work-538756.aspx))
 - Reeves flood defence budget hike fails to ease insurance concerns ([4 days ago](https://www.postonline.co.uk/personal/7957925/reeves-flood-defence-budget-hike-fails-to-ease-insurance-concerns))
 - Uber alleges insurance fraud scheme in Florida ([4 days ago](https://www.dig-in.com/articles/uber-alleges-insurance-fraud-scheme-in-florida))
