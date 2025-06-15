@@ -8,8 +8,8 @@ description: SecOps News
 [Get this as an RSS feed](/secops.rss)
 
 <!-- news_marker starts -->
-- ChatGPT Search gets an upgrade as OpenAI takes aim at Google ([53 minutes ago](https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-search-gets-an-upgrade-as-openai-takes-aim-at-google/))
-- Over 46,000 Grafana instances exposed to account takeover bug ([2 hours ago](https://www.bleepingcomputer.com/news/security/over-46-000-grafana-instances-exposed-to-account-takeover-bug/))
+- ChatGPT Search gets an upgrade as OpenAI takes aim at Google ([1 hours ago](https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-search-gets-an-upgrade-as-openai-takes-aim-at-google/))
+- Over 46,000 Grafana instances exposed to account takeover bug ([3 hours ago](https://www.bleepingcomputer.com/news/security/over-46-000-grafana-instances-exposed-to-account-takeover-bug/))
 - The launch of ChatGPT polluted the world forever, like the first atomic weapons tests ([6 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/06/15/ai_model_collapse_pollution/))
 - WestJet investigates cyberattack disrupting internal systems ([17 hours ago](https://databreaches.net/2025/06/14/westjet-investigates-cyberattack-disrupting-internal-systems/))
 - WestJet investigates cyberattack disrupting internal systems ([23 hours ago](https://www.bleepingcomputer.com/news/security/westjet-investigates-cyberattack-disrupting-internal-systems/))
@@ -99,7 +99,7 @@ description: SecOps News
 - Salesforce tags 5 CVEs after SaaS security probe uncovers misconfig risks ([3 days ago](https://go.theregister.com/feed/www.theregister.com/2025/06/11/salesforce_cves_misconfigs/))
 - Former Black Basta Members Use Microsoft Teams and Python Scripts in 2025 Attacks ([3 days ago](https://thehackernews.com/2025/06/former-black-basta-members-use.html))
 - Starbucks brews up AI to support baristas instead of replace them ([3 days ago](https://go.theregister.com/feed/www.theregister.com/2025/06/11/starbucks_ai_baristas/))
-- Cisco returns to load balancing market as it chases VMware refugees ([3 days ago](https://go.theregister.com/feed/www.theregister.com/2025/06/11/cisco_load_balancing_ebpf/))
+- Cisco returns to load balancing market as it chases VMware refugees ([4 days ago](https://go.theregister.com/feed/www.theregister.com/2025/06/11/cisco_load_balancing_ebpf/))
 - Asia dismantles 20,000 malicious domains in infostealer crackdown ([4 days ago](https://go.theregister.com/feed/www.theregister.com/2025/06/11/asia_cracks_down_on_infostealers/))
 - Analysis to action: Operationalizing your threat intelligence ([4 days ago](https://go.theregister.com/feed/www.theregister.com/2025/06/11/threat_intelligence_ransomware/))
 - 295 Malicious IPs Launch Coordinated Brute-Force Attacks on Apache Tomcat Manager ([4 days ago](https://thehackernews.com/2025/06/295-malicious-ips-launch-coordinated.html))
