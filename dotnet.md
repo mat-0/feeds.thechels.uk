@@ -8,8 +8,8 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- F# Weekly #24, 2025 - Fidelity &amp; BAREWire ([40 minutes ago](https://dotnetkicks.com/r/722982?url=https://sergeytihon.com/2025/06/15/f-weekly-24-2025-fidelity-barewire/))
-- dotNetDave Says… Don’t Build Frankenstein’s Monster Applications! ([9 hours ago](https://dotnettips.wordpress.com/2025/06/15/dotnetdave-says-dont-build-frankensteins-monster-applications/))
+- F# Weekly #24, 2025 - Fidelity &amp; BAREWire ([1 hours ago](https://dotnetkicks.com/r/722982?url=https://sergeytihon.com/2025/06/15/f-weekly-24-2025-fidelity-barewire/))
+- dotNetDave Says… Don’t Build Frankenstein’s Monster Applications! ([10 hours ago](https://dotnettips.wordpress.com/2025/06/15/dotnetdave-says-dont-build-frankensteins-monster-applications/))
 - Family Safety Content Filtering ([2 days ago](https://dotnetkicks.com/r/722890?url=https://textslashplain.com/2025/06/12/family-safety-content-filtering/))
 - JetBrains GameDev Days 2025 – Call for Speakers ([2 days ago](https://blog.jetbrains.com/dotnet/2025/06/13/jetbrains-gamedev-days-2025-call-for-speakers/))
 - Improve Your Productivity with New GitHub Copilot Features for .NET! - .NET Blog ([2 days ago](https://dotnetkicks.com/r/722812?url=https://devblogs.microsoft.com/dotnet/improve-productivity-with-github-copilot-dotnet/))
@@ -40,7 +40,7 @@ description: DotNet Updates
 - Emit logs on-demand with log buffering - .NET Blog ([9 days ago](https://dotnetkicks.com/r/722131?url=https://devblogs.microsoft.com/dotnet/emit-logs-on-demand-with-log-buffering/))
 - Emit logs on-demand with log buffering ([9 days ago](https://devblogs.microsoft.com/dotnet/emit-logs-on-demand-with-log-buffering/))
 - API Caching Done Right ([9 days ago](https://dotnetkicks.com/r/722126?url=https://codeopinion.com/api-caching-done-right/))
-- Low Ceremony Railway Programming with Wolverine ([9 days ago](https://dotnetkicks.com/r/722092?url=https://jeremydmiller.com/2025/06/05/low-ceremony-railway-programming-with-wolverine/))
+- Low Ceremony Railway Programming with Wolverine ([10 days ago](https://dotnetkicks.com/r/722092?url=https://jeremydmiller.com/2025/06/05/low-ceremony-railway-programming-with-wolverine/))
 - Error: The Delegate RequestDelegate does not take X arguments - Experiences with minimal APIs ([10 days ago](https://dotnetkicks.com/r/722083?url=https://csharp.christiannagel.com/2025/06/05/error-the-delegate-requestdelegate-does-not-take-x-arguments-experiences-with-minimal-apis/))
 - Managing GenAI Coding Risk Like an Investment ([10 days ago](https://dotnetkicks.com/r/722073?url=https://ardalis.com/genai-coding-investment-risk-strategy/))
 - Catch Up on Microsoft Build 2025: Essential Sessions for .NET Developers - .NET Blog ([10 days ago](https://dotnetkicks.com/r/722051?url=https://devblogs.microsoft.com/dotnet/catching-up-on-microsoft-build-2025-essential-sessions-for-dotnet-developers/))
@@ -56,7 +56,7 @@ description: DotNet Updates
 - The Untapped Power of Veteran Engineers: Why Companies Are Overlooking Their Most Valuable Assets – Part 2 ([14 days ago](https://dotnettips.wordpress.com/2025/06/01/the-untapped-power-of-veteran-engineers-why-companies-are-overlooking-their-most-valuable-assets-part-2/))
 - Boost Your .NET Projects: Enhance Your Workflow with AssemblyHelper in Spargine ([14 days ago](https://dotnettips.wordpress.com/2025/06/01/boost-your-net-projects-enhance-your-workflow-with-assemblyhelper-in-spargine/))
 - Fine-tune the volume of logs your app produces ([16 days ago](https://devblogs.microsoft.com/dotnet/finetune-the-volume-of-logs-your-app-produces/))
-- Announcing dotnet run app.cs – A simpler way to start with C# and .NET 10 ([17 days ago](https://devblogs.microsoft.com/dotnet/announcing-dotnet-run-app/))
+- Announcing dotnet run app.cs – A simpler way to start with C# and .NET 10 ([18 days ago](https://devblogs.microsoft.com/dotnet/announcing-dotnet-run-app/))
 - Coding Faster with dotNetTips Spargine: Validating Data Made Easy with Validator ([18 days ago](https://dotnettips.wordpress.com/2025/05/28/coding-faster-with-dotnettips-spargine-validating-data-made-easy-with-validator/))
 - Circuit Breaker Policy Fine-tuning Best Practice ([18 days ago](https://devblogs.microsoft.com/dotnet/circuit-breaker-policy-finetuning-best-practice/))
 - Converting a docker-compose file to .NET Aspire ([19 days ago](https://andrewlock.net/converting-a-docker-compose-file-to-aspire/))
