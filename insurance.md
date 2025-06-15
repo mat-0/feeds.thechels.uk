@@ -9,7 +9,7 @@ description: Insurance Updates
 
 <!-- news_marker starts -->
 - David Howden awarded CBE in King’s Birthday Honours list ([15 hours ago](https://www.postonline.co.uk/news/7957942/david-howden-awarded-cbe-in-king%E2%80%99s-birthday-honours-list))
-- Comment From Thatcham on Automated Vehicle Trials ([18 hours ago](https://insurance-edge.net/2025/06/14/comment-from-thatcham-on-automated-vehicle-trials/))
+- Comment From Thatcham on Automated Vehicle Trials ([19 hours ago](https://insurance-edge.net/2025/06/14/comment-from-thatcham-on-automated-vehicle-trials/))
 - Homeowners battle insurers over $2.9T climate risk ([1 days ago](https://www.dig-in.com/articles/homeowners-battle-insurers-over-2-9t-climate-risk))
 - WTW says innovation starts with culture and strong leadership ([1 days ago](https://www.insurancebusinessmag.com/uk/news/sme/wtw-says-innovation-starts-with-culture-and-strong-leadership-539078.aspx))
 - Insurer USAA Expands Presence in Virginia With Purchase of Building ([1 days ago](https://www.insurancejournal.com/news/east/2025/06/13/827669.htm))
@@ -59,7 +59,7 @@ description: Insurance Updates
 - MGAA expands member tools with DataLab ([1 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/mgaa-expands-member-tools-with-datalab-538952.aspx))
 - UK overtakes China in art market - insurer ([1 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/uk-overtakes-china-in-art-market--insurer-538951.aspx))
 - Researchers Chase Hail Across Great Plains in Effort to Improve Forecasting ([1 days ago](https://www.insurancejournal.com/news/southcentral/2025/06/13/827360.htm))
-- Viewpoint: Recalls and Claims Amid A Sea of Regulatory Change ([1 days ago](https://www.insurancejournal.com/news/national/2025/06/13/827571.htm))
+- Viewpoint: Recalls and Claims Amid A Sea of Regulatory Change ([2 days ago](https://www.insurancejournal.com/news/national/2025/06/13/827571.htm))
 - Auto Insurance Satisfaction Rankings: High Lifetime Value Customers Most at Risk ([2 days ago](https://www.insurancejournal.com/news/national/2025/06/13/827562.htm))
 - Meta Sues Hong Kong Firm in Crackdown on Deepfake Nude Apps ([2 days ago](https://www.insurancejournal.com/news/national/2025/06/13/827586.htm))
 - Man Charged After Claiming Deer Damage in What Was Actually a Fatal Hit-and-Run ([2 days ago](https://www.insurancejournal.com/news/southeast/2025/06/13/827521.htm))
