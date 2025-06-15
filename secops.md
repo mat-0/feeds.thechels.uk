@@ -8,10 +8,10 @@ description: SecOps News
 [Get this as an RSS feed](/secops.rss)
 
 <!-- news_marker starts -->
-- WestJet investigates cyberattack disrupting internal systems ([9 hours ago](https://www.bleepingcomputer.com/news/security/westjet-investigates-cyberattack-disrupting-internal-systems/))
-- Anubis ransomware adds wiper to destroy files beyond recovery ([12 hours ago](https://www.bleepingcomputer.com/news/security/anubis-ransomware-adds-wiper-to-destroy-files-beyond-recovery/))
-- Windows 11 users want these five features back ([12 hours ago](https://www.bleepingcomputer.com/news/microsoft/windows-11-users-want-these-five-features-back/))
-- As RHEL clones hit version 10, Rocky and Alma chart diverging paths ([18 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/06/14/rocky_alma_and_rhel_10/))
+- WestJet investigates cyberattack disrupting internal systems ([10 hours ago](https://www.bleepingcomputer.com/news/security/westjet-investigates-cyberattack-disrupting-internal-systems/))
+- Anubis ransomware adds wiper to destroy files beyond recovery ([13 hours ago](https://www.bleepingcomputer.com/news/security/anubis-ransomware-adds-wiper-to-destroy-files-beyond-recovery/))
+- Windows 11 users want these five features back ([13 hours ago](https://www.bleepingcomputer.com/news/microsoft/windows-11-users-want-these-five-features-back/))
+- As RHEL clones hit version 10, Rocky and Alma chart diverging paths ([19 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/06/14/rocky_alma_and_rhel_10/))
 - Discord Invite Link Hijacking Delivers AsyncRAT and Skuld Stealer Targeting Crypto Wallets ([1 days ago](https://thehackernews.com/2025/06/discord-invite-link-hijacking-delivers.html))
 - Cyber weapons in the Israel-Iran conflict may hit the US ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2025/06/13/cyber_weapons_israel_iran/))
 - Do you trust Xi with your 'private' browsing data? Apple, Google stores still offer China-based VPNs, report says ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2025/06/13/apple_google_chinabased_vpns/))
@@ -75,7 +75,7 @@ description: SecOps News
 - ConnectWise to Rotate ScreenConnect Code Signing Certificates Due to Security Risks ([2 days ago](https://thehackernews.com/2025/06/connectwise-to-rotate-screenconnect.html))
 - CIO wants to grow tech team by cloning staff as digital twins and AI agents ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2025/06/12/cio_wants_to_grow_tech/))
 - Over 80,000 Microsoft Entra ID Accounts Targeted Using Open-Source TeamFiltration Tool ([2 days ago](https://thehackernews.com/2025/06/over-80000-microsoft-entra-id-accounts.html))
-- Oracle scores cloud customer – maybe China's TEMU – that wants any available server, anytime, anywhere ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2025/06/12/oracle_q4_2025/))
+- Oracle scores cloud customer – maybe China's TEMU – that wants any available server, anytime, anywhere ([3 days ago](https://go.theregister.com/feed/www.theregister.com/2025/06/12/oracle_q4_2025/))
 - DeepSeek installer or just malware in disguise? Click around and find out ([3 days ago](https://go.theregister.com/feed/www.theregister.com/2025/06/11/deepseek_installer_or_infostealing_malware/))
 - DeepSeek installer or just malware in disguise? Click around and find out ([3 days ago](https://go.theregister.com/feed/www.theregister.com/2025/06/11/deepseek_installer_or_infostealing_malware/))
 - Smashing Security podcast #421: Toothpick flirts, Google leaks, and ICE ICE scammers ([3 days ago](https://grahamcluley.com/smashing-security-podcast-421/))
