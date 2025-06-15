@@ -8,7 +8,7 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- F# Weekly #24, 2025 - Fidelity &amp; BAREWire ([10 minutes ago](https://dotnetkicks.com/r/722982?url=https://sergeytihon.com/2025/06/15/f-weekly-24-2025-fidelity-barewire/))
+- F# Weekly #24, 2025 - Fidelity &amp; BAREWire ([40 minutes ago](https://dotnetkicks.com/r/722982?url=https://sergeytihon.com/2025/06/15/f-weekly-24-2025-fidelity-barewire/))
 - dotNetDave Says… Don’t Build Frankenstein’s Monster Applications! ([9 hours ago](https://dotnettips.wordpress.com/2025/06/15/dotnetdave-says-dont-build-frankensteins-monster-applications/))
 - Family Safety Content Filtering ([2 days ago](https://dotnetkicks.com/r/722890?url=https://textslashplain.com/2025/06/12/family-safety-content-filtering/))
 - JetBrains GameDev Days 2025 – Call for Speakers ([2 days ago](https://blog.jetbrains.com/dotnet/2025/06/13/jetbrains-gamedev-days-2025-call-for-speakers/))
@@ -31,7 +31,7 @@ description: DotNet Updates
 - SQL and NoSQL Query langauge support come to ReSharper! ([5 days ago](https://blog.jetbrains.com/dotnet/2025/06/10/sql-and-nosql-query-langauge-support-come-to-resharper/))
 - Surviving the Great Commoditizer: Stop Getting 'Good' at ChatGPT ([5 days ago](https://dotnetkicks.com/r/722479?url=https://daedtech.com/surviving-the-great-commoditizer-stop-getting-good-at-chatgpt/))
 - dotNetDave Rocks SQL Saturday in Louisiana ([5 days ago](https://dotnettips.wordpress.com/2025/06/09/dotnetdave-rocks-the-sql-saturday-in-louisiana/))
-- Next edit suggestions available in Visual Studio GitHub Copilot - Visual Studio Blog ([5 days ago](https://dotnetkicks.com/r/722382?url=https://devblogs.microsoft.com/visualstudio/next-edit-suggestions-available-in-visual-studio-github-copilot/))
+- Next edit suggestions available in Visual Studio GitHub Copilot - Visual Studio Blog ([6 days ago](https://dotnetkicks.com/r/722382?url=https://devblogs.microsoft.com/visualstudio/next-edit-suggestions-available-in-visual-studio-github-copilot/))
 - Unlocking The Cloud: How To Seamlessly Migrate On-Prem File Shares To Azure Storage  -  Build5Nines ([6 days ago](https://dotnetkicks.com/r/722344?url=https://build5nines.com/unlocking-the-cloud-how-to-seamlessly-migrate-on-prem-file-shares-to-azure-storage/))
 - Boost Your .NET Projects: Maximize Thread-Safe Performance in .NET with Spargine’s DistinctBlockingCollection ([6 days ago](https://dotnettips.wordpress.com/2025/06/08/boost-your-net-projects-maximize-thread-safe-performance-in-net-with-spargines-distinctblockingcollection/))
 - F# Weekly #23, 2025 - Catch up on Microsoft Build ([7 days ago](https://dotnetkicks.com/r/722226?url=https://sergeytihon.com/2025/06/07/f-weekly-23-2025-catch-up-on-microsoft-build/))
@@ -45,7 +45,7 @@ description: DotNet Updates
 - Managing GenAI Coding Risk Like an Investment ([10 days ago](https://dotnetkicks.com/r/722073?url=https://ardalis.com/genai-coding-investment-risk-strategy/))
 - Catch Up on Microsoft Build 2025: Essential Sessions for .NET Developers - .NET Blog ([10 days ago](https://dotnetkicks.com/r/722051?url=https://devblogs.microsoft.com/dotnet/catching-up-on-microsoft-build-2025-essential-sessions-for-dotnet-developers/))
 - Catch Up on Microsoft Build 2025: Essential Sessions for .NET Developers ([10 days ago](https://devblogs.microsoft.com/dotnet/catching-up-on-microsoft-build-2025-essential-sessions-for-dotnet-developers/))
-- CoPilot Agents ([10 days ago](https://dotnetkicks.com/r/722027?url=https://jesseliberty.com/2025/06/04/copilot-agents/))
+- CoPilot Agents ([11 days ago](https://dotnetkicks.com/r/722027?url=https://jesseliberty.com/2025/06/04/copilot-agents/))
 - Boost Your .NET Projects: Mastering Unit Testing with Spargine’s UnitTester Class ([11 days ago](https://dotnettips.wordpress.com/2025/06/04/boost-your-net-projects-mastering-unit-testing-with-spargines-unittester-class/))
 - Cloud Academy: Unlock Your Azure Skills and Accelerate Your Career - Visual Studio Blog ([11 days ago](https://dotnetkicks.com/r/721978?url=https://devblogs.microsoft.com/visualstudio/cloud-academy-benefit-for-visual-studio-subscribers/))
 - Using AI Foundry with .NET MAUI - .NET Blog ([11 days ago](https://dotnetkicks.com/r/721968?url=https://devblogs.microsoft.com/dotnet/using-ai-foundry-with-dotnet-maui/))

@@ -72,7 +72,7 @@ description: Insurance Updates
 - Reinventing pet insurance as a platform ([2 days ago](https://www.dig-in.com/opinion/reinventing-pet-insurance-as-a-platform))
 - Tariffs push multinationals to diversify supply chains, creating new risks ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/tariffs-push-multinationals-to-diversify-supply-chains-creating-new-risks-538920.aspx))
 - Sproutr Emphasizes Structural Clarity as the Foundation for Enduring Specialty Insurance Programs ([2 days ago](https://www.insurtechinsights.com/sproutr-emphasizes-structural-clarity-as-the-foundation-for-enduring-specialty-insurance-programs/))
-- Why insurance claims payments are slow and what needs to change ([2 days ago](https://www.dig-in.com/opinion/why-insurance-claims-payments-are-slow-what-needs-to-change))
+- Why insurance claims payments are slow and what needs to change ([3 days ago](https://www.dig-in.com/opinion/why-insurance-claims-payments-are-slow-what-needs-to-change))
 - Can insurers stem the rise of social inflation? ([3 days ago](https://www.dig-in.com/news/can-insurers-stem-the-rise-of-social-inflation))
 - Feather Launches Business Insurance to Support Europe’s Expat Workforce ([3 days ago](https://www.insurtechinsights.com/feather-launches-business-insurance-to-support-europes-expat-workforce/))
 - Broadstone Acquires ExactVAL to Enhance Life Insurance and Bulk Purchase Annuity Capabilities ([3 days ago](https://www.insurtechinsights.com/broadstone-acquires-exactval-to-enhance-life-insurance-and-bulk-purchase-annuity-capabilities/))
