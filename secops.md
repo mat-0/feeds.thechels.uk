@@ -8,12 +8,12 @@ description: SecOps News
 [Get this as an RSS feed](/secops.rss)
 
 <!-- news_marker starts -->
-- VMware and Siemens spar over where to stage software licence showdown ([15 minutes ago](https://go.theregister.com/feed/www.theregister.com/2025/06/16/vmware_vs_siemens/))
+- VMware and Siemens spar over where to stage software licence showdown ([46 minutes ago](https://go.theregister.com/feed/www.theregister.com/2025/06/16/vmware_vs_siemens/))
 - Armored cash transport trucks allegedly hauled money for $190 million crypto-laundering scheme ([3 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/06/16/asia_tech_news_roundup/))
-- Dems demand audit of CVE program as Federal funding remains uncertain ([7 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/06/15/cybersecurity_news_in_brief/))
-- ChatGPT's AI coder Codex now lets you choose the best solution ([9 hours ago](https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpts-ai-coder-codex-now-lets-you-choose-the-best-solution/))
-- ChatGPT Search gets an upgrade as OpenAI takes aim at Google ([13 hours ago](https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-search-gets-an-upgrade-as-openai-takes-aim-at-google/))
-- Over 46,000 Grafana instances exposed to account takeover bug ([15 hours ago](https://www.bleepingcomputer.com/news/security/over-46-000-grafana-instances-exposed-to-account-takeover-bug/))
+- Dems demand audit of CVE program as Federal funding remains uncertain ([8 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/06/15/cybersecurity_news_in_brief/))
+- ChatGPT's AI coder Codex now lets you choose the best solution ([10 hours ago](https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpts-ai-coder-codex-now-lets-you-choose-the-best-solution/))
+- ChatGPT Search gets an upgrade as OpenAI takes aim at Google ([14 hours ago](https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-search-gets-an-upgrade-as-openai-takes-aim-at-google/))
+- Over 46,000 Grafana instances exposed to account takeover bug ([16 hours ago](https://www.bleepingcomputer.com/news/security/over-46-000-grafana-instances-exposed-to-account-takeover-bug/))
 - The launch of ChatGPT polluted the world forever, like the first atomic weapons tests ([19 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/06/15/ai_model_collapse_pollution/))
 - WestJet investigates cyberattack disrupting internal systems ([1 days ago](https://databreaches.net/2025/06/14/westjet-investigates-cyberattack-disrupting-internal-systems/))
 - WestJet investigates cyberattack disrupting internal systems ([1 days ago](https://www.bleepingcomputer.com/news/security/westjet-investigates-cyberattack-disrupting-internal-systems/))
