@@ -8,7 +8,7 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- F# Weekly #24, 2025 - Fidelity &amp; BAREWire ([22 hours ago](https://dotnetkicks.com/r/722982?url=https://sergeytihon.com/2025/06/15/f-weekly-24-2025-fidelity-barewire/))
+- F# Weekly #24, 2025 - Fidelity &amp; BAREWire ([23 hours ago](https://dotnetkicks.com/r/722982?url=https://sergeytihon.com/2025/06/15/f-weekly-24-2025-fidelity-barewire/))
 - dotNetDave Says… Don’t Build Frankenstein’s Monster Applications! ([1 days ago](https://dotnettips.wordpress.com/2025/06/15/dotnetdave-says-dont-build-frankensteins-monster-applications/))
 - Family Safety Content Filtering ([3 days ago](https://dotnetkicks.com/r/722890?url=https://textslashplain.com/2025/06/12/family-safety-content-filtering/))
 - JetBrains GameDev Days 2025 – Call for Speakers ([3 days ago](https://blog.jetbrains.com/dotnet/2025/06/13/jetbrains-gamedev-days-2025-call-for-speakers/))
@@ -35,7 +35,7 @@ description: DotNet Updates
 - Unlocking The Cloud: How To Seamlessly Migrate On-Prem File Shares To Azure Storage  -  Build5Nines ([7 days ago](https://dotnetkicks.com/r/722344?url=https://build5nines.com/unlocking-the-cloud-how-to-seamlessly-migrate-on-prem-file-shares-to-azure-storage/))
 - Boost Your .NET Projects: Maximize Thread-Safe Performance in .NET with Spargine’s DistinctBlockingCollection ([7 days ago](https://dotnettips.wordpress.com/2025/06/08/boost-your-net-projects-maximize-thread-safe-performance-in-net-with-spargines-distinctblockingcollection/))
 - F# Weekly #23, 2025 - Catch up on Microsoft Build ([8 days ago](https://dotnetkicks.com/r/722226?url=https://sergeytihon.com/2025/06/07/f-weekly-23-2025-catch-up-on-microsoft-build/))
-- CollabTalk Podcast: Veteran Engineers Aren’t Done Yet – They’re Just Getting Started ([8 days ago](https://dotnettips.wordpress.com/2025/06/07/collabtalk-podcast-veteran-engineers-arent-done-yet-theyre-just-getting-started/))
+- CollabTalk Podcast: Veteran Engineers Aren’t Done Yet – They’re Just Getting Started ([9 days ago](https://dotnettips.wordpress.com/2025/06/07/collabtalk-podcast-veteran-engineers-arent-done-yet-theyre-just-getting-started/))
 - Adding Extension Properties with State to Types, (Sort of) In Spargine ([10 days ago](https://dotnettips.wordpress.com/2025/06/06/adding-extension-properties-to-types-sort-of-in-spargine/))
 - Emit logs on-demand with log buffering - .NET Blog ([10 days ago](https://dotnetkicks.com/r/722131?url=https://devblogs.microsoft.com/dotnet/emit-logs-on-demand-with-log-buffering/))
 - Emit logs on-demand with log buffering ([10 days ago](https://devblogs.microsoft.com/dotnet/emit-logs-on-demand-with-log-buffering/))
