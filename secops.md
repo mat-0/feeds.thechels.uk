@@ -9,10 +9,10 @@ description: SecOps News
 
 <!-- news_marker starts -->
 - Armored cash transport trucks allegedly hauled money for $190 million crypto-laundering scheme ([2 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/06/16/asia_tech_news_roundup/))
-- Dems demand audit of CVE program as Federal funding remains uncertain ([6 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/06/15/cybersecurity_news_in_brief/))
-- ChatGPT's AI coder Codex now lets you choose the best solution ([8 hours ago](https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpts-ai-coder-codex-now-lets-you-choose-the-best-solution/))
-- ChatGPT Search gets an upgrade as OpenAI takes aim at Google ([12 hours ago](https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-search-gets-an-upgrade-as-openai-takes-aim-at-google/))
-- Over 46,000 Grafana instances exposed to account takeover bug ([14 hours ago](https://www.bleepingcomputer.com/news/security/over-46-000-grafana-instances-exposed-to-account-takeover-bug/))
+- Dems demand audit of CVE program as Federal funding remains uncertain ([7 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/06/15/cybersecurity_news_in_brief/))
+- ChatGPT's AI coder Codex now lets you choose the best solution ([9 hours ago](https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpts-ai-coder-codex-now-lets-you-choose-the-best-solution/))
+- ChatGPT Search gets an upgrade as OpenAI takes aim at Google ([13 hours ago](https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-search-gets-an-upgrade-as-openai-takes-aim-at-google/))
+- Over 46,000 Grafana instances exposed to account takeover bug ([15 hours ago](https://www.bleepingcomputer.com/news/security/over-46-000-grafana-instances-exposed-to-account-takeover-bug/))
 - The launch of ChatGPT polluted the world forever, like the first atomic weapons tests ([18 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/06/15/ai_model_collapse_pollution/))
 - WestJet investigates cyberattack disrupting internal systems ([1 days ago](https://databreaches.net/2025/06/14/westjet-investigates-cyberattack-disrupting-internal-systems/))
 - WestJet investigates cyberattack disrupting internal systems ([1 days ago](https://www.bleepingcomputer.com/news/security/westjet-investigates-cyberattack-disrupting-internal-systems/))
@@ -173,7 +173,7 @@ description: SecOps News
 - Multiple Vulnerabilities in SAP GuiXT Scripting ([12 days ago](https://seclists.org/fulldisclosure/2025/Jun/3))
 - CVE-2024-47081: Netrc credential leak in PSF requests library ([12 days ago](https://seclists.org/fulldisclosure/2025/Jun/2))
 - Exploit CVE-2019-9978: Remote Code Execution in Social Warfare WordPress Plugin (<= 3.5.2) ([12 days ago](https://seclists.org/fulldisclosure/2025/Jun/1))
-- ColoCrossing - 7,183 breached accounts ([12 days ago](https://haveibeenpwned.com/Breach/ColoCrossing))
+- ColoCrossing - 7,183 breached accounts ([13 days ago](https://haveibeenpwned.com/Breach/ColoCrossing))
 - CapLoader 2.0 Released ([13 days ago](https://www.netresec.com/?page=Blog&month=2025-06&post=CapLoader-2-0-Released))
 - Weekly Update 454 ([13 days ago](https://www.troyhunt.com/weekly-update-454/))
 - Codespaces Scheduled Maintenance ([16 days ago](https://www.githubstatus.com/incidents/nwjwwhj118sf))
