@@ -8,11 +8,11 @@ description: SecOps News
 [Get this as an RSS feed](/secops.rss)
 
 <!-- news_marker starts -->
-- Armored cash transport trucks allegedly hauled money for $190 million crypto-laundering scheme ([54 minutes ago](https://go.theregister.com/feed/www.theregister.com/2025/06/16/asia_tech_news_roundup/))
-- Dems demand audit of CVE program as Federal funding remains uncertain ([5 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/06/15/cybersecurity_news_in_brief/))
-- ChatGPT's AI coder Codex now lets you choose the best solution ([7 hours ago](https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpts-ai-coder-codex-now-lets-you-choose-the-best-solution/))
-- ChatGPT Search gets an upgrade as OpenAI takes aim at Google ([11 hours ago](https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-search-gets-an-upgrade-as-openai-takes-aim-at-google/))
-- Over 46,000 Grafana instances exposed to account takeover bug ([13 hours ago](https://www.bleepingcomputer.com/news/security/over-46-000-grafana-instances-exposed-to-account-takeover-bug/))
+- Armored cash transport trucks allegedly hauled money for $190 million crypto-laundering scheme ([1 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/06/16/asia_tech_news_roundup/))
+- Dems demand audit of CVE program as Federal funding remains uncertain ([6 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/06/15/cybersecurity_news_in_brief/))
+- ChatGPT's AI coder Codex now lets you choose the best solution ([8 hours ago](https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpts-ai-coder-codex-now-lets-you-choose-the-best-solution/))
+- ChatGPT Search gets an upgrade as OpenAI takes aim at Google ([12 hours ago](https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-search-gets-an-upgrade-as-openai-takes-aim-at-google/))
+- Over 46,000 Grafana instances exposed to account takeover bug ([14 hours ago](https://www.bleepingcomputer.com/news/security/over-46-000-grafana-instances-exposed-to-account-takeover-bug/))
 - The launch of ChatGPT polluted the world forever, like the first atomic weapons tests ([17 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/06/15/ai_model_collapse_pollution/))
 - WestJet investigates cyberattack disrupting internal systems ([1 days ago](https://databreaches.net/2025/06/14/westjet-investigates-cyberattack-disrupting-internal-systems/))
 - WestJet investigates cyberattack disrupting internal systems ([1 days ago](https://www.bleepingcomputer.com/news/security/westjet-investigates-cyberattack-disrupting-internal-systems/))
