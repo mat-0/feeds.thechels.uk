@@ -8,11 +8,11 @@ description: SecOps News
 [Get this as an RSS feed](/secops.rss)
 
 <!-- news_marker starts -->
-- Dems demand audit of CVE program as Federal funding remains uncertain ([2 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/06/15/cybersecurity_news_in_brief/))
-- ChatGPT's AI coder Codex now lets you choose the best solution ([4 hours ago](https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpts-ai-coder-codex-now-lets-you-choose-the-best-solution/))
-- ChatGPT Search gets an upgrade as OpenAI takes aim at Google ([8 hours ago](https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-search-gets-an-upgrade-as-openai-takes-aim-at-google/))
-- Over 46,000 Grafana instances exposed to account takeover bug ([10 hours ago](https://www.bleepingcomputer.com/news/security/over-46-000-grafana-instances-exposed-to-account-takeover-bug/))
-- The launch of ChatGPT polluted the world forever, like the first atomic weapons tests ([14 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/06/15/ai_model_collapse_pollution/))
+- Dems demand audit of CVE program as Federal funding remains uncertain ([3 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/06/15/cybersecurity_news_in_brief/))
+- ChatGPT's AI coder Codex now lets you choose the best solution ([5 hours ago](https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpts-ai-coder-codex-now-lets-you-choose-the-best-solution/))
+- ChatGPT Search gets an upgrade as OpenAI takes aim at Google ([9 hours ago](https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-search-gets-an-upgrade-as-openai-takes-aim-at-google/))
+- Over 46,000 Grafana instances exposed to account takeover bug ([11 hours ago](https://www.bleepingcomputer.com/news/security/over-46-000-grafana-instances-exposed-to-account-takeover-bug/))
+- The launch of ChatGPT polluted the world forever, like the first atomic weapons tests ([15 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/06/15/ai_model_collapse_pollution/))
 - WestJet investigates cyberattack disrupting internal systems ([1 days ago](https://databreaches.net/2025/06/14/westjet-investigates-cyberattack-disrupting-internal-systems/))
 - WestJet investigates cyberattack disrupting internal systems ([1 days ago](https://www.bleepingcomputer.com/news/security/westjet-investigates-cyberattack-disrupting-internal-systems/))
 - Plastic surgeons often store nude photos of patients with their identity information. When would we call that “negligent?” ([1 days ago](https://databreaches.net/2025/06/14/plastic-surgeons-often-store-nude-photos-of-patients-with-their-identity-information-when-would-we-call-that-negligent/))
