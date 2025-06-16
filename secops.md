@@ -8,12 +8,12 @@ description: SecOps News
 [Get this as an RSS feed](/secops.rss)
 
 <!-- news_marker starts -->
-- Armored cash transport trucks allegedly hauled money for $190 million crypto-laundering scheme ([1 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/06/16/asia_tech_news_roundup/))
+- Armored cash transport trucks allegedly hauled money for $190 million crypto-laundering scheme ([2 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/06/16/asia_tech_news_roundup/))
 - Dems demand audit of CVE program as Federal funding remains uncertain ([6 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/06/15/cybersecurity_news_in_brief/))
 - ChatGPT's AI coder Codex now lets you choose the best solution ([8 hours ago](https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpts-ai-coder-codex-now-lets-you-choose-the-best-solution/))
 - ChatGPT Search gets an upgrade as OpenAI takes aim at Google ([12 hours ago](https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-search-gets-an-upgrade-as-openai-takes-aim-at-google/))
 - Over 46,000 Grafana instances exposed to account takeover bug ([14 hours ago](https://www.bleepingcomputer.com/news/security/over-46-000-grafana-instances-exposed-to-account-takeover-bug/))
-- The launch of ChatGPT polluted the world forever, like the first atomic weapons tests ([17 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/06/15/ai_model_collapse_pollution/))
+- The launch of ChatGPT polluted the world forever, like the first atomic weapons tests ([18 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/06/15/ai_model_collapse_pollution/))
 - WestJet investigates cyberattack disrupting internal systems ([1 days ago](https://databreaches.net/2025/06/14/westjet-investigates-cyberattack-disrupting-internal-systems/))
 - WestJet investigates cyberattack disrupting internal systems ([1 days ago](https://www.bleepingcomputer.com/news/security/westjet-investigates-cyberattack-disrupting-internal-systems/))
 - Plastic surgeons often store nude photos of patients with their identity information. When would we call that “negligent?” ([1 days ago](https://databreaches.net/2025/06/14/plastic-surgeons-often-store-nude-photos-of-patients-with-their-identity-information-when-would-we-call-that-negligent/))
@@ -176,7 +176,7 @@ description: SecOps News
 - ColoCrossing - 7,183 breached accounts ([12 days ago](https://haveibeenpwned.com/Breach/ColoCrossing))
 - CapLoader 2.0 Released ([13 days ago](https://www.netresec.com/?page=Blog&month=2025-06&post=CapLoader-2-0-Released))
 - Weekly Update 454 ([13 days ago](https://www.troyhunt.com/weekly-update-454/))
-- Codespaces Scheduled Maintenance ([15 days ago](https://www.githubstatus.com/incidents/nwjwwhj118sf))
+- Codespaces Scheduled Maintenance ([16 days ago](https://www.githubstatus.com/incidents/nwjwwhj118sf))
 - Disruption with some GitHub services ([16 days ago](https://www.githubstatus.com/incidents/p1rf575rlqml))
 - Damascened Peacock: Russian hackers targeted UK Ministry of Defence ([16 days ago](https://www.bitdefender.com/en-us/blog/hotforsecurity/damascened-peacock-russian-hackers-targeted-uk-ministry-of-defence))
 - Interlock ransomware: what you need to know ([16 days ago](https://www.tripwire.com/state-of-security/interlock-ransomware-what-you-need-know))

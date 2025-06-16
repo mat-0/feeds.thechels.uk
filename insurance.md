@@ -8,7 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Certificates of Insurance…Or How I Got a Job in the Prison Laundry ([15 minutes ago](https://www.insurancejournal.com/magazines/mag-features/2025/06/16/826189.htm))
+- Certificates of Insurance…Or How I Got a Job in the Prison Laundry ([42 minutes ago](https://www.insurancejournal.com/magazines/mag-features/2025/06/16/826189.htm))
 - Size of Florida’s Slide Insurance Executive Compensation Has Tongues Wagging, Eyes Popping ([4 hours ago](https://www.insurancejournal.com/magazines/mag-features/2025/06/16/827459.htm))
 - Agents Beware: Homeowner’s Failure to Read Policy Doesn’t Clear Agency of Negligence Claim, North Carolina High Court Says ([4 hours ago](https://www.insurancejournal.com/magazines/mag-features/2025/06/16/827458.htm))
 - After Years of Losses, Florida Insurers Saw Underwriting Profits in 2024, AM Best Says ([4 hours ago](https://www.insurancejournal.com/magazines/mag-features/2025/06/16/827457.htm))
@@ -33,7 +33,7 @@ description: Insurance Updates
 - Construction Sector: Data Centers Help Power Optimism Despite Uncertainty Over Economy ([4 hours ago](https://www.insurancejournal.com/magazines/mag-features/2025/06/16/827438.htm))
 - Study Shows AI Spots Suspicious Claims Earlier Than Traditional Approaches ([4 hours ago](https://www.insurancejournal.com/magazines/mag-features/2025/06/16/827437.htm))
 - Cotality: Over 33 Million Properties at Risk of Hurricanes, Creating ‘Liquidity Traps’ ([4 hours ago](https://www.insurancejournal.com/magazines/mag-features/2025/06/16/827435.htm))
-- Social inflation drives loss costs, Zywave ([7 hours ago](https://www.dig-in.com/news/social-inflation-drives-loss-costs-zywave))
+- Social inflation drives loss costs, Zywave ([8 hours ago](https://www.dig-in.com/news/social-inflation-drives-loss-costs-zywave))
 - Make insurance more than just paying claims, Nationwide executive says ([8 hours ago](https://www.dig-in.com/news/make-insurance-more-than-paying-claims-nationwide-exec-says))
 - Zywave Announces Winners in Cyber Risk Awards 2025 ([15 hours ago](https://insurance-edge.net/2025/06/15/zywave-announces-winners-in-cyber-risk-awards-2025/))
 - Latest Data Shows Pet Insurance Premiums Dipped in May ([16 hours ago](https://insurance-edge.net/2025/06/15/latest-data-shows-pet-insurance-premiums-dipped-in-may/))
