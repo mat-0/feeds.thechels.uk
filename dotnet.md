@@ -8,7 +8,8 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Agent mode is now generally available with MCP support - Visual Studio Blog ([28 minutes ago](https://dotnetkicks.com/r/723078?url=https://devblogs.microsoft.com/visualstudio/agent-mode-is-now-generally-available-with-mcp-support/))
+- Multimodal Vision Intelligence with .NET MAUI ([6 minutes ago](https://devblogs.microsoft.com/dotnet/multimodal-vision-intelligence-with-dotnet-maui/))
+- Agent mode is now generally available with MCP support - Visual Studio Blog ([58 minutes ago](https://dotnetkicks.com/r/723078?url=https://devblogs.microsoft.com/visualstudio/agent-mode-is-now-generally-available-with-mcp-support/))
 - Working with stacked branches in git (Part 1) ([8 hours ago](https://dotnetkicks.com/r/723053?url=https://andrewlock.net/working-with-stacked-branches-in-git-part-1/))
 - Working with stacked branches in git (Part 1) ([10 hours ago](https://andrewlock.net/working-with-stacked-branches-in-git-part-1/))
 - Rider 2025.2 EAP 5: Reimagined Monitoring tool window and New OpenTelemetry Plugin ([1 days ago](https://blog.jetbrains.com/dotnet/2025/06/16/rider-eap-5-new-monitoring-tool-opentelemetry-plugin/))
@@ -48,7 +49,7 @@ description: DotNet Updates
 - Low Ceremony Railway Programming with Wolverine ([12 days ago](https://dotnetkicks.com/r/722092?url=https://jeremydmiller.com/2025/06/05/low-ceremony-railway-programming-with-wolverine/))
 - Error: The Delegate RequestDelegate does not take X arguments - Experiences with minimal APIs ([12 days ago](https://dotnetkicks.com/r/722083?url=https://csharp.christiannagel.com/2025/06/05/error-the-delegate-requestdelegate-does-not-take-x-arguments-experiences-with-minimal-apis/))
 - Managing GenAI Coding Risk Like an Investment ([12 days ago](https://dotnetkicks.com/r/722073?url=https://ardalis.com/genai-coding-investment-risk-strategy/))
-- Catch Up on Microsoft Build 2025: Essential Sessions for .NET Developers - .NET Blog ([12 days ago](https://dotnetkicks.com/r/722051?url=https://devblogs.microsoft.com/dotnet/catching-up-on-microsoft-build-2025-essential-sessions-for-dotnet-developers/))
+- Catch Up on Microsoft Build 2025: Essential Sessions for .NET Developers - .NET Blog ([13 days ago](https://dotnetkicks.com/r/722051?url=https://devblogs.microsoft.com/dotnet/catching-up-on-microsoft-build-2025-essential-sessions-for-dotnet-developers/))
 - Catch Up on Microsoft Build 2025: Essential Sessions for .NET Developers ([13 days ago](https://devblogs.microsoft.com/dotnet/catching-up-on-microsoft-build-2025-essential-sessions-for-dotnet-developers/))
 - CoPilot Agents ([13 days ago](https://dotnetkicks.com/r/722027?url=https://jesseliberty.com/2025/06/04/copilot-agents/))
 - Boost Your .NET Projects: Mastering Unit Testing with Spargine’s UnitTester Class ([13 days ago](https://dotnettips.wordpress.com/2025/06/04/boost-your-net-projects-mastering-unit-testing-with-spargines-unittester-class/))
@@ -61,7 +62,6 @@ description: DotNet Updates
 - Fine-tune the volume of logs your app produces ([19 days ago](https://devblogs.microsoft.com/dotnet/finetune-the-volume-of-logs-your-app-produces/))
 - Announcing dotnet run app.cs – A simpler way to start with C# and .NET 10 ([20 days ago](https://devblogs.microsoft.com/dotnet/announcing-dotnet-run-app/))
 - Coding Faster with dotNetTips Spargine: Validating Data Made Easy with Validator ([20 days ago](https://dotnettips.wordpress.com/2025/05/28/coding-faster-with-dotnettips-spargine-validating-data-made-easy-with-validator/))
-- Circuit Breaker Policy Fine-tuning Best Practice ([21 days ago](https://devblogs.microsoft.com/dotnet/circuit-breaker-policy-finetuning-best-practice/))
 - Converting a docker-compose file to .NET Aspire ([21 days ago](https://andrewlock.net/converting-a-docker-compose-file-to-aspire/))
 - ReSharper 2025.2 EAP 2: First Public Build with Out-of-Process Mode Support ([26 days ago](https://blog.jetbrains.com/dotnet/2025/05/22/resharper-2025-2-eap-2-oop-mode/))
 - Pushing a whole stack of branches with a single Git command ([28 days ago](https://andrewlock.net/pushing-a-whole-stack-of-branches-with-a-single-git-command/))
