@@ -8,7 +8,7 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Working with stacked branches in git (Part 1) ([1 hours ago](https://dotnetkicks.com/r/723053?url=https://andrewlock.net/working-with-stacked-branches-in-git-part-1/))
+- Working with stacked branches in git (Part 1) ([2 hours ago](https://dotnetkicks.com/r/723053?url=https://andrewlock.net/working-with-stacked-branches-in-git-part-1/))
 - Working with stacked branches in git (Part 1) ([3 hours ago](https://andrewlock.net/working-with-stacked-branches-in-git-part-1/))
 - Rider 2025.2 EAP 5: Reimagined Monitoring tool window and New OpenTelemetry Plugin ([21 hours ago](https://blog.jetbrains.com/dotnet/2025/06/16/rider-eap-5-new-monitoring-tool-opentelemetry-plugin/))
 - OpenTelemetry Plugin for JetBrains Rider: Observability Inside Your IDE ([21 hours ago](https://blog.jetbrains.com/dotnet/2025/06/16/opentelemetry-plugin-for-jetbrains-rider/))
