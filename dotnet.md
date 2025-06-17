@@ -8,8 +8,8 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Rider 2025.2 EAP 5: Reimagined Monitoring tool window and New OpenTelemetry Plugin ([15 hours ago](https://blog.jetbrains.com/dotnet/2025/06/16/rider-eap-5-new-monitoring-tool-opentelemetry-plugin/))
-- OpenTelemetry Plugin for JetBrains Rider: Observability Inside Your IDE ([15 hours ago](https://blog.jetbrains.com/dotnet/2025/06/16/opentelemetry-plugin-for-jetbrains-rider/))
+- Rider 2025.2 EAP 5: Reimagined Monitoring tool window and New OpenTelemetry Plugin ([16 hours ago](https://blog.jetbrains.com/dotnet/2025/06/16/rider-eap-5-new-monitoring-tool-opentelemetry-plugin/))
+- OpenTelemetry Plugin for JetBrains Rider: Observability Inside Your IDE ([16 hours ago](https://blog.jetbrains.com/dotnet/2025/06/16/opentelemetry-plugin-for-jetbrains-rider/))
 - F# Weekly #24, 2025 - Fidelity &amp; BAREWire ([1 days ago](https://dotnetkicks.com/r/722982?url=https://sergeytihon.com/2025/06/15/f-weekly-24-2025-fidelity-barewire/))
 - dotNetDave Says… Don’t Build Frankenstein’s Monster Applications! ([2 days ago](https://dotnettips.wordpress.com/2025/06/15/dotnetdave-says-dont-build-frankensteins-monster-applications/))
 - Family Safety Content Filtering ([3 days ago](https://dotnetkicks.com/r/722890?url=https://textslashplain.com/2025/06/12/family-safety-content-filtering/))
@@ -21,7 +21,7 @@ description: DotNet Updates
 - ReSharper and Rider 2025.1.3: Important Updates Released ([4 days ago](https://blog.jetbrains.com/dotnet/2025/06/12/resharper-and-rider-2025-1-3-important-updates-released/))
 - Multimodal Voice Intelligence with .NET MAUI - .NET Blog ([5 days ago](https://dotnetkicks.com/r/722710?url=https://devblogs.microsoft.com/dotnet/multimodal-voice-intelligence-with-dotnet-maui/))
 - Multimodal Voice Intelligence with .NET MAUI ([5 days ago](https://devblogs.microsoft.com/dotnet/multimodal-voice-intelligence-with-dotnet-maui/))
-- First Look: Apple's NEURLFilter API ([5 days ago](https://dotnetkicks.com/r/722646?url=https://textslashplain.com/2025/06/10/apple-url-filter-api/))
+- First Look: Apple's NEURLFilter API ([6 days ago](https://dotnetkicks.com/r/722646?url=https://textslashplain.com/2025/06/10/apple-url-filter-api/))
 - Experimental alternative flow for OAuth First-Party Applications ([6 days ago](https://dotnetkicks.com/r/722615?url=https://damienbod.com/2025/06/10/experimental-alternative-flow-for-oauth-first-party-applications/))
 - .NET and .NET Framework June 2025 servicing releases updates - .NET Blog ([6 days ago](https://dotnetkicks.com/r/722580?url=https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-june-2025-servicing-updates/))
 - .NET and .NET Framework June 2025 servicing releases updates - .NET Blog ([6 days ago](https://dotnetkicks.com/r/722567?url=https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-june-2025-servicing-updates/))
@@ -55,7 +55,7 @@ description: DotNet Updates
 - dotInsights  -  June 2025 ([13 days ago](https://blog.jetbrains.com/dotnet/2025/06/03/dotinsights-june-2025/))
 - Creating your first sample game with MonoGame ([13 days ago](https://andrewlock.net/creating-your-first-sample-game-with-monogame/))
 - dotNetDave Says… Soft Skills at Conferences Matter—A Lot! ([15 days ago](https://dotnettips.wordpress.com/2025/06/02/dotnetdave-says-soft-skills-at-conferences-matter-a-lot/))
-- The Untapped Power of Veteran Engineers: Why Companies Are Overlooking Their Most Valuable Assets – Part 2 ([15 days ago](https://dotnettips.wordpress.com/2025/06/01/the-untapped-power-of-veteran-engineers-why-companies-are-overlooking-their-most-valuable-assets-part-2/))
+- The Untapped Power of Veteran Engineers: Why Companies Are Overlooking Their Most Valuable Assets – Part 2 ([16 days ago](https://dotnettips.wordpress.com/2025/06/01/the-untapped-power-of-veteran-engineers-why-companies-are-overlooking-their-most-valuable-assets-part-2/))
 - Boost Your .NET Projects: Enhance Your Workflow with AssemblyHelper in Spargine ([16 days ago](https://dotnettips.wordpress.com/2025/06/01/boost-your-net-projects-enhance-your-workflow-with-assemblyhelper-in-spargine/))
 - Fine-tune the volume of logs your app produces ([18 days ago](https://devblogs.microsoft.com/dotnet/finetune-the-volume-of-logs-your-app-produces/))
 - Announcing dotnet run app.cs – A simpler way to start with C# and .NET 10 ([19 days ago](https://devblogs.microsoft.com/dotnet/announcing-dotnet-run-app/))
