@@ -8,6 +8,8 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
+- Working with stacked branches in git (Part 1) ([3 minutes ago](https://dotnetkicks.com/r/723053?url=https://andrewlock.net/working-with-stacked-branches-in-git-part-1/))
+- Working with stacked branches in git (Part 1) ([1 hours ago](https://andrewlock.net/working-with-stacked-branches-in-git-part-1/))
 - Rider 2025.2 EAP 5: Reimagined Monitoring tool window and New OpenTelemetry Plugin ([19 hours ago](https://blog.jetbrains.com/dotnet/2025/06/16/rider-eap-5-new-monitoring-tool-opentelemetry-plugin/))
 - OpenTelemetry Plugin for JetBrains Rider: Observability Inside Your IDE ([19 hours ago](https://blog.jetbrains.com/dotnet/2025/06/16/opentelemetry-plugin-for-jetbrains-rider/))
 - F# Weekly #24, 2025 - Fidelity &amp; BAREWire ([1 days ago](https://dotnetkicks.com/r/722982?url=https://sergeytihon.com/2025/06/15/f-weekly-24-2025-fidelity-barewire/))
@@ -28,7 +30,7 @@ description: DotNet Updates
 - .NET and .NET Framework June 2025 servicing releases updates ([6 days ago](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-june-2025-servicing-updates/))
 - .NET 10 Preview 5 is now available! - .NET Blog ([6 days ago](https://dotnetkicks.com/r/722563?url=https://devblogs.microsoft.com/dotnet/dotnet-10-preview-5/))
 - .NET 10 Preview 5 is now available! ([6 days ago](https://devblogs.microsoft.com/dotnet/dotnet-10-preview-5/))
-- Converting a Microsoft XNA 3.1 game to MonoGame ([6 days ago](https://dotnetkicks.com/r/722535?url=https://andrewlock.net/converting-an-xna-game-to-monogame/))
+- Converting a Microsoft XNA 3.1 game to MonoGame ([7 days ago](https://dotnetkicks.com/r/722535?url=https://andrewlock.net/converting-an-xna-game-to-monogame/))
 - Converting a Microsoft XNA 3.1 game to MonoGame ([7 days ago](https://andrewlock.net/converting-an-xna-game-to-monogame/))
 - SQL and NoSQL Query langauge support come to ReSharper! ([7 days ago](https://blog.jetbrains.com/dotnet/2025/06/10/sql-and-nosql-query-langauge-support-come-to-resharper/))
 - Surviving the Great Commoditizer: Stop Getting 'Good' at ChatGPT ([7 days ago](https://dotnetkicks.com/r/722479?url=https://daedtech.com/surviving-the-great-commoditizer-stop-getting-good-at-chatgpt/))
@@ -50,7 +52,6 @@ description: DotNet Updates
 - CoPilot Agents ([12 days ago](https://dotnetkicks.com/r/722027?url=https://jesseliberty.com/2025/06/04/copilot-agents/))
 - Boost Your .NET Projects: Mastering Unit Testing with Spargine’s UnitTester Class ([13 days ago](https://dotnettips.wordpress.com/2025/06/04/boost-your-net-projects-mastering-unit-testing-with-spargines-unittester-class/))
 - Cloud Academy: Unlock Your Azure Skills and Accelerate Your Career - Visual Studio Blog ([13 days ago](https://dotnetkicks.com/r/721978?url=https://devblogs.microsoft.com/visualstudio/cloud-academy-benefit-for-visual-studio-subscribers/))
-- Using AI Foundry with .NET MAUI - .NET Blog ([13 days ago](https://dotnetkicks.com/r/721968?url=https://devblogs.microsoft.com/dotnet/using-ai-foundry-with-dotnet-maui/))
 - Using AI Foundry with .NET MAUI ([13 days ago](https://devblogs.microsoft.com/dotnet/using-ai-foundry-with-dotnet-maui/))
 - dotInsights  -  June 2025 ([13 days ago](https://blog.jetbrains.com/dotnet/2025/06/03/dotinsights-june-2025/))
 - Creating your first sample game with MonoGame ([14 days ago](https://andrewlock.net/creating-your-first-sample-game-with-monogame/))
