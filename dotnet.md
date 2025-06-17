@@ -8,7 +8,7 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Working with stacked branches in git (Part 1) ([2 hours ago](https://dotnetkicks.com/r/723053?url=https://andrewlock.net/working-with-stacked-branches-in-git-part-1/))
+- Working with stacked branches in git (Part 1) ([3 hours ago](https://dotnetkicks.com/r/723053?url=https://andrewlock.net/working-with-stacked-branches-in-git-part-1/))
 - Working with stacked branches in git (Part 1) ([4 hours ago](https://andrewlock.net/working-with-stacked-branches-in-git-part-1/))
 - Rider 2025.2 EAP 5: Reimagined Monitoring tool window and New OpenTelemetry Plugin ([22 hours ago](https://blog.jetbrains.com/dotnet/2025/06/16/rider-eap-5-new-monitoring-tool-opentelemetry-plugin/))
 - OpenTelemetry Plugin for JetBrains Rider: Observability Inside Your IDE ([22 hours ago](https://blog.jetbrains.com/dotnet/2025/06/16/opentelemetry-plugin-for-jetbrains-rider/))
@@ -53,7 +53,7 @@ description: DotNet Updates
 - Boost Your .NET Projects: Mastering Unit Testing with Spargine’s UnitTester Class ([13 days ago](https://dotnettips.wordpress.com/2025/06/04/boost-your-net-projects-mastering-unit-testing-with-spargines-unittester-class/))
 - Cloud Academy: Unlock Your Azure Skills and Accelerate Your Career - Visual Studio Blog ([13 days ago](https://dotnetkicks.com/r/721978?url=https://devblogs.microsoft.com/visualstudio/cloud-academy-benefit-for-visual-studio-subscribers/))
 - Using AI Foundry with .NET MAUI ([13 days ago](https://devblogs.microsoft.com/dotnet/using-ai-foundry-with-dotnet-maui/))
-- dotInsights  -  June 2025 ([13 days ago](https://blog.jetbrains.com/dotnet/2025/06/03/dotinsights-june-2025/))
+- dotInsights  -  June 2025 ([14 days ago](https://blog.jetbrains.com/dotnet/2025/06/03/dotinsights-june-2025/))
 - Creating your first sample game with MonoGame ([14 days ago](https://andrewlock.net/creating-your-first-sample-game-with-monogame/))
 - dotNetDave Says… Soft Skills at Conferences Matter—A Lot! ([15 days ago](https://dotnettips.wordpress.com/2025/06/02/dotnetdave-says-soft-skills-at-conferences-matter-a-lot/))
 - The Untapped Power of Veteran Engineers: Why Companies Are Overlooking Their Most Valuable Assets – Part 2 ([16 days ago](https://dotnettips.wordpress.com/2025/06/01/the-untapped-power-of-veteran-engineers-why-companies-are-overlooking-their-most-valuable-assets-part-2/))
