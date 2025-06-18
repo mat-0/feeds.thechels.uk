@@ -8,10 +8,10 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Announcing Microsoft Desired State Configuration v3.1.0 - PowerShell Team ([4 hours ago](https://dotnetkicks.com/r/723087?url=https://devblogs.microsoft.com/powershell/announcing-dsc-v3-1-0/))
+- Announcing Microsoft Desired State Configuration v3.1.0 - PowerShell Team ([5 hours ago](https://dotnetkicks.com/r/723087?url=https://devblogs.microsoft.com/powershell/announcing-dsc-v3-1-0/))
 - Multimodal Vision Intelligence with .NET MAUI - .NET Blog ([23 hours ago](https://dotnetkicks.com/r/723086?url=https://devblogs.microsoft.com/dotnet/multimodal-vision-intelligence-with-dotnet-maui/))
 - From code to community: The collective effort behind SQL Server 2025 - Microsoft SQL Server Blog ([23 hours ago](https://dotnetkicks.com/r/723085?url=https://www.microsoft.com/en-us/sql-server/blog/2025/06/16/from-code-to-community-the-collective-effort-behind-sql-server-2025/))
-- Multimodal Vision Intelligence with .NET MAUI ([23 hours ago](https://devblogs.microsoft.com/dotnet/multimodal-vision-intelligence-with-dotnet-maui/))
+- Multimodal Vision Intelligence with .NET MAUI ([1 days ago](https://devblogs.microsoft.com/dotnet/multimodal-vision-intelligence-with-dotnet-maui/))
 - Agent mode is now generally available with MCP support - Visual Studio Blog ([1 days ago](https://dotnetkicks.com/r/723078?url=https://devblogs.microsoft.com/visualstudio/agent-mode-is-now-generally-available-with-mcp-support/))
 - Working with stacked branches in git (Part 1) ([1 days ago](https://dotnetkicks.com/r/723053?url=https://andrewlock.net/working-with-stacked-branches-in-git-part-1/))
 - Working with stacked branches in git (Part 1) ([1 days ago](https://andrewlock.net/working-with-stacked-branches-in-git-part-1/))
