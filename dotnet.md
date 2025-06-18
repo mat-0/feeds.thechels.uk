@@ -8,11 +8,11 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Multimodal Vision Intelligence with .NET MAUI - .NET Blog ([7 hours ago](https://dotnetkicks.com/r/723086?url=https://devblogs.microsoft.com/dotnet/multimodal-vision-intelligence-with-dotnet-maui/))
-- From code to community: The collective effort behind SQL Server 2025 - Microsoft SQL Server Blog ([7 hours ago](https://dotnetkicks.com/r/723085?url=https://www.microsoft.com/en-us/sql-server/blog/2025/06/16/from-code-to-community-the-collective-effort-behind-sql-server-2025/))
-- Multimodal Vision Intelligence with .NET MAUI ([7 hours ago](https://devblogs.microsoft.com/dotnet/multimodal-vision-intelligence-with-dotnet-maui/))
-- Agent mode is now generally available with MCP support - Visual Studio Blog ([8 hours ago](https://dotnetkicks.com/r/723078?url=https://devblogs.microsoft.com/visualstudio/agent-mode-is-now-generally-available-with-mcp-support/))
-- Working with stacked branches in git (Part 1) ([16 hours ago](https://dotnetkicks.com/r/723053?url=https://andrewlock.net/working-with-stacked-branches-in-git-part-1/))
+- Multimodal Vision Intelligence with .NET MAUI - .NET Blog ([8 hours ago](https://dotnetkicks.com/r/723086?url=https://devblogs.microsoft.com/dotnet/multimodal-vision-intelligence-with-dotnet-maui/))
+- From code to community: The collective effort behind SQL Server 2025 - Microsoft SQL Server Blog ([8 hours ago](https://dotnetkicks.com/r/723085?url=https://www.microsoft.com/en-us/sql-server/blog/2025/06/16/from-code-to-community-the-collective-effort-behind-sql-server-2025/))
+- Multimodal Vision Intelligence with .NET MAUI ([8 hours ago](https://devblogs.microsoft.com/dotnet/multimodal-vision-intelligence-with-dotnet-maui/))
+- Agent mode is now generally available with MCP support - Visual Studio Blog ([9 hours ago](https://dotnetkicks.com/r/723078?url=https://devblogs.microsoft.com/visualstudio/agent-mode-is-now-generally-available-with-mcp-support/))
+- Working with stacked branches in git (Part 1) ([17 hours ago](https://dotnetkicks.com/r/723053?url=https://andrewlock.net/working-with-stacked-branches-in-git-part-1/))
 - Working with stacked branches in git (Part 1) ([18 hours ago](https://andrewlock.net/working-with-stacked-branches-in-git-part-1/))
 - Rider 2025.2 EAP 5: Reimagined Monitoring tool window and New OpenTelemetry Plugin ([1 days ago](https://blog.jetbrains.com/dotnet/2025/06/16/rider-eap-5-new-monitoring-tool-opentelemetry-plugin/))
 - OpenTelemetry Plugin for JetBrains Rider: Observability Inside Your IDE ([1 days ago](https://blog.jetbrains.com/dotnet/2025/06/16/opentelemetry-plugin-for-jetbrains-rider/))
