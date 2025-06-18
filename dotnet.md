@@ -51,7 +51,7 @@ description: DotNet Updates
 - API Caching Done Right ([13 days ago](https://dotnetkicks.com/r/722126?url=https://codeopinion.com/api-caching-done-right/))
 - Low Ceremony Railway Programming with Wolverine ([13 days ago](https://dotnetkicks.com/r/722092?url=https://jeremydmiller.com/2025/06/05/low-ceremony-railway-programming-with-wolverine/))
 - Error: The Delegate RequestDelegate does not take X arguments - Experiences with minimal APIs ([13 days ago](https://dotnetkicks.com/r/722083?url=https://csharp.christiannagel.com/2025/06/05/error-the-delegate-requestdelegate-does-not-take-x-arguments-experiences-with-minimal-apis/))
-- Catch Up on Microsoft Build 2025: Essential Sessions for .NET Developers ([13 days ago](https://devblogs.microsoft.com/dotnet/catching-up-on-microsoft-build-2025-essential-sessions-for-dotnet-developers/))
+- Catch Up on Microsoft Build 2025: Essential Sessions for .NET Developers ([14 days ago](https://devblogs.microsoft.com/dotnet/catching-up-on-microsoft-build-2025-essential-sessions-for-dotnet-developers/))
 - Boost Your .NET Projects: Mastering Unit Testing with Spargine’s UnitTester Class ([14 days ago](https://dotnettips.wordpress.com/2025/06/04/boost-your-net-projects-mastering-unit-testing-with-spargines-unittester-class/))
 - Using AI Foundry with .NET MAUI ([15 days ago](https://devblogs.microsoft.com/dotnet/using-ai-foundry-with-dotnet-maui/))
 - dotInsights  -  June 2025 ([15 days ago](https://blog.jetbrains.com/dotnet/2025/06/03/dotinsights-june-2025/))
