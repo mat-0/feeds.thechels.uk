@@ -8,8 +8,8 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- 5 Mistakes That Make Your Code Unmaintainable ([19 hours ago](https://dotnetkicks.com/r/723269?url=https://codeopinion.com/5-mistakes-that-make-your-code-unmaintainable/))
-- Richie Bonilla and Forage AI Email ([22 hours ago](https://dotnetkicks.com/r/723207?url=https://jesseliberty.com/2025/06/19/richie-bonilla-and-forage-ai-email/))
+- 5 Mistakes That Make Your Code Unmaintainable ([20 hours ago](https://dotnetkicks.com/r/723269?url=https://codeopinion.com/5-mistakes-that-make-your-code-unmaintainable/))
+- Richie Bonilla and Forage AI Email ([23 hours ago](https://dotnetkicks.com/r/723207?url=https://jesseliberty.com/2025/06/19/richie-bonilla-and-forage-ai-email/))
 - Announcing Microsoft Desired State Configuration v3.1.0 - PowerShell Team ([2 days ago](https://dotnetkicks.com/r/723087?url=https://devblogs.microsoft.com/powershell/announcing-dsc-v3-1-0/))
 - Multimodal Vision Intelligence with .NET MAUI - .NET Blog ([2 days ago](https://dotnetkicks.com/r/723086?url=https://devblogs.microsoft.com/dotnet/multimodal-vision-intelligence-with-dotnet-maui/))
 - From code to community: The collective effort behind SQL Server 2025 - Microsoft SQL Server Blog ([2 days ago](https://dotnetkicks.com/r/723085?url=https://www.microsoft.com/en-us/sql-server/blog/2025/06/16/from-code-to-community-the-collective-effort-behind-sql-server-2025/))
@@ -60,7 +60,7 @@ description: DotNet Updates
 - The Untapped Power of Veteran Engineers: Why Companies Are Overlooking Their Most Valuable Assets – Part 2 ([19 days ago](https://dotnettips.wordpress.com/2025/06/01/the-untapped-power-of-veteran-engineers-why-companies-are-overlooking-their-most-valuable-assets-part-2/))
 - Boost Your .NET Projects: Enhance Your Workflow with AssemblyHelper in Spargine ([19 days ago](https://dotnettips.wordpress.com/2025/06/01/boost-your-net-projects-enhance-your-workflow-with-assemblyhelper-in-spargine/))
 - Fine-tune the volume of logs your app produces ([21 days ago](https://devblogs.microsoft.com/dotnet/finetune-the-volume-of-logs-your-app-produces/))
-- Announcing dotnet run app.cs – A simpler way to start with C# and .NET 10 ([22 days ago](https://devblogs.microsoft.com/dotnet/announcing-dotnet-run-app/))
+- Announcing dotnet run app.cs – A simpler way to start with C# and .NET 10 ([23 days ago](https://devblogs.microsoft.com/dotnet/announcing-dotnet-run-app/))
 - Coding Faster with dotNetTips Spargine: Validating Data Made Easy with Validator ([23 days ago](https://dotnettips.wordpress.com/2025/05/28/coding-faster-with-dotnettips-spargine-validating-data-made-easy-with-validator/))
 - Converting a docker-compose file to .NET Aspire ([24 days ago](https://andrewlock.net/converting-a-docker-compose-file-to-aspire/))
 - ReSharper 2025.2 EAP 2: First Public Build with Out-of-Process Mode Support ([29 days ago](https://blog.jetbrains.com/dotnet/2025/05/22/resharper-2025-2-eap-2-oop-mode/))
