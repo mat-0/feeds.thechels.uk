@@ -8,7 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Arkel Adds Property Product to Acturis Platform ([23 hours ago](https://insurance-edge.net/2025/06/20/arkel-adds-property-product-to-acturis-platform/))
+- Arkel Adds Property Product to Acturis Platform ([1 days ago](https://insurance-edge.net/2025/06/20/arkel-adds-property-product-to-acturis-platform/))
 - Brokers called to be strategic enablers as insurance adapts to the energy transition ([1 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/brokers-called-to-be-strategic-enablers-as-insurance-adapts-to-the-energy-transition-539905.aspx))
 - US Supreme Court Lets Fuel Producers Challenge California Emissions Standards ([1 days ago](https://www.insurancejournal.com/news/west/2025/06/20/828649.htm))
 - Aflac reports potential leak of personal data in cyber breach ([1 days ago](https://www.dig-in.com/articles/aflac-reports-potential-leak-of-personal-data-in-cyber-breach))
@@ -116,7 +116,7 @@ description: Insurance Updates
 - A giant leap forward for bancassurance ([3 days ago](https://www.postonline.co.uk/personal/7957680/a-giant-leap-forward-for-bancassurance))
 - Insurance risks of Labour’s housebuilding plans ([3 days ago](https://www.postonline.co.uk/commercial/7957863/insurance-risks-of-labour%E2%80%99s-housebuilding-plans))
 - Underinsurance, misunderstandings and negligence fuel California wildfire lawsuits ([3 days ago](https://www.dig-in.com/news/underinsurance-negligence-fuel-california-wildfire-lawsuits))
-- The General incrementally adopts new tech ([3 days ago](https://www.dig-in.com/news/the-general-incrementally-adopts-new-tech))
+- The General incrementally adopts new tech ([4 days ago](https://www.dig-in.com/news/the-general-incrementally-adopts-new-tech))
 - Autonomize AI Raises $28 Million Series A to Power Next-Generation Agentic AI for Healthcare and Life Sciences ([4 days ago](https://www.insurtechinsights.com/autonomize-ai-raises-28-million-series-a-to-power-next-generation-agentic-ai-for-healthcare-and-life-sciences/))
 - Pano AI Raises $44M to Scale Early Detection Infrastructure ([4 days ago](https://www.insurtechinsights.com/pano-ai-raises-44m-to-scale-early-detection-infrastructure/))
 - The hidden cyber risks in insurance partner networks ([4 days ago](https://www.dig-in.com/news/the-hidden-cyber-risks-in-insurance-partner-networks))
