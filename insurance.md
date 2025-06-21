@@ -8,10 +8,10 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Arkel Adds Property Product to Acturis Platform ([21 hours ago](https://insurance-edge.net/2025/06/20/arkel-adds-property-product-to-acturis-platform/))
-- Brokers called to be strategic enablers as insurance adapts to the energy transition ([22 hours ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/brokers-called-to-be-strategic-enablers-as-insurance-adapts-to-the-energy-transition-539905.aspx))
+- Arkel Adds Property Product to Acturis Platform ([22 hours ago](https://insurance-edge.net/2025/06/20/arkel-adds-property-product-to-acturis-platform/))
+- Brokers called to be strategic enablers as insurance adapts to the energy transition ([23 hours ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/brokers-called-to-be-strategic-enablers-as-insurance-adapts-to-the-energy-transition-539905.aspx))
 - US Supreme Court Lets Fuel Producers Challenge California Emissions Standards ([23 hours ago](https://www.insurancejournal.com/news/west/2025/06/20/828649.htm))
-- Aflac reports potential leak of personal data in cyber breach ([23 hours ago](https://www.dig-in.com/articles/aflac-reports-potential-leak-of-personal-data-in-cyber-breach))
+- Aflac reports potential leak of personal data in cyber breach ([1 days ago](https://www.dig-in.com/articles/aflac-reports-potential-leak-of-personal-data-in-cyber-breach))
 - Supply Wisdom Secures $14m Series B Funding Round ([1 days ago](https://insurance-edge.net/2025/06/20/supply-wisdom-secures-14m-series-b-funding-round/))
 - MS Transverse gets credit ratings upgrade from AM Best ([1 days ago](https://www.reinsurancene.ws/ms-transverse-gets-credit-ratings-upgrade-from-am-best/))
 - How to Spot Spoof Emails & Delete Them ([1 days ago](https://insurance-edge.net/2025/06/20/how-to-spot-spoof-emails-delete-them/))
@@ -93,7 +93,7 @@ description: Insurance Updates
 - Five takeaways from webinar on using data to improve customer loyalty ([2 days ago](https://www.postonline.co.uk/market-access/technology/7957941/five-takeaways-from-webinar-on-using-data-to-improve-customer-loyalty))
 - United Risk acquires Aussie underwriting firm ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/united-risk-acquires-aussie-underwriting-firm-539662.aspx))
 - Scattered Spider hackers target insurance industry, testing cybersecurity strategies ([2 days ago](https://www.dig-in.com/news/scattered-spider-targets-insurers))
-- Lloyds, Chubb vs the man who was once the world’s richest ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/lloyds-chubb-vs-the-man-who-was-once-the-worlds-richest-539614.aspx))
+- Lloyds, Chubb vs the man who was once the world’s richest ([3 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/lloyds-chubb-vs-the-man-who-was-once-the-worlds-richest-539614.aspx))
 - Allianz cutting 650 UK insurance jobs ([3 days ago](https://www.postonline.co.uk/news/7957967/allianz-cutting-650-uk-insurance-jobs))
 - P&C insurers score high in ranking of AI progress ([3 days ago](https://www.dig-in.com/news/p-c-insurers-score-high-in-ranking-of-ai-progress))
 - NFU Mutual CIO predicts AI decision-making within decade ([3 days ago](https://www.postonline.co.uk/technology/7957965/nfu-mutual-cio-predicts-ai-decision-making-within-decade))
