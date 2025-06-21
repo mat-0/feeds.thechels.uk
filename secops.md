@@ -8,9 +8,9 @@ description: SecOps News
 [Get this as an RSS feed](/secops.rss)
 
 <!-- news_marker starts -->
-- Weekly Update 457 ([4 hours ago](https://www.troyhunt.com/weekly-update-457/))
-- Scattered Spider Behind Cyberattacks on M&S and Co-op, Causing Up to $592M in Damages ([12 hours ago](https://thehackernews.com/2025/06/scattered-spider-behind-cyberattacks-on.html))
-- Aflac Finds Suspicious Activity on US Network That May Impact Social Security Numbers, Other Data ([12 hours ago](https://www.securityweek.com/aflac-finds-suspicious-activity-on-us-network-that-may-impact-social-security-numbers-other-data/))
+- Weekly Update 457 ([5 hours ago](https://www.troyhunt.com/weekly-update-457/))
+- Scattered Spider Behind Cyberattacks on M&S and Co-op, Causing Up to $592M in Damages ([13 hours ago](https://thehackernews.com/2025/06/scattered-spider-behind-cyberattacks-on.html))
+- Aflac Finds Suspicious Activity on US Network That May Impact Social Security Numbers, Other Data ([13 hours ago](https://www.securityweek.com/aflac-finds-suspicious-activity-on-us-network-that-may-impact-social-security-numbers-other-data/))
 - Netflix, Apple, BofA websites hijacked with fake help-desk numbers ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2025/06/20/netflix_apple_bofa_websites_hijacked/))
 - New GitHub Copilot limits push AI users to pricier tiers ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2025/06/20/github_begins_enforcing_premium_request/))
 - US patent office wants an AI to scan for prior art, but doesn't want to pay for it ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2025/06/20/us_patent_office_ai/))
@@ -105,7 +105,7 @@ description: SecOps News
 - SEC Consult SA-20250611-0 :: Undocumented Root Shell Access on SIMCom SIM7600G Modem ([3 days ago](https://seclists.org/fulldisclosure/2025/Jun/17))
 - Call for Applications: ERCIM STM WG 2025 Award for the Best Ph.D. Thesis on Security and Trust Management (July 31, 2025) ([3 days ago](https://seclists.org/fulldisclosure/2025/Jun/16))
 - Eat or be eaten by AI, Amazon CEO warns staff ([3 days ago](https://go.theregister.com/feed/www.theregister.com/2025/06/18/amazon_ceo_warns_ai_job_cuts/))
-- Salesforce adds AI to everything, jacks up prices by 6% ([3 days ago](https://go.theregister.com/feed/www.theregister.com/2025/06/17/salesforce_ai_prices/))
+- Salesforce adds AI to everything, jacks up prices by 6% ([4 days ago](https://go.theregister.com/feed/www.theregister.com/2025/06/17/salesforce_ai_prices/))
 - AWS locks down cloud security, hits 100% MFA enforcement for root users ([4 days ago](https://go.theregister.com/feed/www.theregister.com/2025/06/17/aws_enforces_mfa_root_users/))
 - Incident with multiple GitHub services ([4 days ago](https://www.githubstatus.com/incidents/y7lb2rg4btd7))
 - Google Chrome Zero-Day CVE-2025-2783 Exploited by TaxOff to Deploy Trinper Backdoor ([4 days ago](https://thehackernews.com/2025/06/google-chrome-zero-day-cve-2025-2783.html))
@@ -137,7 +137,7 @@ description: SecOps News
 - Slapped wrists for Financial Conduct Authority staff who emailed work data home ([8 days ago](https://databreaches.net/2025/06/13/slapped-wrists-for-financial-conduct-authority-staff-who-emailed-work-data-home/))
 - South African man imprisoned after ransom demand against his former employer ([8 days ago](https://www.bitdefender.com/en-us/blog/hotforsecurity/south-african-man-imprisoned-after-ransom-demand-against-his-former-employer))
 - Ualabee - 472,296 breached accounts ([8 days ago](https://haveibeenpwned.com/Breach/Ualabee))
-- Inside a Dark Adtech Empire Fed by Fake CAPTCHAs ([8 days ago](https://krebsonsecurity.com/2025/06/inside-a-dark-adtech-empire-fed-by-fake-captchas/))
+- Inside a Dark Adtech Empire Fed by Fake CAPTCHAs ([9 days ago](https://krebsonsecurity.com/2025/06/inside-a-dark-adtech-empire-fed-by-fake-captchas/))
 - Some Copilot chat models are failing requests ([9 days ago](https://www.githubstatus.com/incidents/j46wj670px33))
 - School Districts Unaware BoardDocs Software Published Their Private Files ([9 days ago](https://databreaches.net/2025/06/12/school-districts-unaware-boarddocs-software-published-their-private-files/))
 - A guilty plea in the PowerSchool case still leaves unanswered questions ([9 days ago](https://databreaches.net/2025/06/12/a-guilty-plea-in-the-powerschool-case-still-leaves-unanswered-questions/))
@@ -171,7 +171,7 @@ description: SecOps News
 - Marks & Spencer’s ransomware nightmare – more details emerge ([15 days ago](https://www.bitdefender.com/en-us/blog/hotforsecurity/marks-spencers-ransomware-nightmare-more-details-emerge))
 - Incident with Copilot ([15 days ago](https://www.githubstatus.com/incidents/wqrqgd9gyvz5))
 - US offers $10 million reward for tips about state-linked RedLine hackers ([15 days ago](https://www.tripwire.com/state-of-security/us-offers-10-million-reward-tips-about-state-linked-redline-cybercriminals))
-- Proxy Services Feast on Ukraine’s IP Address Exodus ([15 days ago](https://krebsonsecurity.com/2025/06/proxy-services-feast-on-ukraines-ip-address-exodus/))
+- Proxy Services Feast on Ukraine’s IP Address Exodus ([16 days ago](https://krebsonsecurity.com/2025/06/proxy-services-feast-on-ukraines-ip-address-exodus/))
 - Incident with Actions ([16 days ago](https://www.githubstatus.com/incidents/ry1gsyjqj4qh))
 - MailerLite warns of phishing campaign ([16 days ago](https://grahamcluley.com/mailerlite-warns-of-phishing-campaign/))
 - How to FastTrack your ISO 27001 ISMS Implementation and Certification ([16 days ago](https://www.itgovernance.co.uk/blog/how-to-fasttrack-your-iso-27001-isms-implementation-and-certification))
@@ -206,6 +206,5 @@ description: SecOps News
 - We're experiencing errors ([26 days ago](https://www.githubstatus.com/incidents/d0nm3xcdc5jw))
 - Operation Endgame 2.0 - 15,436,844 breached accounts ([29 days ago](https://haveibeenpwned.com/Breach/OperationEndgame2))
 - Disruption with some GitHub services ([29 days ago](https://www.githubstatus.com/incidents/y71cytztvck9))
-- Fédération Francaise de Rugby - 281,977 breached accounts ([29 days ago](https://haveibeenpwned.com/Breach/FFR))
 
 <!-- news_marker ends -->
