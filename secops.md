@@ -9,7 +9,7 @@ description: SecOps News
 
 <!-- news_marker starts -->
 - Weekly Update 457 ([4 hours ago](https://www.troyhunt.com/weekly-update-457/))
-- Scattered Spider Behind Cyberattacks on M&S and Co-op, Causing Up to $592M in Damages ([11 hours ago](https://thehackernews.com/2025/06/scattered-spider-behind-cyberattacks-on.html))
+- Scattered Spider Behind Cyberattacks on M&S and Co-op, Causing Up to $592M in Damages ([12 hours ago](https://thehackernews.com/2025/06/scattered-spider-behind-cyberattacks-on.html))
 - Aflac Finds Suspicious Activity on US Network That May Impact Social Security Numbers, Other Data ([12 hours ago](https://www.securityweek.com/aflac-finds-suspicious-activity-on-us-network-that-may-impact-social-security-numbers-other-data/))
 - Netflix, Apple, BofA websites hijacked with fake help-desk numbers ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2025/06/20/netflix_apple_bofa_websites_hijacked/))
 - New GitHub Copilot limits push AI users to pricier tiers ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2025/06/20/github_begins_enforcing_premium_request/))
@@ -45,7 +45,7 @@ description: SecOps News
 - 161,000 People Impacted by Krispy Kreme Data Breach ([1 days ago](https://www.securityweek.com/161000-people-impacted-by-krispy-kreme-data-breach/))
 - 200+ Trojanized GitHub Repositories Found in Campaign Targeting Gamers and Developers ([1 days ago](https://thehackernews.com/2025/06/67-trojanized-github-repositories-found.html))
 - Hackers Access Legacy Systems in Oxford City Council Cyberattack ([1 days ago](https://www.securityweek.com/hackers-access-legacy-systems-in-oxford-city-council-cyberattack/))
-- No, the 16 billion credentials leak is not a new data breach ([1 days ago](https://www.bleepingcomputer.com/news/security/no-the-16-billion-credentials-leak-is-not-a-new-data-breach/))
+- No, the 16 billion credentials leak is not a new data breach ([2 days ago](https://www.bleepingcomputer.com/news/security/no-the-16-billion-credentials-leak-is-not-a-new-data-breach/))
 - American coders are most likely to use AI ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2025/06/19/us_coders_lead_world_in_ai/))
 - Godfather Android malware now uses virtualization to hijack banking apps ([2 days ago](https://www.bleepingcomputer.com/news/security/godfather-android-malware-now-uses-virtualization-to-hijack-banking-apps/))
 - Boffins devise voice-altering tech to jam 'vishing' schemes ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2025/06/19/voice_altering_vishing_jammer/))
@@ -73,7 +73,7 @@ description: SecOps News
 - New Linux Flaws Enable Full Root Access via PAM and Udisks Across Major Distributions ([2 days ago](https://thehackernews.com/2025/06/new-linux-flaws-enable-full-root-access.html))
 - Disruption with some GitHub services ([2 days ago](https://www.githubstatus.com/incidents/z8pt03f02ddv))
 - Smashing Security podcast #422: The curious case of the code copier ([2 days ago](https://grahamcluley.com/smashing-security-podcast-422/))
-- Brain activity much lower when using AI chatbots, MIT boffins find ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2025/06/18/is_ai_changing_our_brains/))
+- Brain activity much lower when using AI chatbots, MIT boffins find ([3 days ago](https://go.theregister.com/feed/www.theregister.com/2025/06/18/is_ai_changing_our_brains/))
 - Minecraft cheaters never win ... but they may get malware ([3 days ago](https://go.theregister.com/feed/www.theregister.com/2025/06/18/minecraft_mod_malware/))
 - Ransomware gang busted in Thailand hotel raid ([3 days ago](https://www.bitdefender.com/en-us/blog/hotforsecurity/ransomware-gang-busted-in-thailand-hotel-raid))
 - Asana's cutting-edge AI feature ran into a little data leakage problem ([3 days ago](https://go.theregister.com/feed/www.theregister.com/2025/06/18/asana_mcp_server_bug/))
@@ -121,7 +121,7 @@ description: SecOps News
 - Firefox is dead to me – and I'm not the only one who is fed up ([4 days ago](https://go.theregister.com/feed/www.theregister.com/2025/06/17/opinion_column_firefox/))
 - Bots are overwhelming websites with their hunger for AI data ([4 days ago](https://go.theregister.com/feed/www.theregister.com/2025/06/17/bot_overwhelming_websites_report/))
 - Global Data Breaches and Cyber Attacks in May 2025 – More Than 1.4 Billion Records Breached ([4 days ago](https://www.itgovernance.co.uk/blog/global-data-breaches-and-cyber-attacks-in-may-2025-more-than-1-4-billion-records-breached))
-- Scattered Spider has moved from retail to insurance ([4 days ago](https://go.theregister.com/feed/www.theregister.com/2025/06/16/scattered_spider_targets_insurance_firms/))
+- Scattered Spider has moved from retail to insurance ([5 days ago](https://go.theregister.com/feed/www.theregister.com/2025/06/16/scattered_spider_targets_insurance_firms/))
 - Remorseless extortionists claim to have stolen thousands of files from Freedman HealthCare ([5 days ago](https://go.theregister.com/feed/www.theregister.com/2025/06/16/extortionists_claim_freedman_healthcare_hack/))
 - Canada's WestJet says 'expect interruptions' online as it navigates cybersecurity turbulence ([5 days ago](https://go.theregister.com/feed/www.theregister.com/2025/06/16/westjet_cybersecurity_snafu/))
 - Eurocops arrest suspected Archetyp admin, shut down mega dark web drug shop ([5 days ago](https://go.theregister.com/feed/www.theregister.com/2025/06/16/archetyp_takedown_eurocops_arrest_suspected/))
@@ -207,6 +207,5 @@ description: SecOps News
 - Operation Endgame 2.0 - 15,436,844 breached accounts ([29 days ago](https://haveibeenpwned.com/Breach/OperationEndgame2))
 - Disruption with some GitHub services ([29 days ago](https://www.githubstatus.com/incidents/y71cytztvck9))
 - Fédération Francaise de Rugby - 281,977 breached accounts ([29 days ago](https://haveibeenpwned.com/Breach/FFR))
-- Oops: DanaBot Malware Devs Infected Their Own PCs ([29 days ago](https://krebsonsecurity.com/2025/05/oops-danabot-malware-devs-infected-their-own-pcs/))
 
 <!-- news_marker ends -->
