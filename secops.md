@@ -8,9 +8,9 @@ description: SecOps News
 [Get this as an RSS feed](/secops.rss)
 
 <!-- news_marker starts -->
-- Weekly Update 457 ([5 hours ago](https://www.troyhunt.com/weekly-update-457/))
+- Weekly Update 457 ([6 hours ago](https://www.troyhunt.com/weekly-update-457/))
 - Scattered Spider Behind Cyberattacks on M&S and Co-op, Causing Up to $592M in Damages ([13 hours ago](https://thehackernews.com/2025/06/scattered-spider-behind-cyberattacks-on.html))
-- Aflac Finds Suspicious Activity on US Network That May Impact Social Security Numbers, Other Data ([13 hours ago](https://www.securityweek.com/aflac-finds-suspicious-activity-on-us-network-that-may-impact-social-security-numbers-other-data/))
+- Aflac Finds Suspicious Activity on US Network That May Impact Social Security Numbers, Other Data ([14 hours ago](https://www.securityweek.com/aflac-finds-suspicious-activity-on-us-network-that-may-impact-social-security-numbers-other-data/))
 - Netflix, Apple, BofA websites hijacked with fake help-desk numbers ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2025/06/20/netflix_apple_bofa_websites_hijacked/))
 - New GitHub Copilot limits push AI users to pricier tiers ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2025/06/20/github_begins_enforcing_premium_request/))
 - US patent office wants an AI to scan for prior art, but doesn't want to pay for it ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2025/06/20/us_patent_office_ai/))
@@ -126,7 +126,7 @@ description: SecOps News
 - Canada's WestJet says 'expect interruptions' online as it navigates cybersecurity turbulence ([5 days ago](https://go.theregister.com/feed/www.theregister.com/2025/06/16/westjet_cybersecurity_snafu/))
 - Eurocops arrest suspected Archetyp admin, shut down mega dark web drug shop ([5 days ago](https://go.theregister.com/feed/www.theregister.com/2025/06/16/archetyp_takedown_eurocops_arrest_suspected/))
 - Salesforce study finds LLM agents flunk CRM and confidentiality tests ([5 days ago](https://go.theregister.com/feed/www.theregister.com/2025/06/16/salesforce_llm_agents_benchmark/))
-- WestJet investigates cyberattack disrupting internal systems ([6 days ago](https://databreaches.net/2025/06/14/westjet-investigates-cyberattack-disrupting-internal-systems/))
+- WestJet investigates cyberattack disrupting internal systems ([7 days ago](https://databreaches.net/2025/06/14/westjet-investigates-cyberattack-disrupting-internal-systems/))
 - Plastic surgeons often store nude photos of patients with their identity information. When would we call that “negligent?” ([7 days ago](https://databreaches.net/2025/06/14/plastic-surgeons-often-store-nude-photos-of-patients-with-their-identity-information-when-would-we-call-that-negligent/))
 - India: Servers of two city hospitals hacked; police register FIR ([7 days ago](https://databreaches.net/2025/06/14/india-servers-of-two-city-hospitals-hacked-police-register-fir/))
 - Ph: Coop Hospital confirms probe into reported cyberattack ([8 days ago](https://databreaches.net/2025/06/13/ph-coop-hospital-confirms-probe-into-reported-cyberattack/))
