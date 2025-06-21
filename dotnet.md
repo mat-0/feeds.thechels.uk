@@ -8,7 +8,7 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Model Context Protocol, Without the Hype ([14 hours ago](https://dotnetkicks.com/r/723300?url=https://petabridge.com/blog/mcp-without-the-hype/))
+- Model Context Protocol, Without the Hype ([15 hours ago](https://dotnetkicks.com/r/723300?url=https://petabridge.com/blog/mcp-without-the-hype/))
 - 5 Mistakes That Make Your Code Unmaintainable ([1 days ago](https://dotnetkicks.com/r/723269?url=https://codeopinion.com/5-mistakes-that-make-your-code-unmaintainable/))
 - Richie Bonilla and Forage AI Email ([1 days ago](https://dotnetkicks.com/r/723207?url=https://jesseliberty.com/2025/06/19/richie-bonilla-and-forage-ai-email/))
 - Announcing Microsoft Desired State Configuration v3.1.0 - PowerShell Team ([3 days ago](https://dotnetkicks.com/r/723087?url=https://devblogs.microsoft.com/powershell/announcing-dsc-v3-1-0/))
@@ -18,9 +18,9 @@ description: DotNet Updates
 - Agent mode is now generally available with MCP support - Visual Studio Blog ([3 days ago](https://dotnetkicks.com/r/723078?url=https://devblogs.microsoft.com/visualstudio/agent-mode-is-now-generally-available-with-mcp-support/))
 - Working with stacked branches in git (Part 1) ([4 days ago](https://dotnetkicks.com/r/723053?url=https://andrewlock.net/working-with-stacked-branches-in-git-part-1/))
 - Working with stacked branches in git (Part 1) ([4 days ago](https://andrewlock.net/working-with-stacked-branches-in-git-part-1/))
-- Rider 2025.2 EAP 5: Reimagined Monitoring tool window and New OpenTelemetry Plugin ([4 days ago](https://blog.jetbrains.com/dotnet/2025/06/16/rider-eap-5-new-monitoring-tool-opentelemetry-plugin/))
-- OpenTelemetry Plugin for JetBrains Rider: Observability Inside Your IDE ([4 days ago](https://blog.jetbrains.com/dotnet/2025/06/16/opentelemetry-plugin-for-jetbrains-rider/))
-- F# Weekly #24, 2025 - Fidelity &amp; BAREWire ([5 days ago](https://dotnetkicks.com/r/722982?url=https://sergeytihon.com/2025/06/15/f-weekly-24-2025-fidelity-barewire/))
+- Rider 2025.2 EAP 5: Reimagined Monitoring tool window and New OpenTelemetry Plugin ([5 days ago](https://blog.jetbrains.com/dotnet/2025/06/16/rider-eap-5-new-monitoring-tool-opentelemetry-plugin/))
+- OpenTelemetry Plugin for JetBrains Rider: Observability Inside Your IDE ([5 days ago](https://blog.jetbrains.com/dotnet/2025/06/16/opentelemetry-plugin-for-jetbrains-rider/))
+- F# Weekly #24, 2025 - Fidelity &amp; BAREWire ([6 days ago](https://dotnetkicks.com/r/722982?url=https://sergeytihon.com/2025/06/15/f-weekly-24-2025-fidelity-barewire/))
 - dotNetDave Says… Don’t Build Frankenstein’s Monster Applications! ([6 days ago](https://dotnettips.wordpress.com/2025/06/15/dotnetdave-says-dont-build-frankensteins-monster-applications/))
 - Family Safety Content Filtering ([8 days ago](https://dotnetkicks.com/r/722890?url=https://textslashplain.com/2025/06/12/family-safety-content-filtering/))
 - JetBrains GameDev Days 2025 – Call for Speakers ([8 days ago](https://blog.jetbrains.com/dotnet/2025/06/13/jetbrains-gamedev-days-2025-call-for-speakers/))
