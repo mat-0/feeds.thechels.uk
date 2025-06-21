@@ -8,9 +8,9 @@ description: SecOps News
 [Get this as an RSS feed](/secops.rss)
 
 <!-- news_marker starts -->
-- Weekly Update 457 ([3 hours ago](https://www.troyhunt.com/weekly-update-457/))
+- Weekly Update 457 ([4 hours ago](https://www.troyhunt.com/weekly-update-457/))
 - Scattered Spider Behind Cyberattacks on M&S and Co-op, Causing Up to $592M in Damages ([11 hours ago](https://thehackernews.com/2025/06/scattered-spider-behind-cyberattacks-on.html))
-- Aflac Finds Suspicious Activity on US Network That May Impact Social Security Numbers, Other Data ([11 hours ago](https://www.securityweek.com/aflac-finds-suspicious-activity-on-us-network-that-may-impact-social-security-numbers-other-data/))
+- Aflac Finds Suspicious Activity on US Network That May Impact Social Security Numbers, Other Data ([12 hours ago](https://www.securityweek.com/aflac-finds-suspicious-activity-on-us-network-that-may-impact-social-security-numbers-other-data/))
 - Netflix, Apple, BofA websites hijacked with fake help-desk numbers ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2025/06/20/netflix_apple_bofa_websites_hijacked/))
 - New GitHub Copilot limits push AI users to pricier tiers ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2025/06/20/github_begins_enforcing_premium_request/))
 - US patent office wants an AI to scan for prior art, but doesn't want to pay for it ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2025/06/20/us_patent_office_ai/))
@@ -106,7 +106,7 @@ description: SecOps News
 - Call for Applications: ERCIM STM WG 2025 Award for the Best Ph.D. Thesis on Security and Trust Management (July 31, 2025) ([3 days ago](https://seclists.org/fulldisclosure/2025/Jun/16))
 - Eat or be eaten by AI, Amazon CEO warns staff ([3 days ago](https://go.theregister.com/feed/www.theregister.com/2025/06/18/amazon_ceo_warns_ai_job_cuts/))
 - Salesforce adds AI to everything, jacks up prices by 6% ([3 days ago](https://go.theregister.com/feed/www.theregister.com/2025/06/17/salesforce_ai_prices/))
-- AWS locks down cloud security, hits 100% MFA enforcement for root users ([3 days ago](https://go.theregister.com/feed/www.theregister.com/2025/06/17/aws_enforces_mfa_root_users/))
+- AWS locks down cloud security, hits 100% MFA enforcement for root users ([4 days ago](https://go.theregister.com/feed/www.theregister.com/2025/06/17/aws_enforces_mfa_root_users/))
 - Incident with multiple GitHub services ([4 days ago](https://www.githubstatus.com/incidents/y7lb2rg4btd7))
 - Google Chrome Zero-Day CVE-2025-2783 Exploited by TaxOff to Deploy Trinper Backdoor ([4 days ago](https://thehackernews.com/2025/06/google-chrome-zero-day-cve-2025-2783.html))
 - MiniMax M1 model claims Chinese LLM crown from DeepSeek – plus it's true open source ([4 days ago](https://go.theregister.com/feed/www.theregister.com/2025/06/17/minimax_m1_model_chinese_llm/))
