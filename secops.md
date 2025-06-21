@@ -8,11 +8,11 @@ description: SecOps News
 [Get this as an RSS feed](/secops.rss)
 
 <!-- news_marker starts -->
-- Weekly Update 457 ([38 minutes ago](https://www.troyhunt.com/weekly-update-457/))
-- Scattered Spider Behind Cyberattacks on M&S and Co-op, Causing Up to $592M in Damages ([8 hours ago](https://thehackernews.com/2025/06/scattered-spider-behind-cyberattacks-on.html))
-- Aflac Finds Suspicious Activity on US Network That May Impact Social Security Numbers, Other Data ([8 hours ago](https://www.securityweek.com/aflac-finds-suspicious-activity-on-us-network-that-may-impact-social-security-numbers-other-data/))
+- Weekly Update 457 ([1 hours ago](https://www.troyhunt.com/weekly-update-457/))
+- Scattered Spider Behind Cyberattacks on M&S and Co-op, Causing Up to $592M in Damages ([9 hours ago](https://thehackernews.com/2025/06/scattered-spider-behind-cyberattacks-on.html))
+- Aflac Finds Suspicious Activity on US Network That May Impact Social Security Numbers, Other Data ([9 hours ago](https://www.securityweek.com/aflac-finds-suspicious-activity-on-us-network-that-may-impact-social-security-numbers-other-data/))
 - Netflix, Apple, BofA websites hijacked with fake help-desk numbers ([21 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/06/20/netflix_apple_bofa_websites_hijacked/))
-- New GitHub Copilot limits push AI users to pricier tiers ([21 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/06/20/github_begins_enforcing_premium_request/))
+- New GitHub Copilot limits push AI users to pricier tiers ([22 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/06/20/github_begins_enforcing_premium_request/))
 - US patent office wants an AI to scan for prior art, but doesn't want to pay for it ([23 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/06/20/us_patent_office_ai/))
 - EDB enhances analytics in PostgreSQL with open source add-ons ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2025/06/20/edb_enhances_analytics_in_postgresql/))
 - Looks like Aflac is the latest insurance giant snagged in Scattered Spider’s web ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2025/06/20/aflac_scattered_spider/))
@@ -109,7 +109,7 @@ description: SecOps News
 - AWS locks down cloud security, hits 100% MFA enforcement for root users ([3 days ago](https://go.theregister.com/feed/www.theregister.com/2025/06/17/aws_enforces_mfa_root_users/))
 - Incident with multiple GitHub services ([3 days ago](https://www.githubstatus.com/incidents/y7lb2rg4btd7))
 - Google Chrome Zero-Day CVE-2025-2783 Exploited by TaxOff to Deploy Trinper Backdoor ([3 days ago](https://thehackernews.com/2025/06/google-chrome-zero-day-cve-2025-2783.html))
-- MiniMax M1 model claims Chinese LLM crown from DeepSeek – plus it's true open source ([3 days ago](https://go.theregister.com/feed/www.theregister.com/2025/06/17/minimax_m1_model_chinese_llm/))
+- MiniMax M1 model claims Chinese LLM crown from DeepSeek – plus it's true open source ([4 days ago](https://go.theregister.com/feed/www.theregister.com/2025/06/17/minimax_m1_model_chinese_llm/))
 - LangSmith Bug Could Expose OpenAI Keys and User Data via Malicious Agents ([4 days ago](https://thehackernews.com/2025/06/langchain-langsmith-bug-let-hackers.html))
 - Sitecore CMS flaw let attackers brute-force 'b' for backdoor ([4 days ago](https://go.theregister.com/feed/www.theregister.com/2025/06/17/sitecore_rce_vulnerabilities/))
 - Broadcom delivers VMware Cloud Foundation 9 – the release that realizes its private cloud vision ([4 days ago](https://go.theregister.com/feed/www.theregister.com/2025/06/17/vmware_cloud_foundation_9_released/))
@@ -205,7 +205,7 @@ description: SecOps News
 - Weekly Update 453 ([25 days ago](https://www.troyhunt.com/weekly-update-453/))
 - We're experiencing errors ([26 days ago](https://www.githubstatus.com/incidents/d0nm3xcdc5jw))
 - Operation Endgame 2.0 - 15,436,844 breached accounts ([28 days ago](https://haveibeenpwned.com/Breach/OperationEndgame2))
-- Disruption with some GitHub services ([28 days ago](https://www.githubstatus.com/incidents/y71cytztvck9))
+- Disruption with some GitHub services ([29 days ago](https://www.githubstatus.com/incidents/y71cytztvck9))
 - Fédération Francaise de Rugby - 281,977 breached accounts ([29 days ago](https://haveibeenpwned.com/Breach/FFR))
 - Oops: DanaBot Malware Devs Infected Their Own PCs ([29 days ago](https://krebsonsecurity.com/2025/05/oops-danabot-malware-devs-infected-their-own-pcs/))
 
