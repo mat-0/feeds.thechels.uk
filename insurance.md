@@ -8,8 +8,8 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- How AI and texting are transforming the customer experience ([25 minutes ago](https://www.dig-in.com/opinion/ai-and-texting-are-transforming-the-customer-experience))
-- What's happening in the broker M&A market? ([27 minutes ago](https://www.dig-in.com/news/whats-happening-in-the-broker-m-a-market))
+- How AI and texting are transforming the customer experience ([58 minutes ago](https://www.dig-in.com/opinion/ai-and-texting-are-transforming-the-customer-experience))
+- What's happening in the broker M&A market? ([1 hours ago](https://www.dig-in.com/news/whats-happening-in-the-broker-m-a-market))
 - Arkel Adds Property Product to Acturis Platform ([2 days ago](https://insurance-edge.net/2025/06/20/arkel-adds-property-product-to-acturis-platform/))
 - Brokers called to be strategic enablers as insurance adapts to the energy transition ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/brokers-called-to-be-strategic-enablers-as-insurance-adapts-to-the-energy-transition-539905.aspx))
 - US Supreme Court Lets Fuel Producers Challenge California Emissions Standards ([2 days ago](https://www.insurancejournal.com/news/west/2025/06/20/828649.htm))
@@ -117,7 +117,7 @@ description: Insurance Updates
 - Solvent exit planning: Why insurers must act now ([4 days ago](https://www.postonline.co.uk/regulation/7957855/solvent-exit-planning-why-insurers-must-act-now))
 - A giant leap forward for bancassurance ([4 days ago](https://www.postonline.co.uk/personal/7957680/a-giant-leap-forward-for-bancassurance))
 - Insurance risks of Labour’s housebuilding plans ([4 days ago](https://www.postonline.co.uk/commercial/7957863/insurance-risks-of-labour%E2%80%99s-housebuilding-plans))
-- Underinsurance, misunderstandings and negligence fuel California wildfire lawsuits ([4 days ago](https://www.dig-in.com/news/underinsurance-negligence-fuel-california-wildfire-lawsuits))
+- Underinsurance, misunderstandings and negligence fuel California wildfire lawsuits ([5 days ago](https://www.dig-in.com/news/underinsurance-negligence-fuel-california-wildfire-lawsuits))
 - The General incrementally adopts new tech ([5 days ago](https://www.dig-in.com/news/the-general-incrementally-adopts-new-tech))
 - Autonomize AI Raises $28 Million Series A to Power Next-Generation Agentic AI for Healthcare and Life Sciences ([5 days ago](https://www.insurtechinsights.com/autonomize-ai-raises-28-million-series-a-to-power-next-generation-agentic-ai-for-healthcare-and-life-sciences/))
 - Pano AI Raises $44M to Scale Early Detection Infrastructure ([5 days ago](https://www.insurtechinsights.com/pano-ai-raises-44m-to-scale-early-detection-infrastructure/))
