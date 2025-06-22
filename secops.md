@@ -8,7 +8,7 @@ description: SecOps News
 [Get this as an RSS feed](/secops.rss)
 
 <!-- news_marker starts -->
-- The AIpocalypse is here for web sites as search referrals plunge ([10 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/06/22/ai_search_starves_publishers/))
+- The AIpocalypse is here for web sites as search referrals plunge ([11 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/06/22/ai_search_starves_publishers/))
 - Weekly Update 457 ([1 days ago](https://www.troyhunt.com/weekly-update-457/))
 - Scattered Spider Behind Cyberattacks on M&S and Co-op, Causing Up to $592M in Damages ([1 days ago](https://thehackernews.com/2025/06/scattered-spider-behind-cyberattacks-on.html))
 - Aflac Finds Suspicious Activity on US Network That May Impact Social Security Numbers, Other Data ([1 days ago](https://www.securityweek.com/aflac-finds-suspicious-activity-on-us-network-that-may-impact-social-security-numbers-other-data/))
@@ -107,7 +107,7 @@ description: SecOps News
 - Call for Applications: ERCIM STM WG 2025 Award for the Best Ph.D. Thesis on Security and Trust Management (July 31, 2025) ([4 days ago](https://seclists.org/fulldisclosure/2025/Jun/16))
 - Eat or be eaten by AI, Amazon CEO warns staff ([4 days ago](https://go.theregister.com/feed/www.theregister.com/2025/06/18/amazon_ceo_warns_ai_job_cuts/))
 - Salesforce adds AI to everything, jacks up prices by 6% ([4 days ago](https://go.theregister.com/feed/www.theregister.com/2025/06/17/salesforce_ai_prices/))
-- AWS locks down cloud security, hits 100% MFA enforcement for root users ([4 days ago](https://go.theregister.com/feed/www.theregister.com/2025/06/17/aws_enforces_mfa_root_users/))
+- AWS locks down cloud security, hits 100% MFA enforcement for root users ([5 days ago](https://go.theregister.com/feed/www.theregister.com/2025/06/17/aws_enforces_mfa_root_users/))
 - Incident with multiple GitHub services ([5 days ago](https://www.githubstatus.com/incidents/y7lb2rg4btd7))
 - Google Chrome Zero-Day CVE-2025-2783 Exploited by TaxOff to Deploy Trinper Backdoor ([5 days ago](https://thehackernews.com/2025/06/google-chrome-zero-day-cve-2025-2783.html))
 - MiniMax M1 model claims Chinese LLM crown from DeepSeek – plus it's true open source ([5 days ago](https://go.theregister.com/feed/www.theregister.com/2025/06/17/minimax_m1_model_chinese_llm/))
