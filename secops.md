@@ -8,7 +8,8 @@ description: SecOps News
 [Get this as an RSS feed](/secops.rss)
 
 <!-- news_marker starts -->
-- Weekly Update 457 ([16 hours ago](https://www.troyhunt.com/weekly-update-457/))
+- The AIpocalypse is here for web sites as search referrals plunge ([31 minutes ago](https://go.theregister.com/feed/www.theregister.com/2025/06/22/ai_search_starves_publishers/))
+- Weekly Update 457 ([17 hours ago](https://www.troyhunt.com/weekly-update-457/))
 - Scattered Spider Behind Cyberattacks on M&S and Co-op, Causing Up to $592M in Damages ([1 days ago](https://thehackernews.com/2025/06/scattered-spider-behind-cyberattacks-on.html))
 - Aflac Finds Suspicious Activity on US Network That May Impact Social Security Numbers, Other Data ([1 days ago](https://www.securityweek.com/aflac-finds-suspicious-activity-on-us-network-that-may-impact-social-security-numbers-other-data/))
 - Netflix, Apple, BofA websites hijacked with fake help-desk numbers ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2025/06/20/netflix_apple_bofa_websites_hijacked/))
@@ -119,8 +120,7 @@ description: SecOps News
 - Silver Fox APT Targets Taiwan with Complex Gh0stCringe and HoldingHands RAT Malware ([4 days ago](https://thehackernews.com/2025/06/silver-fox-apt-targets-taiwan-with.html))
 - Google Warns of Scattered Spider Attacks Targeting IT Support Teams at U.S. Insurance Firms ([4 days ago](https://thehackernews.com/2025/06/google-warns-of-scattered-spider.html))
 - Firefox is dead to me – and I'm not the only one who is fed up ([4 days ago](https://go.theregister.com/feed/www.theregister.com/2025/06/17/opinion_column_firefox/))
-- Bots are overwhelming websites with their hunger for AI data ([4 days ago](https://go.theregister.com/feed/www.theregister.com/2025/06/17/bot_overwhelming_websites_report/))
-- Global Data Breaches and Cyber Attacks in May 2025 – More Than 1.4 Billion Records Breached ([4 days ago](https://www.itgovernance.co.uk/blog/global-data-breaches-and-cyber-attacks-in-may-2025-more-than-1-4-billion-records-breached))
+- Global Data Breaches and Cyber Attacks in May 2025 – More Than 1.4 Billion Records Breached ([5 days ago](https://www.itgovernance.co.uk/blog/global-data-breaches-and-cyber-attacks-in-may-2025-more-than-1-4-billion-records-breached))
 - Scattered Spider has moved from retail to insurance ([5 days ago](https://go.theregister.com/feed/www.theregister.com/2025/06/16/scattered_spider_targets_insurance_firms/))
 - Remorseless extortionists claim to have stolen thousands of files from Freedman HealthCare ([5 days ago](https://go.theregister.com/feed/www.theregister.com/2025/06/16/extortionists_claim_freedman_healthcare_hack/))
 - Canada's WestJet says 'expect interruptions' online as it navigates cybersecurity turbulence ([5 days ago](https://go.theregister.com/feed/www.theregister.com/2025/06/16/westjet_cybersecurity_snafu/))
@@ -191,7 +191,7 @@ description: SecOps News
 - Authenticated File Upload to RCE - adaptcmsv3.0.3 ([18 days ago](https://seclists.org/fulldisclosure/2025/Jun/5))
 - ColoCrossing - 7,183 breached accounts ([19 days ago](https://haveibeenpwned.com/Breach/ColoCrossing))
 - CapLoader 2.0 Released ([19 days ago](https://www.netresec.com/?page=Blog&month=2025-06&post=CapLoader-2-0-Released))
-- Weekly Update 454 ([19 days ago](https://www.troyhunt.com/weekly-update-454/))
+- Weekly Update 454 ([20 days ago](https://www.troyhunt.com/weekly-update-454/))
 - Codespaces Scheduled Maintenance ([22 days ago](https://www.githubstatus.com/incidents/nwjwwhj118sf))
 - Disruption with some GitHub services ([22 days ago](https://www.githubstatus.com/incidents/p1rf575rlqml))
 - U.S. Sanctions Cloud Provider ‘Funnull’ as Top Source of ‘Pig Butchering’ Scams ([23 days ago](https://krebsonsecurity.com/2025/05/u-s-sanctions-cloud-provider-funnull-as-top-source-of-pig-butchering-scams/))
@@ -203,7 +203,7 @@ description: SecOps News
 - [Retroactive] Incident with Git Operations ([26 days ago](https://www.githubstatus.com/incidents/tyjjp463pg91))
 - Free - 13,926,173 breached accounts ([26 days ago](https://haveibeenpwned.com/Breach/FreeMobile))
 - Weekly Update 453 ([26 days ago](https://www.troyhunt.com/weekly-update-453/))
-- We're experiencing errors ([26 days ago](https://www.githubstatus.com/incidents/d0nm3xcdc5jw))
+- We're experiencing errors ([27 days ago](https://www.githubstatus.com/incidents/d0nm3xcdc5jw))
 - Operation Endgame 2.0 - 15,436,844 breached accounts ([29 days ago](https://haveibeenpwned.com/Breach/OperationEndgame2))
 - Disruption with some GitHub services ([29 days ago](https://www.githubstatus.com/incidents/y71cytztvck9))
 
