@@ -12,7 +12,7 @@ description: Insurance Updates
 - Brokers called to be strategic enablers as insurance adapts to the energy transition ([1 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/brokers-called-to-be-strategic-enablers-as-insurance-adapts-to-the-energy-transition-539905.aspx))
 - US Supreme Court Lets Fuel Producers Challenge California Emissions Standards ([1 days ago](https://www.insurancejournal.com/news/west/2025/06/20/828649.htm))
 - Aflac reports potential leak of personal data in cyber breach ([1 days ago](https://www.dig-in.com/articles/aflac-reports-potential-leak-of-personal-data-in-cyber-breach))
-- Supply Wisdom Secures $14m Series B Funding Round ([1 days ago](https://insurance-edge.net/2025/06/20/supply-wisdom-secures-14m-series-b-funding-round/))
+- Supply Wisdom Secures $14m Series B Funding Round ([2 days ago](https://insurance-edge.net/2025/06/20/supply-wisdom-secures-14m-series-b-funding-round/))
 - MS Transverse gets credit ratings upgrade from AM Best ([2 days ago](https://www.reinsurancene.ws/ms-transverse-gets-credit-ratings-upgrade-from-am-best/))
 - How to Spot Spoof Emails & Delete Them ([2 days ago](https://insurance-edge.net/2025/06/20/how-to-spot-spoof-emails-delete-them/))
 - Apollo’s Athora in talks to acquire PIC, reports Sky News ([2 days ago](https://www.reinsurancene.ws/apollos-athora-in-talks-to-acquire-pic-reports-sky-news/))

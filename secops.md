@@ -112,7 +112,7 @@ description: SecOps News
 - Google Chrome Zero-Day CVE-2025-2783 Exploited by TaxOff to Deploy Trinper Backdoor ([4 days ago](https://thehackernews.com/2025/06/google-chrome-zero-day-cve-2025-2783.html))
 - MiniMax M1 model claims Chinese LLM crown from DeepSeek – plus it's true open source ([4 days ago](https://go.theregister.com/feed/www.theregister.com/2025/06/17/minimax_m1_model_chinese_llm/))
 - LangSmith Bug Could Expose OpenAI Keys and User Data via Malicious Agents ([4 days ago](https://thehackernews.com/2025/06/langchain-langsmith-bug-let-hackers.html))
-- Sitecore CMS flaw let attackers brute-force 'b' for backdoor ([4 days ago](https://go.theregister.com/feed/www.theregister.com/2025/06/17/sitecore_rce_vulnerabilities/))
+- Sitecore CMS flaw let attackers brute-force 'b' for backdoor ([5 days ago](https://go.theregister.com/feed/www.theregister.com/2025/06/17/sitecore_rce_vulnerabilities/))
 - Broadcom delivers VMware Cloud Foundation 9 – the release that realizes its private cloud vision ([5 days ago](https://go.theregister.com/feed/www.theregister.com/2025/06/17/vmware_cloud_foundation_9_released/))
 - The AI Fix #55: Atari beats ChatGPT at chess, and Apple says AI “thinking” is an illusion ([5 days ago](https://grahamcluley.com/the-ai-fix-55-atari-beats-chatgpt-at-chess-and-apple-says-ai-thinking-is-an-illusion/))
 - Redefining identity security in the age of agentic AI ([5 days ago](https://go.theregister.com/feed/www.theregister.com/2025/06/17/identity_age_agentic_ai/))
