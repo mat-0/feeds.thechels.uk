@@ -80,7 +80,7 @@ description: SecOps News
 - Asana's cutting-edge AI feature ran into a little data leakage problem ([3 days ago](https://go.theregister.com/feed/www.theregister.com/2025/06/18/asana_mcp_server_bug/))
 - Asana's cutting-edge AI feature ran into a little data leakage problem ([3 days ago](https://go.theregister.com/feed/www.theregister.com/2025/06/18/asana_mcp_server_bug/))
 - Voltron Data throws its weight behind AMD for GPU-accelerated SQL ([3 days ago](https://go.theregister.com/feed/www.theregister.com/2025/06/18/voltron_amd_sql/))
-- Partial Actions Cache degradation ([3 days ago](https://www.githubstatus.com/incidents/9qcwpy3ckdrf))
+- Partial Actions Cache degradation ([4 days ago](https://www.githubstatus.com/incidents/9qcwpy3ckdrf))
 - Partial Degradation in Issues Experience ([4 days ago](https://www.githubstatus.com/incidents/7kltzm6r774q))
 - KDE Plasma 6.4 ships with major usability and Wayland improvements ([4 days ago](https://go.theregister.com/feed/www.theregister.com/2025/06/18/kde_plasma_64_released/))
 - Understanding the CIA Triad in 2025: A Cornerstone of Cyber Security ([4 days ago](https://www.itgovernance.co.uk/blog/what-is-the-cia-triad-and-why-is-it-important))
@@ -110,7 +110,7 @@ description: SecOps News
 - AWS locks down cloud security, hits 100% MFA enforcement for root users ([4 days ago](https://go.theregister.com/feed/www.theregister.com/2025/06/17/aws_enforces_mfa_root_users/))
 - Incident with multiple GitHub services ([4 days ago](https://www.githubstatus.com/incidents/y7lb2rg4btd7))
 - Google Chrome Zero-Day CVE-2025-2783 Exploited by TaxOff to Deploy Trinper Backdoor ([4 days ago](https://thehackernews.com/2025/06/google-chrome-zero-day-cve-2025-2783.html))
-- MiniMax M1 model claims Chinese LLM crown from DeepSeek – plus it's true open source ([4 days ago](https://go.theregister.com/feed/www.theregister.com/2025/06/17/minimax_m1_model_chinese_llm/))
+- MiniMax M1 model claims Chinese LLM crown from DeepSeek – plus it's true open source ([5 days ago](https://go.theregister.com/feed/www.theregister.com/2025/06/17/minimax_m1_model_chinese_llm/))
 - LangSmith Bug Could Expose OpenAI Keys and User Data via Malicious Agents ([5 days ago](https://thehackernews.com/2025/06/langchain-langsmith-bug-let-hackers.html))
 - Sitecore CMS flaw let attackers brute-force 'b' for backdoor ([5 days ago](https://go.theregister.com/feed/www.theregister.com/2025/06/17/sitecore_rce_vulnerabilities/))
 - Broadcom delivers VMware Cloud Foundation 9 – the release that realizes its private cloud vision ([5 days ago](https://go.theregister.com/feed/www.theregister.com/2025/06/17/vmware_cloud_foundation_9_released/))
@@ -205,6 +205,5 @@ description: SecOps News
 - Weekly Update 453 ([26 days ago](https://www.troyhunt.com/weekly-update-453/))
 - We're experiencing errors ([27 days ago](https://www.githubstatus.com/incidents/d0nm3xcdc5jw))
 - Operation Endgame 2.0 - 15,436,844 breached accounts ([29 days ago](https://haveibeenpwned.com/Breach/OperationEndgame2))
-- Disruption with some GitHub services ([29 days ago](https://www.githubstatus.com/incidents/y71cytztvck9))
 
 <!-- news_marker ends -->
