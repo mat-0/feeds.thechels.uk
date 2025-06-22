@@ -91,7 +91,7 @@ description: Insurance Updates
 - How and why businesses should embed sustainability in procurement ([2 days ago](https://www.postonline.co.uk/personal/7957936/how-and-why-businesses-should-embed-sustainability-in-procurement))
 - Throwback Thursday: CII merger; Monument demolished ([2 days ago](https://www.postonline.co.uk/personal/7956731/throwback-thursday-cii-merger-monument-demolished))
 - Five takeaways from webinar on using data to improve customer loyalty ([2 days ago](https://www.postonline.co.uk/market-access/technology/7957941/five-takeaways-from-webinar-on-using-data-to-improve-customer-loyalty))
-- United Risk acquires Aussie underwriting firm ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/united-risk-acquires-aussie-underwriting-firm-539662.aspx))
+- United Risk acquires Aussie underwriting firm ([3 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/united-risk-acquires-aussie-underwriting-firm-539662.aspx))
 - Scattered Spider hackers target insurance industry, testing cybersecurity strategies ([3 days ago](https://www.dig-in.com/news/scattered-spider-targets-insurers))
 - Lloyds, Chubb vs the man who was once the world’s richest ([3 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/lloyds-chubb-vs-the-man-who-was-once-the-worlds-richest-539614.aspx))
 - Allianz cutting 650 UK insurance jobs ([3 days ago](https://www.postonline.co.uk/news/7957967/allianz-cutting-650-uk-insurance-jobs))
