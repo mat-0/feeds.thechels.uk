@@ -8,7 +8,7 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Boost Your .NET Projects: Exception Handling Superpowers with Spargine ([9 hours ago](https://dotnettips.wordpress.com/2025/06/22/boost-your-net-projects-exception-handling-superpowers-with-spargine/))
+- Boost Your .NET Projects: Exception Handling Superpowers with Spargine ([10 hours ago](https://dotnettips.wordpress.com/2025/06/22/boost-your-net-projects-exception-handling-superpowers-with-spargine/))
 - Model Context Protocol, Without the Hype ([1 days ago](https://dotnetkicks.com/r/723300?url=https://petabridge.com/blog/mcp-without-the-hype/))
 - 5 Mistakes That Make Your Code Unmaintainable ([2 days ago](https://dotnetkicks.com/r/723269?url=https://codeopinion.com/5-mistakes-that-make-your-code-unmaintainable/))
 - Richie Bonilla and Forage AI Email ([2 days ago](https://dotnetkicks.com/r/723207?url=https://jesseliberty.com/2025/06/19/richie-bonilla-and-forage-ai-email/))
@@ -61,7 +61,7 @@ description: DotNet Updates
 - The Untapped Power of Veteran Engineers: Why Companies Are Overlooking Their Most Valuable Assets – Part 2 ([21 days ago](https://dotnettips.wordpress.com/2025/06/01/the-untapped-power-of-veteran-engineers-why-companies-are-overlooking-their-most-valuable-assets-part-2/))
 - Boost Your .NET Projects: Enhance Your Workflow with AssemblyHelper in Spargine ([21 days ago](https://dotnettips.wordpress.com/2025/06/01/boost-your-net-projects-enhance-your-workflow-with-assemblyhelper-in-spargine/))
 - Fine-tune the volume of logs your app produces ([23 days ago](https://devblogs.microsoft.com/dotnet/finetune-the-volume-of-logs-your-app-produces/))
-- Announcing dotnet run app.cs – A simpler way to start with C# and .NET 10 ([24 days ago](https://devblogs.microsoft.com/dotnet/announcing-dotnet-run-app/))
+- Announcing dotnet run app.cs – A simpler way to start with C# and .NET 10 ([25 days ago](https://devblogs.microsoft.com/dotnet/announcing-dotnet-run-app/))
 - Converting a docker-compose file to .NET Aspire ([26 days ago](https://andrewlock.net/converting-a-docker-compose-file-to-aspire/))
 
 <!-- news_marker ends -->
