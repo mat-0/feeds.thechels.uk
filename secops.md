@@ -189,7 +189,7 @@ description: SecOps News
 - IDOR "Change Password" Functionality - adaptcmsv3.0.3 ([18 days ago](https://seclists.org/fulldisclosure/2025/Jun/7))
 - Stored XSS "Send Message" Functionality - adaptcmsv3.0.3 ([18 days ago](https://seclists.org/fulldisclosure/2025/Jun/6))
 - Authenticated File Upload to RCE - adaptcmsv3.0.3 ([18 days ago](https://seclists.org/fulldisclosure/2025/Jun/5))
-- ColoCrossing - 7,183 breached accounts ([18 days ago](https://haveibeenpwned.com/Breach/ColoCrossing))
+- ColoCrossing - 7,183 breached accounts ([19 days ago](https://haveibeenpwned.com/Breach/ColoCrossing))
 - CapLoader 2.0 Released ([19 days ago](https://www.netresec.com/?page=Blog&month=2025-06&post=CapLoader-2-0-Released))
 - Weekly Update 454 ([19 days ago](https://www.troyhunt.com/weekly-update-454/))
 - Codespaces Scheduled Maintenance ([22 days ago](https://www.githubstatus.com/incidents/nwjwwhj118sf))
