@@ -8,8 +8,8 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- How AI and texting are transforming the customer experience ([3 hours ago](https://www.dig-in.com/opinion/ai-and-texting-are-transforming-the-customer-experience))
-- What's happening in the broker M&A market? ([3 hours ago](https://www.dig-in.com/news/whats-happening-in-the-broker-m-a-market))
+- How AI and texting are transforming the customer experience ([4 hours ago](https://www.dig-in.com/opinion/ai-and-texting-are-transforming-the-customer-experience))
+- What's happening in the broker M&A market? ([4 hours ago](https://www.dig-in.com/news/whats-happening-in-the-broker-m-a-market))
 - Arkel Adds Property Product to Acturis Platform ([2 days ago](https://insurance-edge.net/2025/06/20/arkel-adds-property-product-to-acturis-platform/))
 - Brokers called to be strategic enablers as insurance adapts to the energy transition ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/brokers-called-to-be-strategic-enablers-as-insurance-adapts-to-the-energy-transition-539905.aspx))
 - US Supreme Court Lets Fuel Producers Challenge California Emissions Standards ([2 days ago](https://www.insurancejournal.com/news/west/2025/06/20/828649.htm))
