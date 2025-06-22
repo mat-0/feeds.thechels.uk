@@ -8,7 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- How AI and texting are transforming the customer experience ([58 minutes ago](https://www.dig-in.com/opinion/ai-and-texting-are-transforming-the-customer-experience))
+- How AI and texting are transforming the customer experience ([1 hours ago](https://www.dig-in.com/opinion/ai-and-texting-are-transforming-the-customer-experience))
 - What's happening in the broker M&A market? ([1 hours ago](https://www.dig-in.com/news/whats-happening-in-the-broker-m-a-market))
 - Arkel Adds Property Product to Acturis Platform ([2 days ago](https://insurance-edge.net/2025/06/20/arkel-adds-property-product-to-acturis-platform/))
 - Brokers called to be strategic enablers as insurance adapts to the energy transition ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/brokers-called-to-be-strategic-enablers-as-insurance-adapts-to-the-energy-transition-539905.aspx))
@@ -70,7 +70,7 @@ description: Insurance Updates
 - Waymo Applies for NYC Testing Permit, Sending Uber and Lyft Shares Lower ([2 days ago](https://www.insurancejournal.com/news/east/2025/06/20/828493.htm))
 - Penny Black’s Social Diary: Branko’s outfit; Aviva’s beef ([2 days ago](https://www.postonline.co.uk/people/7957773/penny-black%E2%80%99s-social-diary-branko%E2%80%99s-outfit-aviva%E2%80%99s-beef))
 - Can the FCA fix the premium finance problem? ([2 days ago](https://www.postonline.co.uk/regulation/7957972/can-the-fca-fix-the-premium-finance-problem))
-- Men twice as likely to have life insurance coverage, UK Life Insurance ([2 days ago](https://www.dig-in.com/news/women-less-likely-to-have-life-insurance-coverage-as-men))
+- Men twice as likely to have life insurance coverage, UK Life Insurance ([3 days ago](https://www.dig-in.com/news/women-less-likely-to-have-life-insurance-coverage-as-men))
 - How could AI transform the insurance industry? ([3 days ago](https://www.insurancebusinessmag.com/uk/news/technology/how-could-ai-transform-the-insurance-industry-539773.aspx))
 - Captive 2.0: How a niche insurance vehicle is growing into a mainstream solution ([3 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/captive-2-0-how-a-niche-insurance-vehicle-is-growing-into-a-mainstream-solution-539725.aspx))
 - 10 largest global insurtech equity deals of Q1 ([3 days ago](https://www.dig-in.com/list/10-largest-global-insurtech-equity-deals-of-q1))
