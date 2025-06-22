@@ -8,9 +8,9 @@ description: SecOps News
 [Get this as an RSS feed](/secops.rss)
 
 <!-- news_marker starts -->
-- Weekly Update 457 ([7 hours ago](https://www.troyhunt.com/weekly-update-457/))
-- Scattered Spider Behind Cyberattacks on M&S and Co-op, Causing Up to $592M in Damages ([14 hours ago](https://thehackernews.com/2025/06/scattered-spider-behind-cyberattacks-on.html))
-- Aflac Finds Suspicious Activity on US Network That May Impact Social Security Numbers, Other Data ([15 hours ago](https://www.securityweek.com/aflac-finds-suspicious-activity-on-us-network-that-may-impact-social-security-numbers-other-data/))
+- Weekly Update 457 ([8 hours ago](https://www.troyhunt.com/weekly-update-457/))
+- Scattered Spider Behind Cyberattacks on M&S and Co-op, Causing Up to $592M in Damages ([16 hours ago](https://thehackernews.com/2025/06/scattered-spider-behind-cyberattacks-on.html))
+- Aflac Finds Suspicious Activity on US Network That May Impact Social Security Numbers, Other Data ([16 hours ago](https://www.securityweek.com/aflac-finds-suspicious-activity-on-us-network-that-may-impact-social-security-numbers-other-data/))
 - Netflix, Apple, BofA websites hijacked with fake help-desk numbers ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2025/06/20/netflix_apple_bofa_websites_hijacked/))
 - New GitHub Copilot limits push AI users to pricier tiers ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2025/06/20/github_begins_enforcing_premium_request/))
 - US patent office wants an AI to scan for prior art, but doesn't want to pay for it ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2025/06/20/us_patent_office_ai/))
@@ -104,7 +104,7 @@ description: SecOps News
 - SEC Consult SA-20250612-0 :: Reflected Cross-Site Scripting in ONLYOFFICE Docs (DocumentServer) ([3 days ago](https://seclists.org/fulldisclosure/2025/Jun/18))
 - SEC Consult SA-20250611-0 :: Undocumented Root Shell Access on SIMCom SIM7600G Modem ([3 days ago](https://seclists.org/fulldisclosure/2025/Jun/17))
 - Call for Applications: ERCIM STM WG 2025 Award for the Best Ph.D. Thesis on Security and Trust Management (July 31, 2025) ([3 days ago](https://seclists.org/fulldisclosure/2025/Jun/16))
-- Eat or be eaten by AI, Amazon CEO warns staff ([3 days ago](https://go.theregister.com/feed/www.theregister.com/2025/06/18/amazon_ceo_warns_ai_job_cuts/))
+- Eat or be eaten by AI, Amazon CEO warns staff ([4 days ago](https://go.theregister.com/feed/www.theregister.com/2025/06/18/amazon_ceo_warns_ai_job_cuts/))
 - Salesforce adds AI to everything, jacks up prices by 6% ([4 days ago](https://go.theregister.com/feed/www.theregister.com/2025/06/17/salesforce_ai_prices/))
 - AWS locks down cloud security, hits 100% MFA enforcement for root users ([4 days ago](https://go.theregister.com/feed/www.theregister.com/2025/06/17/aws_enforces_mfa_root_users/))
 - Incident with multiple GitHub services ([4 days ago](https://www.githubstatus.com/incidents/y7lb2rg4btd7))
