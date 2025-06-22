@@ -111,7 +111,7 @@ description: Insurance Updates
 - iPipeline launches advanced underwriting alongside project partners, The Openwork Partnership ([3 days ago](https://ifamagazine.com/ipipeline-launches-advanced-underwriting-alongside-project-partners-the-openwork-partnership/))
 - BP Marsh Acquires 27% Stake in London-Based MGA Cameron Specialty ([3 days ago](https://www.insurtechinsights.com/bp-marsh-acquires-27-stake-in-london-based-mga-cameron-specialty/))
 - Axa offers domestic abuse support to motor and home customers ([3 days ago](https://www.postonline.co.uk/personal/7957956/axa-offers-domestic-abuse-support-to-motor-and-home-customers))
-- Spotlight: AI drive revs up the motor race ([3 days ago](https://www.postonline.co.uk/market-access/motor/7957880/spotlight-ai-drive-revs-up-the-motor-race))
+- Spotlight: AI drive revs up the motor race ([4 days ago](https://www.postonline.co.uk/market-access/motor/7957880/spotlight-ai-drive-revs-up-the-motor-race))
 - Solvent exit planning: Why insurers must act now ([4 days ago](https://www.postonline.co.uk/regulation/7957855/solvent-exit-planning-why-insurers-must-act-now))
 - A giant leap forward for bancassurance ([4 days ago](https://www.postonline.co.uk/personal/7957680/a-giant-leap-forward-for-bancassurance))
 - Insurance risks of Labour’s housebuilding plans ([4 days ago](https://www.postonline.co.uk/commercial/7957863/insurance-risks-of-labour%E2%80%99s-housebuilding-plans))
