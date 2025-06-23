@@ -8,8 +8,8 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Wire Up XUnit Logging for Crazy Integration Testing ([8 hours ago](https://dotnetkicks.com/r/723366?url=https://jeremydmiller.com/2025/06/22/wire-up-xunit-logging-for-crazy-integration-testing/))
-- F# Weekly #25, 2025 - 7 Reasons F# Sucks ([12 hours ago](https://dotnetkicks.com/r/723332?url=https://sergeytihon.com/2025/06/22/f-weekly-25-2025-7-reasons-f-sucks/))
+- Wire Up XUnit Logging for Crazy Integration Testing ([9 hours ago](https://dotnetkicks.com/r/723366?url=https://jeremydmiller.com/2025/06/22/wire-up-xunit-logging-for-crazy-integration-testing/))
+- F# Weekly #25, 2025 - 7 Reasons F# Sucks ([13 hours ago](https://dotnetkicks.com/r/723332?url=https://sergeytihon.com/2025/06/22/f-weekly-25-2025-7-reasons-f-sucks/))
 - Boost Your .NET Projects: Exception Handling Superpowers with Spargine ([1 days ago](https://dotnettips.wordpress.com/2025/06/22/boost-your-net-projects-exception-handling-superpowers-with-spargine/))
 - Model Context Protocol, Without the Hype ([2 days ago](https://dotnetkicks.com/r/723300?url=https://petabridge.com/blog/mcp-without-the-hype/))
 - 5 Mistakes That Make Your Code Unmaintainable ([3 days ago](https://dotnetkicks.com/r/723269?url=https://codeopinion.com/5-mistakes-that-make-your-code-unmaintainable/))
@@ -26,7 +26,7 @@ description: DotNet Updates
 - F# Weekly #24, 2025 - Fidelity &amp; BAREWire ([7 days ago](https://dotnetkicks.com/r/722982?url=https://sergeytihon.com/2025/06/15/f-weekly-24-2025-fidelity-barewire/))
 - dotNetDave Says… Don’t Build Frankenstein’s Monster Applications! ([8 days ago](https://dotnettips.wordpress.com/2025/06/15/dotnetdave-says-dont-build-frankensteins-monster-applications/))
 - Family Safety Content Filtering ([9 days ago](https://dotnetkicks.com/r/722890?url=https://textslashplain.com/2025/06/12/family-safety-content-filtering/))
-- JetBrains GameDev Days 2025 – Call for Speakers ([9 days ago](https://blog.jetbrains.com/dotnet/2025/06/13/jetbrains-gamedev-days-2025-call-for-speakers/))
+- JetBrains GameDev Days 2025 – Call for Speakers ([10 days ago](https://blog.jetbrains.com/dotnet/2025/06/13/jetbrains-gamedev-days-2025-call-for-speakers/))
 - Improve Your Productivity with New GitHub Copilot Features for .NET! - .NET Blog ([10 days ago](https://dotnetkicks.com/r/722812?url=https://devblogs.microsoft.com/dotnet/improve-productivity-with-github-copilot-dotnet/))
 - Improve Your Productivity with New GitHub Copilot Features for .NET! - .NET Blog ([10 days ago](https://dotnetkicks.com/r/722805?url=https://devblogs.microsoft.com/dotnet/improve-productivity-with-github-copilot-dotnet/))
 - Improve Your Productivity with New GitHub Copilot Features for .NET! ([10 days ago](https://devblogs.microsoft.com/dotnet/improve-productivity-with-github-copilot-dotnet/))
