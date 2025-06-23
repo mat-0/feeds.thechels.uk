@@ -8,10 +8,10 @@ description: SecOps News
 [Get this as an RSS feed](/secops.rss)
 
 <!-- news_marker starts -->
-- CoinMarketCap briefly hacked to drain crypto wallets via fake Web3 popup ([1 hours ago](https://www.bleepingcomputer.com/news/security/coinmarketcap-briefly-hacked-to-drain-crypto-wallets-via-fake-web3-popup/))
-- Oxford City Council suffers breach exposing two decades of data ([8 hours ago](https://www.bleepingcomputer.com/news/security/oxford-city-council-suffers-breach-exposing-two-decades-of-data/))
-- Windows Snipping Tool now lets you create animated GIF recordings ([9 hours ago](https://www.bleepingcomputer.com/news/microsoft/windows-snipping-tool-now-lets-you-create-animated-gif-recordings/))
-- The AIpocalypse is here for web sites as search referrals plunge ([13 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/06/22/ai_search_starves_publishers/))
+- CoinMarketCap briefly hacked to drain crypto wallets via fake Web3 popup ([2 hours ago](https://www.bleepingcomputer.com/news/security/coinmarketcap-briefly-hacked-to-drain-crypto-wallets-via-fake-web3-popup/))
+- Oxford City Council suffers breach exposing two decades of data ([9 hours ago](https://www.bleepingcomputer.com/news/security/oxford-city-council-suffers-breach-exposing-two-decades-of-data/))
+- Windows Snipping Tool now lets you create animated GIF recordings ([10 hours ago](https://www.bleepingcomputer.com/news/microsoft/windows-snipping-tool-now-lets-you-create-animated-gif-recordings/))
+- The AIpocalypse is here for web sites as search referrals plunge ([14 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/06/22/ai_search_starves_publishers/))
 - Weekly Update 457 ([1 days ago](https://www.troyhunt.com/weekly-update-457/))
 - Russian hackers bypass Gmail MFA using stolen app passwords ([1 days ago](https://www.bleepingcomputer.com/news/security/russian-hackers-bypass-gmail-mfa-using-stolen-app-passwords/))
 - WordPress Motors theme flaw mass-exploited to hijack admin accounts ([1 days ago](https://www.bleepingcomputer.com/news/security/wordpress-motors-theme-flaw-mass-exploited-to-hijack-admin-accounts/))
@@ -153,7 +153,7 @@ description: SecOps News
 - Smashing Security podcast #421: Toothpick flirts, Google leaks, and ICE ICE scammers ([11 days ago](https://grahamcluley.com/smashing-security-podcast-421/))
 - Authentication methods: choosing the right type ([11 days ago](https://www.ncsc.gov.uk/guidance/authentication-methods-choosing-the-right-type))
 - Disruption with some GitHub services ([11 days ago](https://www.githubstatus.com/incidents/gj9d2m9x4mff))
-- Patch Tuesday, June 2025 Edition ([11 days ago](https://krebsonsecurity.com/2025/06/patch-tuesday-june-2025-edition/))
+- Patch Tuesday, June 2025 Edition ([12 days ago](https://krebsonsecurity.com/2025/06/patch-tuesday-june-2025-edition/))
 - Codespaces billing is delayed ([12 days ago](https://www.githubstatus.com/incidents/6nxmxxqcgmh7))
 - How to Start Your Career in Data Protection and Privacy ([12 days ago](https://www.itgovernance.co.uk/blog/how-to-start-your-career-in-data-protection-and-privacy))
 - Incident with Pull Requests ([12 days ago](https://www.githubstatus.com/incidents/5n51wd9mnkz0))
@@ -201,7 +201,7 @@ description: SecOps News
 - Disruption with some GitHub services ([26 days ago](https://www.githubstatus.com/incidents/2fk03fzv6zk0))
 - [Retroactive] Incident with Git Operations ([26 days ago](https://www.githubstatus.com/incidents/tyjjp463pg91))
 - Free - 13,926,173 breached accounts ([26 days ago](https://haveibeenpwned.com/Breach/FreeMobile))
-- Weekly Update 453 ([26 days ago](https://www.troyhunt.com/weekly-update-453/))
+- Weekly Update 453 ([27 days ago](https://www.troyhunt.com/weekly-update-453/))
 - We're experiencing errors ([27 days ago](https://www.githubstatus.com/incidents/d0nm3xcdc5jw))
 
 <!-- news_marker ends -->
