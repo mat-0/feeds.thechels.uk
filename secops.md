@@ -8,9 +8,9 @@ description: SecOps News
 [Get this as an RSS feed](/secops.rss)
 
 <!-- news_marker starts -->
-- AI-hosted infomercial shifts $7.5 million worth of product in China ([54 minutes ago](https://go.theregister.com/feed/www.theregister.com/2025/06/23/asia_tech_news_in_brief/))
-- Former US Army Sergeant pleads guilty after amateurish attempt at selling secrets to China ([3 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/06/23/infosec_news_in_brief/))
-- CoinMarketCap briefly hacked to drain crypto wallets via fake Web3 popup ([6 hours ago](https://www.bleepingcomputer.com/news/security/coinmarketcap-briefly-hacked-to-drain-crypto-wallets-via-fake-web3-popup/))
+- AI-hosted infomercial shifts $7.5 million worth of product in China ([1 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/06/23/asia_tech_news_in_brief/))
+- Former US Army Sergeant pleads guilty after amateurish attempt at selling secrets to China ([4 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/06/23/infosec_news_in_brief/))
+- CoinMarketCap briefly hacked to drain crypto wallets via fake Web3 popup ([7 hours ago](https://www.bleepingcomputer.com/news/security/coinmarketcap-briefly-hacked-to-drain-crypto-wallets-via-fake-web3-popup/))
 - Oxford City Council suffers breach exposing two decades of data ([13 hours ago](https://www.bleepingcomputer.com/news/security/oxford-city-council-suffers-breach-exposing-two-decades-of-data/))
 - Windows Snipping Tool now lets you create animated GIF recordings ([14 hours ago](https://www.bleepingcomputer.com/news/microsoft/windows-snipping-tool-now-lets-you-create-animated-gif-recordings/))
 - The AIpocalypse is here for web sites as search referrals plunge ([18 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/06/22/ai_search_starves_publishers/))
@@ -191,7 +191,7 @@ description: SecOps News
 - ColoCrossing - 7,183 breached accounts ([19 days ago](https://haveibeenpwned.com/Breach/ColoCrossing))
 - CapLoader 2.0 Released ([20 days ago](https://www.netresec.com/?page=Blog&month=2025-06&post=CapLoader-2-0-Released))
 - Weekly Update 454 ([20 days ago](https://www.troyhunt.com/weekly-update-454/))
-- Codespaces Scheduled Maintenance ([22 days ago](https://www.githubstatus.com/incidents/nwjwwhj118sf))
+- Codespaces Scheduled Maintenance ([23 days ago](https://www.githubstatus.com/incidents/nwjwwhj118sf))
 - Disruption with some GitHub services ([23 days ago](https://www.githubstatus.com/incidents/p1rf575rlqml))
 - U.S. Sanctions Cloud Provider ‘Funnull’ as Top Source of ‘Pig Butchering’ Scams ([24 days ago](https://krebsonsecurity.com/2025/05/u-s-sanctions-cloud-provider-funnull-as-top-source-of-pig-butchering-scams/))
 - Codespaces Scheduled Maintenance ([24 days ago](https://www.githubstatus.com/incidents/67vdd3b7d1zq))
