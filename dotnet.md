@@ -8,9 +8,9 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Wire Up XUnit Logging for Crazy Integration Testing ([2 hours ago](https://dotnetkicks.com/r/723366?url=https://jeremydmiller.com/2025/06/22/wire-up-xunit-logging-for-crazy-integration-testing/))
-- F# Weekly #25, 2025 - 7 Reasons F# Sucks ([6 hours ago](https://dotnetkicks.com/r/723332?url=https://sergeytihon.com/2025/06/22/f-weekly-25-2025-7-reasons-f-sucks/))
-- Boost Your .NET Projects: Exception Handling Superpowers with Spargine ([21 hours ago](https://dotnettips.wordpress.com/2025/06/22/boost-your-net-projects-exception-handling-superpowers-with-spargine/))
+- Wire Up XUnit Logging for Crazy Integration Testing ([3 hours ago](https://dotnetkicks.com/r/723366?url=https://jeremydmiller.com/2025/06/22/wire-up-xunit-logging-for-crazy-integration-testing/))
+- F# Weekly #25, 2025 - 7 Reasons F# Sucks ([7 hours ago](https://dotnetkicks.com/r/723332?url=https://sergeytihon.com/2025/06/22/f-weekly-25-2025-7-reasons-f-sucks/))
+- Boost Your .NET Projects: Exception Handling Superpowers with Spargine ([22 hours ago](https://dotnettips.wordpress.com/2025/06/22/boost-your-net-projects-exception-handling-superpowers-with-spargine/))
 - Model Context Protocol, Without the Hype ([2 days ago](https://dotnetkicks.com/r/723300?url=https://petabridge.com/blog/mcp-without-the-hype/))
 - 5 Mistakes That Make Your Code Unmaintainable ([3 days ago](https://dotnetkicks.com/r/723269?url=https://codeopinion.com/5-mistakes-that-make-your-code-unmaintainable/))
 - Richie Bonilla and Forage AI Email ([3 days ago](https://dotnetkicks.com/r/723207?url=https://jesseliberty.com/2025/06/19/richie-bonilla-and-forage-ai-email/))
