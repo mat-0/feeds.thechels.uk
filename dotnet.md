@@ -8,11 +8,11 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Legacy Code Survival Guide: Visual Basic and .NET in 2025 ([7 minutes ago](https://dotnetkicks.com/r/723418?url=https://www.mobilize.net/blog/legacy-code-survival-guide-visual-basic-and-.net-in-2025?utm_source=DNK-723418&utm_medium=DNK-723418&utm_content=DNK-723418&utm_campaign=DNK-723418))
-- Working with stacked branches in git (Part 2) ([3 hours ago](https://dotnetkicks.com/r/723493?url=https://andrewlock.net/working-with-stacked-branches-in-git-part-2/))
+- Legacy Code Survival Guide: Visual Basic and .NET in 2025 ([39 minutes ago](https://dotnetkicks.com/r/723418?url=https://www.mobilize.net/blog/legacy-code-survival-guide-visual-basic-and-.net-in-2025?utm_source=DNK-723418&utm_medium=DNK-723418&utm_content=DNK-723418&utm_campaign=DNK-723418))
+- Working with stacked branches in git (Part 2) ([4 hours ago](https://dotnetkicks.com/r/723493?url=https://andrewlock.net/working-with-stacked-branches-in-git-part-2/))
 - Working with stacked branches in git (Part 2) ([5 hours ago](https://andrewlock.net/working-with-stacked-branches-in-git-part-2/))
 - FYAI: How to leverage AI to reimagine cross-functional collaboration with Yina Arenas  -  The Microsoft Cloud Blog ([13 hours ago](https://dotnetkicks.com/r/723478?url=https://www.microsoft.com/en-us/microsoft-cloud/blog/2025/06/23/fyai-how-to-leverage-ai-to-reimagine-cross-functional-collaboration-with-yina-arenas/))
-- Inside Access: Join Us at VS Live! Redmond for a Week of Deep Developer Learning - Visual Studio Blog ([23 hours ago](https://dotnetkicks.com/r/723397?url=https://devblogs.microsoft.com/visualstudio/inside-access-join-us-at-vs-live-redmond-for-a-week-of-deep-developer-learning/))
+- Inside Access: Join Us at VS Live! Redmond for a Week of Deep Developer Learning - Visual Studio Blog ([1 days ago](https://dotnetkicks.com/r/723397?url=https://devblogs.microsoft.com/visualstudio/inside-access-join-us-at-vs-live-redmond-for-a-week-of-deep-developer-learning/))
 - OSS Project Lessons Learned with David Giard ([1 days ago](https://dotnetkicks.com/r/723377?url=https://jeremydmiller.com/2025/06/23/oss-project-lessons-learned-with-david-giard/))
 - Wire Up XUnit Logging for Crazy Integration Testing ([1 days ago](https://dotnetkicks.com/r/723366?url=https://jeremydmiller.com/2025/06/22/wire-up-xunit-logging-for-crazy-integration-testing/))
 - F# Weekly #25, 2025 - 7 Reasons F# Sucks ([1 days ago](https://dotnetkicks.com/r/723332?url=https://sergeytihon.com/2025/06/22/f-weekly-25-2025-7-reasons-f-sucks/))
@@ -20,7 +20,7 @@ description: DotNet Updates
 - Model Context Protocol, Without the Hype ([3 days ago](https://dotnetkicks.com/r/723300?url=https://petabridge.com/blog/mcp-without-the-hype/))
 - 5 Mistakes That Make Your Code Unmaintainable ([4 days ago](https://dotnetkicks.com/r/723269?url=https://codeopinion.com/5-mistakes-that-make-your-code-unmaintainable/))
 - Richie Bonilla and Forage AI Email ([4 days ago](https://dotnetkicks.com/r/723207?url=https://jesseliberty.com/2025/06/19/richie-bonilla-and-forage-ai-email/))
-- Announcing Microsoft Desired State Configuration v3.1.0 - PowerShell Team ([5 days ago](https://dotnetkicks.com/r/723087?url=https://devblogs.microsoft.com/powershell/announcing-dsc-v3-1-0/))
+- Announcing Microsoft Desired State Configuration v3.1.0 - PowerShell Team ([6 days ago](https://dotnetkicks.com/r/723087?url=https://devblogs.microsoft.com/powershell/announcing-dsc-v3-1-0/))
 - Multimodal Vision Intelligence with .NET MAUI - .NET Blog ([6 days ago](https://dotnetkicks.com/r/723086?url=https://devblogs.microsoft.com/dotnet/multimodal-vision-intelligence-with-dotnet-maui/))
 - From code to community: The collective effort behind SQL Server 2025 - Microsoft SQL Server Blog ([6 days ago](https://dotnetkicks.com/r/723085?url=https://www.microsoft.com/en-us/sql-server/blog/2025/06/16/from-code-to-community-the-collective-effort-behind-sql-server-2025/))
 - Multimodal Vision Intelligence with .NET MAUI ([6 days ago](https://devblogs.microsoft.com/dotnet/multimodal-vision-intelligence-with-dotnet-maui/))
