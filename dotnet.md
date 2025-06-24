@@ -9,7 +9,7 @@ description: DotNet Updates
 
 <!-- news_marker starts -->
 - Legacy Code Survival Guide: Visual Basic and .NET in 2025 ([2 hours ago](https://dotnetkicks.com/r/723418?url=https://www.mobilize.net/blog/legacy-code-survival-guide-visual-basic-and-.net-in-2025?utm_source=DNK-723418&utm_medium=DNK-723418&utm_content=DNK-723418&utm_campaign=DNK-723418))
-- Working with stacked branches in git (Part 2) ([5 hours ago](https://dotnetkicks.com/r/723493?url=https://andrewlock.net/working-with-stacked-branches-in-git-part-2/))
+- Working with stacked branches in git (Part 2) ([6 hours ago](https://dotnetkicks.com/r/723493?url=https://andrewlock.net/working-with-stacked-branches-in-git-part-2/))
 - Working with stacked branches in git (Part 2) ([7 hours ago](https://andrewlock.net/working-with-stacked-branches-in-git-part-2/))
 - FYAI: How to leverage AI to reimagine cross-functional collaboration with Yina Arenas  -  The Microsoft Cloud Blog ([15 hours ago](https://dotnetkicks.com/r/723478?url=https://www.microsoft.com/en-us/microsoft-cloud/blog/2025/06/23/fyai-how-to-leverage-ai-to-reimagine-cross-functional-collaboration-with-yina-arenas/))
 - Inside Access: Join Us at VS Live! Redmond for a Week of Deep Developer Learning - Visual Studio Blog ([1 days ago](https://dotnetkicks.com/r/723397?url=https://devblogs.microsoft.com/visualstudio/inside-access-join-us-at-vs-live-redmond-for-a-week-of-deep-developer-learning/))
@@ -36,7 +36,7 @@ description: DotNet Updates
 - Improve Your Productivity with New GitHub Copilot Features for .NET! - .NET Blog ([11 days ago](https://dotnetkicks.com/r/722812?url=https://devblogs.microsoft.com/dotnet/improve-productivity-with-github-copilot-dotnet/))
 - Improve Your Productivity with New GitHub Copilot Features for .NET! - .NET Blog ([11 days ago](https://dotnetkicks.com/r/722805?url=https://devblogs.microsoft.com/dotnet/improve-productivity-with-github-copilot-dotnet/))
 - Improve Your Productivity with New GitHub Copilot Features for .NET! ([11 days ago](https://devblogs.microsoft.com/dotnet/improve-productivity-with-github-copilot-dotnet/))
-- You DON'T Need Microservices for Serverless! ([11 days ago](https://dotnetkicks.com/r/722771?url=https://codeopinion.com/you-dont-need-microservices-for-serverless/))
+- You DON'T Need Microservices for Serverless! ([12 days ago](https://dotnetkicks.com/r/722771?url=https://codeopinion.com/you-dont-need-microservices-for-serverless/))
 - ReSharper and Rider 2025.1.3: Important Updates Released ([12 days ago](https://blog.jetbrains.com/dotnet/2025/06/12/resharper-and-rider-2025-1-3-important-updates-released/))
 - Multimodal Voice Intelligence with .NET MAUI - .NET Blog ([12 days ago](https://dotnetkicks.com/r/722710?url=https://devblogs.microsoft.com/dotnet/multimodal-voice-intelligence-with-dotnet-maui/))
 - Multimodal Voice Intelligence with .NET MAUI ([12 days ago](https://devblogs.microsoft.com/dotnet/multimodal-voice-intelligence-with-dotnet-maui/))
@@ -49,7 +49,7 @@ description: DotNet Updates
 - Converting a Microsoft XNA 3.1 game to MonoGame ([14 days ago](https://andrewlock.net/converting-an-xna-game-to-monogame/))
 - SQL and NoSQL Query langauge support come to ReSharper! ([14 days ago](https://blog.jetbrains.com/dotnet/2025/06/10/sql-and-nosql-query-langauge-support-come-to-resharper/))
 - dotNetDave Rocks SQL Saturday in Louisiana ([14 days ago](https://dotnettips.wordpress.com/2025/06/09/dotnetdave-rocks-the-sql-saturday-in-louisiana/))
-- Boost Your .NET Projects: Maximize Thread-Safe Performance in .NET with Spargine’s DistinctBlockingCollection ([15 days ago](https://dotnettips.wordpress.com/2025/06/08/boost-your-net-projects-maximize-thread-safe-performance-in-net-with-spargines-distinctblockingcollection/))
+- Boost Your .NET Projects: Maximize Thread-Safe Performance in .NET with Spargine’s DistinctBlockingCollection ([16 days ago](https://dotnettips.wordpress.com/2025/06/08/boost-your-net-projects-maximize-thread-safe-performance-in-net-with-spargines-distinctblockingcollection/))
 - CollabTalk Podcast: Veteran Engineers Aren’t Done Yet – They’re Just Getting Started ([17 days ago](https://dotnettips.wordpress.com/2025/06/07/collabtalk-podcast-veteran-engineers-arent-done-yet-theyre-just-getting-started/))
 - Adding Extension Properties with State to Types, (Sort of) In Spargine ([18 days ago](https://dotnettips.wordpress.com/2025/06/06/adding-extension-properties-to-types-sort-of-in-spargine/))
 - Emit logs on-demand with log buffering ([18 days ago](https://devblogs.microsoft.com/dotnet/emit-logs-on-demand-with-log-buffering/))
