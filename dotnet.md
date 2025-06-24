@@ -8,8 +8,8 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Legacy Code Survival Guide: Visual Basic and .NET in 2025 ([19 hours ago](https://dotnetkicks.com/r/723418?url=https://www.mobilize.net/blog/legacy-code-survival-guide-visual-basic-and-.net-in-2025?utm_source=DNK-723418&utm_medium=DNK-723418&utm_content=DNK-723418&utm_campaign=DNK-723418))
-- FYAI: How to leverage AI to reimagine cross-functional collaboration with Yina Arenas  -  The Microsoft Cloud Blog ([8 hours ago](https://dotnetkicks.com/r/723478?url=https://www.microsoft.com/en-us/microsoft-cloud/blog/2025/06/23/fyai-how-to-leverage-ai-to-reimagine-cross-functional-collaboration-with-yina-arenas/))
+- Legacy Code Survival Guide: Visual Basic and .NET in 2025 ([20 hours ago](https://dotnetkicks.com/r/723418?url=https://www.mobilize.net/blog/legacy-code-survival-guide-visual-basic-and-.net-in-2025?utm_source=DNK-723418&utm_medium=DNK-723418&utm_content=DNK-723418&utm_campaign=DNK-723418))
+- FYAI: How to leverage AI to reimagine cross-functional collaboration with Yina Arenas  -  The Microsoft Cloud Blog ([9 hours ago](https://dotnetkicks.com/r/723478?url=https://www.microsoft.com/en-us/microsoft-cloud/blog/2025/06/23/fyai-how-to-leverage-ai-to-reimagine-cross-functional-collaboration-with-yina-arenas/))
 - Inside Access: Join Us at VS Live! Redmond for a Week of Deep Developer Learning - Visual Studio Blog ([19 hours ago](https://dotnetkicks.com/r/723397?url=https://devblogs.microsoft.com/visualstudio/inside-access-join-us-at-vs-live-redmond-for-a-week-of-deep-developer-learning/))
 - OSS Project Lessons Learned with David Giard ([20 hours ago](https://dotnetkicks.com/r/723377?url=https://jeremydmiller.com/2025/06/23/oss-project-lessons-learned-with-david-giard/))
 - Wire Up XUnit Logging for Crazy Integration Testing ([1 days ago](https://dotnetkicks.com/r/723366?url=https://jeremydmiller.com/2025/06/22/wire-up-xunit-logging-for-crazy-integration-testing/))
@@ -30,7 +30,7 @@ description: DotNet Updates
 - F# Weekly #24, 2025 - Fidelity &amp; BAREWire ([8 days ago](https://dotnetkicks.com/r/722982?url=https://sergeytihon.com/2025/06/15/f-weekly-24-2025-fidelity-barewire/))
 - dotNetDave Says… Don’t Build Frankenstein’s Monster Applications! ([9 days ago](https://dotnettips.wordpress.com/2025/06/15/dotnetdave-says-dont-build-frankensteins-monster-applications/))
 - Family Safety Content Filtering ([10 days ago](https://dotnetkicks.com/r/722890?url=https://textslashplain.com/2025/06/12/family-safety-content-filtering/))
-- JetBrains GameDev Days 2025 – Call for Speakers ([10 days ago](https://blog.jetbrains.com/dotnet/2025/06/13/jetbrains-gamedev-days-2025-call-for-speakers/))
+- JetBrains GameDev Days 2025 – Call for Speakers ([11 days ago](https://blog.jetbrains.com/dotnet/2025/06/13/jetbrains-gamedev-days-2025-call-for-speakers/))
 - Improve Your Productivity with New GitHub Copilot Features for .NET! - .NET Blog ([11 days ago](https://dotnetkicks.com/r/722812?url=https://devblogs.microsoft.com/dotnet/improve-productivity-with-github-copilot-dotnet/))
 - Improve Your Productivity with New GitHub Copilot Features for .NET! - .NET Blog ([11 days ago](https://dotnetkicks.com/r/722805?url=https://devblogs.microsoft.com/dotnet/improve-productivity-with-github-copilot-dotnet/))
 - Improve Your Productivity with New GitHub Copilot Features for .NET! ([11 days ago](https://devblogs.microsoft.com/dotnet/improve-productivity-with-github-copilot-dotnet/))
