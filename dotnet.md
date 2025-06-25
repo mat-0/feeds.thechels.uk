@@ -8,7 +8,7 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- UX Chronicles: Why Developers Should Care About User Experience (Yes, You!) ([9 hours ago](https://dotnettips.wordpress.com/2025/06/25/ux-chronicles-why-developers-should-care-about-user-experience-yes-you/))
+- UX Chronicles: Why Developers Should Care About User Experience (Yes, You!) ([10 hours ago](https://dotnettips.wordpress.com/2025/06/25/ux-chronicles-why-developers-should-care-about-user-experience-yes-you/))
 - Legacy Code Survival Guide: Visual Basic and .NET in 2025 ([1 days ago](https://dotnetkicks.com/r/723418?url=https://www.mobilize.net/blog/legacy-code-survival-guide-visual-basic-and-.net-in-2025?utm_source=DNK-723418&utm_medium=DNK-723418&utm_content=DNK-723418&utm_campaign=DNK-723418))
 - Working with stacked branches in git (Part 2) ([1 days ago](https://dotnetkicks.com/r/723493?url=https://andrewlock.net/working-with-stacked-branches-in-git-part-2/))
 - Working with stacked branches in git (Part 2) ([1 days ago](https://andrewlock.net/working-with-stacked-branches-in-git-part-2/))
@@ -62,7 +62,7 @@ description: DotNet Updates
 - dotNetDave Says… Soft Skills at Conferences Matter—A Lot! ([23 days ago](https://dotnettips.wordpress.com/2025/06/02/dotnetdave-says-soft-skills-at-conferences-matter-a-lot/))
 - The Untapped Power of Veteran Engineers: Why Companies Are Overlooking Their Most Valuable Assets – Part 2 ([24 days ago](https://dotnettips.wordpress.com/2025/06/01/the-untapped-power-of-veteran-engineers-why-companies-are-overlooking-their-most-valuable-assets-part-2/))
 - Fine-tune the volume of logs your app produces ([26 days ago](https://devblogs.microsoft.com/dotnet/finetune-the-volume-of-logs-your-app-produces/))
-- Announcing dotnet run app.cs – A simpler way to start with C# and .NET 10 ([27 days ago](https://devblogs.microsoft.com/dotnet/announcing-dotnet-run-app/))
+- Announcing dotnet run app.cs – A simpler way to start with C# and .NET 10 ([28 days ago](https://devblogs.microsoft.com/dotnet/announcing-dotnet-run-app/))
 - Converting a docker-compose file to .NET Aspire ([29 days ago](https://andrewlock.net/converting-a-docker-compose-file-to-aspire/))
 
 <!-- news_marker ends -->
