@@ -57,7 +57,7 @@ description: DotNet Updates
 - Catch Up on Microsoft Build 2025: Essential Sessions for .NET Developers ([20 days ago](https://devblogs.microsoft.com/dotnet/catching-up-on-microsoft-build-2025-essential-sessions-for-dotnet-developers/))
 - Boost Your .NET Projects: Mastering Unit Testing with Spargine’s UnitTester Class ([21 days ago](https://dotnettips.wordpress.com/2025/06/04/boost-your-net-projects-mastering-unit-testing-with-spargines-unittester-class/))
 - Using AI Foundry with .NET MAUI ([21 days ago](https://devblogs.microsoft.com/dotnet/using-ai-foundry-with-dotnet-maui/))
-- dotInsights  -  June 2025 ([21 days ago](https://blog.jetbrains.com/dotnet/2025/06/03/dotinsights-june-2025/))
+- dotInsights  -  June 2025 ([22 days ago](https://blog.jetbrains.com/dotnet/2025/06/03/dotinsights-june-2025/))
 - Creating your first sample game with MonoGame ([22 days ago](https://andrewlock.net/creating-your-first-sample-game-with-monogame/))
 - dotNetDave Says… Soft Skills at Conferences Matter—A Lot! ([23 days ago](https://dotnettips.wordpress.com/2025/06/02/dotnetdave-says-soft-skills-at-conferences-matter-a-lot/))
 - The Untapped Power of Veteran Engineers: Why Companies Are Overlooking Their Most Valuable Assets – Part 2 ([24 days ago](https://dotnettips.wordpress.com/2025/06/01/the-untapped-power-of-veteran-engineers-why-companies-are-overlooking-their-most-valuable-assets-part-2/))
