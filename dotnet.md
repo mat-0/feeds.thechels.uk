@@ -8,8 +8,8 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- UX Chronicles: Why Developers Should Care About User Experience (Yes, You!) ([5 hours ago](https://dotnettips.wordpress.com/2025/06/25/ux-chronicles-why-developers-should-care-about-user-experience-yes-you/))
-- Legacy Code Survival Guide: Visual Basic and .NET in 2025 ([21 hours ago](https://dotnetkicks.com/r/723418?url=https://www.mobilize.net/blog/legacy-code-survival-guide-visual-basic-and-.net-in-2025?utm_source=DNK-723418&utm_medium=DNK-723418&utm_content=DNK-723418&utm_campaign=DNK-723418))
+- UX Chronicles: Why Developers Should Care About User Experience (Yes, You!) ([6 hours ago](https://dotnettips.wordpress.com/2025/06/25/ux-chronicles-why-developers-should-care-about-user-experience-yes-you/))
+- Legacy Code Survival Guide: Visual Basic and .NET in 2025 ([22 hours ago](https://dotnetkicks.com/r/723418?url=https://www.mobilize.net/blog/legacy-code-survival-guide-visual-basic-and-.net-in-2025?utm_source=DNK-723418&utm_medium=DNK-723418&utm_content=DNK-723418&utm_campaign=DNK-723418))
 - Working with stacked branches in git (Part 2) ([1 days ago](https://dotnetkicks.com/r/723493?url=https://andrewlock.net/working-with-stacked-branches-in-git-part-2/))
 - Working with stacked branches in git (Part 2) ([1 days ago](https://andrewlock.net/working-with-stacked-branches-in-git-part-2/))
 - FYAI: How to leverage AI to reimagine cross-functional collaboration with Yina Arenas  -  The Microsoft Cloud Blog ([1 days ago](https://dotnetkicks.com/r/723478?url=https://www.microsoft.com/en-us/microsoft-cloud/blog/2025/06/23/fyai-how-to-leverage-ai-to-reimagine-cross-functional-collaboration-with-yina-arenas/))
