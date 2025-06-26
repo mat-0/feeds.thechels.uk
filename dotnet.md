@@ -10,7 +10,7 @@ description: DotNet Updates
 <!-- news_marker starts -->
 - Simpler XAML in .NET MAUI 10 - .NET Blog ([1 hours ago](https://dotnetkicks.com/r/723718?url=https://devblogs.microsoft.com/dotnet/simpler-xaml-in-dotnet-maui-10/))
 - Simpler XAML in .NET MAUI 10 ([1 hours ago](https://devblogs.microsoft.com/dotnet/simpler-xaml-in-dotnet-maui-10/))
-- Rider 2025.2 EAP 7: Low-Level Exception Suppression and Other Updates for Debugging Games ([10 hours ago](https://blog.jetbrains.com/dotnet/2025/06/26/rider-2025-2-eap-7-low-level-exception-suppression/))
+- Rider 2025.2 EAP 7: Low-Level Exception Suppression and Other Updates for Debugging Games ([11 hours ago](https://blog.jetbrains.com/dotnet/2025/06/26/rider-2025-2-eap-7-low-level-exception-suppression/))
 - Securing Terraform State In Azure Blob Storage Using Best Practices  -  Build5Nines ([22 hours ago](https://dotnetkicks.com/r/723657?url=https://build5nines.com/securing-terraform-state-in-azure-blob-storage-using-best-practices/))
 - UX Chronicles: Why Developers Should Care About User Experience (Yes, You!) ([1 days ago](https://dotnettips.wordpress.com/2025/06/25/ux-chronicles-why-developers-should-care-about-user-experience-yes-you/))
 - Legacy Code Survival Guide: Visual Basic and .NET in 2025 ([2 days ago](https://dotnetkicks.com/r/723418?url=https://www.mobilize.net/blog/legacy-code-survival-guide-visual-basic-and-.net-in-2025?utm_source=DNK-723418&utm_medium=DNK-723418&utm_content=DNK-723418&utm_campaign=DNK-723418))
@@ -20,7 +20,7 @@ description: DotNet Updates
 - Inside Access: Join Us at VS Live! Redmond for a Week of Deep Developer Learning - Visual Studio Blog ([3 days ago](https://dotnetkicks.com/r/723397?url=https://devblogs.microsoft.com/visualstudio/inside-access-join-us-at-vs-live-redmond-for-a-week-of-deep-developer-learning/))
 - OSS Project Lessons Learned with David Giard ([3 days ago](https://dotnetkicks.com/r/723377?url=https://jeremydmiller.com/2025/06/23/oss-project-lessons-learned-with-david-giard/))
 - Wire Up XUnit Logging for Crazy Integration Testing ([3 days ago](https://dotnetkicks.com/r/723366?url=https://jeremydmiller.com/2025/06/22/wire-up-xunit-logging-for-crazy-integration-testing/))
-- F# Weekly #25, 2025 - 7 Reasons F# Sucks ([3 days ago](https://dotnetkicks.com/r/723332?url=https://sergeytihon.com/2025/06/22/f-weekly-25-2025-7-reasons-f-sucks/))
+- F# Weekly #25, 2025 - 7 Reasons F# Sucks ([4 days ago](https://dotnetkicks.com/r/723332?url=https://sergeytihon.com/2025/06/22/f-weekly-25-2025-7-reasons-f-sucks/))
 - Boost Your .NET Projects: Exception Handling Superpowers with Spargine ([4 days ago](https://dotnettips.wordpress.com/2025/06/22/boost-your-net-projects-exception-handling-superpowers-with-spargine/))
 - Model Context Protocol, Without the Hype ([5 days ago](https://dotnetkicks.com/r/723300?url=https://petabridge.com/blog/mcp-without-the-hype/))
 - 5 Mistakes That Make Your Code Unmaintainable ([7 days ago](https://dotnetkicks.com/r/723269?url=https://codeopinion.com/5-mistakes-that-make-your-code-unmaintainable/))
