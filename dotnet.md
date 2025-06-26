@@ -8,7 +8,7 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Securing Terraform State In Azure Blob Storage Using Best Practices  -  Build5Nines ([6 hours ago](https://dotnetkicks.com/r/723657?url=https://build5nines.com/securing-terraform-state-in-azure-blob-storage-using-best-practices/))
+- Securing Terraform State In Azure Blob Storage Using Best Practices  -  Build5Nines ([7 hours ago](https://dotnetkicks.com/r/723657?url=https://build5nines.com/securing-terraform-state-in-azure-blob-storage-using-best-practices/))
 - UX Chronicles: Why Developers Should Care About User Experience (Yes, You!) ([23 hours ago](https://dotnettips.wordpress.com/2025/06/25/ux-chronicles-why-developers-should-care-about-user-experience-yes-you/))
 - Legacy Code Survival Guide: Visual Basic and .NET in 2025 ([1 days ago](https://dotnetkicks.com/r/723418?url=https://www.mobilize.net/blog/legacy-code-survival-guide-visual-basic-and-.net-in-2025?utm_source=DNK-723418&utm_medium=DNK-723418&utm_content=DNK-723418&utm_campaign=DNK-723418))
 - Working with stacked branches in git (Part 2) ([1 days ago](https://dotnetkicks.com/r/723493?url=https://andrewlock.net/working-with-stacked-branches-in-git-part-2/))
