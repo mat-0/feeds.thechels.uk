@@ -9,10 +9,10 @@ description: DotNet Updates
 
 <!-- news_marker starts -->
 - From Extension Methods to Extension Members: Unlocking New Possibilities in .NET 10 ([14 hours ago](https://dotnettips.wordpress.com/2025/06/27/from-extension-methods-to-extension-members-unlocking-new-possibilities-in-net-10/))
-- .NET Channels as a In-Memory Message Bus - Beware! ([22 hours ago](https://dotnetkicks.com/r/723776?url=https://codeopinion.com/net-channels-as-a-in-memory-message-bus-beware/))
-- Enhancing reporting and analytics with SQL Server 2025 tools and services - Microsoft SQL Server Blog ([22 hours ago](https://dotnetkicks.com/r/723775?url=https://www.microsoft.com/en-us/sql-server/blog/2025/06/19/enhancing-reporting-and-analytics-with-sql-server-2025-tools-and-services/))
-- Enhancing reporting and analytics with SQL Server 2025 tools and services - Microsoft SQL Server Blog ([22 hours ago](https://dotnetkicks.com/r/723764?url=https://www.microsoft.com/en-us/sql-server/blog/2025/06/19/enhancing-reporting-and-analytics-with-sql-server-2025-tools-and-services/))
-- It's Still About The Data: Practical Approach To Building With Agentic AI, LLMs And Generative AI  -  Build5Nines ([22 hours ago](https://dotnetkicks.com/r/723757?url=https://build5nines.com/its-still-about-the-data-practical-approach-to-building-with-agentic-ai-llms-and-generative-ai/))
+- .NET Channels as a In-Memory Message Bus - Beware! ([23 hours ago](https://dotnetkicks.com/r/723776?url=https://codeopinion.com/net-channels-as-a-in-memory-message-bus-beware/))
+- Enhancing reporting and analytics with SQL Server 2025 tools and services - Microsoft SQL Server Blog ([23 hours ago](https://dotnetkicks.com/r/723775?url=https://www.microsoft.com/en-us/sql-server/blog/2025/06/19/enhancing-reporting-and-analytics-with-sql-server-2025-tools-and-services/))
+- Enhancing reporting and analytics with SQL Server 2025 tools and services - Microsoft SQL Server Blog ([23 hours ago](https://dotnetkicks.com/r/723764?url=https://www.microsoft.com/en-us/sql-server/blog/2025/06/19/enhancing-reporting-and-analytics-with-sql-server-2025-tools-and-services/))
+- It's Still About The Data: Practical Approach To Building With Agentic AI, LLMs And Generative AI  -  Build5Nines ([23 hours ago](https://dotnetkicks.com/r/723757?url=https://build5nines.com/its-still-about-the-data-practical-approach-to-building-with-agentic-ai-llms-and-generative-ai/))
 - Simpler XAML in .NET MAUI 10 - .NET Blog ([1 days ago](https://dotnetkicks.com/r/723718?url=https://devblogs.microsoft.com/dotnet/simpler-xaml-in-dotnet-maui-10/))
 - Simpler XAML in .NET MAUI 10 ([1 days ago](https://devblogs.microsoft.com/dotnet/simpler-xaml-in-dotnet-maui-10/))
 - Rider 2025.2 EAP 7: Low-Level Exception Suppression and Other Updates for Debugging Games ([1 days ago](https://blog.jetbrains.com/dotnet/2025/06/26/rider-2025-2-eap-7-low-level-exception-suppression/))
@@ -48,7 +48,7 @@ description: DotNet Updates
 - Improve Your Productivity with New GitHub Copilot Features for .NET! ([15 days ago](https://devblogs.microsoft.com/dotnet/improve-productivity-with-github-copilot-dotnet/))
 - ReSharper and Rider 2025.1.3: Important Updates Released ([15 days ago](https://blog.jetbrains.com/dotnet/2025/06/12/resharper-and-rider-2025-1-3-important-updates-released/))
 - Multimodal Voice Intelligence with .NET MAUI ([16 days ago](https://devblogs.microsoft.com/dotnet/multimodal-voice-intelligence-with-dotnet-maui/))
-- .NET and .NET Framework June 2025 servicing releases updates ([16 days ago](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-june-2025-servicing-updates/))
+- .NET and .NET Framework June 2025 servicing releases updates ([17 days ago](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-june-2025-servicing-updates/))
 - .NET 10 Preview 5 is now available! ([17 days ago](https://devblogs.microsoft.com/dotnet/dotnet-10-preview-5/))
 - Converting a Microsoft XNA 3.1 game to MonoGame ([17 days ago](https://andrewlock.net/converting-an-xna-game-to-monogame/))
 - SQL and NoSQL Query langauge support come to ReSharper! ([17 days ago](https://blog.jetbrains.com/dotnet/2025/06/10/sql-and-nosql-query-langauge-support-come-to-resharper/))
