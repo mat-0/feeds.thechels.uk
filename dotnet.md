@@ -9,12 +9,12 @@ description: DotNet Updates
 
 <!-- news_marker starts -->
 - From Extension Methods to Extension Members: Unlocking New Possibilities in .NET 10 ([6 hours ago](https://dotnettips.wordpress.com/2025/06/27/from-extension-methods-to-extension-members-unlocking-new-possibilities-in-net-10/))
-- .NET Channels as a In-Memory Message Bus - Beware! ([14 hours ago](https://dotnetkicks.com/r/723776?url=https://codeopinion.com/net-channels-as-a-in-memory-message-bus-beware/))
-- Enhancing reporting and analytics with SQL Server 2025 tools and services - Microsoft SQL Server Blog ([14 hours ago](https://dotnetkicks.com/r/723775?url=https://www.microsoft.com/en-us/sql-server/blog/2025/06/19/enhancing-reporting-and-analytics-with-sql-server-2025-tools-and-services/))
-- Enhancing reporting and analytics with SQL Server 2025 tools and services - Microsoft SQL Server Blog ([14 hours ago](https://dotnetkicks.com/r/723764?url=https://www.microsoft.com/en-us/sql-server/blog/2025/06/19/enhancing-reporting-and-analytics-with-sql-server-2025-tools-and-services/))
-- It's Still About The Data: Practical Approach To Building With Agentic AI, LLMs And Generative AI  -  Build5Nines ([14 hours ago](https://dotnetkicks.com/r/723757?url=https://build5nines.com/its-still-about-the-data-practical-approach-to-building-with-agentic-ai-llms-and-generative-ai/))
-- Simpler XAML in .NET MAUI 10 - .NET Blog ([16 hours ago](https://dotnetkicks.com/r/723718?url=https://devblogs.microsoft.com/dotnet/simpler-xaml-in-dotnet-maui-10/))
-- Simpler XAML in .NET MAUI 10 ([16 hours ago](https://devblogs.microsoft.com/dotnet/simpler-xaml-in-dotnet-maui-10/))
+- .NET Channels as a In-Memory Message Bus - Beware! ([15 hours ago](https://dotnetkicks.com/r/723776?url=https://codeopinion.com/net-channels-as-a-in-memory-message-bus-beware/))
+- Enhancing reporting and analytics with SQL Server 2025 tools and services - Microsoft SQL Server Blog ([15 hours ago](https://dotnetkicks.com/r/723775?url=https://www.microsoft.com/en-us/sql-server/blog/2025/06/19/enhancing-reporting-and-analytics-with-sql-server-2025-tools-and-services/))
+- Enhancing reporting and analytics with SQL Server 2025 tools and services - Microsoft SQL Server Blog ([15 hours ago](https://dotnetkicks.com/r/723764?url=https://www.microsoft.com/en-us/sql-server/blog/2025/06/19/enhancing-reporting-and-analytics-with-sql-server-2025-tools-and-services/))
+- It's Still About The Data: Practical Approach To Building With Agentic AI, LLMs And Generative AI  -  Build5Nines ([15 hours ago](https://dotnetkicks.com/r/723757?url=https://build5nines.com/its-still-about-the-data-practical-approach-to-building-with-agentic-ai-llms-and-generative-ai/))
+- Simpler XAML in .NET MAUI 10 - .NET Blog ([17 hours ago](https://dotnetkicks.com/r/723718?url=https://devblogs.microsoft.com/dotnet/simpler-xaml-in-dotnet-maui-10/))
+- Simpler XAML in .NET MAUI 10 ([17 hours ago](https://devblogs.microsoft.com/dotnet/simpler-xaml-in-dotnet-maui-10/))
 - Rider 2025.2 EAP 7: Low-Level Exception Suppression and Other Updates for Debugging Games ([1 days ago](https://blog.jetbrains.com/dotnet/2025/06/26/rider-2025-2-eap-7-low-level-exception-suppression/))
 - Securing Terraform State In Azure Blob Storage Using Best Practices  -  Build5Nines ([1 days ago](https://dotnetkicks.com/r/723657?url=https://build5nines.com/securing-terraform-state-in-azure-blob-storage-using-best-practices/))
 - UX Chronicles: Why Developers Should Care About User Experience (Yes, You!) ([2 days ago](https://dotnettips.wordpress.com/2025/06/25/ux-chronicles-why-developers-should-care-about-user-experience-yes-you/))
