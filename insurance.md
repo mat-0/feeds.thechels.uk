@@ -8,9 +8,9 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Cuvva Sees Record-Breaking Growth ([19 hours ago](https://insurance-edge.net/2025/06/27/cuvva-sees-record-breaking-growth/))
-- M&A insurance payouts hit record highs in 2024, driven by R&W claims: Aon ([23 hours ago](https://www.reinsurancene.ws/ma-insurance-payouts-hit-record-highs-in-2024-driven-by-rw-claims-aon/))
-- Michigan Paper Manufacturer Agrees to $300K Settlement Over PFAS Contamination ([23 hours ago](https://www.insurancejournal.com/news/midwest/2025/06/27/829444.htm))
+- Cuvva Sees Record-Breaking Growth ([20 hours ago](https://insurance-edge.net/2025/06/27/cuvva-sees-record-breaking-growth/))
+- M&A insurance payouts hit record highs in 2024, driven by R&W claims: Aon ([1 days ago](https://www.reinsurancene.ws/ma-insurance-payouts-hit-record-highs-in-2024-driven-by-rw-claims-aon/))
+- Michigan Paper Manufacturer Agrees to $300K Settlement Over PFAS Contamination ([1 days ago](https://www.insurancejournal.com/news/midwest/2025/06/27/829444.htm))
 - Search Ends for 1950 Lake Michigan Plane Crash That Killed 58 People ([1 days ago](https://www.insurancejournal.com/news/midwest/2025/06/27/829439.htm))
 - LexisNexis Risk Solutions introduces new commercial property risk assessment tool ([1 days ago](https://www.reinsurancene.ws/lexisnexis-risk-solutions-introduces-new-commercial-property-risk-assessment-tool/))
 - Triple-I Says Payments on Lightning Claims Dropped 16.5% in 2024 ([1 days ago](https://www.insurancejournal.com/news/national/2025/06/27/829432.htm))
