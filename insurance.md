@@ -71,7 +71,7 @@ description: Insurance Updates
 - Former Lawmaker Lindsay Launches New York Insurance Agency ([1 days ago](https://www.insurancejournal.com/news/east/2025/06/27/829277.htm))
 - Penny Black’s Social Diary: Crawford’s video; Biba’s curry ([1 days ago](https://www.postonline.co.uk/people/7957820/penny-black%E2%80%99s-social-diary-crawford%E2%80%99s-video-biba%E2%80%99s-curry))
 - Rebranding LV and RSA in a fragmented media world ([1 days ago](https://www.postonline.co.uk/personal/7957983/rebranding-lv-and-rsa-in-a-fragmented-media-world))
-- Hurricane Katrina would cost $100 billion in 2024, Swiss Re ([1 days ago](https://www.dig-in.com/news/hurricane-katrina-would-cost-100-billion-in-2024-swiss-re))
+- Hurricane Katrina would cost $100 billion in 2024, Swiss Re ([2 days ago](https://www.dig-in.com/news/hurricane-katrina-would-cost-100-billion-in-2024-swiss-re))
 - How IoT is reshaping insurance ([2 days ago](https://www.dig-in.com/opinion/how-internet-of-things-is-reshaping-insurance))
 - California regulator will broaden insurance of last resort ([2 days ago](https://www.dig-in.com/news/california-regulator-will-broaden-insurance-of-last-resort))
 - Toxic smoke damage in LA homes deepens insurance nightmare ([2 days ago](https://www.dig-in.com/articles/toxic-smoke-damage-in-la-homes-deepens-insurance-nightmare))
