@@ -8,7 +8,7 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Pi-hole DNS on UGOS PRO 1.6.0.2917 ([1 minutes ago](https://dotnetkicks.com/r/723852?url=https://sergeytihon.com/2025/06/28/pi-hole-dns-on-ugos-pro-1-6-0-2917/))
+- Pi-hole DNS on UGOS PRO 1.6.0.2917 ([31 minutes ago](https://dotnetkicks.com/r/723852?url=https://sergeytihon.com/2025/06/28/pi-hole-dns-on-ugos-pro-1-6-0-2917/))
 - From Extension Methods to Extension Members: Unlocking New Possibilities in .NET 10 ([1 days ago](https://dotnettips.wordpress.com/2025/06/27/from-extension-methods-to-extension-members-unlocking-new-possibilities-in-net-10/))
 - .NET Channels as a In-Memory Message Bus - Beware! ([1 days ago](https://dotnetkicks.com/r/723776?url=https://codeopinion.com/net-channels-as-a-in-memory-message-bus-beware/))
 - Enhancing reporting and analytics with SQL Server 2025 tools and services - Microsoft SQL Server Blog ([1 days ago](https://dotnetkicks.com/r/723775?url=https://www.microsoft.com/en-us/sql-server/blog/2025/06/19/enhancing-reporting-and-analytics-with-sql-server-2025-tools-and-services/))
@@ -26,7 +26,7 @@ description: DotNet Updates
 - Inside Access: Join Us at VS Live! Redmond for a Week of Deep Developer Learning - Visual Studio Blog ([5 days ago](https://dotnetkicks.com/r/723397?url=https://devblogs.microsoft.com/visualstudio/inside-access-join-us-at-vs-live-redmond-for-a-week-of-deep-developer-learning/))
 - OSS Project Lessons Learned with David Giard ([5 days ago](https://dotnetkicks.com/r/723377?url=https://jeremydmiller.com/2025/06/23/oss-project-lessons-learned-with-david-giard/))
 - Wire Up XUnit Logging for Crazy Integration Testing ([5 days ago](https://dotnetkicks.com/r/723366?url=https://jeremydmiller.com/2025/06/22/wire-up-xunit-logging-for-crazy-integration-testing/))
-- F# Weekly #25, 2025 - 7 Reasons F# Sucks ([5 days ago](https://dotnetkicks.com/r/723332?url=https://sergeytihon.com/2025/06/22/f-weekly-25-2025-7-reasons-f-sucks/))
+- F# Weekly #25, 2025 - 7 Reasons F# Sucks ([6 days ago](https://dotnetkicks.com/r/723332?url=https://sergeytihon.com/2025/06/22/f-weekly-25-2025-7-reasons-f-sucks/))
 - Boost Your .NET Projects: Exception Handling Superpowers with Spargine ([6 days ago](https://dotnettips.wordpress.com/2025/06/22/boost-your-net-projects-exception-handling-superpowers-with-spargine/))
 - Model Context Protocol, Without the Hype ([7 days ago](https://dotnetkicks.com/r/723300?url=https://petabridge.com/blog/mcp-without-the-hype/))
 - 5 Mistakes That Make Your Code Unmaintainable ([9 days ago](https://dotnetkicks.com/r/723269?url=https://codeopinion.com/5-mistakes-that-make-your-code-unmaintainable/))
