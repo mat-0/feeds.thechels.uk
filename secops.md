@@ -10,7 +10,7 @@ description: SecOps News
 <!-- news_marker starts -->
 - Bluetooth flaws could let hackers spy through your microphone ([5 hours ago](https://www.bleepingcomputer.com/news/security/bluetooth-flaws-could-let-hackers-spy-through-your-microphone/))
 - Cloudflare open-sources Orange Meets with End-to-End encryption ([7 hours ago](https://www.bleepingcomputer.com/news/security/cloudflare-open-sources-orange-meets-with-end-to-end-encryption/))
-- AI agents get office tasks wrong around 70% of the time, and a lot of them aren't AI at all ([9 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/06/29/ai_agents_fail_a_lot/))
+- AI agents get office tasks wrong around 70% of the time, and a lot of them aren't AI at all ([10 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/06/29/ai_agents_fail_a_lot/))
 - Let’s Encrypt ends certificate expiry emails to cut costs, boost privacy ([1 days ago](https://www.bleepingcomputer.com/news/security/lets-encrypt-ends-certificate-expiry-emails-to-cut-costs-boost-privacy/))
 - Ex-NATO hacker: 'In the cyber world, there's no such thing as a ceasefire' ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2025/06/28/exnato_hacker_ceasefire_iran/))
 - Texas Centers for Infectious Disease Associates Notifies Individuals of Data Breach in 2024 ([1 days ago](https://databreaches.net/2025/06/28/texas-centers-for-infectious-disease-associates-notifies-individuals-of-data-breach-in-2024/))
