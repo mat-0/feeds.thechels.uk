@@ -9,7 +9,7 @@ description: DotNet Updates
 
 <!-- news_marker starts -->
 - Boost Your .NET Projects: Mastering Method Returns with Spargine’s SimpleResult Type ([7 hours ago](https://dotnettips.wordpress.com/2025/06/29/boost-your-net-projects-mastering-method-returns-with-spargines-simpleresult-type/))
-- Pi-hole DNS on UGOS PRO 1.6.0.2917 ([16 hours ago](https://dotnetkicks.com/r/723852?url=https://sergeytihon.com/2025/06/28/pi-hole-dns-on-ugos-pro-1-6-0-2917/))
+- Pi-hole DNS on UGOS PRO 1.6.0.2917 ([17 hours ago](https://dotnetkicks.com/r/723852?url=https://sergeytihon.com/2025/06/28/pi-hole-dns-on-ugos-pro-1-6-0-2917/))
 - From Extension Methods to Extension Members: Unlocking New Possibilities in .NET 10 ([2 days ago](https://dotnettips.wordpress.com/2025/06/27/from-extension-methods-to-extension-members-unlocking-new-possibilities-in-net-10/))
 - .NET Channels as a In-Memory Message Bus - Beware! ([2 days ago](https://dotnetkicks.com/r/723776?url=https://codeopinion.com/net-channels-as-a-in-memory-message-bus-beware/))
 - Enhancing reporting and analytics with SQL Server 2025 tools and services - Microsoft SQL Server Blog ([2 days ago](https://dotnetkicks.com/r/723775?url=https://www.microsoft.com/en-us/sql-server/blog/2025/06/19/enhancing-reporting-and-analytics-with-sql-server-2025-tools-and-services/))
@@ -61,7 +61,7 @@ description: DotNet Updates
 - Catch Up on Microsoft Build 2025: Essential Sessions for .NET Developers ([24 days ago](https://devblogs.microsoft.com/dotnet/catching-up-on-microsoft-build-2025-essential-sessions-for-dotnet-developers/))
 - Boost Your .NET Projects: Mastering Unit Testing with Spargine’s UnitTester Class ([25 days ago](https://dotnettips.wordpress.com/2025/06/04/boost-your-net-projects-mastering-unit-testing-with-spargines-unittester-class/))
 - Using AI Foundry with .NET MAUI ([25 days ago](https://devblogs.microsoft.com/dotnet/using-ai-foundry-with-dotnet-maui/))
-- dotInsights  -  June 2025 ([25 days ago](https://blog.jetbrains.com/dotnet/2025/06/03/dotinsights-june-2025/))
+- dotInsights  -  June 2025 ([26 days ago](https://blog.jetbrains.com/dotnet/2025/06/03/dotinsights-june-2025/))
 - Creating your first sample game with MonoGame ([26 days ago](https://andrewlock.net/creating-your-first-sample-game-with-monogame/))
 
 <!-- news_marker ends -->
