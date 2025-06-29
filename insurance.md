@@ -18,7 +18,7 @@ description: Insurance Updates
 - Prestige Underwriting Celebrates 10 Years of OLM Motor ([1 days ago](https://insurance-edge.net/2025/06/27/prestige-underwriting-celebrates-10-years-of-olm-motor/))
 - Eight men convicted in ICO’s biggest ever nuisance call ring ([1 days ago](https://insurance-edge.net/2025/06/27/eight-men-convicted-in-icos-biggest-ever-nuisance-call-ring/))
 - People Moves: MS Amlin Taps Nilsson From Talbot as Political Violence Underwriter; Allianz Commercial Promotes Simons as Global Head of MidCorp Underwriting ([1 days ago](https://www.insurancejournal.com/news/international/2025/06/27/829424.htm))
-- Siddharth Deosthalee appointed CFO of Howden India ([1 days ago](https://www.reinsurancene.ws/siddharth-deosthalee-appointed-cfo-of-howden-india/))
+- Siddharth Deosthalee appointed CFO of Howden India ([2 days ago](https://www.reinsurancene.ws/siddharth-deosthalee-appointed-cfo-of-howden-india/))
 - Reputation Risk Can Overshadow Ransom in Cyberattacks, Aon Says ([2 days ago](https://www.insurancejournal.com/news/national/2025/06/27/829422.htm))
 - Oregon Legislature Repeals Contested Wildfire Hazard Map ([2 days ago](https://www.insurancejournal.com/news/west/2025/06/27/829417.htm))
 - Personal auto drives major recovery in US P&C underwriting for 2024: AM Best ([2 days ago](https://www.reinsurancene.ws/personal-auto-drives-major-recovery-in-us-pc-underwriting-for-2024-am-best/))
