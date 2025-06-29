@@ -10,7 +10,7 @@ description: SecOps News
 <!-- news_marker starts -->
 - Bluetooth flaws could let hackers spy through your microphone ([7 hours ago](https://www.bleepingcomputer.com/news/security/bluetooth-flaws-could-let-hackers-spy-through-your-microphone/))
 - Cloudflare open-sources Orange Meets with End-to-End encryption ([9 hours ago](https://www.bleepingcomputer.com/news/security/cloudflare-open-sources-orange-meets-with-end-to-end-encryption/))
-- AI agents get office tasks wrong around 70% of the time, and a lot of them aren't AI at all ([11 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/06/29/ai_agents_fail_a_lot/))
+- AI agents get office tasks wrong around 70% of the time, and a lot of them aren't AI at all ([12 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/06/29/ai_agents_fail_a_lot/))
 - Let’s Encrypt ends certificate expiry emails to cut costs, boost privacy ([1 days ago](https://www.bleepingcomputer.com/news/security/lets-encrypt-ends-certificate-expiry-emails-to-cut-costs-boost-privacy/))
 - Ex-NATO hacker: 'In the cyber world, there's no such thing as a ceasefire' ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2025/06/28/exnato_hacker_ceasefire_iran/))
 - Texas Centers for Infectious Disease Associates Notifies Individuals of Data Breach in 2024 ([1 days ago](https://databreaches.net/2025/06/28/texas-centers-for-infectious-disease-associates-notifies-individuals-of-data-breach-in-2024/))
@@ -58,7 +58,7 @@ description: SecOps News
 - Whole Foods supplier UNFI restores core systems after cyberattack ([2 days ago](https://www.bleepingcomputer.com/news/security/whole-foods-supplier-unfi-restores-core-systems-after-cyberattack/))
 - Hawaiian Airlines discloses cyberattack, flights not affected ([2 days ago](https://www.bleepingcomputer.com/news/security/hawaiian-airlines-discloses-cyberattack-flights-not-affected/))
 - More trouble for authors as Meta wins Llama drama AI scraping case ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2025/06/27/meta_llama_author_lawsuit/))
-- Disruption with some GitHub services ([2 days ago](https://www.githubstatus.com/incidents/3l5g70d16ldz))
+- Disruption with some GitHub services ([3 days ago](https://www.githubstatus.com/incidents/3l5g70d16ldz))
 - FTC approves $126 million in Fortnite refunds over ‘dark patterns’ ([3 days ago](https://www.bleepingcomputer.com/news/legal/ftc-approves-126-million-in-fortnite-refunds-over-dark-patterns/))
 - Back in black: Microsoft Blue Screen of Death is going dark ([3 days ago](https://go.theregister.com/feed/www.theregister.com/2025/06/26/microsoft_bsod_goes_black/))
 - FBI used bitcoin wallet records to peg notorious IntelBroker as UK national ([3 days ago](https://go.theregister.com/feed/www.theregister.com/2025/06/26/fbi_used_bitcoin_wallet_id_intelbroker/))

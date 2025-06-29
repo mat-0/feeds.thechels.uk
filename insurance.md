@@ -8,7 +8,8 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- State regulators should better define third-party data for AI, insurtech group says ([3 hours ago](https://www.dig-in.com/news/naic-should-better-define-third-party-ai-data-aitc-says))
+- Erie Insurance Restores Online Access for Customers; Still Working on Other Systems ([13 minutes ago](https://www.insurancejournal.com/news/east/2025/06/29/829484.htm))
+- State regulators should better define third-party data for AI, insurtech group says ([4 hours ago](https://www.dig-in.com/news/naic-should-better-define-third-party-ai-data-aitc-says))
 - Aon launches broker copilot; Munich Re partners on AI: Insurance news ([4 hours ago](https://www.dig-in.com/news/aon-launches-copilot-munich-re-partners-ai-insurance-news))
 - Cuvva Sees Record-Breaking Growth ([2 days ago](https://insurance-edge.net/2025/06/27/cuvva-sees-record-breaking-growth/))
 - M&A insurance payouts hit record highs in 2024, driven by R&W claims: Aon ([2 days ago](https://www.reinsurancene.ws/ma-insurance-payouts-hit-record-highs-in-2024-driven-by-rw-claims-aon/))
@@ -70,7 +71,6 @@ description: Insurance Updates
 - People Moves: Liberty Company Adds Producer in Jacksonville Area ([2 days ago](https://www.insurancejournal.com/news/southeast/2025/06/27/829371.htm))
 - World Insurance Acquires Maine’s Healey Associates ([2 days ago](https://www.insurancejournal.com/news/east/2025/06/27/829128.htm))
 - California Workers’ Comp Independent Medical Reviews Trending up, Report Shows ([2 days ago](https://www.insurancejournal.com/news/west/2025/06/27/829352.htm))
-- Former Lawmaker Lindsay Launches New York Insurance Agency ([2 days ago](https://www.insurancejournal.com/news/east/2025/06/27/829277.htm))
 - Penny Black’s Social Diary: Crawford’s video; Biba’s curry ([2 days ago](https://www.postonline.co.uk/people/7957820/penny-black%E2%80%99s-social-diary-crawford%E2%80%99s-video-biba%E2%80%99s-curry))
 - Rebranding LV and RSA in a fragmented media world ([2 days ago](https://www.postonline.co.uk/personal/7957983/rebranding-lv-and-rsa-in-a-fragmented-media-world))
 - Hurricane Katrina would cost $100 billion in 2024, Swiss Re ([3 days ago](https://www.dig-in.com/news/hurricane-katrina-would-cost-100-billion-in-2024-swiss-re))
