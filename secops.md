@@ -8,8 +8,8 @@ description: SecOps News
 [Get this as an RSS feed](/secops.rss)
 
 <!-- news_marker starts -->
-- Bluetooth flaws could let hackers spy through your microphone ([5 hours ago](https://www.bleepingcomputer.com/news/security/bluetooth-flaws-could-let-hackers-spy-through-your-microphone/))
-- Cloudflare open-sources Orange Meets with End-to-End encryption ([7 hours ago](https://www.bleepingcomputer.com/news/security/cloudflare-open-sources-orange-meets-with-end-to-end-encryption/))
+- Bluetooth flaws could let hackers spy through your microphone ([6 hours ago](https://www.bleepingcomputer.com/news/security/bluetooth-flaws-could-let-hackers-spy-through-your-microphone/))
+- Cloudflare open-sources Orange Meets with End-to-End encryption ([8 hours ago](https://www.bleepingcomputer.com/news/security/cloudflare-open-sources-orange-meets-with-end-to-end-encryption/))
 - AI agents get office tasks wrong around 70% of the time, and a lot of them aren't AI at all ([10 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/06/29/ai_agents_fail_a_lot/))
 - Let’s Encrypt ends certificate expiry emails to cut costs, boost privacy ([1 days ago](https://www.bleepingcomputer.com/news/security/lets-encrypt-ends-certificate-expiry-emails-to-cut-costs-boost-privacy/))
 - Ex-NATO hacker: 'In the cyber world, there's no such thing as a ceasefire' ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2025/06/28/exnato_hacker_ceasefire_iran/))
