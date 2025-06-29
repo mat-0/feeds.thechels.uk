@@ -8,7 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- State regulators should better define third-party data for AI, insurtech group says ([38 minutes ago](https://www.dig-in.com/news/naic-should-better-define-third-party-ai-data-aitc-says))
+- State regulators should better define third-party data for AI, insurtech group says ([1 hours ago](https://www.dig-in.com/news/naic-should-better-define-third-party-ai-data-aitc-says))
 - Aon launches broker copilot; Munich Re partners on AI: Insurance news ([1 hours ago](https://www.dig-in.com/news/aon-launches-copilot-munich-re-partners-ai-insurance-news))
 - Cuvva Sees Record-Breaking Growth ([2 days ago](https://insurance-edge.net/2025/06/27/cuvva-sees-record-breaking-growth/))
 - M&A insurance payouts hit record highs in 2024, driven by R&W claims: Aon ([2 days ago](https://www.reinsurancene.ws/ma-insurance-payouts-hit-record-highs-in-2024-driven-by-rw-claims-aon/))
@@ -73,7 +73,7 @@ description: Insurance Updates
 - Former Lawmaker Lindsay Launches New York Insurance Agency ([2 days ago](https://www.insurancejournal.com/news/east/2025/06/27/829277.htm))
 - Penny Black’s Social Diary: Crawford’s video; Biba’s curry ([2 days ago](https://www.postonline.co.uk/people/7957820/penny-black%E2%80%99s-social-diary-crawford%E2%80%99s-video-biba%E2%80%99s-curry))
 - Rebranding LV and RSA in a fragmented media world ([2 days ago](https://www.postonline.co.uk/personal/7957983/rebranding-lv-and-rsa-in-a-fragmented-media-world))
-- Hurricane Katrina would cost $100 billion in 2024, Swiss Re ([2 days ago](https://www.dig-in.com/news/hurricane-katrina-would-cost-100-billion-in-2024-swiss-re))
+- Hurricane Katrina would cost $100 billion in 2024, Swiss Re ([3 days ago](https://www.dig-in.com/news/hurricane-katrina-would-cost-100-billion-in-2024-swiss-re))
 - How IoT is reshaping insurance ([3 days ago](https://www.dig-in.com/opinion/how-internet-of-things-is-reshaping-insurance))
 - California regulator will broaden insurance of last resort ([3 days ago](https://www.dig-in.com/news/california-regulator-will-broaden-insurance-of-last-resort))
 - Toxic smoke damage in LA homes deepens insurance nightmare ([3 days ago](https://www.dig-in.com/articles/toxic-smoke-damage-in-la-homes-deepens-insurance-nightmare))
