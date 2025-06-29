@@ -14,8 +14,8 @@ description: Insurance Updates
 - Search Ends for 1950 Lake Michigan Plane Crash That Killed 58 People ([1 days ago](https://www.insurancejournal.com/news/midwest/2025/06/27/829439.htm))
 - LexisNexis Risk Solutions introduces new commercial property risk assessment tool ([1 days ago](https://www.reinsurancene.ws/lexisnexis-risk-solutions-introduces-new-commercial-property-risk-assessment-tool/))
 - Triple-I Says Payments on Lightning Claims Dropped 16.5% in 2024 ([1 days ago](https://www.insurancejournal.com/news/national/2025/06/27/829432.htm))
-- Hurricane Erick insured losses expected to be contained: AM Best ([1 days ago](https://www.reinsurancene.ws/hurricane-erick-insured-losses-expected-to-be-contained-am-best/))
-- Prestige Underwriting Celebrates 10 Years of OLM Motor ([1 days ago](https://insurance-edge.net/2025/06/27/prestige-underwriting-celebrates-10-years-of-olm-motor/))
+- Hurricane Erick insured losses expected to be contained: AM Best ([2 days ago](https://www.reinsurancene.ws/hurricane-erick-insured-losses-expected-to-be-contained-am-best/))
+- Prestige Underwriting Celebrates 10 Years of OLM Motor ([2 days ago](https://insurance-edge.net/2025/06/27/prestige-underwriting-celebrates-10-years-of-olm-motor/))
 - Eight men convicted in ICO’s biggest ever nuisance call ring ([2 days ago](https://insurance-edge.net/2025/06/27/eight-men-convicted-in-icos-biggest-ever-nuisance-call-ring/))
 - People Moves: MS Amlin Taps Nilsson From Talbot as Political Violence Underwriter; Allianz Commercial Promotes Simons as Global Head of MidCorp Underwriting ([2 days ago](https://www.insurancejournal.com/news/international/2025/06/27/829424.htm))
 - Siddharth Deosthalee appointed CFO of Howden India ([2 days ago](https://www.reinsurancene.ws/siddharth-deosthalee-appointed-cfo-of-howden-india/))
@@ -132,6 +132,6 @@ description: Insurance Updates
 - L&G announces 2024 Group Protection claims, prevention and rehabilitation outcomes ([10 days ago](https://ifamagazine.com/lg-announces-2024-group-protection-claims-prevention-and-rehabilitation-outcomes/))
 - Nick Adams, co-founder of adeus explains why it’s time for advisers to rethink legacy planning and wills in the digital age ([10 days ago](https://ifamagazine.com/nick-adams-co-founder-of-adeus-explains-why-its-time-for-advisers-to-rethink-legacy-planning-and-wills-in-the-digital-age/))
 - Arch Insurance Partners With Insurtech bolt to Expand Access to Multi-Trip Travel Insurance Plan ([14 days ago](https://thefintechtimes.com/arch-insurance-partners-with-insurtech-bolt-to-expand-access-to-multi-trip-travel-insurance-plan/))
-- June 2025 at The Fintech Times: Insurtech ([23 days ago](https://thefintechtimes.com/june-2025-at-the-fintech-times-insurtech/))
+- June 2025 at The Fintech Times: Insurtech ([24 days ago](https://thefintechtimes.com/june-2025-at-the-fintech-times-insurtech/))
 
 <!-- news_marker ends -->
