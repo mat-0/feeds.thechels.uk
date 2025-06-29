@@ -130,7 +130,7 @@ description: Insurance Updates
 - Royal London pays out over £751m in protection claims ([5 days ago](https://ifamagazine.com/royal-london-pays-out-over-751m-in-protection-claims/))
 - Insurtech’s Biggest Emerging Trends: AI, Cloud Architecture, CX and Modernisation ([9 days ago](https://thefintechtimes.com/insurtech-biggest-emerging-trends-ai-cloud-architecture-cx-and-data/))
 - L&G announces 2024 Group Protection claims, prevention and rehabilitation outcomes ([9 days ago](https://ifamagazine.com/lg-announces-2024-group-protection-claims-prevention-and-rehabilitation-outcomes/))
-- Nick Adams, co-founder of adeus explains why it’s time for advisers to rethink legacy planning and wills in the digital age ([9 days ago](https://ifamagazine.com/nick-adams-co-founder-of-adeus-explains-why-its-time-for-advisers-to-rethink-legacy-planning-and-wills-in-the-digital-age/))
+- Nick Adams, co-founder of adeus explains why it’s time for advisers to rethink legacy planning and wills in the digital age ([10 days ago](https://ifamagazine.com/nick-adams-co-founder-of-adeus-explains-why-its-time-for-advisers-to-rethink-legacy-planning-and-wills-in-the-digital-age/))
 - Arch Insurance Partners With Insurtech bolt to Expand Access to Multi-Trip Travel Insurance Plan ([13 days ago](https://thefintechtimes.com/arch-insurance-partners-with-insurtech-bolt-to-expand-access-to-multi-trip-travel-insurance-plan/))
 - June 2025 at The Fintech Times: Insurtech ([23 days ago](https://thefintechtimes.com/june-2025-at-the-fintech-times-insurtech/))
 
