@@ -8,6 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
+- Aon launches broker copilot; Munich Re partners on AI: Insurance news ([4 minutes ago](https://www.dig-in.com/news/aon-launches-copilot-munich-re-partners-ai-insurance-news))
 - Cuvva Sees Record-Breaking Growth ([1 days ago](https://insurance-edge.net/2025/06/27/cuvva-sees-record-breaking-growth/))
 - M&A insurance payouts hit record highs in 2024, driven by R&W claims: Aon ([2 days ago](https://www.reinsurancene.ws/ma-insurance-payouts-hit-record-highs-in-2024-driven-by-rw-claims-aon/))
 - Michigan Paper Manufacturer Agrees to $300K Settlement Over PFAS Contamination ([2 days ago](https://www.insurancejournal.com/news/midwest/2025/06/27/829444.htm))
@@ -118,7 +119,6 @@ description: Insurance Updates
 - Google is most used app while driving, Cambridge Mobile Telematics ([4 days ago](https://www.dig-in.com/news/google-most-used-while-driving-cambridge-mobile-telematics))
 - Insurer's pivot clears way for Ohio bank's expansion ([4 days ago](https://www.dig-in.com/news/insurers-pivot-clears-way-for-ohio-banks-expansion))
 - How AI is transforming property restoration—and why insurers should care ([4 days ago](https://www.dig-in.com/opinion/how-ai-is-transforming-property-restoration))
-- Women in Insurance Leadership program seeks nominations of outstanding leaders ([5 days ago](https://www.dig-in.com/news/2025-women-in-insurance-leadership-nominations-open))
 - Ferma elects Philippe Cotelle as president ([5 days ago](https://www.postonline.co.uk/risk-management/7957992/ferma-elects-philippe-cotelle-as-president))
 - Coalition Re Launches Helios Platform to Equip Cedants with Real-Time Cyber Risk Intelligence ([5 days ago](https://www.insurtechinsights.com/coalition-re-launches-helios-platform-to-equip-cedants-with-real-time-cyber-risk-intelligence/))
 - CII sets out vision for vulnerability data sharing ([5 days ago](https://ifamagazine.com/cii-sets-out-vision-for-vulnerability-data-sharing/))
