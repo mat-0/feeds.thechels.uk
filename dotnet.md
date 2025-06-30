@@ -8,7 +8,7 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- ReSharper and Rider 2025.1.4: Another Set of Bug-fixes Released ([2 hours ago](https://blog.jetbrains.com/dotnet/2025/06/30/resharper-and-rider-2025-1-4/))
+- ReSharper and Rider 2025.1.4: Another Set of Bug-fixes Released ([3 hours ago](https://blog.jetbrains.com/dotnet/2025/06/30/resharper-and-rider-2025-1-4/))
 - Boost Your .NET Projects: Mastering Method Returns with Spargine’s SimpleResult Type ([1 days ago](https://dotnettips.wordpress.com/2025/06/29/boost-your-net-projects-mastering-method-returns-with-spargines-simpleresult-type/))
 - Pi-hole DNS on UGOS PRO 1.6.0.2917 ([1 days ago](https://dotnetkicks.com/r/723852?url=https://sergeytihon.com/2025/06/28/pi-hole-dns-on-ugos-pro-1-6-0-2917/))
 - From Extension Methods to Extension Members: Unlocking New Possibilities in .NET 10 ([3 days ago](https://dotnettips.wordpress.com/2025/06/27/from-extension-methods-to-extension-members-unlocking-new-possibilities-in-net-10/))
@@ -44,7 +44,7 @@ description: DotNet Updates
 - OpenTelemetry Plugin for JetBrains Rider: Observability Inside Your IDE ([13 days ago](https://blog.jetbrains.com/dotnet/2025/06/16/opentelemetry-plugin-for-jetbrains-rider/))
 - F# Weekly #24, 2025 - Fidelity &amp; BAREWire ([14 days ago](https://dotnetkicks.com/r/722982?url=https://sergeytihon.com/2025/06/15/f-weekly-24-2025-fidelity-barewire/))
 - dotNetDave Says… Don’t Build Frankenstein’s Monster Applications! ([15 days ago](https://dotnettips.wordpress.com/2025/06/15/dotnetdave-says-dont-build-frankensteins-monster-applications/))
-- Family Safety Content Filtering ([16 days ago](https://dotnetkicks.com/r/722890?url=https://textslashplain.com/2025/06/12/family-safety-content-filtering/))
+- Family Safety Content Filtering ([17 days ago](https://dotnetkicks.com/r/722890?url=https://textslashplain.com/2025/06/12/family-safety-content-filtering/))
 - JetBrains GameDev Days 2025 – Call for Speakers ([17 days ago](https://blog.jetbrains.com/dotnet/2025/06/13/jetbrains-gamedev-days-2025-call-for-speakers/))
 - Improve Your Productivity with New GitHub Copilot Features for .NET! - .NET Blog ([17 days ago](https://dotnetkicks.com/r/722812?url=https://devblogs.microsoft.com/dotnet/improve-productivity-with-github-copilot-dotnet/))
 - Improve Your Productivity with New GitHub Copilot Features for .NET! ([17 days ago](https://devblogs.microsoft.com/dotnet/improve-productivity-with-github-copilot-dotnet/))
