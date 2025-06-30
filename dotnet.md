@@ -8,7 +8,7 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- ReSharper and Rider 2025.1.4: Another Set of Bug-fixes Released ([4 hours ago](https://blog.jetbrains.com/dotnet/2025/06/30/resharper-and-rider-2025-1-4/))
+- ReSharper and Rider 2025.1.4: Another Set of Bug-fixes Released ([5 hours ago](https://blog.jetbrains.com/dotnet/2025/06/30/resharper-and-rider-2025-1-4/))
 - Boost Your .NET Projects: Mastering Method Returns with Spargine’s SimpleResult Type ([1 days ago](https://dotnettips.wordpress.com/2025/06/29/boost-your-net-projects-mastering-method-returns-with-spargines-simpleresult-type/))
 - Pi-hole DNS on UGOS PRO 1.6.0.2917 ([1 days ago](https://dotnetkicks.com/r/723852?url=https://sergeytihon.com/2025/06/28/pi-hole-dns-on-ugos-pro-1-6-0-2917/))
 - From Extension Methods to Extension Members: Unlocking New Possibilities in .NET 10 ([3 days ago](https://dotnettips.wordpress.com/2025/06/27/from-extension-methods-to-extension-members-unlocking-new-possibilities-in-net-10/))
@@ -62,7 +62,7 @@ description: DotNet Updates
 - Catch Up on Microsoft Build 2025: Essential Sessions for .NET Developers ([25 days ago](https://devblogs.microsoft.com/dotnet/catching-up-on-microsoft-build-2025-essential-sessions-for-dotnet-developers/))
 - Boost Your .NET Projects: Mastering Unit Testing with Spargine’s UnitTester Class ([26 days ago](https://dotnettips.wordpress.com/2025/06/04/boost-your-net-projects-mastering-unit-testing-with-spargines-unittester-class/))
 - Using AI Foundry with .NET MAUI ([26 days ago](https://devblogs.microsoft.com/dotnet/using-ai-foundry-with-dotnet-maui/))
-- dotInsights  -  June 2025 ([26 days ago](https://blog.jetbrains.com/dotnet/2025/06/03/dotinsights-june-2025/))
+- dotInsights  -  June 2025 ([27 days ago](https://blog.jetbrains.com/dotnet/2025/06/03/dotinsights-june-2025/))
 - Creating your first sample game with MonoGame ([27 days ago](https://andrewlock.net/creating-your-first-sample-game-with-monogame/))
 
 <!-- news_marker ends -->
