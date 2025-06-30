@@ -8,9 +8,9 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Erie Insurance Restores Online Access for Customers; Still Working on Other Systems ([3 hours ago](https://www.insurancejournal.com/news/east/2025/06/29/829484.htm))
-- State regulators should better define third-party data for AI, insurtech group says ([7 hours ago](https://www.dig-in.com/news/naic-should-better-define-third-party-ai-data-aitc-says))
-- Aon launches broker copilot; Munich Re partners on AI: Insurance news ([7 hours ago](https://www.dig-in.com/news/aon-launches-copilot-munich-re-partners-ai-insurance-news))
+- Erie Insurance Restores Online Access for Customers; Still Working on Other Systems ([4 hours ago](https://www.insurancejournal.com/news/east/2025/06/29/829484.htm))
+- State regulators should better define third-party data for AI, insurtech group says ([8 hours ago](https://www.dig-in.com/news/naic-should-better-define-third-party-ai-data-aitc-says))
+- Aon launches broker copilot; Munich Re partners on AI: Insurance news ([8 hours ago](https://www.dig-in.com/news/aon-launches-copilot-munich-re-partners-ai-insurance-news))
 - Cuvva Sees Record-Breaking Growth ([2 days ago](https://insurance-edge.net/2025/06/27/cuvva-sees-record-breaking-growth/))
 - M&A insurance payouts hit record highs in 2024, driven by R&W claims: Aon ([2 days ago](https://www.reinsurancene.ws/ma-insurance-payouts-hit-record-highs-in-2024-driven-by-rw-claims-aon/))
 - Michigan Paper Manufacturer Agrees to $300K Settlement Over PFAS Contamination ([2 days ago](https://www.insurancejournal.com/news/midwest/2025/06/27/829444.htm))
