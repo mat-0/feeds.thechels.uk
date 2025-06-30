@@ -8,11 +8,11 @@ description: SecOps News
 [Get this as an RSS feed](/secops.rss)
 
 <!-- news_marker starts -->
-- Canada orders Chinese CCTV biz Hikvision to quit the country ASAP ([15 minutes ago](https://go.theregister.com/feed/www.theregister.com/2025/06/30/asia_tech_news_roundup/))
+- Canada orders Chinese CCTV biz Hikvision to quit the country ASAP ([57 minutes ago](https://go.theregister.com/feed/www.theregister.com/2025/06/30/asia_tech_news_roundup/))
 - It's 2025 and almost half of you are still paying ransomware operators ([3 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/06/30/information_security_in_brief/))
 - Google rolls out Veo 3 video generator, try it for free using credits ([4 hours ago](https://www.bleepingcomputer.com/news/artificial-intelligence/google-rolls-out-veo-3-video-generator-try-it-for-free-using-credits/))
-- Bluetooth flaws could let hackers spy through your microphone ([11 hours ago](https://www.bleepingcomputer.com/news/security/bluetooth-flaws-could-let-hackers-spy-through-your-microphone/))
-- Cloudflare open-sources Orange Meets with End-to-End encryption ([13 hours ago](https://www.bleepingcomputer.com/news/security/cloudflare-open-sources-orange-meets-with-end-to-end-encryption/))
+- Bluetooth flaws could let hackers spy through your microphone ([12 hours ago](https://www.bleepingcomputer.com/news/security/bluetooth-flaws-could-let-hackers-spy-through-your-microphone/))
+- Cloudflare open-sources Orange Meets with End-to-End encryption ([14 hours ago](https://www.bleepingcomputer.com/news/security/cloudflare-open-sources-orange-meets-with-end-to-end-encryption/))
 - AI agents get office tasks wrong around 70% of the time, and a lot of them aren't AI at all ([16 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/06/29/ai_agents_fail_a_lot/))
 - Let’s Encrypt ends certificate expiry emails to cut costs, boost privacy ([1 days ago](https://www.bleepingcomputer.com/news/security/lets-encrypt-ends-certificate-expiry-emails-to-cut-costs-boost-privacy/))
 - Ex-NATO hacker: 'In the cyber world, there's no such thing as a ceasefire' ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2025/06/28/exnato_hacker_ceasefire_iran/))
