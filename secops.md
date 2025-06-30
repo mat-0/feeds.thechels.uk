@@ -8,12 +8,12 @@ description: SecOps News
 [Get this as an RSS feed](/secops.rss)
 
 <!-- news_marker starts -->
-- Canada orders Chinese CCTV biz Hikvision to quit the country ASAP ([57 minutes ago](https://go.theregister.com/feed/www.theregister.com/2025/06/30/asia_tech_news_roundup/))
-- It's 2025 and almost half of you are still paying ransomware operators ([3 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/06/30/information_security_in_brief/))
-- Google rolls out Veo 3 video generator, try it for free using credits ([4 hours ago](https://www.bleepingcomputer.com/news/artificial-intelligence/google-rolls-out-veo-3-video-generator-try-it-for-free-using-credits/))
+- Canada orders Chinese CCTV biz Hikvision to quit the country ASAP ([1 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/06/30/asia_tech_news_roundup/))
+- It's 2025 and almost half of you are still paying ransomware operators ([4 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/06/30/information_security_in_brief/))
+- Google rolls out Veo 3 video generator, try it for free using credits ([5 hours ago](https://www.bleepingcomputer.com/news/artificial-intelligence/google-rolls-out-veo-3-video-generator-try-it-for-free-using-credits/))
 - Bluetooth flaws could let hackers spy through your microphone ([12 hours ago](https://www.bleepingcomputer.com/news/security/bluetooth-flaws-could-let-hackers-spy-through-your-microphone/))
 - Cloudflare open-sources Orange Meets with End-to-End encryption ([14 hours ago](https://www.bleepingcomputer.com/news/security/cloudflare-open-sources-orange-meets-with-end-to-end-encryption/))
-- AI agents get office tasks wrong around 70% of the time, and a lot of them aren't AI at all ([16 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/06/29/ai_agents_fail_a_lot/))
+- AI agents get office tasks wrong around 70% of the time, and a lot of them aren't AI at all ([17 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/06/29/ai_agents_fail_a_lot/))
 - Let’s Encrypt ends certificate expiry emails to cut costs, boost privacy ([1 days ago](https://www.bleepingcomputer.com/news/security/lets-encrypt-ends-certificate-expiry-emails-to-cut-costs-boost-privacy/))
 - Ex-NATO hacker: 'In the cyber world, there's no such thing as a ceasefire' ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2025/06/28/exnato_hacker_ceasefire_iran/))
 - Texas Centers for Infectious Disease Associates Notifies Individuals of Data Breach in 2024 ([1 days ago](https://databreaches.net/2025/06/28/texas-centers-for-infectious-disease-associates-notifies-individuals-of-data-breach-in-2024/))
@@ -94,8 +94,8 @@ description: SecOps News
 - Cyber Criminals Exploit Open-Source Tools to Compromise Financial Institutions Across Africa ([3 days ago](https://thehackernews.com/2025/06/cyber-criminals-exploit-open-source.html))
 - That WhatsApp from an Israeli infosec expert could be a Iranian phish ([3 days ago](https://go.theregister.com/feed/www.theregister.com/2025/06/26/that_whatsapp_from_an_israeli/))
 - CISA Adds 3 Flaws to KEV Catalog, Impacting AMI MegaRAC, D-Link, Fortinet ([3 days ago](https://thehackernews.com/2025/06/cisa-adds-3-flaws-to-kev-catalog.html))
-- Remote DoS in httpx 1.7.0 – Out-of-Bounds Read via Malformed <title -  Tag ([3 days ago](https://seclists.org/fulldisclosure/2025/Jun/26))
-- WhatsApp Adds AI-Powered Message Summaries for Faster Chat Previews ([3 days ago](https://thehackernews.com/2025/06/whatsapp-adds-ai-powered-message.html))
+- Remote DoS in httpx 1.7.0 – Out-of-Bounds Read via Malformed <title -  Tag ([4 days ago](https://seclists.org/fulldisclosure/2025/Jun/26))
+- WhatsApp Adds AI-Powered Message Summaries for Faster Chat Previews ([4 days ago](https://thehackernews.com/2025/06/whatsapp-adds-ai-powered-message.html))
 - Japanese company using mee-AI-ow to detect stressed cats ([4 days ago](https://go.theregister.com/feed/www.theregister.com/2025/06/26/rabo_catlog_ai_stress_detector/))
 - Smashing Security podcast #423: Operation Endgame, deepfakes, and dead slugs ([4 days ago](https://grahamcluley.com/smashing-security-podcast-423/))
 - Citrix bleeds again: This time a zero-day exploited - patch now ([4 days ago](https://go.theregister.com/feed/www.theregister.com/2025/06/25/citrix_netscaler_critical_bug_exploited/))
@@ -196,6 +196,5 @@ description: SecOps News
 - ColoCrossing - 7,183 breached accounts ([26 days ago](https://haveibeenpwned.com/Breach/ColoCrossing))
 - CapLoader 2.0 Released ([27 days ago](https://www.netresec.com/?page=Blog&month=2025-06&post=CapLoader-2-0-Released))
 - Weekly Update 454 ([27 days ago](https://www.troyhunt.com/weekly-update-454/))
-- Codespaces Scheduled Maintenance ([29 days ago](https://www.githubstatus.com/incidents/nwjwwhj118sf))
 
 <!-- news_marker ends -->
