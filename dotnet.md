@@ -8,7 +8,7 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Exploring the features of dotnet run app.cs: Exploring the .NET 10 preview - Part 1 ([3 hours ago](https://dotnetkicks.com/r/723944?url=https://andrewlock.net/exploring-dotnet-10-preview-features-1-exploring-the-dotnet-run-app.cs/))
+- Exploring the features of dotnet run app.cs: Exploring the .NET 10 preview - Part 1 ([4 hours ago](https://dotnetkicks.com/r/723944?url=https://andrewlock.net/exploring-dotnet-10-preview-features-1-exploring-the-dotnet-run-app.cs/))
 - Exploring the features of dotnet run app.cs: Exploring the .NET 10 preview - Part 1 ([4 hours ago](https://andrewlock.net/exploring-dotnet-10-preview-features-1-exploring-the-dotnet-run-app.cs/))
 - ReSharper and Rider 2025.1.4: Another Set of Bug-fixes Released ([1 days ago](https://blog.jetbrains.com/dotnet/2025/06/30/resharper-and-rider-2025-1-4/))
 - Boost Your .NET Projects: Mastering Method Returns with Spargine’s SimpleResult Type ([2 days ago](https://dotnettips.wordpress.com/2025/06/29/boost-your-net-projects-mastering-method-returns-with-spargines-simpleresult-type/))
@@ -27,7 +27,7 @@ description: DotNet Updates
 - Working with stacked branches in git (Part 2) ([7 days ago](https://dotnetkicks.com/r/723493?url=https://andrewlock.net/working-with-stacked-branches-in-git-part-2/))
 - Working with stacked branches in git (Part 2) ([7 days ago](https://andrewlock.net/working-with-stacked-branches-in-git-part-2/))
 - FYAI: How to leverage AI to reimagine cross-functional collaboration with Yina Arenas  -  The Microsoft Cloud Blog ([7 days ago](https://dotnetkicks.com/r/723478?url=https://www.microsoft.com/en-us/microsoft-cloud/blog/2025/06/23/fyai-how-to-leverage-ai-to-reimagine-cross-functional-collaboration-with-yina-arenas/))
-- Inside Access: Join Us at VS Live! Redmond for a Week of Deep Developer Learning - Visual Studio Blog ([7 days ago](https://dotnetkicks.com/r/723397?url=https://devblogs.microsoft.com/visualstudio/inside-access-join-us-at-vs-live-redmond-for-a-week-of-deep-developer-learning/))
+- Inside Access: Join Us at VS Live! Redmond for a Week of Deep Developer Learning - Visual Studio Blog ([8 days ago](https://dotnetkicks.com/r/723397?url=https://devblogs.microsoft.com/visualstudio/inside-access-join-us-at-vs-live-redmond-for-a-week-of-deep-developer-learning/))
 - OSS Project Lessons Learned with David Giard ([8 days ago](https://dotnetkicks.com/r/723377?url=https://jeremydmiller.com/2025/06/23/oss-project-lessons-learned-with-david-giard/))
 - Wire Up XUnit Logging for Crazy Integration Testing ([8 days ago](https://dotnetkicks.com/r/723366?url=https://jeremydmiller.com/2025/06/22/wire-up-xunit-logging-for-crazy-integration-testing/))
 - F# Weekly #25, 2025 - 7 Reasons F# Sucks ([8 days ago](https://dotnetkicks.com/r/723332?url=https://sergeytihon.com/2025/06/22/f-weekly-25-2025-7-reasons-f-sucks/))
@@ -35,7 +35,7 @@ description: DotNet Updates
 - Model Context Protocol, Without the Hype ([10 days ago](https://dotnetkicks.com/r/723300?url=https://petabridge.com/blog/mcp-without-the-hype/))
 - 5 Mistakes That Make Your Code Unmaintainable ([11 days ago](https://dotnetkicks.com/r/723269?url=https://codeopinion.com/5-mistakes-that-make-your-code-unmaintainable/))
 - Richie Bonilla and Forage AI Email ([11 days ago](https://dotnetkicks.com/r/723207?url=https://jesseliberty.com/2025/06/19/richie-bonilla-and-forage-ai-email/))
-- Announcing Microsoft Desired State Configuration v3.1.0 - PowerShell Team ([12 days ago](https://dotnetkicks.com/r/723087?url=https://devblogs.microsoft.com/powershell/announcing-dsc-v3-1-0/))
+- Announcing Microsoft Desired State Configuration v3.1.0 - PowerShell Team ([13 days ago](https://dotnetkicks.com/r/723087?url=https://devblogs.microsoft.com/powershell/announcing-dsc-v3-1-0/))
 - Multimodal Vision Intelligence with .NET MAUI - .NET Blog ([13 days ago](https://dotnetkicks.com/r/723086?url=https://devblogs.microsoft.com/dotnet/multimodal-vision-intelligence-with-dotnet-maui/))
 - From code to community: The collective effort behind SQL Server 2025 - Microsoft SQL Server Blog ([13 days ago](https://dotnetkicks.com/r/723085?url=https://www.microsoft.com/en-us/sql-server/blog/2025/06/16/from-code-to-community-the-collective-effort-behind-sql-server-2025/))
 - Multimodal Vision Intelligence with .NET MAUI ([13 days ago](https://devblogs.microsoft.com/dotnet/multimodal-vision-intelligence-with-dotnet-maui/))
