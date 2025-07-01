@@ -8,7 +8,7 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Exploring the features of dotnet run app.cs: Exploring the .NET 10 preview - Part 1 ([6 hours ago](https://dotnetkicks.com/r/723944?url=https://andrewlock.net/exploring-dotnet-10-preview-features-1-exploring-the-dotnet-run-app.cs/))
+- Exploring the features of dotnet run app.cs: Exploring the .NET 10 preview - Part 1 ([7 hours ago](https://dotnetkicks.com/r/723944?url=https://andrewlock.net/exploring-dotnet-10-preview-features-1-exploring-the-dotnet-run-app.cs/))
 - Exploring the features of dotnet run app.cs: Exploring the .NET 10 preview - Part 1 ([7 hours ago](https://andrewlock.net/exploring-dotnet-10-preview-features-1-exploring-the-dotnet-run-app.cs/))
 - ReSharper and Rider 2025.1.4: Another Set of Bug-fixes Released ([1 days ago](https://blog.jetbrains.com/dotnet/2025/06/30/resharper-and-rider-2025-1-4/))
 - Boost Your .NET Projects: Mastering Method Returns with Spargine’s SimpleResult Type ([2 days ago](https://dotnettips.wordpress.com/2025/06/29/boost-your-net-projects-mastering-method-returns-with-spargines-simpleresult-type/))
@@ -62,7 +62,7 @@ description: DotNet Updates
 - Emit logs on-demand with log buffering ([26 days ago](https://devblogs.microsoft.com/dotnet/emit-logs-on-demand-with-log-buffering/))
 - Catch Up on Microsoft Build 2025: Essential Sessions for .NET Developers ([26 days ago](https://devblogs.microsoft.com/dotnet/catching-up-on-microsoft-build-2025-essential-sessions-for-dotnet-developers/))
 - Boost Your .NET Projects: Mastering Unit Testing with Spargine’s UnitTester Class ([27 days ago](https://dotnettips.wordpress.com/2025/06/04/boost-your-net-projects-mastering-unit-testing-with-spargines-unittester-class/))
-- Using AI Foundry with .NET MAUI ([27 days ago](https://devblogs.microsoft.com/dotnet/using-ai-foundry-with-dotnet-maui/))
+- Using AI Foundry with .NET MAUI ([28 days ago](https://devblogs.microsoft.com/dotnet/using-ai-foundry-with-dotnet-maui/))
 - dotInsights  -  June 2025 ([28 days ago](https://blog.jetbrains.com/dotnet/2025/06/03/dotinsights-june-2025/))
 - Creating your first sample game with MonoGame ([28 days ago](https://andrewlock.net/creating-your-first-sample-game-with-monogame/))
 
