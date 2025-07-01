@@ -8,7 +8,7 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- ReSharper and Rider 2025.1.4: Another Set of Bug-fixes Released ([22 hours ago](https://blog.jetbrains.com/dotnet/2025/06/30/resharper-and-rider-2025-1-4/))
+- ReSharper and Rider 2025.1.4: Another Set of Bug-fixes Released ([23 hours ago](https://blog.jetbrains.com/dotnet/2025/06/30/resharper-and-rider-2025-1-4/))
 - Boost Your .NET Projects: Mastering Method Returns with Spargine’s SimpleResult Type ([2 days ago](https://dotnettips.wordpress.com/2025/06/29/boost-your-net-projects-mastering-method-returns-with-spargines-simpleresult-type/))
 - Pi-hole DNS on UGOS PRO 1.6.0.2917 ([2 days ago](https://dotnetkicks.com/r/723852?url=https://sergeytihon.com/2025/06/28/pi-hole-dns-on-ugos-pro-1-6-0-2917/))
 - From Extension Methods to Extension Members: Unlocking New Possibilities in .NET 10 ([4 days ago](https://dotnettips.wordpress.com/2025/06/27/from-extension-methods-to-extension-members-unlocking-new-possibilities-in-net-10/))
