@@ -9,7 +9,7 @@ description: DotNet Updates
 
 <!-- news_marker starts -->
 - Exploring the features of dotnet run app.cs: Exploring the .NET 10 preview - Part 1 ([2 hours ago](https://dotnetkicks.com/r/723944?url=https://andrewlock.net/exploring-dotnet-10-preview-features-1-exploring-the-dotnet-run-app.cs/))
-- Exploring the features of dotnet run app.cs: Exploring the .NET 10 preview - Part 1 ([2 hours ago](https://andrewlock.net/exploring-dotnet-10-preview-features-1-exploring-the-dotnet-run-app.cs/))
+- Exploring the features of dotnet run app.cs: Exploring the .NET 10 preview - Part 1 ([3 hours ago](https://andrewlock.net/exploring-dotnet-10-preview-features-1-exploring-the-dotnet-run-app.cs/))
 - ReSharper and Rider 2025.1.4: Another Set of Bug-fixes Released ([1 days ago](https://blog.jetbrains.com/dotnet/2025/06/30/resharper-and-rider-2025-1-4/))
 - Boost Your .NET Projects: Mastering Method Returns with Spargine’s SimpleResult Type ([2 days ago](https://dotnettips.wordpress.com/2025/06/29/boost-your-net-projects-mastering-method-returns-with-spargines-simpleresult-type/))
 - Pi-hole DNS on UGOS PRO 1.6.0.2917 ([2 days ago](https://dotnetkicks.com/r/723852?url=https://sergeytihon.com/2025/06/28/pi-hole-dns-on-ugos-pro-1-6-0-2917/))
@@ -28,7 +28,7 @@ description: DotNet Updates
 - Working with stacked branches in git (Part 2) ([7 days ago](https://andrewlock.net/working-with-stacked-branches-in-git-part-2/))
 - FYAI: How to leverage AI to reimagine cross-functional collaboration with Yina Arenas  -  The Microsoft Cloud Blog ([7 days ago](https://dotnetkicks.com/r/723478?url=https://www.microsoft.com/en-us/microsoft-cloud/blog/2025/06/23/fyai-how-to-leverage-ai-to-reimagine-cross-functional-collaboration-with-yina-arenas/))
 - Inside Access: Join Us at VS Live! Redmond for a Week of Deep Developer Learning - Visual Studio Blog ([7 days ago](https://dotnetkicks.com/r/723397?url=https://devblogs.microsoft.com/visualstudio/inside-access-join-us-at-vs-live-redmond-for-a-week-of-deep-developer-learning/))
-- OSS Project Lessons Learned with David Giard ([7 days ago](https://dotnetkicks.com/r/723377?url=https://jeremydmiller.com/2025/06/23/oss-project-lessons-learned-with-david-giard/))
+- OSS Project Lessons Learned with David Giard ([8 days ago](https://dotnetkicks.com/r/723377?url=https://jeremydmiller.com/2025/06/23/oss-project-lessons-learned-with-david-giard/))
 - Wire Up XUnit Logging for Crazy Integration Testing ([8 days ago](https://dotnetkicks.com/r/723366?url=https://jeremydmiller.com/2025/06/22/wire-up-xunit-logging-for-crazy-integration-testing/))
 - F# Weekly #25, 2025 - 7 Reasons F# Sucks ([8 days ago](https://dotnetkicks.com/r/723332?url=https://sergeytihon.com/2025/06/22/f-weekly-25-2025-7-reasons-f-sucks/))
 - Boost Your .NET Projects: Exception Handling Superpowers with Spargine ([9 days ago](https://dotnettips.wordpress.com/2025/06/22/boost-your-net-projects-exception-handling-superpowers-with-spargine/))
@@ -49,7 +49,7 @@ description: DotNet Updates
 - Family Safety Content Filtering ([18 days ago](https://dotnetkicks.com/r/722890?url=https://textslashplain.com/2025/06/12/family-safety-content-filtering/))
 - JetBrains GameDev Days 2025 – Call for Speakers ([18 days ago](https://blog.jetbrains.com/dotnet/2025/06/13/jetbrains-gamedev-days-2025-call-for-speakers/))
 - Improve Your Productivity with New GitHub Copilot Features for .NET! ([18 days ago](https://devblogs.microsoft.com/dotnet/improve-productivity-with-github-copilot-dotnet/))
-- ReSharper and Rider 2025.1.3: Important Updates Released ([18 days ago](https://blog.jetbrains.com/dotnet/2025/06/12/resharper-and-rider-2025-1-3-important-updates-released/))
+- ReSharper and Rider 2025.1.3: Important Updates Released ([19 days ago](https://blog.jetbrains.com/dotnet/2025/06/12/resharper-and-rider-2025-1-3-important-updates-released/))
 - Multimodal Voice Intelligence with .NET MAUI ([19 days ago](https://devblogs.microsoft.com/dotnet/multimodal-voice-intelligence-with-dotnet-maui/))
 - .NET and .NET Framework June 2025 servicing releases updates ([20 days ago](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-june-2025-servicing-updates/))
 - .NET 10 Preview 5 is now available! ([20 days ago](https://devblogs.microsoft.com/dotnet/dotnet-10-preview-5/))
