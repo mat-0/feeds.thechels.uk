@@ -8,10 +8,10 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- AutoMapper and MediatR Commercial Editions Launch Today ([1 hours ago](https://dotnetkicks.com/r/724071?url=https://www.jimmybogard.com/automapper-and-mediatr-commercial-editions-launch-today/))
-- AutoMapper and MediatR Commercial Editions Launch Today ([1 hours ago](https://dotnetkicks.com/r/724070?url=https://www.jimmybogard.com/automapper-and-mediatr-commercial-editions-launch-today/))
+- AutoMapper and MediatR Commercial Editions Launch Today ([2 hours ago](https://dotnetkicks.com/r/724071?url=https://www.jimmybogard.com/automapper-and-mediatr-commercial-editions-launch-today/))
+- AutoMapper and MediatR Commercial Editions Launch Today ([2 hours ago](https://dotnetkicks.com/r/724070?url=https://www.jimmybogard.com/automapper-and-mediatr-commercial-editions-launch-today/))
 - Implement ASP.NET Core OpenID Connect with Keycloak to implement Level of Authentication (LoA) requirements ([9 hours ago](https://dotnetkicks.com/r/724019?url=https://damienbod.com/2025/07/02/implement-asp-net-core-openid-connect-with-keykloak-to-implement-level-of-authentication-loa-requirements/))
-- UX Chronicles: The Office That Time Forgot – Why Microsoft Must Rethink User Experience Now ([12 hours ago](https://dotnettips.wordpress.com/2025/07/02/ux-chronicles-the-office-that-time-forgot-why-microsoft-must-rethink-user-experience-now/))
+- UX Chronicles: The Office That Time Forgot – Why Microsoft Must Rethink User Experience Now ([13 hours ago](https://dotnettips.wordpress.com/2025/07/02/ux-chronicles-the-office-that-time-forgot-why-microsoft-must-rethink-user-experience-now/))
 - Exploring the features of dotnet run app.cs: Exploring the .NET 10 preview - Part 1 ([1 days ago](https://dotnetkicks.com/r/723944?url=https://andrewlock.net/exploring-dotnet-10-preview-features-1-exploring-the-dotnet-run-app.cs/))
 - Exploring the features of dotnet run app.cs: Exploring the .NET 10 preview - Part 1 ([1 days ago](https://andrewlock.net/exploring-dotnet-10-preview-features-1-exploring-the-dotnet-run-app.cs/))
 - ReSharper and Rider 2025.1.4: Another Set of Bug-fixes Released ([2 days ago](https://blog.jetbrains.com/dotnet/2025/06/30/resharper-and-rider-2025-1-4/))
@@ -61,7 +61,7 @@ description: DotNet Updates
 - CollabTalk Podcast: Veteran Engineers Aren’t Done Yet – They’re Just Getting Started ([25 days ago](https://dotnettips.wordpress.com/2025/06/07/collabtalk-podcast-veteran-engineers-arent-done-yet-theyre-just-getting-started/))
 - Adding Extension Properties with State to Types, (Sort of) In Spargine ([26 days ago](https://dotnettips.wordpress.com/2025/06/06/adding-extension-properties-to-types-sort-of-in-spargine/))
 - Emit logs on-demand with log buffering ([27 days ago](https://devblogs.microsoft.com/dotnet/emit-logs-on-demand-with-log-buffering/))
-- Catch Up on Microsoft Build 2025: Essential Sessions for .NET Developers ([27 days ago](https://devblogs.microsoft.com/dotnet/catching-up-on-microsoft-build-2025-essential-sessions-for-dotnet-developers/))
+- Catch Up on Microsoft Build 2025: Essential Sessions for .NET Developers ([28 days ago](https://devblogs.microsoft.com/dotnet/catching-up-on-microsoft-build-2025-essential-sessions-for-dotnet-developers/))
 - Using AI Foundry with .NET MAUI ([29 days ago](https://devblogs.microsoft.com/dotnet/using-ai-foundry-with-dotnet-maui/))
 - dotInsights  -  June 2025 ([29 days ago](https://blog.jetbrains.com/dotnet/2025/06/03/dotinsights-june-2025/))
 - Creating your first sample game with MonoGame ([29 days ago](https://andrewlock.net/creating-your-first-sample-game-with-monogame/))
