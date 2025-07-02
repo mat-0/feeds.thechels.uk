@@ -8,10 +8,10 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- AutoMapper and MediatR Commercial Editions Launch Today ([50 minutes ago](https://dotnetkicks.com/r/724071?url=https://www.jimmybogard.com/automapper-and-mediatr-commercial-editions-launch-today/))
-- AutoMapper and MediatR Commercial Editions Launch Today ([50 minutes ago](https://dotnetkicks.com/r/724070?url=https://www.jimmybogard.com/automapper-and-mediatr-commercial-editions-launch-today/))
-- Implement ASP.NET Core OpenID Connect with Keycloak to implement Level of Authentication (LoA) requirements ([8 hours ago](https://dotnetkicks.com/r/724019?url=https://damienbod.com/2025/07/02/implement-asp-net-core-openid-connect-with-keykloak-to-implement-level-of-authentication-loa-requirements/))
-- UX Chronicles: The Office That Time Forgot – Why Microsoft Must Rethink User Experience Now ([11 hours ago](https://dotnettips.wordpress.com/2025/07/02/ux-chronicles-the-office-that-time-forgot-why-microsoft-must-rethink-user-experience-now/))
+- AutoMapper and MediatR Commercial Editions Launch Today ([1 hours ago](https://dotnetkicks.com/r/724071?url=https://www.jimmybogard.com/automapper-and-mediatr-commercial-editions-launch-today/))
+- AutoMapper and MediatR Commercial Editions Launch Today ([1 hours ago](https://dotnetkicks.com/r/724070?url=https://www.jimmybogard.com/automapper-and-mediatr-commercial-editions-launch-today/))
+- Implement ASP.NET Core OpenID Connect with Keycloak to implement Level of Authentication (LoA) requirements ([9 hours ago](https://dotnetkicks.com/r/724019?url=https://damienbod.com/2025/07/02/implement-asp-net-core-openid-connect-with-keykloak-to-implement-level-of-authentication-loa-requirements/))
+- UX Chronicles: The Office That Time Forgot – Why Microsoft Must Rethink User Experience Now ([12 hours ago](https://dotnettips.wordpress.com/2025/07/02/ux-chronicles-the-office-that-time-forgot-why-microsoft-must-rethink-user-experience-now/))
 - Exploring the features of dotnet run app.cs: Exploring the .NET 10 preview - Part 1 ([1 days ago](https://dotnetkicks.com/r/723944?url=https://andrewlock.net/exploring-dotnet-10-preview-features-1-exploring-the-dotnet-run-app.cs/))
 - Exploring the features of dotnet run app.cs: Exploring the .NET 10 preview - Part 1 ([1 days ago](https://andrewlock.net/exploring-dotnet-10-preview-features-1-exploring-the-dotnet-run-app.cs/))
 - ReSharper and Rider 2025.1.4: Another Set of Bug-fixes Released ([2 days ago](https://blog.jetbrains.com/dotnet/2025/06/30/resharper-and-rider-2025-1-4/))
