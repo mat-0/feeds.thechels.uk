@@ -8,7 +8,7 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Local AI + .NET = AltText Magic in One C# Script - .NET Blog ([20 hours ago](https://dotnetkicks.com/r/724078?url=https://devblogs.microsoft.com/dotnet/alttext-generator-csharp-local-models/))
+- Local AI + .NET = AltText Magic in One C# Script - .NET Blog ([21 hours ago](https://dotnetkicks.com/r/724078?url=https://devblogs.microsoft.com/dotnet/alttext-generator-csharp-local-models/))
 - Local AI + .NET = AltText Magic in One C# Script ([21 hours ago](https://devblogs.microsoft.com/dotnet/alttext-generator-csharp-local-models/))
 - AutoMapper and MediatR Commercial Editions Launch Today ([1 days ago](https://dotnetkicks.com/r/724071?url=https://www.jimmybogard.com/automapper-and-mediatr-commercial-editions-launch-today/))
 - AutoMapper and MediatR Commercial Editions Launch Today ([1 days ago](https://dotnetkicks.com/r/724070?url=https://www.jimmybogard.com/automapper-and-mediatr-commercial-editions-launch-today/))
@@ -63,6 +63,5 @@ description: DotNet Updates
 - Adding Extension Properties with State to Types, (Sort of) In Spargine ([27 days ago](https://dotnettips.wordpress.com/2025/06/06/adding-extension-properties-to-types-sort-of-in-spargine/))
 - Emit logs on-demand with log buffering ([28 days ago](https://devblogs.microsoft.com/dotnet/emit-logs-on-demand-with-log-buffering/))
 - Catch Up on Microsoft Build 2025: Essential Sessions for .NET Developers ([28 days ago](https://devblogs.microsoft.com/dotnet/catching-up-on-microsoft-build-2025-essential-sessions-for-dotnet-developers/))
-- Using AI Foundry with .NET MAUI ([29 days ago](https://devblogs.microsoft.com/dotnet/using-ai-foundry-with-dotnet-maui/))
 
 <!-- news_marker ends -->
