@@ -16,7 +16,7 @@ description: DotNet Updates
 - UX Chronicles: The Office That Time Forgot – Why Microsoft Must Rethink User Experience Now ([1 days ago](https://dotnettips.wordpress.com/2025/07/02/ux-chronicles-the-office-that-time-forgot-why-microsoft-must-rethink-user-experience-now/))
 - Exploring the features of dotnet run app.cs: Exploring the .NET 10 preview - Part 1 ([1 days ago](https://dotnetkicks.com/r/723944?url=https://andrewlock.net/exploring-dotnet-10-preview-features-1-exploring-the-dotnet-run-app.cs/))
 - Exploring the features of dotnet run app.cs: Exploring the .NET 10 preview - Part 1 ([1 days ago](https://andrewlock.net/exploring-dotnet-10-preview-features-1-exploring-the-dotnet-run-app.cs/))
-- ReSharper and Rider 2025.1.4: Another Set of Bug-fixes Released ([2 days ago](https://blog.jetbrains.com/dotnet/2025/06/30/resharper-and-rider-2025-1-4/))
+- ReSharper and Rider 2025.1.4: Another Set of Bug-fixes Released ([3 days ago](https://blog.jetbrains.com/dotnet/2025/06/30/resharper-and-rider-2025-1-4/))
 - Boost Your .NET Projects: Mastering Method Returns with Spargine’s SimpleResult Type ([4 days ago](https://dotnettips.wordpress.com/2025/06/29/boost-your-net-projects-mastering-method-returns-with-spargines-simpleresult-type/))
 - Pi-hole DNS on UGOS PRO 1.6.0.2917 ([4 days ago](https://dotnetkicks.com/r/723852?url=https://sergeytihon.com/2025/06/28/pi-hole-dns-on-ugos-pro-1-6-0-2917/))
 - From Extension Methods to Extension Members: Unlocking New Possibilities in .NET 10 ([6 days ago](https://dotnettips.wordpress.com/2025/06/27/from-extension-methods-to-extension-members-unlocking-new-possibilities-in-net-10/))
