@@ -64,6 +64,5 @@ description: DotNet Updates
 - Emit logs on-demand with log buffering ([27 days ago](https://devblogs.microsoft.com/dotnet/emit-logs-on-demand-with-log-buffering/))
 - Catch Up on Microsoft Build 2025: Essential Sessions for .NET Developers ([28 days ago](https://devblogs.microsoft.com/dotnet/catching-up-on-microsoft-build-2025-essential-sessions-for-dotnet-developers/))
 - Using AI Foundry with .NET MAUI ([29 days ago](https://devblogs.microsoft.com/dotnet/using-ai-foundry-with-dotnet-maui/))
-- dotInsights  -  June 2025 ([29 days ago](https://blog.jetbrains.com/dotnet/2025/06/03/dotinsights-june-2025/))
 
 <!-- news_marker ends -->
