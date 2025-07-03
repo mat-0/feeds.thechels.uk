@@ -8,7 +8,7 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Local AI + .NET = AltText Magic in One C# Script - .NET Blog ([18 hours ago](https://dotnetkicks.com/r/724078?url=https://devblogs.microsoft.com/dotnet/alttext-generator-csharp-local-models/))
+- Local AI + .NET = AltText Magic in One C# Script - .NET Blog ([19 hours ago](https://dotnetkicks.com/r/724078?url=https://devblogs.microsoft.com/dotnet/alttext-generator-csharp-local-models/))
 - Local AI + .NET = AltText Magic in One C# Script ([19 hours ago](https://devblogs.microsoft.com/dotnet/alttext-generator-csharp-local-models/))
 - AutoMapper and MediatR Commercial Editions Launch Today ([22 hours ago](https://dotnetkicks.com/r/724071?url=https://www.jimmybogard.com/automapper-and-mediatr-commercial-editions-launch-today/))
 - AutoMapper and MediatR Commercial Editions Launch Today ([22 hours ago](https://dotnetkicks.com/r/724070?url=https://www.jimmybogard.com/automapper-and-mediatr-commercial-editions-launch-today/))
