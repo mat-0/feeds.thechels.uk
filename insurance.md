@@ -8,7 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- MGAs Poised for Growth ([13 hours ago](https://insurance-edge.net/2025/07/05/mgas-poised-for-growth/))
+- MGAs Poised for Growth ([14 hours ago](https://insurance-edge.net/2025/07/05/mgas-poised-for-growth/))
 - Mosaic Welcomes Four Interns to Their Regional Offices ([1 days ago](https://insurance-edge.net/2025/07/04/mosaic-welcomes-four-interns-to-their-regional-offices/))
 - Reinsurer returns to remain robust with steady ROE through 2027: Guy Carpenter ([1 days ago](https://www.reinsurancene.ws/reinsurer-returns-to-remain-robust-with-steady-roe-through-2027-guy-carpenter/))
 - The next challenge is to make parametric solutions a mainstream climate finance tool: NDF ([1 days ago](https://www.reinsurancene.ws/the-next-challenge-is-to-make-parametric-solutions-a-mainstream-climate-finance-tool-ndf/))
