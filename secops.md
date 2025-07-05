@@ -9,11 +9,11 @@ description: SecOps News
 
 <!-- news_marker starts -->
 - Ingram Micro outage caused by SafePay ransomware attack ([3 hours ago](https://www.bleepingcomputer.com/news/security/ingram-micro-outage-caused-by-safepay-ransomware-attack/))
-- Massive spike in use of .es domains for phishing abuse ([6 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/07/05/spain_domains_phishing/))
+- Massive spike in use of .es domains for phishing abuse ([7 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/07/05/spain_domains_phishing/))
 - Taiwan NSB Alerts Public on Data Risks from TikTok, Weibo, and RedNote Over China Ties ([13 hours ago](https://thehackernews.com/2025/07/taiwan-nsb-alerts-public-on-data-risks.html))
-- Alert: Exposed JDWP Interfaces Lead to Crypto Mining, Hpingbot Targets SSH for DDoS ([13 hours ago](https://thehackernews.com/2025/07/alert-exposed-jdwp-interfaces-lead-to.html))
-- Google's AI video maker Veo 3 is now available via $20 Gemini ([19 hours ago](https://www.bleepingcomputer.com/news/artificial-intelligence/googles-ai-video-maker-veo-3-is-now-available-via-20-gemini/))
-- ChatGPT Deep Research tests new connectors for more context ([20 hours ago](https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-deep-research-tests-new-connectors-for-more-context/))
+- Alert: Exposed JDWP Interfaces Lead to Crypto Mining, Hpingbot Targets SSH for DDoS ([14 hours ago](https://thehackernews.com/2025/07/alert-exposed-jdwp-interfaces-lead-to.html))
+- Google's AI video maker Veo 3 is now available via $20 Gemini ([20 hours ago](https://www.bleepingcomputer.com/news/artificial-intelligence/googles-ai-video-maker-veo-3-is-now-available-via-20-gemini/))
+- ChatGPT Deep Research tests new connectors for more context ([21 hours ago](https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-deep-research-tests-new-connectors-for-more-context/))
 - Ousted US copyright chief argues Trump did not have power to remove her ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2025/07/04/copyright_office_trump_filing/))
 - Microsoft finally bids farewell to PowerShell 2.0 ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2025/07/04/microsoft_finally_bids_farewell_to/))
 - Technical difficulties or cyber attack? Ingram Micro’s website goes down just in time for the holiday weekend ([1 days ago](https://grahamcluley.com/technical-difficulties-or-cyber-attack-ingram-micros-website-goes-down-just-in-time-for-the-holiday-weekend/))
@@ -136,7 +136,7 @@ description: SecOps News
 - Texas Centers for Infectious Disease Associates Notifies Individuals of Data Breach in 2024 ([7 days ago](https://databreaches.net/2025/06/28/texas-centers-for-infectious-disease-associates-notifies-individuals-of-data-breach-in-2024/))
 - Battlefords Union Hospitals notifies patients of employee snooping in their records ([7 days ago](https://databreaches.net/2025/06/28/battlefords-union-hospitals-notifies-patients-of-employee-snooping-in-their-records/))
 - BreachForums broken up? French police arrest five members of notorious cybercrime site ([7 days ago](https://www.bitdefender.com/en-us/blog/hotforsecurity/breachforums-broken-up-french-police-arrest-five-members-of-notorious-cybercrime-site))
-- Alert: Scattered Spider has added North American airline and transportation organizations to their target list ([7 days ago](https://databreaches.net/2025/06/27/alert-scattered-spider-has-added-north-american-airline-and-transportation-organizations-to-their-target-list/))
+- Alert: Scattered Spider has added North American airline and transportation organizations to their target list ([8 days ago](https://databreaches.net/2025/06/27/alert-scattered-spider-has-added-north-american-airline-and-transportation-organizations-to-their-target-list/))
 - Northern Light Health patients affected by security incident at Compumedics; 10 healthcare entities affected ([8 days ago](https://databreaches.net/2025/06/27/northern-light-health-patients-affected-by-security-incident-at-compumedics-10-healthcare-entities-affected/))
 - Privacy commissioner reviewing reported Ontario Health atHome data breach ([8 days ago](https://databreaches.net/2025/06/27/privacy-commissioner-reviewing-reported-ontario-health-athome-data-breach/))
 - CMS warns Medicare providers of fraud scheme ([8 days ago](https://databreaches.net/2025/06/27/cms-warns-medicare-providers-of-fraud-scheme/))
@@ -203,6 +203,5 @@ description: SecOps News
 - Incident With Copilot ([28 days ago](https://www.githubstatus.com/incidents/5g8smlrj5ynp))
 - Incident with Copilot ([29 days ago](https://www.githubstatus.com/incidents/wqrqgd9gyvz5))
 - Proxy Services Feast on Ukraine’s IP Address Exodus ([29 days ago](https://krebsonsecurity.com/2025/06/proxy-services-feast-on-ukraines-ip-address-exodus/))
-- Incident with Actions ([29 days ago](https://www.githubstatus.com/incidents/ry1gsyjqj4qh))
 
 <!-- news_marker ends -->
