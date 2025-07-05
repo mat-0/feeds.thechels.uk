@@ -9,7 +9,7 @@ description: Insurance Updates
 
 <!-- news_marker starts -->
 - MGAs Poised for Growth ([10 hours ago](https://insurance-edge.net/2025/07/05/mgas-poised-for-growth/))
-- Mosaic Welcomes Four Interns to Their Regional Offices ([22 hours ago](https://insurance-edge.net/2025/07/04/mosaic-welcomes-four-interns-to-their-regional-offices/))
+- Mosaic Welcomes Four Interns to Their Regional Offices ([23 hours ago](https://insurance-edge.net/2025/07/04/mosaic-welcomes-four-interns-to-their-regional-offices/))
 - Reinsurer returns to remain robust with steady ROE through 2027: Guy Carpenter ([1 days ago](https://www.reinsurancene.ws/reinsurer-returns-to-remain-robust-with-steady-roe-through-2027-guy-carpenter/))
 - The next challenge is to make parametric solutions a mainstream climate finance tool: NDF ([1 days ago](https://www.reinsurancene.ws/the-next-challenge-is-to-make-parametric-solutions-a-mainstream-climate-finance-tool-ndf/))
 - FSCS paid out £134 million last year to clients of failed insurers ([1 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/fscs-paid-out-134-million-last-year-to-clients-of-failed-insurers-541517.aspx))
