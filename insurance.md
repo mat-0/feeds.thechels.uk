@@ -8,7 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- MGAs Poised for Growth ([10 hours ago](https://insurance-edge.net/2025/07/05/mgas-poised-for-growth/))
+- MGAs Poised for Growth ([11 hours ago](https://insurance-edge.net/2025/07/05/mgas-poised-for-growth/))
 - Mosaic Welcomes Four Interns to Their Regional Offices ([23 hours ago](https://insurance-edge.net/2025/07/04/mosaic-welcomes-four-interns-to-their-regional-offices/))
 - Reinsurer returns to remain robust with steady ROE through 2027: Guy Carpenter ([1 days ago](https://www.reinsurancene.ws/reinsurer-returns-to-remain-robust-with-steady-roe-through-2027-guy-carpenter/))
 - The next challenge is to make parametric solutions a mainstream climate finance tool: NDF ([1 days ago](https://www.reinsurancene.ws/the-next-challenge-is-to-make-parametric-solutions-a-mainstream-climate-finance-tool-ndf/))
@@ -136,7 +136,7 @@ description: Insurance Updates
 - Aon Launches AI-Powered Platform to Equip Insurance Brokers With Live Pricing Intelligence ([10 days ago](https://thefintechtimes.com/aon-launches-ai-powered-platform-to-equip-insurance-brokers-with-live-pricing-intelligence/))
 - Upcover Launches Tailored Insurance for Fintechs, Promising to Leverage its ‘Founder’s-Eye View’ ([10 days ago](https://thefintechtimes.com/upcover-launches-tailored-insurance-for-fintechs-promising-to-leverage-its-founders-eye-view/))
 - AI Can “Only Augment, Not Replace” Humans in Insurance: Industry Reveals AI Risks in the Sector ([11 days ago](https://thefintechtimes.com/ai-can-only-augment-not-replace-humans-in-insurance-industry-reveals-ai-risks-in-the-sector/))
-- Insurtech’s Biggest Emerging Trends: AI, Cloud Architecture, CX and Modernisation ([15 days ago](https://thefintechtimes.com/insurtech-biggest-emerging-trends-ai-cloud-architecture-cx-and-data/))
+- Insurtech’s Biggest Emerging Trends: AI, Cloud Architecture, CX and Modernisation ([16 days ago](https://thefintechtimes.com/insurtech-biggest-emerging-trends-ai-cloud-architecture-cx-and-data/))
 - Arch Insurance Partners With Insurtech bolt to Expand Access to Multi-Trip Travel Insurance Plan ([20 days ago](https://thefintechtimes.com/arch-insurance-partners-with-insurtech-bolt-to-expand-access-to-multi-trip-travel-insurance-plan/))
 
 <!-- news_marker ends -->
