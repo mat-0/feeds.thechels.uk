@@ -9,11 +9,11 @@ description: Insurance Updates
 
 <!-- news_marker starts -->
 - MGAs Poised for Growth ([7 hours ago](https://insurance-edge.net/2025/07/05/mgas-poised-for-growth/))
-- Mosaic Welcomes Four Interns to Their Regional Offices ([19 hours ago](https://insurance-edge.net/2025/07/04/mosaic-welcomes-four-interns-to-their-regional-offices/))
-- Reinsurer returns to remain robust with steady ROE through 2027: Guy Carpenter ([22 hours ago](https://www.reinsurancene.ws/reinsurer-returns-to-remain-robust-with-steady-roe-through-2027-guy-carpenter/))
+- Mosaic Welcomes Four Interns to Their Regional Offices ([20 hours ago](https://insurance-edge.net/2025/07/04/mosaic-welcomes-four-interns-to-their-regional-offices/))
+- Reinsurer returns to remain robust with steady ROE through 2027: Guy Carpenter ([23 hours ago](https://www.reinsurancene.ws/reinsurer-returns-to-remain-robust-with-steady-roe-through-2027-guy-carpenter/))
 - The next challenge is to make parametric solutions a mainstream climate finance tool: NDF ([23 hours ago](https://www.reinsurancene.ws/the-next-challenge-is-to-make-parametric-solutions-a-mainstream-climate-finance-tool-ndf/))
 - FSCS paid out £134 million last year to clients of failed insurers ([23 hours ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/fscs-paid-out-134-million-last-year-to-clients-of-failed-insurers-541517.aspx))
-- Atradius announces various Management Board changes ([23 hours ago](https://www.reinsurancene.ws/atradius-announces-various-management-board-changes/))
+- Atradius announces various Management Board changes ([1 days ago](https://www.reinsurancene.ws/atradius-announces-various-management-board-changes/))
 - US insurers tackle casualty challenges through underwriting & claims improvements: Gallagher Re ([1 days ago](https://www.reinsurancene.ws/us-insurers-tackle-casualty-challenges-through-underwriting-claims-improvements-gallagher-re/))
 - War exclusions to largely limit impact of recent Middle East turmoil: AM Best ([1 days ago](https://www.reinsurancene.ws/war-exclusions-to-largely-limit-impact-of-recent-middle-east-turmoil-am-best/))
 - Insurance 'middle of the pack' in latest S&P data ([1 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/insurance-middle-of-the-pack-in-latest-sandp-data-541505.aspx))
@@ -54,8 +54,8 @@ description: Insurance Updates
 - Business Moves: Specialist Risk Group Acquires Generation Underwriting From WF Risk Group; Ardonagh Acquires Majority Stake in Apex Insurance in Hong Kong ([1 days ago](https://www.insurancejournal.com/news/international/2025/07/03/830224.htm))
 - Conquering claims chaos after natural disasters ([1 days ago](https://www.insurancejournal.com/blogs/cotality/2025/07/03/830136.htm))
 - Aon’s Albert G. Ruben Joins Relation Insurance ([1 days ago](https://www.insurancejournal.com/news/national/2025/07/03/830203.htm))
-- Florida Taps Contractors With No Detention Experience for ‘Alligator Alcatraz’ ([1 days ago](https://www.insurancejournal.com/news/southeast/2025/07/03/830204.htm))
-- Data Call: South Carolina DOI Sets August Deadline for Liability Insurance Info ([1 days ago](https://www.insurancejournal.com/news/southeast/2025/07/03/830186.htm))
+- Florida Taps Contractors With No Detention Experience for ‘Alligator Alcatraz’ ([2 days ago](https://www.insurancejournal.com/news/southeast/2025/07/03/830204.htm))
+- Data Call: South Carolina DOI Sets August Deadline for Liability Insurance Info ([2 days ago](https://www.insurancejournal.com/news/southeast/2025/07/03/830186.htm))
 - Zurich Insurance Buys Canadian Insurance Technology Firm BOXX ([2 days ago](https://www.insurancejournal.com/news/international/2025/07/03/830181.htm))
 - Reinsurance Renewal Prices Moderate as Capacity Exceeds Cedent Demand: Brokers ([2 days ago](https://www.insurancejournal.com/news/international/2025/07/03/830166.htm))
 - Retailers Sue New York to Block Algorithmic Pricing Law ([2 days ago](https://www.insurancejournal.com/news/east/2025/07/03/830163.htm))
@@ -128,6 +128,5 @@ description: Insurance Updates
 - AI Can “Only Augment, Not Replace” Humans in Insurance: Industry Reveals AI Risks in the Sector ([11 days ago](https://thefintechtimes.com/ai-can-only-augment-not-replace-humans-in-insurance-industry-reveals-ai-risks-in-the-sector/))
 - Insurtech’s Biggest Emerging Trends: AI, Cloud Architecture, CX and Modernisation ([15 days ago](https://thefintechtimes.com/insurtech-biggest-emerging-trends-ai-cloud-architecture-cx-and-data/))
 - Arch Insurance Partners With Insurtech bolt to Expand Access to Multi-Trip Travel Insurance Plan ([20 days ago](https://thefintechtimes.com/arch-insurance-partners-with-insurtech-bolt-to-expand-access-to-multi-trip-travel-insurance-plan/))
-- June 2025 at The Fintech Times: Insurtech ([29 days ago](https://thefintechtimes.com/june-2025-at-the-fintech-times-insurtech/))
 
 <!-- news_marker ends -->
