@@ -8,8 +8,8 @@ description: SecOps News
 [Get this as an RSS feed](/secops.rss)
 
 <!-- news_marker starts -->
-- Stalkerware firm gets scooped by SQL-slinging security snoop ([1 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/07/06/infosec_roundup/))
-- Ingram Micro confirms ransomware behind multi-day outage ([8 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/07/06/ingram_micro_confirms_ransomware_behind/))
+- Stalkerware firm gets scooped by SQL-slinging security snoop ([2 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/07/06/infosec_roundup/))
+- Ingram Micro confirms ransomware behind multi-day outage ([9 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/07/06/ingram_micro_confirms_ransomware_behind/))
 - Ingram Micro outage caused by SafePay ransomware attack ([1 days ago](https://www.bleepingcomputer.com/news/security/ingram-micro-outage-caused-by-safepay-ransomware-attack/))
 - Massive spike in use of .es domains for phishing abuse ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2025/07/05/spain_domains_phishing/))
 - Taiwan NSB Alerts Public on Data Risks from TikTok, Weibo, and RedNote Over China Ties ([1 days ago](https://thehackernews.com/2025/07/taiwan-nsb-alerts-public-on-data-risks.html))
@@ -148,7 +148,7 @@ description: SecOps News
 - 222,000 customer records allegedly from Manhattan Parking Group leaked ([10 days ago](https://databreaches.net/2025/06/26/222000-customer-records-allegedly-from-manhattan-parking-group-leaked/))
 - Remote DoS in httpx 1.7.0 – Out-of-Bounds Read via Malformed <title -  Tag ([10 days ago](https://seclists.org/fulldisclosure/2025/Jun/26))
 - Smashing Security podcast #423: Operation Endgame, deepfakes, and dead slugs ([10 days ago](https://grahamcluley.com/smashing-security-podcast-423/))
-- Hackers breach Norwegian dam ([10 days ago](https://grahamcluley.com/hackers-breach-norwegian-dam/))
+- Hackers breach Norwegian dam ([11 days ago](https://grahamcluley.com/hackers-breach-norwegian-dam/))
 - Robinsons Malls - 195,597 breached accounts ([11 days ago](https://haveibeenpwned.com/Breach/RobinsonsMalls))
 - Apple Wallet just went full Bono (but with Brad Pitt this time) ([11 days ago](https://grahamcluley.com/apple-wallet-just-went-full-bono-but-with-brad-pitt-this-time/))
 - Cybercrime is surging across Africa ([11 days ago](https://www.bitdefender.com/en-us/blog/hotforsecurity/cybercrime-surging-across-africa))
