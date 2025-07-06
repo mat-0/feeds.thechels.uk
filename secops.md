@@ -9,9 +9,9 @@ description: SecOps News
 
 <!-- news_marker starts -->
 - Ingram Micro outage caused by SafePay ransomware attack ([12 hours ago](https://www.bleepingcomputer.com/news/security/ingram-micro-outage-caused-by-safepay-ransomware-attack/))
-- Massive spike in use of .es domains for phishing abuse ([15 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/07/05/spain_domains_phishing/))
+- Massive spike in use of .es domains for phishing abuse ([16 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/07/05/spain_domains_phishing/))
 - Taiwan NSB Alerts Public on Data Risks from TikTok, Weibo, and RedNote Over China Ties ([22 hours ago](https://thehackernews.com/2025/07/taiwan-nsb-alerts-public-on-data-risks.html))
-- Alert: Exposed JDWP Interfaces Lead to Crypto Mining, Hpingbot Targets SSH for DDoS ([22 hours ago](https://thehackernews.com/2025/07/alert-exposed-jdwp-interfaces-lead-to.html))
+- Alert: Exposed JDWP Interfaces Lead to Crypto Mining, Hpingbot Targets SSH for DDoS ([23 hours ago](https://thehackernews.com/2025/07/alert-exposed-jdwp-interfaces-lead-to.html))
 - Google's AI video maker Veo 3 is now available via $20 Gemini ([1 days ago](https://www.bleepingcomputer.com/news/artificial-intelligence/googles-ai-video-maker-veo-3-is-now-available-via-20-gemini/))
 - ChatGPT Deep Research tests new connectors for more context ([1 days ago](https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-deep-research-tests-new-connectors-for-more-context/))
 - Ousted US copyright chief argues Trump did not have power to remove her ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2025/07/04/copyright_office_trump_filing/))
@@ -147,7 +147,7 @@ description: SecOps News
 - Detaining Hackers Before the Crime? Tamil Nadu’s Supreme Court Approves Preventive Custody for Cyber Offenders ([9 days ago](https://databreaches.net/2025/06/26/detaining-hackers-before-the-crime-tamil-nadus-supreme-court-approves-preventive-custody-for-cyber-offenders/))
 - Potential Cyberattack Scrambles Columbia University Computer Systems ([9 days ago](https://databreaches.net/2025/06/26/potential-cyberattack-scrambles-columbia-university-computer-systems/))
 - 222,000 customer records allegedly from Manhattan Parking Group leaked ([9 days ago](https://databreaches.net/2025/06/26/222000-customer-records-allegedly-from-manhattan-parking-group-leaked/))
-- Remote DoS in httpx 1.7.0 – Out-of-Bounds Read via Malformed <title -  Tag ([9 days ago](https://seclists.org/fulldisclosure/2025/Jun/26))
+- Remote DoS in httpx 1.7.0 – Out-of-Bounds Read via Malformed <title -  Tag ([10 days ago](https://seclists.org/fulldisclosure/2025/Jun/26))
 - Smashing Security podcast #423: Operation Endgame, deepfakes, and dead slugs ([10 days ago](https://grahamcluley.com/smashing-security-podcast-423/))
 - Hackers breach Norwegian dam ([10 days ago](https://grahamcluley.com/hackers-breach-norwegian-dam/))
 - Robinsons Malls - 195,597 breached accounts ([10 days ago](https://haveibeenpwned.com/Breach/RobinsonsMalls))
