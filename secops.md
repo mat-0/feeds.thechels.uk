@@ -8,8 +8,8 @@ description: SecOps News
 [Get this as an RSS feed](/secops.rss)
 
 <!-- news_marker starts -->
-- Stalkerware firm gets scooped by SQL-slinging security snoop ([2 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/07/06/infosec_roundup/))
-- Ingram Micro confirms ransomware behind multi-day outage ([9 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/07/06/ingram_micro_confirms_ransomware_behind/))
+- Stalkerware firm gets scooped by SQL-slinging security snoop ([3 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/07/06/infosec_roundup/))
+- Ingram Micro confirms ransomware behind multi-day outage ([10 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/07/06/ingram_micro_confirms_ransomware_behind/))
 - Ingram Micro outage caused by SafePay ransomware attack ([1 days ago](https://www.bleepingcomputer.com/news/security/ingram-micro-outage-caused-by-safepay-ransomware-attack/))
 - Massive spike in use of .es domains for phishing abuse ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2025/07/05/spain_domains_phishing/))
 - Taiwan NSB Alerts Public on Data Risks from TikTok, Weibo, and RedNote Over China Ties ([1 days ago](https://thehackernews.com/2025/07/taiwan-nsb-alerts-public-on-data-risks.html))
@@ -35,7 +35,7 @@ description: SecOps News
 - EU businesses want a pause on AI regulations so they can cope with unregulated Big Tech players ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2025/07/04/eu_businesses_push_for_freedom/))
 - Microsoft leaves Pakistan but promises customers won't notice the change ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2025/07/03/microsoft_quits_pakistan/))
 - Leaks hint at Operator-like tool in ChatGPT ahead of GPT-5 launch ([2 days ago](https://www.bleepingcomputer.com/news/artificial-intelligence/leaks-hint-at-operator-like-tool-in-chatgpt-ahead-of-gpt-5-launch/))
-- Catwatchful - 61,641 breached accounts ([2 days ago](https://haveibeenpwned.com/Breach/Catwatchful))
+- Catwatchful - 61,641 breached accounts ([3 days ago](https://haveibeenpwned.com/Breach/Catwatchful))
 - AI models just don't understand what they're talking about ([3 days ago](https://go.theregister.com/feed/www.theregister.com/2025/07/03/ai_models_potemkin_understanding/))
 - xAI prepares Grok 4 Code as it plans to take on Claude and Gemini ([3 days ago](https://www.bleepingcomputer.com/news/artificial-intelligence/xai-prepares-grok-4-code-as-it-plans-to-take-on-claude-and-gemini/))
 - Police dismantles investment fraud ring stealing €10 million ([3 days ago](https://www.bleepingcomputer.com/news/legal/police-dismantles-investment-fraud-ring-stealing-10-million/))
@@ -67,7 +67,7 @@ description: SecOps News
 - Critical Cisco Vulnerability in Unified CM Grants Root Access via Static Credentials ([3 days ago](https://thehackernews.com/2025/07/critical-cisco-vulnerability-in-unified.html))
 - Alibaba Cloud reveals DB cluster manager it says can beat rival hyperscalers ([3 days ago](https://go.theregister.com/feed/www.theregister.com/2025/07/03/alibaba_cloud_eigen_plus_cluster_manager/))
 - Welcoming Truyu to Have I Been Pwned's Partner Program ([3 days ago](https://www.troyhunt.com/welcoming-truyu-to-have-i-been-pwneds-partner-program/))
-- Smashing Security podcast #424: Surveillance, spyware, and self-driving snafus ([3 days ago](https://grahamcluley.com/smashing-security-podcast-424/))
+- Smashing Security podcast #424: Surveillance, spyware, and self-driving snafus ([4 days ago](https://grahamcluley.com/smashing-security-podcast-424/))
 - Cisco scores a perfect 10 - sadly for a critical flaw in its comms platform ([4 days ago](https://go.theregister.com/feed/www.theregister.com/2025/07/02/cisco_patch_cvss/))
 - CISA warns the Signal clone used by natsec staffers is being attacked, so patch now ([4 days ago](https://go.theregister.com/feed/www.theregister.com/2025/07/02/cisa_telemessage_patch/))
 - Call center staffers explain to researchers how their AI assistants aren't very helpful ([4 days ago](https://go.theregister.com/feed/www.theregister.com/2025/07/02/call_center_ai_assistants/))
@@ -147,7 +147,7 @@ description: SecOps News
 - Potential Cyberattack Scrambles Columbia University Computer Systems ([10 days ago](https://databreaches.net/2025/06/26/potential-cyberattack-scrambles-columbia-university-computer-systems/))
 - 222,000 customer records allegedly from Manhattan Parking Group leaked ([10 days ago](https://databreaches.net/2025/06/26/222000-customer-records-allegedly-from-manhattan-parking-group-leaked/))
 - Remote DoS in httpx 1.7.0 – Out-of-Bounds Read via Malformed <title -  Tag ([10 days ago](https://seclists.org/fulldisclosure/2025/Jun/26))
-- Smashing Security podcast #423: Operation Endgame, deepfakes, and dead slugs ([10 days ago](https://grahamcluley.com/smashing-security-podcast-423/))
+- Smashing Security podcast #423: Operation Endgame, deepfakes, and dead slugs ([11 days ago](https://grahamcluley.com/smashing-security-podcast-423/))
 - Hackers breach Norwegian dam ([11 days ago](https://grahamcluley.com/hackers-breach-norwegian-dam/))
 - Robinsons Malls - 195,597 breached accounts ([11 days ago](https://haveibeenpwned.com/Breach/RobinsonsMalls))
 - Apple Wallet just went full Bono (but with Brad Pitt this time) ([11 days ago](https://grahamcluley.com/apple-wallet-just-went-full-bono-but-with-brad-pitt-this-time/))
@@ -199,6 +199,5 @@ description: SecOps News
 - Detecting PureLogs traffic with CapLoader ([27 days ago](https://www.netresec.com/?page=Blog&month=2025-06&post=Detecting-PureLogs-traffic-with-CapLoader))
 - Weekly Update 455 ([27 days ago](https://www.troyhunt.com/weekly-update-455/))
 - Disk Union - 690,667 breached accounts ([29 days ago](https://haveibeenpwned.com/Breach/DiskUnion))
-- Incident With Copilot ([29 days ago](https://www.githubstatus.com/incidents/5g8smlrj5ynp))
 
 <!-- news_marker ends -->
