@@ -19,7 +19,7 @@ description: Insurance Updates
 - Insurance 'middle of the pack' in latest S&P data ([1 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/insurance-middle-of-the-pack-in-latest-sandp-data-541505.aspx))
 - Continental Re appoints Grace Wanja as Head of Underwriting, Nairobi ([1 days ago](https://www.reinsurancene.ws/continental-re-appoints-grace-wanja-as-head-of-underwriting-nairobi/))
 - Collaboration is Key: How to Make Threat Intelligence Work for Your Organisation ([1 days ago](https://insurance-edge.net/2025/07/04/collaboration-is-key-how-to-make-threat-intelligence-work-for-your-organisation/))
-- Advanced analytics key to managing wildfire risk: Lockton Re & Green Shield ([1 days ago](https://www.reinsurancene.ws/advanced-analytics-key-to-managing-wildfire-risk-lockton-re-green-shield/))
+- Advanced analytics key to managing wildfire risk: Lockton Re & Green Shield ([2 days ago](https://www.reinsurancene.ws/advanced-analytics-key-to-managing-wildfire-risk-lockton-re-green-shield/))
 - Hybrid fronts tipped to become ‘prevailing’ insurance model ([2 days ago](https://www.postonline.co.uk/news/7958080/hybrid-fronts-tipped-to-become-%E2%80%98prevailing%E2%80%99-insurance-model))
 - The Tech Exists to Issues Alerts & Track People Who Fall Off Cruise Ships ([2 days ago](https://insurance-edge.net/2025/07/04/the-tech-exists-to-issues-alerts-track-people-who-fall-off-cruise-ships/))
 - UK insurance market unchanged and buyer-friendly in 2025: Aon ([2 days ago](https://www.reinsurancene.ws/uk-insurance-market-unchanged-and-buyer-friendly-in-2025-aon/))

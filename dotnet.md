@@ -8,7 +8,8 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Avoid the Wrong Job: The Ultimate .NET Interview Question Playbook ([5 hours ago](https://dotnettips.wordpress.com/2025/07/06/avoid-the-wrong-job-the-ultimate-net-interview-question-playbook/))
+- F# Weekly #27, 2025 - Breaking changes: Yay or Nay? ([20 minutes ago](https://dotnetkicks.com/r/724267?url=https://sergeytihon.com/2025/07/05/f-weekly-27-2025-breaking-changes-yay-or-nay/))
+- Avoid the Wrong Job: The Ultimate .NET Interview Question Playbook ([6 hours ago](https://dotnettips.wordpress.com/2025/07/06/avoid-the-wrong-job-the-ultimate-net-interview-question-playbook/))
 - Local AI + .NET = AltText Magic in One C# Script - .NET Blog ([3 days ago](https://dotnetkicks.com/r/724078?url=https://devblogs.microsoft.com/dotnet/alttext-generator-csharp-local-models/))
 - Local AI + .NET = AltText Magic in One C# Script ([3 days ago](https://devblogs.microsoft.com/dotnet/alttext-generator-csharp-local-models/))
 - AutoMapper and MediatR Commercial Editions Launch Today ([3 days ago](https://dotnetkicks.com/r/724071?url=https://www.jimmybogard.com/automapper-and-mediatr-commercial-editions-launch-today/))
@@ -44,7 +45,6 @@ description: DotNet Updates
 - Richie Bonilla and Forage AI Email ([16 days ago](https://dotnetkicks.com/r/723207?url=https://jesseliberty.com/2025/06/19/richie-bonilla-and-forage-ai-email/))
 - Announcing Microsoft Desired State Configuration v3.1.0 - PowerShell Team ([17 days ago](https://dotnetkicks.com/r/723087?url=https://devblogs.microsoft.com/powershell/announcing-dsc-v3-1-0/))
 - Multimodal Vision Intelligence with .NET MAUI - .NET Blog ([18 days ago](https://dotnetkicks.com/r/723086?url=https://devblogs.microsoft.com/dotnet/multimodal-vision-intelligence-with-dotnet-maui/))
-- From code to community: The collective effort behind SQL Server 2025 - Microsoft SQL Server Blog ([18 days ago](https://dotnetkicks.com/r/723085?url=https://www.microsoft.com/en-us/sql-server/blog/2025/06/16/from-code-to-community-the-collective-effort-behind-sql-server-2025/))
 - Multimodal Vision Intelligence with .NET MAUI ([18 days ago](https://devblogs.microsoft.com/dotnet/multimodal-vision-intelligence-with-dotnet-maui/))
 - Working with stacked branches in git (Part 1) ([19 days ago](https://andrewlock.net/working-with-stacked-branches-in-git-part-1/))
 - Rider 2025.2 EAP 5: Reimagined Monitoring Tool Window and New OpenTelemetry Plugin ([19 days ago](https://blog.jetbrains.com/dotnet/2025/06/16/rider-eap-5-new-monitoring-tool-opentelemetry-plugin/))
