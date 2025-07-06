@@ -8,7 +8,7 @@ description: SecOps News
 [Get this as an RSS feed](/secops.rss)
 
 <!-- news_marker starts -->
-- Ingram Micro outage caused by SafePay ransomware attack ([16 hours ago](https://www.bleepingcomputer.com/news/security/ingram-micro-outage-caused-by-safepay-ransomware-attack/))
+- Ingram Micro outage caused by SafePay ransomware attack ([17 hours ago](https://www.bleepingcomputer.com/news/security/ingram-micro-outage-caused-by-safepay-ransomware-attack/))
 - Massive spike in use of .es domains for phishing abuse ([20 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/07/05/spain_domains_phishing/))
 - Taiwan NSB Alerts Public on Data Risks from TikTok, Weibo, and RedNote Over China Ties ([1 days ago](https://thehackernews.com/2025/07/taiwan-nsb-alerts-public-on-data-risks.html))
 - Alert: Exposed JDWP Interfaces Lead to Crypto Mining, Hpingbot Targets SSH for DDoS ([1 days ago](https://thehackernews.com/2025/07/alert-exposed-jdwp-interfaces-lead-to.html))
@@ -91,8 +91,8 @@ description: SecOps News
 - Disruption with some GitHub services ([3 days ago](https://www.githubstatus.com/incidents/x10xvvl5kk4q))
 - Forminator WordPress Plugin Vulnerability Exposes 400,000 Websites to Takeover ([3 days ago](https://www.securityweek.com/forminator-wordpress-plugin-vulnerability-exposes-400000-websites-to-takeover/))
 - Cl0p cybercrime gang's data exfiltration tool found vulnerable to RCE attacks ([3 days ago](https://go.theregister.com/feed/www.theregister.com/2025/07/02/cl0p_rce_vulnerability/))
-- U.S. Sanctions Russian Bulletproof Hosting Provider for Supporting Cybercriminals Behind Ransomware ([3 days ago](https://thehackernews.com/2025/07/us-sanctions-russian-bulletproof.html))
-- CISA Warns of Two Exploited TeleMessage Vulnerabilities ([3 days ago](https://www.securityweek.com/cisa-warns-of-two-exploited-telemessage-vulnerabilities/))
+- U.S. Sanctions Russian Bulletproof Hosting Provider for Supporting Cybercriminals Behind Ransomware ([4 days ago](https://thehackernews.com/2025/07/us-sanctions-russian-bulletproof.html))
+- CISA Warns of Two Exploited TeleMessage Vulnerabilities ([4 days ago](https://www.securityweek.com/cisa-warns-of-two-exploited-telemessage-vulnerabilities/))
 - UK eyes new laws as cable sabotage blurs line between war and peace ([4 days ago](https://go.theregister.com/feed/www.theregister.com/2025/07/02/uk_cable_sabotage_law/))
 - Weekly Update 458 ([4 days ago](https://www.troyhunt.com/weekly-update-458/))
 - Vercel's v0 AI Tool Weaponized by Cybercriminals to Rapidly Create Fake Login Pages at Scale ([4 days ago](https://thehackernews.com/2025/07/vercels-v0-ai-tool-weaponized-by.html))
@@ -113,7 +113,7 @@ description: SecOps News
 - A New Maturity Model for Browser Security: Closing the Last-Mile Risk ([4 days ago](https://thehackernews.com/2025/07/a-new-maturity-model-for-browser.html))
 - How to Write a GDPR Data Protection Policy (Updated for 2025) ([4 days ago](https://www.itgovernance.co.uk/blog/how-to-write-a-gdpr-data-protection-policy))
 - Terrible tales of opsec oversights: How cybercrooks get themselves caught ([4 days ago](https://go.theregister.com/feed/www.theregister.com/2025/07/01/terrible_tales_of_opsec_oversights/))
-- Chrome Zero-Day CVE-2025-6554 Under Active Attack — Google Issues Security Update ([4 days ago](https://thehackernews.com/2025/07/google-patches-critical-zero-day-flaw.html))
+- Chrome Zero-Day CVE-2025-6554 Under Active Attack — Google Issues Security Update ([5 days ago](https://thehackernews.com/2025/07/google-patches-critical-zero-day-flaw.html))
 - U.S. Arrests Facilitator in North Korean IT Worker Scheme; Seizes 29 Domains and Raids 21 Laptop Farms ([5 days ago](https://thehackernews.com/2025/07/us-arrests-key-facilitator-in-north.html))
 - iOS Activation Flaw Enables Pre-User Device Compromise and	Identity Exposure (iOS 18.5) ([5 days ago](https://seclists.org/fulldisclosure/2025/Jun/27))
 - Proton bashes Apple and joins antitrust suit that seeks to throw the App Store wide open ([5 days ago](https://go.theregister.com/feed/www.theregister.com/2025/07/01/proton_lawsuit_apple/))
