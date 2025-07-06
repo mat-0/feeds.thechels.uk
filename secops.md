@@ -8,9 +8,9 @@ description: SecOps News
 [Get this as an RSS feed](/secops.rss)
 
 <!-- news_marker starts -->
-- Ingram Micro outage caused by SafePay ransomware attack ([13 hours ago](https://www.bleepingcomputer.com/news/security/ingram-micro-outage-caused-by-safepay-ransomware-attack/))
+- Ingram Micro outage caused by SafePay ransomware attack ([14 hours ago](https://www.bleepingcomputer.com/news/security/ingram-micro-outage-caused-by-safepay-ransomware-attack/))
 - Massive spike in use of .es domains for phishing abuse ([17 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/07/05/spain_domains_phishing/))
-- Taiwan NSB Alerts Public on Data Risks from TikTok, Weibo, and RedNote Over China Ties ([23 hours ago](https://thehackernews.com/2025/07/taiwan-nsb-alerts-public-on-data-risks.html))
+- Taiwan NSB Alerts Public on Data Risks from TikTok, Weibo, and RedNote Over China Ties ([1 days ago](https://thehackernews.com/2025/07/taiwan-nsb-alerts-public-on-data-risks.html))
 - Alert: Exposed JDWP Interfaces Lead to Crypto Mining, Hpingbot Targets SSH for DDoS ([1 days ago](https://thehackernews.com/2025/07/alert-exposed-jdwp-interfaces-lead-to.html))
 - Google's AI video maker Veo 3 is now available via $20 Gemini ([1 days ago](https://www.bleepingcomputer.com/news/artificial-intelligence/googles-ai-video-maker-veo-3-is-now-available-via-20-gemini/))
 - ChatGPT Deep Research tests new connectors for more context ([1 days ago](https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-deep-research-tests-new-connectors-for-more-context/))
@@ -95,7 +95,7 @@ description: SecOps News
 - CISA Warns of Two Exploited TeleMessage Vulnerabilities ([3 days ago](https://www.securityweek.com/cisa-warns-of-two-exploited-telemessage-vulnerabilities/))
 - UK eyes new laws as cable sabotage blurs line between war and peace ([3 days ago](https://go.theregister.com/feed/www.theregister.com/2025/07/02/uk_cable_sabotage_law/))
 - Weekly Update 458 ([3 days ago](https://www.troyhunt.com/weekly-update-458/))
-- Vercel's v0 AI Tool Weaponized by Cybercriminals to Rapidly Create Fake Login Pages at Scale ([3 days ago](https://thehackernews.com/2025/07/vercels-v0-ai-tool-weaponized-by.html))
+- Vercel's v0 AI Tool Weaponized by Cybercriminals to Rapidly Create Fake Login Pages at Scale ([4 days ago](https://thehackernews.com/2025/07/vercels-v0-ai-tool-weaponized-by.html))
 - Australian airline Qantas reveals data theft impacting six million customers ([4 days ago](https://go.theregister.com/feed/www.theregister.com/2025/07/02/qantas_data_theft/))
 - Figma files for an (A)IPO with prospectus that mentions AI 150+ times ([4 days ago](https://go.theregister.com/feed/www.theregister.com/2025/07/01/figma_files_to_go_public/))
 - With OpenAI, there are no allegiances - just compute at all costs ([4 days ago](https://go.theregister.com/feed/www.theregister.com/2025/07/01/openai_google_tpu/))
