@@ -8,7 +8,7 @@ description: SecOps News
 [Get this as an RSS feed](/secops.rss)
 
 <!-- news_marker starts -->
-- Ingram Micro outage caused by SafePay ransomware attack ([14 hours ago](https://www.bleepingcomputer.com/news/security/ingram-micro-outage-caused-by-safepay-ransomware-attack/))
+- Ingram Micro outage caused by SafePay ransomware attack ([15 hours ago](https://www.bleepingcomputer.com/news/security/ingram-micro-outage-caused-by-safepay-ransomware-attack/))
 - Massive spike in use of .es domains for phishing abuse ([18 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/07/05/spain_domains_phishing/))
 - Taiwan NSB Alerts Public on Data Risks from TikTok, Weibo, and RedNote Over China Ties ([1 days ago](https://thehackernews.com/2025/07/taiwan-nsb-alerts-public-on-data-risks.html))
 - Alert: Exposed JDWP Interfaces Lead to Crypto Mining, Hpingbot Targets SSH for DDoS ([1 days ago](https://thehackernews.com/2025/07/alert-exposed-jdwp-interfaces-lead-to.html))
@@ -61,7 +61,7 @@ description: SecOps News
 - Wayback gives X11 desktops a fighting chance in a Wayland world ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2025/07/03/wayback_wayland_display_server/))
 - How multi-agent systems revolutionize data work flows ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2025/07/03/multi_agent_systems_google/))
 - Let's Encrypt rolls out free security certs for IP addresses ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2025/07/03/lets_encrypt_rolls_out_free/))
-- Disruption with some GitHub services ([2 days ago](https://www.githubstatus.com/incidents/zltys99f2lgq))
+- Disruption with some GitHub services ([3 days ago](https://www.githubstatus.com/incidents/zltys99f2lgq))
 - ChatGPT creates phisher’s paradise by recommending the wrong URLs for major companies ([3 days ago](https://go.theregister.com/feed/www.theregister.com/2025/07/03/ai_phishing_websites/))
 - Critical Cisco Vulnerability in Unified CM Grants Root Access via Static Credentials ([3 days ago](https://thehackernews.com/2025/07/critical-cisco-vulnerability-in-unified.html))
 - Alibaba Cloud reveals DB cluster manager it says can beat rival hyperscalers ([3 days ago](https://go.theregister.com/feed/www.theregister.com/2025/07/03/alibaba_cloud_eigen_plus_cluster_manager/))
@@ -153,7 +153,7 @@ description: SecOps News
 - Robinsons Malls - 195,597 breached accounts ([10 days ago](https://haveibeenpwned.com/Breach/RobinsonsMalls))
 - Apple Wallet just went full Bono (but with Brad Pitt this time) ([10 days ago](https://grahamcluley.com/apple-wallet-just-went-full-bono-but-with-brad-pitt-this-time/))
 - Cybercrime is surging across Africa ([10 days ago](https://www.bitdefender.com/en-us/blog/hotforsecurity/cybercrime-surging-across-africa))
-- Have Fun Teaching - 27,126 breached accounts ([10 days ago](https://haveibeenpwned.com/Breach/HaveFunTeaching))
+- Have Fun Teaching - 27,126 breached accounts ([11 days ago](https://haveibeenpwned.com/Breach/HaveFunTeaching))
 - How to Write a GDPR Data Privacy Notice – Updated Guide and Template for 2025 ([11 days ago](https://www.itgovernance.co.uk/blog/how-to-write-a-gdpr-privacy-notice-with-documentation-template-example))
 - The AI Fix #56: ChatGPT traps man in a cult of one, and AI is actually stupid ([11 days ago](https://grahamcluley.com/the-ai-fix-56/))
 - Aflac, one of the USA’s largest insurers, is the latest to fall “under siege” to hackers ([11 days ago](https://grahamcluley.com/aflac-one-of-the-usas-largest-insurers-is-the-latest-to-fall-under-siege-to-hackers/))
@@ -199,7 +199,7 @@ description: SecOps News
 - Full Disclosure: CVE-2025-31200 & CVE-2025-31201 – 0-Click iMessage Chain → Secure Enclave Key Theft, Wormable RCE, Crypto Theft ([26 days ago](https://seclists.org/fulldisclosure/2025/Jun/14))
 - Detecting PureLogs traffic with CapLoader ([26 days ago](https://www.netresec.com/?page=Blog&month=2025-06&post=Detecting-PureLogs-traffic-with-CapLoader))
 - Weekly Update 455 ([26 days ago](https://www.troyhunt.com/weekly-update-455/))
-- Disk Union - 690,667 breached accounts ([28 days ago](https://haveibeenpwned.com/Breach/DiskUnion))
+- Disk Union - 690,667 breached accounts ([29 days ago](https://haveibeenpwned.com/Breach/DiskUnion))
 - Incident With Copilot ([29 days ago](https://www.githubstatus.com/incidents/5g8smlrj5ynp))
 - Incident with Copilot ([29 days ago](https://www.githubstatus.com/incidents/wqrqgd9gyvz5))
 
