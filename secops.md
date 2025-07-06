@@ -9,7 +9,7 @@ description: SecOps News
 
 <!-- news_marker starts -->
 - Ingram Micro outage caused by SafePay ransomware attack ([15 hours ago](https://www.bleepingcomputer.com/news/security/ingram-micro-outage-caused-by-safepay-ransomware-attack/))
-- Massive spike in use of .es domains for phishing abuse ([18 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/07/05/spain_domains_phishing/))
+- Massive spike in use of .es domains for phishing abuse ([19 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/07/05/spain_domains_phishing/))
 - Taiwan NSB Alerts Public on Data Risks from TikTok, Weibo, and RedNote Over China Ties ([1 days ago](https://thehackernews.com/2025/07/taiwan-nsb-alerts-public-on-data-risks.html))
 - Alert: Exposed JDWP Interfaces Lead to Crypto Mining, Hpingbot Targets SSH for DDoS ([1 days ago](https://thehackernews.com/2025/07/alert-exposed-jdwp-interfaces-lead-to.html))
 - Google's AI video maker Veo 3 is now available via $20 Gemini ([1 days ago](https://www.bleepingcomputer.com/news/artificial-intelligence/googles-ai-video-maker-veo-3-is-now-available-via-20-gemini/))
@@ -30,7 +30,7 @@ description: SecOps News
 - Critical Sudo Vulnerabilities Let Local Users Gain Root Access on Linux, Impacting Major Distros ([1 days ago](https://thehackernews.com/2025/07/critical-sudo-vulnerabilities-let-local.html))
 - Former and current Microsofties react to the latest round of layoffs ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2025/07/04/former_and_current_microsofties_react_layoffs/))
 - Global Data Breaches and Cyber Attacks in June 2025: Over 16 billion records exposed ([1 days ago](https://www.itgovernance.co.uk/blog/global-data-breaches-and-cyber-attacks-in-june-2025-over-16-billion-records-exposed))
-- Google Ordered to Pay $314M for Misusing Android Users' Cellular Data Without Permission ([1 days ago](https://thehackernews.com/2025/07/google-ordered-to-pay-314m-for-misusing.html))
+- Google Ordered to Pay $314M for Misusing Android Users' Cellular Data Without Permission ([2 days ago](https://thehackernews.com/2025/07/google-ordered-to-pay-314m-for-misusing.html))
 - EU businesses want a pause on AI regulations so they can cope with unregulated Big Tech players ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2025/07/04/eu_businesses_push_for_freedom/))
 - Microsoft leaves Pakistan but promises customers won't notice the change ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2025/07/03/microsoft_quits_pakistan/))
 - Leaks hint at Operator-like tool in ChatGPT ahead of GPT-5 launch ([2 days ago](https://www.bleepingcomputer.com/news/artificial-intelligence/leaks-hint-at-operator-like-tool-in-chatgpt-ahead-of-gpt-5-launch/))
@@ -60,7 +60,7 @@ description: SecOps News
 - Chinese Hackers Exploit Ivanti CSA Zero-Days in Attacks on French Government, Telecoms ([2 days ago](https://thehackernews.com/2025/07/chinese-hackers-exploit-ivanti-csa-zero.html))
 - Wayback gives X11 desktops a fighting chance in a Wayland world ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2025/07/03/wayback_wayland_display_server/))
 - How multi-agent systems revolutionize data work flows ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2025/07/03/multi_agent_systems_google/))
-- Let's Encrypt rolls out free security certs for IP addresses ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2025/07/03/lets_encrypt_rolls_out_free/))
+- Let's Encrypt rolls out free security certs for IP addresses ([3 days ago](https://go.theregister.com/feed/www.theregister.com/2025/07/03/lets_encrypt_rolls_out_free/))
 - Disruption with some GitHub services ([3 days ago](https://www.githubstatus.com/incidents/zltys99f2lgq))
 - ChatGPT creates phisher’s paradise by recommending the wrong URLs for major companies ([3 days ago](https://go.theregister.com/feed/www.theregister.com/2025/07/03/ai_phishing_websites/))
 - Critical Cisco Vulnerability in Unified CM Grants Root Access via Static Credentials ([3 days ago](https://thehackernews.com/2025/07/critical-cisco-vulnerability-in-unified.html))
