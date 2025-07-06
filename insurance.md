@@ -8,8 +8,8 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Keys to using technology for managing weather risks ([1 hours ago](https://www.dig-in.com/news/using-technology-to-manage-weather-risks))
-- Insurers paid $1B in lightning claims: Triple-I ([1 hours ago](https://www.dig-in.com/news/insurers-paid-1b-in-lightning-claims-triple-i))
+- Keys to using technology for managing weather risks ([2 hours ago](https://www.dig-in.com/news/using-technology-to-manage-weather-risks))
+- Insurers paid $1B in lightning claims: Triple-I ([2 hours ago](https://www.dig-in.com/news/insurers-paid-1b-in-lightning-claims-triple-i))
 - MGAs Poised for Growth ([1 days ago](https://insurance-edge.net/2025/07/05/mgas-poised-for-growth/))
 - Mosaic Welcomes Four Interns to Their Regional Offices ([2 days ago](https://insurance-edge.net/2025/07/04/mosaic-welcomes-four-interns-to-their-regional-offices/))
 - Reinsurer returns to remain robust with steady ROE through 2027: Guy Carpenter ([2 days ago](https://www.reinsurancene.ws/reinsurer-returns-to-remain-robust-with-steady-roe-through-2027-guy-carpenter/))

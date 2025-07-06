@@ -36,7 +36,7 @@ description: SecOps News
 - Microsoft leaves Pakistan but promises customers won't notice the change ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2025/07/03/microsoft_quits_pakistan/))
 - Leaks hint at Operator-like tool in ChatGPT ahead of GPT-5 launch ([2 days ago](https://www.bleepingcomputer.com/news/artificial-intelligence/leaks-hint-at-operator-like-tool-in-chatgpt-ahead-of-gpt-5-launch/))
 - Catwatchful - 61,641 breached accounts ([2 days ago](https://haveibeenpwned.com/Breach/Catwatchful))
-- AI models just don't understand what they're talking about ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2025/07/03/ai_models_potemkin_understanding/))
+- AI models just don't understand what they're talking about ([3 days ago](https://go.theregister.com/feed/www.theregister.com/2025/07/03/ai_models_potemkin_understanding/))
 - xAI prepares Grok 4 Code as it plans to take on Claude and Gemini ([3 days ago](https://www.bleepingcomputer.com/news/artificial-intelligence/xai-prepares-grok-4-code-as-it-plans-to-take-on-claude-and-gemini/))
 - Police dismantles investment fraud ring stealing €10 million ([3 days ago](https://www.bleepingcomputer.com/news/legal/police-dismantles-investment-fraud-ring-stealing-10-million/))
 - Grafana releases critical security update for Image Renderer plugin ([3 days ago](https://www.bleepingcomputer.com/news/security/grafana-releases-critical-security-update-for-image-renderer-plugin/))
