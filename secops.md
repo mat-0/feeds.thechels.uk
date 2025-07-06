@@ -9,9 +9,9 @@ description: SecOps News
 
 <!-- news_marker starts -->
 - Ingram Micro outage caused by SafePay ransomware attack ([13 hours ago](https://www.bleepingcomputer.com/news/security/ingram-micro-outage-caused-by-safepay-ransomware-attack/))
-- Massive spike in use of .es domains for phishing abuse ([16 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/07/05/spain_domains_phishing/))
+- Massive spike in use of .es domains for phishing abuse ([17 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/07/05/spain_domains_phishing/))
 - Taiwan NSB Alerts Public on Data Risks from TikTok, Weibo, and RedNote Over China Ties ([23 hours ago](https://thehackernews.com/2025/07/taiwan-nsb-alerts-public-on-data-risks.html))
-- Alert: Exposed JDWP Interfaces Lead to Crypto Mining, Hpingbot Targets SSH for DDoS ([23 hours ago](https://thehackernews.com/2025/07/alert-exposed-jdwp-interfaces-lead-to.html))
+- Alert: Exposed JDWP Interfaces Lead to Crypto Mining, Hpingbot Targets SSH for DDoS ([1 days ago](https://thehackernews.com/2025/07/alert-exposed-jdwp-interfaces-lead-to.html))
 - Google's AI video maker Veo 3 is now available via $20 Gemini ([1 days ago](https://www.bleepingcomputer.com/news/artificial-intelligence/googles-ai-video-maker-veo-3-is-now-available-via-20-gemini/))
 - ChatGPT Deep Research tests new connectors for more context ([1 days ago](https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-deep-research-tests-new-connectors-for-more-context/))
 - Ousted US copyright chief argues Trump did not have power to remove her ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2025/07/04/copyright_office_trump_filing/))
