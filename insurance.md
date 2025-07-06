@@ -14,7 +14,7 @@ description: Insurance Updates
 - The next challenge is to make parametric solutions a mainstream climate finance tool: NDF ([1 days ago](https://www.reinsurancene.ws/the-next-challenge-is-to-make-parametric-solutions-a-mainstream-climate-finance-tool-ndf/))
 - FSCS paid out £134 million last year to clients of failed insurers ([1 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/fscs-paid-out-134-million-last-year-to-clients-of-failed-insurers-541517.aspx))
 - Atradius announces various Management Board changes ([1 days ago](https://www.reinsurancene.ws/atradius-announces-various-management-board-changes/))
-- US insurers tackle casualty challenges through underwriting & claims improvements: Gallagher Re ([1 days ago](https://www.reinsurancene.ws/us-insurers-tackle-casualty-challenges-through-underwriting-claims-improvements-gallagher-re/))
+- US insurers tackle casualty challenges through underwriting & claims improvements: Gallagher Re ([2 days ago](https://www.reinsurancene.ws/us-insurers-tackle-casualty-challenges-through-underwriting-claims-improvements-gallagher-re/))
 - War exclusions to largely limit impact of recent Middle East turmoil: AM Best ([2 days ago](https://www.reinsurancene.ws/war-exclusions-to-largely-limit-impact-of-recent-middle-east-turmoil-am-best/))
 - Insurance 'middle of the pack' in latest S&P data ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/insurance-middle-of-the-pack-in-latest-sandp-data-541505.aspx))
 - Continental Re appoints Grace Wanja as Head of Underwriting, Nairobi ([2 days ago](https://www.reinsurancene.ws/continental-re-appoints-grace-wanja-as-head-of-underwriting-nairobi/))

@@ -8,8 +8,8 @@ description: SecOps News
 [Get this as an RSS feed](/secops.rss)
 
 <!-- news_marker starts -->
-- Ingram Micro confirms ransomware behind multi-day outage ([37 minutes ago](https://go.theregister.com/feed/www.theregister.com/2025/07/06/ingram_micro_confirms_ransomware_behind/))
-- Ingram Micro outage caused by SafePay ransomware attack ([21 hours ago](https://www.bleepingcomputer.com/news/security/ingram-micro-outage-caused-by-safepay-ransomware-attack/))
+- Ingram Micro confirms ransomware behind multi-day outage ([1 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/07/06/ingram_micro_confirms_ransomware_behind/))
+- Ingram Micro outage caused by SafePay ransomware attack ([22 hours ago](https://www.bleepingcomputer.com/news/security/ingram-micro-outage-caused-by-safepay-ransomware-attack/))
 - Massive spike in use of .es domains for phishing abuse ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2025/07/05/spain_domains_phishing/))
 - Taiwan NSB Alerts Public on Data Risks from TikTok, Weibo, and RedNote Over China Ties ([1 days ago](https://thehackernews.com/2025/07/taiwan-nsb-alerts-public-on-data-risks.html))
 - Alert: Exposed JDWP Interfaces Lead to Crypto Mining, Hpingbot Targets SSH for DDoS ([1 days ago](https://thehackernews.com/2025/07/alert-exposed-jdwp-interfaces-lead-to.html))
@@ -107,9 +107,9 @@ description: SecOps News
 - International Criminal Court swats away 'sophisticated and targeted' cyberattack ([4 days ago](https://go.theregister.com/feed/www.theregister.com/2025/07/01/international_criminal_court_cyberattack/))
 - TA829 and UNK_GreenSec Share Tactics and Infrastructure in Ongoing Malware Campaigns ([4 days ago](https://thehackernews.com/2025/07/ta829-and-unkgreensec-share-tactics-and.html))
 - Fedora 43 won't drop 32-bit app support – or adopt Xlibre ([4 days ago](https://go.theregister.com/feed/www.theregister.com/2025/07/01/fedora_43_i686_32bit/))
-- The AI Fix #57: AI is the best hacker in the USA, and self-learning AI ([4 days ago](https://grahamcluley.com/the-ai-fix-57/))
-- New Flaw in IDEs Like Visual Studio Code Lets Malicious Extensions Bypass Verified Status ([4 days ago](https://thehackernews.com/2025/07/new-flaw-in-ides-like-visual-studio.html))
-- CapLoader 2.0.1 Released ([4 days ago](https://www.netresec.com/?page=Blog&month=2025-07&post=CapLoader-2-0-1-Released))
+- The AI Fix #57: AI is the best hacker in the USA, and self-learning AI ([5 days ago](https://grahamcluley.com/the-ai-fix-57/))
+- New Flaw in IDEs Like Visual Studio Code Lets Malicious Extensions Bypass Verified Status ([5 days ago](https://thehackernews.com/2025/07/new-flaw-in-ides-like-visual-studio.html))
+- CapLoader 2.0.1 Released ([5 days ago](https://www.netresec.com/?page=Blog&month=2025-07&post=CapLoader-2-0-1-Released))
 - 50 customers of French bank hit after insider helped SIM swap scammers ([5 days ago](https://www.bitdefender.com/en-us/blog/hotforsecurity/50-customers-of-french-bank-hit-after-insider-helped-sim-swap-scammers))
 - A New Maturity Model for Browser Security: Closing the Last-Mile Risk ([5 days ago](https://thehackernews.com/2025/07/a-new-maturity-model-for-browser.html))
 - How to Write a GDPR Data Protection Policy (Updated for 2025) ([5 days ago](https://www.itgovernance.co.uk/blog/how-to-write-a-gdpr-data-protection-policy))
