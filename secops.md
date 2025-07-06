@@ -8,12 +8,11 @@ description: SecOps News
 [Get this as an RSS feed](/secops.rss)
 
 <!-- news_marker starts -->
-- Ingram Micro confirms ransomware behind multi-day outage ([3 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/07/06/ingram_micro_confirms_ransomware_behind/))
+- Ingram Micro confirms ransomware behind multi-day outage ([4 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/07/06/ingram_micro_confirms_ransomware_behind/))
 - Ingram Micro outage caused by SafePay ransomware attack ([1 days ago](https://www.bleepingcomputer.com/news/security/ingram-micro-outage-caused-by-safepay-ransomware-attack/))
 - Massive spike in use of .es domains for phishing abuse ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2025/07/05/spain_domains_phishing/))
 - Taiwan NSB Alerts Public on Data Risks from TikTok, Weibo, and RedNote Over China Ties ([1 days ago](https://thehackernews.com/2025/07/taiwan-nsb-alerts-public-on-data-risks.html))
 - Alert: Exposed JDWP Interfaces Lead to Crypto Mining, Hpingbot Targets SSH for DDoS ([1 days ago](https://thehackernews.com/2025/07/alert-exposed-jdwp-interfaces-lead-to.html))
-- Google's AI video maker Veo 3 is now available via $20 Gemini ([1 days ago](https://www.bleepingcomputer.com/news/artificial-intelligence/googles-ai-video-maker-veo-3-is-now-available-via-20-gemini/))
 - ChatGPT Deep Research tests new connectors for more context ([1 days ago](https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-deep-research-tests-new-connectors-for-more-context/))
 - Ousted US copyright chief argues Trump did not have power to remove her ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2025/07/04/copyright_office_trump_filing/))
 - Microsoft finally bids farewell to PowerShell 2.0 ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2025/07/04/microsoft_finally_bids_farewell_to/))
@@ -73,7 +72,7 @@ description: SecOps News
 - Call center staffers explain to researchers how their AI assistants aren't very helpful ([3 days ago](https://go.theregister.com/feed/www.theregister.com/2025/07/02/call_center_ai_assistants/))
 - Trillion with a T: Surpassing 2 Trillion Events Processed!🚀🚀 ([3 days ago](https://scotthelme.ghost.io/trillion-with-a-t-surpassing-2-trillion-events-processed/))
 - 23andMe's new owner says your DNA is safe this time ([3 days ago](https://go.theregister.com/feed/www.theregister.com/2025/07/02/23andme_buyer_writes_to_customers/))
-- North Korean Hackers Target Web3 with Nim Malware and Use ClickFix in BabyShark Campaign ([3 days ago](https://thehackernews.com/2025/07/north-korean-hackers-target-web3-with.html))
+- North Korean Hackers Target Web3 with Nim Malware and Use ClickFix in BabyShark Campaign ([4 days ago](https://thehackernews.com/2025/07/north-korean-hackers-target-web3-with.html))
 - Disruption with some GitHub services ([4 days ago](https://www.githubstatus.com/incidents/txt7rjw95rhx))
 - Microsoft kicks off new fiscal year with more layoffs ([4 days ago](https://go.theregister.com/feed/www.theregister.com/2025/07/02/microsoft_layoffs/))
 - Swiss government warns attackers have stolen sensitive data, after ransomware attack at Radix ([4 days ago](https://www.fortra.com/blog/government-attackers-stolen-sensitive-data-ransomware-attack))
