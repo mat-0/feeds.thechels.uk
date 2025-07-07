@@ -146,7 +146,7 @@ description: SecOps News
 - Detaining Hackers Before the Crime? Tamil Nadu’s Supreme Court Approves Preventive Custody for Cyber Offenders ([10 days ago](https://databreaches.net/2025/06/26/detaining-hackers-before-the-crime-tamil-nadus-supreme-court-approves-preventive-custody-for-cyber-offenders/))
 - Potential Cyberattack Scrambles Columbia University Computer Systems ([10 days ago](https://databreaches.net/2025/06/26/potential-cyberattack-scrambles-columbia-university-computer-systems/))
 - 222,000 customer records allegedly from Manhattan Parking Group leaked ([10 days ago](https://databreaches.net/2025/06/26/222000-customer-records-allegedly-from-manhattan-parking-group-leaked/))
-- Remote DoS in httpx 1.7.0 – Out-of-Bounds Read via Malformed <title -  Tag ([10 days ago](https://seclists.org/fulldisclosure/2025/Jun/26))
+- Remote DoS in httpx 1.7.0 – Out-of-Bounds Read via Malformed <title -  Tag ([11 days ago](https://seclists.org/fulldisclosure/2025/Jun/26))
 - Smashing Security podcast #423: Operation Endgame, deepfakes, and dead slugs ([11 days ago](https://grahamcluley.com/smashing-security-podcast-423/))
 - Hackers breach Norwegian dam ([11 days ago](https://grahamcluley.com/hackers-breach-norwegian-dam/))
 - Robinsons Malls - 195,597 breached accounts ([11 days ago](https://haveibeenpwned.com/Breach/RobinsonsMalls))

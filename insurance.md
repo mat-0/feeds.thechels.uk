@@ -8,6 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
+- Deadly Floods Reinforce Texas’ Challenge as Crisis Epicenter ([14 minutes ago](https://www.insurancejournal.com/news/southcentral/2025/07/07/830367.htm))
 - Wildfire Season Preview: Rest of 2025 Is High-Risk, May Follow LA Wildfires Paradigm ([4 hours ago](https://www.insurancejournal.com/magazines/mag-features/2025/07/07/829909.htm))
 - Public Adjusters Decry Florida Citizens’ New Plan That Keeps Their Names Off Checks ([4 hours ago](https://www.insurancejournal.com/magazines/mag-features/2025/07/07/829908.htm))
 - Racketeering Suit Alleges NY Insurance Fraud Scheme by Lawyers, Medical Providers ([4 hours ago](https://www.insurancejournal.com/magazines/mag-features/2025/07/07/829907.htm))
@@ -30,8 +31,8 @@ description: Insurance Updates
 - AM Best: US P/C Industry Records $1.1B Underwriting Loss for Q1 ([4 hours ago](https://www.insurancejournal.com/magazines/mag-features/2025/07/07/829885.htm))
 - APCIA Warns Michigan Auto Insurance Bill Could Destabilize Market ([4 hours ago](https://www.insurancejournal.com/magazines/mag-features/2025/07/07/829883.htm))
 - Oklahoma Expands Second Pilot Launch of Fortified Grants Program ([4 hours ago](https://www.insurancejournal.com/magazines/mag-features/2025/07/07/829882.htm))
-- Keys to using technology for managing weather risks ([8 hours ago](https://www.dig-in.com/news/using-technology-to-manage-weather-risks))
-- Insurers paid $1B in lightning claims: Triple-I ([8 hours ago](https://www.dig-in.com/news/insurers-paid-1b-in-lightning-claims-triple-i))
+- Keys to using technology for managing weather risks ([9 hours ago](https://www.dig-in.com/news/using-technology-to-manage-weather-risks))
+- Insurers paid $1B in lightning claims: Triple-I ([9 hours ago](https://www.dig-in.com/news/insurers-paid-1b-in-lightning-claims-triple-i))
 - MGAs Poised for Growth ([1 days ago](https://insurance-edge.net/2025/07/05/mgas-poised-for-growth/))
 - Mosaic Welcomes Four Interns to Their Regional Offices ([2 days ago](https://insurance-edge.net/2025/07/04/mosaic-welcomes-four-interns-to-their-regional-offices/))
 - Reinsurer returns to remain robust with steady ROE through 2027: Guy Carpenter ([2 days ago](https://www.reinsurancene.ws/reinsurer-returns-to-remain-robust-with-steady-roe-through-2027-guy-carpenter/))
@@ -66,7 +67,6 @@ description: Insurance Updates
 - ‘Preventable’ National Grid Failures Led to Heathrow Fire: Report ([3 days ago](https://www.insurancejournal.com/news/international/2025/07/03/830295.htm))
 - Solar farms and broker opportunities ([3 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/solar-farms-and-broker-opportunities-541410.aspx))
 - Tangled: When Producers Change Agencies But Not Carriers ([3 days ago](https://www.insurancejournal.com/blogs/agentsync/2025/07/03/830272.htm))
-- People Moves: Ki Appoints Ex-PartnerRe Executive Bonneau as Chair ([3 days ago](https://www.insurancejournal.com/news/international/2025/07/03/830261.htm))
 - California is running out of safe places to build homes ([3 days ago](https://www.dig-in.com/articles/california-is-running-out-of-safe-places-to-build-homes))
 - Zurich Insurance buys insurtech BOXX ([3 days ago](https://www.dig-in.com/articles/zurich-insurance-buys-insurtech-boxx))
 - Zurich Acquires BOXX to Strengthen Global Cyber Protection Capabilities ([3 days ago](https://www.insurtechinsights.com/zurich-acquires-boxx-to-strengthen-global-cyber-protection-capabilities/))
