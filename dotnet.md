@@ -55,7 +55,7 @@ description: DotNet Updates
 - ReSharper and Rider 2025.1.3: Important Updates Released ([25 days ago](https://blog.jetbrains.com/dotnet/2025/06/12/resharper-and-rider-2025-1-3-important-updates-released/))
 - Multimodal Voice Intelligence with .NET MAUI ([26 days ago](https://devblogs.microsoft.com/dotnet/multimodal-voice-intelligence-with-dotnet-maui/))
 - .NET and .NET Framework June 2025 servicing releases updates ([26 days ago](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-june-2025-servicing-updates/))
-- .NET 10 Preview 5 is now available! ([26 days ago](https://devblogs.microsoft.com/dotnet/dotnet-10-preview-5/))
+- .NET 10 Preview 5 is now available! ([27 days ago](https://devblogs.microsoft.com/dotnet/dotnet-10-preview-5/))
 - Converting a Microsoft XNA 3.1 game to MonoGame ([27 days ago](https://andrewlock.net/converting-an-xna-game-to-monogame/))
 - SQL and NoSQL Query language support come to ReSharper! ([27 days ago](https://blog.jetbrains.com/dotnet/2025/06/10/sql-and-nosql-query-langauge-support-come-to-resharper/))
 - dotNetDave Rocks SQL Saturday in Louisiana ([28 days ago](https://dotnettips.wordpress.com/2025/06/09/dotnetdave-rocks-the-sql-saturday-in-louisiana/))
