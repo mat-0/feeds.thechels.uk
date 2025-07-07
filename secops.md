@@ -8,12 +8,12 @@ description: SecOps News
 [Get this as an RSS feed](/secops.rss)
 
 <!-- news_marker starts -->
-- Atlassian migrated 4 million Postgres databases to shrink AWS bill ([3 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/07/07/asia_tech_news_in_brief/))
+- Atlassian migrated 4 million Postgres databases to shrink AWS bill ([4 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/07/07/asia_tech_news_in_brief/))
 - OpenAI says GPT-5 will unify breakthroughs from different models ([4 hours ago](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-gpt-5-will-unify-breakthroughs-from-different-models/))
-- Hands on with Windows 11 Notepad's new markdown support ([4 hours ago](https://www.bleepingcomputer.com/news/microsoft/hands-on-with-windows-11-notepads-new-markdown-support/))
-- ChatGPT is testing disruptive Study Together feature ([5 hours ago](https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-is-testing-disruptive-study-together-feature/))
-- Stalkerware firm gets scooped by SQL-slinging security snoop ([8 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/07/06/infosec_roundup/))
-- Ingram Micro confirms ransomware behind multi-day outage ([15 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/07/06/ingram_micro_confirms_ransomware_behind/))
+- Hands on with Windows 11 Notepad's new markdown support ([5 hours ago](https://www.bleepingcomputer.com/news/microsoft/hands-on-with-windows-11-notepads-new-markdown-support/))
+- ChatGPT is testing disruptive Study Together feature ([6 hours ago](https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-is-testing-disruptive-study-together-feature/))
+- Stalkerware firm gets scooped by SQL-slinging security snoop ([9 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/07/06/infosec_roundup/))
+- Ingram Micro confirms ransomware behind multi-day outage ([16 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/07/06/ingram_micro_confirms_ransomware_behind/))
 - Ingram Micro outage caused by SafePay ransomware attack ([1 days ago](https://www.bleepingcomputer.com/news/security/ingram-micro-outage-caused-by-safepay-ransomware-attack/))
 - Massive spike in use of .es domains for phishing abuse ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2025/07/05/spain_domains_phishing/))
 - Taiwan NSB Alerts Public on Data Risks from TikTok, Weibo, and RedNote Over China Ties ([1 days ago](https://thehackernews.com/2025/07/taiwan-nsb-alerts-public-on-data-risks.html))
