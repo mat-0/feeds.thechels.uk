@@ -9,10 +9,10 @@ description: DotNet Updates
 
 <!-- news_marker starts -->
 - .NET and .NET Framework July 2025 servicing releases updates - .NET Blog ([1 hours ago](https://dotnetkicks.com/r/724448?url=https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-july-2025-servicing-updates/))
-- .NET and .NET Framework July 2025 servicing releases updates ([1 hours ago](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-july-2025-servicing-updates/))
+- .NET and .NET Framework July 2025 servicing releases updates ([2 hours ago](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-july-2025-servicing-updates/))
 - AutoMapper and MediatR Roadmaps ([4 hours ago](https://dotnetkicks.com/r/724429?url=https://www.jimmybogard.com/automapper-and-mediatr-roadmaps/))
 - AutoMapper and MediatR Roadmaps ([4 hours ago](https://dotnetkicks.com/r/724411?url=https://www.jimmybogard.com/automapper-and-mediatr-roadmaps/))
-- Behind the scenes of dotnet run app.cs: Exploring the .NET 10 preview - Part 2 ([10 hours ago](https://andrewlock.net/exploring-dotnet-10-preview-features-2-behind-the-scenes-of-dotnet-run-app.cs/))
+- Behind the scenes of dotnet run app.cs: Exploring the .NET 10 preview - Part 2 ([11 hours ago](https://andrewlock.net/exploring-dotnet-10-preview-features-2-behind-the-scenes-of-dotnet-run-app.cs/))
 - F# Weekly #27, 2025 - Breaking changes: Yay or Nay? ([2 days ago](https://dotnetkicks.com/r/724267?url=https://sergeytihon.com/2025/07/05/f-weekly-27-2025-breaking-changes-yay-or-nay/))
 - Avoid the Wrong Job: The Ultimate .NET Interview Question Playbook ([2 days ago](https://dotnettips.wordpress.com/2025/07/06/avoid-the-wrong-job-the-ultimate-net-interview-question-playbook/))
 - Local AI + .NET = AltText Magic in One C# Script - .NET Blog ([6 days ago](https://dotnetkicks.com/r/724078?url=https://devblogs.microsoft.com/dotnet/alttext-generator-csharp-local-models/))
@@ -43,7 +43,7 @@ description: DotNet Updates
 - Inside Access: Join Us at VS Live! Redmond for a Week of Deep Developer Learning - Visual Studio Blog ([15 days ago](https://dotnetkicks.com/r/723397?url=https://devblogs.microsoft.com/visualstudio/inside-access-join-us-at-vs-live-redmond-for-a-week-of-deep-developer-learning/))
 - OSS Project Lessons Learned with David Giard ([15 days ago](https://dotnetkicks.com/r/723377?url=https://jeremydmiller.com/2025/06/23/oss-project-lessons-learned-with-david-giard/))
 - Wire Up XUnit Logging for Crazy Integration Testing ([15 days ago](https://dotnetkicks.com/r/723366?url=https://jeremydmiller.com/2025/06/22/wire-up-xunit-logging-for-crazy-integration-testing/))
-- F# Weekly #25, 2025 - 7 Reasons F# Sucks ([15 days ago](https://dotnetkicks.com/r/723332?url=https://sergeytihon.com/2025/06/22/f-weekly-25-2025-7-reasons-f-sucks/))
+- F# Weekly #25, 2025 - 7 Reasons F# Sucks ([16 days ago](https://dotnetkicks.com/r/723332?url=https://sergeytihon.com/2025/06/22/f-weekly-25-2025-7-reasons-f-sucks/))
 - Boost Your .NET Projects: Exception Handling Superpowers with Spargine ([16 days ago](https://dotnettips.wordpress.com/2025/06/22/boost-your-net-projects-exception-handling-superpowers-with-spargine/))
 - Model Context Protocol, Without the Hype ([17 days ago](https://dotnetkicks.com/r/723300?url=https://petabridge.com/blog/mcp-without-the-hype/))
 - 5 Mistakes That Make Your Code Unmaintainable ([19 days ago](https://dotnetkicks.com/r/723269?url=https://codeopinion.com/5-mistakes-that-make-your-code-unmaintainable/))
