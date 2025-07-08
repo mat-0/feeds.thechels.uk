@@ -8,8 +8,8 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- AutoMapper and MediatR Roadmaps ([1 hours ago](https://dotnetkicks.com/r/724429?url=https://www.jimmybogard.com/automapper-and-mediatr-roadmaps/))
-- AutoMapper and MediatR Roadmaps ([1 hours ago](https://dotnetkicks.com/r/724411?url=https://www.jimmybogard.com/automapper-and-mediatr-roadmaps/))
+- AutoMapper and MediatR Roadmaps ([2 hours ago](https://dotnetkicks.com/r/724429?url=https://www.jimmybogard.com/automapper-and-mediatr-roadmaps/))
+- AutoMapper and MediatR Roadmaps ([2 hours ago](https://dotnetkicks.com/r/724411?url=https://www.jimmybogard.com/automapper-and-mediatr-roadmaps/))
 - Behind the scenes of dotnet run app.cs: Exploring the .NET 10 preview - Part 2 ([8 hours ago](https://andrewlock.net/exploring-dotnet-10-preview-features-2-behind-the-scenes-of-dotnet-run-app.cs/))
 - F# Weekly #27, 2025 - Breaking changes: Yay or Nay? ([2 days ago](https://dotnetkicks.com/r/724267?url=https://sergeytihon.com/2025/07/05/f-weekly-27-2025-breaking-changes-yay-or-nay/))
 - Avoid the Wrong Job: The Ultimate .NET Interview Question Playbook ([2 days ago](https://dotnettips.wordpress.com/2025/07/06/avoid-the-wrong-job-the-ultimate-net-interview-question-playbook/))
@@ -56,7 +56,7 @@ description: DotNet Updates
 - ReSharper and Rider 2025.1.3: Important Updates Released ([26 days ago](https://blog.jetbrains.com/dotnet/2025/06/12/resharper-and-rider-2025-1-3-important-updates-released/))
 - Multimodal Voice Intelligence with .NET MAUI ([27 days ago](https://devblogs.microsoft.com/dotnet/multimodal-voice-intelligence-with-dotnet-maui/))
 - .NET and .NET Framework June 2025 servicing releases updates ([27 days ago](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-june-2025-servicing-updates/))
-- .NET 10 Preview 5 is now available! ([27 days ago](https://devblogs.microsoft.com/dotnet/dotnet-10-preview-5/))
+- .NET 10 Preview 5 is now available! ([28 days ago](https://devblogs.microsoft.com/dotnet/dotnet-10-preview-5/))
 - Converting a Microsoft XNA 3.1 game to MonoGame ([28 days ago](https://andrewlock.net/converting-an-xna-game-to-monogame/))
 - SQL and NoSQL Query language support come to ReSharper! ([28 days ago](https://blog.jetbrains.com/dotnet/2025/06/10/sql-and-nosql-query-langauge-support-come-to-resharper/))
 - dotNetDave Rocks SQL Saturday in Louisiana ([29 days ago](https://dotnettips.wordpress.com/2025/06/09/dotnetdave-rocks-the-sql-saturday-in-louisiana/))
