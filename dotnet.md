@@ -8,9 +8,11 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
+- How the .NET MAUI Team uses GitHub Copilot for Productivity - .NET Blog ([5 minutes ago](https://dotnetkicks.com/r/724540?url=https://devblogs.microsoft.com/dotnet/maui-team-copilot-tips/))
+- How the .NET MAUI Team uses GitHub Copilot for Productivity ([23 minutes ago](https://devblogs.microsoft.com/dotnet/maui-team-copilot-tips/))
 - Self-Healing Akka.NET Clusters ([19 hours ago](https://dotnetkicks.com/r/724487?url=https://petabridge.com/blog/akkadotnet-cluster-split-brain-resolver/))
 - Self-Healing Akka.NET Clusters ([19 hours ago](https://dotnetkicks.com/r/724474?url=https://petabridge.com/blog/akkadotnet-cluster-split-brain-resolver/))
-- .NET and .NET Framework July 2025 servicing releases updates - .NET Blog ([21 hours ago](https://dotnetkicks.com/r/724448?url=https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-july-2025-servicing-updates/))
+- .NET and .NET Framework July 2025 servicing releases updates - .NET Blog ([22 hours ago](https://dotnetkicks.com/r/724448?url=https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-july-2025-servicing-updates/))
 - .NET and .NET Framework July 2025 servicing releases updates ([22 hours ago](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-july-2025-servicing-updates/))
 - AutoMapper and MediatR Roadmaps ([1 days ago](https://dotnetkicks.com/r/724429?url=https://www.jimmybogard.com/automapper-and-mediatr-roadmaps/))
 - AutoMapper and MediatR Roadmaps ([1 days ago](https://dotnetkicks.com/r/724411?url=https://www.jimmybogard.com/automapper-and-mediatr-roadmaps/))
@@ -45,7 +47,6 @@ description: DotNet Updates
 - Inside Access: Join Us at VS Live! Redmond for a Week of Deep Developer Learning - Visual Studio Blog ([16 days ago](https://dotnetkicks.com/r/723397?url=https://devblogs.microsoft.com/visualstudio/inside-access-join-us-at-vs-live-redmond-for-a-week-of-deep-developer-learning/))
 - OSS Project Lessons Learned with David Giard ([16 days ago](https://dotnetkicks.com/r/723377?url=https://jeremydmiller.com/2025/06/23/oss-project-lessons-learned-with-david-giard/))
 - Wire Up XUnit Logging for Crazy Integration Testing ([16 days ago](https://dotnetkicks.com/r/723366?url=https://jeremydmiller.com/2025/06/22/wire-up-xunit-logging-for-crazy-integration-testing/))
-- F# Weekly #25, 2025 - 7 Reasons F# Sucks ([16 days ago](https://dotnetkicks.com/r/723332?url=https://sergeytihon.com/2025/06/22/f-weekly-25-2025-7-reasons-f-sucks/))
 - Boost Your .NET Projects: Exception Handling Superpowers with Spargine ([17 days ago](https://dotnettips.wordpress.com/2025/06/22/boost-your-net-projects-exception-handling-superpowers-with-spargine/))
 - Multimodal Vision Intelligence with .NET MAUI ([21 days ago](https://devblogs.microsoft.com/dotnet/multimodal-vision-intelligence-with-dotnet-maui/))
 - Working with stacked branches in git (Part 1) ([22 days ago](https://andrewlock.net/working-with-stacked-branches-in-git-part-1/))
