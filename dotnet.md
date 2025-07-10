@@ -8,7 +8,7 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- How the .NET MAUI Team uses GitHub Copilot for Productivity - .NET Blog ([19 hours ago](https://dotnetkicks.com/r/724540?url=https://devblogs.microsoft.com/dotnet/maui-team-copilot-tips/))
+- How the .NET MAUI Team uses GitHub Copilot for Productivity - .NET Blog ([20 hours ago](https://dotnetkicks.com/r/724540?url=https://devblogs.microsoft.com/dotnet/maui-team-copilot-tips/))
 - How the .NET MAUI Team uses GitHub Copilot for Productivity ([20 hours ago](https://devblogs.microsoft.com/dotnet/maui-team-copilot-tips/))
 - Self-Healing Akka.NET Clusters ([1 days ago](https://dotnetkicks.com/r/724487?url=https://petabridge.com/blog/akkadotnet-cluster-split-brain-resolver/))
 - Self-Healing Akka.NET Clusters ([1 days ago](https://dotnetkicks.com/r/724474?url=https://petabridge.com/blog/akkadotnet-cluster-split-brain-resolver/))
