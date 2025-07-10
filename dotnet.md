@@ -9,7 +9,7 @@ description: DotNet Updates
 
 <!-- news_marker starts -->
 - How the .NET MAUI Team uses GitHub Copilot for Productivity - .NET Blog ([19 hours ago](https://dotnetkicks.com/r/724540?url=https://devblogs.microsoft.com/dotnet/maui-team-copilot-tips/))
-- How the .NET MAUI Team uses GitHub Copilot for Productivity ([19 hours ago](https://devblogs.microsoft.com/dotnet/maui-team-copilot-tips/))
+- How the .NET MAUI Team uses GitHub Copilot for Productivity ([20 hours ago](https://devblogs.microsoft.com/dotnet/maui-team-copilot-tips/))
 - Self-Healing Akka.NET Clusters ([1 days ago](https://dotnetkicks.com/r/724487?url=https://petabridge.com/blog/akkadotnet-cluster-split-brain-resolver/))
 - Self-Healing Akka.NET Clusters ([1 days ago](https://dotnetkicks.com/r/724474?url=https://petabridge.com/blog/akkadotnet-cluster-split-brain-resolver/))
 - .NET and .NET Framework July 2025 servicing releases updates - .NET Blog ([1 days ago](https://dotnetkicks.com/r/724448?url=https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-july-2025-servicing-updates/))
@@ -45,7 +45,7 @@ description: DotNet Updates
 - Working with stacked branches in git (Part 2) ([16 days ago](https://andrewlock.net/working-with-stacked-branches-in-git-part-2/))
 - FYAI: How to leverage AI to reimagine cross-functional collaboration with Yina Arenas  -  The Microsoft Cloud Blog ([16 days ago](https://dotnetkicks.com/r/723478?url=https://www.microsoft.com/en-us/microsoft-cloud/blog/2025/06/23/fyai-how-to-leverage-ai-to-reimagine-cross-functional-collaboration-with-yina-arenas/))
 - Inside Access: Join Us at VS Live! Redmond for a Week of Deep Developer Learning - Visual Studio Blog ([16 days ago](https://dotnetkicks.com/r/723397?url=https://devblogs.microsoft.com/visualstudio/inside-access-join-us-at-vs-live-redmond-for-a-week-of-deep-developer-learning/))
-- OSS Project Lessons Learned with David Giard ([16 days ago](https://dotnetkicks.com/r/723377?url=https://jeremydmiller.com/2025/06/23/oss-project-lessons-learned-with-david-giard/))
+- OSS Project Lessons Learned with David Giard ([17 days ago](https://dotnetkicks.com/r/723377?url=https://jeremydmiller.com/2025/06/23/oss-project-lessons-learned-with-david-giard/))
 - Wire Up XUnit Logging for Crazy Integration Testing ([17 days ago](https://dotnetkicks.com/r/723366?url=https://jeremydmiller.com/2025/06/22/wire-up-xunit-logging-for-crazy-integration-testing/))
 - Boost Your .NET Projects: Exception Handling Superpowers with Spargine ([18 days ago](https://dotnettips.wordpress.com/2025/06/22/boost-your-net-projects-exception-handling-superpowers-with-spargine/))
 - Multimodal Vision Intelligence with .NET MAUI ([22 days ago](https://devblogs.microsoft.com/dotnet/multimodal-vision-intelligence-with-dotnet-maui/))
@@ -55,7 +55,7 @@ description: DotNet Updates
 - dotNetDave Says… Don’t Build Frankenstein’s Monster Applications! ([25 days ago](https://dotnettips.wordpress.com/2025/06/15/dotnetdave-says-dont-build-frankensteins-monster-applications/))
 - JetBrains GameDev Days 2025 – Call for Speakers ([27 days ago](https://blog.jetbrains.com/dotnet/2025/06/13/jetbrains-gamedev-days-2025-call-for-speakers/))
 - Improve Your Productivity with New GitHub Copilot Features for .NET! ([27 days ago](https://devblogs.microsoft.com/dotnet/improve-productivity-with-github-copilot-dotnet/))
-- ReSharper and Rider 2025.1.3: Important Updates Released ([27 days ago](https://blog.jetbrains.com/dotnet/2025/06/12/resharper-and-rider-2025-1-3-important-updates-released/))
+- ReSharper and Rider 2025.1.3: Important Updates Released ([28 days ago](https://blog.jetbrains.com/dotnet/2025/06/12/resharper-and-rider-2025-1-3-important-updates-released/))
 - Multimodal Voice Intelligence with .NET MAUI ([28 days ago](https://devblogs.microsoft.com/dotnet/multimodal-voice-intelligence-with-dotnet-maui/))
 - .NET and .NET Framework June 2025 servicing releases updates ([29 days ago](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-june-2025-servicing-updates/))
 - .NET 10 Preview 5 is now available! ([29 days ago](https://devblogs.microsoft.com/dotnet/dotnet-10-preview-5/))
