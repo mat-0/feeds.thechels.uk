@@ -8,9 +8,9 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Customize AI responses from GitHub Copilot - .NET Blog ([46 minutes ago](https://dotnetkicks.com/r/724693?url=https://devblogs.microsoft.com/dotnet/customize-ai-responses-from-github-copilot/))
-- Customize AI responses from GitHub Copilot - .NET Blog ([47 minutes ago](https://dotnetkicks.com/r/724676?url=https://devblogs.microsoft.com/dotnet/customize-ai-responses-from-github-copilot/))
-- Customize AI responses from GitHub Copilot ([54 minutes ago](https://devblogs.microsoft.com/dotnet/customize-ai-responses-from-github-copilot/))
+- Customize AI responses from GitHub Copilot - .NET Blog ([1 hours ago](https://dotnetkicks.com/r/724693?url=https://devblogs.microsoft.com/dotnet/customize-ai-responses-from-github-copilot/))
+- Customize AI responses from GitHub Copilot - .NET Blog ([1 hours ago](https://dotnetkicks.com/r/724676?url=https://devblogs.microsoft.com/dotnet/customize-ai-responses-from-github-copilot/))
+- Customize AI responses from GitHub Copilot ([1 hours ago](https://devblogs.microsoft.com/dotnet/customize-ai-responses-from-github-copilot/))
 - How the .NET MAUI Team uses GitHub Copilot for Productivity - .NET Blog ([1 days ago](https://dotnetkicks.com/r/724540?url=https://devblogs.microsoft.com/dotnet/maui-team-copilot-tips/))
 - How the .NET MAUI Team uses GitHub Copilot for Productivity ([1 days ago](https://devblogs.microsoft.com/dotnet/maui-team-copilot-tips/))
 - Self-Healing Akka.NET Clusters ([1 days ago](https://dotnetkicks.com/r/724487?url=https://petabridge.com/blog/akkadotnet-cluster-split-brain-resolver/))
@@ -59,6 +59,5 @@ description: DotNet Updates
 - ReSharper and Rider 2025.1.3: Important Updates Released ([28 days ago](https://blog.jetbrains.com/dotnet/2025/06/12/resharper-and-rider-2025-1-3-important-updates-released/))
 - Multimodal Voice Intelligence with .NET MAUI ([29 days ago](https://devblogs.microsoft.com/dotnet/multimodal-voice-intelligence-with-dotnet-maui/))
 - .NET and .NET Framework June 2025 servicing releases updates ([29 days ago](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-june-2025-servicing-updates/))
-- .NET 10 Preview 5 is now available! ([29 days ago](https://devblogs.microsoft.com/dotnet/dotnet-10-preview-5/))
 
 <!-- news_marker ends -->
