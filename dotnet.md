@@ -9,11 +9,11 @@ description: DotNet Updates
 
 <!-- news_marker starts -->
 - dotNetDave Rocks ØREDEV DEVELOPERS CONFERENCE 2025 ([11 hours ago](https://dotnettips.wordpress.com/2025/07/11/dotnetdave-rocks-oredev-developers-conference-2025/))
-- Customize AI responses from GitHub Copilot - .NET Blog ([23 hours ago](https://dotnetkicks.com/r/724693?url=https://devblogs.microsoft.com/dotnet/customize-ai-responses-from-github-copilot/))
-- Customize AI responses from GitHub Copilot - .NET Blog ([23 hours ago](https://dotnetkicks.com/r/724676?url=https://devblogs.microsoft.com/dotnet/customize-ai-responses-from-github-copilot/))
-- Customize AI responses from GitHub Copilot ([23 hours ago](https://devblogs.microsoft.com/dotnet/customize-ai-responses-from-github-copilot/))
-- How the .NET MAUI Team uses GitHub Copilot for Productivity - .NET Blog ([1 days ago](https://dotnetkicks.com/r/724540?url=https://devblogs.microsoft.com/dotnet/maui-team-copilot-tips/))
-- How the .NET MAUI Team uses GitHub Copilot for Productivity ([1 days ago](https://devblogs.microsoft.com/dotnet/maui-team-copilot-tips/))
+- Customize AI responses from GitHub Copilot - .NET Blog ([1 days ago](https://dotnetkicks.com/r/724693?url=https://devblogs.microsoft.com/dotnet/customize-ai-responses-from-github-copilot/))
+- Customize AI responses from GitHub Copilot - .NET Blog ([1 days ago](https://dotnetkicks.com/r/724676?url=https://devblogs.microsoft.com/dotnet/customize-ai-responses-from-github-copilot/))
+- Customize AI responses from GitHub Copilot ([1 days ago](https://devblogs.microsoft.com/dotnet/customize-ai-responses-from-github-copilot/))
+- How the .NET MAUI Team uses GitHub Copilot for Productivity - .NET Blog ([2 days ago](https://dotnetkicks.com/r/724540?url=https://devblogs.microsoft.com/dotnet/maui-team-copilot-tips/))
+- How the .NET MAUI Team uses GitHub Copilot for Productivity ([2 days ago](https://devblogs.microsoft.com/dotnet/maui-team-copilot-tips/))
 - Self-Healing Akka.NET Clusters ([2 days ago](https://dotnetkicks.com/r/724487?url=https://petabridge.com/blog/akkadotnet-cluster-split-brain-resolver/))
 - Self-Healing Akka.NET Clusters ([2 days ago](https://dotnetkicks.com/r/724474?url=https://petabridge.com/blog/akkadotnet-cluster-split-brain-resolver/))
 - .NET and .NET Framework July 2025 servicing releases updates - .NET Blog ([2 days ago](https://dotnetkicks.com/r/724448?url=https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-july-2025-servicing-updates/))
