@@ -9,9 +9,9 @@ description: DotNet Updates
 
 <!-- news_marker starts -->
 - dotNetDave Rocks ØREDEV DEVELOPERS CONFERENCE 2025 ([2 hours ago](https://dotnettips.wordpress.com/2025/07/11/dotnetdave-rocks-oredev-developers-conference-2025/))
-- Customize AI responses from GitHub Copilot - .NET Blog ([14 hours ago](https://dotnetkicks.com/r/724693?url=https://devblogs.microsoft.com/dotnet/customize-ai-responses-from-github-copilot/))
-- Customize AI responses from GitHub Copilot - .NET Blog ([14 hours ago](https://dotnetkicks.com/r/724676?url=https://devblogs.microsoft.com/dotnet/customize-ai-responses-from-github-copilot/))
-- Customize AI responses from GitHub Copilot ([14 hours ago](https://devblogs.microsoft.com/dotnet/customize-ai-responses-from-github-copilot/))
+- Customize AI responses from GitHub Copilot - .NET Blog ([15 hours ago](https://dotnetkicks.com/r/724693?url=https://devblogs.microsoft.com/dotnet/customize-ai-responses-from-github-copilot/))
+- Customize AI responses from GitHub Copilot - .NET Blog ([15 hours ago](https://dotnetkicks.com/r/724676?url=https://devblogs.microsoft.com/dotnet/customize-ai-responses-from-github-copilot/))
+- Customize AI responses from GitHub Copilot ([15 hours ago](https://devblogs.microsoft.com/dotnet/customize-ai-responses-from-github-copilot/))
 - How the .NET MAUI Team uses GitHub Copilot for Productivity - .NET Blog ([1 days ago](https://dotnetkicks.com/r/724540?url=https://devblogs.microsoft.com/dotnet/maui-team-copilot-tips/))
 - How the .NET MAUI Team uses GitHub Copilot for Productivity ([1 days ago](https://devblogs.microsoft.com/dotnet/maui-team-copilot-tips/))
 - Self-Healing Akka.NET Clusters ([2 days ago](https://dotnetkicks.com/r/724487?url=https://petabridge.com/blog/akkadotnet-cluster-split-brain-resolver/))
@@ -31,7 +31,7 @@ description: DotNet Updates
 - UX Chronicles: The Office That Time Forgot – Why Microsoft Must Rethink User Experience Now ([9 days ago](https://dotnettips.wordpress.com/2025/07/02/ux-chronicles-the-office-that-time-forgot-why-microsoft-must-rethink-user-experience-now/))
 - Exploring the features of dotnet run app.cs: Exploring the .NET 10 preview - Part 1 ([9 days ago](https://dotnetkicks.com/r/723944?url=https://andrewlock.net/exploring-dotnet-10-preview-features-1-exploring-the-dotnet-run-app.cs/))
 - Exploring the features of dotnet run app.cs: Exploring the .NET 10 preview - Part 1 ([9 days ago](https://andrewlock.net/exploring-dotnet-10-preview-features-1-exploring-the-dotnet-run-app.cs/))
-- ReSharper and Rider 2025.1.4: Another Set of Bug-fixes Released ([10 days ago](https://blog.jetbrains.com/dotnet/2025/06/30/resharper-and-rider-2025-1-4/))
+- ReSharper and Rider 2025.1.4: Another Set of Bug-fixes Released ([11 days ago](https://blog.jetbrains.com/dotnet/2025/06/30/resharper-and-rider-2025-1-4/))
 - Boost Your .NET Projects: Mastering Method Returns with Spargine’s SimpleResult Type ([12 days ago](https://dotnettips.wordpress.com/2025/06/29/boost-your-net-projects-mastering-method-returns-with-spargines-simpleresult-type/))
 - Pi-hole DNS on UGOS PRO 1.6.0.2917 ([12 days ago](https://dotnetkicks.com/r/723852?url=https://sergeytihon.com/2025/06/28/pi-hole-dns-on-ugos-pro-1-6-0-2917/))
 - From Extension Methods to Extension Members: Unlocking New Possibilities in .NET 10 ([14 days ago](https://dotnettips.wordpress.com/2025/06/27/from-extension-methods-to-extension-members-unlocking-new-possibilities-in-net-10/))
