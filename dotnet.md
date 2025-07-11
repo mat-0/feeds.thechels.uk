@@ -8,7 +8,7 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- dotNetDave Rocks ØREDEV DEVELOPERS CONFERENCE 2025 ([13 hours ago](https://dotnettips.wordpress.com/2025/07/11/dotnetdave-rocks-oredev-developers-conference-2025/))
+- dotNetDave Rocks ØREDEV DEVELOPERS CONFERENCE 2025 ([14 hours ago](https://dotnettips.wordpress.com/2025/07/11/dotnetdave-rocks-oredev-developers-conference-2025/))
 - Customize AI responses from GitHub Copilot - .NET Blog ([1 days ago](https://dotnetkicks.com/r/724693?url=https://devblogs.microsoft.com/dotnet/customize-ai-responses-from-github-copilot/))
 - Customize AI responses from GitHub Copilot - .NET Blog ([1 days ago](https://dotnetkicks.com/r/724676?url=https://devblogs.microsoft.com/dotnet/customize-ai-responses-from-github-copilot/))
 - Customize AI responses from GitHub Copilot ([1 days ago](https://devblogs.microsoft.com/dotnet/customize-ai-responses-from-github-copilot/))
@@ -23,8 +23,8 @@ description: DotNet Updates
 - Behind the scenes of dotnet run app.cs: Exploring the .NET 10 preview - Part 2 ([3 days ago](https://andrewlock.net/exploring-dotnet-10-preview-features-2-behind-the-scenes-of-dotnet-run-app.cs/))
 - F# Weekly #27, 2025 - Breaking changes: Yay or Nay? ([5 days ago](https://dotnetkicks.com/r/724267?url=https://sergeytihon.com/2025/07/05/f-weekly-27-2025-breaking-changes-yay-or-nay/))
 - Avoid the Wrong Job: The Ultimate .NET Interview Question Playbook ([5 days ago](https://dotnettips.wordpress.com/2025/07/06/avoid-the-wrong-job-the-ultimate-net-interview-question-playbook/))
-- Local AI + .NET = AltText Magic in One C# Script - .NET Blog ([8 days ago](https://dotnetkicks.com/r/724078?url=https://devblogs.microsoft.com/dotnet/alttext-generator-csharp-local-models/))
-- Local AI + .NET = AltText Magic in One C# Script ([8 days ago](https://devblogs.microsoft.com/dotnet/alttext-generator-csharp-local-models/))
+- Local AI + .NET = AltText Magic in One C# Script - .NET Blog ([9 days ago](https://dotnetkicks.com/r/724078?url=https://devblogs.microsoft.com/dotnet/alttext-generator-csharp-local-models/))
+- Local AI + .NET = AltText Magic in One C# Script ([9 days ago](https://devblogs.microsoft.com/dotnet/alttext-generator-csharp-local-models/))
 - AutoMapper and MediatR Commercial Editions Launch Today ([9 days ago](https://dotnetkicks.com/r/724071?url=https://www.jimmybogard.com/automapper-and-mediatr-commercial-editions-launch-today/))
 - AutoMapper and MediatR Commercial Editions Launch Today ([9 days ago](https://dotnetkicks.com/r/724070?url=https://www.jimmybogard.com/automapper-and-mediatr-commercial-editions-launch-today/))
 - Implement ASP.NET Core OpenID Connect with Keycloak to implement Level of Authentication (LoA) requirements ([9 days ago](https://dotnetkicks.com/r/724019?url=https://damienbod.com/2025/07/02/implement-asp-net-core-openid-connect-with-keykloak-to-implement-level-of-authentication-loa-requirements/))
