@@ -9,9 +9,9 @@ description: DotNet Updates
 
 <!-- news_marker starts -->
 - dotNetDave Rocks ØREDEV DEVELOPERS CONFERENCE 2025 ([8 hours ago](https://dotnettips.wordpress.com/2025/07/11/dotnetdave-rocks-oredev-developers-conference-2025/))
-- Customize AI responses from GitHub Copilot - .NET Blog ([20 hours ago](https://dotnetkicks.com/r/724693?url=https://devblogs.microsoft.com/dotnet/customize-ai-responses-from-github-copilot/))
-- Customize AI responses from GitHub Copilot - .NET Blog ([20 hours ago](https://dotnetkicks.com/r/724676?url=https://devblogs.microsoft.com/dotnet/customize-ai-responses-from-github-copilot/))
-- Customize AI responses from GitHub Copilot ([20 hours ago](https://devblogs.microsoft.com/dotnet/customize-ai-responses-from-github-copilot/))
+- Customize AI responses from GitHub Copilot - .NET Blog ([21 hours ago](https://dotnetkicks.com/r/724693?url=https://devblogs.microsoft.com/dotnet/customize-ai-responses-from-github-copilot/))
+- Customize AI responses from GitHub Copilot - .NET Blog ([21 hours ago](https://dotnetkicks.com/r/724676?url=https://devblogs.microsoft.com/dotnet/customize-ai-responses-from-github-copilot/))
+- Customize AI responses from GitHub Copilot ([21 hours ago](https://devblogs.microsoft.com/dotnet/customize-ai-responses-from-github-copilot/))
 - How the .NET MAUI Team uses GitHub Copilot for Productivity - .NET Blog ([1 days ago](https://dotnetkicks.com/r/724540?url=https://devblogs.microsoft.com/dotnet/maui-team-copilot-tips/))
 - How the .NET MAUI Team uses GitHub Copilot for Productivity ([1 days ago](https://devblogs.microsoft.com/dotnet/maui-team-copilot-tips/))
 - Self-Healing Akka.NET Clusters ([2 days ago](https://dotnetkicks.com/r/724487?url=https://petabridge.com/blog/akkadotnet-cluster-split-brain-resolver/))
@@ -48,7 +48,7 @@ description: DotNet Updates
 - Working with stacked branches in git (Part 2) ([17 days ago](https://dotnetkicks.com/r/723493?url=https://andrewlock.net/working-with-stacked-branches-in-git-part-2/))
 - Working with stacked branches in git (Part 2) ([17 days ago](https://andrewlock.net/working-with-stacked-branches-in-git-part-2/))
 - FYAI: How to leverage AI to reimagine cross-functional collaboration with Yina Arenas  -  The Microsoft Cloud Blog ([17 days ago](https://dotnetkicks.com/r/723478?url=https://www.microsoft.com/en-us/microsoft-cloud/blog/2025/06/23/fyai-how-to-leverage-ai-to-reimagine-cross-functional-collaboration-with-yina-arenas/))
-- Inside Access: Join Us at VS Live! Redmond for a Week of Deep Developer Learning - Visual Studio Blog ([17 days ago](https://dotnetkicks.com/r/723397?url=https://devblogs.microsoft.com/visualstudio/inside-access-join-us-at-vs-live-redmond-for-a-week-of-deep-developer-learning/))
+- Inside Access: Join Us at VS Live! Redmond for a Week of Deep Developer Learning - Visual Studio Blog ([18 days ago](https://dotnetkicks.com/r/723397?url=https://devblogs.microsoft.com/visualstudio/inside-access-join-us-at-vs-live-redmond-for-a-week-of-deep-developer-learning/))
 - Boost Your .NET Projects: Exception Handling Superpowers with Spargine ([19 days ago](https://dotnettips.wordpress.com/2025/06/22/boost-your-net-projects-exception-handling-superpowers-with-spargine/))
 - Multimodal Vision Intelligence with .NET MAUI ([23 days ago](https://devblogs.microsoft.com/dotnet/multimodal-vision-intelligence-with-dotnet-maui/))
 - Working with stacked branches in git (Part 1) ([24 days ago](https://andrewlock.net/working-with-stacked-branches-in-git-part-1/))
