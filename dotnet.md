@@ -8,10 +8,10 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- dotNetDave Rocks ØREDEV DEVELOPERS CONFERENCE 2025 ([6 hours ago](https://dotnettips.wordpress.com/2025/07/11/dotnetdave-rocks-oredev-developers-conference-2025/))
+- dotNetDave Rocks ØREDEV DEVELOPERS CONFERENCE 2025 ([7 hours ago](https://dotnettips.wordpress.com/2025/07/11/dotnetdave-rocks-oredev-developers-conference-2025/))
 - Customize AI responses from GitHub Copilot - .NET Blog ([19 hours ago](https://dotnetkicks.com/r/724693?url=https://devblogs.microsoft.com/dotnet/customize-ai-responses-from-github-copilot/))
 - Customize AI responses from GitHub Copilot - .NET Blog ([19 hours ago](https://dotnetkicks.com/r/724676?url=https://devblogs.microsoft.com/dotnet/customize-ai-responses-from-github-copilot/))
-- Customize AI responses from GitHub Copilot ([19 hours ago](https://devblogs.microsoft.com/dotnet/customize-ai-responses-from-github-copilot/))
+- Customize AI responses from GitHub Copilot ([20 hours ago](https://devblogs.microsoft.com/dotnet/customize-ai-responses-from-github-copilot/))
 - How the .NET MAUI Team uses GitHub Copilot for Productivity - .NET Blog ([1 days ago](https://dotnetkicks.com/r/724540?url=https://devblogs.microsoft.com/dotnet/maui-team-copilot-tips/))
 - How the .NET MAUI Team uses GitHub Copilot for Productivity ([1 days ago](https://devblogs.microsoft.com/dotnet/maui-team-copilot-tips/))
 - Self-Healing Akka.NET Clusters ([2 days ago](https://dotnetkicks.com/r/724487?url=https://petabridge.com/blog/akkadotnet-cluster-split-brain-resolver/))
@@ -57,7 +57,7 @@ description: DotNet Updates
 - dotNetDave Says… Don’t Build Frankenstein’s Monster Applications! ([26 days ago](https://dotnettips.wordpress.com/2025/06/15/dotnetdave-says-dont-build-frankensteins-monster-applications/))
 - JetBrains GameDev Days 2025 – Call for Speakers ([28 days ago](https://blog.jetbrains.com/dotnet/2025/06/13/jetbrains-gamedev-days-2025-call-for-speakers/))
 - Improve Your Productivity with New GitHub Copilot Features for .NET! ([28 days ago](https://devblogs.microsoft.com/dotnet/improve-productivity-with-github-copilot-dotnet/))
-- ReSharper and Rider 2025.1.3: Important Updates Released ([28 days ago](https://blog.jetbrains.com/dotnet/2025/06/12/resharper-and-rider-2025-1-3-important-updates-released/))
+- ReSharper and Rider 2025.1.3: Important Updates Released ([29 days ago](https://blog.jetbrains.com/dotnet/2025/06/12/resharper-and-rider-2025-1-3-important-updates-released/))
 - Multimodal Voice Intelligence with .NET MAUI ([29 days ago](https://devblogs.microsoft.com/dotnet/multimodal-voice-intelligence-with-dotnet-maui/))
 
 <!-- news_marker ends -->
