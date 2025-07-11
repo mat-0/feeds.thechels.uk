@@ -8,7 +8,7 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- dotNetDave Rocks ØREDEV DEVELOPERS CONFERENCE 2025 ([9 hours ago](https://dotnettips.wordpress.com/2025/07/11/dotnetdave-rocks-oredev-developers-conference-2025/))
+- dotNetDave Rocks ØREDEV DEVELOPERS CONFERENCE 2025 ([10 hours ago](https://dotnettips.wordpress.com/2025/07/11/dotnetdave-rocks-oredev-developers-conference-2025/))
 - Customize AI responses from GitHub Copilot - .NET Blog ([22 hours ago](https://dotnetkicks.com/r/724693?url=https://devblogs.microsoft.com/dotnet/customize-ai-responses-from-github-copilot/))
 - Customize AI responses from GitHub Copilot - .NET Blog ([22 hours ago](https://dotnetkicks.com/r/724676?url=https://devblogs.microsoft.com/dotnet/customize-ai-responses-from-github-copilot/))
 - Customize AI responses from GitHub Copilot ([22 hours ago](https://devblogs.microsoft.com/dotnet/customize-ai-responses-from-github-copilot/))
