@@ -13,7 +13,7 @@ description: Insurance Updates
 - Texas Floods Are a Wake-Up Call, Says Moody’s ([22 hours ago](https://insurance-edge.net/2025/07/11/texas-floods-are-a-wake-up-call-says-moodys/))
 - Is The City Of London in Decline as a Financial Centre? ([22 hours ago](https://insurance-edge.net/2025/07/11/is-the-city-of-london-in-decline-as-a-financial-centre/))
 - The PokieSurf Effect: Is Aussie Gambling Culture Getting Riskier? ([22 hours ago](https://insurance-edge.net/2025/07/11/the-pokiesurf-effect-is-aussie-gambling-culture-getting-riskier/))
-- Houthi attacks - Is there worse to come? ([23 hours ago](https://www.insurancebusinessmag.com/uk/news/marine/houthi-attacks--is-there-worse-to-come-542346.aspx))
+- Houthi attacks - Is there worse to come? ([1 days ago](https://www.insurancebusinessmag.com/uk/news/marine/houthi-attacks--is-there-worse-to-come-542346.aspx))
 - Houthi Rebels Sink Ship in Red Sea, Killing at Least 4 With 11 Missing: EU Naval Mission ([1 days ago](https://www.insurancejournal.com/news/international/2025/07/11/831354.htm))
 - Texas senator calls Trump, Abbott responsible for flood deaths ([1 days ago](https://www.dig-in.com/news/texas-senator-trump-abbott-responsible-for-flood-deaths))
 - Tesla Plans Robotaxi Expansion to California and Arizona ([1 days ago](https://www.insurancejournal.com/news/west/2025/07/11/831346.htm))
