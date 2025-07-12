@@ -8,7 +8,7 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Critter Stack Futures for the rest of 2025 ([23 hours ago](https://dotnetkicks.com/r/724820?url=https://jeremydmiller.com/2025/07/11/critter-stack-futures-for-the-rest-of-2025/))
+- Critter Stack Futures for the rest of 2025 ([1 days ago](https://dotnetkicks.com/r/724820?url=https://jeremydmiller.com/2025/07/11/critter-stack-futures-for-the-rest-of-2025/))
 - dotNetDave Rocks ØREDEV DEVELOPERS CONFERENCE 2025 ([1 days ago](https://dotnettips.wordpress.com/2025/07/11/dotnetdave-rocks-oredev-developers-conference-2025/))
 - Customize AI responses from GitHub Copilot - .NET Blog ([2 days ago](https://dotnetkicks.com/r/724693?url=https://devblogs.microsoft.com/dotnet/customize-ai-responses-from-github-copilot/))
 - Customize AI responses from GitHub Copilot - .NET Blog ([2 days ago](https://dotnetkicks.com/r/724676?url=https://devblogs.microsoft.com/dotnet/customize-ai-responses-from-github-copilot/))
