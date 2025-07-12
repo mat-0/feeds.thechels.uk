@@ -88,7 +88,7 @@ description: Insurance Updates
 - Aviva’s Storah calls for flood resilience to be mandatory for homes ([2 days ago](https://www.postonline.co.uk/personal/7958012/aviva%E2%80%99s-storah-calls-for-flood-resilience-to-be-mandatory-for-homes))
 - Q&A: Dave Carey, Ecclesiastical ([2 days ago](https://www.postonline.co.uk/commercial/7957606/qa-dave-carey-ecclesiastical))
 - Throwback Thursday: Cars made safer ([2 days ago](https://www.postonline.co.uk/personal/7956734/throwback-thursday-cars-made-safer))
-- British Insurance Awards 2025 winners revealed ([2 days ago](https://www.postonline.co.uk/broker/7958092/british-insurance-awards-2025-winners-revealed))
+- British Insurance Awards 2025 winners revealed ([3 days ago](https://www.postonline.co.uk/broker/7958092/british-insurance-awards-2025-winners-revealed))
 - How THC drinks are shaking up risk ([3 days ago](https://www.dig-in.com/opinion/how-thc-drinks-are-shaking-up-risk))
 - Nationwide purchases Allstate Stop Loss for $1.25B; Munich Re acquires Next: Insurance news ([3 days ago](https://www.dig-in.com/news/nationwide-allstate-stop-loss-1-25b-munich-re-acquires-next))
 - Learn from Gen Zs amid AI era, employers told ([3 days ago](https://www.insurancebusinessmag.com/uk/business-strategy/learn-from-gen-zs-amid-ai-era-employers-told-542007.aspx))
