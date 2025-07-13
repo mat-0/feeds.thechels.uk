@@ -9,11 +9,11 @@ description: SecOps News
 
 <!-- news_marker starts -->
 - Windows 10 KB5062554 update breaks emoji panel search feature ([3 hours ago](https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5062554-update-breaks-emoji-panel-search-feature/))
-- Google Gemini flaw hijacks email summaries for phishing ([6 hours ago](https://www.bleepingcomputer.com/news/security/google-gemini-flaw-hijacks-email-summaries-for-phishing/))
+- Google Gemini flaw hijacks email summaries for phishing ([7 hours ago](https://www.bleepingcomputer.com/news/security/google-gemini-flaw-hijacks-email-summaries-for-phishing/))
 - You have a fake North Korean IT worker problem - here's how to stop it ([10 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/07/13/fake_it_worker_problem/))
 - Omnicuris - 215,298 breached accounts ([15 hours ago](https://haveibeenpwned.com/Breach/Omnicuris))
 - Missing Critical Security Headers in OpenBlow ([18 hours ago](https://seclists.org/fulldisclosure/2025/Jul/13))
-- Weekly Update 460 ([18 hours ago](https://www.troyhunt.com/weekly-update-460/))
+- Weekly Update 460 ([19 hours ago](https://www.troyhunt.com/weekly-update-460/))
 - GPUHammer: New RowHammer Attack Variant Degrades AI Models on NVIDIA GPUs ([1 days ago](https://thehackernews.com/2025/07/gpuhammer-new-rowhammer-attack-variant.html))
 - Grok-4 Falls to a Jailbreak Two Days After Its Release ([1 days ago](https://www.securityweek.com/grok-4-falls-to-a-jailbreak-two-days-after-its-release/))
 - Hackers are exploiting critical RCE flaw in Wing FTP Server ([1 days ago](https://www.bleepingcomputer.com/news/security/hackers-are-exploiting-critical-rce-flaw-in-wing-ftp-server/))
@@ -109,7 +109,7 @@ description: SecOps News
 - KL-001-2025-008: Schneider Electric EcoStruxure IT Data Center Expert Root Password Discovery ([3 days ago](https://seclists.org/fulldisclosure/2025/Jul/7))
 - KL-001-2025-007: Schneider Electric EcoStruxure IT Data Center Expert Unauthenticated Remote Code Execution ([3 days ago](https://seclists.org/fulldisclosure/2025/Jul/6))
 - KL-001-2025-006: Schneider Electric EcoStruxure IT Data Center Expert XML External Entities Injection ([3 days ago](https://seclists.org/fulldisclosure/2025/Jul/5))
-- Perplexity rips another page from the Google playbook with its own browser, Comet ([3 days ago](https://go.theregister.com/feed/www.theregister.com/2025/07/09/perplexity_comet_browser/))
+- Perplexity rips another page from the Google playbook with its own browser, Comet ([4 days ago](https://go.theregister.com/feed/www.theregister.com/2025/07/09/perplexity_comet_browser/))
 - Microsoft pushes $4B at AI education for the masses ([4 days ago](https://go.theregister.com/feed/www.theregister.com/2025/07/09/microsoft_ai_training/))
 - US sanctions alleged North Korean IT sweatshop leader ([4 days ago](https://go.theregister.com/feed/www.theregister.com/2025/07/09/us_sanctions_north_korean_it/))
 - AMD warns of new Meltdown, Spectre-like bugs affecting CPUs ([4 days ago](https://go.theregister.com/feed/www.theregister.com/2025/07/09/amd_tsa_side_channel/))
