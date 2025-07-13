@@ -8,7 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Smart Strategies - July 2025 ([6 minutes ago](https://www.dig-in.com/news/smart-strategies-for-insurers))
+- Smart Strategies - July 2025 ([35 minutes ago](https://www.dig-in.com/news/smart-strategies-for-insurers))
 - Data Protection vs. Cyber Resilience: Mastering Both in a Complex IT Landscape ([1 days ago](https://insurance-edge.net/2025/07/11/data-protection-vs-cyber-resilience-mastering-both-in-a-complex-it-landscape/))
 - Carpe Data Online Fraud Report Published ([1 days ago](https://insurance-edge.net/2025/07/11/carpe-data-online-fraud-report-published/))
 - Texas Floods Are a Wake-Up Call, Says Moody’s ([1 days ago](https://insurance-edge.net/2025/07/11/texas-floods-are-a-wake-up-call-says-moodys/))
