@@ -8,7 +8,7 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Boost Your .NET Projects: Add Thread-Safety with ConcurrentHashSet from Spargine ([3 hours ago](https://dotnettips.wordpress.com/2025/07/13/boost-your-net-projects-add-thread-safety-with-concurrenthashset-from-spargine/))
+- Boost Your .NET Projects: Add Thread-Safety with ConcurrentHashSet from Spargine ([4 hours ago](https://dotnettips.wordpress.com/2025/07/13/boost-your-net-projects-add-thread-safety-with-concurrenthashset-from-spargine/))
 - Critter Stack Futures for the rest of 2025 ([1 days ago](https://dotnetkicks.com/r/724820?url=https://jeremydmiller.com/2025/07/11/critter-stack-futures-for-the-rest-of-2025/))
 - dotNetDave Rocks ØREDEV DEVELOPERS CONFERENCE 2025 ([2 days ago](https://dotnettips.wordpress.com/2025/07/11/dotnetdave-rocks-oredev-developers-conference-2025/))
 - Customize AI responses from GitHub Copilot - .NET Blog ([2 days ago](https://dotnetkicks.com/r/724693?url=https://devblogs.microsoft.com/dotnet/customize-ai-responses-from-github-copilot/))
@@ -22,7 +22,7 @@ description: DotNet Updates
 - .NET and .NET Framework July 2025 servicing releases updates ([4 days ago](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-july-2025-servicing-updates/))
 - AutoMapper and MediatR Roadmaps ([4 days ago](https://dotnetkicks.com/r/724429?url=https://www.jimmybogard.com/automapper-and-mediatr-roadmaps/))
 - AutoMapper and MediatR Roadmaps ([4 days ago](https://dotnetkicks.com/r/724411?url=https://www.jimmybogard.com/automapper-and-mediatr-roadmaps/))
-- Behind the scenes of dotnet run app.cs: Exploring the .NET 10 preview - Part 2 ([4 days ago](https://andrewlock.net/exploring-dotnet-10-preview-features-2-behind-the-scenes-of-dotnet-run-app.cs/))
+- Behind the scenes of dotnet run app.cs: Exploring the .NET 10 preview - Part 2 ([5 days ago](https://andrewlock.net/exploring-dotnet-10-preview-features-2-behind-the-scenes-of-dotnet-run-app.cs/))
 - F# Weekly #27, 2025 - Breaking changes: Yay or Nay? ([6 days ago](https://dotnetkicks.com/r/724267?url=https://sergeytihon.com/2025/07/05/f-weekly-27-2025-breaking-changes-yay-or-nay/))
 - Avoid the Wrong Job: The Ultimate .NET Interview Question Playbook ([7 days ago](https://dotnettips.wordpress.com/2025/07/06/avoid-the-wrong-job-the-ultimate-net-interview-question-playbook/))
 - Local AI + .NET = AltText Magic in One C# Script - .NET Blog ([10 days ago](https://dotnetkicks.com/r/724078?url=https://devblogs.microsoft.com/dotnet/alttext-generator-csharp-local-models/))
@@ -32,7 +32,7 @@ description: DotNet Updates
 - Implement ASP.NET Core OpenID Connect with Keycloak to implement Level of Authentication (LoA) requirements ([11 days ago](https://dotnetkicks.com/r/724019?url=https://damienbod.com/2025/07/02/implement-asp-net-core-openid-connect-with-keykloak-to-implement-level-of-authentication-loa-requirements/))
 - UX Chronicles: The Office That Time Forgot – Why Microsoft Must Rethink User Experience Now ([11 days ago](https://dotnettips.wordpress.com/2025/07/02/ux-chronicles-the-office-that-time-forgot-why-microsoft-must-rethink-user-experience-now/))
 - Exploring the features of dotnet run app.cs: Exploring the .NET 10 preview - Part 1 ([11 days ago](https://dotnetkicks.com/r/723944?url=https://andrewlock.net/exploring-dotnet-10-preview-features-1-exploring-the-dotnet-run-app.cs/))
-- Exploring the features of dotnet run app.cs: Exploring the .NET 10 preview - Part 1 ([11 days ago](https://andrewlock.net/exploring-dotnet-10-preview-features-1-exploring-the-dotnet-run-app.cs/))
+- Exploring the features of dotnet run app.cs: Exploring the .NET 10 preview - Part 1 ([12 days ago](https://andrewlock.net/exploring-dotnet-10-preview-features-1-exploring-the-dotnet-run-app.cs/))
 - ReSharper and Rider 2025.1.4: Another Set of Bug-fixes Released ([13 days ago](https://blog.jetbrains.com/dotnet/2025/06/30/resharper-and-rider-2025-1-4/))
 - Boost Your .NET Projects: Mastering Method Returns with Spargine’s SimpleResult Type ([14 days ago](https://dotnettips.wordpress.com/2025/06/29/boost-your-net-projects-mastering-method-returns-with-spargines-simpleresult-type/))
 - Pi-hole DNS on UGOS PRO 1.6.0.2917 ([14 days ago](https://dotnetkicks.com/r/723852?url=https://sergeytihon.com/2025/06/28/pi-hole-dns-on-ugos-pro-1-6-0-2917/))
@@ -43,7 +43,7 @@ description: DotNet Updates
 - It's Still About The Data: Practical Approach To Building With Agentic AI, LLMs And Generative AI  -  Build5Nines ([16 days ago](https://dotnetkicks.com/r/723757?url=https://build5nines.com/its-still-about-the-data-practical-approach-to-building-with-agentic-ai-llms-and-generative-ai/))
 - Simpler XAML in .NET MAUI 10 - .NET Blog ([16 days ago](https://dotnetkicks.com/r/723718?url=https://devblogs.microsoft.com/dotnet/simpler-xaml-in-dotnet-maui-10/))
 - Simpler XAML in .NET MAUI 10 ([16 days ago](https://devblogs.microsoft.com/dotnet/simpler-xaml-in-dotnet-maui-10/))
-- Rider 2025.2 EAP 7: Low-Level Exception Suppression and Other Updates for Debugging Games ([16 days ago](https://blog.jetbrains.com/dotnet/2025/06/26/rider-2025-2-eap-7-low-level-exception-suppression/))
+- Rider 2025.2 EAP 7: Low-Level Exception Suppression and Other Updates for Debugging Games ([17 days ago](https://blog.jetbrains.com/dotnet/2025/06/26/rider-2025-2-eap-7-low-level-exception-suppression/))
 - Securing Terraform State In Azure Blob Storage Using Best Practices  -  Build5Nines ([17 days ago](https://dotnetkicks.com/r/723657?url=https://build5nines.com/securing-terraform-state-in-azure-blob-storage-using-best-practices/))
 - UX Chronicles: Why Developers Should Care About User Experience (Yes, You!) ([18 days ago](https://dotnettips.wordpress.com/2025/06/25/ux-chronicles-why-developers-should-care-about-user-experience-yes-you/))
 - Legacy Code Survival Guide: Visual Basic and .NET in 2025 ([18 days ago](https://dotnetkicks.com/r/723418?url=https://www.mobilize.net/blog/legacy-code-survival-guide-visual-basic-and-.net-in-2025?utm_source=DNK-723418&utm_medium=DNK-723418&utm_content=DNK-723418&utm_campaign=DNK-723418))
@@ -56,6 +56,5 @@ description: DotNet Updates
 - Rider 2025.2 EAP 5: Reimagined Monitoring Tool Window and New OpenTelemetry Plugin ([26 days ago](https://blog.jetbrains.com/dotnet/2025/06/16/rider-eap-5-new-monitoring-tool-opentelemetry-plugin/))
 - OpenTelemetry Plugin for JetBrains Rider: Observability Inside Your IDE ([26 days ago](https://blog.jetbrains.com/dotnet/2025/06/16/opentelemetry-plugin-for-jetbrains-rider/))
 - dotNetDave Says… Don’t Build Frankenstein’s Monster Applications! ([28 days ago](https://dotnettips.wordpress.com/2025/06/15/dotnetdave-says-dont-build-frankensteins-monster-applications/))
-- JetBrains GameDev Days 2025 – Call for Speakers ([29 days ago](https://blog.jetbrains.com/dotnet/2025/06/13/jetbrains-gamedev-days-2025-call-for-speakers/))
 
 <!-- news_marker ends -->
