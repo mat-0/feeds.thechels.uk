@@ -8,7 +8,8 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- F# Weekly #28, 2025 - Beyond Zero-Allocation ([16 hours ago](https://dotnetkicks.com/r/724901?url=https://sergeytihon.com/2025/07/12/f-weekly-28-2025-beyond-zero-allocation/))
+- JetBrains .NET Days Online 2025 — Call for Speakers ([28 minutes ago](https://blog.jetbrains.com/dotnet/2025/07/14/jetbrains-net-days-online-2025-call-for-speakers/))
+- F# Weekly #28, 2025 - Beyond Zero-Allocation ([17 hours ago](https://dotnetkicks.com/r/724901?url=https://sergeytihon.com/2025/07/12/f-weekly-28-2025-beyond-zero-allocation/))
 - Are Microservices Becoming Easier? ([1 days ago](https://dotnetkicks.com/r/724873?url=https://markheath.net/post/2025/7/10/microservices-architectural-strategies-techniques))
 - Boost Your .NET Projects: Add Thread-Safety with ConcurrentHashSet from Spargine ([1 days ago](https://dotnettips.wordpress.com/2025/07/13/boost-your-net-projects-add-thread-safety-with-concurrenthashset-from-spargine/))
 - Critter Stack Futures for the rest of 2025 ([2 days ago](https://dotnetkicks.com/r/724820?url=https://jeremydmiller.com/2025/07/11/critter-stack-futures-for-the-rest-of-2025/))
@@ -53,8 +54,8 @@ description: DotNet Updates
 - Boost Your .NET Projects: Exception Handling Superpowers with Spargine ([22 days ago](https://dotnettips.wordpress.com/2025/06/22/boost-your-net-projects-exception-handling-superpowers-with-spargine/))
 - Multimodal Vision Intelligence with .NET MAUI ([26 days ago](https://devblogs.microsoft.com/dotnet/multimodal-vision-intelligence-with-dotnet-maui/))
 - Working with stacked branches in git (Part 1) ([27 days ago](https://andrewlock.net/working-with-stacked-branches-in-git-part-1/))
-- Rider 2025.2 EAP 5: Reimagined Monitoring Tool Window and New OpenTelemetry Plugin ([27 days ago](https://blog.jetbrains.com/dotnet/2025/06/16/rider-eap-5-new-monitoring-tool-opentelemetry-plugin/))
-- OpenTelemetry Plugin for JetBrains Rider: Observability Inside Your IDE ([27 days ago](https://blog.jetbrains.com/dotnet/2025/06/16/opentelemetry-plugin-for-jetbrains-rider/))
+- Rider 2025.2 EAP 5: Reimagined Monitoring Tool Window and New OpenTelemetry Plugin ([28 days ago](https://blog.jetbrains.com/dotnet/2025/06/16/rider-eap-5-new-monitoring-tool-opentelemetry-plugin/))
+- OpenTelemetry Plugin for JetBrains Rider: Observability Inside Your IDE ([28 days ago](https://blog.jetbrains.com/dotnet/2025/06/16/opentelemetry-plugin-for-jetbrains-rider/))
 - dotNetDave Says… Don’t Build Frankenstein’s Monster Applications! ([29 days ago](https://dotnettips.wordpress.com/2025/06/15/dotnetdave-says-dont-build-frankensteins-monster-applications/))
 
 <!-- news_marker ends -->
