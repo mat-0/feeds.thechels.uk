@@ -9,7 +9,7 @@ description: DotNet Updates
 
 <!-- news_marker starts -->
 - F# Weekly #28, 2025 - Beyond Zero-Allocation ([10 hours ago](https://dotnetkicks.com/r/724901?url=https://sergeytihon.com/2025/07/12/f-weekly-28-2025-beyond-zero-allocation/))
-- Are Microservices Becoming Easier? ([18 hours ago](https://dotnetkicks.com/r/724873?url=https://markheath.net/post/2025/7/10/microservices-architectural-strategies-techniques))
+- Are Microservices Becoming Easier? ([19 hours ago](https://dotnetkicks.com/r/724873?url=https://markheath.net/post/2025/7/10/microservices-architectural-strategies-techniques))
 - Boost Your .NET Projects: Add Thread-Safety with ConcurrentHashSet from Spargine ([1 days ago](https://dotnettips.wordpress.com/2025/07/13/boost-your-net-projects-add-thread-safety-with-concurrenthashset-from-spargine/))
 - Critter Stack Futures for the rest of 2025 ([2 days ago](https://dotnetkicks.com/r/724820?url=https://jeremydmiller.com/2025/07/11/critter-stack-futures-for-the-rest-of-2025/))
 - dotNetDave Rocks ØREDEV DEVELOPERS CONFERENCE 2025 ([3 days ago](https://dotnettips.wordpress.com/2025/07/11/dotnetdave-rocks-oredev-developers-conference-2025/))
@@ -35,7 +35,7 @@ description: DotNet Updates
 - UX Chronicles: The Office That Time Forgot – Why Microsoft Must Rethink User Experience Now ([12 days ago](https://dotnettips.wordpress.com/2025/07/02/ux-chronicles-the-office-that-time-forgot-why-microsoft-must-rethink-user-experience-now/))
 - Exploring the features of dotnet run app.cs: Exploring the .NET 10 preview - Part 1 ([12 days ago](https://dotnetkicks.com/r/723944?url=https://andrewlock.net/exploring-dotnet-10-preview-features-1-exploring-the-dotnet-run-app.cs/))
 - Exploring the features of dotnet run app.cs: Exploring the .NET 10 preview - Part 1 ([12 days ago](https://andrewlock.net/exploring-dotnet-10-preview-features-1-exploring-the-dotnet-run-app.cs/))
-- ReSharper and Rider 2025.1.4: Another Set of Bug-fixes Released ([13 days ago](https://blog.jetbrains.com/dotnet/2025/06/30/resharper-and-rider-2025-1-4/))
+- ReSharper and Rider 2025.1.4: Another Set of Bug-fixes Released ([14 days ago](https://blog.jetbrains.com/dotnet/2025/06/30/resharper-and-rider-2025-1-4/))
 - Boost Your .NET Projects: Mastering Method Returns with Spargine’s SimpleResult Type ([15 days ago](https://dotnettips.wordpress.com/2025/06/29/boost-your-net-projects-mastering-method-returns-with-spargines-simpleresult-type/))
 - Pi-hole DNS on UGOS PRO 1.6.0.2917 ([15 days ago](https://dotnetkicks.com/r/723852?url=https://sergeytihon.com/2025/06/28/pi-hole-dns-on-ugos-pro-1-6-0-2917/))
 - From Extension Methods to Extension Members: Unlocking New Possibilities in .NET 10 ([17 days ago](https://dotnettips.wordpress.com/2025/06/27/from-extension-methods-to-extension-members-unlocking-new-possibilities-in-net-10/))
