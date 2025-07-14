@@ -8,12 +8,12 @@ description: SecOps News
 [Get this as an RSS feed](/secops.rss)
 
 <!-- news_marker starts -->
-- 13 Romanians Arrested for Phishing the UK’s Tax Service ([2 hours ago](https://www.securityweek.com/thirteen-romanians-arrested-for-phishing-the-uks-tax-service/))
+- 13 Romanians Arrested for Phishing the UK’s Tax Service ([3 hours ago](https://www.securityweek.com/thirteen-romanians-arrested-for-phishing-the-uks-tax-service/))
 - Nvidia warns its GPUs – even Blackwells – need protection against Rowhammer attacks ([5 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/07/13/infosec_in_brief/))
-- Windows 10 KB5062554 update breaks emoji panel search feature ([10 hours ago](https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5062554-update-breaks-emoji-panel-search-feature/))
+- Windows 10 KB5062554 update breaks emoji panel search feature ([11 hours ago](https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5062554-update-breaks-emoji-panel-search-feature/))
 - Google Gemini flaw hijacks email summaries for phishing ([14 hours ago](https://www.bleepingcomputer.com/news/security/google-gemini-flaw-hijacks-email-summaries-for-phishing/))
-- You have a fake North Korean IT worker problem - here's how to stop it ([17 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/07/13/fake_it_worker_problem/))
-- Omnicuris - 215,298 breached accounts ([22 hours ago](https://haveibeenpwned.com/Breach/Omnicuris))
+- You have a fake North Korean IT worker problem - here's how to stop it ([18 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/07/13/fake_it_worker_problem/))
+- Omnicuris - 215,298 breached accounts ([23 hours ago](https://haveibeenpwned.com/Breach/Omnicuris))
 - Missing Critical Security Headers in OpenBlow ([1 days ago](https://seclists.org/fulldisclosure/2025/Jul/13))
 - Weekly Update 460 ([1 days ago](https://www.troyhunt.com/weekly-update-460/))
 - GPUHammer: New RowHammer Attack Variant Degrades AI Models on NVIDIA GPUs ([1 days ago](https://thehackernews.com/2025/07/gpuhammer-new-rowhammer-attack-variant.html))
