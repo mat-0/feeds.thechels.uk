@@ -8,9 +8,9 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- F# Weekly #28, 2025 - Beyond Zero-Allocation ([5 hours ago](https://dotnetkicks.com/r/724901?url=https://sergeytihon.com/2025/07/12/f-weekly-28-2025-beyond-zero-allocation/))
-- Are Microservices Becoming Easier? ([14 hours ago](https://dotnetkicks.com/r/724873?url=https://markheath.net/post/2025/7/10/microservices-architectural-strategies-techniques))
-- Boost Your .NET Projects: Add Thread-Safety with ConcurrentHashSet from Spargine ([21 hours ago](https://dotnettips.wordpress.com/2025/07/13/boost-your-net-projects-add-thread-safety-with-concurrenthashset-from-spargine/))
+- F# Weekly #28, 2025 - Beyond Zero-Allocation ([6 hours ago](https://dotnetkicks.com/r/724901?url=https://sergeytihon.com/2025/07/12/f-weekly-28-2025-beyond-zero-allocation/))
+- Are Microservices Becoming Easier? ([15 hours ago](https://dotnetkicks.com/r/724873?url=https://markheath.net/post/2025/7/10/microservices-architectural-strategies-techniques))
+- Boost Your .NET Projects: Add Thread-Safety with ConcurrentHashSet from Spargine ([22 hours ago](https://dotnettips.wordpress.com/2025/07/13/boost-your-net-projects-add-thread-safety-with-concurrenthashset-from-spargine/))
 - Critter Stack Futures for the rest of 2025 ([2 days ago](https://dotnetkicks.com/r/724820?url=https://jeremydmiller.com/2025/07/11/critter-stack-futures-for-the-rest-of-2025/))
 - dotNetDave Rocks ØREDEV DEVELOPERS CONFERENCE 2025 ([2 days ago](https://dotnettips.wordpress.com/2025/07/11/dotnetdave-rocks-oredev-developers-conference-2025/))
 - Customize AI responses from GitHub Copilot - .NET Blog ([3 days ago](https://dotnetkicks.com/r/724693?url=https://devblogs.microsoft.com/dotnet/customize-ai-responses-from-github-copilot/))
