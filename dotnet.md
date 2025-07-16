@@ -8,10 +8,10 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- The Day the Software Community Died: Let’s Stop Coding in Isolation and Start Creating Community—And Software—People Truly Love ([12 hours ago](https://dotnettips.wordpress.com/2025/07/16/the-day-the-software-community-died-lets-stop-coding-in-isolation-and-start-creating-community-and-software-people-truly-love/))
-- Building Your First MCP Server with .NET and Publishing to NuGet - .NET Blog ([22 hours ago](https://dotnetkicks.com/r/725107?url=https://devblogs.microsoft.com/dotnet/mcp-server-dotnet-nuget-quickstart/))
-- Building Your First MCP Server with .NET and Publishing to NuGet - .NET Blog ([22 hours ago](https://dotnetkicks.com/r/725090?url=https://devblogs.microsoft.com/dotnet/mcp-server-dotnet-nuget-quickstart/))
-- Building Your First MCP Server with .NET and Publishing to NuGet ([22 hours ago](https://devblogs.microsoft.com/dotnet/mcp-server-dotnet-nuget-quickstart/))
+- The Day the Software Community Died: Let’s Stop Coding in Isolation and Start Creating Community—And Software—People Truly Love ([13 hours ago](https://dotnettips.wordpress.com/2025/07/16/the-day-the-software-community-died-lets-stop-coding-in-isolation-and-start-creating-community-and-software-people-truly-love/))
+- Building Your First MCP Server with .NET and Publishing to NuGet - .NET Blog ([23 hours ago](https://dotnetkicks.com/r/725107?url=https://devblogs.microsoft.com/dotnet/mcp-server-dotnet-nuget-quickstart/))
+- Building Your First MCP Server with .NET and Publishing to NuGet - .NET Blog ([23 hours ago](https://dotnetkicks.com/r/725090?url=https://devblogs.microsoft.com/dotnet/mcp-server-dotnet-nuget-quickstart/))
+- Building Your First MCP Server with .NET and Publishing to NuGet ([23 hours ago](https://devblogs.microsoft.com/dotnet/mcp-server-dotnet-nuget-quickstart/))
 - .NET 10 Preview 6 is now available! - .NET Blog ([1 days ago](https://dotnetkicks.com/r/725082?url=https://devblogs.microsoft.com/dotnet/dotnet-10-preview-6/))
 - .NET 10 Preview 6 is now available! - .NET Blog ([1 days ago](https://dotnetkicks.com/r/725074?url=https://devblogs.microsoft.com/dotnet/dotnet-10-preview-6/))
 - .NET 10 Preview 6 is now available! ([1 days ago](https://devblogs.microsoft.com/dotnet/dotnet-10-preview-6/))
@@ -34,7 +34,7 @@ description: DotNet Updates
 - Self-Healing Akka.NET Clusters ([7 days ago](https://dotnetkicks.com/r/724487?url=https://petabridge.com/blog/akkadotnet-cluster-split-brain-resolver/))
 - Self-Healing Akka.NET Clusters ([7 days ago](https://dotnetkicks.com/r/724474?url=https://petabridge.com/blog/akkadotnet-cluster-split-brain-resolver/))
 - .NET and .NET Framework July 2025 servicing releases updates - .NET Blog ([7 days ago](https://dotnetkicks.com/r/724448?url=https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-july-2025-servicing-updates/))
-- .NET and .NET Framework July 2025 servicing releases updates ([7 days ago](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-july-2025-servicing-updates/))
+- .NET and .NET Framework July 2025 servicing releases updates ([8 days ago](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-july-2025-servicing-updates/))
 - AutoMapper and MediatR Roadmaps ([8 days ago](https://dotnetkicks.com/r/724429?url=https://www.jimmybogard.com/automapper-and-mediatr-roadmaps/))
 - AutoMapper and MediatR Roadmaps ([8 days ago](https://dotnetkicks.com/r/724411?url=https://www.jimmybogard.com/automapper-and-mediatr-roadmaps/))
 - Behind the scenes of dotnet run app.cs: Exploring the .NET 10 preview - Part 2 ([8 days ago](https://andrewlock.net/exploring-dotnet-10-preview-features-2-behind-the-scenes-of-dotnet-run-app.cs/))
