@@ -8,10 +8,10 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- The Day the Software Community Died: Let’s Stop Coding in Isolation and Start Creating Community—And Software—People Truly Love ([9 hours ago](https://dotnettips.wordpress.com/2025/07/16/the-day-the-software-community-died-lets-stop-coding-in-isolation-and-start-creating-community-and-software-people-truly-love/))
-- Building Your First MCP Server with .NET and Publishing to NuGet - .NET Blog ([19 hours ago](https://dotnetkicks.com/r/725107?url=https://devblogs.microsoft.com/dotnet/mcp-server-dotnet-nuget-quickstart/))
-- Building Your First MCP Server with .NET and Publishing to NuGet - .NET Blog ([19 hours ago](https://dotnetkicks.com/r/725090?url=https://devblogs.microsoft.com/dotnet/mcp-server-dotnet-nuget-quickstart/))
-- Building Your First MCP Server with .NET and Publishing to NuGet ([19 hours ago](https://devblogs.microsoft.com/dotnet/mcp-server-dotnet-nuget-quickstart/))
+- The Day the Software Community Died: Let’s Stop Coding in Isolation and Start Creating Community—And Software—People Truly Love ([10 hours ago](https://dotnettips.wordpress.com/2025/07/16/the-day-the-software-community-died-lets-stop-coding-in-isolation-and-start-creating-community-and-software-people-truly-love/))
+- Building Your First MCP Server with .NET and Publishing to NuGet - .NET Blog ([20 hours ago](https://dotnetkicks.com/r/725107?url=https://devblogs.microsoft.com/dotnet/mcp-server-dotnet-nuget-quickstart/))
+- Building Your First MCP Server with .NET and Publishing to NuGet - .NET Blog ([20 hours ago](https://dotnetkicks.com/r/725090?url=https://devblogs.microsoft.com/dotnet/mcp-server-dotnet-nuget-quickstart/))
+- Building Your First MCP Server with .NET and Publishing to NuGet ([20 hours ago](https://devblogs.microsoft.com/dotnet/mcp-server-dotnet-nuget-quickstart/))
 - .NET 10 Preview 6 is now available! - .NET Blog ([22 hours ago](https://dotnetkicks.com/r/725082?url=https://devblogs.microsoft.com/dotnet/dotnet-10-preview-6/))
 - .NET 10 Preview 6 is now available! - .NET Blog ([22 hours ago](https://dotnetkicks.com/r/725074?url=https://devblogs.microsoft.com/dotnet/dotnet-10-preview-6/))
 - .NET 10 Preview 6 is now available! ([22 hours ago](https://devblogs.microsoft.com/dotnet/dotnet-10-preview-6/))
