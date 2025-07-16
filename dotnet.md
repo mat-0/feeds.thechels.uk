@@ -8,10 +8,10 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- The Day the Software Community Died: Let’s Stop Coding in Isolation and Start Creating Community—And Software—People Truly Love ([8 hours ago](https://dotnettips.wordpress.com/2025/07/16/the-day-the-software-community-died-lets-stop-coding-in-isolation-and-start-creating-community-and-software-people-truly-love/))
-- Building Your First MCP Server with .NET and Publishing to NuGet - .NET Blog ([18 hours ago](https://dotnetkicks.com/r/725107?url=https://devblogs.microsoft.com/dotnet/mcp-server-dotnet-nuget-quickstart/))
-- Building Your First MCP Server with .NET and Publishing to NuGet - .NET Blog ([18 hours ago](https://dotnetkicks.com/r/725090?url=https://devblogs.microsoft.com/dotnet/mcp-server-dotnet-nuget-quickstart/))
-- Building Your First MCP Server with .NET and Publishing to NuGet ([18 hours ago](https://devblogs.microsoft.com/dotnet/mcp-server-dotnet-nuget-quickstart/))
+- The Day the Software Community Died: Let’s Stop Coding in Isolation and Start Creating Community—And Software—People Truly Love ([9 hours ago](https://dotnettips.wordpress.com/2025/07/16/the-day-the-software-community-died-lets-stop-coding-in-isolation-and-start-creating-community-and-software-people-truly-love/))
+- Building Your First MCP Server with .NET and Publishing to NuGet - .NET Blog ([19 hours ago](https://dotnetkicks.com/r/725107?url=https://devblogs.microsoft.com/dotnet/mcp-server-dotnet-nuget-quickstart/))
+- Building Your First MCP Server with .NET and Publishing to NuGet - .NET Blog ([19 hours ago](https://dotnetkicks.com/r/725090?url=https://devblogs.microsoft.com/dotnet/mcp-server-dotnet-nuget-quickstart/))
+- Building Your First MCP Server with .NET and Publishing to NuGet ([19 hours ago](https://devblogs.microsoft.com/dotnet/mcp-server-dotnet-nuget-quickstart/))
 - .NET 10 Preview 6 is now available! - .NET Blog ([21 hours ago](https://dotnetkicks.com/r/725082?url=https://devblogs.microsoft.com/dotnet/dotnet-10-preview-6/))
 - .NET 10 Preview 6 is now available! - .NET Blog ([21 hours ago](https://dotnetkicks.com/r/725074?url=https://devblogs.microsoft.com/dotnet/dotnet-10-preview-6/))
 - .NET 10 Preview 6 is now available! ([21 hours ago](https://devblogs.microsoft.com/dotnet/dotnet-10-preview-6/))
@@ -20,7 +20,7 @@ description: DotNet Updates
 - C# 14 extension members; AKA extension everything: Exploring the .NET 10 preview - Part 3 ([1 days ago](https://dotnetkicks.com/r/725042?url=https://andrewlock.net/exploring-dotnet-10-preview-features-3-csharp-14-extensions-members/))
 - dotInsights  -  July 2025 ([1 days ago](https://blog.jetbrains.com/dotnet/2025/07/15/dotinsights-july-2025/))
 - C# 14 extension members; AKA extension everything: Exploring the .NET 10 preview - Part 3 ([1 days ago](https://andrewlock.net/exploring-dotnet-10-preview-features-3-csharp-14-extensions-members/))
-- JetBrains .NET Days Online 2025 — Call for Speakers ([1 days ago](https://blog.jetbrains.com/dotnet/2025/07/14/jetbrains-net-days-online-2025-call-for-speakers/))
+- JetBrains .NET Days Online 2025 — Call for Speakers ([2 days ago](https://blog.jetbrains.com/dotnet/2025/07/14/jetbrains-net-days-online-2025-call-for-speakers/))
 - F# Weekly #28, 2025 - Beyond Zero-Allocation ([2 days ago](https://dotnetkicks.com/r/724901?url=https://sergeytihon.com/2025/07/12/f-weekly-28-2025-beyond-zero-allocation/))
 - Are Microservices Becoming Easier? ([3 days ago](https://dotnetkicks.com/r/724873?url=https://markheath.net/post/2025/7/10/microservices-architectural-strategies-techniques))
 - Boost Your .NET Projects: Add Thread-Safety with ConcurrentHashSet from Spargine ([3 days ago](https://dotnettips.wordpress.com/2025/07/13/boost-your-net-projects-add-thread-safety-with-concurrenthashset-from-spargine/))
@@ -59,7 +59,5 @@ description: DotNet Updates
 - Boost Your .NET Projects: Exception Handling Superpowers with Spargine ([24 days ago](https://dotnettips.wordpress.com/2025/06/22/boost-your-net-projects-exception-handling-superpowers-with-spargine/))
 - Multimodal Vision Intelligence with .NET MAUI ([28 days ago](https://devblogs.microsoft.com/dotnet/multimodal-vision-intelligence-with-dotnet-maui/))
 - Working with stacked branches in git (Part 1) ([29 days ago](https://andrewlock.net/working-with-stacked-branches-in-git-part-1/))
-- Rider 2025.2 EAP 5: Reimagined Monitoring Tool Window and New OpenTelemetry Plugin ([29 days ago](https://blog.jetbrains.com/dotnet/2025/06/16/rider-eap-5-new-monitoring-tool-opentelemetry-plugin/))
-- OpenTelemetry Plugin for JetBrains Rider: Observability Inside Your IDE ([29 days ago](https://blog.jetbrains.com/dotnet/2025/06/16/opentelemetry-plugin-for-jetbrains-rider/))
 
 <!-- news_marker ends -->
