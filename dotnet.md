@@ -9,8 +9,8 @@ description: DotNet Updates
 
 <!-- news_marker starts -->
 - Accelerate SQL Server Migration to Azure with Azure Arc - Microsoft SQL Server Blog ([16 hours ago](https://dotnetkicks.com/r/725360?url=https://www.microsoft.com/en-us/sql-server/blog/2025/07/17/accelerate-sql-server-migration-to-azure-with-azure-arc/))
-- dotnet cake.cs - preview ([19 hours ago](https://dotnetkicks.com/r/725331?url=https://cakebuild.net/blog/2025/07/dotnet-cake-cs))
-- Still Compiling: Two Shirts Every Veteran Software Engineer Needs ([20 hours ago](https://dotnettips.wordpress.com/2025/07/17/still-compiling-two-shirts-every-veteran-software-engineer-needs/))
+- dotnet cake.cs - preview ([20 hours ago](https://dotnetkicks.com/r/725331?url=https://cakebuild.net/blog/2025/07/dotnet-cake-cs))
+- Still Compiling: Two Shirts Every Veteran Software Engineer Needs ([21 hours ago](https://dotnettips.wordpress.com/2025/07/17/still-compiling-two-shirts-every-veteran-software-engineer-needs/))
 - The Day the Software Community Died: Let’s Stop Coding in Isolation and Start Creating Community—And Software—People Truly Love ([2 days ago](https://dotnettips.wordpress.com/2025/07/16/the-day-the-software-community-died-lets-stop-coding-in-isolation-and-start-creating-community-and-software-people-truly-love/))
 - Building Your First MCP Server with .NET and Publishing to NuGet - .NET Blog ([2 days ago](https://dotnetkicks.com/r/725107?url=https://devblogs.microsoft.com/dotnet/mcp-server-dotnet-nuget-quickstart/))
 - Building Your First MCP Server with .NET and Publishing to NuGet - .NET Blog ([2 days ago](https://dotnetkicks.com/r/725090?url=https://devblogs.microsoft.com/dotnet/mcp-server-dotnet-nuget-quickstart/))
@@ -23,7 +23,7 @@ description: DotNet Updates
 - C# 14 extension members; AKA extension everything: Exploring the .NET 10 preview - Part 3 ([3 days ago](https://dotnetkicks.com/r/725042?url=https://andrewlock.net/exploring-dotnet-10-preview-features-3-csharp-14-extensions-members/))
 - dotInsights  -  July 2025 ([3 days ago](https://blog.jetbrains.com/dotnet/2025/07/15/dotinsights-july-2025/))
 - C# 14 extension members; AKA extension everything: Exploring the .NET 10 preview - Part 3 ([3 days ago](https://andrewlock.net/exploring-dotnet-10-preview-features-3-csharp-14-extensions-members/))
-- JetBrains .NET Days Online 2025 — Call for Speakers ([3 days ago](https://blog.jetbrains.com/dotnet/2025/07/14/jetbrains-net-days-online-2025-call-for-speakers/))
+- JetBrains .NET Days Online 2025 — Call for Speakers ([4 days ago](https://blog.jetbrains.com/dotnet/2025/07/14/jetbrains-net-days-online-2025-call-for-speakers/))
 - F# Weekly #28, 2025 - Beyond Zero-Allocation ([4 days ago](https://dotnetkicks.com/r/724901?url=https://sergeytihon.com/2025/07/12/f-weekly-28-2025-beyond-zero-allocation/))
 - Are Microservices Becoming Easier? ([5 days ago](https://dotnetkicks.com/r/724873?url=https://markheath.net/post/2025/7/10/microservices-architectural-strategies-techniques))
 - Boost Your .NET Projects: Add Thread-Safety with ConcurrentHashSet from Spargine ([5 days ago](https://dotnettips.wordpress.com/2025/07/13/boost-your-net-projects-add-thread-safety-with-concurrenthashset-from-spargine/))
