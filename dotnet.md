@@ -8,7 +8,7 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Accelerate SQL Server Migration to Azure with Azure Arc - Microsoft SQL Server Blog ([17 hours ago](https://dotnetkicks.com/r/725360?url=https://www.microsoft.com/en-us/sql-server/blog/2025/07/17/accelerate-sql-server-migration-to-azure-with-azure-arc/))
+- Accelerate SQL Server Migration to Azure with Azure Arc - Microsoft SQL Server Blog ([18 hours ago](https://dotnetkicks.com/r/725360?url=https://www.microsoft.com/en-us/sql-server/blog/2025/07/17/accelerate-sql-server-migration-to-azure-with-azure-arc/))
 - dotnet cake.cs - preview ([21 hours ago](https://dotnetkicks.com/r/725331?url=https://cakebuild.net/blog/2025/07/dotnet-cake-cs))
 - Still Compiling: Two Shirts Every Veteran Software Engineer Needs ([22 hours ago](https://dotnettips.wordpress.com/2025/07/17/still-compiling-two-shirts-every-veteran-software-engineer-needs/))
 - The Day the Software Community Died: Let’s Stop Coding in Isolation and Start Creating Community—And Software—People Truly Love ([2 days ago](https://dotnettips.wordpress.com/2025/07/16/the-day-the-software-community-died-lets-stop-coding-in-isolation-and-start-creating-community-and-software-people-truly-love/))
@@ -38,8 +38,8 @@ description: DotNet Updates
 - Self-Healing Akka.NET Clusters ([9 days ago](https://dotnetkicks.com/r/724474?url=https://petabridge.com/blog/akkadotnet-cluster-split-brain-resolver/))
 - .NET and .NET Framework July 2025 servicing releases updates - .NET Blog ([9 days ago](https://dotnetkicks.com/r/724448?url=https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-july-2025-servicing-updates/))
 - .NET and .NET Framework July 2025 servicing releases updates ([9 days ago](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-july-2025-servicing-updates/))
-- AutoMapper and MediatR Roadmaps ([9 days ago](https://dotnetkicks.com/r/724429?url=https://www.jimmybogard.com/automapper-and-mediatr-roadmaps/))
-- AutoMapper and MediatR Roadmaps ([9 days ago](https://dotnetkicks.com/r/724411?url=https://www.jimmybogard.com/automapper-and-mediatr-roadmaps/))
+- AutoMapper and MediatR Roadmaps ([10 days ago](https://dotnetkicks.com/r/724429?url=https://www.jimmybogard.com/automapper-and-mediatr-roadmaps/))
+- AutoMapper and MediatR Roadmaps ([10 days ago](https://dotnetkicks.com/r/724411?url=https://www.jimmybogard.com/automapper-and-mediatr-roadmaps/))
 - Behind the scenes of dotnet run app.cs: Exploring the .NET 10 preview - Part 2 ([10 days ago](https://andrewlock.net/exploring-dotnet-10-preview-features-2-behind-the-scenes-of-dotnet-run-app.cs/))
 - F# Weekly #27, 2025 - Breaking changes: Yay or Nay? ([12 days ago](https://dotnetkicks.com/r/724267?url=https://sergeytihon.com/2025/07/05/f-weekly-27-2025-breaking-changes-yay-or-nay/))
 - Avoid the Wrong Job: The Ultimate .NET Interview Question Playbook ([12 days ago](https://dotnettips.wordpress.com/2025/07/06/avoid-the-wrong-job-the-ultimate-net-interview-question-playbook/))
