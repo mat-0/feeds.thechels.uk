@@ -8,9 +8,9 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Accelerate SQL Server Migration to Azure with Azure Arc - Microsoft SQL Server Blog ([14 hours ago](https://dotnetkicks.com/r/725360?url=https://www.microsoft.com/en-us/sql-server/blog/2025/07/17/accelerate-sql-server-migration-to-azure-with-azure-arc/))
+- Accelerate SQL Server Migration to Azure with Azure Arc - Microsoft SQL Server Blog ([15 hours ago](https://dotnetkicks.com/r/725360?url=https://www.microsoft.com/en-us/sql-server/blog/2025/07/17/accelerate-sql-server-migration-to-azure-with-azure-arc/))
 - dotnet cake.cs - preview ([18 hours ago](https://dotnetkicks.com/r/725331?url=https://cakebuild.net/blog/2025/07/dotnet-cake-cs))
-- Still Compiling: Two Shirts Every Veteran Software Engineer Needs ([19 hours ago](https://dotnettips.wordpress.com/2025/07/17/still-compiling-two-shirts-every-veteran-software-engineer-needs/))
+- Still Compiling: Two Shirts Every Veteran Software Engineer Needs ([20 hours ago](https://dotnettips.wordpress.com/2025/07/17/still-compiling-two-shirts-every-veteran-software-engineer-needs/))
 - The Day the Software Community Died: Let’s Stop Coding in Isolation and Start Creating Community—And Software—People Truly Love ([2 days ago](https://dotnettips.wordpress.com/2025/07/16/the-day-the-software-community-died-lets-stop-coding-in-isolation-and-start-creating-community-and-software-people-truly-love/))
 - Building Your First MCP Server with .NET and Publishing to NuGet - .NET Blog ([2 days ago](https://dotnetkicks.com/r/725107?url=https://devblogs.microsoft.com/dotnet/mcp-server-dotnet-nuget-quickstart/))
 - Building Your First MCP Server with .NET and Publishing to NuGet - .NET Blog ([2 days ago](https://dotnetkicks.com/r/725090?url=https://devblogs.microsoft.com/dotnet/mcp-server-dotnet-nuget-quickstart/))
