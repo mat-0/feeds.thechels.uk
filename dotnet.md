@@ -9,7 +9,7 @@ description: DotNet Updates
 
 <!-- news_marker starts -->
 - Accelerate SQL Server Migration to Azure with Azure Arc - Microsoft SQL Server Blog ([15 hours ago](https://dotnetkicks.com/r/725360?url=https://www.microsoft.com/en-us/sql-server/blog/2025/07/17/accelerate-sql-server-migration-to-azure-with-azure-arc/))
-- dotnet cake.cs - preview ([18 hours ago](https://dotnetkicks.com/r/725331?url=https://cakebuild.net/blog/2025/07/dotnet-cake-cs))
+- dotnet cake.cs - preview ([19 hours ago](https://dotnetkicks.com/r/725331?url=https://cakebuild.net/blog/2025/07/dotnet-cake-cs))
 - Still Compiling: Two Shirts Every Veteran Software Engineer Needs ([20 hours ago](https://dotnettips.wordpress.com/2025/07/17/still-compiling-two-shirts-every-veteran-software-engineer-needs/))
 - The Day the Software Community Died: Let’s Stop Coding in Isolation and Start Creating Community—And Software—People Truly Love ([2 days ago](https://dotnettips.wordpress.com/2025/07/16/the-day-the-software-community-died-lets-stop-coding-in-isolation-and-start-creating-community-and-software-people-truly-love/))
 - Building Your First MCP Server with .NET and Publishing to NuGet - .NET Blog ([2 days ago](https://dotnetkicks.com/r/725107?url=https://devblogs.microsoft.com/dotnet/mcp-server-dotnet-nuget-quickstart/))
@@ -19,7 +19,7 @@ description: DotNet Updates
 - .NET 10 Preview 6 is now available! - .NET Blog ([2 days ago](https://dotnetkicks.com/r/725074?url=https://devblogs.microsoft.com/dotnet/dotnet-10-preview-6/))
 - .NET 10 Preview 6 is now available! ([2 days ago](https://devblogs.microsoft.com/dotnet/dotnet-10-preview-6/))
 - Protect and modernize SQL Server 2016 workloads with Microsoft - Microsoft SQL Server Blog ([2 days ago](https://dotnetkicks.com/r/725065?url=https://www.microsoft.com/en-us/sql-server/blog/2025/07/15/protect-and-modernize-sql-server-2016-workloads-with-microsoft/))
-- The Hidden Gems of .NET 10: Lesser-Known Features That Will Transform Your Development ([2 days ago](https://dotnetkicks.com/r/724992?url=https://www.mobilize.net/blog/the-hidden-gems-of-.net-10-lesser-known-features-that-will-transform-your-development?utm_source=DNK-724992&utm_medium=DNK-724992&utm_content=DNK-724992&utm_campaign=DNK-724992))
+- The Hidden Gems of .NET 10: Lesser-Known Features That Will Transform Your Development ([3 days ago](https://dotnetkicks.com/r/724992?url=https://www.mobilize.net/blog/the-hidden-gems-of-.net-10-lesser-known-features-that-will-transform-your-development?utm_source=DNK-724992&utm_medium=DNK-724992&utm_content=DNK-724992&utm_campaign=DNK-724992))
 - C# 14 extension members; AKA extension everything: Exploring the .NET 10 preview - Part 3 ([3 days ago](https://dotnetkicks.com/r/725042?url=https://andrewlock.net/exploring-dotnet-10-preview-features-3-csharp-14-extensions-members/))
 - dotInsights  -  July 2025 ([3 days ago](https://blog.jetbrains.com/dotnet/2025/07/15/dotinsights-july-2025/))
 - C# 14 extension members; AKA extension everything: Exploring the .NET 10 preview - Part 3 ([3 days ago](https://andrewlock.net/exploring-dotnet-10-preview-features-3-csharp-14-extensions-members/))
