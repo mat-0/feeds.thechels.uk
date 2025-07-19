@@ -8,8 +8,9 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
+- Data: Backup Has Evolved, But Has Your Strategy? ([18 minutes ago](https://insurance-edge.net/2025/07/19/data-backup-has-evolved-but-has-your-strategy/))
 - Los Angeles Sues Airbnb for Alleged Price Gouging Following Wildfires ([18 hours ago](https://www.insurancejournal.com/news/west/2025/07/18/832351.htm))
-- Orion180 Launches Home Insurance Product in Massachusetts ([22 hours ago](https://insurance-edge.net/2025/07/18/orion180-launches-home-insurance-product-in-massachusetts/))
+- Orion180 Launches Home Insurance Product in Massachusetts ([23 hours ago](https://insurance-edge.net/2025/07/18/orion180-launches-home-insurance-product-in-massachusetts/))
 - People Moves: Encova Insurance Names Two New Senior Leadership Team Members; NI Holdings Inc. Names Dawson SVP and CHRO ([1 days ago](https://www.insurancejournal.com/news/midwest/2025/07/18/832339.htm))
 - Survivors’ Lawyers Allege Decades of Systemic Abuse in Illinois Detention Facilities ([1 days ago](https://www.insurancejournal.com/news/midwest/2025/07/18/832332.htm))
 - European insurers positioned for strong year-end, according to S&P ([1 days ago](https://www.reinsurancene.ws/european-insurers-positioned-for-strong-year-end-according-to-sp/))
@@ -52,7 +53,6 @@ description: Insurance Updates
 - People Moves: Higginbotham Appoints Reutter to Newly Created CFO, COO Role ([1 days ago](https://www.insurancejournal.com/news/southcentral/2025/07/18/832112.htm))
 - Home insurance experts warn of summer mistakes that could invalidate your policy ([1 days ago](https://ifamagazine.com/home-insurance-experts-warn-of-summer-mistakes-that-could-invalidate-your-policy/))
 - Aon names new specialty and logistics leaders to drive EMEA risk growth ([1 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/aon-names-new-specialty-and-logistics-leaders-to-drive-emea-risk-growth-543025.aspx))
-- CyberCube Launches Upgrades to Portfolio Manager ([1 days ago](https://insurance-edge.net/2025/07/18/cybercube-launches-upgrades-to-portfolio-manager/))
 - Coverys sells Italian MGA AEC to Edge Group to refine EU MGA strategy ([1 days ago](https://www.insurancebusinessmag.com/uk/news/mergers-acquisitions/coverys-sells-italian-mga-aec-to-edge-group-to-refine-eu-mga-strategy-543021.aspx))
 - L&G enhances adviser experience on application platform OLP Connect ([1 days ago](https://ifamagazine.com/lg-enhances-adviser-experience-on-application-platform-olp-connect/))
 - Chinese Hackers Still Trying to Break Into Telecoms Across Globe ([1 days ago](https://www.insurancejournal.com/news/international/2025/07/18/832232.htm))
