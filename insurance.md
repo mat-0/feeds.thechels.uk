@@ -9,7 +9,7 @@ description: Insurance Updates
 
 <!-- news_marker starts -->
 - Data: Backup Has Evolved, But Has Your Strategy? ([2 hours ago](https://insurance-edge.net/2025/07/19/data-backup-has-evolved-but-has-your-strategy/))
-- Los Angeles Sues Airbnb for Alleged Price Gouging Following Wildfires ([20 hours ago](https://www.insurancejournal.com/news/west/2025/07/18/832351.htm))
+- Los Angeles Sues Airbnb for Alleged Price Gouging Following Wildfires ([21 hours ago](https://www.insurancejournal.com/news/west/2025/07/18/832351.htm))
 - Orion180 Launches Home Insurance Product in Massachusetts ([1 days ago](https://insurance-edge.net/2025/07/18/orion180-launches-home-insurance-product-in-massachusetts/))
 - People Moves: Encova Insurance Names Two New Senior Leadership Team Members; NI Holdings Inc. Names Dawson SVP and CHRO ([1 days ago](https://www.insurancejournal.com/news/midwest/2025/07/18/832339.htm))
 - Survivors’ Lawyers Allege Decades of Systemic Abuse in Illinois Detention Facilities ([1 days ago](https://www.insurancejournal.com/news/midwest/2025/07/18/832332.htm))
@@ -117,7 +117,7 @@ description: Insurance Updates
 - Tomorrow’s World: Claims handling ([3 days ago](https://www.postonline.co.uk/claims/7958005/tomorrow%E2%80%99s-world-claims-handling))
 - Why FCA inaction on premium finance is unacceptable ([3 days ago](https://www.postonline.co.uk/personal/7957875/why-fca-inaction-on-premium-finance-is-unacceptable))
 - Best Insurance Employers to work for in 2025 revealed ([3 days ago](https://www.postonline.co.uk/personal/7957887/best-insurance-employers-to-work-for-in-2025-revealed))
-- Meet the insurtech: Onyx Platform ([3 days ago](https://www.dig-in.com/news/meet-the-insurtech-onyx-platform))
+- Meet the insurtech: Onyx Platform ([4 days ago](https://www.dig-in.com/news/meet-the-insurtech-onyx-platform))
 - AI transformation: The new imperative for risk management ([4 days ago](https://www.dig-in.com/opinion/ai-transformation-is-vital-for-risk-management))
 - Ethos Partners with Origin to Expand Financial Wellness Offering ([4 days ago](https://www.insurtechinsights.com/ethos-partners-with-origin-to-expand-financial-wellness-offering/))
 - Life insurance proceeds and valuation after Connelly ([4 days ago](https://www.dig-in.com/opinion/redemptions-and-reality-life-insurance-proceeds-and-valuation-after-connelly))

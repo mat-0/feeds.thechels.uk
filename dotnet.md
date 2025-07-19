@@ -43,7 +43,7 @@ description: DotNet Updates
 - Behind the scenes of dotnet run app.cs: Exploring the .NET 10 preview - Part 2 ([11 days ago](https://andrewlock.net/exploring-dotnet-10-preview-features-2-behind-the-scenes-of-dotnet-run-app.cs/))
 - F# Weekly #27, 2025 - Breaking changes: Yay or Nay? ([13 days ago](https://dotnetkicks.com/r/724267?url=https://sergeytihon.com/2025/07/05/f-weekly-27-2025-breaking-changes-yay-or-nay/))
 - Avoid the Wrong Job: The Ultimate .NET Interview Question Playbook ([13 days ago](https://dotnettips.wordpress.com/2025/07/06/avoid-the-wrong-job-the-ultimate-net-interview-question-playbook/))
-- Local AI + .NET = AltText Magic in One C# Script - .NET Blog ([16 days ago](https://dotnetkicks.com/r/724078?url=https://devblogs.microsoft.com/dotnet/alttext-generator-csharp-local-models/))
+- Local AI + .NET = AltText Magic in One C# Script - .NET Blog ([17 days ago](https://dotnetkicks.com/r/724078?url=https://devblogs.microsoft.com/dotnet/alttext-generator-csharp-local-models/))
 - Local AI + .NET = AltText Magic in One C# Script ([17 days ago](https://devblogs.microsoft.com/dotnet/alttext-generator-csharp-local-models/))
 - AutoMapper and MediatR Commercial Editions Launch Today ([17 days ago](https://dotnetkicks.com/r/724071?url=https://www.jimmybogard.com/automapper-and-mediatr-commercial-editions-launch-today/))
 - AutoMapper and MediatR Commercial Editions Launch Today ([17 days ago](https://dotnetkicks.com/r/724070?url=https://www.jimmybogard.com/automapper-and-mediatr-commercial-editions-launch-today/))

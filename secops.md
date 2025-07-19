@@ -8,13 +8,13 @@ description: SecOps News
 [Get this as an RSS feed](/secops.rss)
 
 <!-- news_marker starts -->
-- Threat actors downgrade FIDO2 MFA auth in PoisonSeed phishing attack ([2 hours ago](https://www.bleepingcomputer.com/news/security/threat-actors-downgrade-fido2-mfa-auth-in-poisonseed-phishing-attack/))
+- Threat actors downgrade FIDO2 MFA auth in PoisonSeed phishing attack ([3 hours ago](https://www.bleepingcomputer.com/news/security/threat-actors-downgrade-fido2-mfa-auth-in-poisonseed-phishing-attack/))
 - Popular npm linter packages hijacked via phishing to drop malware ([7 hours ago](https://www.bleepingcomputer.com/news/security/popular-npm-linter-packages-hijacked-via-phishing-to-drop-malware/))
 - ChatGPT"s GPT-5-reasoning-alpha model spotted ahead of launch ([8 hours ago](https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpts-gpt-5-reasoning-alpha-model-spotted-ahead-of-launch/))
 - Ex-IDF cyber chief on Iran, Scattered Spider, and why social engineering worries him more than 0-days ([12 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/07/19/idf_cyber_chief_iran/))
-- OpenAI, Anthropic, Google may disrupt education market with new AI tools ([13 hours ago](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-anthropic-google-may-disrupt-education-market-with-new-ai-tools/))
-- Meta declines to abide by voluntary EU AI safety guidelines ([21 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/07/18/meta_declines_eu_ai_guidelines/))
-- New CrushFTP zero-day exploited in attacks to hijack servers ([21 hours ago](https://www.bleepingcomputer.com/news/security/new-crushftp-zero-day-exploited-in-attacks-to-hijack-servers/))
+- OpenAI, Anthropic, Google may disrupt education market with new AI tools ([14 hours ago](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-anthropic-google-may-disrupt-education-market-with-new-ai-tools/))
+- Meta declines to abide by voluntary EU AI safety guidelines ([22 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/07/18/meta_declines_eu_ai_guidelines/))
+- New CrushFTP zero-day exploited in attacks to hijack servers ([22 hours ago](https://www.bleepingcomputer.com/news/security/new-crushftp-zero-day-exploited-in-attacks-to-hijack-servers/))
 - Arch Linux pulls AUR packages that installed Chaos RAT malware ([23 hours ago](https://www.bleepingcomputer.com/news/security/arch-linux-pulls-aur-packages-that-installed-chaos-rat-malware/))
 - UK ties GRU to stealthy Microsoft 365 credential-stealing malware ([1 days ago](https://www.bleepingcomputer.com/news/security/uk-ties-russian-gru-to-authentic-antics-credential-stealing-malware/))
 - Microsoft mistakenly tags Windows Firewall error log bug as fixed ([1 days ago](https://www.bleepingcomputer.com/news/microsoft/microsoft-mistakenly-tags-windows-firewall-error-log-bug-as-fixed/))
