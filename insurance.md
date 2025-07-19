@@ -8,9 +8,9 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Data: Backup Has Evolved, But Has Your Strategy? ([51 minutes ago](https://insurance-edge.net/2025/07/19/data-backup-has-evolved-but-has-your-strategy/))
+- Data: Backup Has Evolved, But Has Your Strategy? ([1 hours ago](https://insurance-edge.net/2025/07/19/data-backup-has-evolved-but-has-your-strategy/))
 - Los Angeles Sues Airbnb for Alleged Price Gouging Following Wildfires ([19 hours ago](https://www.insurancejournal.com/news/west/2025/07/18/832351.htm))
-- Orion180 Launches Home Insurance Product in Massachusetts ([23 hours ago](https://insurance-edge.net/2025/07/18/orion180-launches-home-insurance-product-in-massachusetts/))
+- Orion180 Launches Home Insurance Product in Massachusetts ([1 days ago](https://insurance-edge.net/2025/07/18/orion180-launches-home-insurance-product-in-massachusetts/))
 - People Moves: Encova Insurance Names Two New Senior Leadership Team Members; NI Holdings Inc. Names Dawson SVP and CHRO ([1 days ago](https://www.insurancejournal.com/news/midwest/2025/07/18/832339.htm))
 - Survivors’ Lawyers Allege Decades of Systemic Abuse in Illinois Detention Facilities ([1 days ago](https://www.insurancejournal.com/news/midwest/2025/07/18/832332.htm))
 - European insurers positioned for strong year-end, according to S&P ([1 days ago](https://www.reinsurancene.ws/european-insurers-positioned-for-strong-year-end-according-to-sp/))
