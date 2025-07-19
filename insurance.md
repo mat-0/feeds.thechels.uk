@@ -9,8 +9,8 @@ description: Insurance Updates
 
 <!-- news_marker starts -->
 - Los Angeles Sues Airbnb for Alleged Price Gouging Following Wildfires ([17 hours ago](https://www.insurancejournal.com/news/west/2025/07/18/832351.htm))
-- Orion180 Launches Home Insurance Product in Massachusetts ([21 hours ago](https://insurance-edge.net/2025/07/18/orion180-launches-home-insurance-product-in-massachusetts/))
-- People Moves: Encova Insurance Names Two New Senior Leadership Team Members; NI Holdings Inc. Names Dawson SVP and CHRO ([23 hours ago](https://www.insurancejournal.com/news/midwest/2025/07/18/832339.htm))
+- Orion180 Launches Home Insurance Product in Massachusetts ([22 hours ago](https://insurance-edge.net/2025/07/18/orion180-launches-home-insurance-product-in-massachusetts/))
+- People Moves: Encova Insurance Names Two New Senior Leadership Team Members; NI Holdings Inc. Names Dawson SVP and CHRO ([1 days ago](https://www.insurancejournal.com/news/midwest/2025/07/18/832339.htm))
 - Survivors’ Lawyers Allege Decades of Systemic Abuse in Illinois Detention Facilities ([1 days ago](https://www.insurancejournal.com/news/midwest/2025/07/18/832332.htm))
 - European insurers positioned for strong year-end, according to S&P ([1 days ago](https://www.reinsurancene.ws/european-insurers-positioned-for-strong-year-end-according-to-sp/))
 - Cayman Islands Approves 21 New International Insurance Licenses During H1 ([1 days ago](https://www.insurancejournal.com/news/international/2025/07/18/832314.htm))
@@ -70,8 +70,8 @@ description: Insurance Updates
 - ARAG ceases operation in Australia ([1 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/arag-ceases-operation-in-australia-542983.aspx))
 - AI's role in catastrophic events and claims ([1 days ago](https://www.dig-in.com/opinion/ai-in-catastrophic-events-and-claims))
 - Trucking industry is ready for telematics ([1 days ago](https://www.dig-in.com/opinion/trucking-industry-is-ready-for-telematics))
-- Squalify Enters U.S. Market with First Major Customer and Enhanced Cyber Risk Platform to Quantify Risk in Dollars ([1 days ago](https://www.insurtechinsights.com/squalify-enters-u-s-market-with-first-major-customer-and-enhanced-cyber-risk-platform-to-quantify-risk-in-dollars/))
-- Insurance group seeks collaboration to cover disaster losses ([1 days ago](https://www.dig-in.com/articles/insurance-group-seeks-collaboration-to-cover-disaster-losses))
+- Squalify Enters U.S. Market with First Major Customer and Enhanced Cyber Risk Platform to Quantify Risk in Dollars ([2 days ago](https://www.insurtechinsights.com/squalify-enters-u-s-market-with-first-major-customer-and-enhanced-cyber-risk-platform-to-quantify-risk-in-dollars/))
+- Insurance group seeks collaboration to cover disaster losses ([2 days ago](https://www.dig-in.com/articles/insurance-group-seeks-collaboration-to-cover-disaster-losses))
 - Verisk to Acquire SuranceBay for $162.5M to Boost Life & Annuity Capabilities ([2 days ago](https://www.insurtechinsights.com/verisk-to-acquire-surancebay-for-162-5m-to-boost-life-annuity-capabilities/))
 - Travelers blows past Q2 profit expectations ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/travelers-blows-past-q2-profit-expectations-542947.aspx))
 - Vitality pays £142m in protection claims in 2024 ([2 days ago](https://ifamagazine.com/vitality-pays-142m-in-protection-claims-in-2024/))
