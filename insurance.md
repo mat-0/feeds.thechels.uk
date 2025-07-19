@@ -8,8 +8,8 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Data: Backup Has Evolved, But Has Your Strategy? ([18 minutes ago](https://insurance-edge.net/2025/07/19/data-backup-has-evolved-but-has-your-strategy/))
-- Los Angeles Sues Airbnb for Alleged Price Gouging Following Wildfires ([18 hours ago](https://www.insurancejournal.com/news/west/2025/07/18/832351.htm))
+- Data: Backup Has Evolved, But Has Your Strategy? ([51 minutes ago](https://insurance-edge.net/2025/07/19/data-backup-has-evolved-but-has-your-strategy/))
+- Los Angeles Sues Airbnb for Alleged Price Gouging Following Wildfires ([19 hours ago](https://www.insurancejournal.com/news/west/2025/07/18/832351.htm))
 - Orion180 Launches Home Insurance Product in Massachusetts ([23 hours ago](https://insurance-edge.net/2025/07/18/orion180-launches-home-insurance-product-in-massachusetts/))
 - People Moves: Encova Insurance Names Two New Senior Leadership Team Members; NI Holdings Inc. Names Dawson SVP and CHRO ([1 days ago](https://www.insurancejournal.com/news/midwest/2025/07/18/832339.htm))
 - Survivors’ Lawyers Allege Decades of Systemic Abuse in Illinois Detention Facilities ([1 days ago](https://www.insurancejournal.com/news/midwest/2025/07/18/832332.htm))
@@ -69,7 +69,7 @@ description: Insurance Updates
 - Penny Black’s Social Diary: Superscript’s netball; MHP Group’s salad ([1 days ago](https://www.postonline.co.uk/people/7957938/penny-black%E2%80%99s-social-diary-superscript%E2%80%99s-netball-mhp-group%E2%80%99s-salad))
 - ARAG ceases operation in Australia ([1 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/arag-ceases-operation-in-australia-542983.aspx))
 - AI's role in catastrophic events and claims ([1 days ago](https://www.dig-in.com/opinion/ai-in-catastrophic-events-and-claims))
-- Trucking industry is ready for telematics ([1 days ago](https://www.dig-in.com/opinion/trucking-industry-is-ready-for-telematics))
+- Trucking industry is ready for telematics ([2 days ago](https://www.dig-in.com/opinion/trucking-industry-is-ready-for-telematics))
 - Squalify Enters U.S. Market with First Major Customer and Enhanced Cyber Risk Platform to Quantify Risk in Dollars ([2 days ago](https://www.insurtechinsights.com/squalify-enters-u-s-market-with-first-major-customer-and-enhanced-cyber-risk-platform-to-quantify-risk-in-dollars/))
 - Insurance group seeks collaboration to cover disaster losses ([2 days ago](https://www.dig-in.com/articles/insurance-group-seeks-collaboration-to-cover-disaster-losses))
 - Verisk to Acquire SuranceBay for $162.5M to Boost Life & Annuity Capabilities ([2 days ago](https://www.insurtechinsights.com/verisk-to-acquire-surancebay-for-162-5m-to-boost-life-annuity-capabilities/))
@@ -137,6 +137,5 @@ description: Insurance Updates
 - Aon Launches AI-Powered Platform to Equip Insurance Brokers With Live Pricing Intelligence ([24 days ago](https://thefintechtimes.com/aon-launches-ai-powered-platform-to-equip-insurance-brokers-with-live-pricing-intelligence/))
 - Upcover Launches Tailored Insurance for Fintechs, Promising to Leverage its ‘Founder’s-Eye View’ ([24 days ago](https://thefintechtimes.com/upcover-launches-tailored-insurance-for-fintechs-promising-to-leverage-its-founders-eye-view/))
 - AI Can “Only Augment, Not Replace” Humans in Insurance: Industry Reveals AI Risks in the Sector ([25 days ago](https://thefintechtimes.com/ai-can-only-augment-not-replace-humans-in-insurance-industry-reveals-ai-risks-in-the-sector/))
-- Insurtech’s Biggest Emerging Trends: AI, Cloud Architecture, CX and Modernisation ([29 days ago](https://thefintechtimes.com/insurtech-biggest-emerging-trends-ai-cloud-architecture-cx-and-data/))
 
 <!-- news_marker ends -->
