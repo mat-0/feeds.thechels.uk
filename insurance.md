@@ -8,7 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Los Angeles Sues Airbnb for Alleged Price Gouging Following Wildfires ([17 hours ago](https://www.insurancejournal.com/news/west/2025/07/18/832351.htm))
+- Los Angeles Sues Airbnb for Alleged Price Gouging Following Wildfires ([18 hours ago](https://www.insurancejournal.com/news/west/2025/07/18/832351.htm))
 - Orion180 Launches Home Insurance Product in Massachusetts ([22 hours ago](https://insurance-edge.net/2025/07/18/orion180-launches-home-insurance-product-in-massachusetts/))
 - People Moves: Encova Insurance Names Two New Senior Leadership Team Members; NI Holdings Inc. Names Dawson SVP and CHRO ([1 days ago](https://www.insurancejournal.com/news/midwest/2025/07/18/832339.htm))
 - Survivors’ Lawyers Allege Decades of Systemic Abuse in Illinois Detention Facilities ([1 days ago](https://www.insurancejournal.com/news/midwest/2025/07/18/832332.htm))
