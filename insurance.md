@@ -69,7 +69,7 @@ description: Insurance Updates
 - Penny Black’s Social Diary: Superscript’s netball; MHP Group’s salad ([2 days ago](https://www.postonline.co.uk/people/7957938/penny-black%E2%80%99s-social-diary-superscript%E2%80%99s-netball-mhp-group%E2%80%99s-salad))
 - ARAG ceases operation in Australia ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/arag-ceases-operation-in-australia-542983.aspx))
 - AI's role in catastrophic events and claims ([2 days ago](https://www.dig-in.com/opinion/ai-in-catastrophic-events-and-claims))
-- Trucking industry is ready for telematics ([2 days ago](https://www.dig-in.com/opinion/trucking-industry-is-ready-for-telematics))
+- Trucking industry is ready for telematics ([3 days ago](https://www.dig-in.com/opinion/trucking-industry-is-ready-for-telematics))
 - Squalify Enters U.S. Market with First Major Customer and Enhanced Cyber Risk Platform to Quantify Risk in Dollars ([3 days ago](https://www.insurtechinsights.com/squalify-enters-u-s-market-with-first-major-customer-and-enhanced-cyber-risk-platform-to-quantify-risk-in-dollars/))
 - Insurance group seeks collaboration to cover disaster losses ([3 days ago](https://www.dig-in.com/articles/insurance-group-seeks-collaboration-to-cover-disaster-losses))
 - Verisk to Acquire SuranceBay for $162.5M to Boost Life & Annuity Capabilities ([3 days ago](https://www.insurtechinsights.com/verisk-to-acquire-surancebay-for-162-5m-to-boost-life-annuity-capabilities/))
