@@ -9,13 +9,13 @@ description: SecOps News
 
 <!-- news_marker starts -->
 - UK uncovers novel Microsoft snooping malware, blames and sanctions GRU cyberspies ([1 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/07/20/uk_microsoft_snooping_russia/))
-- Critical Unpatched SharePoint Zero-Day Actively Exploited, Breaches 75+ Global Organizations ([2 hours ago](https://thehackernews.com/2025/07/critical-microsoft-sharepoint-flaw.html))
-- Malware Injected into 6 npm Packages After Maintainer Tokens Stolen in Phishing Attack ([2 hours ago](https://thehackernews.com/2025/07/malware-injected-into-6-npm-packages.html))
-- Hackers Exploit Critical CrushFTP Flaw to Gain Admin Access on Unpatched Servers ([4 hours ago](https://thehackernews.com/2025/07/hackers-exploit-critical-crushftp-flaw.html))
+- Critical Unpatched SharePoint Zero-Day Actively Exploited, Breaches 75+ Global Organizations ([3 hours ago](https://thehackernews.com/2025/07/critical-microsoft-sharepoint-flaw.html))
+- Malware Injected into 6 npm Packages After Maintainer Tokens Stolen in Phishing Attack ([3 hours ago](https://thehackernews.com/2025/07/malware-injected-into-6-npm-packages.html))
+- Hackers Exploit Critical CrushFTP Flaw to Gain Admin Access on Unpatched Servers ([5 hours ago](https://thehackernews.com/2025/07/hackers-exploit-critical-crushftp-flaw.html))
 - Weekly Update 461 ([5 hours ago](https://www.troyhunt.com/weekly-update-461/))
-- Multiple vulnerabilities in the web management interface of	Intelbras routers ([5 hours ago](https://seclists.org/fulldisclosure/2025/Jul/14))
-- Threat actors downgrade FIDO2 MFA auth in PoisonSeed phishing attack ([18 hours ago](https://www.bleepingcomputer.com/news/security/threat-actors-downgrade-fido2-mfa-auth-in-poisonseed-phishing-attack/))
-- Popular npm linter packages hijacked via phishing to drop malware ([23 hours ago](https://www.bleepingcomputer.com/news/security/popular-npm-linter-packages-hijacked-via-phishing-to-drop-malware/))
+- Multiple vulnerabilities in the web management interface of	Intelbras routers ([6 hours ago](https://seclists.org/fulldisclosure/2025/Jul/14))
+- Threat actors downgrade FIDO2 MFA auth in PoisonSeed phishing attack ([19 hours ago](https://www.bleepingcomputer.com/news/security/threat-actors-downgrade-fido2-mfa-auth-in-poisonseed-phishing-attack/))
+- Popular npm linter packages hijacked via phishing to drop malware ([1 days ago](https://www.bleepingcomputer.com/news/security/popular-npm-linter-packages-hijacked-via-phishing-to-drop-malware/))
 - ChatGPT"s GPT-5-reasoning-alpha model spotted ahead of launch ([1 days ago](https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpts-gpt-5-reasoning-alpha-model-spotted-ahead-of-launch/))
 - Ex-IDF cyber chief on Iran, Scattered Spider, and why social engineering worries him more than 0-days ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2025/07/19/idf_cyber_chief_iran/))
 - OpenAI, Anthropic, Google may disrupt education market with new AI tools ([1 days ago](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-anthropic-google-may-disrupt-education-market-with-new-ai-tools/))
@@ -34,7 +34,7 @@ description: SecOps News
 - Nine Steps to Conducting a GDPR Gap Analysis ([1 days ago](https://www.itgovernance.co.uk/blog/nine-steps-to-a-gdpr-gap-analysis))
 - As companies race to add AI, terms of service changes are going to freak a lot of people out ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2025/07/18/llm_products_terms_of_service/))
 - In Other News: Law Firm Hacked by China, Symantec Flaw, Meta AI Hack, FIDO Key Bypass ([1 days ago](https://www.securityweek.com/in-other-news-law-firm-hacked-by-china-symantec-flaw-meta-ai-hack-fido-key-bypass/))
-- Email Protection Startup StrongestLayer Emerges From Stealth Mode ([1 days ago](https://www.securityweek.com/email-protection-startup-strongestlayer-emerges-from-stealth-mode/))
+- Email Protection Startup StrongestLayer Emerges From Stealth Mode ([2 days ago](https://www.securityweek.com/email-protection-startup-strongestlayer-emerges-from-stealth-mode/))
 - Backup tool Rescuezilla resurrects itself across six Ubuntus ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2025/07/18/rescuezilla_261/))
 - CERT-UA Discovers LAMEHUG Malware Linked to APT28, Using LLM for Phishing Campaign ([2 days ago](https://thehackernews.com/2025/07/cert-ua-discovers-lamehug-malware.html))
 - Critical NVIDIA Container Toolkit Flaw Allows Privilege Escalation on AI Cloud Services ([2 days ago](https://thehackernews.com/2025/07/critical-nvidia-container-toolkit-flaw.html))
@@ -193,7 +193,7 @@ description: SecOps News
 - GitHub Enterprise Importer delays ([23 days ago](https://www.githubstatus.com/incidents/hw33b7tc1lv2))
 - Robinsons Malls - 195,597 breached accounts ([24 days ago](https://haveibeenpwned.com/Breach/RobinsonsMalls))
 - Have Fun Teaching - 27,126 breached accounts ([25 days ago](https://haveibeenpwned.com/Breach/HaveFunTeaching))
-- Repository Navigation Bar Missing in GitHub Enterprise Cloud ([25 days ago](https://www.githubstatus.com/incidents/p7mzl65jm7q3))
+- Repository Navigation Bar Missing in GitHub Enterprise Cloud ([26 days ago](https://www.githubstatus.com/incidents/p7mzl65jm7q3))
 - Weekly Update 457 ([28 days ago](https://www.troyhunt.com/weekly-update-457/))
 
 <!-- news_marker ends -->
