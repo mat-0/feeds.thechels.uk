@@ -8,10 +8,10 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Global insured wildfire losses have surged, Allianz ([2 hours ago](https://www.dig-in.com/news/global-insured-wildfire-losses-have-surged-allianz))
+- Global insured wildfire losses have surged, Allianz ([3 hours ago](https://www.dig-in.com/news/global-insured-wildfire-losses-have-surged-allianz))
 - Ascot's head of loss: Weather forecasting, hurricane season ([4 hours ago](https://www.dig-in.com/news/ascots-head-of-loss-weather-forecasting-hurricane-season))
 - Data: Backup Has Evolved, But Has Your Strategy? ([1 days ago](https://insurance-edge.net/2025/07/19/data-backup-has-evolved-but-has-your-strategy/))
-- Los Angeles Sues Airbnb for Alleged Price Gouging Following Wildfires ([1 days ago](https://www.insurancejournal.com/news/west/2025/07/18/832351.htm))
+- Los Angeles Sues Airbnb for Alleged Price Gouging Following Wildfires ([2 days ago](https://www.insurancejournal.com/news/west/2025/07/18/832351.htm))
 - Orion180 Launches Home Insurance Product in Massachusetts ([2 days ago](https://insurance-edge.net/2025/07/18/orion180-launches-home-insurance-product-in-massachusetts/))
 - People Moves: Encova Insurance Names Two New Senior Leadership Team Members; NI Holdings Inc. Names Dawson SVP and CHRO ([2 days ago](https://www.insurancejournal.com/news/midwest/2025/07/18/832339.htm))
 - Survivors’ Lawyers Allege Decades of Systemic Abuse in Illinois Detention Facilities ([2 days ago](https://www.insurancejournal.com/news/midwest/2025/07/18/832332.htm))
