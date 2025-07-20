@@ -8,7 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Ascot's head of loss: Weather forecasting, hurricane season ([29 minutes ago](https://www.dig-in.com/news/ascots-head-of-loss-weather-forecasting-hurricane-season))
+- Ascot's head of loss: Weather forecasting, hurricane season ([1 hours ago](https://www.dig-in.com/news/ascots-head-of-loss-weather-forecasting-hurricane-season))
 - Data: Backup Has Evolved, But Has Your Strategy? ([1 days ago](https://insurance-edge.net/2025/07/19/data-backup-has-evolved-but-has-your-strategy/))
 - Los Angeles Sues Airbnb for Alleged Price Gouging Following Wildfires ([1 days ago](https://www.insurancejournal.com/news/west/2025/07/18/832351.htm))
 - Orion180 Launches Home Insurance Product in Massachusetts ([2 days ago](https://insurance-edge.net/2025/07/18/orion180-launches-home-insurance-product-in-massachusetts/))
@@ -69,7 +69,7 @@ description: Insurance Updates
 - What went wrong with Gallagher’s bid to buy PIB Group? ([2 days ago](https://www.postonline.co.uk/broker/7958134/what-went-wrong-with-gallagher%E2%80%99s-bid-to-buy-pib-group))
 - Penny Black’s Social Diary: Superscript’s netball; MHP Group’s salad ([2 days ago](https://www.postonline.co.uk/people/7957938/penny-black%E2%80%99s-social-diary-superscript%E2%80%99s-netball-mhp-group%E2%80%99s-salad))
 - ARAG ceases operation in Australia ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/arag-ceases-operation-in-australia-542983.aspx))
-- AI's role in catastrophic events and claims ([2 days ago](https://www.dig-in.com/opinion/ai-in-catastrophic-events-and-claims))
+- AI's role in catastrophic events and claims ([3 days ago](https://www.dig-in.com/opinion/ai-in-catastrophic-events-and-claims))
 - Trucking industry is ready for telematics ([3 days ago](https://www.dig-in.com/opinion/trucking-industry-is-ready-for-telematics))
 - Squalify Enters U.S. Market with First Major Customer and Enhanced Cyber Risk Platform to Quantify Risk in Dollars ([3 days ago](https://www.insurtechinsights.com/squalify-enters-u-s-market-with-first-major-customer-and-enhanced-cyber-risk-platform-to-quantify-risk-in-dollars/))
 - Insurance group seeks collaboration to cover disaster losses ([3 days ago](https://www.dig-in.com/articles/insurance-group-seeks-collaboration-to-cover-disaster-losses))
@@ -97,8 +97,8 @@ description: Insurance Updates
 - Bupa Global MD on how issues plaguing public health systems hit insurers ([3 days ago](https://www.postonline.co.uk/personal/7958021/bupa-global-md-on-how-issues-plaguing-public-health-systems-hit-insurers))
 - From data maturity to customer loyalty ([3 days ago](https://www.postonline.co.uk/market-access/7958119/from-data-maturity-to-customer-loyalty))
 - 20 states sue FEMA over cuts to disaster prevention program ([3 days ago](https://www.dig-in.com/news/states-sue-to-stop-devastating-cuts-to-fema-program))
-- How behavioral science is transforming life insurance underwriting ([3 days ago](https://www.dig-in.com/opinion/how-behavioral-science-is-transforming-life-insurance-underwriting))
-- How MSI uses MGA structure for risk and data advantages ([3 days ago](https://www.dig-in.com/news/mgas-risk-and-data-management-advantages))
+- How behavioral science is transforming life insurance underwriting ([4 days ago](https://www.dig-in.com/opinion/how-behavioral-science-is-transforming-life-insurance-underwriting))
+- How MSI uses MGA structure for risk and data advantages ([4 days ago](https://www.dig-in.com/news/mgas-risk-and-data-management-advantages))
 - Quandri Raises $12 Million to Scale AI Automation for Insurance Brokerages Across North America ([4 days ago](https://www.insurtechinsights.com/quandri-raises-12-million-to-scale-ai-automation-for-insurance-brokerages-across-north-america/))
 - Why inspiration is no longer the answer to employee buy-in ([4 days ago](https://www.insurancebusinessmag.com/uk/business-strategy/why-inspiration-is-no-longer-the-answer-to-employee-buyin-542791.aspx))
 - AIG snaps up former Lloyd's chief as new president ([4 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/aig-snaps-up-former-lloyds-chief-as-new-president-542772.aspx))
