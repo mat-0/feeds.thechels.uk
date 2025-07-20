@@ -8,7 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Data: Backup Has Evolved, But Has Your Strategy? ([19 hours ago](https://insurance-edge.net/2025/07/19/data-backup-has-evolved-but-has-your-strategy/))
+- Data: Backup Has Evolved, But Has Your Strategy? ([20 hours ago](https://insurance-edge.net/2025/07/19/data-backup-has-evolved-but-has-your-strategy/))
 - Los Angeles Sues Airbnb for Alleged Price Gouging Following Wildfires ([1 days ago](https://www.insurancejournal.com/news/west/2025/07/18/832351.htm))
 - Orion180 Launches Home Insurance Product in Massachusetts ([1 days ago](https://insurance-edge.net/2025/07/18/orion180-launches-home-insurance-product-in-massachusetts/))
 - People Moves: Encova Insurance Names Two New Senior Leadership Team Members; NI Holdings Inc. Names Dawson SVP and CHRO ([1 days ago](https://www.insurancejournal.com/news/midwest/2025/07/18/832339.htm))
@@ -19,9 +19,9 @@ description: Insurance Updates
 - Willis names Lockner as Strategic Client Advisor, North American AAIS team ([1 days ago](https://www.reinsurancene.ws/willis-names-lockner-as-strategic-client-advisor-north-american-aais-team/))
 - US Market: At-Bay Launches MXDR Platform ([1 days ago](https://insurance-edge.net/2025/07/18/us-market-at-bay-launches-mxdr-platform/))
 - Former Tennessee Agent Sentenced For Continuing to Sell Insurance Products ([1 days ago](https://www.insurancejournal.com/news/southeast/2025/07/18/832309.htm))
-- People Moves: Aon Appoints Key Leaders in EMEA Commercial Risk Team; AXA XL Promotes Wilkinson to Head of International Casualty, Retail, UK & Lloyd’s ([1 days ago](https://www.insurancejournal.com/news/international/2025/07/18/832299.htm))
-- Pen Underwriting extends SiriusPoint partnership into PI ([1 days ago](https://www.reinsurancene.ws/pen-underwriting-extends-siriuspoint-partnership-into-pi/))
-- Trump Nominates Two Lawyers to Seal Republican Control of US Labor Board ([1 days ago](https://www.insurancejournal.com/news/national/2025/07/18/832302.htm))
+- People Moves: Aon Appoints Key Leaders in EMEA Commercial Risk Team; AXA XL Promotes Wilkinson to Head of International Casualty, Retail, UK & Lloyd’s ([2 days ago](https://www.insurancejournal.com/news/international/2025/07/18/832299.htm))
+- Pen Underwriting extends SiriusPoint partnership into PI ([2 days ago](https://www.reinsurancene.ws/pen-underwriting-extends-siriuspoint-partnership-into-pi/))
+- Trump Nominates Two Lawyers to Seal Republican Control of US Labor Board ([2 days ago](https://www.insurancejournal.com/news/national/2025/07/18/832302.htm))
 - King Risk Adds Equestrian Specialist Agency in South Carolina ([2 days ago](https://www.insurancejournal.com/news/southeast/2025/07/18/832292.htm))
 - Alaska Tsunami Warning Had Residents Scrambling for High Ground After M7.3 Quake ([2 days ago](https://www.insurancejournal.com/news/west/2025/07/18/832293.htm))
 - AI Models With Systemic Risks Given Pointers on How to Comply With EU AI Rules ([2 days ago](https://www.insurancejournal.com/news/international/2025/07/18/832287.htm))
