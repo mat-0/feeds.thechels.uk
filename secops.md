@@ -9,9 +9,9 @@ description: SecOps News
 
 <!-- news_marker starts -->
 - Threat actors downgrade FIDO2 MFA auth in PoisonSeed phishing attack ([12 hours ago](https://www.bleepingcomputer.com/news/security/threat-actors-downgrade-fido2-mfa-auth-in-poisonseed-phishing-attack/))
-- Popular npm linter packages hijacked via phishing to drop malware ([16 hours ago](https://www.bleepingcomputer.com/news/security/popular-npm-linter-packages-hijacked-via-phishing-to-drop-malware/))
-- ChatGPT"s GPT-5-reasoning-alpha model spotted ahead of launch ([17 hours ago](https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpts-gpt-5-reasoning-alpha-model-spotted-ahead-of-launch/))
-- Ex-IDF cyber chief on Iran, Scattered Spider, and why social engineering worries him more than 0-days ([21 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/07/19/idf_cyber_chief_iran/))
+- Popular npm linter packages hijacked via phishing to drop malware ([17 hours ago](https://www.bleepingcomputer.com/news/security/popular-npm-linter-packages-hijacked-via-phishing-to-drop-malware/))
+- ChatGPT"s GPT-5-reasoning-alpha model spotted ahead of launch ([18 hours ago](https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpts-gpt-5-reasoning-alpha-model-spotted-ahead-of-launch/))
+- Ex-IDF cyber chief on Iran, Scattered Spider, and why social engineering worries him more than 0-days ([22 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/07/19/idf_cyber_chief_iran/))
 - OpenAI, Anthropic, Google may disrupt education market with new AI tools ([23 hours ago](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-anthropic-google-may-disrupt-education-market-with-new-ai-tools/))
 - Meta declines to abide by voluntary EU AI safety guidelines ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2025/07/18/meta_declines_eu_ai_guidelines/))
 - New CrushFTP zero-day exploited in attacks to hijack servers ([1 days ago](https://www.bleepingcomputer.com/news/security/new-crushftp-zero-day-exploited-in-attacks-to-hijack-servers/))
@@ -120,7 +120,7 @@ description: SecOps News
 - Iran seeks at least three cloud providers to power its government ([6 days ago](https://go.theregister.com/feed/www.theregister.com/2025/07/14/iran_cloud_panel_evaluation/))
 - Nvidia warns its GPUs – even Blackwells – need protection against Rowhammer attacks ([6 days ago](https://go.theregister.com/feed/www.theregister.com/2025/07/13/infosec_in_brief/))
 - You have a fake North Korean IT worker problem – here's how to stop it ([6 days ago](https://go.theregister.com/feed/www.theregister.com/2025/07/13/fake_it_worker_problem/))
-- Omnicuris - 215,298 breached accounts ([6 days ago](https://haveibeenpwned.com/Breach/Omnicuris))
+- Omnicuris - 215,298 breached accounts ([7 days ago](https://haveibeenpwned.com/Breach/Omnicuris))
 - Missing Critical Security Headers in OpenBlow ([7 days ago](https://seclists.org/fulldisclosure/2025/Jul/13))
 - Weekly Update 460 ([7 days ago](https://www.troyhunt.com/weekly-update-460/))
 - Chinese hackers suspected in breach of powerful DC law firm ([7 days ago](https://databreaches.net/2025/07/12/chinese-hackers-suspected-in-breach-of-powerful-dc-law-firm/?pk_campaign=feed&pk_kwd=chinese-hackers-suspected-in-breach-of-powerful-dc-law-firm))
