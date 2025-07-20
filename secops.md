@@ -8,11 +8,11 @@ description: SecOps News
 [Get this as an RSS feed](/secops.rss)
 
 <!-- news_marker starts -->
-- Threat actors downgrade FIDO2 MFA auth in PoisonSeed phishing attack ([10 hours ago](https://www.bleepingcomputer.com/news/security/threat-actors-downgrade-fido2-mfa-auth-in-poisonseed-phishing-attack/))
-- Popular npm linter packages hijacked via phishing to drop malware ([15 hours ago](https://www.bleepingcomputer.com/news/security/popular-npm-linter-packages-hijacked-via-phishing-to-drop-malware/))
+- Threat actors downgrade FIDO2 MFA auth in PoisonSeed phishing attack ([11 hours ago](https://www.bleepingcomputer.com/news/security/threat-actors-downgrade-fido2-mfa-auth-in-poisonseed-phishing-attack/))
+- Popular npm linter packages hijacked via phishing to drop malware ([16 hours ago](https://www.bleepingcomputer.com/news/security/popular-npm-linter-packages-hijacked-via-phishing-to-drop-malware/))
 - ChatGPT"s GPT-5-reasoning-alpha model spotted ahead of launch ([16 hours ago](https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpts-gpt-5-reasoning-alpha-model-spotted-ahead-of-launch/))
 - Ex-IDF cyber chief on Iran, Scattered Spider, and why social engineering worries him more than 0-days ([20 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/07/19/idf_cyber_chief_iran/))
-- OpenAI, Anthropic, Google may disrupt education market with new AI tools ([21 hours ago](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-anthropic-google-may-disrupt-education-market-with-new-ai-tools/))
+- OpenAI, Anthropic, Google may disrupt education market with new AI tools ([22 hours ago](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-anthropic-google-may-disrupt-education-market-with-new-ai-tools/))
 - Meta declines to abide by voluntary EU AI safety guidelines ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2025/07/18/meta_declines_eu_ai_guidelines/))
 - New CrushFTP zero-day exploited in attacks to hijack servers ([1 days ago](https://www.bleepingcomputer.com/news/security/new-crushftp-zero-day-exploited-in-attacks-to-hijack-servers/))
 - Arch Linux pulls AUR packages that installed Chaos RAT malware ([1 days ago](https://www.bleepingcomputer.com/news/security/arch-linux-pulls-aur-packages-that-installed-chaos-rat-malware/))
