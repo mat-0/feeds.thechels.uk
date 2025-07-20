@@ -8,7 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Data: Backup Has Evolved, But Has Your Strategy? ([12 hours ago](https://insurance-edge.net/2025/07/19/data-backup-has-evolved-but-has-your-strategy/))
+- Data: Backup Has Evolved, But Has Your Strategy? ([13 hours ago](https://insurance-edge.net/2025/07/19/data-backup-has-evolved-but-has-your-strategy/))
 - Los Angeles Sues Airbnb for Alleged Price Gouging Following Wildfires ([1 days ago](https://www.insurancejournal.com/news/west/2025/07/18/832351.htm))
 - Orion180 Launches Home Insurance Product in Massachusetts ([1 days ago](https://insurance-edge.net/2025/07/18/orion180-launches-home-insurance-product-in-massachusetts/))
 - People Moves: Encova Insurance Names Two New Senior Leadership Team Members; NI Holdings Inc. Names Dawson SVP and CHRO ([1 days ago](https://www.insurancejournal.com/news/midwest/2025/07/18/832339.htm))
@@ -57,8 +57,8 @@ description: Insurance Updates
 - L&G enhances adviser experience on application platform OLP Connect ([1 days ago](https://ifamagazine.com/lg-enhances-adviser-experience-on-application-platform-olp-connect/))
 - Chinese Hackers Still Trying to Break Into Telecoms Across Globe ([1 days ago](https://www.insurancejournal.com/news/international/2025/07/18/832232.htm))
 - Former AIG Exec McElroy Faces Sexual Assault Charges in Vermont ([1 days ago](https://www.insurancejournal.com/news/national/2025/07/18/832169.htm))
-- Waymo Expands in Austin After Tesla Launches Robotaxi Competitor ([1 days ago](https://www.insurancejournal.com/news/southcentral/2025/07/18/832164.htm))
-- AM Best Revises Outlook to Negative for Texas’ Southern Vanguard ([1 days ago](https://www.insurancejournal.com/news/southcentral/2025/07/18/832174.htm))
+- Waymo Expands in Austin After Tesla Launches Robotaxi Competitor ([2 days ago](https://www.insurancejournal.com/news/southcentral/2025/07/18/832164.htm))
+- AM Best Revises Outlook to Negative for Texas’ Southern Vanguard ([2 days ago](https://www.insurancejournal.com/news/southcentral/2025/07/18/832174.htm))
 - Aviva doubles offshore renewable energy capacity to £150 million ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/aviva-doubles-offshore-renewable-energy-capacity-to-150-million-543012.aspx))
 - Gallagher expands Evolve strategy with new power portfolio tracker ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/gallagher-expands-evolve-strategy-with-new-power-portfolio-tracker-543006.aspx))
 - Clear Group reports double-digit organic growth ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/clear-group-reports-doubledigit-organic-growth-543005.aspx))
