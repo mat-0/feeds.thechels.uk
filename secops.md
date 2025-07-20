@@ -8,11 +8,11 @@ description: SecOps News
 [Get this as an RSS feed](/secops.rss)
 
 <!-- news_marker starts -->
-- Threat actors downgrade FIDO2 MFA auth in PoisonSeed phishing attack ([11 hours ago](https://www.bleepingcomputer.com/news/security/threat-actors-downgrade-fido2-mfa-auth-in-poisonseed-phishing-attack/))
+- Threat actors downgrade FIDO2 MFA auth in PoisonSeed phishing attack ([12 hours ago](https://www.bleepingcomputer.com/news/security/threat-actors-downgrade-fido2-mfa-auth-in-poisonseed-phishing-attack/))
 - Popular npm linter packages hijacked via phishing to drop malware ([16 hours ago](https://www.bleepingcomputer.com/news/security/popular-npm-linter-packages-hijacked-via-phishing-to-drop-malware/))
 - ChatGPT"s GPT-5-reasoning-alpha model spotted ahead of launch ([17 hours ago](https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpts-gpt-5-reasoning-alpha-model-spotted-ahead-of-launch/))
 - Ex-IDF cyber chief on Iran, Scattered Spider, and why social engineering worries him more than 0-days ([21 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/07/19/idf_cyber_chief_iran/))
-- OpenAI, Anthropic, Google may disrupt education market with new AI tools ([22 hours ago](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-anthropic-google-may-disrupt-education-market-with-new-ai-tools/))
+- OpenAI, Anthropic, Google may disrupt education market with new AI tools ([23 hours ago](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-anthropic-google-may-disrupt-education-market-with-new-ai-tools/))
 - Meta declines to abide by voluntary EU AI safety guidelines ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2025/07/18/meta_declines_eu_ai_guidelines/))
 - New CrushFTP zero-day exploited in attacks to hijack servers ([1 days ago](https://www.bleepingcomputer.com/news/security/new-crushftp-zero-day-exploited-in-attacks-to-hijack-servers/))
 - Arch Linux pulls AUR packages that installed Chaos RAT malware ([1 days ago](https://www.bleepingcomputer.com/news/security/arch-linux-pulls-aur-packages-that-installed-chaos-rat-malware/))
@@ -63,7 +63,7 @@ description: SecOps News
 - Open, free, and completely ignored: The strange afterlife of Symbian ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2025/07/17/symbian_forgotten_foss_phone_os/))
 - Microsoft offers vintage Exchange and Skype server users six more months of security updates ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2025/07/17/microsoft_extended_security_exchange_skype_server/))
 - Microsoft offers vintage Exchange and Skype server users six more months of security updates ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2025/07/17/microsoft_extended_security_exchange_skype_server/))
-- Cisco Warns of Critical ISE Flaw Allowing Unauthenticated Attackers to Execute Root Code ([2 days ago](https://thehackernews.com/2025/07/cisco-warns-of-critical-ise-flaw.html))
+- Cisco Warns of Critical ISE Flaw Allowing Unauthenticated Attackers to Execute Root Code ([3 days ago](https://thehackernews.com/2025/07/cisco-warns-of-critical-ise-flaw.html))
 - Meta used AI to concoct low-carbon concrete it poured for a datacenter floor ([3 days ago](https://go.theregister.com/feed/www.theregister.com/2025/07/17/meta_ai_concrete_model/))
 - Welcoming Aura to Have I Been Pwned's Partner Program ([3 days ago](https://www.troyhunt.com/welcoming-aura-to-have-i-been-pwneds-partner-program/))
 - Ukrainian hackers claim to have destroyed major Russian drone maker's entire network ([3 days ago](https://go.theregister.com/feed/www.theregister.com/2025/07/16/ukrainian_drone_attack/))
