@@ -8,7 +8,7 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- How I Prioritize OSS Bugs ([17 minutes ago](https://dotnetkicks.com/r/725466?url=https://jeremydmiller.com/2025/07/20/how-i-prioritize-oss-bugs/))
+- How I Prioritize OSS Bugs ([46 minutes ago](https://dotnetkicks.com/r/725466?url=https://jeremydmiller.com/2025/07/20/how-i-prioritize-oss-bugs/))
 - Boost Your .NET Projects: Effortlessly Randomize Collections with CollectionRandomizer in Spargine ([13 hours ago](https://dotnettips.wordpress.com/2025/07/20/boost-your-net-projects-effortlessly-randomize-collections-with-collectionrandomizer-in-spargine/))
 - Accelerate SQL Server Migration to Azure with Azure Arc - Microsoft SQL Server Blog ([2 days ago](https://dotnetkicks.com/r/725360?url=https://www.microsoft.com/en-us/sql-server/blog/2025/07/17/accelerate-sql-server-migration-to-azure-with-azure-arc/))
 - dotnet cake.cs - preview ([3 days ago](https://dotnetkicks.com/r/725331?url=https://cakebuild.net/blog/2025/07/dotnet-cake-cs))
@@ -38,7 +38,7 @@ description: DotNet Updates
 - How the .NET MAUI Team uses GitHub Copilot for Productivity ([11 days ago](https://devblogs.microsoft.com/dotnet/maui-team-copilot-tips/))
 - Self-Healing Akka.NET Clusters ([11 days ago](https://dotnetkicks.com/r/724487?url=https://petabridge.com/blog/akkadotnet-cluster-split-brain-resolver/))
 - Self-Healing Akka.NET Clusters ([11 days ago](https://dotnetkicks.com/r/724474?url=https://petabridge.com/blog/akkadotnet-cluster-split-brain-resolver/))
-- .NET and .NET Framework July 2025 servicing releases updates - .NET Blog ([11 days ago](https://dotnetkicks.com/r/724448?url=https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-july-2025-servicing-updates/))
+- .NET and .NET Framework July 2025 servicing releases updates - .NET Blog ([12 days ago](https://dotnetkicks.com/r/724448?url=https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-july-2025-servicing-updates/))
 - .NET and .NET Framework July 2025 servicing releases updates ([12 days ago](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-july-2025-servicing-updates/))
 - AutoMapper and MediatR Roadmaps ([12 days ago](https://dotnetkicks.com/r/724429?url=https://www.jimmybogard.com/automapper-and-mediatr-roadmaps/))
 - AutoMapper and MediatR Roadmaps ([12 days ago](https://dotnetkicks.com/r/724411?url=https://www.jimmybogard.com/automapper-and-mediatr-roadmaps/))
@@ -54,7 +54,7 @@ description: DotNet Updates
 - ReSharper and Rider 2025.1.4: Another Set of Bug-fixes Released ([20 days ago](https://blog.jetbrains.com/dotnet/2025/06/30/resharper-and-rider-2025-1-4/))
 - Boost Your .NET Projects: Mastering Method Returns with Spargine’s SimpleResult Type ([21 days ago](https://dotnettips.wordpress.com/2025/06/29/boost-your-net-projects-mastering-method-returns-with-spargines-simpleresult-type/))
 - From Extension Methods to Extension Members: Unlocking New Possibilities in .NET 10 ([23 days ago](https://dotnettips.wordpress.com/2025/06/27/from-extension-methods-to-extension-members-unlocking-new-possibilities-in-net-10/))
-- Simpler XAML in .NET MAUI 10 ([23 days ago](https://devblogs.microsoft.com/dotnet/simpler-xaml-in-dotnet-maui-10/))
+- Simpler XAML in .NET MAUI 10 ([24 days ago](https://devblogs.microsoft.com/dotnet/simpler-xaml-in-dotnet-maui-10/))
 - Rider 2025.2 EAP 7: Low-Level Exception Suppression and Other Updates for Debugging Games ([24 days ago](https://blog.jetbrains.com/dotnet/2025/06/26/rider-2025-2-eap-7-low-level-exception-suppression/))
 - UX Chronicles: Why Developers Should Care About User Experience (Yes, You!) ([25 days ago](https://dotnettips.wordpress.com/2025/06/25/ux-chronicles-why-developers-should-care-about-user-experience-yes-you/))
 - Working with stacked branches in git (Part 2) ([26 days ago](https://andrewlock.net/working-with-stacked-branches-in-git-part-2/))

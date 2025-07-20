@@ -8,7 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Ascot's head of loss: Weather forecasting, hurricane season ([just now](https://www.dig-in.com/news/ascots-head-of-loss-weather-forecasting-hurricane-season))
+- Ascot's head of loss: Weather forecasting, hurricane season ([29 minutes ago](https://www.dig-in.com/news/ascots-head-of-loss-weather-forecasting-hurricane-season))
 - Data: Backup Has Evolved, But Has Your Strategy? ([1 days ago](https://insurance-edge.net/2025/07/19/data-backup-has-evolved-but-has-your-strategy/))
 - Los Angeles Sues Airbnb for Alleged Price Gouging Following Wildfires ([1 days ago](https://www.insurancejournal.com/news/west/2025/07/18/832351.htm))
 - Orion180 Launches Home Insurance Product in Massachusetts ([2 days ago](https://insurance-edge.net/2025/07/18/orion180-launches-home-insurance-product-in-massachusetts/))
@@ -119,7 +119,7 @@ description: Insurance Updates
 - Why FCA inaction on premium finance is unacceptable ([4 days ago](https://www.postonline.co.uk/personal/7957875/why-fca-inaction-on-premium-finance-is-unacceptable))
 - Best Insurance Employers to work for in 2025 revealed ([4 days ago](https://www.postonline.co.uk/personal/7957887/best-insurance-employers-to-work-for-in-2025-revealed))
 - Meet the insurtech: Onyx Platform ([4 days ago](https://www.dig-in.com/news/meet-the-insurtech-onyx-platform))
-- AI transformation: The new imperative for risk management ([4 days ago](https://www.dig-in.com/opinion/ai-transformation-is-vital-for-risk-management))
+- AI transformation: The new imperative for risk management ([5 days ago](https://www.dig-in.com/opinion/ai-transformation-is-vital-for-risk-management))
 - Ethos Partners with Origin to Expand Financial Wellness Offering ([5 days ago](https://www.insurtechinsights.com/ethos-partners-with-origin-to-expand-financial-wellness-offering/))
 - Regulators and Treasury move to scale back SM&CR ([5 days ago](https://www.postonline.co.uk/regulation/7958140/regulators-and-treasury-move-to-scale-back-smcr))
 - Jensten to refinance after failing to secure sale ([5 days ago](https://www.postonline.co.uk/news/7958135/jensten-to-refinance-after-failing-to-secure-sale))
