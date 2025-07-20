@@ -8,7 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Data: Backup Has Evolved, But Has Your Strategy? ([18 hours ago](https://insurance-edge.net/2025/07/19/data-backup-has-evolved-but-has-your-strategy/))
+- Data: Backup Has Evolved, But Has Your Strategy? ([19 hours ago](https://insurance-edge.net/2025/07/19/data-backup-has-evolved-but-has-your-strategy/))
 - Los Angeles Sues Airbnb for Alleged Price Gouging Following Wildfires ([1 days ago](https://www.insurancejournal.com/news/west/2025/07/18/832351.htm))
 - Orion180 Launches Home Insurance Product in Massachusetts ([1 days ago](https://insurance-edge.net/2025/07/18/orion180-launches-home-insurance-product-in-massachusetts/))
 - People Moves: Encova Insurance Names Two New Senior Leadership Team Members; NI Holdings Inc. Names Dawson SVP and CHRO ([1 days ago](https://www.insurancejournal.com/news/midwest/2025/07/18/832339.htm))
@@ -26,7 +26,7 @@ description: Insurance Updates
 - Alaska Tsunami Warning Had Residents Scrambling for High Ground After M7.3 Quake ([1 days ago](https://www.insurancejournal.com/news/west/2025/07/18/832293.htm))
 - AI Models With Systemic Risks Given Pointers on How to Comply With EU AI Rules ([1 days ago](https://www.insurancejournal.com/news/international/2025/07/18/832287.htm))
 - Jury Awards $100M in Shooting Death of Former Florida State Senator’s Son ([1 days ago](https://www.insurancejournal.com/news/southeast/2025/07/18/832282.htm))
-- Casualty insurers to be impacted by Los Angeles wildfires: Moody’s ([1 days ago](https://www.reinsurancene.ws/casualty-insurers-to-be-impacted-by-los-angeles-wildfires-moodys/))
+- Casualty insurers to be impacted by Los Angeles wildfires: Moody’s ([2 days ago](https://www.reinsurancene.ws/casualty-insurers-to-be-impacted-by-los-angeles-wildfires-moodys/))
 - Lightning Strike at New Jersey Archery Range Kills 1, Injures 13 ([2 days ago](https://www.insurancejournal.com/news/east/2025/07/18/832276.htm))
 - LSN Ré Walbaum names Heroui Director of P&C Reinsurance ([2 days ago](https://www.reinsurancene.ws/lsn-re-walbaum-names-heroui-director-of-pc-reinsurance/))
 - EU’s New Russia Sanctions Aim for More Effective Oil Price Cap ([2 days ago](https://www.insurancejournal.com/news/international/2025/07/18/832255.htm))
