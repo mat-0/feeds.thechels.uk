@@ -8,7 +8,7 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Boost Your .NET Projects: Effortlessly Randomize Collections with CollectionRandomizer in Spargine ([2 hours ago](https://dotnettips.wordpress.com/2025/07/20/boost-your-net-projects-effortlessly-randomize-collections-with-collectionrandomizer-in-spargine/))
+- Boost Your .NET Projects: Effortlessly Randomize Collections with CollectionRandomizer in Spargine ([3 hours ago](https://dotnettips.wordpress.com/2025/07/20/boost-your-net-projects-effortlessly-randomize-collections-with-collectionrandomizer-in-spargine/))
 - Accelerate SQL Server Migration to Azure with Azure Arc - Microsoft SQL Server Blog ([2 days ago](https://dotnetkicks.com/r/725360?url=https://www.microsoft.com/en-us/sql-server/blog/2025/07/17/accelerate-sql-server-migration-to-azure-with-azure-arc/))
 - dotnet cake.cs - preview ([2 days ago](https://dotnetkicks.com/r/725331?url=https://cakebuild.net/blog/2025/07/dotnet-cake-cs))
 - Still Compiling: Two Shirts Every Veteran Software Engineer Needs ([2 days ago](https://dotnettips.wordpress.com/2025/07/17/still-compiling-two-shirts-every-veteran-software-engineer-needs/))
@@ -57,6 +57,6 @@ description: DotNet Updates
 - Simpler XAML in .NET MAUI 10 ([23 days ago](https://devblogs.microsoft.com/dotnet/simpler-xaml-in-dotnet-maui-10/))
 - Rider 2025.2 EAP 7: Low-Level Exception Suppression and Other Updates for Debugging Games ([23 days ago](https://blog.jetbrains.com/dotnet/2025/06/26/rider-2025-2-eap-7-low-level-exception-suppression/))
 - UX Chronicles: Why Developers Should Care About User Experience (Yes, You!) ([25 days ago](https://dotnettips.wordpress.com/2025/06/25/ux-chronicles-why-developers-should-care-about-user-experience-yes-you/))
-- Working with stacked branches in git (Part 2) ([25 days ago](https://andrewlock.net/working-with-stacked-branches-in-git-part-2/))
+- Working with stacked branches in git (Part 2) ([26 days ago](https://andrewlock.net/working-with-stacked-branches-in-git-part-2/))
 
 <!-- news_marker ends -->
