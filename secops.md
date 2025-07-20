@@ -8,8 +8,8 @@ description: SecOps News
 [Get this as an RSS feed](/secops.rss)
 
 <!-- news_marker starts -->
-- Multiple vulnerabilities in the web management interface of	Intelbras routers ([54 minutes ago](https://seclists.org/fulldisclosure/2025/Jul/14))
-- Threat actors downgrade FIDO2 MFA auth in PoisonSeed phishing attack ([13 hours ago](https://www.bleepingcomputer.com/news/security/threat-actors-downgrade-fido2-mfa-auth-in-poisonseed-phishing-attack/))
+- Multiple vulnerabilities in the web management interface of	Intelbras routers ([1 hours ago](https://seclists.org/fulldisclosure/2025/Jul/14))
+- Threat actors downgrade FIDO2 MFA auth in PoisonSeed phishing attack ([14 hours ago](https://www.bleepingcomputer.com/news/security/threat-actors-downgrade-fido2-mfa-auth-in-poisonseed-phishing-attack/))
 - Popular npm linter packages hijacked via phishing to drop malware ([18 hours ago](https://www.bleepingcomputer.com/news/security/popular-npm-linter-packages-hijacked-via-phishing-to-drop-malware/))
 - ChatGPT"s GPT-5-reasoning-alpha model spotted ahead of launch ([19 hours ago](https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpts-gpt-5-reasoning-alpha-model-spotted-ahead-of-launch/))
 - Ex-IDF cyber chief on Iran, Scattered Spider, and why social engineering worries him more than 0-days ([23 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/07/19/idf_cyber_chief_iran/))
@@ -61,7 +61,7 @@ description: SecOps News
 - CTEM vs ASM vs Vulnerability Management: What Security Leaders Need to Know in 2025 ([2 days ago](https://thehackernews.com/2025/07/ctem-vs-asm-vs-vulnerability-management.html))
 - Boffins detail new algorithms to losslessly boost AI perf by up to 2.8x ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2025/07/17/new_algorithms_boost_ai_perf/))
 - Chinese Hackers Target Taiwan's Semiconductor Sector with Cobalt Strike, Custom Backdoors ([2 days ago](https://thehackernews.com/2025/07/chinese-hackers-target-taiwans.html))
-- Open, free, and completely ignored: The strange afterlife of Symbian ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2025/07/17/symbian_forgotten_foss_phone_os/))
+- Open, free, and completely ignored: The strange afterlife of Symbian ([3 days ago](https://go.theregister.com/feed/www.theregister.com/2025/07/17/symbian_forgotten_foss_phone_os/))
 - Microsoft offers vintage Exchange and Skype server users six more months of security updates ([3 days ago](https://go.theregister.com/feed/www.theregister.com/2025/07/17/microsoft_extended_security_exchange_skype_server/))
 - Microsoft offers vintage Exchange and Skype server users six more months of security updates ([3 days ago](https://go.theregister.com/feed/www.theregister.com/2025/07/17/microsoft_extended_security_exchange_skype_server/))
 - Cisco Warns of Critical ISE Flaw Allowing Unauthenticated Attackers to Execute Root Code ([3 days ago](https://thehackernews.com/2025/07/cisco-warns-of-critical-ise-flaw.html))
@@ -88,7 +88,7 @@ description: SecOps News
 - Disruption with some GitHub services ([3 days ago](https://www.githubstatus.com/incidents/8pk9qxksg7cj))
 - Security shop Adarma ceases trading, confirms it will enter administration ([3 days ago](https://go.theregister.com/feed/www.theregister.com/2025/07/16/adarma_will_enter_administration/))
 - Google AI "Big Sleep" Stops Exploitation of Critical SQLite Vulnerability Before Hackers Act ([3 days ago](https://thehackernews.com/2025/07/google-ai-big-sleep-stops-exploitation.html))
-- If you want a picture of the future, imagine humans checking AI didn't make a mistake – forever ([3 days ago](https://go.theregister.com/feed/www.theregister.com/2025/07/16/if_you_want_a_picture/))
+- If you want a picture of the future, imagine humans checking AI didn't make a mistake – forever ([4 days ago](https://go.theregister.com/feed/www.theregister.com/2025/07/16/if_you_want_a_picture/))
 - VMware reboots its partner program again – and it looks like smaller players are out ([4 days ago](https://go.theregister.com/feed/www.theregister.com/2025/07/16/vmware_reboots_partner_program_again/))
 - Uber to roll out thousands of robo-cabs built by China’s Baidu ([4 days ago](https://go.theregister.com/feed/www.theregister.com/2025/07/16/uber_baidu_robo_taxi_alliance/))
 - Curl creator mulls nixing bug bounty awards to stop AI slop ([4 days ago](https://go.theregister.com/feed/www.theregister.com/2025/07/15/curl_creator_mulls_nixing_bug/))

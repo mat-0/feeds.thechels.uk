@@ -56,7 +56,7 @@ description: Insurance Updates
 - Coverys sells Italian MGA AEC to Edge Group to refine EU MGA strategy ([1 days ago](https://www.insurancebusinessmag.com/uk/news/mergers-acquisitions/coverys-sells-italian-mga-aec-to-edge-group-to-refine-eu-mga-strategy-543021.aspx))
 - L&G enhances adviser experience on application platform OLP Connect ([1 days ago](https://ifamagazine.com/lg-enhances-adviser-experience-on-application-platform-olp-connect/))
 - Chinese Hackers Still Trying to Break Into Telecoms Across Globe ([1 days ago](https://www.insurancejournal.com/news/international/2025/07/18/832232.htm))
-- Former AIG Exec McElroy Faces Sexual Assault Charges in Vermont ([1 days ago](https://www.insurancejournal.com/news/national/2025/07/18/832169.htm))
+- Former AIG Exec McElroy Faces Sexual Assault Charges in Vermont ([2 days ago](https://www.insurancejournal.com/news/national/2025/07/18/832169.htm))
 - Waymo Expands in Austin After Tesla Launches Robotaxi Competitor ([2 days ago](https://www.insurancejournal.com/news/southcentral/2025/07/18/832164.htm))
 - AM Best Revises Outlook to Negative for Texas’ Southern Vanguard ([2 days ago](https://www.insurancejournal.com/news/southcentral/2025/07/18/832174.htm))
 - Aviva doubles offshore renewable energy capacity to £150 million ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/aviva-doubles-offshore-renewable-energy-capacity-to-150-million-543012.aspx))
@@ -134,7 +134,7 @@ description: Insurance Updates
 - What Features do Insurance Customers Want But Still Aren’t Getting? ([20 days ago](https://thefintechtimes.com/what-features-do-insurance-customers-want-but-still-arent-getting/))
 - Keeping Up With Embedded Insurance: How Can Traditional Insurers Adapt? ([21 days ago](https://thefintechtimes.com/keeping-up-with-embedded-insurance-how-can-traditional-insurers-adapt/))
 - ‘Set It and Forget It’ Won’t Cut It: Insurers Warned on AI Oversight ([24 days ago](https://thefintechtimes.com/set-it-and-forget-it-wont-cut-it-insurers-warned-on-ai-oversight/))
-- Aon Launches AI-Powered Platform to Equip Insurance Brokers With Live Pricing Intelligence ([24 days ago](https://thefintechtimes.com/aon-launches-ai-powered-platform-to-equip-insurance-brokers-with-live-pricing-intelligence/))
+- Aon Launches AI-Powered Platform to Equip Insurance Brokers With Live Pricing Intelligence ([25 days ago](https://thefintechtimes.com/aon-launches-ai-powered-platform-to-equip-insurance-brokers-with-live-pricing-intelligence/))
 - Upcover Launches Tailored Insurance for Fintechs, Promising to Leverage its ‘Founder’s-Eye View’ ([25 days ago](https://thefintechtimes.com/upcover-launches-tailored-insurance-for-fintechs-promising-to-leverage-its-founders-eye-view/))
 - AI Can “Only Augment, Not Replace” Humans in Insurance: Industry Reveals AI Risks in the Sector ([25 days ago](https://thefintechtimes.com/ai-can-only-augment-not-replace-humans-in-insurance-industry-reveals-ai-risks-in-the-sector/))
 
