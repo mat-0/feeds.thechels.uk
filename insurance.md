@@ -8,7 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Data: Backup Has Evolved, But Has Your Strategy? ([6 hours ago](https://insurance-edge.net/2025/07/19/data-backup-has-evolved-but-has-your-strategy/))
+- Data: Backup Has Evolved, But Has Your Strategy? ([7 hours ago](https://insurance-edge.net/2025/07/19/data-backup-has-evolved-but-has-your-strategy/))
 - Los Angeles Sues Airbnb for Alleged Price Gouging Following Wildfires ([1 days ago](https://www.insurancejournal.com/news/west/2025/07/18/832351.htm))
 - Orion180 Launches Home Insurance Product in Massachusetts ([1 days ago](https://insurance-edge.net/2025/07/18/orion180-launches-home-insurance-product-in-massachusetts/))
 - People Moves: Encova Insurance Names Two New Senior Leadership Team Members; NI Holdings Inc. Names Dawson SVP and CHRO ([1 days ago](https://www.insurancejournal.com/news/midwest/2025/07/18/832339.htm))
@@ -67,7 +67,7 @@ description: Insurance Updates
 - China-Linked Hackers Target Taiwan’s Chip Industry With Increasing Attacks: Research ([1 days ago](https://www.insurancejournal.com/news/international/2025/07/18/832027.htm))
 - What went wrong with Gallagher’s bid to buy PIB Group? ([1 days ago](https://www.postonline.co.uk/broker/7958134/what-went-wrong-with-gallagher%E2%80%99s-bid-to-buy-pib-group))
 - Penny Black’s Social Diary: Superscript’s netball; MHP Group’s salad ([1 days ago](https://www.postonline.co.uk/people/7957938/penny-black%E2%80%99s-social-diary-superscript%E2%80%99s-netball-mhp-group%E2%80%99s-salad))
-- ARAG ceases operation in Australia ([1 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/arag-ceases-operation-in-australia-542983.aspx))
+- ARAG ceases operation in Australia ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/arag-ceases-operation-in-australia-542983.aspx))
 - AI's role in catastrophic events and claims ([2 days ago](https://www.dig-in.com/opinion/ai-in-catastrophic-events-and-claims))
 - Trucking industry is ready for telematics ([2 days ago](https://www.dig-in.com/opinion/trucking-industry-is-ready-for-telematics))
 - Squalify Enters U.S. Market with First Major Customer and Enhanced Cyber Risk Platform to Quantify Risk in Dollars ([2 days ago](https://www.insurtechinsights.com/squalify-enters-u-s-market-with-first-major-customer-and-enhanced-cyber-risk-platform-to-quantify-risk-in-dollars/))
