@@ -8,7 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Data: Backup Has Evolved, But Has Your Strategy? ([7 hours ago](https://insurance-edge.net/2025/07/19/data-backup-has-evolved-but-has-your-strategy/))
+- Data: Backup Has Evolved, But Has Your Strategy? ([9 hours ago](https://insurance-edge.net/2025/07/19/data-backup-has-evolved-but-has-your-strategy/))
 - Los Angeles Sues Airbnb for Alleged Price Gouging Following Wildfires ([1 days ago](https://www.insurancejournal.com/news/west/2025/07/18/832351.htm))
 - Orion180 Launches Home Insurance Product in Massachusetts ([1 days ago](https://insurance-edge.net/2025/07/18/orion180-launches-home-insurance-product-in-massachusetts/))
 - People Moves: Encova Insurance Names Two New Senior Leadership Team Members; NI Holdings Inc. Names Dawson SVP and CHRO ([1 days ago](https://www.insurancejournal.com/news/midwest/2025/07/18/832339.htm))
@@ -129,13 +129,13 @@ description: Insurance Updates
 - Broadstone appoints Rob Kerry as Actuarial Director to enhance life insurance capabilities ([9 days ago](https://ifamagazine.com/broadstone-appoints-rob-kerry-as-actuarial-director-to-enhance-life-insurance-capabilities/))
 - 62% of income protection claimants returned to work within 3 months of receiving support via a RedArc pilot ([11 days ago](https://ifamagazine.com/62-of-income-protection-claimants-returned-to-work-within-3-months-of-receiving-support-via-a-redarc-pilot/))
 - Many unaware of their responsibilities as executor of a will ([11 days ago](https://ifamagazine.com/many-unaware-of-their-responsibilities-as-executor-of-a-will/))
-- TBC Uzbekistan Expands Banking Ecosystem Fully Digital Personalised Insurance Product ([11 days ago](https://thefintechtimes.com/tbc-uzbekistan-launches-fully-digital-personalised-insurance-product/))
+- TBC Uzbekistan Expands Banking Ecosystem Fully Digital Personalised Insurance Product ([12 days ago](https://thefintechtimes.com/tbc-uzbekistan-launches-fully-digital-personalised-insurance-product/))
 - Insurtech Outlook: How Can Insurance Firms Best Prepare for the Future? ([19 days ago](https://thefintechtimes.com/insurtech-outlook-how-can-insurance-firms-best-prepare-for-the-future/))
 - What Features do Insurance Customers Want But Still Aren’t Getting? ([20 days ago](https://thefintechtimes.com/what-features-do-insurance-customers-want-but-still-arent-getting/))
 - Keeping Up With Embedded Insurance: How Can Traditional Insurers Adapt? ([21 days ago](https://thefintechtimes.com/keeping-up-with-embedded-insurance-how-can-traditional-insurers-adapt/))
 - ‘Set It and Forget It’ Won’t Cut It: Insurers Warned on AI Oversight ([24 days ago](https://thefintechtimes.com/set-it-and-forget-it-wont-cut-it-insurers-warned-on-ai-oversight/))
 - Aon Launches AI-Powered Platform to Equip Insurance Brokers With Live Pricing Intelligence ([24 days ago](https://thefintechtimes.com/aon-launches-ai-powered-platform-to-equip-insurance-brokers-with-live-pricing-intelligence/))
-- Upcover Launches Tailored Insurance for Fintechs, Promising to Leverage its ‘Founder’s-Eye View’ ([24 days ago](https://thefintechtimes.com/upcover-launches-tailored-insurance-for-fintechs-promising-to-leverage-its-founders-eye-view/))
+- Upcover Launches Tailored Insurance for Fintechs, Promising to Leverage its ‘Founder’s-Eye View’ ([25 days ago](https://thefintechtimes.com/upcover-launches-tailored-insurance-for-fintechs-promising-to-leverage-its-founders-eye-view/))
 - AI Can “Only Augment, Not Replace” Humans in Insurance: Industry Reveals AI Risks in the Sector ([25 days ago](https://thefintechtimes.com/ai-can-only-augment-not-replace-humans-in-insurance-industry-reveals-ai-risks-in-the-sector/))
 
 <!-- news_marker ends -->
