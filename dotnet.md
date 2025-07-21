@@ -8,7 +8,7 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- F# Weekly #29, 2025 - .NET 10 Preview 6 ([13 hours ago](https://dotnetkicks.com/r/725471?url=https://sergeytihon.com/2025/07/19/f-weekly-29-2025-net-10-preview-6/))
+- F# Weekly #29, 2025 - .NET 10 Preview 6 ([14 hours ago](https://dotnetkicks.com/r/725471?url=https://sergeytihon.com/2025/07/19/f-weekly-29-2025-net-10-preview-6/))
 - How I Prioritize OSS Bugs ([15 hours ago](https://dotnetkicks.com/r/725466?url=https://jeremydmiller.com/2025/07/20/how-i-prioritize-oss-bugs/))
 - Boost Your .NET Projects: Effortlessly Randomize Collections with CollectionRandomizer in Spargine ([1 days ago](https://dotnettips.wordpress.com/2025/07/20/boost-your-net-projects-effortlessly-randomize-collections-with-collectionrandomizer-in-spargine/))
 - Accelerate SQL Server Migration to Azure with Azure Arc - Microsoft SQL Server Blog ([3 days ago](https://dotnetkicks.com/r/725360?url=https://www.microsoft.com/en-us/sql-server/blog/2025/07/17/accelerate-sql-server-migration-to-azure-with-azure-arc/))
@@ -23,8 +23,8 @@ description: DotNet Updates
 - .NET 10 Preview 6 is now available! ([5 days ago](https://devblogs.microsoft.com/dotnet/dotnet-10-preview-6/))
 - Protect and modernize SQL Server 2016 workloads with Microsoft - Microsoft SQL Server Blog ([5 days ago](https://dotnetkicks.com/r/725065?url=https://www.microsoft.com/en-us/sql-server/blog/2025/07/15/protect-and-modernize-sql-server-2016-workloads-with-microsoft/))
 - The Hidden Gems of .NET 10: Lesser-Known Features That Will Transform Your Development ([5 days ago](https://dotnetkicks.com/r/724992?url=https://www.mobilize.net/blog/the-hidden-gems-of-.net-10-lesser-known-features-that-will-transform-your-development?utm_source=DNK-724992&utm_medium=DNK-724992&utm_content=DNK-724992&utm_campaign=DNK-724992))
-- C# 14 extension members; AKA extension everything: Exploring the .NET 10 preview - Part 3 ([5 days ago](https://dotnetkicks.com/r/725042?url=https://andrewlock.net/exploring-dotnet-10-preview-features-3-csharp-14-extensions-members/))
-- dotInsights  -  July 2025 ([5 days ago](https://blog.jetbrains.com/dotnet/2025/07/15/dotinsights-july-2025/))
+- C# 14 extension members; AKA extension everything: Exploring the .NET 10 preview - Part 3 ([6 days ago](https://dotnetkicks.com/r/725042?url=https://andrewlock.net/exploring-dotnet-10-preview-features-3-csharp-14-extensions-members/))
+- dotInsights  -  July 2025 ([6 days ago](https://blog.jetbrains.com/dotnet/2025/07/15/dotinsights-july-2025/))
 - C# 14 extension members; AKA extension everything: Exploring the .NET 10 preview - Part 3 ([6 days ago](https://andrewlock.net/exploring-dotnet-10-preview-features-3-csharp-14-extensions-members/))
 - JetBrains .NET Days Online 2025 — Call for Speakers ([6 days ago](https://blog.jetbrains.com/dotnet/2025/07/14/jetbrains-net-days-online-2025-call-for-speakers/))
 - F# Weekly #28, 2025 - Beyond Zero-Allocation ([7 days ago](https://dotnetkicks.com/r/724901?url=https://sergeytihon.com/2025/07/12/f-weekly-28-2025-beyond-zero-allocation/))
