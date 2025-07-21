@@ -8,8 +8,8 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Wisconsin Sports Park Sued for Firing Christian Employee ([23 minutes ago](https://www.insurancejournal.com/magazines/mag-features/2025/07/21/832212.htm))
-- Illinois Chiropractor Sentenced to 20 Months in Prison for Insurance Fraud ([23 minutes ago](https://www.insurancejournal.com/magazines/mag-features/2025/07/21/832216.htm))
+- Wisconsin Sports Park Sued for Firing Christian Employee ([47 minutes ago](https://www.insurancejournal.com/magazines/mag-features/2025/07/21/832212.htm))
+- Illinois Chiropractor Sentenced to 20 Months in Prison for Insurance Fraud ([47 minutes ago](https://www.insurancejournal.com/magazines/mag-features/2025/07/21/832216.htm))
 - Travelers Subsidiary Ordered to Pay $44M in Missouri Wrongful Conviction Case ([4 hours ago](https://www.insurancejournal.com/magazines/mag-features/2025/07/21/832151.htm))
 - Washington Board to Eye Insurer AI Use ([4 hours ago](https://www.insurancejournal.com/magazines/mag-features/2025/07/21/832150.htm))
 - WCIRB: 2024 Losses, Expenses in California Workers’ Comp 108% of Earned Premium ([4 hours ago](https://www.insurancejournal.com/magazines/mag-features/2025/07/21/832149.htm))
@@ -29,7 +29,7 @@ description: Insurance Updates
 - Q2 Composite Personal Lines Rates Up 4.6%; Commercial Up 2.8% ([4 hours ago](https://www.insurancejournal.com/magazines/mag-features/2025/07/21/832132.htm))
 - US Excess & Surplus Lines Growth Slowed Again in 2024; Berkshire, AIG Top Premium Rankings ([4 hours ago](https://www.insurancejournal.com/magazines/mag-features/2025/07/21/832131.htm))
 - Big ‘I’ Celebrates Continued Tax Deduction for Many Independent Agents ([4 hours ago](https://www.insurancejournal.com/magazines/mag-features/2025/07/21/832130.htm))
-- Global insured wildfire losses have surged, Allianz ([7 hours ago](https://www.dig-in.com/news/global-insured-wildfire-losses-have-surged-allianz))
+- Global insured wildfire losses have surged, Allianz ([8 hours ago](https://www.dig-in.com/news/global-insured-wildfire-losses-have-surged-allianz))
 - Ascot's head of loss: Weather forecasting, hurricane season ([9 hours ago](https://www.dig-in.com/news/ascots-head-of-loss-weather-forecasting-hurricane-season))
 - Data: Backup Has Evolved, But Has Your Strategy? ([1 days ago](https://insurance-edge.net/2025/07/19/data-backup-has-evolved-but-has-your-strategy/))
 - Los Angeles Sues Airbnb for Alleged Price Gouging Following Wildfires ([2 days ago](https://www.insurancejournal.com/news/west/2025/07/18/832351.htm))
