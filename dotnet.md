@@ -8,7 +8,7 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- F# Weekly #29, 2025 - .NET 10 Preview 6 ([17 hours ago](https://dotnetkicks.com/r/725471?url=https://sergeytihon.com/2025/07/19/f-weekly-29-2025-net-10-preview-6/))
+- F# Weekly #29, 2025 - .NET 10 Preview 6 ([18 hours ago](https://dotnetkicks.com/r/725471?url=https://sergeytihon.com/2025/07/19/f-weekly-29-2025-net-10-preview-6/))
 - How I Prioritize OSS Bugs ([19 hours ago](https://dotnetkicks.com/r/725466?url=https://jeremydmiller.com/2025/07/20/how-i-prioritize-oss-bugs/))
 - Boost Your .NET Projects: Effortlessly Randomize Collections with CollectionRandomizer in Spargine ([1 days ago](https://dotnettips.wordpress.com/2025/07/20/boost-your-net-projects-effortlessly-randomize-collections-with-collectionrandomizer-in-spargine/))
 - Accelerate SQL Server Migration to Azure with Azure Arc - Microsoft SQL Server Blog ([3 days ago](https://dotnetkicks.com/r/725360?url=https://www.microsoft.com/en-us/sql-server/blog/2025/07/17/accelerate-sql-server-migration-to-azure-with-azure-arc/))
@@ -26,7 +26,7 @@ description: DotNet Updates
 - C# 14 extension members; AKA extension everything: Exploring the .NET 10 preview - Part 3 ([6 days ago](https://dotnetkicks.com/r/725042?url=https://andrewlock.net/exploring-dotnet-10-preview-features-3-csharp-14-extensions-members/))
 - dotInsights  -  July 2025 ([6 days ago](https://blog.jetbrains.com/dotnet/2025/07/15/dotinsights-july-2025/))
 - C# 14 extension members; AKA extension everything: Exploring the .NET 10 preview - Part 3 ([6 days ago](https://andrewlock.net/exploring-dotnet-10-preview-features-3-csharp-14-extensions-members/))
-- JetBrains .NET Days Online 2025 — Call for Speakers ([6 days ago](https://blog.jetbrains.com/dotnet/2025/07/14/jetbrains-net-days-online-2025-call-for-speakers/))
+- JetBrains .NET Days Online 2025 — Call for Speakers ([7 days ago](https://blog.jetbrains.com/dotnet/2025/07/14/jetbrains-net-days-online-2025-call-for-speakers/))
 - F# Weekly #28, 2025 - Beyond Zero-Allocation ([7 days ago](https://dotnetkicks.com/r/724901?url=https://sergeytihon.com/2025/07/12/f-weekly-28-2025-beyond-zero-allocation/))
 - Are Microservices Becoming Easier? ([8 days ago](https://dotnetkicks.com/r/724873?url=https://markheath.net/post/2025/7/10/microservices-architectural-strategies-techniques))
 - Boost Your .NET Projects: Add Thread-Safety with ConcurrentHashSet from Spargine ([8 days ago](https://dotnettips.wordpress.com/2025/07/13/boost-your-net-projects-add-thread-safety-with-concurrenthashset-from-spargine/))
