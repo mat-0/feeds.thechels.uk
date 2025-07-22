@@ -9,7 +9,7 @@ description: DotNet Updates
 
 <!-- news_marker starts -->
 - Ask Mode vs Agent Mode - Choosing the Right Copilot Experience for .NET - .NET Blog ([15 hours ago](https://dotnetkicks.com/r/725623?url=https://devblogs.microsoft.com/dotnet/ask-mode-vs-agent-mode/))
-- Ask Mode vs Agent Mode – Choosing the Right Copilot Experience for .NET ([15 hours ago](https://devblogs.microsoft.com/dotnet/ask-mode-vs-agent-mode/))
+- Ask Mode vs Agent Mode – Choosing the Right Copilot Experience for .NET ([16 hours ago](https://devblogs.microsoft.com/dotnet/ask-mode-vs-agent-mode/))
 - F# Weekly #29, 2025 - .NET 10 Preview 6 ([1 days ago](https://dotnetkicks.com/r/725471?url=https://sergeytihon.com/2025/07/19/f-weekly-29-2025-net-10-preview-6/))
 - How I Prioritize OSS Bugs ([1 days ago](https://dotnetkicks.com/r/725466?url=https://jeremydmiller.com/2025/07/20/how-i-prioritize-oss-bugs/))
 - Boost Your .NET Projects: Effortlessly Randomize Collections with CollectionRandomizer in Spargine ([2 days ago](https://dotnettips.wordpress.com/2025/07/20/boost-your-net-projects-effortlessly-randomize-collections-with-collectionrandomizer-in-spargine/))
@@ -58,6 +58,6 @@ description: DotNet Updates
 - Simpler XAML in .NET MAUI 10 ([25 days ago](https://devblogs.microsoft.com/dotnet/simpler-xaml-in-dotnet-maui-10/))
 - Rider 2025.2 EAP 7: Low-Level Exception Suppression and Other Updates for Debugging Games ([25 days ago](https://blog.jetbrains.com/dotnet/2025/06/26/rider-2025-2-eap-7-low-level-exception-suppression/))
 - UX Chronicles: Why Developers Should Care About User Experience (Yes, You!) ([27 days ago](https://dotnettips.wordpress.com/2025/06/25/ux-chronicles-why-developers-should-care-about-user-experience-yes-you/))
-- Working with stacked branches in git (Part 2) ([27 days ago](https://andrewlock.net/working-with-stacked-branches-in-git-part-2/))
+- Working with stacked branches in git (Part 2) ([28 days ago](https://andrewlock.net/working-with-stacked-branches-in-git-part-2/))
 
 <!-- news_marker ends -->
