@@ -16,7 +16,7 @@ description: DotNet Updates
 - Solving the source generator 'marker attribute' problem in .NET 10: Exploring the .NET 10 preview - Part 4 ([1 days ago](https://andrewlock.net/exploring-dotnet-10-preview-features-4-solving-the-source-generator-marker-attribute-problem-in-dotnet-10/))
 - Ask Mode vs Agent Mode - Choosing the Right Copilot Experience for .NET - .NET Blog ([2 days ago](https://dotnetkicks.com/r/725623?url=https://devblogs.microsoft.com/dotnet/ask-mode-vs-agent-mode/))
 - Ask Mode vs Agent Mode – Choosing the Right Copilot Experience for .NET ([2 days ago](https://devblogs.microsoft.com/dotnet/ask-mode-vs-agent-mode/))
-- F# Weekly #29, 2025 - .NET 10 Preview 6 ([2 days ago](https://dotnetkicks.com/r/725471?url=https://sergeytihon.com/2025/07/19/f-weekly-29-2025-net-10-preview-6/))
+- F# Weekly #29, 2025 - .NET 10 Preview 6 ([3 days ago](https://dotnetkicks.com/r/725471?url=https://sergeytihon.com/2025/07/19/f-weekly-29-2025-net-10-preview-6/))
 - How I Prioritize OSS Bugs ([3 days ago](https://dotnetkicks.com/r/725466?url=https://jeremydmiller.com/2025/07/20/how-i-prioritize-oss-bugs/))
 - Boost Your .NET Projects: Effortlessly Randomize Collections with CollectionRandomizer in Spargine ([3 days ago](https://dotnettips.wordpress.com/2025/07/20/boost-your-net-projects-effortlessly-randomize-collections-with-collectionrandomizer-in-spargine/))
 - Accelerate SQL Server Migration to Azure with Azure Arc - Microsoft SQL Server Blog ([5 days ago](https://dotnetkicks.com/r/725360?url=https://www.microsoft.com/en-us/sql-server/blog/2025/07/17/accelerate-sql-server-migration-to-azure-with-azure-arc/))
