@@ -8,12 +8,12 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- MCP C# SDK Gets Major Update: Support for Protocol Version 2025-06-18 - .NET Blog ([15 hours ago](https://dotnetkicks.com/r/725723?url=https://devblogs.microsoft.com/dotnet/mcp-csharp-sdk-2025-06-18-update/))
-- MCP C# SDK Gets Major Update: Support for Protocol Version 2025-06-18 ([15 hours ago](https://devblogs.microsoft.com/dotnet/mcp-csharp-sdk-2025-06-18-update/))
+- MCP C# SDK Gets Major Update: Support for Protocol Version 2025-06-18 - .NET Blog ([16 hours ago](https://dotnetkicks.com/r/725723?url=https://devblogs.microsoft.com/dotnet/mcp-csharp-sdk-2025-06-18-update/))
+- MCP C# SDK Gets Major Update: Support for Protocol Version 2025-06-18 ([16 hours ago](https://devblogs.microsoft.com/dotnet/mcp-csharp-sdk-2025-06-18-update/))
 - How to Install Nerd Fonts and Icons in PowerShell 7 on Windows 11 ([17 hours ago](https://dotnetkicks.com/r/725714?url=https://ardalis.com/install-nerd-fonts-terminal-icons-pwsh-7-win-11/))
-- Fresh Learning Paths Now Available on Pluralsight for VS Subscribers - Visual Studio Blog ([18 hours ago](https://dotnetkicks.com/r/725686?url=https://devblogs.microsoft.com/visualstudio/vss-pluralsight-2025-2/))
+- Fresh Learning Paths Now Available on Pluralsight for VS Subscribers - Visual Studio Blog ([19 hours ago](https://dotnetkicks.com/r/725686?url=https://devblogs.microsoft.com/visualstudio/vss-pluralsight-2025-2/))
 - Solving the source generator 'marker attribute' problem in .NET 10: Exploring the .NET 10 preview - Part 4 ([22 hours ago](https://dotnetkicks.com/r/725644?url=https://andrewlock.net/exploring-dotnet-10-preview-features-4-solving-the-source-generator-marker-attribute-problem-in-dotnet-10/))
-- Solving the source generator 'marker attribute' problem in .NET 10: Exploring the .NET 10 preview - Part 4 ([22 hours ago](https://andrewlock.net/exploring-dotnet-10-preview-features-4-solving-the-source-generator-marker-attribute-problem-in-dotnet-10/))
+- Solving the source generator 'marker attribute' problem in .NET 10: Exploring the .NET 10 preview - Part 4 ([23 hours ago](https://andrewlock.net/exploring-dotnet-10-preview-features-4-solving-the-source-generator-marker-attribute-problem-in-dotnet-10/))
 - Ask Mode vs Agent Mode - Choosing the Right Copilot Experience for .NET - .NET Blog ([1 days ago](https://dotnetkicks.com/r/725623?url=https://devblogs.microsoft.com/dotnet/ask-mode-vs-agent-mode/))
 - Ask Mode vs Agent Mode – Choosing the Right Copilot Experience for .NET ([1 days ago](https://devblogs.microsoft.com/dotnet/ask-mode-vs-agent-mode/))
 - F# Weekly #29, 2025 - .NET 10 Preview 6 ([2 days ago](https://dotnetkicks.com/r/725471?url=https://sergeytihon.com/2025/07/19/f-weekly-29-2025-net-10-preview-6/))
@@ -60,6 +60,6 @@ description: DotNet Updates
 - Simpler XAML in .NET MAUI 10 ([26 days ago](https://devblogs.microsoft.com/dotnet/simpler-xaml-in-dotnet-maui-10/))
 - Rider 2025.2 EAP 7: Low-Level Exception Suppression and Other Updates for Debugging Games ([26 days ago](https://blog.jetbrains.com/dotnet/2025/06/26/rider-2025-2-eap-7-low-level-exception-suppression/))
 - UX Chronicles: Why Developers Should Care About User Experience (Yes, You!) ([28 days ago](https://dotnettips.wordpress.com/2025/06/25/ux-chronicles-why-developers-should-care-about-user-experience-yes-you/))
-- Working with stacked branches in git (Part 2) ([28 days ago](https://andrewlock.net/working-with-stacked-branches-in-git-part-2/))
+- Working with stacked branches in git (Part 2) ([29 days ago](https://andrewlock.net/working-with-stacked-branches-in-git-part-2/))
 
 <!-- news_marker ends -->
