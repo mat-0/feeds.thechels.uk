@@ -60,6 +60,5 @@ description: DotNet Updates
 - Simpler XAML in .NET MAUI 10 ([27 days ago](https://devblogs.microsoft.com/dotnet/simpler-xaml-in-dotnet-maui-10/))
 - Rider 2025.2 EAP 7: Low-Level Exception Suppression and Other Updates for Debugging Games ([27 days ago](https://blog.jetbrains.com/dotnet/2025/06/26/rider-2025-2-eap-7-low-level-exception-suppression/))
 - UX Chronicles: Why Developers Should Care About User Experience (Yes, You!) ([29 days ago](https://dotnettips.wordpress.com/2025/06/25/ux-chronicles-why-developers-should-care-about-user-experience-yes-you/))
-- Working with stacked branches in git (Part 2) ([29 days ago](https://andrewlock.net/working-with-stacked-branches-in-git-part-2/))
 
 <!-- news_marker ends -->
