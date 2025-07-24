@@ -8,10 +8,10 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- How to Combine MP4 Files on Windows Using FFmpeg ([36 minutes ago](https://dotnetkicks.com/r/725920?url=https://ardalis.com/combine-mp4-files-ffmpeg-windows/))
-- Example of Using Alba for HTTP Testing ([4 hours ago](https://dotnetkicks.com/r/725896?url=https://jeremydmiller.com/2025/07/24/example-of-using-alba-for-http-testing/))
-- The ReSharper and .NET Tools 2025.2 Release Candidates Are Now Available ([5 hours ago](https://blog.jetbrains.com/dotnet/2025/07/24/resharper-dot-net-tools-2025-2-release-candidate/))
-- The Rider 2025.2 Release Candidate Is Here! ([5 hours ago](https://blog.jetbrains.com/dotnet/2025/07/24/the-rider-2025-2-release-candidate/))
+- How to Combine MP4 Files on Windows Using FFmpeg ([1 hours ago](https://dotnetkicks.com/r/725920?url=https://ardalis.com/combine-mp4-files-ffmpeg-windows/))
+- Example of Using Alba for HTTP Testing ([5 hours ago](https://dotnetkicks.com/r/725896?url=https://jeremydmiller.com/2025/07/24/example-of-using-alba-for-http-testing/))
+- The ReSharper and .NET Tools 2025.2 Release Candidates Are Now Available ([6 hours ago](https://blog.jetbrains.com/dotnet/2025/07/24/resharper-dot-net-tools-2025-2-release-candidate/))
+- The Rider 2025.2 Release Candidate Is Here! ([6 hours ago](https://blog.jetbrains.com/dotnet/2025/07/24/the-rider-2025-2-release-candidate/))
 - MCP C# SDK Gets Major Update: Support for Protocol Version 2025-06-18 - .NET Blog ([2 days ago](https://dotnetkicks.com/r/725723?url=https://devblogs.microsoft.com/dotnet/mcp-csharp-sdk-2025-06-18-update/))
 - MCP C# SDK Gets Major Update: Support for Protocol Version 2025-06-18 ([2 days ago](https://devblogs.microsoft.com/dotnet/mcp-csharp-sdk-2025-06-18-update/))
 - How to Install Nerd Fonts and Icons in PowerShell 7 on Windows 11 ([2 days ago](https://dotnetkicks.com/r/725714?url=https://ardalis.com/install-nerd-fonts-terminal-icons-pwsh-7-win-11/))
@@ -59,7 +59,7 @@ description: DotNet Updates
 - ReSharper and Rider 2025.1.4: Another Set of Bug-fixes Released ([24 days ago](https://blog.jetbrains.com/dotnet/2025/06/30/resharper-and-rider-2025-1-4/))
 - Boost Your .NET Projects: Mastering Method Returns with Spargine’s SimpleResult Type ([25 days ago](https://dotnettips.wordpress.com/2025/06/29/boost-your-net-projects-mastering-method-returns-with-spargines-simpleresult-type/))
 - From Extension Methods to Extension Members: Unlocking New Possibilities in .NET 10 ([27 days ago](https://dotnettips.wordpress.com/2025/06/27/from-extension-methods-to-extension-members-unlocking-new-possibilities-in-net-10/))
-- Simpler XAML in .NET MAUI 10 ([27 days ago](https://devblogs.microsoft.com/dotnet/simpler-xaml-in-dotnet-maui-10/))
+- Simpler XAML in .NET MAUI 10 ([28 days ago](https://devblogs.microsoft.com/dotnet/simpler-xaml-in-dotnet-maui-10/))
 - Rider 2025.2 EAP 7: Low-Level Exception Suppression and Other Updates for Debugging Games ([28 days ago](https://blog.jetbrains.com/dotnet/2025/06/26/rider-2025-2-eap-7-low-level-exception-suppression/))
 - UX Chronicles: Why Developers Should Care About User Experience (Yes, You!) ([29 days ago](https://dotnettips.wordpress.com/2025/06/25/ux-chronicles-why-developers-should-care-about-user-experience-yes-you/))
 
