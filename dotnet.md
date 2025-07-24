@@ -8,9 +8,10 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Example of Using Alba for HTTP Testing ([3 hours ago](https://dotnetkicks.com/r/725896?url=https://jeremydmiller.com/2025/07/24/example-of-using-alba-for-http-testing/))
-- The ReSharper and .NET Tools 2025.2 Release Candidates Are Now Available ([4 hours ago](https://blog.jetbrains.com/dotnet/2025/07/24/resharper-dot-net-tools-2025-2-release-candidate/))
-- The Rider 2025.2 Release Candidate Is Here! ([4 hours ago](https://blog.jetbrains.com/dotnet/2025/07/24/the-rider-2025-2-release-candidate/))
+- How to Combine MP4 Files on Windows Using FFmpeg ([13 minutes ago](https://dotnetkicks.com/r/725920?url=https://ardalis.com/combine-mp4-files-ffmpeg-windows/))
+- Example of Using Alba for HTTP Testing ([4 hours ago](https://dotnetkicks.com/r/725896?url=https://jeremydmiller.com/2025/07/24/example-of-using-alba-for-http-testing/))
+- The ReSharper and .NET Tools 2025.2 Release Candidates Are Now Available ([5 hours ago](https://blog.jetbrains.com/dotnet/2025/07/24/resharper-dot-net-tools-2025-2-release-candidate/))
+- The Rider 2025.2 Release Candidate Is Here! ([5 hours ago](https://blog.jetbrains.com/dotnet/2025/07/24/the-rider-2025-2-release-candidate/))
 - MCP C# SDK Gets Major Update: Support for Protocol Version 2025-06-18 - .NET Blog ([2 days ago](https://dotnetkicks.com/r/725723?url=https://devblogs.microsoft.com/dotnet/mcp-csharp-sdk-2025-06-18-update/))
 - MCP C# SDK Gets Major Update: Support for Protocol Version 2025-06-18 ([2 days ago](https://devblogs.microsoft.com/dotnet/mcp-csharp-sdk-2025-06-18-update/))
 - How to Install Nerd Fonts and Icons in PowerShell 7 on Windows 11 ([2 days ago](https://dotnetkicks.com/r/725714?url=https://ardalis.com/install-nerd-fonts-terminal-icons-pwsh-7-win-11/))
@@ -49,7 +50,6 @@ description: DotNet Updates
 - How the .NET MAUI Team uses GitHub Copilot for Productivity - .NET Blog ([15 days ago](https://dotnetkicks.com/r/724540?url=https://devblogs.microsoft.com/dotnet/maui-team-copilot-tips/))
 - How the .NET MAUI Team uses GitHub Copilot for Productivity ([15 days ago](https://devblogs.microsoft.com/dotnet/maui-team-copilot-tips/))
 - Self-Healing Akka.NET Clusters ([15 days ago](https://dotnetkicks.com/r/724487?url=https://petabridge.com/blog/akkadotnet-cluster-split-brain-resolver/))
-- Self-Healing Akka.NET Clusters ([15 days ago](https://dotnetkicks.com/r/724474?url=https://petabridge.com/blog/akkadotnet-cluster-split-brain-resolver/))
 - .NET and .NET Framework July 2025 servicing releases updates ([15 days ago](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-july-2025-servicing-updates/))
 - Behind the scenes of dotnet run app.cs: Exploring the .NET 10 preview - Part 2 ([16 days ago](https://andrewlock.net/exploring-dotnet-10-preview-features-2-behind-the-scenes-of-dotnet-run-app.cs/))
 - Avoid the Wrong Job: The Ultimate .NET Interview Question Playbook ([18 days ago](https://dotnettips.wordpress.com/2025/07/06/avoid-the-wrong-job-the-ultimate-net-interview-question-playbook/))
