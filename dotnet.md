@@ -8,8 +8,7 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Upcoming Changes to JetBrains .NET Tools ([42 minutes ago](https://blog.jetbrains.com/dotnet/2025/07/25/upcoming-changes-to-dotnet-tools/))
-- Announcing Microsoft.PowerShell.PlatyPS 1.0.0 - PowerShell Team ([15 hours ago](https://dotnetkicks.com/r/725935?url=https://devblogs.microsoft.com/powershell/announcing-platyps-100/))
+- Announcing Microsoft.PowerShell.PlatyPS 1.0.0 - PowerShell Team ([16 hours ago](https://dotnetkicks.com/r/725935?url=https://devblogs.microsoft.com/powershell/announcing-platyps-100/))
 - How to Combine MP4 Files on Windows Using FFmpeg ([19 hours ago](https://dotnetkicks.com/r/725920?url=https://ardalis.com/combine-mp4-files-ffmpeg-windows/))
 - Example of Using Alba for HTTP Testing ([23 hours ago](https://dotnetkicks.com/r/725896?url=https://jeremydmiller.com/2025/07/24/example-of-using-alba-for-http-testing/))
 - The ReSharper and .NET Tools 2025.2 Release Candidates Are Now Available ([1 days ago](https://blog.jetbrains.com/dotnet/2025/07/24/resharper-dot-net-tools-2025-2-release-candidate/))
@@ -36,7 +35,7 @@ description: DotNet Updates
 - .NET 10 Preview 6 is now available! - .NET Blog ([9 days ago](https://dotnetkicks.com/r/725074?url=https://devblogs.microsoft.com/dotnet/dotnet-10-preview-6/))
 - .NET 10 Preview 6 is now available! ([9 days ago](https://devblogs.microsoft.com/dotnet/dotnet-10-preview-6/))
 - Protect and modernize SQL Server 2016 workloads with Microsoft - Microsoft SQL Server Blog ([9 days ago](https://dotnetkicks.com/r/725065?url=https://www.microsoft.com/en-us/sql-server/blog/2025/07/15/protect-and-modernize-sql-server-2016-workloads-with-microsoft/))
-- The Hidden Gems of .NET 10: Lesser-Known Features That Will Transform Your Development ([9 days ago](https://dotnetkicks.com/r/724992?url=https://www.mobilize.net/blog/the-hidden-gems-of-.net-10-lesser-known-features-that-will-transform-your-development?utm_source=DNK-724992&utm_medium=DNK-724992&utm_content=DNK-724992&utm_campaign=DNK-724992))
+- The Hidden Gems of .NET 10: Lesser-Known Features That Will Transform Your Development ([10 days ago](https://dotnetkicks.com/r/724992?url=https://www.mobilize.net/blog/the-hidden-gems-of-.net-10-lesser-known-features-that-will-transform-your-development?utm_source=DNK-724992&utm_medium=DNK-724992&utm_content=DNK-724992&utm_campaign=DNK-724992))
 - C# 14 extension members; AKA extension everything: Exploring the .NET 10 preview - Part 3 ([10 days ago](https://dotnetkicks.com/r/725042?url=https://andrewlock.net/exploring-dotnet-10-preview-features-3-csharp-14-extensions-members/))
 - dotInsights  -  July 2025 ([10 days ago](https://blog.jetbrains.com/dotnet/2025/07/15/dotinsights-july-2025/))
 - C# 14 extension members; AKA extension everything: Exploring the .NET 10 preview - Part 3 ([10 days ago](https://andrewlock.net/exploring-dotnet-10-preview-features-3-csharp-14-extensions-members/))
