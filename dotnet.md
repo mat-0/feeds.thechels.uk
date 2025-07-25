@@ -9,10 +9,10 @@ description: DotNet Updates
 
 <!-- news_marker starts -->
 - Announcing Microsoft.PowerShell.PlatyPS 1.0.0 - PowerShell Team ([10 hours ago](https://dotnetkicks.com/r/725935?url=https://devblogs.microsoft.com/powershell/announcing-platyps-100/))
-- How to Combine MP4 Files on Windows Using FFmpeg ([13 hours ago](https://dotnetkicks.com/r/725920?url=https://ardalis.com/combine-mp4-files-ffmpeg-windows/))
-- Example of Using Alba for HTTP Testing ([17 hours ago](https://dotnetkicks.com/r/725896?url=https://jeremydmiller.com/2025/07/24/example-of-using-alba-for-http-testing/))
-- The ReSharper and .NET Tools 2025.2 Release Candidates Are Now Available ([18 hours ago](https://blog.jetbrains.com/dotnet/2025/07/24/resharper-dot-net-tools-2025-2-release-candidate/))
-- The Rider 2025.2 Release Candidate Is Here! ([18 hours ago](https://blog.jetbrains.com/dotnet/2025/07/24/the-rider-2025-2-release-candidate/))
+- How to Combine MP4 Files on Windows Using FFmpeg ([14 hours ago](https://dotnetkicks.com/r/725920?url=https://ardalis.com/combine-mp4-files-ffmpeg-windows/))
+- Example of Using Alba for HTTP Testing ([18 hours ago](https://dotnetkicks.com/r/725896?url=https://jeremydmiller.com/2025/07/24/example-of-using-alba-for-http-testing/))
+- The ReSharper and .NET Tools 2025.2 Release Candidates Are Now Available ([19 hours ago](https://blog.jetbrains.com/dotnet/2025/07/24/resharper-dot-net-tools-2025-2-release-candidate/))
+- The Rider 2025.2 Release Candidate Is Here! ([19 hours ago](https://blog.jetbrains.com/dotnet/2025/07/24/the-rider-2025-2-release-candidate/))
 - MCP C# SDK Gets Major Update: Support for Protocol Version 2025-06-18 - .NET Blog ([2 days ago](https://dotnetkicks.com/r/725723?url=https://devblogs.microsoft.com/dotnet/mcp-csharp-sdk-2025-06-18-update/))
 - MCP C# SDK Gets Major Update: Support for Protocol Version 2025-06-18 ([2 days ago](https://devblogs.microsoft.com/dotnet/mcp-csharp-sdk-2025-06-18-update/))
 - How to Install Nerd Fonts and Icons in PowerShell 7 on Windows 11 ([2 days ago](https://dotnetkicks.com/r/725714?url=https://ardalis.com/install-nerd-fonts-terminal-icons-pwsh-7-win-11/))
@@ -56,7 +56,7 @@ description: DotNet Updates
 - Local AI + .NET = AltText Magic in One C# Script ([22 days ago](https://devblogs.microsoft.com/dotnet/alttext-generator-csharp-local-models/))
 - UX Chronicles: The Office That Time Forgot – Why Microsoft Must Rethink User Experience Now ([23 days ago](https://dotnettips.wordpress.com/2025/07/02/ux-chronicles-the-office-that-time-forgot-why-microsoft-must-rethink-user-experience-now/))
 - Exploring the features of dotnet run app.cs: Exploring the .NET 10 preview - Part 1 ([23 days ago](https://andrewlock.net/exploring-dotnet-10-preview-features-1-exploring-the-dotnet-run-app.cs/))
-- ReSharper and Rider 2025.1.4: Another Set of Bug-fixes Released ([24 days ago](https://blog.jetbrains.com/dotnet/2025/06/30/resharper-and-rider-2025-1-4/))
+- ReSharper and Rider 2025.1.4: Another Set of Bug-fixes Released ([25 days ago](https://blog.jetbrains.com/dotnet/2025/06/30/resharper-and-rider-2025-1-4/))
 - Boost Your .NET Projects: Mastering Method Returns with Spargine’s SimpleResult Type ([26 days ago](https://dotnettips.wordpress.com/2025/06/29/boost-your-net-projects-mastering-method-returns-with-spargines-simpleresult-type/))
 - From Extension Methods to Extension Members: Unlocking New Possibilities in .NET 10 ([28 days ago](https://dotnettips.wordpress.com/2025/06/27/from-extension-methods-to-extension-members-unlocking-new-possibilities-in-net-10/))
 - Simpler XAML in .NET MAUI 10 ([28 days ago](https://devblogs.microsoft.com/dotnet/simpler-xaml-in-dotnet-maui-10/))
