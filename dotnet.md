@@ -9,8 +9,8 @@ description: DotNet Updates
 
 <!-- news_marker starts -->
 - Announcing Microsoft.PowerShell.PlatyPS 1.0.0 - PowerShell Team ([6 hours ago](https://dotnetkicks.com/r/725935?url=https://devblogs.microsoft.com/powershell/announcing-platyps-100/))
-- How to Combine MP4 Files on Windows Using FFmpeg ([9 hours ago](https://dotnetkicks.com/r/725920?url=https://ardalis.com/combine-mp4-files-ffmpeg-windows/))
-- Example of Using Alba for HTTP Testing ([13 hours ago](https://dotnetkicks.com/r/725896?url=https://jeremydmiller.com/2025/07/24/example-of-using-alba-for-http-testing/))
+- How to Combine MP4 Files on Windows Using FFmpeg ([10 hours ago](https://dotnetkicks.com/r/725920?url=https://ardalis.com/combine-mp4-files-ffmpeg-windows/))
+- Example of Using Alba for HTTP Testing ([14 hours ago](https://dotnetkicks.com/r/725896?url=https://jeremydmiller.com/2025/07/24/example-of-using-alba-for-http-testing/))
 - The ReSharper and .NET Tools 2025.2 Release Candidates Are Now Available ([15 hours ago](https://blog.jetbrains.com/dotnet/2025/07/24/resharper-dot-net-tools-2025-2-release-candidate/))
 - The Rider 2025.2 Release Candidate Is Here! ([15 hours ago](https://blog.jetbrains.com/dotnet/2025/07/24/the-rider-2025-2-release-candidate/))
 - MCP C# SDK Gets Major Update: Support for Protocol Version 2025-06-18 - .NET Blog ([2 days ago](https://dotnetkicks.com/r/725723?url=https://devblogs.microsoft.com/dotnet/mcp-csharp-sdk-2025-06-18-update/))
