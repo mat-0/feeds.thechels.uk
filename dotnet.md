@@ -8,8 +8,8 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Upcoming Changes to JetBrains .NET Tools ([7 hours ago](https://blog.jetbrains.com/dotnet/2025/07/25/upcoming-changes-to-dotnet-tools/))
-- Announcing Microsoft.PowerShell.PlatyPS 1.0.0 - PowerShell Team ([22 hours ago](https://dotnetkicks.com/r/725935?url=https://devblogs.microsoft.com/powershell/announcing-platyps-100/))
+- Upcoming Changes to JetBrains .NET Tools ([8 hours ago](https://blog.jetbrains.com/dotnet/2025/07/25/upcoming-changes-to-dotnet-tools/))
+- Announcing Microsoft.PowerShell.PlatyPS 1.0.0 - PowerShell Team ([23 hours ago](https://dotnetkicks.com/r/725935?url=https://devblogs.microsoft.com/powershell/announcing-platyps-100/))
 - How to Combine MP4 Files on Windows Using FFmpeg ([1 days ago](https://dotnetkicks.com/r/725920?url=https://ardalis.com/combine-mp4-files-ffmpeg-windows/))
 - Example of Using Alba for HTTP Testing ([1 days ago](https://dotnetkicks.com/r/725896?url=https://jeremydmiller.com/2025/07/24/example-of-using-alba-for-http-testing/))
 - The ReSharper and .NET Tools 2025.2 Release Candidates Are Now Available ([1 days ago](https://blog.jetbrains.com/dotnet/2025/07/24/resharper-dot-net-tools-2025-2-release-candidate/))
