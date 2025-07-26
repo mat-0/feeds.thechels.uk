@@ -8,7 +8,7 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Database Migration Strategies ([7 hours ago](https://dotnetkicks.com/r/725997?url=https://codeopinion.com/database-migration-strategies/))
+- Database Migration Strategies ([8 hours ago](https://dotnetkicks.com/r/725997?url=https://codeopinion.com/database-migration-strategies/))
 - Upcoming Changes to JetBrains .NET Tools ([21 hours ago](https://blog.jetbrains.com/dotnet/2025/07/25/upcoming-changes-to-dotnet-tools/))
 - Announcing Microsoft.PowerShell.PlatyPS 1.0.0 - PowerShell Team ([1 days ago](https://dotnetkicks.com/r/725935?url=https://devblogs.microsoft.com/powershell/announcing-platyps-100/))
 - How to Combine MP4 Files on Windows Using FFmpeg ([1 days ago](https://dotnetkicks.com/r/725920?url=https://ardalis.com/combine-mp4-files-ffmpeg-windows/))
@@ -19,7 +19,7 @@ description: DotNet Updates
 - MCP C# SDK Gets Major Update: Support for Protocol Version 2025-06-18 ([3 days ago](https://devblogs.microsoft.com/dotnet/mcp-csharp-sdk-2025-06-18-update/))
 - How to Install Nerd Fonts and Icons in PowerShell 7 on Windows 11 ([3 days ago](https://dotnetkicks.com/r/725714?url=https://ardalis.com/install-nerd-fonts-terminal-icons-pwsh-7-win-11/))
 - Fresh Learning Paths Now Available on Pluralsight for VS Subscribers - Visual Studio Blog ([3 days ago](https://dotnetkicks.com/r/725686?url=https://devblogs.microsoft.com/visualstudio/vss-pluralsight-2025-2/))
-- Solving the source generator 'marker attribute' problem in .NET 10: Exploring the .NET 10 preview - Part 4 ([3 days ago](https://dotnetkicks.com/r/725644?url=https://andrewlock.net/exploring-dotnet-10-preview-features-4-solving-the-source-generator-marker-attribute-problem-in-dotnet-10/))
+- Solving the source generator 'marker attribute' problem in .NET 10: Exploring the .NET 10 preview - Part 4 ([4 days ago](https://dotnetkicks.com/r/725644?url=https://andrewlock.net/exploring-dotnet-10-preview-features-4-solving-the-source-generator-marker-attribute-problem-in-dotnet-10/))
 - Solving the source generator 'marker attribute' problem in .NET 10: Exploring the .NET 10 preview - Part 4 ([4 days ago](https://andrewlock.net/exploring-dotnet-10-preview-features-4-solving-the-source-generator-marker-attribute-problem-in-dotnet-10/))
 - Ask Mode vs Agent Mode - Choosing the Right Copilot Experience for .NET - .NET Blog ([4 days ago](https://dotnetkicks.com/r/725623?url=https://devblogs.microsoft.com/dotnet/ask-mode-vs-agent-mode/))
 - Ask Mode vs Agent Mode – Choosing the Right Copilot Experience for .NET ([4 days ago](https://devblogs.microsoft.com/dotnet/ask-mode-vs-agent-mode/))
@@ -38,8 +38,8 @@ description: DotNet Updates
 - .NET 10 Preview 6 is now available! ([10 days ago](https://devblogs.microsoft.com/dotnet/dotnet-10-preview-6/))
 - Protect and modernize SQL Server 2016 workloads with Microsoft - Microsoft SQL Server Blog ([10 days ago](https://dotnetkicks.com/r/725065?url=https://www.microsoft.com/en-us/sql-server/blog/2025/07/15/protect-and-modernize-sql-server-2016-workloads-with-microsoft/))
 - The Hidden Gems of .NET 10: Lesser-Known Features That Will Transform Your Development ([10 days ago](https://dotnetkicks.com/r/724992?url=https://www.mobilize.net/blog/the-hidden-gems-of-.net-10-lesser-known-features-that-will-transform-your-development?utm_source=DNK-724992&utm_medium=DNK-724992&utm_content=DNK-724992&utm_campaign=DNK-724992))
-- C# 14 extension members; AKA extension everything: Exploring the .NET 10 preview - Part 3 ([10 days ago](https://dotnetkicks.com/r/725042?url=https://andrewlock.net/exploring-dotnet-10-preview-features-3-csharp-14-extensions-members/))
-- dotInsights  -  July 2025 ([10 days ago](https://blog.jetbrains.com/dotnet/2025/07/15/dotinsights-july-2025/))
+- C# 14 extension members; AKA extension everything: Exploring the .NET 10 preview - Part 3 ([11 days ago](https://dotnetkicks.com/r/725042?url=https://andrewlock.net/exploring-dotnet-10-preview-features-3-csharp-14-extensions-members/))
+- dotInsights  -  July 2025 ([11 days ago](https://blog.jetbrains.com/dotnet/2025/07/15/dotinsights-july-2025/))
 - C# 14 extension members; AKA extension everything: Exploring the .NET 10 preview - Part 3 ([11 days ago](https://andrewlock.net/exploring-dotnet-10-preview-features-3-csharp-14-extensions-members/))
 - JetBrains .NET Days Online 2025 — Call for Speakers ([11 days ago](https://blog.jetbrains.com/dotnet/2025/07/14/jetbrains-net-days-online-2025-call-for-speakers/))
 - F# Weekly #28, 2025 - Beyond Zero-Allocation ([12 days ago](https://dotnetkicks.com/r/724901?url=https://sergeytihon.com/2025/07/12/f-weekly-28-2025-beyond-zero-allocation/))
