@@ -9,9 +9,9 @@ description: SecOps News
 
 <!-- news_marker starts -->
 - Allianz Life confirms data breach impacts majority of 1.4 million customers ([5 hours ago](https://www.bleepingcomputer.com/news/security/allianz-life-confirms-data-breach-impacts-majority-of-14-million-customers/))
-- Post SMTP plugin flaw exposes 200K WordPress sites to hijacking attacks ([8 hours ago](https://www.bleepingcomputer.com/news/security/post-smtp-plugin-flaw-exposes-200k-wordpress-sites-to-hijacking-attacks/))
-- Congress tries to outlaw AI that jacks up prices based on what it knows about you ([9 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/07/26/ai_surveillance_pricing/))
-- Blame a leak for Microsoft SharePoint attacks, researcher insists ([11 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/07/26/microsoft_sharepoint_attacks_leak/))
+- Post SMTP plugin flaw exposes 200K WordPress sites to hijacking attacks ([9 hours ago](https://www.bleepingcomputer.com/news/security/post-smtp-plugin-flaw-exposes-200k-wordpress-sites-to-hijacking-attacks/))
+- Congress tries to outlaw AI that jacks up prices based on what it knows about you ([10 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/07/26/ai_surveillance_pricing/))
+- Blame a leak for Microsoft SharePoint attacks, researcher insists ([12 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/07/26/microsoft_sharepoint_attacks_leak/))
 - Amazon AI coding agent hacked to inject data wiping commands ([1 days ago](https://www.bleepingcomputer.com/news/security/amazon-ai-coding-agent-hacked-to-inject-data-wiping-commands/))
 - Senator to Google: Give us info from telco Salt Typhoon probes ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2025/07/25/senator_mandiant_salt_typhoon_demands/))
 - First release candidate of systemd 258 is here ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2025/07/25/systemd_258_first_rc_here/))
@@ -189,7 +189,7 @@ description: SecOps News
 - Catwatchful - 61,641 breached accounts ([23 days ago](https://haveibeenpwned.com/Breach/Catwatchful))
 - Big Tech’s Mixed Response to U.S. Treasury Sanctions ([23 days ago](https://krebsonsecurity.com/2025/07/big-techs-mixed-response-to-u-s-treasury-sanctions/))
 - Disruption with some GitHub services ([23 days ago](https://www.githubstatus.com/incidents/zltys99f2lgq))
-- Welcoming Truyu to Have I Been Pwned's Partner Program ([23 days ago](https://www.troyhunt.com/welcoming-truyu-to-have-i-been-pwneds-partner-program/))
+- Welcoming Truyu to Have I Been Pwned's Partner Program ([24 days ago](https://www.troyhunt.com/welcoming-truyu-to-have-i-been-pwneds-partner-program/))
 - Trillion with a T: Surpassing 2 Trillion Events Processed!🚀🚀 ([24 days ago](https://scotthelme.ghost.io/trillion-with-a-t-surpassing-2-trillion-events-processed/))
 - Disruption with some GitHub services ([24 days ago](https://www.githubstatus.com/incidents/txt7rjw95rhx))
 - PureLogs Forensics ([24 days ago](https://www.netresec.com/?page=Blog&month=2025-07&post=PureLogs-Forensics))
@@ -199,6 +199,5 @@ description: SecOps News
 - Disruption with Claude 3.7 Sonnet in Copilot Chat ([26 days ago](https://www.githubstatus.com/incidents/kkm7hd89m0yt))
 - Incident With Actions ([26 days ago](https://www.githubstatus.com/incidents/crd2y6xy6knn))
 - Senator Chides FBI for Weak Advice on Mobile Security ([26 days ago](https://krebsonsecurity.com/2025/06/senator-chides-fbi-for-weak-advice-on-mobile-security/))
-- Disruption with some GitHub services ([29 days ago](https://www.githubstatus.com/incidents/3l5g70d16ldz))
 
 <!-- news_marker ends -->
