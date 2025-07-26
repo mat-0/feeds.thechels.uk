@@ -8,7 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Britain Is Losing Tradespeople Because of Theft Epidemic ([7 hours ago](https://insurance-edge.net/2025/07/26/britain-is-losing-tradespeolle-because-of-theft-epidemic/))
+- Britain Is Losing Tradespeople Because of Theft Epidemic ([8 hours ago](https://insurance-edge.net/2025/07/26/britain-is-losing-tradespeolle-because-of-theft-epidemic/))
 - GlobalData Report Looks at AI Impact Across Insurance Chain ([22 hours ago](https://insurance-edge.net/2025/07/25/globaldata-report-looks-at-ai-impact-across-insurance-chain/))
 - California FAIR Plan Rolls out Commercial High Value Policy ([22 hours ago](https://www.insurancejournal.com/news/west/2025/07/25/833310.htm))
 - Man Who Killed Idaho Firefighters Was Turned Away by Fire Department ([23 hours ago](https://www.insurancejournal.com/news/west/2025/07/25/833307.htm))
@@ -114,7 +114,7 @@ description: Insurance Updates
 - Could AI alter the legal position of brokers? ([4 days ago](https://www.postonline.co.uk/broker/7958013/could-ai-alter-the-legal-position-of-brokers))
 - National Friendly marks the first anniversary of Friendly Shield by adding Friendly Dentist+ dental support for all new members ([5 days ago](https://ifamagazine.com/national-friendly-marks-the-first-anniversary-of-friendly-shield-by-adding-friendly-dentist-dental-support-for-all-new-members/))
 - L&G enhances adviser experience on application platform OLP Connect ([8 days ago](https://ifamagazine.com/lg-enhances-adviser-experience-on-application-platform-olp-connect/))
-- Squalify Enters U.S. Market with First Major Customer and Enhanced Cyber Risk Platform to Quantify Risk in Dollars ([8 days ago](https://www.insurtechinsights.com/squalify-enters-u-s-market-with-first-major-customer-and-enhanced-cyber-risk-platform-to-quantify-risk-in-dollars/))
+- Squalify Enters U.S. Market with First Major Customer and Enhanced Cyber Risk Platform to Quantify Risk in Dollars ([9 days ago](https://www.insurtechinsights.com/squalify-enters-u-s-market-with-first-major-customer-and-enhanced-cyber-risk-platform-to-quantify-risk-in-dollars/))
 - Verisk to Acquire SuranceBay for $162.5M to Boost Life & Annuity Capabilities ([9 days ago](https://www.insurtechinsights.com/verisk-to-acquire-surancebay-for-162-5m-to-boost-life-annuity-capabilities/))
 - Vitality pays £142m in protection claims in 2024 ([9 days ago](https://ifamagazine.com/vitality-pays-142m-in-protection-claims-in-2024/))
 - Retirement Planning Startup Retirable Raises $10M Series A ([9 days ago](https://www.insurtechinsights.com/retirement-planning-startup-retirable-raises-10m-series-a/))
