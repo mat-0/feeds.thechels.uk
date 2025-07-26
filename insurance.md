@@ -8,7 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Britain Is Losing Tradespeople Because of Theft Epidemic ([10 hours ago](https://insurance-edge.net/2025/07/26/britain-is-losing-tradespeolle-because-of-theft-epidemic/))
+- Britain Is Losing Tradespeople Because of Theft Epidemic ([11 hours ago](https://insurance-edge.net/2025/07/26/britain-is-losing-tradespeolle-because-of-theft-epidemic/))
 - GlobalData Report Looks at AI Impact Across Insurance Chain ([1 days ago](https://insurance-edge.net/2025/07/25/globaldata-report-looks-at-ai-impact-across-insurance-chain/))
 - California FAIR Plan Rolls out Commercial High Value Policy ([1 days ago](https://www.insurancejournal.com/news/west/2025/07/25/833310.htm))
 - Man Who Killed Idaho Firefighters Was Turned Away by Fire Department ([1 days ago](https://www.insurancejournal.com/news/west/2025/07/25/833307.htm))
@@ -65,7 +65,7 @@ description: Insurance Updates
 - Are broker share options worth the paper they’re written on? ([1 days ago](https://www.postonline.co.uk/broker/7958214/are-broker-share-options-worth-the-paper-they%E2%80%99re-written-on))
 - Penny Black’s Social Diary: Allianz paints; IUAD’s cupcakes ([1 days ago](https://www.postonline.co.uk/people/7957979/penny-black%E2%80%99s-social-diary-allianz-paints-iuad%E2%80%99s-cupcakes))
 - Texas floods property impact analysis, Cotality ([1 days ago](https://www.dig-in.com/news/texas-floods-property-impact-analysis-cotality))
-- 5 tech trends transforming the insurance industry ([1 days ago](https://www.dig-in.com/opinion/5-tech-trends-transforming-the-insurance-industry))
+- 5 tech trends transforming the insurance industry ([2 days ago](https://www.dig-in.com/opinion/5-tech-trends-transforming-the-insurance-industry))
 - MAPFRE reports jump in H1 profit ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/mapfre-reports-jump-in-h1-profit-543764.aspx))
 - Hagerty unveils plan to take full control of underwriting under new Markel deal ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/hagerty-unveils-plan-to-take-full-control-of-underwriting-under-new-markel-deal-543765.aspx))
 - Allianz recruits from RSA for MGA-facing role ([2 days ago](https://www.postonline.co.uk/commercial/7958219/allianz-recruits-from-rsa-for-mga-facing-role))
@@ -89,7 +89,7 @@ description: Insurance Updates
 - Q&A: Georgina Davis, Zurich UK ([2 days ago](https://www.postonline.co.uk/broker/7957642/qa-georgina-davis-zurich-uk))
 - FAIR Plan funding will go to court ([2 days ago](https://www.dig-in.com/news/california-fair-plan-funding-will-go-to-court))
 - AI solutions to life insurance underwriting challenges ([2 days ago](https://www.dig-in.com/opinion/ai-solutions-to-insurance-underwriting-challenges))
-- Strategies for reducing social inflation ([2 days ago](https://www.dig-in.com/news/strategies-for-reducing-social-inflation))
+- Strategies for reducing social inflation ([3 days ago](https://www.dig-in.com/news/strategies-for-reducing-social-inflation))
 - Wildfire risks are reflected in muni borrowing costs, study shows ([3 days ago](https://www.dig-in.com/news/wildfire-risks-are-reflected-in-muni-borrowing-costs-study-shows))
 - Law and insurance in the digital age: A look at nuclear verdicts, AI and more ([3 days ago](https://www.dig-in.com/podcast/law-and-insurance-in-the-digital-age-a-look-at-nuclear-verdicts-ai-and-more))
 - Generational preferences challenging HR leaders ([3 days ago](https://www.insurancebusinessmag.com/uk/business-strategy/generational-preferences-challenging-hr-leaders-543566.aspx))
