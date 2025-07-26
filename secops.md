@@ -9,9 +9,9 @@ description: SecOps News
 
 <!-- news_marker starts -->
 - Allianz Life confirms data breach impacts majority of 1.4 million customers ([3 hours ago](https://www.bleepingcomputer.com/news/security/allianz-life-confirms-data-breach-impacts-majority-of-14-million-customers/))
-- Post SMTP plugin flaw exposes 200K WordPress sites to hijacking attacks ([6 hours ago](https://www.bleepingcomputer.com/news/security/post-smtp-plugin-flaw-exposes-200k-wordpress-sites-to-hijacking-attacks/))
-- Congress tries to outlaw AI that jacks up prices based on what it knows about you ([7 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/07/26/ai_surveillance_pricing/))
-- Blame a leak for Microsoft SharePoint attacks, researcher insists ([9 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/07/26/microsoft_sharepoint_attacks_leak/))
+- Post SMTP plugin flaw exposes 200K WordPress sites to hijacking attacks ([7 hours ago](https://www.bleepingcomputer.com/news/security/post-smtp-plugin-flaw-exposes-200k-wordpress-sites-to-hijacking-attacks/))
+- Congress tries to outlaw AI that jacks up prices based on what it knows about you ([8 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/07/26/ai_surveillance_pricing/))
+- Blame a leak for Microsoft SharePoint attacks, researcher insists ([10 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/07/26/microsoft_sharepoint_attacks_leak/))
 - Amazon AI coding agent hacked to inject data wiping commands ([1 days ago](https://www.bleepingcomputer.com/news/security/amazon-ai-coding-agent-hacked-to-inject-data-wiping-commands/))
 - Senator to Google: Give us info from telco Salt Typhoon probes ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2025/07/25/senator_mandiant_salt_typhoon_demands/))
 - First release candidate of systemd 258 is here ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2025/07/25/systemd_258_first_rc_here/))
@@ -48,7 +48,7 @@ description: SecOps News
 - You DO see Windows 11 as an AI PC opportunity, say Dell and Intel ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2025/07/25/ai_propostion_windows_11_pc_vendors/))
 - Microsoft CEO feels weighed down by job cuts ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2025/07/25/microsoft_ceo_job_cuts/))
 - Laptop farmer behind $17M North Korean IT worker scam locked up for 8.5 years ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2025/07/24/laptop_farmer_north_korean_it_scam_sentenced/))
-- BlackSuit ransomware extortion sites seized in Operation Checkmate ([1 days ago](https://www.bleepingcomputer.com/news/security/law-enforcement-seizes-blacksuit-ransomware-leak-sites/))
+- BlackSuit ransomware extortion sites seized in Operation Checkmate ([2 days ago](https://www.bleepingcomputer.com/news/security/law-enforcement-seizes-blacksuit-ransomware-leak-sites/))
 - Euro healthcare giant AMEOS Group shuts down IT systems after mystery attack ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2025/07/24/ameos_group_attack/))
 - OpenAI confirms ChatGPT Agent is now rolling out for $20 Plus users ([2 days ago](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-agent-is-now-rolling-out-for-20-plus-users/))
 - New Koske Linux malware hides in cute panda images ([2 days ago](https://www.bleepingcomputer.com/news/security/new-koske-linux-malware-hides-in-cute-panda-images/))
