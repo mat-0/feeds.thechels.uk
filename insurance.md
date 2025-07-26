@@ -9,8 +9,8 @@ description: Insurance Updates
 
 <!-- news_marker starts -->
 - Britain Is Losing Tradespeople Because of Theft Epidemic ([9 hours ago](https://insurance-edge.net/2025/07/26/britain-is-losing-tradespeolle-because-of-theft-epidemic/))
-- GlobalData Report Looks at AI Impact Across Insurance Chain ([23 hours ago](https://insurance-edge.net/2025/07/25/globaldata-report-looks-at-ai-impact-across-insurance-chain/))
-- California FAIR Plan Rolls out Commercial High Value Policy ([23 hours ago](https://www.insurancejournal.com/news/west/2025/07/25/833310.htm))
+- GlobalData Report Looks at AI Impact Across Insurance Chain ([1 days ago](https://insurance-edge.net/2025/07/25/globaldata-report-looks-at-ai-impact-across-insurance-chain/))
+- California FAIR Plan Rolls out Commercial High Value Policy ([1 days ago](https://www.insurancejournal.com/news/west/2025/07/25/833310.htm))
 - Man Who Killed Idaho Firefighters Was Turned Away by Fire Department ([1 days ago](https://www.insurancejournal.com/news/west/2025/07/25/833307.htm))
 - FEMA Chief Calls Texas Floods Response ‘A Model’ For Dealing With Disaster ([1 days ago](https://www.insurancejournal.com/news/southcentral/2025/07/25/833299.htm))
 - People: Farm Bureau Tenn. Names Pulley to Replace Retiring Pannell as CEO ([1 days ago](https://www.insurancejournal.com/news/southeast/2025/07/25/833298.htm))
