@@ -8,7 +8,7 @@ description: SecOps News
 [Get this as an RSS feed](/secops.rss)
 
 <!-- news_marker starts -->
-- Allianz Life confirms data breach impacts majority of 1.4 million customers ([3 hours ago](https://www.bleepingcomputer.com/news/security/allianz-life-confirms-data-breach-impacts-majority-of-14-million-customers/))
+- Allianz Life confirms data breach impacts majority of 1.4 million customers ([4 hours ago](https://www.bleepingcomputer.com/news/security/allianz-life-confirms-data-breach-impacts-majority-of-14-million-customers/))
 - Post SMTP plugin flaw exposes 200K WordPress sites to hijacking attacks ([7 hours ago](https://www.bleepingcomputer.com/news/security/post-smtp-plugin-flaw-exposes-200k-wordpress-sites-to-hijacking-attacks/))
 - Congress tries to outlaw AI that jacks up prices based on what it knows about you ([8 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/07/26/ai_surveillance_pricing/))
 - Blame a leak for Microsoft SharePoint attacks, researcher insists ([10 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/07/26/microsoft_sharepoint_attacks_leak/))
