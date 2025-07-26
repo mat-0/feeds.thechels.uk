@@ -8,7 +8,7 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Database Migration Strategies ([8 hours ago](https://dotnetkicks.com/r/725997?url=https://codeopinion.com/database-migration-strategies/))
+- Database Migration Strategies ([9 hours ago](https://dotnetkicks.com/r/725997?url=https://codeopinion.com/database-migration-strategies/))
 - Upcoming Changes to JetBrains .NET Tools ([22 hours ago](https://blog.jetbrains.com/dotnet/2025/07/25/upcoming-changes-to-dotnet-tools/))
 - Announcing Microsoft.PowerShell.PlatyPS 1.0.0 - PowerShell Team ([1 days ago](https://dotnetkicks.com/r/725935?url=https://devblogs.microsoft.com/powershell/announcing-platyps-100/))
 - How to Combine MP4 Files on Windows Using FFmpeg ([1 days ago](https://dotnetkicks.com/r/725920?url=https://ardalis.com/combine-mp4-files-ffmpeg-windows/))
