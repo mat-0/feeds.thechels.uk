@@ -8,12 +8,12 @@ description: SecOps News
 [Get this as an RSS feed](/secops.rss)
 
 <!-- news_marker starts -->
-- Allianz Life confirms data breach impacts majority of 1.4 million customers ([48 minutes ago](https://www.bleepingcomputer.com/news/security/allianz-life-confirms-data-breach-impacts-majority-of-14-million-customers/))
+- Allianz Life confirms data breach impacts majority of 1.4 million customers ([1 hours ago](https://www.bleepingcomputer.com/news/security/allianz-life-confirms-data-breach-impacts-majority-of-14-million-customers/))
 - Post SMTP plugin flaw exposes 200K WordPress sites to hijacking attacks ([4 hours ago](https://www.bleepingcomputer.com/news/security/post-smtp-plugin-flaw-exposes-200k-wordpress-sites-to-hijacking-attacks/))
 - Congress tries to outlaw AI that jacks up prices based on what it knows about you ([5 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/07/26/ai_surveillance_pricing/))
 - Blame a leak for Microsoft SharePoint attacks, researcher insists ([7 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/07/26/microsoft_sharepoint_attacks_leak/))
 - Amazon AI coding agent hacked to inject data wiping commands ([22 hours ago](https://www.bleepingcomputer.com/news/security/amazon-ai-coding-agent-hacked-to-inject-data-wiping-commands/))
-- Senator to Google: Give us info from telco Salt Typhoon probes ([22 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/07/25/senator_mandiant_salt_typhoon_demands/))
+- Senator to Google: Give us info from telco Salt Typhoon probes ([23 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/07/25/senator_mandiant_salt_typhoon_demands/))
 - First release candidate of systemd 258 is here ([23 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/07/25/systemd_258_first_rc_here/))
 - Microsoft investigates outage affecting Microsoft 365 admin center ([1 days ago](https://www.bleepingcomputer.com/news/microsoft/microsoft-investigates-outage-affecting-microsoft-365-admin-center/))
 - As AI becomes more popular, concerns grow over its effect on mental health ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2025/07/25/is_ai_contributing_to_mental/))
@@ -55,7 +55,7 @@ description: SecOps News
 - Weapons jam: Pentagon sucks at removing foreign objects from its gear, auditors say ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2025/07/24/the_pentagon_sucks_at_tracking/))
 - White House bans 'woke' AI, but LLMs don't know the truth ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2025/07/24/white_house_wants_no_woke_ai/))
 - Print Screen is for noobs: Capture images in Windows like a pro ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2025/07/24/screenshot_windows/))
-- Wayback 0.1 debuts as early Wayland server for X11 diehards ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2025/07/24/wayback_01_released/))
+- Wayback 0.1 debuts as early Wayland server for X11 diehards ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2025/07/24/wayback_01_released/))
 - No login? No problem: Cisco ISE flaw gave root access before fix arrived, say researchers ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2025/07/24/no_login_no_problem_cisco_flaw/))
 - Phishers Target Aviation Execs to Scam Customers ([2 days ago](https://krebsonsecurity.com/2025/07/phishers-target-aviation-execs-to-scam-customers/))
 - So much for watermarks: UnMarker tool nukes AI provenance tags ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2025/07/24/ai_watermarks_unmarker/))
@@ -197,7 +197,7 @@ description: SecOps News
 - Weekly Update 458 ([24 days ago](https://www.troyhunt.com/weekly-update-458/))
 - CapLoader 2.0.1 Released ([25 days ago](https://www.netresec.com/?page=Blog&month=2025-07&post=CapLoader-2-0-1-Released))
 - Disruption with Claude 3.7 Sonnet in Copilot Chat ([25 days ago](https://www.githubstatus.com/incidents/kkm7hd89m0yt))
-- Incident With Actions ([25 days ago](https://www.githubstatus.com/incidents/crd2y6xy6knn))
+- Incident With Actions ([26 days ago](https://www.githubstatus.com/incidents/crd2y6xy6knn))
 - Senator Chides FBI for Weak Advice on Mobile Security ([26 days ago](https://krebsonsecurity.com/2025/06/senator-chides-fbi-for-weak-advice-on-mobile-security/))
 - Disruption with some GitHub services ([29 days ago](https://www.githubstatus.com/incidents/3l5g70d16ldz))
 
