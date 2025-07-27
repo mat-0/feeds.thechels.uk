@@ -108,7 +108,7 @@ description: Insurance Updates
 - Does the FCA’s premium finance inaction show a lack of ambition? ([4 days ago](https://www.postonline.co.uk/news/7958203/does-fca%E2%80%99s-premium-finance-inaction-show-a-lack-of-ambition))
 - Aon’s head of captives reveals checklist for UK regs ([4 days ago](https://www.postonline.co.uk/regulation/7958193/aon%E2%80%99s-head-of-captives-reveals-checklist-for-uk-regs))
 - FCA admits profiteering didn’t push up insurance prices ([4 days ago](https://www.postonline.co.uk/regulation/7958197/fca-admits-profiteering-didnt-push-up-insurance-prices))
-- FCA lays out roadmap to tackle motor insurance costs ([4 days ago](https://www.postonline.co.uk/personal/7958196/fca-lays-out-roadmap-to-tackle-motor-insurance-costs))
+- FCA lays out roadmap to tackle motor insurance costs ([5 days ago](https://www.postonline.co.uk/personal/7958196/fca-lays-out-roadmap-to-tackle-motor-insurance-costs))
 - 60 Seconds With... MNK Group’s Wajahat Khawaja ([5 days ago](https://www.postonline.co.uk/people/7957961/60-seconds-with-mnk-groups-wajahat-khawaja))
 - Big Interview: Mark Christer, Wakam UK ([5 days ago](https://www.postonline.co.uk/personal/7958184/big-interview-mark-christer-wakam-uk))
 - Could AI alter the legal position of brokers? ([5 days ago](https://www.postonline.co.uk/broker/7958013/could-ai-alter-the-legal-position-of-brokers))
