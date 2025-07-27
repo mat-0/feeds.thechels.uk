@@ -8,7 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Britain Is Losing Tradespeople Because of Theft Epidemic ([21 hours ago](https://insurance-edge.net/2025/07/26/britain-is-losing-tradespeolle-because-of-theft-epidemic/))
+- Britain Is Losing Tradespeople Because of Theft Epidemic ([22 hours ago](https://insurance-edge.net/2025/07/26/britain-is-losing-tradespeolle-because-of-theft-epidemic/))
 - GlobalData Report Looks at AI Impact Across Insurance Chain ([1 days ago](https://insurance-edge.net/2025/07/25/globaldata-report-looks-at-ai-impact-across-insurance-chain/))
 - California FAIR Plan Rolls out Commercial High Value Policy ([1 days ago](https://www.insurancejournal.com/news/west/2025/07/25/833310.htm))
 - Man Who Killed Idaho Firefighters Was Turned Away by Fire Department ([1 days ago](https://www.insurancejournal.com/news/west/2025/07/25/833307.htm))
@@ -99,7 +99,7 @@ description: Insurance Updates
 - Courtroom verdict could give policyholders larger Covid payouts ([3 days ago](https://www.postonline.co.uk/commercial/7958212/courtroom-verdict-could-give-policyholders-larger-covid-payouts))
 - African insurer to return to the UK as a Lloyd’s Syndicate ([3 days ago](https://www.postonline.co.uk/news/7958210/african-insurer-to-return-to-the-uk-as-a-lloyd%E2%80%99s-syndicate))
 - St. James’s Place outlines how Gift Inter Vivos (GIV) insurance can help to minimise IHT bills ([3 days ago](https://ifamagazine.com/st-jamess-place-outlines-how-gift-inter-vivos-giv-insurance-can-help-to-minimise-iht-bills/))
-- Surge in film set thefts raises alarm for insurers ([3 days ago](https://www.postonline.co.uk/commercial/7957906/surge-in-film-set-thefts-raises-alarm-for-insurers))
+- Surge in film set thefts raises alarm for insurers ([4 days ago](https://www.postonline.co.uk/commercial/7957906/surge-in-film-set-thefts-raises-alarm-for-insurers))
 - Tomorrow’s World: Distributing Insurance ([4 days ago](https://www.postonline.co.uk/broker/7958017/tomorrow%E2%80%99s-world-distributing-insurance))
 - Trump’s card for trade credit insurance ([4 days ago](https://www.postonline.co.uk/commercial/7957922/trump%E2%80%99s-card-for-trade-credit-insurance))
 - Katrina at 20: Lessons in resilience for the next generation of risk ([4 days ago](https://www.dig-in.com/opinion/lessons-learned-from-hurricane-katrina))
