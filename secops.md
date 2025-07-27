@@ -8,7 +8,7 @@ description: SecOps News
 [Get this as an RSS feed](/secops.rss)
 
 <!-- news_marker starts -->
-- Scattered Spider is running a VMware ESXi hacking spree ([6 hours ago](https://www.bleepingcomputer.com/news/security/scattered-spider-is-running-a-vmware-esxi-hacking-spree/))
+- Scattered Spider is running a VMware ESXi hacking spree ([7 hours ago](https://www.bleepingcomputer.com/news/security/scattered-spider-is-running-a-vmware-esxi-hacking-spree/))
 - Seeing is believing in biomedicine, which isn't great when AI gets it wrong ([10 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/07/27/biomedviz_ai_wrong_problems/))
 - Allianz Life confirms data breach impacts majority of 1.4 million customers ([1 days ago](https://www.bleepingcomputer.com/news/security/allianz-life-confirms-data-breach-impacts-majority-of-14-million-customers/))
 - Post SMTP plugin flaw exposes 200K WordPress sites to hijacking attacks ([1 days ago](https://www.bleepingcomputer.com/news/security/post-smtp-plugin-flaw-exposes-200k-wordpress-sites-to-hijacking-attacks/))
