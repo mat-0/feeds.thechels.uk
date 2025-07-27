@@ -8,7 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Britain Is Losing Tradespeople Because of Theft Epidemic ([14 hours ago](https://insurance-edge.net/2025/07/26/britain-is-losing-tradespeolle-because-of-theft-epidemic/))
+- Britain Is Losing Tradespeople Because of Theft Epidemic ([15 hours ago](https://insurance-edge.net/2025/07/26/britain-is-losing-tradespeolle-because-of-theft-epidemic/))
 - GlobalData Report Looks at AI Impact Across Insurance Chain ([1 days ago](https://insurance-edge.net/2025/07/25/globaldata-report-looks-at-ai-impact-across-insurance-chain/))
 - California FAIR Plan Rolls out Commercial High Value Policy ([1 days ago](https://www.insurancejournal.com/news/west/2025/07/25/833310.htm))
 - Man Who Killed Idaho Firefighters Was Turned Away by Fire Department ([1 days ago](https://www.insurancejournal.com/news/west/2025/07/25/833307.htm))
