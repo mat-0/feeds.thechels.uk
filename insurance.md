@@ -31,7 +31,7 @@ description: Insurance Updates
 - Mexico Tariffs Could Create Strain on Texas Economy ([1 days ago](https://www.insurancejournal.com/news/southcentral/2025/07/25/833251.htm))
 - Avantia launches industry-leading AI tool ‘Holmes’ to tackle fraud and transform home insurance claims ([1 days ago](https://insurance-edge.net/2025/07/25/avantia-launches-industry-leading-ai-tool-holmes-to-tackle-fraud-and-transform-home-insurance-claims/))
 - AXA Wins $908 Million UK Court Ruling Against Santander Over Protection Insurance ([1 days ago](https://www.insurancejournal.com/news/international/2025/07/25/833243.htm))
-- Aon’s global reinsurance capabilities continue to get stronger, says CEO Greg Case ([1 days ago](https://www.reinsurancene.ws/aons-global-reinsurance-capabilities-continue-to-get-stronger-says-ceo-greg-case/))
+- Aon’s global reinsurance capabilities continue to get stronger, says CEO Greg Case ([2 days ago](https://www.reinsurancene.ws/aons-global-reinsurance-capabilities-continue-to-get-stronger-says-ceo-greg-case/))
 - Georgia Insurance Commissioner Cancels Run for US Senate Seat ([2 days ago](https://www.insurancejournal.com/news/southeast/2025/07/25/833234.htm))
 - Inclusion starts at the top in insurance: but leaders need the right tools ([2 days ago](https://insurance-edge.net/2025/07/25/inclusion-starts-at-the-top-in-insurance-but-leaders-need-the-right-tools/))
 - 1B Insurance hires Aon’s John Morley as CEO ([2 days ago](https://www.reinsurancene.ws/1b-insurance-hires-aons-john-morley-as-ceo/))
