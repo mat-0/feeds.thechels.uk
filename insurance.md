@@ -8,6 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
+- Honda launches insurance; INSHUR's $35M funding: Insurance news ([14 minutes ago](https://www.dig-in.com/news/honda-insurance-inshurs-35m-funding-insurance-news))
 - Britain Is Losing Tradespeople Because of Theft Epidemic ([1 days ago](https://insurance-edge.net/2025/07/26/britain-is-losing-tradespeolle-because-of-theft-epidemic/))
 - GlobalData Report Looks at AI Impact Across Insurance Chain ([2 days ago](https://insurance-edge.net/2025/07/25/globaldata-report-looks-at-ai-impact-across-insurance-chain/))
 - California FAIR Plan Rolls out Commercial High Value Policy ([2 days ago](https://www.insurancejournal.com/news/west/2025/07/25/833310.htm))
@@ -65,7 +66,7 @@ description: Insurance Updates
 - Are broker share options worth the paper they’re written on? ([2 days ago](https://www.postonline.co.uk/broker/7958214/are-broker-share-options-worth-the-paper-they%E2%80%99re-written-on))
 - Penny Black’s Social Diary: Allianz paints; IUAD’s cupcakes ([2 days ago](https://www.postonline.co.uk/people/7957979/penny-black%E2%80%99s-social-diary-allianz-paints-iuad%E2%80%99s-cupcakes))
 - Texas floods property impact analysis, Cotality ([2 days ago](https://www.dig-in.com/news/texas-floods-property-impact-analysis-cotality))
-- 5 tech trends transforming the insurance industry ([2 days ago](https://www.dig-in.com/opinion/5-tech-trends-transforming-the-insurance-industry))
+- 5 tech trends transforming the insurance industry ([3 days ago](https://www.dig-in.com/opinion/5-tech-trends-transforming-the-insurance-industry))
 - MAPFRE reports jump in H1 profit ([3 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/mapfre-reports-jump-in-h1-profit-543764.aspx))
 - Hagerty unveils plan to take full control of underwriting under new Markel deal ([3 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/hagerty-unveils-plan-to-take-full-control-of-underwriting-under-new-markel-deal-543765.aspx))
 - Allianz recruits from RSA for MGA-facing role ([3 days ago](https://www.postonline.co.uk/commercial/7958219/allianz-recruits-from-rsa-for-mga-facing-role))
@@ -89,7 +90,7 @@ description: Insurance Updates
 - Q&A: Georgina Davis, Zurich UK ([3 days ago](https://www.postonline.co.uk/broker/7957642/qa-georgina-davis-zurich-uk))
 - FAIR Plan funding will go to court ([3 days ago](https://www.dig-in.com/news/california-fair-plan-funding-will-go-to-court))
 - AI solutions to life insurance underwriting challenges ([3 days ago](https://www.dig-in.com/opinion/ai-solutions-to-insurance-underwriting-challenges))
-- Strategies for reducing social inflation ([3 days ago](https://www.dig-in.com/news/strategies-for-reducing-social-inflation))
+- Strategies for reducing social inflation ([4 days ago](https://www.dig-in.com/news/strategies-for-reducing-social-inflation))
 - Wildfire risks are reflected in muni borrowing costs, study shows ([4 days ago](https://www.dig-in.com/news/wildfire-risks-are-reflected-in-muni-borrowing-costs-study-shows))
 - Law and insurance in the digital age: A look at nuclear verdicts, AI and more ([4 days ago](https://www.dig-in.com/podcast/law-and-insurance-in-the-digital-age-a-look-at-nuclear-verdicts-ai-and-more))
 - Generational preferences challenging HR leaders ([4 days ago](https://www.insurancebusinessmag.com/uk/business-strategy/generational-preferences-challenging-hr-leaders-543566.aspx))
@@ -104,7 +105,6 @@ description: Insurance Updates
 - Trump’s card for trade credit insurance ([4 days ago](https://www.postonline.co.uk/commercial/7957922/trump%E2%80%99s-card-for-trade-credit-insurance))
 - Katrina at 20: Lessons in resilience for the next generation of risk ([4 days ago](https://www.dig-in.com/opinion/lessons-learned-from-hurricane-katrina))
 - Manulife's chief AI officer on responsible AI, part two ([4 days ago](https://www.dig-in.com/news/manulife-chief-ai-officer-on-responsible-ai-part-two))
-- Manulife's chief AI officer on responsible AI, part one ([4 days ago](https://www.dig-in.com/news/manulifes-chief-ai-officer-on-responsible-ai))
 - Does the FCA’s premium finance inaction show a lack of ambition? ([5 days ago](https://www.postonline.co.uk/news/7958203/does-fca%E2%80%99s-premium-finance-inaction-show-a-lack-of-ambition))
 - Aon’s head of captives reveals checklist for UK regs ([5 days ago](https://www.postonline.co.uk/regulation/7958193/aon%E2%80%99s-head-of-captives-reveals-checklist-for-uk-regs))
 - FCA admits profiteering didn’t push up insurance prices ([5 days ago](https://www.postonline.co.uk/regulation/7958197/fca-admits-profiteering-didnt-push-up-insurance-prices))
