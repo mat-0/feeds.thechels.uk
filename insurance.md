@@ -8,7 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- How do insurers leverage AI in climate-related claims? ([37 minutes ago](https://www.dig-in.com/news/ai-and-climate-related-claims))
+- How do insurers leverage AI in climate-related claims? ([1 hours ago](https://www.dig-in.com/news/ai-and-climate-related-claims))
 - Honda launches insurance; INSHUR's $35M funding: Insurance news ([1 hours ago](https://www.dig-in.com/news/honda-insurance-inshurs-35m-funding-insurance-news))
 - Britain Is Losing Tradespeople Because of Theft Epidemic ([1 days ago](https://insurance-edge.net/2025/07/26/britain-is-losing-tradespeolle-because-of-theft-epidemic/))
 - GlobalData Report Looks at AI Impact Across Insurance Chain ([2 days ago](https://insurance-edge.net/2025/07/25/globaldata-report-looks-at-ai-impact-across-insurance-chain/))

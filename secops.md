@@ -9,7 +9,7 @@ description: SecOps News
 
 <!-- news_marker starts -->
 - Scattered Spider is running a VMware ESXi hacking spree ([6 hours ago](https://www.bleepingcomputer.com/news/security/scattered-spider-is-running-a-vmware-esxi-hacking-spree/))
-- Seeing is believing in biomedicine, which isn't great when AI gets it wrong ([9 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/07/27/biomedviz_ai_wrong_problems/))
+- Seeing is believing in biomedicine, which isn't great when AI gets it wrong ([10 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/07/27/biomedviz_ai_wrong_problems/))
 - Allianz Life confirms data breach impacts majority of 1.4 million customers ([1 days ago](https://www.bleepingcomputer.com/news/security/allianz-life-confirms-data-breach-impacts-majority-of-14-million-customers/))
 - Post SMTP plugin flaw exposes 200K WordPress sites to hijacking attacks ([1 days ago](https://www.bleepingcomputer.com/news/security/post-smtp-plugin-flaw-exposes-200k-wordpress-sites-to-hijacking-attacks/))
 - Congress tries to outlaw AI that jacks up prices based on what it knows about you ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2025/07/26/ai_surveillance_pricing/))
@@ -50,7 +50,7 @@ description: SecOps News
 - You DO see Windows 11 as an AI PC opportunity, say Dell and Intel ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2025/07/25/ai_propostion_windows_11_pc_vendors/))
 - Microsoft CEO feels weighed down by job cuts ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2025/07/25/microsoft_ceo_job_cuts/))
 - Laptop farmer behind $17M North Korean IT worker scam locked up for 8.5 years ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2025/07/24/laptop_farmer_north_korean_it_scam_sentenced/))
-- BlackSuit ransomware extortion sites seized in Operation Checkmate ([2 days ago](https://www.bleepingcomputer.com/news/security/law-enforcement-seizes-blacksuit-ransomware-leak-sites/))
+- BlackSuit ransomware extortion sites seized in Operation Checkmate ([3 days ago](https://www.bleepingcomputer.com/news/security/law-enforcement-seizes-blacksuit-ransomware-leak-sites/))
 - Euro healthcare giant AMEOS Group shuts down IT systems after mystery attack ([3 days ago](https://go.theregister.com/feed/www.theregister.com/2025/07/24/ameos_group_attack/))
 - OpenAI confirms ChatGPT Agent is now rolling out for $20 Plus users ([3 days ago](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-agent-is-now-rolling-out-for-20-plus-users/))
 - New Koske Linux malware hides in cute panda images ([3 days ago](https://www.bleepingcomputer.com/news/security/new-koske-linux-malware-hides-in-cute-panda-images/))
