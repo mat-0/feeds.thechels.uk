@@ -106,7 +106,7 @@ description: SecOps News
 - Google Launches OSS Rebuild to Expose Malicious Code in Widely Used Open-Source Packages ([3 days ago](https://thehackernews.com/2025/07/google-launches-oss-rebuild-to-expose.html))
 - CISA Orders Urgent Patching After Chinese Hackers Exploit SharePoint Flaws in Live Attacks ([3 days ago](https://thehackernews.com/2025/07/cisa-orders-urgent-patching-after.html))
 - CISA Warns: SysAid Flaws Under Active Attack Enable Remote File Access and SSRF ([3 days ago](https://thehackernews.com/2025/07/cisa-warns-sysaid-flaws-under-active.html))
-- Creams Cafe - 159,652 breached accounts ([3 days ago](https://haveibeenpwned.com/Breach/CreamsCafe))
+- Creams Cafe - 159,652 breached accounts ([4 days ago](https://haveibeenpwned.com/Breach/CreamsCafe))
 - China warns citizens to beware backdoored devices, on land and under the sea ([4 days ago](https://go.theregister.com/feed/www.theregister.com/2025/07/23/china_backdoor_alerts/))
 - Incident with Copilot and Claude Sonnet 4 ([4 days ago](https://www.githubstatus.com/incidents/bq1m45stqm8s))
 - Microsoft Links Ongoing SharePoint Exploits to Three Chinese Hacker Groups ([4 days ago](https://thehackernews.com/2025/07/microsoft-links-ongoing-sharepoint.html))
