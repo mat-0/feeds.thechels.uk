@@ -8,9 +8,9 @@ description: SecOps News
 [Get this as an RSS feed](/secops.rss)
 
 <!-- news_marker starts -->
-- Allianz Life confirms data breach impacts majority of 1.4 million customers ([10 hours ago](https://www.bleepingcomputer.com/news/security/allianz-life-confirms-data-breach-impacts-majority-of-14-million-customers/))
-- Post SMTP plugin flaw exposes 200K WordPress sites to hijacking attacks ([14 hours ago](https://www.bleepingcomputer.com/news/security/post-smtp-plugin-flaw-exposes-200k-wordpress-sites-to-hijacking-attacks/))
-- Congress tries to outlaw AI that jacks up prices based on what it knows about you ([15 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/07/26/ai_surveillance_pricing/))
+- Allianz Life confirms data breach impacts majority of 1.4 million customers ([11 hours ago](https://www.bleepingcomputer.com/news/security/allianz-life-confirms-data-breach-impacts-majority-of-14-million-customers/))
+- Post SMTP plugin flaw exposes 200K WordPress sites to hijacking attacks ([15 hours ago](https://www.bleepingcomputer.com/news/security/post-smtp-plugin-flaw-exposes-200k-wordpress-sites-to-hijacking-attacks/))
+- Congress tries to outlaw AI that jacks up prices based on what it knows about you ([16 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/07/26/ai_surveillance_pricing/))
 - Blame a leak for Microsoft SharePoint attacks, researcher insists ([17 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/07/26/microsoft_sharepoint_attacks_leak/))
 - Amazon AI coding agent hacked to inject data wiping commands ([1 days ago](https://www.bleepingcomputer.com/news/security/amazon-ai-coding-agent-hacked-to-inject-data-wiping-commands/))
 - Senator to Google: Give us info from telco Salt Typhoon probes ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2025/07/25/senator_mandiant_salt_typhoon_demands/))
@@ -88,7 +88,7 @@ description: SecOps News
 - Free decryptor for victims of Phobos ransomware released ([2 days ago](https://www.fortra.com/blog/free-decryptor-victims-phobos-ransomware-released))
 - EU cloud gang challenges Broadcom's $61B VMWare buy in court ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2025/07/24/cispe_seeks_broadcom_vmware_annulment/))
 - Europol Arrests XSS Forum Admin in Kyiv After 12-Year Run Operating Cybercrime Marketplace ([2 days ago](https://thehackernews.com/2025/07/europol-arrests-xss-forum-admin-in-kyiv.html))
-- Hackers Deploy Stealth Backdoor in WordPress Mu-Plugins to Maintain Admin Access ([2 days ago](https://thehackernews.com/2025/07/hackers-deploy-stealth-backdoor-in.html))
+- Hackers Deploy Stealth Backdoor in WordPress Mu-Plugins to Maintain Admin Access ([3 days ago](https://thehackernews.com/2025/07/hackers-deploy-stealth-backdoor-in.html))
 - Smashing Security podcast #427: When 2G attacks, and a romantic road trip goes wrong ([3 days ago](https://grahamcluley.com/smashing-security-podcast-427/))
 - IRL Com recruits teens for real-life stabbings, shootings, FBI warns ([3 days ago](https://go.theregister.com/feed/www.theregister.com/2025/07/23/irl_com_recruits_teens/))
 - Nothing to see here: Brave browser blocks privacy-busting Microsoft Recall ([3 days ago](https://go.theregister.com/feed/www.theregister.com/2025/07/23/brave_browse_block_microsoft_recall/))
