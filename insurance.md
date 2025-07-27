@@ -8,7 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Britain Is Losing Tradespeople Because of Theft Epidemic ([22 hours ago](https://insurance-edge.net/2025/07/26/britain-is-losing-tradespeolle-because-of-theft-epidemic/))
+- Britain Is Losing Tradespeople Because of Theft Epidemic ([23 hours ago](https://insurance-edge.net/2025/07/26/britain-is-losing-tradespeolle-because-of-theft-epidemic/))
 - GlobalData Report Looks at AI Impact Across Insurance Chain ([1 days ago](https://insurance-edge.net/2025/07/25/globaldata-report-looks-at-ai-impact-across-insurance-chain/))
 - California FAIR Plan Rolls out Commercial High Value Policy ([1 days ago](https://www.insurancejournal.com/news/west/2025/07/25/833310.htm))
 - Man Who Killed Idaho Firefighters Was Turned Away by Fire Department ([1 days ago](https://www.insurancejournal.com/news/west/2025/07/25/833307.htm))
@@ -125,8 +125,8 @@ description: Insurance Updates
 - Orion180 Launches FLEX Home Insurance in Nine Massachusetts Counties ([10 days ago](https://www.insurtechinsights.com/orion180-launches-flex-home-insurance-in-nine-massachusetts-counties/))
 - ePayPolicy and INTX Launch Integration to Streamline Digital Payments for Insurance Carriers and MGAs ([10 days ago](https://www.insurtechinsights.com/epaypolicy-and-intx-launch-integration-to-streamline-digital-payments-for-insurance-carriers-and-mgas/))
 - Christian Stobbs Appointed Chief Strategy and Corporate Development Officer at Markel Insurance ([10 days ago](https://www.insurtechinsights.com/christian-stobbs-appointed-chief-strategy-and-corporate-development-officer-at-markel-insurance/))
-- Protection Guru announces 250% increase in searches advisers can conduct within their standard licence ([10 days ago](https://ifamagazine.com/protection-guru-announces-250-increase-in-searches-advisers-can-conduct-within-their-standard-licence/))
-- Monzo expands Insurance offering with Home Insurance for homeowners ([10 days ago](https://ifamagazine.com/monzo-expands-insurance-offering-with-home-insurance-for-homeowners/))
+- Protection Guru announces 250% increase in searches advisers can conduct within their standard licence ([11 days ago](https://ifamagazine.com/protection-guru-announces-250-increase-in-searches-advisers-can-conduct-within-their-standard-licence/))
+- Monzo expands Insurance offering with Home Insurance for homeowners ([11 days ago](https://ifamagazine.com/monzo-expands-insurance-offering-with-home-insurance-for-homeowners/))
 - Ethos Partners with Origin to Expand Financial Wellness Offering ([11 days ago](https://www.insurtechinsights.com/ethos-partners-with-origin-to-expand-financial-wellness-offering/))
 - National Friendly launches new ‘Cover the Country Income Protection’ campaign for advisers ([15 days ago](https://ifamagazine.com/national-friendly-launches-new-cover-the-country-income-protection-campaign-for-advisers/))
 - TBC Uzbekistan Expands Banking Ecosystem Fully Digital Personalised Insurance Product ([19 days ago](https://thefintechtimes.com/tbc-uzbekistan-launches-fully-digital-personalised-insurance-product/))
