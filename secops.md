@@ -8,9 +8,9 @@ description: SecOps News
 [Get this as an RSS feed](/secops.rss)
 
 <!-- news_marker starts -->
-- Allianz Life confirms data breach impacts majority of 1.4 million customers ([11 hours ago](https://www.bleepingcomputer.com/news/security/allianz-life-confirms-data-breach-impacts-majority-of-14-million-customers/))
+- Allianz Life confirms data breach impacts majority of 1.4 million customers ([12 hours ago](https://www.bleepingcomputer.com/news/security/allianz-life-confirms-data-breach-impacts-majority-of-14-million-customers/))
 - Post SMTP plugin flaw exposes 200K WordPress sites to hijacking attacks ([15 hours ago](https://www.bleepingcomputer.com/news/security/post-smtp-plugin-flaw-exposes-200k-wordpress-sites-to-hijacking-attacks/))
-- Congress tries to outlaw AI that jacks up prices based on what it knows about you ([16 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/07/26/ai_surveillance_pricing/))
+- Congress tries to outlaw AI that jacks up prices based on what it knows about you ([17 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/07/26/ai_surveillance_pricing/))
 - Blame a leak for Microsoft SharePoint attacks, researcher insists ([18 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/07/26/microsoft_sharepoint_attacks_leak/))
 - Amazon AI coding agent hacked to inject data wiping commands ([1 days ago](https://www.bleepingcomputer.com/news/security/amazon-ai-coding-agent-hacked-to-inject-data-wiping-commands/))
 - Senator to Google: Give us info from telco Salt Typhoon probes ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2025/07/25/senator_mandiant_salt_typhoon_demands/))
@@ -152,7 +152,7 @@ description: SecOps News
 - DOGE Denizen Marko Elez Leaked API Key for xAI ([12 days ago](https://krebsonsecurity.com/2025/07/doge-denizen-marko-elez-leaked-api-key-for-xai/))
 - The 4 CISM Domains Explained ([12 days ago](https://www.itgovernance.co.uk/blog/the-4-cism-domains-explained))
 - Elmo has been hacked, claims Trump is in Epstein files, calls for Jews to be exterminated ([12 days ago](https://grahamcluley.com/elmo-has-been-hacked-claims-trump-is-in-epstein-files-calls-for-jews-to-be-exterminated/))
-- Omnicuris - 215,298 breached accounts ([13 days ago](https://haveibeenpwned.com/Breach/Omnicuris))
+- Omnicuris - 215,298 breached accounts ([14 days ago](https://haveibeenpwned.com/Breach/Omnicuris))
 - Missing Critical Security Headers in OpenBlow ([14 days ago](https://seclists.org/fulldisclosure/2025/Jul/13))
 - Weekly Update 460 ([14 days ago](https://www.troyhunt.com/weekly-update-460/))
 - Choosing the Right PCI DSS SAQ: A Practical Guide ([15 days ago](https://www.itgovernance.co.uk/blog/pci-dss-which-pci-saq-is-right-for-my-business))
