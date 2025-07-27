@@ -9,7 +9,7 @@ description: SecOps News
 
 <!-- news_marker starts -->
 - Scattered Spider is running a VMware ESXi hacking spree ([3 hours ago](https://www.bleepingcomputer.com/news/security/scattered-spider-is-running-a-vmware-esxi-hacking-spree/))
-- Seeing is believing in biomedicine, which isn't great when AI gets it wrong ([6 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/07/27/biomedviz_ai_wrong_problems/))
+- Seeing is believing in biomedicine, which isn't great when AI gets it wrong ([7 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/07/27/biomedviz_ai_wrong_problems/))
 - Allianz Life confirms data breach impacts majority of 1.4 million customers ([1 days ago](https://www.bleepingcomputer.com/news/security/allianz-life-confirms-data-breach-impacts-majority-of-14-million-customers/))
 - Post SMTP plugin flaw exposes 200K WordPress sites to hijacking attacks ([1 days ago](https://www.bleepingcomputer.com/news/security/post-smtp-plugin-flaw-exposes-200k-wordpress-sites-to-hijacking-attacks/))
 - Congress tries to outlaw AI that jacks up prices based on what it knows about you ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2025/07/26/ai_surveillance_pricing/))
@@ -58,7 +58,7 @@ description: SecOps News
 - White House bans 'woke' AI, but LLMs don't know the truth ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2025/07/24/white_house_wants_no_woke_ai/))
 - Print Screen is for noobs: Capture images in Windows like a pro ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2025/07/24/screenshot_windows/))
 - Wayback 0.1 debuts as early Wayland server for X11 diehards ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2025/07/24/wayback_01_released/))
-- No login? No problem: Cisco ISE flaw gave root access before fix arrived, say researchers ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2025/07/24/no_login_no_problem_cisco_flaw/))
+- No login? No problem: Cisco ISE flaw gave root access before fix arrived, say researchers ([3 days ago](https://go.theregister.com/feed/www.theregister.com/2025/07/24/no_login_no_problem_cisco_flaw/))
 - Phishers Target Aviation Execs to Scam Customers ([3 days ago](https://krebsonsecurity.com/2025/07/phishers-target-aviation-execs-to-scam-customers/))
 - So much for watermarks: UnMarker tool nukes AI provenance tags ([3 days ago](https://go.theregister.com/feed/www.theregister.com/2025/07/24/ai_watermarks_unmarker/))
 - So much for watermarks: UnMarker tool nukes AI provenance tags ([3 days ago](https://go.theregister.com/feed/www.theregister.com/2025/07/24/ai_watermarks_unmarker/))
@@ -108,7 +108,7 @@ description: SecOps News
 - CISA Warns: SysAid Flaws Under Active Attack Enable Remote File Access and SSRF ([4 days ago](https://thehackernews.com/2025/07/cisa-warns-sysaid-flaws-under-active.html))
 - Creams Cafe - 159,652 breached accounts ([4 days ago](https://haveibeenpwned.com/Breach/CreamsCafe))
 - China warns citizens to beware backdoored devices, on land and under the sea ([4 days ago](https://go.theregister.com/feed/www.theregister.com/2025/07/23/china_backdoor_alerts/))
-- Incident with Copilot and Claude Sonnet 4 ([4 days ago](https://www.githubstatus.com/incidents/bq1m45stqm8s))
+- Incident with Copilot and Claude Sonnet 4 ([5 days ago](https://www.githubstatus.com/incidents/bq1m45stqm8s))
 - Microsoft Links Ongoing SharePoint Exploits to Three Chinese Hacker Groups ([5 days ago](https://thehackernews.com/2025/07/microsoft-links-ongoing-sharepoint.html))
 - The AI Fix #60: Elon’s AI girlfriend, the arsonist red panda, and the AI that will kill you ([5 days ago](https://grahamcluley.com/the-ai-fix-60/))
 - Cisco Confirms Active Exploits Targeting ISE Flaws Enabling Unauthenticated Root Access ([5 days ago](https://thehackernews.com/2025/07/cisco-confirms-active-exploits.html))
