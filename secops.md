@@ -9,9 +9,9 @@ description: SecOps News
 
 <!-- news_marker starts -->
 - Critical Flaws in Niagara Framework Threaten Smart Buildings and Industrial Systems Worldwide ([1 hours ago](https://thehackernews.com/2025/07/critical-flaws-in-niagara-framework.html))
-- US spy satellite agency breached, but insists no classified secrets spilled ([4 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/07/28/infosec_in_brief/))
+- US spy satellite agency breached, but insists no classified secrets spilled ([5 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/07/28/infosec_in_brief/))
 - Scattered Spider is running a VMware ESXi hacking spree ([14 hours ago](https://www.bleepingcomputer.com/news/security/scattered-spider-is-running-a-vmware-esxi-hacking-spree/))
-- Seeing is believing in biomedicine, which isn't great when AI gets it wrong ([17 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/07/27/biomedviz_ai_wrong_problems/))
+- Seeing is believing in biomedicine, which isn't great when AI gets it wrong ([18 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/07/27/biomedviz_ai_wrong_problems/))
 - Allianz Life confirms data breach impacts majority of 1.4 million customers ([1 days ago](https://www.bleepingcomputer.com/news/security/allianz-life-confirms-data-breach-impacts-majority-of-14-million-customers/))
 - Post SMTP plugin flaw exposes 200K WordPress sites to hijacking attacks ([1 days ago](https://www.bleepingcomputer.com/news/security/post-smtp-plugin-flaw-exposes-200k-wordpress-sites-to-hijacking-attacks/))
 - Congress tries to outlaw AI that jacks up prices based on what it knows about you ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2025/07/26/ai_surveillance_pricing/))
@@ -49,7 +49,7 @@ description: SecOps News
 - US Targets North Korea’s Illicit Funds: $15M Rewards Offered as American Woman Jailed in IT Worker Scam ([2 days ago](https://www.securityweek.com/us-targets-north-koreas-illicit-funds-15m-rewards-offered-as-american-woman-jailed-in-it-worker-scam/))
 - Problem PC had graybeards stumped until trainee rummaged through trash ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2025/07/25/on_call/))
 - DNS security is important but DNSSEC may be a failed experiment ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2025/07/25/systems_approach_column_dns_security/))
-- You DO see Windows 11 as an AI PC opportunity, say Dell and Intel ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2025/07/25/ai_propostion_windows_11_pc_vendors/))
+- You DO see Windows 11 as an AI PC opportunity, say Dell and Intel ([3 days ago](https://go.theregister.com/feed/www.theregister.com/2025/07/25/ai_propostion_windows_11_pc_vendors/))
 - Microsoft CEO feels weighed down by job cuts ([3 days ago](https://go.theregister.com/feed/www.theregister.com/2025/07/25/microsoft_ceo_job_cuts/))
 - Laptop farmer behind $17M North Korean IT worker scam locked up for 8.5 years ([3 days ago](https://go.theregister.com/feed/www.theregister.com/2025/07/24/laptop_farmer_north_korean_it_scam_sentenced/))
 - BlackSuit ransomware extortion sites seized in Operation Checkmate ([3 days ago](https://www.bleepingcomputer.com/news/security/law-enforcement-seizes-blacksuit-ransomware-leak-sites/))
