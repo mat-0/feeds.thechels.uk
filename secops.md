@@ -8,7 +8,7 @@ description: SecOps News
 [Get this as an RSS feed](/secops.rss)
 
 <!-- news_marker starts -->
-- Critical Flaws in Niagara Framework Threaten Smart Buildings and Industrial Systems Worldwide ([19 minutes ago](https://thehackernews.com/2025/07/critical-flaws-in-niagara-framework.html))
+- Critical Flaws in Niagara Framework Threaten Smart Buildings and Industrial Systems Worldwide ([43 minutes ago](https://thehackernews.com/2025/07/critical-flaws-in-niagara-framework.html))
 - US spy satellite agency breached, but insists no classified secrets spilled ([4 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/07/28/infosec_in_brief/))
 - Scattered Spider is running a VMware ESXi hacking spree ([13 hours ago](https://www.bleepingcomputer.com/news/security/scattered-spider-is-running-a-vmware-esxi-hacking-spree/))
 - Seeing is believing in biomedicine, which isn't great when AI gets it wrong ([17 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/07/27/biomedviz_ai_wrong_problems/))
