@@ -8,9 +8,9 @@ description: SecOps News
 [Get this as an RSS feed](/secops.rss)
 
 <!-- news_marker starts -->
-- Critical Flaws in Niagara Framework Threaten Smart Buildings and Industrial Systems Worldwide ([1 hours ago](https://thehackernews.com/2025/07/critical-flaws-in-niagara-framework.html))
+- Critical Flaws in Niagara Framework Threaten Smart Buildings and Industrial Systems Worldwide ([2 hours ago](https://thehackernews.com/2025/07/critical-flaws-in-niagara-framework.html))
 - US spy satellite agency breached, but insists no classified secrets spilled ([5 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/07/28/infosec_in_brief/))
-- Scattered Spider is running a VMware ESXi hacking spree ([14 hours ago](https://www.bleepingcomputer.com/news/security/scattered-spider-is-running-a-vmware-esxi-hacking-spree/))
+- Scattered Spider is running a VMware ESXi hacking spree ([15 hours ago](https://www.bleepingcomputer.com/news/security/scattered-spider-is-running-a-vmware-esxi-hacking-spree/))
 - Seeing is believing in biomedicine, which isn't great when AI gets it wrong ([18 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/07/27/biomedviz_ai_wrong_problems/))
 - Allianz Life confirms data breach impacts majority of 1.4 million customers ([1 days ago](https://www.bleepingcomputer.com/news/security/allianz-life-confirms-data-breach-impacts-majority-of-14-million-customers/))
 - Post SMTP plugin flaw exposes 200K WordPress sites to hijacking attacks ([1 days ago](https://www.bleepingcomputer.com/news/security/post-smtp-plugin-flaw-exposes-200k-wordpress-sites-to-hijacking-attacks/))
@@ -152,7 +152,7 @@ description: SecOps News
 - DOGE Denizen Marko Elez Leaked API Key for xAI ([13 days ago](https://krebsonsecurity.com/2025/07/doge-denizen-marko-elez-leaked-api-key-for-xai/))
 - The 4 CISM Domains Explained ([13 days ago](https://www.itgovernance.co.uk/blog/the-4-cism-domains-explained))
 - Elmo has been hacked, claims Trump is in Epstein files, calls for Jews to be exterminated ([13 days ago](https://grahamcluley.com/elmo-has-been-hacked-claims-trump-is-in-epstein-files-calls-for-jews-to-be-exterminated/))
-- Omnicuris - 215,298 breached accounts ([14 days ago](https://haveibeenpwned.com/Breach/Omnicuris))
+- Omnicuris - 215,298 breached accounts ([15 days ago](https://haveibeenpwned.com/Breach/Omnicuris))
 - Missing Critical Security Headers in OpenBlow ([15 days ago](https://seclists.org/fulldisclosure/2025/Jul/13))
 - Weekly Update 460 ([15 days ago](https://www.troyhunt.com/weekly-update-460/))
 - Choosing the Right PCI DSS SAQ: A Practical Guide ([16 days ago](https://www.itgovernance.co.uk/blog/pci-dss-which-pci-saq-is-right-for-my-business))
