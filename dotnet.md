@@ -9,8 +9,8 @@ description: DotNet Updates
 
 <!-- news_marker starts -->
 - Breaking Changes in .NET 10: A Migration Guide from .NET 8 ([6 hours ago](https://dotnetkicks.com/r/726040?url=https://www.mobilize.net/blog/dotnet8-to-dotnet10-migration-guide?utm_source=DNK-726040&utm_medium=DNK-726040&utm_content=DNK-726040&utm_campaign=DNK-726040))
-- F# Weekly #30, 2025 - Quipu &amp; Perla ([7 hours ago](https://dotnetkicks.com/r/726136?url=https://sergeytihon.com/2025/07/27/f-weekly-30-2025-quipu-perla/))
-- F# Weekly #30, 2025 - Quipu &amp; Perla ([7 hours ago](https://dotnetkicks.com/r/726122?url=https://sergeytihon.com/2025/07/27/f-weekly-30-2025-quipu-perla/))
+- F# Weekly #30, 2025 - Quipu &amp; Perla ([8 hours ago](https://dotnetkicks.com/r/726136?url=https://sergeytihon.com/2025/07/27/f-weekly-30-2025-quipu-perla/))
+- F# Weekly #30, 2025 - Quipu &amp; Perla ([8 hours ago](https://dotnetkicks.com/r/726122?url=https://sergeytihon.com/2025/07/27/f-weekly-30-2025-quipu-perla/))
 - Boost Your .NET Projects: Enhance Drive Management with DriveHelper in Spargine ([1 days ago](https://dotnettips.wordpress.com/2025/07/27/boost-your-net-projects-enhance-drive-management-with-spargine/))
 - Database Migration Strategies ([2 days ago](https://dotnetkicks.com/r/725997?url=https://codeopinion.com/database-migration-strategies/))
 - Upcoming Changes to JetBrains .NET Tools ([3 days ago](https://blog.jetbrains.com/dotnet/2025/07/25/upcoming-changes-to-dotnet-tools/))
@@ -27,7 +27,7 @@ description: DotNet Updates
 - Solving the source generator 'marker attribute' problem in .NET 10: Exploring the .NET 10 preview - Part 4 ([6 days ago](https://andrewlock.net/exploring-dotnet-10-preview-features-4-solving-the-source-generator-marker-attribute-problem-in-dotnet-10/))
 - Ask Mode vs Agent Mode - Choosing the Right Copilot Experience for .NET - .NET Blog ([7 days ago](https://dotnetkicks.com/r/725623?url=https://devblogs.microsoft.com/dotnet/ask-mode-vs-agent-mode/))
 - Ask Mode vs Agent Mode – Choosing the Right Copilot Experience for .NET ([7 days ago](https://devblogs.microsoft.com/dotnet/ask-mode-vs-agent-mode/))
-- F# Weekly #29, 2025 - .NET 10 Preview 6 ([7 days ago](https://dotnetkicks.com/r/725471?url=https://sergeytihon.com/2025/07/19/f-weekly-29-2025-net-10-preview-6/))
+- F# Weekly #29, 2025 - .NET 10 Preview 6 ([8 days ago](https://dotnetkicks.com/r/725471?url=https://sergeytihon.com/2025/07/19/f-weekly-29-2025-net-10-preview-6/))
 - How I Prioritize OSS Bugs ([8 days ago](https://dotnetkicks.com/r/725466?url=https://jeremydmiller.com/2025/07/20/how-i-prioritize-oss-bugs/))
 - Boost Your .NET Projects: Effortlessly Randomize Collections with CollectionRandomizer in Spargine ([8 days ago](https://dotnettips.wordpress.com/2025/07/20/boost-your-net-projects-effortlessly-randomize-collections-with-collectionrandomizer-in-spargine/))
 - Accelerate SQL Server Migration to Azure with Azure Arc - Microsoft SQL Server Blog ([10 days ago](https://dotnetkicks.com/r/725360?url=https://www.microsoft.com/en-us/sql-server/blog/2025/07/17/accelerate-sql-server-migration-to-azure-with-azure-arc/))
