@@ -8,8 +8,8 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- How do insurers leverage AI in climate-related claims? ([5 hours ago](https://www.dig-in.com/news/ai-and-climate-related-claims))
-- Honda launches insurance; INSHUR's $35M funding: Insurance news ([5 hours ago](https://www.dig-in.com/news/honda-insurance-inshurs-35m-funding-insurance-news))
+- How do insurers leverage AI in climate-related claims? ([6 hours ago](https://www.dig-in.com/news/ai-and-climate-related-claims))
+- Honda launches insurance; INSHUR's $35M funding: Insurance news ([6 hours ago](https://www.dig-in.com/news/honda-insurance-inshurs-35m-funding-insurance-news))
 - Britain Is Losing Tradespeople Because of Theft Epidemic ([1 days ago](https://insurance-edge.net/2025/07/26/britain-is-losing-tradespeolle-because-of-theft-epidemic/))
 - GlobalData Report Looks at AI Impact Across Insurance Chain ([2 days ago](https://insurance-edge.net/2025/07/25/globaldata-report-looks-at-ai-impact-across-insurance-chain/))
 - California FAIR Plan Rolls out Commercial High Value Policy ([2 days ago](https://www.insurancejournal.com/news/west/2025/07/25/833310.htm))
@@ -129,7 +129,7 @@ description: Insurance Updates
 - Monzo expands Insurance offering with Home Insurance for homeowners ([11 days ago](https://ifamagazine.com/monzo-expands-insurance-offering-with-home-insurance-for-homeowners/))
 - Ethos Partners with Origin to Expand Financial Wellness Offering ([12 days ago](https://www.insurtechinsights.com/ethos-partners-with-origin-to-expand-financial-wellness-offering/))
 - National Friendly launches new ‘Cover the Country Income Protection’ campaign for advisers ([16 days ago](https://ifamagazine.com/national-friendly-launches-new-cover-the-country-income-protection-campaign-for-advisers/))
-- TBC Uzbekistan Expands Banking Ecosystem Fully Digital Personalised Insurance Product ([19 days ago](https://thefintechtimes.com/tbc-uzbekistan-launches-fully-digital-personalised-insurance-product/))
+- TBC Uzbekistan Expands Banking Ecosystem Fully Digital Personalised Insurance Product ([20 days ago](https://thefintechtimes.com/tbc-uzbekistan-launches-fully-digital-personalised-insurance-product/))
 - Insurtech Outlook: How Can Insurance Firms Best Prepare for the Future? ([27 days ago](https://thefintechtimes.com/insurtech-outlook-how-can-insurance-firms-best-prepare-for-the-future/))
 - What Features do Insurance Customers Want But Still Aren’t Getting? ([28 days ago](https://thefintechtimes.com/what-features-do-insurance-customers-want-but-still-arent-getting/))
 - Keeping Up With Embedded Insurance: How Can Traditional Insurers Adapt? ([29 days ago](https://thefintechtimes.com/keeping-up-with-embedded-insurance-how-can-traditional-insurers-adapt/))
