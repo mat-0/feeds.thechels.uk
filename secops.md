@@ -8,9 +8,9 @@ description: SecOps News
 [Get this as an RSS feed](/secops.rss)
 
 <!-- news_marker starts -->
-- Critical Flaws in Niagara Framework Threaten Smart Buildings and Industrial Systems Worldwide ([43 minutes ago](https://thehackernews.com/2025/07/critical-flaws-in-niagara-framework.html))
+- Critical Flaws in Niagara Framework Threaten Smart Buildings and Industrial Systems Worldwide ([1 hours ago](https://thehackernews.com/2025/07/critical-flaws-in-niagara-framework.html))
 - US spy satellite agency breached, but insists no classified secrets spilled ([4 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/07/28/infosec_in_brief/))
-- Scattered Spider is running a VMware ESXi hacking spree ([13 hours ago](https://www.bleepingcomputer.com/news/security/scattered-spider-is-running-a-vmware-esxi-hacking-spree/))
+- Scattered Spider is running a VMware ESXi hacking spree ([14 hours ago](https://www.bleepingcomputer.com/news/security/scattered-spider-is-running-a-vmware-esxi-hacking-spree/))
 - Seeing is believing in biomedicine, which isn't great when AI gets it wrong ([17 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/07/27/biomedviz_ai_wrong_problems/))
 - Allianz Life confirms data breach impacts majority of 1.4 million customers ([1 days ago](https://www.bleepingcomputer.com/news/security/allianz-life-confirms-data-breach-impacts-majority-of-14-million-customers/))
 - Post SMTP plugin flaw exposes 200K WordPress sites to hijacking attacks ([1 days ago](https://www.bleepingcomputer.com/news/security/post-smtp-plugin-flaw-exposes-200k-wordpress-sites-to-hijacking-attacks/))
@@ -90,7 +90,7 @@ description: SecOps News
 - Not pretty, not Windows-only: npm phishing attack laces popular packages with malware ([3 days ago](https://go.theregister.com/feed/www.theregister.com/2025/07/24/not_pretty_not_windowsonly_npm/))
 - Free decryptor for victims of Phobos ransomware released ([3 days ago](https://www.fortra.com/blog/free-decryptor-victims-phobos-ransomware-released))
 - Europol Arrests XSS Forum Admin in Kyiv After 12-Year Run Operating Cybercrime Marketplace ([3 days ago](https://thehackernews.com/2025/07/europol-arrests-xss-forum-admin-in-kyiv.html))
-- Hackers Deploy Stealth Backdoor in WordPress Mu-Plugins to Maintain Admin Access ([3 days ago](https://thehackernews.com/2025/07/hackers-deploy-stealth-backdoor-in.html))
+- Hackers Deploy Stealth Backdoor in WordPress Mu-Plugins to Maintain Admin Access ([4 days ago](https://thehackernews.com/2025/07/hackers-deploy-stealth-backdoor-in.html))
 - Smashing Security podcast #427: When 2G attacks, and a romantic road trip goes wrong ([4 days ago](https://grahamcluley.com/smashing-security-podcast-427/))
 - IRL Com recruits teens for real-life stabbings, shootings, FBI warns ([4 days ago](https://go.theregister.com/feed/www.theregister.com/2025/07/23/irl_com_recruits_teens/))
 - Nothing to see here: Brave browser blocks privacy-busting Microsoft Recall ([4 days ago](https://go.theregister.com/feed/www.theregister.com/2025/07/23/brave_browse_block_microsoft_recall/))
