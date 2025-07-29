@@ -8,7 +8,7 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Breaking Changes in .NET 10: A Migration Guide from .NET 8 ([19 hours ago](https://dotnetkicks.com/r/726040?url=https://www.mobilize.net/blog/dotnet8-to-dotnet10-migration-guide?utm_source=DNK-726040&utm_medium=DNK-726040&utm_content=DNK-726040&utm_campaign=DNK-726040))
+- Breaking Changes in .NET 10: A Migration Guide from .NET 8 ([20 hours ago](https://dotnetkicks.com/r/726040?url=https://www.mobilize.net/blog/dotnet8-to-dotnet10-migration-guide?utm_source=DNK-726040&utm_medium=DNK-726040&utm_content=DNK-726040&utm_campaign=DNK-726040))
 - F# Weekly #30, 2025 - Quipu &amp; Perla ([21 hours ago](https://dotnetkicks.com/r/726136?url=https://sergeytihon.com/2025/07/27/f-weekly-30-2025-quipu-perla/))
 - F# Weekly #30, 2025 - Quipu &amp; Perla ([21 hours ago](https://dotnetkicks.com/r/726122?url=https://sergeytihon.com/2025/07/27/f-weekly-30-2025-quipu-perla/))
 - Boost Your .NET Projects: Enhance Drive Management with DriveHelper in Spargine ([2 days ago](https://dotnettips.wordpress.com/2025/07/27/boost-your-net-projects-enhance-drive-management-with-spargine/))
@@ -24,7 +24,7 @@ description: DotNet Updates
 - How to Install Nerd Fonts and Icons in PowerShell 7 on Windows 11 ([6 days ago](https://dotnetkicks.com/r/725714?url=https://ardalis.com/install-nerd-fonts-terminal-icons-pwsh-7-win-11/))
 - Fresh Learning Paths Now Available on Pluralsight for VS Subscribers - Visual Studio Blog ([6 days ago](https://dotnetkicks.com/r/725686?url=https://devblogs.microsoft.com/visualstudio/vss-pluralsight-2025-2/))
 - Solving the source generator 'marker attribute' problem in .NET 10: Exploring the .NET 10 preview - Part 4 ([6 days ago](https://dotnetkicks.com/r/725644?url=https://andrewlock.net/exploring-dotnet-10-preview-features-4-solving-the-source-generator-marker-attribute-problem-in-dotnet-10/))
-- Solving the source generator 'marker attribute' problem in .NET 10: Exploring the .NET 10 preview - Part 4 ([6 days ago](https://andrewlock.net/exploring-dotnet-10-preview-features-4-solving-the-source-generator-marker-attribute-problem-in-dotnet-10/))
+- Solving the source generator 'marker attribute' problem in .NET 10: Exploring the .NET 10 preview - Part 4 ([7 days ago](https://andrewlock.net/exploring-dotnet-10-preview-features-4-solving-the-source-generator-marker-attribute-problem-in-dotnet-10/))
 - Ask Mode vs Agent Mode - Choosing the Right Copilot Experience for .NET - .NET Blog ([7 days ago](https://dotnetkicks.com/r/725623?url=https://devblogs.microsoft.com/dotnet/ask-mode-vs-agent-mode/))
 - Ask Mode vs Agent Mode – Choosing the Right Copilot Experience for .NET ([7 days ago](https://devblogs.microsoft.com/dotnet/ask-mode-vs-agent-mode/))
 - F# Weekly #29, 2025 - .NET 10 Preview 6 ([8 days ago](https://dotnetkicks.com/r/725471?url=https://sergeytihon.com/2025/07/19/f-weekly-29-2025-net-10-preview-6/))
@@ -44,7 +44,7 @@ description: DotNet Updates
 - The Hidden Gems of .NET 10: Lesser-Known Features That Will Transform Your Development ([13 days ago](https://dotnetkicks.com/r/724992?url=https://www.mobilize.net/blog/the-hidden-gems-of-.net-10-lesser-known-features-that-will-transform-your-development?utm_source=DNK-724992&utm_medium=DNK-724992&utm_content=DNK-724992&utm_campaign=DNK-724992))
 - C# 14 extension members; AKA extension everything: Exploring the .NET 10 preview - Part 3 ([13 days ago](https://dotnetkicks.com/r/725042?url=https://andrewlock.net/exploring-dotnet-10-preview-features-3-csharp-14-extensions-members/))
 - dotInsights  -  July 2025 ([13 days ago](https://blog.jetbrains.com/dotnet/2025/07/15/dotinsights-july-2025/))
-- C# 14 extension members; AKA extension everything: Exploring the .NET 10 preview - Part 3 ([13 days ago](https://andrewlock.net/exploring-dotnet-10-preview-features-3-csharp-14-extensions-members/))
+- C# 14 extension members; AKA extension everything: Exploring the .NET 10 preview - Part 3 ([14 days ago](https://andrewlock.net/exploring-dotnet-10-preview-features-3-csharp-14-extensions-members/))
 - JetBrains .NET Days Online 2025 — Call for Speakers ([14 days ago](https://blog.jetbrains.com/dotnet/2025/07/14/jetbrains-net-days-online-2025-call-for-speakers/))
 - F# Weekly #28, 2025 - Beyond Zero-Allocation ([15 days ago](https://dotnetkicks.com/r/724901?url=https://sergeytihon.com/2025/07/12/f-weekly-28-2025-beyond-zero-allocation/))
 - Are Microservices Becoming Easier? ([15 days ago](https://dotnetkicks.com/r/724873?url=https://markheath.net/post/2025/7/10/microservices-architectural-strategies-techniques))
@@ -53,11 +53,11 @@ description: DotNet Updates
 - Customize AI responses from GitHub Copilot ([18 days ago](https://devblogs.microsoft.com/dotnet/customize-ai-responses-from-github-copilot/))
 - How the .NET MAUI Team uses GitHub Copilot for Productivity ([19 days ago](https://devblogs.microsoft.com/dotnet/maui-team-copilot-tips/))
 - .NET and .NET Framework July 2025 servicing releases updates ([20 days ago](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-july-2025-servicing-updates/))
-- Behind the scenes of dotnet run app.cs: Exploring the .NET 10 preview - Part 2 ([20 days ago](https://andrewlock.net/exploring-dotnet-10-preview-features-2-behind-the-scenes-of-dotnet-run-app.cs/))
+- Behind the scenes of dotnet run app.cs: Exploring the .NET 10 preview - Part 2 ([21 days ago](https://andrewlock.net/exploring-dotnet-10-preview-features-2-behind-the-scenes-of-dotnet-run-app.cs/))
 - Avoid the Wrong Job: The Ultimate .NET Interview Question Playbook ([23 days ago](https://dotnettips.wordpress.com/2025/07/06/avoid-the-wrong-job-the-ultimate-net-interview-question-playbook/))
 - Local AI + .NET = AltText Magic in One C# Script ([26 days ago](https://devblogs.microsoft.com/dotnet/alttext-generator-csharp-local-models/))
 - UX Chronicles: The Office That Time Forgot – Why Microsoft Must Rethink User Experience Now ([27 days ago](https://dotnettips.wordpress.com/2025/07/02/ux-chronicles-the-office-that-time-forgot-why-microsoft-must-rethink-user-experience-now/))
-- Exploring the features of dotnet run app.cs: Exploring the .NET 10 preview - Part 1 ([27 days ago](https://andrewlock.net/exploring-dotnet-10-preview-features-1-exploring-the-dotnet-run-app.cs/))
+- Exploring the features of dotnet run app.cs: Exploring the .NET 10 preview - Part 1 ([28 days ago](https://andrewlock.net/exploring-dotnet-10-preview-features-1-exploring-the-dotnet-run-app.cs/))
 - ReSharper and Rider 2025.1.4: Another Set of Bug-fixes Released ([29 days ago](https://blog.jetbrains.com/dotnet/2025/06/30/resharper-and-rider-2025-1-4/))
 
 <!-- news_marker ends -->
