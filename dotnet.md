@@ -8,7 +8,7 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Breaking Changes in .NET 10: A Migration Guide from .NET 8 ([14 hours ago](https://dotnetkicks.com/r/726040?url=https://www.mobilize.net/blog/dotnet8-to-dotnet10-migration-guide?utm_source=DNK-726040&utm_medium=DNK-726040&utm_content=DNK-726040&utm_campaign=DNK-726040))
+- Breaking Changes in .NET 10: A Migration Guide from .NET 8 ([15 hours ago](https://dotnetkicks.com/r/726040?url=https://www.mobilize.net/blog/dotnet8-to-dotnet10-migration-guide?utm_source=DNK-726040&utm_medium=DNK-726040&utm_content=DNK-726040&utm_campaign=DNK-726040))
 - F# Weekly #30, 2025 - Quipu &amp; Perla ([16 hours ago](https://dotnetkicks.com/r/726136?url=https://sergeytihon.com/2025/07/27/f-weekly-30-2025-quipu-perla/))
 - F# Weekly #30, 2025 - Quipu &amp; Perla ([16 hours ago](https://dotnetkicks.com/r/726122?url=https://sergeytihon.com/2025/07/27/f-weekly-30-2025-quipu-perla/))
 - Boost Your .NET Projects: Enhance Drive Management with DriveHelper in Spargine ([1 days ago](https://dotnettips.wordpress.com/2025/07/27/boost-your-net-projects-enhance-drive-management-with-spargine/))
