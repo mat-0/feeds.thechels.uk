@@ -8,8 +8,8 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Aspire 9.4 is here with a CLI and interactive dashboard features - .NET Blog ([54 minutes ago](https://dotnetkicks.com/r/726313?url=https://devblogs.microsoft.com/dotnet/announcing-aspire-9-4/))
-- Aspire 9.4 is here with a CLI and interactive dashboard features - .NET Blog ([54 minutes ago](https://dotnetkicks.com/r/726312?url=https://devblogs.microsoft.com/dotnet/announcing-aspire-9-4/))
+- Aspire 9.4 is here with a CLI and interactive dashboard features - .NET Blog ([1 hours ago](https://dotnetkicks.com/r/726313?url=https://devblogs.microsoft.com/dotnet/announcing-aspire-9-4/))
+- Aspire 9.4 is here with a CLI and interactive dashboard features - .NET Blog ([1 hours ago](https://dotnetkicks.com/r/726312?url=https://devblogs.microsoft.com/dotnet/announcing-aspire-9-4/))
 - Aspire 9.4 is here with a CLI and interactive dashboard features ([1 hours ago](https://devblogs.microsoft.com/dotnet/announcing-aspire-9-4/))
 - Running one-off .NET tools with dnx: Exploring the .NET 10 preview - Part 5 ([8 hours ago](https://dotnetkicks.com/r/726243?url=https://andrewlock.net/exploring-dotnet-10-preview-features-5-running-one-off-dotnet-tools-with-dnx/))
 - Running one-off .NET tools with dnx: Exploring the .NET 10 preview - Part 5 ([9 hours ago](https://andrewlock.net/exploring-dotnet-10-preview-features-5-running-one-off-dotnet-tools-with-dnx/))
