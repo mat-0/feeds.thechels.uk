@@ -8,10 +8,11 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Running one-off .NET tools with dnx: Exploring the .NET 10 preview - Part 5 ([41 minutes ago](https://andrewlock.net/exploring-dotnet-10-preview-features-5-running-one-off-dotnet-tools-with-dnx/))
-- Breaking Changes in .NET 10: A Migration Guide from .NET 8 ([20 hours ago](https://dotnetkicks.com/r/726040?url=https://www.mobilize.net/blog/dotnet8-to-dotnet10-migration-guide?utm_source=DNK-726040&utm_medium=DNK-726040&utm_content=DNK-726040&utm_campaign=DNK-726040))
-- F# Weekly #30, 2025 - Quipu &amp; Perla ([22 hours ago](https://dotnetkicks.com/r/726136?url=https://sergeytihon.com/2025/07/27/f-weekly-30-2025-quipu-perla/))
-- F# Weekly #30, 2025 - Quipu &amp; Perla ([22 hours ago](https://dotnetkicks.com/r/726122?url=https://sergeytihon.com/2025/07/27/f-weekly-30-2025-quipu-perla/))
+- Running one-off .NET tools with dnx: Exploring the .NET 10 preview - Part 5 ([53 minutes ago](https://dotnetkicks.com/r/726243?url=https://andrewlock.net/exploring-dotnet-10-preview-features-5-running-one-off-dotnet-tools-with-dnx/))
+- Running one-off .NET tools with dnx: Exploring the .NET 10 preview - Part 5 ([1 hours ago](https://andrewlock.net/exploring-dotnet-10-preview-features-5-running-one-off-dotnet-tools-with-dnx/))
+- Breaking Changes in .NET 10: A Migration Guide from .NET 8 ([21 hours ago](https://dotnetkicks.com/r/726040?url=https://www.mobilize.net/blog/dotnet8-to-dotnet10-migration-guide?utm_source=DNK-726040&utm_medium=DNK-726040&utm_content=DNK-726040&utm_campaign=DNK-726040))
+- F# Weekly #30, 2025 - Quipu &amp; Perla ([23 hours ago](https://dotnetkicks.com/r/726136?url=https://sergeytihon.com/2025/07/27/f-weekly-30-2025-quipu-perla/))
+- F# Weekly #30, 2025 - Quipu &amp; Perla ([23 hours ago](https://dotnetkicks.com/r/726122?url=https://sergeytihon.com/2025/07/27/f-weekly-30-2025-quipu-perla/))
 - Boost Your .NET Projects: Enhance Drive Management with DriveHelper in Spargine ([2 days ago](https://dotnettips.wordpress.com/2025/07/27/boost-your-net-projects-enhance-drive-management-with-spargine/))
 - Database Migration Strategies ([3 days ago](https://dotnetkicks.com/r/725997?url=https://codeopinion.com/database-migration-strategies/))
 - Upcoming Changes to JetBrains .NET Tools ([3 days ago](https://blog.jetbrains.com/dotnet/2025/07/25/upcoming-changes-to-dotnet-tools/))
@@ -48,7 +49,6 @@ description: DotNet Updates
 - C# 14 extension members; AKA extension everything: Exploring the .NET 10 preview - Part 3 ([14 days ago](https://andrewlock.net/exploring-dotnet-10-preview-features-3-csharp-14-extensions-members/))
 - JetBrains .NET Days Online 2025 — Call for Speakers ([14 days ago](https://blog.jetbrains.com/dotnet/2025/07/14/jetbrains-net-days-online-2025-call-for-speakers/))
 - F# Weekly #28, 2025 - Beyond Zero-Allocation ([15 days ago](https://dotnetkicks.com/r/724901?url=https://sergeytihon.com/2025/07/12/f-weekly-28-2025-beyond-zero-allocation/))
-- Are Microservices Becoming Easier? ([15 days ago](https://dotnetkicks.com/r/724873?url=https://markheath.net/post/2025/7/10/microservices-architectural-strategies-techniques))
 - Boost Your .NET Projects: Add Thread-Safety with ConcurrentHashSet from Spargine ([16 days ago](https://dotnettips.wordpress.com/2025/07/13/boost-your-net-projects-add-thread-safety-with-concurrenthashset-from-spargine/))
 - dotNetDave Rocks ØREDEV DEVELOPERS CONFERENCE 2025 ([18 days ago](https://dotnettips.wordpress.com/2025/07/11/dotnetdave-rocks-oredev-developers-conference-2025/))
 - Customize AI responses from GitHub Copilot ([18 days ago](https://devblogs.microsoft.com/dotnet/customize-ai-responses-from-github-copilot/))
