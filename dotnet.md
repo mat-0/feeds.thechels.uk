@@ -8,8 +8,9 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Running one-off .NET tools with dnx: Exploring the .NET 10 preview - Part 5 ([6 hours ago](https://dotnetkicks.com/r/726243?url=https://andrewlock.net/exploring-dotnet-10-preview-features-5-running-one-off-dotnet-tools-with-dnx/))
-- Running one-off .NET tools with dnx: Exploring the .NET 10 preview - Part 5 ([7 hours ago](https://andrewlock.net/exploring-dotnet-10-preview-features-5-running-one-off-dotnet-tools-with-dnx/))
+- Aspire 9.4 is here with a CLI and interactive dashboard features ([5 minutes ago](https://devblogs.microsoft.com/dotnet/announcing-aspire-9-4/))
+- Running one-off .NET tools with dnx: Exploring the .NET 10 preview - Part 5 ([7 hours ago](https://dotnetkicks.com/r/726243?url=https://andrewlock.net/exploring-dotnet-10-preview-features-5-running-one-off-dotnet-tools-with-dnx/))
+- Running one-off .NET tools with dnx: Exploring the .NET 10 preview - Part 5 ([8 hours ago](https://andrewlock.net/exploring-dotnet-10-preview-features-5-running-one-off-dotnet-tools-with-dnx/))
 - Breaking Changes in .NET 10: A Migration Guide from .NET 8 ([1 days ago](https://dotnetkicks.com/r/726040?url=https://www.mobilize.net/blog/dotnet8-to-dotnet10-migration-guide?utm_source=DNK-726040&utm_medium=DNK-726040&utm_content=DNK-726040&utm_campaign=DNK-726040))
 - F# Weekly #30, 2025 - Quipu &amp; Perla ([1 days ago](https://dotnetkicks.com/r/726136?url=https://sergeytihon.com/2025/07/27/f-weekly-30-2025-quipu-perla/))
 - F# Weekly #30, 2025 - Quipu &amp; Perla ([1 days ago](https://dotnetkicks.com/r/726122?url=https://sergeytihon.com/2025/07/27/f-weekly-30-2025-quipu-perla/))
@@ -34,7 +35,7 @@ description: DotNet Updates
 - Boost Your .NET Projects: Effortlessly Randomize Collections with CollectionRandomizer in Spargine ([9 days ago](https://dotnettips.wordpress.com/2025/07/20/boost-your-net-projects-effortlessly-randomize-collections-with-collectionrandomizer-in-spargine/))
 - Accelerate SQL Server Migration to Azure with Azure Arc - Microsoft SQL Server Blog ([11 days ago](https://dotnetkicks.com/r/725360?url=https://www.microsoft.com/en-us/sql-server/blog/2025/07/17/accelerate-sql-server-migration-to-azure-with-azure-arc/))
 - dotnet cake.cs - preview ([11 days ago](https://dotnetkicks.com/r/725331?url=https://cakebuild.net/blog/2025/07/dotnet-cake-cs))
-- Still Compiling: Two Shirts Every Veteran Software Engineer Needs ([11 days ago](https://dotnettips.wordpress.com/2025/07/17/still-compiling-two-shirts-every-veteran-software-engineer-needs/))
+- Still Compiling: Two Shirts Every Veteran Software Engineer Needs ([12 days ago](https://dotnettips.wordpress.com/2025/07/17/still-compiling-two-shirts-every-veteran-software-engineer-needs/))
 - The Day the Software Community Died: Let’s Stop Coding in Isolation and Start Creating Community—And Software—People Truly Love ([13 days ago](https://dotnettips.wordpress.com/2025/07/16/the-day-the-software-community-died-lets-stop-coding-in-isolation-and-start-creating-community-and-software-people-truly-love/))
 - Building Your First MCP Server with .NET and Publishing to NuGet - .NET Blog ([13 days ago](https://dotnetkicks.com/r/725107?url=https://devblogs.microsoft.com/dotnet/mcp-server-dotnet-nuget-quickstart/))
 - Building Your First MCP Server with .NET and Publishing to NuGet - .NET Blog ([13 days ago](https://dotnetkicks.com/r/725090?url=https://devblogs.microsoft.com/dotnet/mcp-server-dotnet-nuget-quickstart/))
