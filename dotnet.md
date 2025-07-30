@@ -8,8 +8,8 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Aspire 9.4 is here with a CLI and interactive dashboard features - .NET Blog ([15 hours ago](https://dotnetkicks.com/r/726313?url=https://devblogs.microsoft.com/dotnet/announcing-aspire-9-4/))
-- Aspire 9.4 is here with a CLI and interactive dashboard features - .NET Blog ([15 hours ago](https://dotnetkicks.com/r/726312?url=https://devblogs.microsoft.com/dotnet/announcing-aspire-9-4/))
+- Aspire 9.4 is here with a CLI and interactive dashboard features - .NET Blog ([16 hours ago](https://dotnetkicks.com/r/726313?url=https://devblogs.microsoft.com/dotnet/announcing-aspire-9-4/))
+- Aspire 9.4 is here with a CLI and interactive dashboard features - .NET Blog ([16 hours ago](https://dotnetkicks.com/r/726312?url=https://devblogs.microsoft.com/dotnet/announcing-aspire-9-4/))
 - Aspire 9.4 is here with a CLI and interactive dashboard features ([16 hours ago](https://devblogs.microsoft.com/dotnet/announcing-aspire-9-4/))
 - Running one-off .NET tools with dnx: Exploring the .NET 10 preview - Part 5 ([23 hours ago](https://dotnetkicks.com/r/726243?url=https://andrewlock.net/exploring-dotnet-10-preview-features-5-running-one-off-dotnet-tools-with-dnx/))
 - Running one-off .NET tools with dnx: Exploring the .NET 10 preview - Part 5 ([1 days ago](https://andrewlock.net/exploring-dotnet-10-preview-features-5-running-one-off-dotnet-tools-with-dnx/))
@@ -28,7 +28,7 @@ description: DotNet Updates
 - MCP C# SDK Gets Major Update: Support for Protocol Version 2025-06-18 ([7 days ago](https://devblogs.microsoft.com/dotnet/mcp-csharp-sdk-2025-06-18-update/))
 - How to Install Nerd Fonts and Icons in PowerShell 7 on Windows 11 ([7 days ago](https://dotnetkicks.com/r/725714?url=https://ardalis.com/install-nerd-fonts-terminal-icons-pwsh-7-win-11/))
 - Fresh Learning Paths Now Available on Pluralsight for VS Subscribers - Visual Studio Blog ([7 days ago](https://dotnetkicks.com/r/725686?url=https://devblogs.microsoft.com/visualstudio/vss-pluralsight-2025-2/))
-- Solving the source generator 'marker attribute' problem in .NET 10: Exploring the .NET 10 preview - Part 4 ([7 days ago](https://dotnetkicks.com/r/725644?url=https://andrewlock.net/exploring-dotnet-10-preview-features-4-solving-the-source-generator-marker-attribute-problem-in-dotnet-10/))
+- Solving the source generator 'marker attribute' problem in .NET 10: Exploring the .NET 10 preview - Part 4 ([8 days ago](https://dotnetkicks.com/r/725644?url=https://andrewlock.net/exploring-dotnet-10-preview-features-4-solving-the-source-generator-marker-attribute-problem-in-dotnet-10/))
 - Solving the source generator 'marker attribute' problem in .NET 10: Exploring the .NET 10 preview - Part 4 ([8 days ago](https://andrewlock.net/exploring-dotnet-10-preview-features-4-solving-the-source-generator-marker-attribute-problem-in-dotnet-10/))
 - Ask Mode vs Agent Mode - Choosing the Right Copilot Experience for .NET - .NET Blog ([8 days ago](https://dotnetkicks.com/r/725623?url=https://devblogs.microsoft.com/dotnet/ask-mode-vs-agent-mode/))
 - Ask Mode vs Agent Mode – Choosing the Right Copilot Experience for .NET ([8 days ago](https://devblogs.microsoft.com/dotnet/ask-mode-vs-agent-mode/))
@@ -47,7 +47,7 @@ description: DotNet Updates
 - .NET 10 Preview 6 is now available! ([14 days ago](https://devblogs.microsoft.com/dotnet/dotnet-10-preview-6/))
 - Protect and modernize SQL Server 2016 workloads with Microsoft - Microsoft SQL Server Blog ([14 days ago](https://dotnetkicks.com/r/725065?url=https://www.microsoft.com/en-us/sql-server/blog/2025/07/15/protect-and-modernize-sql-server-2016-workloads-with-microsoft/))
 - The Hidden Gems of .NET 10: Lesser-Known Features That Will Transform Your Development ([14 days ago](https://dotnetkicks.com/r/724992?url=https://www.mobilize.net/blog/the-hidden-gems-of-.net-10-lesser-known-features-that-will-transform-your-development?utm_source=DNK-724992&utm_medium=DNK-724992&utm_content=DNK-724992&utm_campaign=DNK-724992))
-- dotInsights  -  July 2025 ([14 days ago](https://blog.jetbrains.com/dotnet/2025/07/15/dotinsights-july-2025/))
+- dotInsights  -  July 2025 ([15 days ago](https://blog.jetbrains.com/dotnet/2025/07/15/dotinsights-july-2025/))
 - C# 14 extension members; AKA extension everything: Exploring the .NET 10 preview - Part 3 ([15 days ago](https://andrewlock.net/exploring-dotnet-10-preview-features-3-csharp-14-extensions-members/))
 - JetBrains .NET Days Online 2025 — Call for Speakers ([15 days ago](https://blog.jetbrains.com/dotnet/2025/07/14/jetbrains-net-days-online-2025-call-for-speakers/))
 - Boost Your .NET Projects: Add Thread-Safety with ConcurrentHashSet from Spargine ([17 days ago](https://dotnettips.wordpress.com/2025/07/13/boost-your-net-projects-add-thread-safety-with-concurrenthashset-from-spargine/))
