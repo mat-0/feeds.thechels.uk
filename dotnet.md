@@ -10,7 +10,7 @@ description: DotNet Updates
 <!-- news_marker starts -->
 - Building a Full-Stack App with React and Aspire: A Step-by-Step Guide - .NET Blog ([4 hours ago](https://dotnetkicks.com/r/726391?url=https://devblogs.microsoft.com/dotnet/new-aspire-app-with-react/))
 - Building a Full-Stack App with React and Aspire: A Step-by-Step Guide - .NET Blog ([4 hours ago](https://dotnetkicks.com/r/726383?url=https://devblogs.microsoft.com/dotnet/new-aspire-app-with-react/))
-- Building a Full-Stack App with React and Aspire: A Step-by-Step Guide ([4 hours ago](https://devblogs.microsoft.com/dotnet/new-aspire-app-with-react/))
+- Building a Full-Stack App with React and Aspire: A Step-by-Step Guide ([5 hours ago](https://devblogs.microsoft.com/dotnet/new-aspire-app-with-react/))
 - Aspire 9.4 is here with a CLI and interactive dashboard features - .NET Blog ([1 days ago](https://dotnetkicks.com/r/726313?url=https://devblogs.microsoft.com/dotnet/announcing-aspire-9-4/))
 - Aspire 9.4 is here with a CLI and interactive dashboard features - .NET Blog ([1 days ago](https://dotnetkicks.com/r/726312?url=https://devblogs.microsoft.com/dotnet/announcing-aspire-9-4/))
 - Aspire 9.4 is here with a CLI and interactive dashboard features ([1 days ago](https://devblogs.microsoft.com/dotnet/announcing-aspire-9-4/))
@@ -22,7 +22,7 @@ description: DotNet Updates
 - Boost Your .NET Projects: Enhance Drive Management with DriveHelper in Spargine ([3 days ago](https://dotnettips.wordpress.com/2025/07/27/boost-your-net-projects-enhance-drive-management-with-spargine/))
 - Database Migration Strategies ([4 days ago](https://dotnetkicks.com/r/725997?url=https://codeopinion.com/database-migration-strategies/))
 - Upcoming Changes to JetBrains .NET Tools ([5 days ago](https://blog.jetbrains.com/dotnet/2025/07/25/upcoming-changes-to-dotnet-tools/))
-- Announcing Microsoft.PowerShell.PlatyPS 1.0.0 - PowerShell Team ([5 days ago](https://dotnetkicks.com/r/725935?url=https://devblogs.microsoft.com/powershell/announcing-platyps-100/))
+- Announcing Microsoft.PowerShell.PlatyPS 1.0.0 - PowerShell Team ([6 days ago](https://dotnetkicks.com/r/725935?url=https://devblogs.microsoft.com/powershell/announcing-platyps-100/))
 - How to Combine MP4 Files on Windows Using FFmpeg ([6 days ago](https://dotnetkicks.com/r/725920?url=https://ardalis.com/combine-mp4-files-ffmpeg-windows/))
 - Example of Using Alba for HTTP Testing ([6 days ago](https://dotnetkicks.com/r/725896?url=https://jeremydmiller.com/2025/07/24/example-of-using-alba-for-http-testing/))
 - The ReSharper and .NET Tools 2025.2 Release Candidates Are Now Available ([6 days ago](https://blog.jetbrains.com/dotnet/2025/07/24/resharper-dot-net-tools-2025-2-release-candidate/))
