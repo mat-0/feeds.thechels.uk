@@ -8,8 +8,8 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Building a Full-Stack App with React and Aspire: A Step-by-Step Guide - .NET Blog ([4 hours ago](https://dotnetkicks.com/r/726391?url=https://devblogs.microsoft.com/dotnet/new-aspire-app-with-react/))
-- Building a Full-Stack App with React and Aspire: A Step-by-Step Guide - .NET Blog ([4 hours ago](https://dotnetkicks.com/r/726383?url=https://devblogs.microsoft.com/dotnet/new-aspire-app-with-react/))
+- Building a Full-Stack App with React and Aspire: A Step-by-Step Guide - .NET Blog ([5 hours ago](https://dotnetkicks.com/r/726391?url=https://devblogs.microsoft.com/dotnet/new-aspire-app-with-react/))
+- Building a Full-Stack App with React and Aspire: A Step-by-Step Guide - .NET Blog ([5 hours ago](https://dotnetkicks.com/r/726383?url=https://devblogs.microsoft.com/dotnet/new-aspire-app-with-react/))
 - Building a Full-Stack App with React and Aspire: A Step-by-Step Guide ([5 hours ago](https://devblogs.microsoft.com/dotnet/new-aspire-app-with-react/))
 - Aspire 9.4 is here with a CLI and interactive dashboard features - .NET Blog ([1 days ago](https://dotnetkicks.com/r/726313?url=https://devblogs.microsoft.com/dotnet/announcing-aspire-9-4/))
 - Aspire 9.4 is here with a CLI and interactive dashboard features - .NET Blog ([1 days ago](https://dotnetkicks.com/r/726312?url=https://devblogs.microsoft.com/dotnet/announcing-aspire-9-4/))
@@ -38,7 +38,7 @@ description: DotNet Updates
 - F# Weekly #29, 2025 - .NET 10 Preview 6 ([10 days ago](https://dotnetkicks.com/r/725471?url=https://sergeytihon.com/2025/07/19/f-weekly-29-2025-net-10-preview-6/))
 - How I Prioritize OSS Bugs ([10 days ago](https://dotnetkicks.com/r/725466?url=https://jeremydmiller.com/2025/07/20/how-i-prioritize-oss-bugs/))
 - Boost Your .NET Projects: Effortlessly Randomize Collections with CollectionRandomizer in Spargine ([10 days ago](https://dotnettips.wordpress.com/2025/07/20/boost-your-net-projects-effortlessly-randomize-collections-with-collectionrandomizer-in-spargine/))
-- Accelerate SQL Server Migration to Azure with Azure Arc - Microsoft SQL Server Blog ([12 days ago](https://dotnetkicks.com/r/725360?url=https://www.microsoft.com/en-us/sql-server/blog/2025/07/17/accelerate-sql-server-migration-to-azure-with-azure-arc/))
+- Accelerate SQL Server Migration to Azure with Azure Arc - Microsoft SQL Server Blog ([13 days ago](https://dotnetkicks.com/r/725360?url=https://www.microsoft.com/en-us/sql-server/blog/2025/07/17/accelerate-sql-server-migration-to-azure-with-azure-arc/))
 - dotnet cake.cs - preview ([13 days ago](https://dotnetkicks.com/r/725331?url=https://cakebuild.net/blog/2025/07/dotnet-cake-cs))
 - Still Compiling: Two Shirts Every Veteran Software Engineer Needs ([13 days ago](https://dotnettips.wordpress.com/2025/07/17/still-compiling-two-shirts-every-veteran-software-engineer-needs/))
 - The Day the Software Community Died: Let’s Stop Coding in Isolation and Start Creating Community—And Software—People Truly Love ([14 days ago](https://dotnettips.wordpress.com/2025/07/16/the-day-the-software-community-died-lets-stop-coding-in-isolation-and-start-creating-community-and-software-people-truly-love/))
