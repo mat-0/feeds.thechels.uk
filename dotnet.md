@@ -10,9 +10,9 @@ description: DotNet Updates
 <!-- news_marker starts -->
 - Aspire 9.4 is here with a CLI and interactive dashboard features - .NET Blog ([13 hours ago](https://dotnetkicks.com/r/726313?url=https://devblogs.microsoft.com/dotnet/announcing-aspire-9-4/))
 - Aspire 9.4 is here with a CLI and interactive dashboard features - .NET Blog ([13 hours ago](https://dotnetkicks.com/r/726312?url=https://devblogs.microsoft.com/dotnet/announcing-aspire-9-4/))
-- Aspire 9.4 is here with a CLI and interactive dashboard features ([13 hours ago](https://devblogs.microsoft.com/dotnet/announcing-aspire-9-4/))
-- Running one-off .NET tools with dnx: Exploring the .NET 10 preview - Part 5 ([20 hours ago](https://dotnetkicks.com/r/726243?url=https://andrewlock.net/exploring-dotnet-10-preview-features-5-running-one-off-dotnet-tools-with-dnx/))
-- Running one-off .NET tools with dnx: Exploring the .NET 10 preview - Part 5 ([21 hours ago](https://andrewlock.net/exploring-dotnet-10-preview-features-5-running-one-off-dotnet-tools-with-dnx/))
+- Aspire 9.4 is here with a CLI and interactive dashboard features ([14 hours ago](https://devblogs.microsoft.com/dotnet/announcing-aspire-9-4/))
+- Running one-off .NET tools with dnx: Exploring the .NET 10 preview - Part 5 ([21 hours ago](https://dotnetkicks.com/r/726243?url=https://andrewlock.net/exploring-dotnet-10-preview-features-5-running-one-off-dotnet-tools-with-dnx/))
+- Running one-off .NET tools with dnx: Exploring the .NET 10 preview - Part 5 ([22 hours ago](https://andrewlock.net/exploring-dotnet-10-preview-features-5-running-one-off-dotnet-tools-with-dnx/))
 - Breaking Changes in .NET 10: A Migration Guide from .NET 8 ([1 days ago](https://dotnetkicks.com/r/726040?url=https://www.mobilize.net/blog/dotnet8-to-dotnet10-migration-guide?utm_source=DNK-726040&utm_medium=DNK-726040&utm_content=DNK-726040&utm_campaign=DNK-726040))
 - F# Weekly #30, 2025 - Quipu &amp; Perla ([1 days ago](https://dotnetkicks.com/r/726136?url=https://sergeytihon.com/2025/07/27/f-weekly-30-2025-quipu-perla/))
 - F# Weekly #30, 2025 - Quipu &amp; Perla ([1 days ago](https://dotnetkicks.com/r/726122?url=https://sergeytihon.com/2025/07/27/f-weekly-30-2025-quipu-perla/))
