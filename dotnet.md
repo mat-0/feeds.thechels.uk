@@ -8,9 +8,9 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Building a Full-Stack App with React and Aspire: A Step-by-Step Guide - .NET Blog ([8 hours ago](https://dotnetkicks.com/r/726391?url=https://devblogs.microsoft.com/dotnet/new-aspire-app-with-react/))
-- Building a Full-Stack App with React and Aspire: A Step-by-Step Guide - .NET Blog ([8 hours ago](https://dotnetkicks.com/r/726383?url=https://devblogs.microsoft.com/dotnet/new-aspire-app-with-react/))
-- Building a Full-Stack App with React and Aspire: A Step-by-Step Guide ([8 hours ago](https://devblogs.microsoft.com/dotnet/new-aspire-app-with-react/))
+- Building a Full-Stack App with React and Aspire: A Step-by-Step Guide - .NET Blog ([9 hours ago](https://dotnetkicks.com/r/726391?url=https://devblogs.microsoft.com/dotnet/new-aspire-app-with-react/))
+- Building a Full-Stack App with React and Aspire: A Step-by-Step Guide - .NET Blog ([9 hours ago](https://dotnetkicks.com/r/726383?url=https://devblogs.microsoft.com/dotnet/new-aspire-app-with-react/))
+- Building a Full-Stack App with React and Aspire: A Step-by-Step Guide ([9 hours ago](https://devblogs.microsoft.com/dotnet/new-aspire-app-with-react/))
 - Aspire 9.4 is here with a CLI and interactive dashboard features - .NET Blog ([1 days ago](https://dotnetkicks.com/r/726313?url=https://devblogs.microsoft.com/dotnet/announcing-aspire-9-4/))
 - Aspire 9.4 is here with a CLI and interactive dashboard features - .NET Blog ([1 days ago](https://dotnetkicks.com/r/726312?url=https://devblogs.microsoft.com/dotnet/announcing-aspire-9-4/))
 - Aspire 9.4 is here with a CLI and interactive dashboard features ([1 days ago](https://devblogs.microsoft.com/dotnet/announcing-aspire-9-4/))
@@ -20,7 +20,7 @@ description: DotNet Updates
 - F# Weekly #30, 2025 - Quipu &amp; Perla ([2 days ago](https://dotnetkicks.com/r/726136?url=https://sergeytihon.com/2025/07/27/f-weekly-30-2025-quipu-perla/))
 - F# Weekly #30, 2025 - Quipu &amp; Perla ([2 days ago](https://dotnetkicks.com/r/726122?url=https://sergeytihon.com/2025/07/27/f-weekly-30-2025-quipu-perla/))
 - Boost Your .NET Projects: Enhance Drive Management with DriveHelper in Spargine ([3 days ago](https://dotnettips.wordpress.com/2025/07/27/boost-your-net-projects-enhance-drive-management-with-spargine/))
-- Database Migration Strategies ([4 days ago](https://dotnetkicks.com/r/725997?url=https://codeopinion.com/database-migration-strategies/))
+- Database Migration Strategies ([5 days ago](https://dotnetkicks.com/r/725997?url=https://codeopinion.com/database-migration-strategies/))
 - Upcoming Changes to JetBrains .NET Tools ([5 days ago](https://blog.jetbrains.com/dotnet/2025/07/25/upcoming-changes-to-dotnet-tools/))
 - Announcing Microsoft.PowerShell.PlatyPS 1.0.0 - PowerShell Team ([6 days ago](https://dotnetkicks.com/r/725935?url=https://devblogs.microsoft.com/powershell/announcing-platyps-100/))
 - How to Combine MP4 Files on Windows Using FFmpeg ([6 days ago](https://dotnetkicks.com/r/725920?url=https://ardalis.com/combine-mp4-files-ffmpeg-windows/))
