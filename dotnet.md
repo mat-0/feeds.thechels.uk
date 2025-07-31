@@ -8,9 +8,9 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Building a Full-Stack App with React and Aspire: A Step-by-Step Guide - .NET Blog ([6 hours ago](https://dotnetkicks.com/r/726391?url=https://devblogs.microsoft.com/dotnet/new-aspire-app-with-react/))
-- Building a Full-Stack App with React and Aspire: A Step-by-Step Guide - .NET Blog ([6 hours ago](https://dotnetkicks.com/r/726383?url=https://devblogs.microsoft.com/dotnet/new-aspire-app-with-react/))
-- Building a Full-Stack App with React and Aspire: A Step-by-Step Guide ([6 hours ago](https://devblogs.microsoft.com/dotnet/new-aspire-app-with-react/))
+- Building a Full-Stack App with React and Aspire: A Step-by-Step Guide - .NET Blog ([7 hours ago](https://dotnetkicks.com/r/726391?url=https://devblogs.microsoft.com/dotnet/new-aspire-app-with-react/))
+- Building a Full-Stack App with React and Aspire: A Step-by-Step Guide - .NET Blog ([7 hours ago](https://dotnetkicks.com/r/726383?url=https://devblogs.microsoft.com/dotnet/new-aspire-app-with-react/))
+- Building a Full-Stack App with React and Aspire: A Step-by-Step Guide ([7 hours ago](https://devblogs.microsoft.com/dotnet/new-aspire-app-with-react/))
 - Aspire 9.4 is here with a CLI and interactive dashboard features - .NET Blog ([1 days ago](https://dotnetkicks.com/r/726313?url=https://devblogs.microsoft.com/dotnet/announcing-aspire-9-4/))
 - Aspire 9.4 is here with a CLI and interactive dashboard features - .NET Blog ([1 days ago](https://dotnetkicks.com/r/726312?url=https://devblogs.microsoft.com/dotnet/announcing-aspire-9-4/))
 - Aspire 9.4 is here with a CLI and interactive dashboard features ([1 days ago](https://devblogs.microsoft.com/dotnet/announcing-aspire-9-4/))
