@@ -8,7 +8,7 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Smarter AI Edits in Visual Studio Copilot - Visual Studio Blog ([54 minutes ago](https://dotnetkicks.com/r/726416?url=https://devblogs.microsoft.com/visualstudio/smarter-ai-edits-in-visual-studio-copilot/))
+- Smarter AI Edits in Visual Studio Copilot - Visual Studio Blog ([1 hours ago](https://dotnetkicks.com/r/726416?url=https://devblogs.microsoft.com/visualstudio/smarter-ai-edits-in-visual-studio-copilot/))
 - Building a Full-Stack App with React and Aspire: A Step-by-Step Guide - .NET Blog ([20 hours ago](https://dotnetkicks.com/r/726391?url=https://devblogs.microsoft.com/dotnet/new-aspire-app-with-react/))
 - Building a Full-Stack App with React and Aspire: A Step-by-Step Guide - .NET Blog ([20 hours ago](https://dotnetkicks.com/r/726383?url=https://devblogs.microsoft.com/dotnet/new-aspire-app-with-react/))
 - Building a Full-Stack App with React and Aspire: A Step-by-Step Guide ([20 hours ago](https://devblogs.microsoft.com/dotnet/new-aspire-app-with-react/))
