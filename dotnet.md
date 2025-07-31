@@ -8,9 +8,9 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Metadata Tracking Improvements in Marten ([2 hours ago](https://dotnetkicks.com/r/726440?url=https://jeremydmiller.com/2025/07/27/metadata-tracking-improvements-in-marten/))
-- Phi Silica task specialization using LoRA in Microsoft Learning Zone: A technical deep dive ([5 hours ago](https://dotnetkicks.com/r/726432?url=https://blogs.windows.com/windowsdeveloper/2025/07/31/phi-silica-task-specialization-using-lora-in-microsoft-learning-zone-a-technical-deep-dive/))
-- Smarter AI Edits in Visual Studio Copilot - Visual Studio Blog ([9 hours ago](https://dotnetkicks.com/r/726416?url=https://devblogs.microsoft.com/visualstudio/smarter-ai-edits-in-visual-studio-copilot/))
+- Metadata Tracking Improvements in Marten ([3 hours ago](https://dotnetkicks.com/r/726440?url=https://jeremydmiller.com/2025/07/27/metadata-tracking-improvements-in-marten/))
+- Phi Silica task specialization using LoRA in Microsoft Learning Zone: A technical deep dive ([6 hours ago](https://dotnetkicks.com/r/726432?url=https://blogs.windows.com/windowsdeveloper/2025/07/31/phi-silica-task-specialization-using-lora-in-microsoft-learning-zone-a-technical-deep-dive/))
+- Smarter AI Edits in Visual Studio Copilot - Visual Studio Blog ([10 hours ago](https://dotnetkicks.com/r/726416?url=https://devblogs.microsoft.com/visualstudio/smarter-ai-edits-in-visual-studio-copilot/))
 - Building a Full-Stack App with React and Aspire: A Step-by-Step Guide - .NET Blog ([1 days ago](https://dotnetkicks.com/r/726391?url=https://devblogs.microsoft.com/dotnet/new-aspire-app-with-react/))
 - Building a Full-Stack App with React and Aspire: A Step-by-Step Guide - .NET Blog ([1 days ago](https://dotnetkicks.com/r/726383?url=https://devblogs.microsoft.com/dotnet/new-aspire-app-with-react/))
 - Building a Full-Stack App with React and Aspire: A Step-by-Step Guide ([1 days ago](https://devblogs.microsoft.com/dotnet/new-aspire-app-with-react/))
@@ -41,7 +41,7 @@ description: DotNet Updates
 - F# Weekly #29, 2025 - .NET 10 Preview 6 ([11 days ago](https://dotnetkicks.com/r/725471?url=https://sergeytihon.com/2025/07/19/f-weekly-29-2025-net-10-preview-6/))
 - How I Prioritize OSS Bugs ([11 days ago](https://dotnetkicks.com/r/725466?url=https://jeremydmiller.com/2025/07/20/how-i-prioritize-oss-bugs/))
 - Boost Your .NET Projects: Effortlessly Randomize Collections with CollectionRandomizer in Spargine ([11 days ago](https://dotnettips.wordpress.com/2025/07/20/boost-your-net-projects-effortlessly-randomize-collections-with-collectionrandomizer-in-spargine/))
-- Accelerate SQL Server Migration to Azure with Azure Arc - Microsoft SQL Server Blog ([13 days ago](https://dotnetkicks.com/r/725360?url=https://www.microsoft.com/en-us/sql-server/blog/2025/07/17/accelerate-sql-server-migration-to-azure-with-azure-arc/))
+- Accelerate SQL Server Migration to Azure with Azure Arc - Microsoft SQL Server Blog ([14 days ago](https://dotnetkicks.com/r/725360?url=https://www.microsoft.com/en-us/sql-server/blog/2025/07/17/accelerate-sql-server-migration-to-azure-with-azure-arc/))
 - dotnet cake.cs - preview ([14 days ago](https://dotnetkicks.com/r/725331?url=https://cakebuild.net/blog/2025/07/dotnet-cake-cs))
 - Still Compiling: Two Shirts Every Veteran Software Engineer Needs ([14 days ago](https://dotnettips.wordpress.com/2025/07/17/still-compiling-two-shirts-every-veteran-software-engineer-needs/))
 - The Day the Software Community Died: Let’s Stop Coding in Isolation and Start Creating Community—And Software—People Truly Love ([15 days ago](https://dotnettips.wordpress.com/2025/07/16/the-day-the-software-community-died-lets-stop-coding-in-isolation-and-start-creating-community-and-software-people-truly-love/))
