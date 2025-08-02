@@ -46,7 +46,7 @@ description: DotNet Updates
 - Accelerate SQL Server Migration to Azure with Azure Arc - Microsoft SQL Server Blog ([15 days ago](https://dotnetkicks.com/r/725360?url=https://www.microsoft.com/en-us/sql-server/blog/2025/07/17/accelerate-sql-server-migration-to-azure-with-azure-arc/))
 - Still Compiling: Two Shirts Every Veteran Software Engineer Needs ([16 days ago](https://dotnettips.wordpress.com/2025/07/17/still-compiling-two-shirts-every-veteran-software-engineer-needs/))
 - The Day the Software Community Died: Let’s Stop Coding in Isolation and Start Creating Community—And Software—People Truly Love ([17 days ago](https://dotnettips.wordpress.com/2025/07/16/the-day-the-software-community-died-lets-stop-coding-in-isolation-and-start-creating-community-and-software-people-truly-love/))
-- Building Your First MCP Server with .NET and Publishing to NuGet ([17 days ago](https://devblogs.microsoft.com/dotnet/mcp-server-dotnet-nuget-quickstart/))
+- Building Your First MCP Server with .NET and Publishing to NuGet ([18 days ago](https://devblogs.microsoft.com/dotnet/mcp-server-dotnet-nuget-quickstart/))
 - .NET 10 Preview 6 is now available! ([18 days ago](https://devblogs.microsoft.com/dotnet/dotnet-10-preview-6/))
 - dotInsights  -  July 2025 ([18 days ago](https://blog.jetbrains.com/dotnet/2025/07/15/dotinsights-july-2025/))
 - C# 14 extension members; AKA extension everything: Exploring the .NET 10 preview - Part 3 ([18 days ago](https://andrewlock.net/exploring-dotnet-10-preview-features-3-csharp-14-extensions-members/))
