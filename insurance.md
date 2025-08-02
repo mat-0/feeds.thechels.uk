@@ -9,9 +9,9 @@ description: Insurance Updates
 
 <!-- news_marker starts -->
 - Berkshire Hathaway’s re/insurance underwriting earnings strong despite higher losses in H1’25 ([5 hours ago](https://www.reinsurancene.ws/berkshire-hathaways-re-insurance-underwriting-earnings-strong-despite-higher-losses-in-h125/))
-- AXA Hosts Hackathon Aimed at Empowering Women in Financial Services ([9 hours ago](https://insurance-edge.net/2025/08/02/axa-hosts-hackathon-aimed-at-empowering-women-in-financial-services/))
-- Seopa Teams Up With The Money Charity ([21 hours ago](https://insurance-edge.net/2025/08/01/seopa-teams-up-with-the-money-charity/))
-- Automated Document Data Extraction, With a Patent ([21 hours ago](https://insurance-edge.net/2025/08/01/automated-document-data-extraction-with-a-patent/))
+- AXA Hosts Hackathon Aimed at Empowering Women in Financial Services ([10 hours ago](https://insurance-edge.net/2025/08/02/axa-hosts-hackathon-aimed-at-empowering-women-in-financial-services/))
+- Seopa Teams Up With The Money Charity ([22 hours ago](https://insurance-edge.net/2025/08/01/seopa-teams-up-with-the-money-charity/))
+- Automated Document Data Extraction, With a Patent ([22 hours ago](https://insurance-edge.net/2025/08/01/automated-document-data-extraction-with-a-patent/))
 - NorthStandard Opens New Office in Japan ([22 hours ago](https://insurance-edge.net/2025/08/01/northstandard-opens-new-office-in-japan/))
 - New Thinking on HR; Match Systems to The Needs of People ([22 hours ago](https://insurance-edge.net/2025/08/01/new-thinking-on-hr-match-systems-to-the-needs-of-people/))
 - How Does Casino Insurance Work? ([22 hours ago](https://insurance-edge.net/2025/08/01/how-does-casino-insurance-work/))
