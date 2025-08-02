@@ -10,7 +10,7 @@ description: DotNet Updates
 <!-- news_marker starts -->
 - Video: Visual Toolbox: Git in Visual Studio ([1 days ago](https://dotnetkicks.com/r/726482?url=https://jesseliberty.com/2025/08/01/video-visual-toolbox-git-in-visual-studio/))
 - Video: Visual Toolbox: Git in Visual Studio ([1 days ago](https://dotnetkicks.com/r/726471?url=https://jesseliberty.com/2025/08/01/video-visual-toolbox-git-in-visual-studio/))
-- Metadata Tracking Improvements in Marten ([1 days ago](https://dotnetkicks.com/r/726440?url=https://jeremydmiller.com/2025/07/27/metadata-tracking-improvements-in-marten/))
+- Metadata Tracking Improvements in Marten ([2 days ago](https://dotnetkicks.com/r/726440?url=https://jeremydmiller.com/2025/07/27/metadata-tracking-improvements-in-marten/))
 - Phi Silica task specialization using LoRA in Microsoft Learning Zone: A technical deep dive ([2 days ago](https://dotnetkicks.com/r/726432?url=https://blogs.windows.com/windowsdeveloper/2025/07/31/phi-silica-task-specialization-using-lora-in-microsoft-learning-zone-a-technical-deep-dive/))
 - Smarter AI Edits in Visual Studio Copilot - Visual Studio Blog ([2 days ago](https://dotnetkicks.com/r/726416?url=https://devblogs.microsoft.com/visualstudio/smarter-ai-edits-in-visual-studio-copilot/))
 - Building a Full-Stack App with React and Aspire: A Step-by-Step Guide - .NET Blog ([3 days ago](https://dotnetkicks.com/r/726391?url=https://devblogs.microsoft.com/dotnet/new-aspire-app-with-react/))
