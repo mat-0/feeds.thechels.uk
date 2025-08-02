@@ -8,8 +8,8 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Video: Visual Toolbox: Git in Visual Studio ([23 hours ago](https://dotnetkicks.com/r/726482?url=https://jesseliberty.com/2025/08/01/video-visual-toolbox-git-in-visual-studio/))
-- Video: Visual Toolbox: Git in Visual Studio ([23 hours ago](https://dotnetkicks.com/r/726471?url=https://jesseliberty.com/2025/08/01/video-visual-toolbox-git-in-visual-studio/))
+- Video: Visual Toolbox: Git in Visual Studio ([1 days ago](https://dotnetkicks.com/r/726482?url=https://jesseliberty.com/2025/08/01/video-visual-toolbox-git-in-visual-studio/))
+- Video: Visual Toolbox: Git in Visual Studio ([1 days ago](https://dotnetkicks.com/r/726471?url=https://jesseliberty.com/2025/08/01/video-visual-toolbox-git-in-visual-studio/))
 - Metadata Tracking Improvements in Marten ([1 days ago](https://dotnetkicks.com/r/726440?url=https://jeremydmiller.com/2025/07/27/metadata-tracking-improvements-in-marten/))
 - Phi Silica task specialization using LoRA in Microsoft Learning Zone: A technical deep dive ([1 days ago](https://dotnetkicks.com/r/726432?url=https://blogs.windows.com/windowsdeveloper/2025/07/31/phi-silica-task-specialization-using-lora-in-microsoft-learning-zone-a-technical-deep-dive/))
 - Smarter AI Edits in Visual Studio Copilot - Visual Studio Blog ([2 days ago](https://dotnetkicks.com/r/726416?url=https://devblogs.microsoft.com/visualstudio/smarter-ai-edits-in-visual-studio-copilot/))
@@ -34,7 +34,7 @@ description: DotNet Updates
 - The Rider 2025.2 Release Candidate Is Here! ([9 days ago](https://blog.jetbrains.com/dotnet/2025/07/24/the-rider-2025-2-release-candidate/))
 - MCP C# SDK Gets Major Update: Support for Protocol Version 2025-06-18 - .NET Blog ([10 days ago](https://dotnetkicks.com/r/725723?url=https://devblogs.microsoft.com/dotnet/mcp-csharp-sdk-2025-06-18-update/))
 - MCP C# SDK Gets Major Update: Support for Protocol Version 2025-06-18 ([10 days ago](https://devblogs.microsoft.com/dotnet/mcp-csharp-sdk-2025-06-18-update/))
-- How to Install Nerd Fonts and Icons in PowerShell 7 on Windows 11 ([10 days ago](https://dotnetkicks.com/r/725714?url=https://ardalis.com/install-nerd-fonts-terminal-icons-pwsh-7-win-11/))
+- How to Install Nerd Fonts and Icons in PowerShell 7 on Windows 11 ([11 days ago](https://dotnetkicks.com/r/725714?url=https://ardalis.com/install-nerd-fonts-terminal-icons-pwsh-7-win-11/))
 - Fresh Learning Paths Now Available on Pluralsight for VS Subscribers - Visual Studio Blog ([11 days ago](https://dotnetkicks.com/r/725686?url=https://devblogs.microsoft.com/visualstudio/vss-pluralsight-2025-2/))
 - Solving the source generator 'marker attribute' problem in .NET 10: Exploring the .NET 10 preview - Part 4 ([11 days ago](https://dotnetkicks.com/r/725644?url=https://andrewlock.net/exploring-dotnet-10-preview-features-4-solving-the-source-generator-marker-attribute-problem-in-dotnet-10/))
 - Solving the source generator 'marker attribute' problem in .NET 10: Exploring the .NET 10 preview - Part 4 ([11 days ago](https://andrewlock.net/exploring-dotnet-10-preview-features-4-solving-the-source-generator-marker-attribute-problem-in-dotnet-10/))
