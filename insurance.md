@@ -8,13 +8,13 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Where Are We on Insurance Sector M&A Activity? ([12 minutes ago](https://insurance-edge.net/2025/08/02/where-are-we-on-insurance-sector-ma-activity-2/))
-- Mobile Phone Theft is on The Rise, Defend Your Data ([18 minutes ago](https://insurance-edge.net/2025/08/02/mobile-phone-theft-is-on-the-rise-defend-your-data/))
+- Where Are We on Insurance Sector M&A Activity? ([40 minutes ago](https://insurance-edge.net/2025/08/02/where-are-we-on-insurance-sector-ma-activity-2/))
+- Mobile Phone Theft is on The Rise, Defend Your Data ([46 minutes ago](https://insurance-edge.net/2025/08/02/mobile-phone-theft-is-on-the-rise-defend-your-data/))
 - Effective Risk Management Strategies for Financial Professionals ([1 hours ago](https://insurance-edge.net/2025/08/02/effective-risk-management-strategies-for-financial-professionals/))
 - Berkshire Hathaway’s re/insurance underwriting earnings strong despite higher losses in H1’25 ([7 hours ago](https://www.reinsurancene.ws/berkshire-hathaways-re-insurance-underwriting-earnings-strong-despite-higher-losses-in-h125/))
-- AXA Hosts Hackathon Aimed at Empowering Women in Financial Services ([11 hours ago](https://insurance-edge.net/2025/08/02/axa-hosts-hackathon-aimed-at-empowering-women-in-financial-services/))
-- Seopa Teams Up With The Money Charity ([23 hours ago](https://insurance-edge.net/2025/08/01/seopa-teams-up-with-the-money-charity/))
-- Automated Document Data Extraction, With a Patent ([23 hours ago](https://insurance-edge.net/2025/08/01/automated-document-data-extraction-with-a-patent/))
+- AXA Hosts Hackathon Aimed at Empowering Women in Financial Services ([12 hours ago](https://insurance-edge.net/2025/08/02/axa-hosts-hackathon-aimed-at-empowering-women-in-financial-services/))
+- Seopa Teams Up With The Money Charity ([1 days ago](https://insurance-edge.net/2025/08/01/seopa-teams-up-with-the-money-charity/))
+- Automated Document Data Extraction, With a Patent ([1 days ago](https://insurance-edge.net/2025/08/01/automated-document-data-extraction-with-a-patent/))
 - Lenders Get Reprieve in UK Motor Finance Case From Top Court ([1 days ago](https://www.insurancejournal.com/news/international/2025/08/01/834244.htm))
 - Motor finance firms off the hook in historic Supreme Court ruling ([1 days ago](https://www.postonline.co.uk/news/7958301/motor-finance-firms-off-the-hook-in-historic-supreme-court-ruling))
 - California regulator orders FAIR Plan to justify claim denials ([1 days ago](https://www.dig-in.com/news/regulator-orders-fair-plan-to-justify-claim-denials))
