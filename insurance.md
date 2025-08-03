@@ -8,9 +8,9 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Where Are We on Insurance Sector M&A Activity? ([22 hours ago](https://insurance-edge.net/2025/08/02/where-are-we-on-insurance-sector-ma-activity-2/))
-- Mobile Phone Theft is on The Rise, Defend Your Data ([22 hours ago](https://insurance-edge.net/2025/08/02/mobile-phone-theft-is-on-the-rise-defend-your-data/))
-- Effective Risk Management Strategies for Financial Professionals ([23 hours ago](https://insurance-edge.net/2025/08/02/effective-risk-management-strategies-for-financial-professionals/))
+- Where Are We on Insurance Sector M&A Activity? ([23 hours ago](https://insurance-edge.net/2025/08/02/where-are-we-on-insurance-sector-ma-activity-2/))
+- Mobile Phone Theft is on The Rise, Defend Your Data ([23 hours ago](https://insurance-edge.net/2025/08/02/mobile-phone-theft-is-on-the-rise-defend-your-data/))
+- Effective Risk Management Strategies for Financial Professionals ([1 days ago](https://insurance-edge.net/2025/08/02/effective-risk-management-strategies-for-financial-professionals/))
 - Berkshire Hathaway’s re/insurance underwriting earnings strong despite higher losses in H1’25 ([1 days ago](https://www.reinsurancene.ws/berkshire-hathaways-re-insurance-underwriting-earnings-strong-despite-higher-losses-in-h125/))
 - AXA Hosts Hackathon Aimed at Empowering Women in Financial Services ([1 days ago](https://insurance-edge.net/2025/08/02/axa-hosts-hackathon-aimed-at-empowering-women-in-financial-services/))
 - Seopa Teams Up With The Money Charity ([1 days ago](https://insurance-edge.net/2025/08/01/seopa-teams-up-with-the-money-charity/))
@@ -117,7 +117,7 @@ description: Insurance Updates
 - Styling shifts transform hairdresser insurance ([4 days ago](https://www.postonline.co.uk/commercial/7957886/styling-shifts-transform-hairdresser-insurance))
 - The challenge of insuring asylum seeker accommodation ([4 days ago](https://www.postonline.co.uk/commercial/7957907/the-challenge-of-insuring-asylum-seeker-accommodation))
 - AI's impact on claims processes and procedures – Part 2 ([4 days ago](https://www.dig-in.com/news/ais-impact-on-claims-processes-and-procedures-part-2))
-- Insurance digital transformation starts to meet consumer demands ([4 days ago](https://www.dig-in.com/opinion/insurance-digital-transformation-starts-to-meet-consumer-demands))
+- Insurance digital transformation starts to meet consumer demands ([5 days ago](https://www.dig-in.com/opinion/insurance-digital-transformation-starts-to-meet-consumer-demands))
 - No NatCat respite predicted as property pay-outs increase ([5 days ago](https://www.postonline.co.uk/news/7958264/no-natcat-respite-predicted-as-property-pay-outs-increase))
 - Vitality’s employee challenges programme goes live ([5 days ago](https://ifamagazine.com/vitalitys-employee-challenges-programme-goes-live/))
 - Ransomware ban could increase ‘administrative burden’ on victims ([5 days ago](https://www.postonline.co.uk/technology/7958256/ransomware-ban-could-increase-%E2%80%98administrative-burden%E2%80%99-on-victims))
