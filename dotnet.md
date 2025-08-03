@@ -9,7 +9,7 @@ description: DotNet Updates
 
 <!-- news_marker starts -->
 - F# Weekly #31, 2025 - Aspire 9.4 ([4 hours ago](https://dotnetkicks.com/r/726523?url=https://sergeytihon.com/2025/08/02/f-weekly-31-2025-aspire-9-4/))
-- The Untapped Power of Veteran Engineers: Why Companies Are Overlooking Their Most Valuable Assets – Part 3 ([5 hours ago](https://dotnettips.wordpress.com/2025/08/03/the-untapped-power-of-veteran-engineers-why-companies-are-overlooking-their-most-valuable-assets-part-3/))
+- The Untapped Power of Veteran Engineers: Why Companies Are Overlooking Their Most Valuable Assets – Part 3 ([6 hours ago](https://dotnettips.wordpress.com/2025/08/03/the-untapped-power-of-veteran-engineers-why-companies-are-overlooking-their-most-valuable-assets-part-3/))
 - Video: Visual Toolbox: Git in Visual Studio ([1 days ago](https://dotnetkicks.com/r/726482?url=https://jesseliberty.com/2025/08/01/video-visual-toolbox-git-in-visual-studio/))
 - Video: Visual Toolbox: Git in Visual Studio ([1 days ago](https://dotnetkicks.com/r/726471?url=https://jesseliberty.com/2025/08/01/video-visual-toolbox-git-in-visual-studio/))
 - Metadata Tracking Improvements in Marten ([2 days ago](https://dotnetkicks.com/r/726440?url=https://jeremydmiller.com/2025/07/27/metadata-tracking-improvements-in-marten/))
