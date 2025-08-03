@@ -8,8 +8,8 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- How AI fits into an insurance budget ([2 hours ago](https://www.dig-in.com/list/how-ai-fits-into-an-insurance-budget))
-- AI finds insurance fraud in unexpected places ([2 hours ago](https://www.dig-in.com/news/ai-finds-insurance-fraud-in-unexpected-places))
+- How AI fits into an insurance budget ([3 hours ago](https://www.dig-in.com/list/how-ai-fits-into-an-insurance-budget))
+- AI finds insurance fraud in unexpected places ([3 hours ago](https://www.dig-in.com/news/ai-finds-insurance-fraud-in-unexpected-places))
 - Where Are We on Insurance Sector M&A Activity? ([1 days ago](https://insurance-edge.net/2025/08/02/where-are-we-on-insurance-sector-ma-activity-2/))
 - Mobile Phone Theft is on The Rise, Defend Your Data ([1 days ago](https://insurance-edge.net/2025/08/02/mobile-phone-theft-is-on-the-rise-defend-your-data/))
 - Effective Risk Management Strategies for Financial Professionals ([1 days ago](https://insurance-edge.net/2025/08/02/effective-risk-management-strategies-for-financial-professionals/))
