@@ -8,7 +8,7 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- F# Weekly #31, 2025 - Aspire 9.4 ([10 hours ago](https://dotnetkicks.com/r/726523?url=https://sergeytihon.com/2025/08/02/f-weekly-31-2025-aspire-9-4/))
+- F# Weekly #31, 2025 - Aspire 9.4 ([11 hours ago](https://dotnetkicks.com/r/726523?url=https://sergeytihon.com/2025/08/02/f-weekly-31-2025-aspire-9-4/))
 - The Untapped Power of Veteran Engineers: Why Companies Are Overlooking Their Most Valuable Assets – Part 3 ([12 hours ago](https://dotnettips.wordpress.com/2025/08/03/the-untapped-power-of-veteran-engineers-why-companies-are-overlooking-their-most-valuable-assets-part-3/))
 - Video: Visual Toolbox: Git in Visual Studio ([2 days ago](https://dotnetkicks.com/r/726482?url=https://jesseliberty.com/2025/08/01/video-visual-toolbox-git-in-visual-studio/))
 - Video: Visual Toolbox: Git in Visual Studio ([2 days ago](https://dotnetkicks.com/r/726471?url=https://jesseliberty.com/2025/08/01/video-visual-toolbox-git-in-visual-studio/))
@@ -18,8 +18,8 @@ description: DotNet Updates
 - Building a Full-Stack App with React and Aspire: A Step-by-Step Guide - .NET Blog ([4 days ago](https://dotnetkicks.com/r/726391?url=https://devblogs.microsoft.com/dotnet/new-aspire-app-with-react/))
 - Building a Full-Stack App with React and Aspire: A Step-by-Step Guide - .NET Blog ([4 days ago](https://dotnetkicks.com/r/726383?url=https://devblogs.microsoft.com/dotnet/new-aspire-app-with-react/))
 - Building a Full-Stack App with React and Aspire: A Step-by-Step Guide ([4 days ago](https://devblogs.microsoft.com/dotnet/new-aspire-app-with-react/))
-- Aspire 9.4 is here with a CLI and interactive dashboard features - .NET Blog ([4 days ago](https://dotnetkicks.com/r/726313?url=https://devblogs.microsoft.com/dotnet/announcing-aspire-9-4/))
-- Aspire 9.4 is here with a CLI and interactive dashboard features - .NET Blog ([4 days ago](https://dotnetkicks.com/r/726312?url=https://devblogs.microsoft.com/dotnet/announcing-aspire-9-4/))
+- Aspire 9.4 is here with a CLI and interactive dashboard features - .NET Blog ([5 days ago](https://dotnetkicks.com/r/726313?url=https://devblogs.microsoft.com/dotnet/announcing-aspire-9-4/))
+- Aspire 9.4 is here with a CLI and interactive dashboard features - .NET Blog ([5 days ago](https://dotnetkicks.com/r/726312?url=https://devblogs.microsoft.com/dotnet/announcing-aspire-9-4/))
 - Aspire 9.4 is here with a CLI and interactive dashboard features ([5 days ago](https://devblogs.microsoft.com/dotnet/announcing-aspire-9-4/))
 - Running one-off .NET tools with dnx: Exploring the .NET 10 preview - Part 5 ([5 days ago](https://dotnetkicks.com/r/726243?url=https://andrewlock.net/exploring-dotnet-10-preview-features-5-running-one-off-dotnet-tools-with-dnx/))
 - Running one-off .NET tools with dnx: Exploring the .NET 10 preview - Part 5 ([5 days ago](https://andrewlock.net/exploring-dotnet-10-preview-features-5-running-one-off-dotnet-tools-with-dnx/))
@@ -30,7 +30,7 @@ description: DotNet Updates
 - Database Migration Strategies ([8 days ago](https://dotnetkicks.com/r/725997?url=https://codeopinion.com/database-migration-strategies/))
 - Upcoming Changes to JetBrains .NET Tools ([9 days ago](https://blog.jetbrains.com/dotnet/2025/07/25/upcoming-changes-to-dotnet-tools/))
 - Announcing Microsoft.PowerShell.PlatyPS 1.0.0 - PowerShell Team ([9 days ago](https://dotnetkicks.com/r/725935?url=https://devblogs.microsoft.com/powershell/announcing-platyps-100/))
-- How to Combine MP4 Files on Windows Using FFmpeg ([9 days ago](https://dotnetkicks.com/r/725920?url=https://ardalis.com/combine-mp4-files-ffmpeg-windows/))
+- How to Combine MP4 Files on Windows Using FFmpeg ([10 days ago](https://dotnetkicks.com/r/725920?url=https://ardalis.com/combine-mp4-files-ffmpeg-windows/))
 - Example of Using Alba for HTTP Testing ([10 days ago](https://dotnetkicks.com/r/725896?url=https://jeremydmiller.com/2025/07/24/example-of-using-alba-for-http-testing/))
 - The ReSharper and .NET Tools 2025.2 Release Candidates Are Now Available ([10 days ago](https://blog.jetbrains.com/dotnet/2025/07/24/resharper-dot-net-tools-2025-2-release-candidate/))
 - The Rider 2025.2 Release Candidate Is Here! ([10 days ago](https://blog.jetbrains.com/dotnet/2025/07/24/the-rider-2025-2-release-candidate/))
