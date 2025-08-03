@@ -69,7 +69,7 @@ description: Insurance Updates
 - Florida OIR Approves 31.5% ‘Catch-up’ Rate Increase for TRUE, Despite Missed Filings ([2 days ago](https://www.insurancejournal.com/news/southeast/2025/08/01/834022.htm))
 - Demolition Begins on Last Pieces of Baltimore’s Collapsed Key Bridge ([2 days ago](https://www.insurancejournal.com/news/east/2025/08/01/834079.htm))
 - CNA’s $120M Contribution Finalizes Rochester Diocese Claims Fund ([2 days ago](https://www.insurancejournal.com/news/east/2025/08/01/834030.htm))
-- As the Floods Hit, Kerrville Officials’ Messages Show Lack of Information About What Was Coming ([2 days ago](https://www.insurancejournal.com/news/southcentral/2025/08/01/833986.htm))
+- Kerrville Officials’ Messages Show Lack of Information About Coming Floods ([2 days ago](https://www.insurancejournal.com/news/southcentral/2025/08/01/833986.htm))
 - Missouri’s 2025 Insured Losses From Severe Weather Approaching $2 Billion ([2 days ago](https://www.insurancejournal.com/news/midwest/2025/08/01/834033.htm))
 - Penny Black’s Social Diary: Swiftcover’s meerkats; FT’s doughnuts ([2 days ago](https://www.postonline.co.uk/people/7958038/penny-black%E2%80%99s-social-diary-swiftcover%E2%80%99s-meerkats-ft%E2%80%99s-doughnuts))
 - FCA lacks ambition on insurance market reform ([2 days ago](https://www.postonline.co.uk/regulation/7958245/fca-lacks-ambition-on-insurance-market-reform))
