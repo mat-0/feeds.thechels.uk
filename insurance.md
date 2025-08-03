@@ -8,9 +8,9 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Where Are We on Insurance Sector M&A Activity? ([16 hours ago](https://insurance-edge.net/2025/08/02/where-are-we-on-insurance-sector-ma-activity-2/))
-- Mobile Phone Theft is on The Rise, Defend Your Data ([16 hours ago](https://insurance-edge.net/2025/08/02/mobile-phone-theft-is-on-the-rise-defend-your-data/))
-- Effective Risk Management Strategies for Financial Professionals ([17 hours ago](https://insurance-edge.net/2025/08/02/effective-risk-management-strategies-for-financial-professionals/))
+- Where Are We on Insurance Sector M&A Activity? ([17 hours ago](https://insurance-edge.net/2025/08/02/where-are-we-on-insurance-sector-ma-activity-2/))
+- Mobile Phone Theft is on The Rise, Defend Your Data ([17 hours ago](https://insurance-edge.net/2025/08/02/mobile-phone-theft-is-on-the-rise-defend-your-data/))
+- Effective Risk Management Strategies for Financial Professionals ([18 hours ago](https://insurance-edge.net/2025/08/02/effective-risk-management-strategies-for-financial-professionals/))
 - Berkshire Hathaway’s re/insurance underwriting earnings strong despite higher losses in H1’25 ([1 days ago](https://www.reinsurancene.ws/berkshire-hathaways-re-insurance-underwriting-earnings-strong-despite-higher-losses-in-h125/))
 - AXA Hosts Hackathon Aimed at Empowering Women in Financial Services ([1 days ago](https://insurance-edge.net/2025/08/02/axa-hosts-hackathon-aimed-at-empowering-women-in-financial-services/))
 - Seopa Teams Up With The Money Charity ([1 days ago](https://insurance-edge.net/2025/08/01/seopa-teams-up-with-the-money-charity/))
@@ -31,8 +31,8 @@ description: Insurance Updates
 - People Moves: QBE Hires ERGO’s Peerdeman to Launch Marine Insurance in Netherlands; HDI Global Appoints 2 New Leaders in Long-Tail Segment ([1 days ago](https://www.insurancejournal.com/news/international/2025/08/01/834176.htm))
 - Brit reports 2.1% profit increase in H1’25 despite impact of large cat losses ([1 days ago](https://www.reinsurancene.ws/brit-reports-2-1-profit-increase-in-h125-despite-impact-of-large-cat-losses/))
 - KCC Completes Review of California Wildfire Model ([1 days ago](https://www.insurancejournal.com/news/west/2025/08/01/834178.htm))
-- Specialty Program Group Acquires Miami-Based ANOVA Marine Insurance ([1 days ago](https://www.insurancejournal.com/news/southeast/2025/08/01/834172.htm))
-- RGA sees Q2’25 net income decline despite net premium increase ([1 days ago](https://www.reinsurancene.ws/rga-sees-q225-net-income-decline-despite-net-premium-increase/))
+- Specialty Program Group Acquires Miami-Based ANOVA Marine Insurance ([2 days ago](https://www.insurancejournal.com/news/southeast/2025/08/01/834172.htm))
+- RGA sees Q2’25 net income decline despite net premium increase ([2 days ago](https://www.reinsurancene.ws/rga-sees-q225-net-income-decline-despite-net-premium-increase/))
 - Radioactive Wasp Nest Found at SC Site Where US Once Made Nuclear Bombs ([2 days ago](https://www.insurancejournal.com/news/southeast/2025/08/01/834167.htm))
 - AXA to acquire Italian MGA Prima ([2 days ago](https://www.reinsurancene.ws/axa-to-acquire-italian-mga-prima/))
 - ‘Soft Market Under Stress’ Offers Unique Window of Opportunity for Insurance Buyers ([2 days ago](https://www.insurancejournal.com/news/national/2025/08/01/834109.htm))
