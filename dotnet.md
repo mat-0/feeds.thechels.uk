@@ -9,7 +9,7 @@ description: DotNet Updates
 
 <!-- news_marker starts -->
 - F# Weekly #31, 2025 - Aspire 9.4 ([2 hours ago](https://dotnetkicks.com/r/726523?url=https://sergeytihon.com/2025/08/02/f-weekly-31-2025-aspire-9-4/))
-- The Untapped Power of Veteran Engineers: Why Companies Are Overlooking Their Most Valuable Assets – Part 3 ([3 hours ago](https://dotnettips.wordpress.com/2025/08/03/the-untapped-power-of-veteran-engineers-why-companies-are-overlooking-their-most-valuable-assets-part-3/))
+- The Untapped Power of Veteran Engineers: Why Companies Are Overlooking Their Most Valuable Assets – Part 3 ([4 hours ago](https://dotnettips.wordpress.com/2025/08/03/the-untapped-power-of-veteran-engineers-why-companies-are-overlooking-their-most-valuable-assets-part-3/))
 - Video: Visual Toolbox: Git in Visual Studio ([1 days ago](https://dotnetkicks.com/r/726482?url=https://jesseliberty.com/2025/08/01/video-visual-toolbox-git-in-visual-studio/))
 - Video: Visual Toolbox: Git in Visual Studio ([1 days ago](https://dotnetkicks.com/r/726471?url=https://jesseliberty.com/2025/08/01/video-visual-toolbox-git-in-visual-studio/))
 - Metadata Tracking Improvements in Marten ([2 days ago](https://dotnetkicks.com/r/726440?url=https://jeremydmiller.com/2025/07/27/metadata-tracking-improvements-in-marten/))
@@ -22,7 +22,7 @@ description: DotNet Updates
 - Aspire 9.4 is here with a CLI and interactive dashboard features - .NET Blog ([4 days ago](https://dotnetkicks.com/r/726312?url=https://devblogs.microsoft.com/dotnet/announcing-aspire-9-4/))
 - Aspire 9.4 is here with a CLI and interactive dashboard features ([4 days ago](https://devblogs.microsoft.com/dotnet/announcing-aspire-9-4/))
 - Running one-off .NET tools with dnx: Exploring the .NET 10 preview - Part 5 ([4 days ago](https://dotnetkicks.com/r/726243?url=https://andrewlock.net/exploring-dotnet-10-preview-features-5-running-one-off-dotnet-tools-with-dnx/))
-- Running one-off .NET tools with dnx: Exploring the .NET 10 preview - Part 5 ([4 days ago](https://andrewlock.net/exploring-dotnet-10-preview-features-5-running-one-off-dotnet-tools-with-dnx/))
+- Running one-off .NET tools with dnx: Exploring the .NET 10 preview - Part 5 ([5 days ago](https://andrewlock.net/exploring-dotnet-10-preview-features-5-running-one-off-dotnet-tools-with-dnx/))
 - Breaking Changes in .NET 10: A Migration Guide from .NET 8 ([5 days ago](https://dotnetkicks.com/r/726040?url=https://www.mobilize.net/blog/dotnet8-to-dotnet10-migration-guide?utm_source=DNK-726040&utm_medium=DNK-726040&utm_content=DNK-726040&utm_campaign=DNK-726040))
 - F# Weekly #30, 2025 - Quipu &amp; Perla ([5 days ago](https://dotnetkicks.com/r/726136?url=https://sergeytihon.com/2025/07/27/f-weekly-30-2025-quipu-perla/))
 - F# Weekly #30, 2025 - Quipu &amp; Perla ([5 days ago](https://dotnetkicks.com/r/726122?url=https://sergeytihon.com/2025/07/27/f-weekly-30-2025-quipu-perla/))
@@ -39,7 +39,7 @@ description: DotNet Updates
 - How to Install Nerd Fonts and Icons in PowerShell 7 on Windows 11 ([11 days ago](https://dotnetkicks.com/r/725714?url=https://ardalis.com/install-nerd-fonts-terminal-icons-pwsh-7-win-11/))
 - Fresh Learning Paths Now Available on Pluralsight for VS Subscribers - Visual Studio Blog ([11 days ago](https://dotnetkicks.com/r/725686?url=https://devblogs.microsoft.com/visualstudio/vss-pluralsight-2025-2/))
 - Solving the source generator 'marker attribute' problem in .NET 10: Exploring the .NET 10 preview - Part 4 ([11 days ago](https://dotnetkicks.com/r/725644?url=https://andrewlock.net/exploring-dotnet-10-preview-features-4-solving-the-source-generator-marker-attribute-problem-in-dotnet-10/))
-- Solving the source generator 'marker attribute' problem in .NET 10: Exploring the .NET 10 preview - Part 4 ([11 days ago](https://andrewlock.net/exploring-dotnet-10-preview-features-4-solving-the-source-generator-marker-attribute-problem-in-dotnet-10/))
+- Solving the source generator 'marker attribute' problem in .NET 10: Exploring the .NET 10 preview - Part 4 ([12 days ago](https://andrewlock.net/exploring-dotnet-10-preview-features-4-solving-the-source-generator-marker-attribute-problem-in-dotnet-10/))
 - Ask Mode vs Agent Mode - Choosing the Right Copilot Experience for .NET - .NET Blog ([12 days ago](https://dotnetkicks.com/r/725623?url=https://devblogs.microsoft.com/dotnet/ask-mode-vs-agent-mode/))
 - Ask Mode vs Agent Mode – Choosing the Right Copilot Experience for .NET ([12 days ago](https://devblogs.microsoft.com/dotnet/ask-mode-vs-agent-mode/))
 - F# Weekly #29, 2025 - .NET 10 Preview 6 ([13 days ago](https://dotnetkicks.com/r/725471?url=https://sergeytihon.com/2025/07/19/f-weekly-29-2025-net-10-preview-6/))
@@ -50,14 +50,14 @@ description: DotNet Updates
 - Building Your First MCP Server with .NET and Publishing to NuGet ([18 days ago](https://devblogs.microsoft.com/dotnet/mcp-server-dotnet-nuget-quickstart/))
 - .NET 10 Preview 6 is now available! ([18 days ago](https://devblogs.microsoft.com/dotnet/dotnet-10-preview-6/))
 - dotInsights  -  July 2025 ([18 days ago](https://blog.jetbrains.com/dotnet/2025/07/15/dotinsights-july-2025/))
-- C# 14 extension members; AKA extension everything: Exploring the .NET 10 preview - Part 3 ([18 days ago](https://andrewlock.net/exploring-dotnet-10-preview-features-3-csharp-14-extensions-members/))
+- C# 14 extension members; AKA extension everything: Exploring the .NET 10 preview - Part 3 ([19 days ago](https://andrewlock.net/exploring-dotnet-10-preview-features-3-csharp-14-extensions-members/))
 - JetBrains .NET Days Online 2025 — Call for Speakers ([19 days ago](https://blog.jetbrains.com/dotnet/2025/07/14/jetbrains-net-days-online-2025-call-for-speakers/))
 - Boost Your .NET Projects: Add Thread-Safety with ConcurrentHashSet from Spargine ([21 days ago](https://dotnettips.wordpress.com/2025/07/13/boost-your-net-projects-add-thread-safety-with-concurrenthashset-from-spargine/))
 - dotNetDave Rocks ØREDEV DEVELOPERS CONFERENCE 2025 ([23 days ago](https://dotnettips.wordpress.com/2025/07/11/dotnetdave-rocks-oredev-developers-conference-2025/))
 - Customize AI responses from GitHub Copilot ([23 days ago](https://devblogs.microsoft.com/dotnet/customize-ai-responses-from-github-copilot/))
 - How the .NET MAUI Team uses GitHub Copilot for Productivity ([24 days ago](https://devblogs.microsoft.com/dotnet/maui-team-copilot-tips/))
 - .NET and .NET Framework July 2025 servicing releases updates ([25 days ago](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-july-2025-servicing-updates/))
-- Behind the scenes of dotnet run app.cs: Exploring the .NET 10 preview - Part 2 ([25 days ago](https://andrewlock.net/exploring-dotnet-10-preview-features-2-behind-the-scenes-of-dotnet-run-app.cs/))
+- Behind the scenes of dotnet run app.cs: Exploring the .NET 10 preview - Part 2 ([26 days ago](https://andrewlock.net/exploring-dotnet-10-preview-features-2-behind-the-scenes-of-dotnet-run-app.cs/))
 - Avoid the Wrong Job: The Ultimate .NET Interview Question Playbook ([28 days ago](https://dotnettips.wordpress.com/2025/07/06/avoid-the-wrong-job-the-ultimate-net-interview-question-playbook/))
 
 <!-- news_marker ends -->
