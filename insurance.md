@@ -8,9 +8,9 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Where Are We on Insurance Sector M&A Activity? ([20 hours ago](https://insurance-edge.net/2025/08/02/where-are-we-on-insurance-sector-ma-activity-2/))
-- Mobile Phone Theft is on The Rise, Defend Your Data ([20 hours ago](https://insurance-edge.net/2025/08/02/mobile-phone-theft-is-on-the-rise-defend-your-data/))
-- Effective Risk Management Strategies for Financial Professionals ([21 hours ago](https://insurance-edge.net/2025/08/02/effective-risk-management-strategies-for-financial-professionals/))
+- Where Are We on Insurance Sector M&A Activity? ([21 hours ago](https://insurance-edge.net/2025/08/02/where-are-we-on-insurance-sector-ma-activity-2/))
+- Mobile Phone Theft is on The Rise, Defend Your Data ([21 hours ago](https://insurance-edge.net/2025/08/02/mobile-phone-theft-is-on-the-rise-defend-your-data/))
+- Effective Risk Management Strategies for Financial Professionals ([22 hours ago](https://insurance-edge.net/2025/08/02/effective-risk-management-strategies-for-financial-professionals/))
 - Berkshire Hathaway’s re/insurance underwriting earnings strong despite higher losses in H1’25 ([1 days ago](https://www.reinsurancene.ws/berkshire-hathaways-re-insurance-underwriting-earnings-strong-despite-higher-losses-in-h125/))
 - AXA Hosts Hackathon Aimed at Empowering Women in Financial Services ([1 days ago](https://insurance-edge.net/2025/08/02/axa-hosts-hackathon-aimed-at-empowering-women-in-financial-services/))
 - Seopa Teams Up With The Money Charity ([1 days ago](https://insurance-edge.net/2025/08/01/seopa-teams-up-with-the-money-charity/))
