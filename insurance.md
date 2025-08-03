@@ -8,9 +8,9 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Where Are We on Insurance Sector M&A Activity? ([17 hours ago](https://insurance-edge.net/2025/08/02/where-are-we-on-insurance-sector-ma-activity-2/))
-- Mobile Phone Theft is on The Rise, Defend Your Data ([17 hours ago](https://insurance-edge.net/2025/08/02/mobile-phone-theft-is-on-the-rise-defend-your-data/))
-- Effective Risk Management Strategies for Financial Professionals ([18 hours ago](https://insurance-edge.net/2025/08/02/effective-risk-management-strategies-for-financial-professionals/))
+- Where Are We on Insurance Sector M&A Activity? ([18 hours ago](https://insurance-edge.net/2025/08/02/where-are-we-on-insurance-sector-ma-activity-2/))
+- Mobile Phone Theft is on The Rise, Defend Your Data ([18 hours ago](https://insurance-edge.net/2025/08/02/mobile-phone-theft-is-on-the-rise-defend-your-data/))
+- Effective Risk Management Strategies for Financial Professionals ([19 hours ago](https://insurance-edge.net/2025/08/02/effective-risk-management-strategies-for-financial-professionals/))
 - Berkshire Hathaway’s re/insurance underwriting earnings strong despite higher losses in H1’25 ([1 days ago](https://www.reinsurancene.ws/berkshire-hathaways-re-insurance-underwriting-earnings-strong-despite-higher-losses-in-h125/))
 - AXA Hosts Hackathon Aimed at Empowering Women in Financial Services ([1 days ago](https://insurance-edge.net/2025/08/02/axa-hosts-hackathon-aimed-at-empowering-women-in-financial-services/))
 - Seopa Teams Up With The Money Charity ([1 days ago](https://insurance-edge.net/2025/08/01/seopa-teams-up-with-the-money-charity/))
@@ -27,8 +27,8 @@ description: Insurance Updates
 - Espionage, Including Theft of Intellectual Property, Cost Australia $12.5B in 2023-2024 ([1 days ago](https://www.insurancejournal.com/news/international/2025/08/01/833906.htm))
 - Aon combines commercial risk, health and reinsurance capabilities in India ([1 days ago](https://www.reinsurancene.ws/aon-combines-commercial-risk-health-and-reinsurance-capabilities-in-india/))
 - AXA Shares Decline on Net Income Miss, Italian Takeover ([1 days ago](https://www.insurancejournal.com/news/international/2025/08/01/834201.htm))
-- RIQ enters 10-year reinsurance partnership with IHC, anchored by $500m+ in risk coverage ([1 days ago](https://www.reinsurancene.ws/riq-enters-10-year-reinsurance-partnership-with-ihc-anchored-by-500m-in-risk-coverage/))
-- People Moves: QBE Hires ERGO’s Peerdeman to Launch Marine Insurance in Netherlands; HDI Global Appoints 2 New Leaders in Long-Tail Segment ([1 days ago](https://www.insurancejournal.com/news/international/2025/08/01/834176.htm))
+- RIQ enters 10-year reinsurance partnership with IHC, anchored by $500m+ in risk coverage ([2 days ago](https://www.reinsurancene.ws/riq-enters-10-year-reinsurance-partnership-with-ihc-anchored-by-500m-in-risk-coverage/))
+- People Moves: QBE Hires ERGO’s Peerdeman to Launch Marine Insurance in Netherlands; HDI Global Appoints 2 New Leaders in Long-Tail Segment ([2 days ago](https://www.insurancejournal.com/news/international/2025/08/01/834176.htm))
 - Brit reports 2.1% profit increase in H1’25 despite impact of large cat losses ([2 days ago](https://www.reinsurancene.ws/brit-reports-2-1-profit-increase-in-h125-despite-impact-of-large-cat-losses/))
 - KCC Completes Review of California Wildfire Model ([2 days ago](https://www.insurancejournal.com/news/west/2025/08/01/834178.htm))
 - Specialty Program Group Acquires Miami-Based ANOVA Marine Insurance ([2 days ago](https://www.insurancejournal.com/news/southeast/2025/08/01/834172.htm))
