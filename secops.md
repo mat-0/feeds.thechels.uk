@@ -8,10 +8,10 @@ description: SecOps News
 [Get this as an RSS feed](/secops.rss)
 
 <!-- news_marker starts -->
-- Are Scattered Spider and ShinyHunters one group or two? And who did France arrest? ([5 hours ago](https://databreaches.net/2025/08/03/are-scattered-spider-and-shinyhunters-one-group-or-two-and-who-did-france-arrest/?pk_campaign=feed&pk_kwd=are-scattered-spider-and-shinyhunters-one-group-or-two-and-who-did-france-arrest))
-- Why we shouldn’t just repeat ransomware groups’ claims, Sunday edition ([6 hours ago](https://databreaches.net/2025/08/03/why-we-shouldnt-just-repeat-ransomware-groups-claims-sunday-edition/?pk_campaign=feed&pk_kwd=why-we-shouldnt-just-repeat-ransomware-groups-claims-sunday-edition))
+- Are Scattered Spider and ShinyHunters one group or two? And who did France arrest? ([6 hours ago](https://databreaches.net/2025/08/03/are-scattered-spider-and-shinyhunters-one-group-or-two-and-who-did-france-arrest/?pk_campaign=feed&pk_kwd=are-scattered-spider-and-shinyhunters-one-group-or-two-and-who-did-france-arrest))
+- Why we shouldn’t just repeat ransomware groups’ claims, Sunday edition ([7 hours ago](https://databreaches.net/2025/08/03/why-we-shouldnt-just-repeat-ransomware-groups-claims-sunday-edition/?pk_campaign=feed&pk_kwd=why-we-shouldnt-just-repeat-ransomware-groups-claims-sunday-edition))
 - Silent Push CEO on cybercrime takedowns: 'It's an ongoing cat-and-mouse game' ([10 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/08/03/silent_push_ceo_talks_cybercrime/))
-- Weekly Update 463 ([14 hours ago](https://www.troyhunt.com/weekly-update-463/))
+- Weekly Update 463 ([15 hours ago](https://www.troyhunt.com/weekly-update-463/))
 - Rtpengine: RTP Inject and RTP Bleed vulnerabilities despite proper configuration (CVSS v4.0 Score: 9.3 / Critical) ([19 hours ago](https://seclists.org/fulldisclosure/2025/Aug/1))
 - APPLE-SA-07-30-2025-1 Safari 18.6 ([19 hours ago](https://seclists.org/fulldisclosure/2025/Aug/0))
 - CL-STA-0969 Installs Covert Malware in Telecom Networks During 10-Month Espionage Campaign ([1 days ago](https://thehackernews.com/2025/08/cl-sta-0969-installs-covert-malware-in.html))
@@ -25,7 +25,7 @@ description: SecOps News
 - Anthropic says OpenAI engineers using Claude Code ahead of GPT-5 launch ([1 days ago](https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-says-openai-engineers-using-claude-code-ahead-of-gpt-5-launch/))
 - CISA roasts unnamed critical national infrastructure body for shoddy security hygiene ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2025/08/02/cisa_coast_guard_cni/))
 - Akira Ransomware Exploits SonicWall VPNs in Likely Zero-Day Attack on Fully-Patched Devices ([1 days ago](https://thehackernews.com/2025/08/akira-ransomware-exploits-sonicwall.html))
-- Oklahoma Substantially Amends Its Data Breach Notification Statute ([1 days ago](https://databreaches.net/2025/08/01/oklahoma-substantially-amends-its-data-breach-notification-statute/?pk_campaign=feed&pk_kwd=oklahoma-substantially-amends-its-data-breach-notification-statute))
+- Oklahoma Substantially Amends Its Data Breach Notification Statute ([2 days ago](https://databreaches.net/2025/08/01/oklahoma-substantially-amends-its-data-breach-notification-statute/?pk_campaign=feed&pk_kwd=oklahoma-substantially-amends-its-data-breach-notification-statute))
 - Rampant emoji use suggests crypto-stealing NPM package was written by AI ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2025/08/01/emoji_use_ai_malware/))
 - OpenAI removes ChatGPT self-doxing option ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2025/08/01/openai_removes_chatgpt_selfdoxing_option/))
 - OpenAI removes ChatGPT self-doxing option ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2025/08/01/openai_removes_chatgpt_selfdoxing_option/))
