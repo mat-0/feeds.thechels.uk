@@ -8,9 +8,9 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Issue and verify credentials using the Swiss Digital identity public beta, ASP.NET Core and .NET Aspire ([5 hours ago](https://dotnetkicks.com/r/726622?url=https://damienbod.com/2025/08/04/issuer-and-verify-credentials-using-the-swiss-digital-identity-public-beta-asp-net-core-and-net-aspire/))
-- The new Dependabot NuGet updater: 65% faster with native .NET - .NET Blog ([6 hours ago](https://dotnetkicks.com/r/726617?url=https://devblogs.microsoft.com/dotnet/the-new-dependabot-nuget-updater/))
-- The new Dependabot NuGet updater: 65% faster with native .NET ([6 hours ago](https://devblogs.microsoft.com/dotnet/the-new-dependabot-nuget-updater/))
+- Issue and verify credentials using the Swiss Digital identity public beta, ASP.NET Core and .NET Aspire ([6 hours ago](https://dotnetkicks.com/r/726622?url=https://damienbod.com/2025/08/04/issuer-and-verify-credentials-using-the-swiss-digital-identity-public-beta-asp-net-core-and-net-aspire/))
+- The new Dependabot NuGet updater: 65% faster with native .NET - .NET Blog ([7 hours ago](https://dotnetkicks.com/r/726617?url=https://devblogs.microsoft.com/dotnet/the-new-dependabot-nuget-updater/))
+- The new Dependabot NuGet updater: 65% faster with native .NET ([7 hours ago](https://devblogs.microsoft.com/dotnet/the-new-dependabot-nuget-updater/))
 - F# Weekly #31, 2025 - Aspire 9.4 ([1 days ago](https://dotnetkicks.com/r/726523?url=https://sergeytihon.com/2025/08/02/f-weekly-31-2025-aspire-9-4/))
 - The Untapped Power of Veteran Engineers: Why Companies Are Overlooking Their Most Valuable Assets – Part 3 ([1 days ago](https://dotnettips.wordpress.com/2025/08/03/the-untapped-power-of-veteran-engineers-why-companies-are-overlooking-their-most-valuable-assets-part-3/))
 - Video: Visual Toolbox: Git in Visual Studio ([3 days ago](https://dotnetkicks.com/r/726482?url=https://jesseliberty.com/2025/08/01/video-visual-toolbox-git-in-visual-studio/))
@@ -32,7 +32,7 @@ description: DotNet Updates
 - Boost Your .NET Projects: Enhance Drive Management with DriveHelper in Spargine ([8 days ago](https://dotnettips.wordpress.com/2025/07/27/boost-your-net-projects-enhance-drive-management-with-spargine/))
 - Database Migration Strategies ([9 days ago](https://dotnetkicks.com/r/725997?url=https://codeopinion.com/database-migration-strategies/))
 - Upcoming Changes to JetBrains .NET Tools ([10 days ago](https://blog.jetbrains.com/dotnet/2025/07/25/upcoming-changes-to-dotnet-tools/))
-- Announcing Microsoft.PowerShell.PlatyPS 1.0.0 - PowerShell Team ([10 days ago](https://dotnetkicks.com/r/725935?url=https://devblogs.microsoft.com/powershell/announcing-platyps-100/))
+- Announcing Microsoft.PowerShell.PlatyPS 1.0.0 - PowerShell Team ([11 days ago](https://dotnetkicks.com/r/725935?url=https://devblogs.microsoft.com/powershell/announcing-platyps-100/))
 - How to Combine MP4 Files on Windows Using FFmpeg ([11 days ago](https://dotnetkicks.com/r/725920?url=https://ardalis.com/combine-mp4-files-ffmpeg-windows/))
 - Example of Using Alba for HTTP Testing ([11 days ago](https://dotnetkicks.com/r/725896?url=https://jeremydmiller.com/2025/07/24/example-of-using-alba-for-http-testing/))
 - The ReSharper and .NET Tools 2025.2 Release Candidates Are Now Available ([11 days ago](https://blog.jetbrains.com/dotnet/2025/07/24/resharper-dot-net-tools-2025-2-release-candidate/))
