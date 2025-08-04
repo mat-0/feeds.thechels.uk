@@ -8,7 +8,9 @@ description: SecOps News
 [Get this as an RSS feed](/secops.rss)
 
 <!-- news_marker starts -->
-- China’s botched Great Firewall upgrade invites attacks on its censorship infrastructure ([47 minutes ago](https://go.theregister.com/feed/www.theregister.com/2025/08/04/china_great_firewall_quic_security_flaws/))
+- Tech bro denied dev's hard-earned bonus for bug that overcharged a little old lady ([21 minutes ago](https://go.theregister.com/feed/www.theregister.com/2025/08/04/who_me/))
+- China’s botched Great Firewall upgrade invites attacks on its censorship infrastructure ([1 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/08/04/china_great_firewall_quic_security_flaws/))
+- PlayPraetor Android Trojan Infects 11,000+ Devices via Fake Google Play Pages and Meta Ads ([1 hours ago](https://thehackernews.com/2025/08/playpraetor-android-trojan-infects.html))
 - Lazarus Group rises again, this time with malware-laden fake FOSS ([7 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/08/04/infosec_in_brief/))
 - Are Scattered Spider and ShinyHunters one group or two? And who did France arrest? ([15 hours ago](https://databreaches.net/2025/08/03/are-scattered-spider-and-shinyhunters-one-group-or-two-and-who-did-france-arrest/?pk_campaign=feed&pk_kwd=are-scattered-spider-and-shinyhunters-one-group-or-two-and-who-did-france-arrest))
 - Why we shouldn’t just repeat ransomware groups’ claims, Sunday edition ([16 hours ago](https://databreaches.net/2025/08/03/why-we-shouldnt-just-repeat-ransomware-groups-claims-sunday-edition/?pk_campaign=feed&pk_kwd=why-we-shouldnt-just-repeat-ransomware-groups-claims-sunday-edition))
@@ -107,7 +109,6 @@ description: SecOps News
 - Trump officials float plan for Americans to share their medical data more freely ([4 days ago](https://go.theregister.com/feed/www.theregister.com/2025/07/31/trump_medical_records_share/))
 - The TSA likes facial recognition at airports. Passengers and politicians, not so much ([4 days ago](https://go.theregister.com/feed/www.theregister.com/2025/07/31/tsa_facial_recognition/))
 - Alibaba admits Qwen3's hybrid-thinking mode was dumb ([4 days ago](https://go.theregister.com/feed/www.theregister.com/2025/07/31/alibaba_qwen3_hybrid_thinking/))
-- Microsoft hails cloud and AI revenue for boffo earnings ([4 days ago](https://go.theregister.com/feed/www.theregister.com/2025/07/30/microsoft_hails_cloud_and_ai/))
 - Smashing Security podcast #428: Red flags, leaked chats, and a final farewell ([4 days ago](https://grahamcluley.com/smashing-security-podcast-428/))
 - Scammers Unleash Flood of Slick Online Gaming Sites ([4 days ago](https://krebsonsecurity.com/2025/07/scammers-unleash-flood-of-slick-online-gaming-sites/))
 - Enterprises neglect AI security – and attackers have noticed ([4 days ago](https://go.theregister.com/feed/www.theregister.com/2025/07/30/firms_are_neglecting_ai_security/))
@@ -136,7 +137,6 @@ description: SecOps News
 - CVE‑2025‑52187 – Stored XSS in School Management System (PHP/MySQL) ([5 days ago](https://seclists.org/fulldisclosure/2025/Jul/28))
 - Invision Community <= 5.0.7 (oauth/callback) Reflected Cross-Site Scripting Vulnerability ([5 days ago](https://seclists.org/fulldisclosure/2025/Jul/27))
 - CISA and USCG Identify Areas for Cyber Hygiene Improvement After Conducting Proactive Threat Hunt at US Critical Infrastructure Organization ([5 days ago](https://www.cisa.gov/news-events/cybersecurity-advisories/aa25-212a))
-- Wiz Uncovers Critical Access Bypass Flaw in AI-Powered Vibe Coding Platform Base44 ([5 days ago](https://thehackernews.com/2025/07/wiz-uncovers-critical-access-bypass.html))
 - The AI Fix #61: Replit panics, deletes $1M project; AI gets gold at Math Olympiad ([5 days ago](https://grahamcluley.com/the-ai-fix-61/))
 - 40,000 WordPress websites at risk of being hijacked due to vulnerable Post SMTP plugin ([5 days ago](https://www.bitdefender.com/en-us/blog/hotforsecurity/40-000-wordpress-websites-at-risk-of-being-hijacked-due-to-vulnerable-post-smtp-plugin))
 - Increase in 429s for Git Operations ([5 days ago](https://www.githubstatus.com/incidents/spbr5ff8hyt2))
