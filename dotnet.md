@@ -8,9 +8,9 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Issue and verify credentials using the Swiss Digital identity public beta, ASP.NET Core and .NET Aspire ([3 hours ago](https://dotnetkicks.com/r/726622?url=https://damienbod.com/2025/08/04/issuer-and-verify-credentials-using-the-swiss-digital-identity-public-beta-asp-net-core-and-net-aspire/))
-- The new Dependabot NuGet updater: 65% faster with native .NET - .NET Blog ([4 hours ago](https://dotnetkicks.com/r/726617?url=https://devblogs.microsoft.com/dotnet/the-new-dependabot-nuget-updater/))
-- The new Dependabot NuGet updater: 65% faster with native .NET ([4 hours ago](https://devblogs.microsoft.com/dotnet/the-new-dependabot-nuget-updater/))
+- Issue and verify credentials using the Swiss Digital identity public beta, ASP.NET Core and .NET Aspire ([4 hours ago](https://dotnetkicks.com/r/726622?url=https://damienbod.com/2025/08/04/issuer-and-verify-credentials-using-the-swiss-digital-identity-public-beta-asp-net-core-and-net-aspire/))
+- The new Dependabot NuGet updater: 65% faster with native .NET - .NET Blog ([5 hours ago](https://dotnetkicks.com/r/726617?url=https://devblogs.microsoft.com/dotnet/the-new-dependabot-nuget-updater/))
+- The new Dependabot NuGet updater: 65% faster with native .NET ([5 hours ago](https://devblogs.microsoft.com/dotnet/the-new-dependabot-nuget-updater/))
 - F# Weekly #31, 2025 - Aspire 9.4 ([1 days ago](https://dotnetkicks.com/r/726523?url=https://sergeytihon.com/2025/08/02/f-weekly-31-2025-aspire-9-4/))
 - The Untapped Power of Veteran Engineers: Why Companies Are Overlooking Their Most Valuable Assets – Part 3 ([1 days ago](https://dotnettips.wordpress.com/2025/08/03/the-untapped-power-of-veteran-engineers-why-companies-are-overlooking-their-most-valuable-assets-part-3/))
 - Video: Visual Toolbox: Git in Visual Studio ([3 days ago](https://dotnetkicks.com/r/726482?url=https://jesseliberty.com/2025/08/01/video-visual-toolbox-git-in-visual-studio/))
@@ -48,7 +48,7 @@ description: DotNet Updates
 - Boost Your .NET Projects: Effortlessly Randomize Collections with CollectionRandomizer in Spargine ([15 days ago](https://dotnettips.wordpress.com/2025/07/20/boost-your-net-projects-effortlessly-randomize-collections-with-collectionrandomizer-in-spargine/))
 - Still Compiling: Two Shirts Every Veteran Software Engineer Needs ([18 days ago](https://dotnettips.wordpress.com/2025/07/17/still-compiling-two-shirts-every-veteran-software-engineer-needs/))
 - The Day the Software Community Died: Let’s Stop Coding in Isolation and Start Creating Community—And Software—People Truly Love ([19 days ago](https://dotnettips.wordpress.com/2025/07/16/the-day-the-software-community-died-lets-stop-coding-in-isolation-and-start-creating-community-and-software-people-truly-love/))
-- Building Your First MCP Server with .NET and Publishing to NuGet ([19 days ago](https://devblogs.microsoft.com/dotnet/mcp-server-dotnet-nuget-quickstart/))
+- Building Your First MCP Server with .NET and Publishing to NuGet ([20 days ago](https://devblogs.microsoft.com/dotnet/mcp-server-dotnet-nuget-quickstart/))
 - .NET 10 Preview 6 is now available! ([20 days ago](https://devblogs.microsoft.com/dotnet/dotnet-10-preview-6/))
 - dotInsights  -  July 2025 ([20 days ago](https://blog.jetbrains.com/dotnet/2025/07/15/dotinsights-july-2025/))
 - C# 14 extension members; AKA extension everything: Exploring the .NET 10 preview - Part 3 ([20 days ago](https://andrewlock.net/exploring-dotnet-10-preview-features-3-csharp-14-extensions-members/))
