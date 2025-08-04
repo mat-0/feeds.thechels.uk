@@ -8,6 +8,8 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
+- The new Dependabot NuGet updater: 65% faster with native .NET - .NET Blog ([just now](https://dotnetkicks.com/r/726617?url=https://devblogs.microsoft.com/dotnet/the-new-dependabot-nuget-updater/))
+- The new Dependabot NuGet updater: 65% faster with native .NET ([8 minutes ago](https://devblogs.microsoft.com/dotnet/the-new-dependabot-nuget-updater/))
 - F# Weekly #31, 2025 - Aspire 9.4 ([1 days ago](https://dotnetkicks.com/r/726523?url=https://sergeytihon.com/2025/08/02/f-weekly-31-2025-aspire-9-4/))
 - The Untapped Power of Veteran Engineers: Why Companies Are Overlooking Their Most Valuable Assets – Part 3 ([1 days ago](https://dotnettips.wordpress.com/2025/08/03/the-untapped-power-of-veteran-engineers-why-companies-are-overlooking-their-most-valuable-assets-part-3/))
 - Video: Visual Toolbox: Git in Visual Studio ([2 days ago](https://dotnetkicks.com/r/726482?url=https://jesseliberty.com/2025/08/01/video-visual-toolbox-git-in-visual-studio/))
@@ -43,7 +45,6 @@ description: DotNet Updates
 - Ask Mode vs Agent Mode - Choosing the Right Copilot Experience for .NET - .NET Blog ([13 days ago](https://dotnetkicks.com/r/725623?url=https://devblogs.microsoft.com/dotnet/ask-mode-vs-agent-mode/))
 - Ask Mode vs Agent Mode – Choosing the Right Copilot Experience for .NET ([13 days ago](https://devblogs.microsoft.com/dotnet/ask-mode-vs-agent-mode/))
 - F# Weekly #29, 2025 - .NET 10 Preview 6 ([14 days ago](https://dotnetkicks.com/r/725471?url=https://sergeytihon.com/2025/07/19/f-weekly-29-2025-net-10-preview-6/))
-- How I Prioritize OSS Bugs ([14 days ago](https://dotnetkicks.com/r/725466?url=https://jeremydmiller.com/2025/07/20/how-i-prioritize-oss-bugs/))
 - Boost Your .NET Projects: Effortlessly Randomize Collections with CollectionRandomizer in Spargine ([15 days ago](https://dotnettips.wordpress.com/2025/07/20/boost-your-net-projects-effortlessly-randomize-collections-with-collectionrandomizer-in-spargine/))
 - Still Compiling: Two Shirts Every Veteran Software Engineer Needs ([17 days ago](https://dotnettips.wordpress.com/2025/07/17/still-compiling-two-shirts-every-veteran-software-engineer-needs/))
 - The Day the Software Community Died: Let’s Stop Coding in Isolation and Start Creating Community—And Software—People Truly Love ([19 days ago](https://dotnettips.wordpress.com/2025/07/16/the-day-the-software-community-died-lets-stop-coding-in-isolation-and-start-creating-community-and-software-people-truly-love/))
