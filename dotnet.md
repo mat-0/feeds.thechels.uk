@@ -8,17 +8,18 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
+- .NET and .NET Framework August 2025 servicing releases updates ([12 minutes ago](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-august-2025-servicing-updates/))
 - Exploring new Agent Quality and NLP evaluators for .NET AI applications - .NET Blog ([5 hours ago](https://dotnetkicks.com/r/726818?url=https://devblogs.microsoft.com/dotnet/exploring-agent-quality-and-nlp-evaluators/))
 - Exploring new Agent Quality and NLP evaluators for .NET AI applications - .NET Blog ([5 hours ago](https://dotnetkicks.com/r/726814?url=https://devblogs.microsoft.com/dotnet/exploring-agent-quality-and-nlp-evaluators/))
-- Exploring new Agent Quality and NLP evaluators for .NET AI applications ([5 hours ago](https://devblogs.microsoft.com/dotnet/exploring-agent-quality-and-nlp-evaluators/))
+- Exploring new Agent Quality and NLP evaluators for .NET AI applications ([6 hours ago](https://devblogs.microsoft.com/dotnet/exploring-agent-quality-and-nlp-evaluators/))
 - Visual Studio 2015 Retirement: Support reminder for older versions of Visual Studio - Visual Studio Blog ([6 hours ago](https://dotnetkicks.com/r/726809?url=https://devblogs.microsoft.com/visualstudio/visual-studio-2015-retirement-support-reminder-for-older-versions-of-visual-studio/))
 - Visual Studio 2015 Retirement: Support reminder for older versions of Visual Studio - Visual Studio Blog ([6 hours ago](https://dotnetkicks.com/r/726798?url=https://devblogs.microsoft.com/visualstudio/visual-studio-2015-retirement-support-reminder-for-older-versions-of-visual-studio/))
 - .NET Conf 2025 - Announcing the Call for Content - .NET Blog ([6 hours ago](https://dotnetkicks.com/r/726779?url=https://devblogs.microsoft.com/dotnet/dotnet-conf-2025-announcing-the-call-for-content/))
-- .NET Conf 2025 – Announcing the Call for Content ([6 hours ago](https://devblogs.microsoft.com/dotnet/dotnet-conf-2025-announcing-the-call-for-content/))
+- .NET Conf 2025 – Announcing the Call for Content ([7 hours ago](https://devblogs.microsoft.com/dotnet/dotnet-conf-2025-announcing-the-call-for-content/))
 - Jeff Fritz on .NET Aspire and CoPilot Agents ([7 hours ago](https://dotnetkicks.com/r/726734?url=https://jesseliberty.com/2025/08/05/jeff-fritz-on-net-aspire-and-copilot-agents/))
 - Passkey support for ASP.NET Core identity: Exploring the .NET 10 preview - Part 6 ([12 hours ago](https://dotnetkicks.com/r/726680?url=https://andrewlock.net/exploring-dotnet-10-preview-features-6-passkey-support-for-aspnetcore-identity/))
 - JetBrains is a Platinum Sponsor of the Godot Foundation ([12 hours ago](https://blog.jetbrains.com/dotnet/2025/08/05/jetbrains-is-a-platinum-sponsor-of-the-godot-foundation/))
-- Passkey support for ASP.NET Core identity: Exploring the .NET 10 preview - Part 6 ([12 hours ago](https://andrewlock.net/exploring-dotnet-10-preview-features-6-passkey-support-for-aspnetcore-identity/))
+- Passkey support for ASP.NET Core identity: Exploring the .NET 10 preview - Part 6 ([13 hours ago](https://andrewlock.net/exploring-dotnet-10-preview-features-6-passkey-support-for-aspnetcore-identity/))
 - Issue and verify credentials using the Swiss Digital identity public beta, ASP.NET Core and .NET Aspire ([1 days ago](https://dotnetkicks.com/r/726622?url=https://damienbod.com/2025/08/04/issuer-and-verify-credentials-using-the-swiss-digital-identity-public-beta-asp-net-core-and-net-aspire/))
 - The new Dependabot NuGet updater: 65% faster with native .NET - .NET Blog ([1 days ago](https://dotnetkicks.com/r/726617?url=https://devblogs.microsoft.com/dotnet/the-new-dependabot-nuget-updater/))
 - The new Dependabot NuGet updater: 65% faster with native .NET ([1 days ago](https://devblogs.microsoft.com/dotnet/the-new-dependabot-nuget-updater/))
@@ -59,7 +60,6 @@ description: DotNet Updates
 - JetBrains .NET Days Online 2025 — Call for Speakers ([22 days ago](https://blog.jetbrains.com/dotnet/2025/07/14/jetbrains-net-days-online-2025-call-for-speakers/))
 - Boost Your .NET Projects: Add Thread-Safety with ConcurrentHashSet from Spargine ([23 days ago](https://dotnettips.wordpress.com/2025/07/13/boost-your-net-projects-add-thread-safety-with-concurrenthashset-from-spargine/))
 - dotNetDave Rocks ØREDEV DEVELOPERS CONFERENCE 2025 ([25 days ago](https://dotnettips.wordpress.com/2025/07/11/dotnetdave-rocks-oredev-developers-conference-2025/))
-- Customize AI responses from GitHub Copilot ([26 days ago](https://devblogs.microsoft.com/dotnet/customize-ai-responses-from-github-copilot/))
 - Behind the scenes of dotnet run app.cs: Exploring the .NET 10 preview - Part 2 ([28 days ago](https://andrewlock.net/exploring-dotnet-10-preview-features-2-behind-the-scenes-of-dotnet-run-app.cs/))
 
 <!-- news_marker ends -->
