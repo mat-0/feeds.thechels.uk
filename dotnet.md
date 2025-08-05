@@ -8,11 +8,12 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Jeff Fritz on .NET Aspire and CoPilot Agents ([32 minutes ago](https://dotnetkicks.com/r/726734?url=https://jesseliberty.com/2025/08/05/jeff-fritz-on-net-aspire-and-copilot-agents/))
+- .NET Conf 2025 – Announcing the Call for Content ([8 minutes ago](https://devblogs.microsoft.com/dotnet/dotnet-conf-2025-announcing-the-call-for-content/))
+- Jeff Fritz on .NET Aspire and CoPilot Agents ([1 hours ago](https://dotnetkicks.com/r/726734?url=https://jesseliberty.com/2025/08/05/jeff-fritz-on-net-aspire-and-copilot-agents/))
 - Passkey support for ASP.NET Core identity: Exploring the .NET 10 preview - Part 6 ([5 hours ago](https://dotnetkicks.com/r/726680?url=https://andrewlock.net/exploring-dotnet-10-preview-features-6-passkey-support-for-aspnetcore-identity/))
 - JetBrains is a Platinum Sponsor of the Godot Foundation ([5 hours ago](https://blog.jetbrains.com/dotnet/2025/08/05/jetbrains-is-a-platinum-sponsor-of-the-godot-foundation/))
-- Passkey support for ASP.NET Core identity: Exploring the .NET 10 preview - Part 6 ([5 hours ago](https://andrewlock.net/exploring-dotnet-10-preview-features-6-passkey-support-for-aspnetcore-identity/))
-- Issue and verify credentials using the Swiss Digital identity public beta, ASP.NET Core and .NET Aspire ([23 hours ago](https://dotnetkicks.com/r/726622?url=https://damienbod.com/2025/08/04/issuer-and-verify-credentials-using-the-swiss-digital-identity-public-beta-asp-net-core-and-net-aspire/))
+- Passkey support for ASP.NET Core identity: Exploring the .NET 10 preview - Part 6 ([6 hours ago](https://andrewlock.net/exploring-dotnet-10-preview-features-6-passkey-support-for-aspnetcore-identity/))
+- Issue and verify credentials using the Swiss Digital identity public beta, ASP.NET Core and .NET Aspire ([1 days ago](https://dotnetkicks.com/r/726622?url=https://damienbod.com/2025/08/04/issuer-and-verify-credentials-using-the-swiss-digital-identity-public-beta-asp-net-core-and-net-aspire/))
 - The new Dependabot NuGet updater: 65% faster with native .NET - .NET Blog ([1 days ago](https://dotnetkicks.com/r/726617?url=https://devblogs.microsoft.com/dotnet/the-new-dependabot-nuget-updater/))
 - The new Dependabot NuGet updater: 65% faster with native .NET ([1 days ago](https://devblogs.microsoft.com/dotnet/the-new-dependabot-nuget-updater/))
 - F# Weekly #31, 2025 - Aspire 9.4 ([2 days ago](https://dotnetkicks.com/r/726523?url=https://sergeytihon.com/2025/08/02/f-weekly-31-2025-aspire-9-4/))
@@ -59,7 +60,6 @@ description: DotNet Updates
 - dotNetDave Rocks ØREDEV DEVELOPERS CONFERENCE 2025 ([25 days ago](https://dotnettips.wordpress.com/2025/07/11/dotnetdave-rocks-oredev-developers-conference-2025/))
 - Customize AI responses from GitHub Copilot ([25 days ago](https://devblogs.microsoft.com/dotnet/customize-ai-responses-from-github-copilot/))
 - How the .NET MAUI Team uses GitHub Copilot for Productivity ([26 days ago](https://devblogs.microsoft.com/dotnet/maui-team-copilot-tips/))
-- .NET and .NET Framework July 2025 servicing releases updates ([27 days ago](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-july-2025-servicing-updates/))
 - Behind the scenes of dotnet run app.cs: Exploring the .NET 10 preview - Part 2 ([28 days ago](https://andrewlock.net/exploring-dotnet-10-preview-features-2-behind-the-scenes-of-dotnet-run-app.cs/))
 
 <!-- news_marker ends -->
