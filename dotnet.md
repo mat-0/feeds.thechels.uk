@@ -8,7 +8,7 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Passkey support for ASP.NET Core identity: Exploring the .NET 10 preview - Part 6 ([2 hours ago](https://dotnetkicks.com/r/726680?url=https://andrewlock.net/exploring-dotnet-10-preview-features-6-passkey-support-for-aspnetcore-identity/))
+- Passkey support for ASP.NET Core identity: Exploring the .NET 10 preview - Part 6 ([3 hours ago](https://dotnetkicks.com/r/726680?url=https://andrewlock.net/exploring-dotnet-10-preview-features-6-passkey-support-for-aspnetcore-identity/))
 - JetBrains is a Platinum Sponsor of the Godot Foundation ([3 hours ago](https://blog.jetbrains.com/dotnet/2025/08/05/jetbrains-is-a-platinum-sponsor-of-the-godot-foundation/))
 - Passkey support for ASP.NET Core identity: Exploring the .NET 10 preview - Part 6 ([3 hours ago](https://andrewlock.net/exploring-dotnet-10-preview-features-6-passkey-support-for-aspnetcore-identity/))
 - Issue and verify credentials using the Swiss Digital identity public beta, ASP.NET Core and .NET Aspire ([21 hours ago](https://dotnetkicks.com/r/726622?url=https://damienbod.com/2025/08/04/issuer-and-verify-credentials-using-the-swiss-digital-identity-public-beta-asp-net-core-and-net-aspire/))
