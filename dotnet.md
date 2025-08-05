@@ -8,7 +8,7 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Passkey support for ASP.NET Core identity: Exploring the .NET 10 preview - Part 6 ([1 hours ago](https://dotnetkicks.com/r/726680?url=https://andrewlock.net/exploring-dotnet-10-preview-features-6-passkey-support-for-aspnetcore-identity/))
+- Passkey support for ASP.NET Core identity: Exploring the .NET 10 preview - Part 6 ([2 hours ago](https://dotnetkicks.com/r/726680?url=https://andrewlock.net/exploring-dotnet-10-preview-features-6-passkey-support-for-aspnetcore-identity/))
 - JetBrains is a Platinum Sponsor of the Godot Foundation ([2 hours ago](https://blog.jetbrains.com/dotnet/2025/08/05/jetbrains-is-a-platinum-sponsor-of-the-godot-foundation/))
 - Passkey support for ASP.NET Core identity: Exploring the .NET 10 preview - Part 6 ([2 hours ago](https://andrewlock.net/exploring-dotnet-10-preview-features-6-passkey-support-for-aspnetcore-identity/))
 - Issue and verify credentials using the Swiss Digital identity public beta, ASP.NET Core and .NET Aspire ([20 hours ago](https://dotnetkicks.com/r/726622?url=https://damienbod.com/2025/08/04/issuer-and-verify-credentials-using-the-swiss-digital-identity-public-beta-asp-net-core-and-net-aspire/))
@@ -20,7 +20,7 @@ description: DotNet Updates
 - Video: Visual Toolbox: Git in Visual Studio ([3 days ago](https://dotnetkicks.com/r/726471?url=https://jesseliberty.com/2025/08/01/video-visual-toolbox-git-in-visual-studio/))
 - Metadata Tracking Improvements in Marten ([4 days ago](https://dotnetkicks.com/r/726440?url=https://jeremydmiller.com/2025/07/27/metadata-tracking-improvements-in-marten/))
 - Phi Silica task specialization using LoRA in Microsoft Learning Zone: A technical deep dive ([4 days ago](https://dotnetkicks.com/r/726432?url=https://blogs.windows.com/windowsdeveloper/2025/07/31/phi-silica-task-specialization-using-lora-in-microsoft-learning-zone-a-technical-deep-dive/))
-- Smarter AI Edits in Visual Studio Copilot - Visual Studio Blog ([4 days ago](https://dotnetkicks.com/r/726416?url=https://devblogs.microsoft.com/visualstudio/smarter-ai-edits-in-visual-studio-copilot/))
+- Smarter AI Edits in Visual Studio Copilot - Visual Studio Blog ([5 days ago](https://dotnetkicks.com/r/726416?url=https://devblogs.microsoft.com/visualstudio/smarter-ai-edits-in-visual-studio-copilot/))
 - Building a Full-Stack App with React and Aspire: A Step-by-Step Guide - .NET Blog ([5 days ago](https://dotnetkicks.com/r/726391?url=https://devblogs.microsoft.com/dotnet/new-aspire-app-with-react/))
 - Building a Full-Stack App with React and Aspire: A Step-by-Step Guide - .NET Blog ([5 days ago](https://dotnetkicks.com/r/726383?url=https://devblogs.microsoft.com/dotnet/new-aspire-app-with-react/))
 - Building a Full-Stack App with React and Aspire: A Step-by-Step Guide ([5 days ago](https://devblogs.microsoft.com/dotnet/new-aspire-app-with-react/))
@@ -30,8 +30,8 @@ description: DotNet Updates
 - Running one-off .NET tools with dnx: Exploring the .NET 10 preview - Part 5 ([7 days ago](https://dotnetkicks.com/r/726243?url=https://andrewlock.net/exploring-dotnet-10-preview-features-5-running-one-off-dotnet-tools-with-dnx/))
 - Running one-off .NET tools with dnx: Exploring the .NET 10 preview - Part 5 ([7 days ago](https://andrewlock.net/exploring-dotnet-10-preview-features-5-running-one-off-dotnet-tools-with-dnx/))
 - Breaking Changes in .NET 10: A Migration Guide from .NET 8 ([7 days ago](https://dotnetkicks.com/r/726040?url=https://www.mobilize.net/blog/dotnet8-to-dotnet10-migration-guide?utm_source=DNK-726040&utm_medium=DNK-726040&utm_content=DNK-726040&utm_campaign=DNK-726040))
-- F# Weekly #30, 2025 - Quipu &amp; Perla ([7 days ago](https://dotnetkicks.com/r/726136?url=https://sergeytihon.com/2025/07/27/f-weekly-30-2025-quipu-perla/))
-- F# Weekly #30, 2025 - Quipu &amp; Perla ([7 days ago](https://dotnetkicks.com/r/726122?url=https://sergeytihon.com/2025/07/27/f-weekly-30-2025-quipu-perla/))
+- F# Weekly #30, 2025 - Quipu &amp; Perla ([8 days ago](https://dotnetkicks.com/r/726136?url=https://sergeytihon.com/2025/07/27/f-weekly-30-2025-quipu-perla/))
+- F# Weekly #30, 2025 - Quipu &amp; Perla ([8 days ago](https://dotnetkicks.com/r/726122?url=https://sergeytihon.com/2025/07/27/f-weekly-30-2025-quipu-perla/))
 - Boost Your .NET Projects: Enhance Drive Management with DriveHelper in Spargine ([9 days ago](https://dotnettips.wordpress.com/2025/07/27/boost-your-net-projects-enhance-drive-management-with-spargine/))
 - Database Migration Strategies ([10 days ago](https://dotnetkicks.com/r/725997?url=https://codeopinion.com/database-migration-strategies/))
 - Upcoming Changes to JetBrains .NET Tools ([10 days ago](https://blog.jetbrains.com/dotnet/2025/07/25/upcoming-changes-to-dotnet-tools/))
