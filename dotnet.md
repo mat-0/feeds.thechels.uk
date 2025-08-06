@@ -8,15 +8,15 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Introducing MCP Support in AI Shell Preview 6 - PowerShell Team ([13 hours ago](https://dotnetkicks.com/r/726864?url=https://devblogs.microsoft.com/powershell/preview-6-ai-shell/))
+- Introducing MCP Support in AI Shell Preview 6 - PowerShell Team ([14 hours ago](https://dotnetkicks.com/r/726864?url=https://devblogs.microsoft.com/powershell/preview-6-ai-shell/))
 - .NET and .NET Framework August 2025 servicing releases updates - .NET Blog ([14 hours ago](https://dotnetkicks.com/r/726862?url=https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-august-2025-servicing-updates/))
 - .NET and .NET Framework August 2025 servicing releases updates - .NET Blog ([14 hours ago](https://dotnetkicks.com/r/726844?url=https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-august-2025-servicing-updates/))
 - .NET and .NET Framework August 2025 servicing releases updates ([14 hours ago](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-august-2025-servicing-updates/))
 - Exploring new Agent Quality and NLP evaluators for .NET AI applications - .NET Blog ([20 hours ago](https://dotnetkicks.com/r/726818?url=https://devblogs.microsoft.com/dotnet/exploring-agent-quality-and-nlp-evaluators/))
 - Exploring new Agent Quality and NLP evaluators for .NET AI applications - .NET Blog ([20 hours ago](https://dotnetkicks.com/r/726814?url=https://devblogs.microsoft.com/dotnet/exploring-agent-quality-and-nlp-evaluators/))
 - Exploring new Agent Quality and NLP evaluators for .NET AI applications ([20 hours ago](https://devblogs.microsoft.com/dotnet/exploring-agent-quality-and-nlp-evaluators/))
-- Visual Studio 2015 Retirement: Support reminder for older versions of Visual Studio - Visual Studio Blog ([20 hours ago](https://dotnetkicks.com/r/726809?url=https://devblogs.microsoft.com/visualstudio/visual-studio-2015-retirement-support-reminder-for-older-versions-of-visual-studio/))
-- Visual Studio 2015 Retirement: Support reminder for older versions of Visual Studio - Visual Studio Blog ([20 hours ago](https://dotnetkicks.com/r/726798?url=https://devblogs.microsoft.com/visualstudio/visual-studio-2015-retirement-support-reminder-for-older-versions-of-visual-studio/))
+- Visual Studio 2015 Retirement: Support reminder for older versions of Visual Studio - Visual Studio Blog ([21 hours ago](https://dotnetkicks.com/r/726809?url=https://devblogs.microsoft.com/visualstudio/visual-studio-2015-retirement-support-reminder-for-older-versions-of-visual-studio/))
+- Visual Studio 2015 Retirement: Support reminder for older versions of Visual Studio - Visual Studio Blog ([21 hours ago](https://dotnetkicks.com/r/726798?url=https://devblogs.microsoft.com/visualstudio/visual-studio-2015-retirement-support-reminder-for-older-versions-of-visual-studio/))
 - .NET Conf 2025 - Announcing the Call for Content - .NET Blog ([21 hours ago](https://dotnetkicks.com/r/726779?url=https://devblogs.microsoft.com/dotnet/dotnet-conf-2025-announcing-the-call-for-content/))
 - .NET Conf 2025 – Announcing the Call for Content ([21 hours ago](https://devblogs.microsoft.com/dotnet/dotnet-conf-2025-announcing-the-call-for-content/))
 - Jeff Fritz on .NET Aspire and CoPilot Agents ([22 hours ago](https://dotnetkicks.com/r/726734?url=https://jesseliberty.com/2025/08/05/jeff-fritz-on-net-aspire-and-copilot-agents/))
