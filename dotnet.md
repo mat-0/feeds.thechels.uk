@@ -9,9 +9,9 @@ description: DotNet Updates
 
 <!-- news_marker starts -->
 - Use EdDSA signatures to validate tokens in ASP.NET Core using OpenID Connect ([7 hours ago](https://dotnetkicks.com/r/726972?url=https://damienbod.com/2025/08/06/use-eddsa-signatures-to-validate-tokens-in-asp-net-core-using-openid-connect/))
-- 5 Copilot Chat Prompts .NET Devs Should Steal Today - .NET Blog ([18 hours ago](https://dotnetkicks.com/r/726939?url=https://devblogs.microsoft.com/dotnet/5-copilot-chat-prompts-dotnet-devs-should-steal-today/))
-- 5 Copilot Chat Prompts .NET Devs Should Steal Today - .NET Blog ([18 hours ago](https://dotnetkicks.com/r/726936?url=https://devblogs.microsoft.com/dotnet/5-copilot-chat-prompts-dotnet-devs-should-steal-today/))
-- 5 Copilot Chat Prompts .NET Devs Should Steal Today ([18 hours ago](https://devblogs.microsoft.com/dotnet/5-copilot-chat-prompts-dotnet-devs-should-steal-today/))
+- 5 Copilot Chat Prompts .NET Devs Should Steal Today - .NET Blog ([19 hours ago](https://dotnetkicks.com/r/726939?url=https://devblogs.microsoft.com/dotnet/5-copilot-chat-prompts-dotnet-devs-should-steal-today/))
+- 5 Copilot Chat Prompts .NET Devs Should Steal Today - .NET Blog ([19 hours ago](https://dotnetkicks.com/r/726936?url=https://devblogs.microsoft.com/dotnet/5-copilot-chat-prompts-dotnet-devs-should-steal-today/))
+- 5 Copilot Chat Prompts .NET Devs Should Steal Today ([19 hours ago](https://devblogs.microsoft.com/dotnet/5-copilot-chat-prompts-dotnet-devs-should-steal-today/))
 - Introducing MCP Support in AI Shell Preview 6 - PowerShell Team ([1 days ago](https://dotnetkicks.com/r/726864?url=https://devblogs.microsoft.com/powershell/preview-6-ai-shell/))
 - .NET and .NET Framework August 2025 servicing releases updates - .NET Blog ([1 days ago](https://dotnetkicks.com/r/726862?url=https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-august-2025-servicing-updates/))
 - .NET and .NET Framework August 2025 servicing releases updates - .NET Blog ([1 days ago](https://dotnetkicks.com/r/726844?url=https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-august-2025-servicing-updates/))
