@@ -9,7 +9,7 @@ description: DotNet Updates
 
 <!-- news_marker starts -->
 - Coding Faster with dotNetTips.com Spargine 8: August 2025 Release ([8 hours ago](https://dotnettips.wordpress.com/2025/08/08/coding-faster-with-dotnettips-com-spargine-8-august-2025-release/))
-- Loosely Coupled Monolith - Software Architecture - 2025 Edition ([20 hours ago](https://dotnetkicks.com/r/727008?url=https://codeopinion.com/loosely-coupled-monolith-software-architecture-2025-edition/))
+- Loosely Coupled Monolith - Software Architecture - 2025 Edition ([21 hours ago](https://dotnetkicks.com/r/727008?url=https://codeopinion.com/loosely-coupled-monolith-software-architecture-2025-edition/))
 - Use EdDSA signatures to validate tokens in ASP.NET Core using OpenID Connect ([1 days ago](https://dotnetkicks.com/r/726972?url=https://damienbod.com/2025/08/06/use-eddsa-signatures-to-validate-tokens-in-asp-net-core-using-openid-connect/))
 - 5 Copilot Chat Prompts .NET Devs Should Steal Today - .NET Blog ([1 days ago](https://dotnetkicks.com/r/726939?url=https://devblogs.microsoft.com/dotnet/5-copilot-chat-prompts-dotnet-devs-should-steal-today/))
 - 5 Copilot Chat Prompts .NET Devs Should Steal Today - .NET Blog ([1 days ago](https://dotnetkicks.com/r/726936?url=https://devblogs.microsoft.com/dotnet/5-copilot-chat-prompts-dotnet-devs-should-steal-today/))
@@ -58,7 +58,7 @@ description: DotNet Updates
 - Building Your First MCP Server with .NET and Publishing to NuGet ([23 days ago](https://devblogs.microsoft.com/dotnet/mcp-server-dotnet-nuget-quickstart/))
 - dotInsights  -  July 2025 ([24 days ago](https://blog.jetbrains.com/dotnet/2025/07/15/dotinsights-july-2025/))
 - C# 14 extension members; AKA extension everything: Exploring the .NET 10 preview - Part 3 ([24 days ago](https://andrewlock.net/exploring-dotnet-10-preview-features-3-csharp-14-extensions-members/))
-- JetBrains .NET Days Online 2025 — Call for Speakers ([24 days ago](https://blog.jetbrains.com/dotnet/2025/07/14/jetbrains-net-days-online-2025-call-for-speakers/))
+- JetBrains .NET Days Online 2025 — Call for Speakers ([25 days ago](https://blog.jetbrains.com/dotnet/2025/07/14/jetbrains-net-days-online-2025-call-for-speakers/))
 - Boost Your .NET Projects: Add Thread-Safety with ConcurrentHashSet from Spargine ([26 days ago](https://dotnettips.wordpress.com/2025/07/13/boost-your-net-projects-add-thread-safety-with-concurrenthashset-from-spargine/))
 - dotNetDave Rocks ØREDEV DEVELOPERS CONFERENCE 2025 ([28 days ago](https://dotnettips.wordpress.com/2025/07/11/dotnetdave-rocks-oredev-developers-conference-2025/))
 
