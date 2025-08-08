@@ -42,7 +42,7 @@ description: DotNet Updates
 - Building a Full-Stack App with React and Aspire: A Step-by-Step Guide - .NET Blog ([9 days ago](https://dotnetkicks.com/r/726391?url=https://devblogs.microsoft.com/dotnet/new-aspire-app-with-react/))
 - Building a Full-Stack App with React and Aspire: A Step-by-Step Guide - .NET Blog ([9 days ago](https://dotnetkicks.com/r/726383?url=https://devblogs.microsoft.com/dotnet/new-aspire-app-with-react/))
 - Building a Full-Stack App with React and Aspire: A Step-by-Step Guide ([9 days ago](https://devblogs.microsoft.com/dotnet/new-aspire-app-with-react/))
-- Aspire 9.4 is here with a CLI and interactive dashboard features - .NET Blog ([9 days ago](https://dotnetkicks.com/r/726313?url=https://devblogs.microsoft.com/dotnet/announcing-aspire-9-4/))
+- Aspire 9.4 is here with a CLI and interactive dashboard features - .NET Blog ([10 days ago](https://dotnetkicks.com/r/726313?url=https://devblogs.microsoft.com/dotnet/announcing-aspire-9-4/))
 - Aspire 9.4 is here with a CLI and interactive dashboard features ([10 days ago](https://devblogs.microsoft.com/dotnet/announcing-aspire-9-4/))
 - Running one-off .NET tools with dnx: Exploring the .NET 10 preview - Part 5 ([10 days ago](https://andrewlock.net/exploring-dotnet-10-preview-features-5-running-one-off-dotnet-tools-with-dnx/))
 - Boost Your .NET Projects: Enhance Drive Management with DriveHelper in Spargine ([12 days ago](https://dotnettips.wordpress.com/2025/07/27/boost-your-net-projects-enhance-drive-management-with-spargine/))
