@@ -8,8 +8,8 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Coding Faster with dotNetTips.com Spargine 8: August 2025 Release ([6 hours ago](https://dotnettips.wordpress.com/2025/08/08/coding-faster-with-dotnettips-com-spargine-8-august-2025-release/))
-- Loosely Coupled Monolith - Software Architecture - 2025 Edition ([19 hours ago](https://dotnetkicks.com/r/727008?url=https://codeopinion.com/loosely-coupled-monolith-software-architecture-2025-edition/))
+- Coding Faster with dotNetTips.com Spargine 8: August 2025 Release ([7 hours ago](https://dotnettips.wordpress.com/2025/08/08/coding-faster-with-dotnettips-com-spargine-8-august-2025-release/))
+- Loosely Coupled Monolith - Software Architecture - 2025 Edition ([20 hours ago](https://dotnetkicks.com/r/727008?url=https://codeopinion.com/loosely-coupled-monolith-software-architecture-2025-edition/))
 - Use EdDSA signatures to validate tokens in ASP.NET Core using OpenID Connect ([1 days ago](https://dotnetkicks.com/r/726972?url=https://damienbod.com/2025/08/06/use-eddsa-signatures-to-validate-tokens-in-asp-net-core-using-openid-connect/))
 - 5 Copilot Chat Prompts .NET Devs Should Steal Today - .NET Blog ([1 days ago](https://dotnetkicks.com/r/726939?url=https://devblogs.microsoft.com/dotnet/5-copilot-chat-prompts-dotnet-devs-should-steal-today/))
 - 5 Copilot Chat Prompts .NET Devs Should Steal Today - .NET Blog ([1 days ago](https://dotnetkicks.com/r/726936?url=https://devblogs.microsoft.com/dotnet/5-copilot-chat-prompts-dotnet-devs-should-steal-today/))
@@ -46,9 +46,9 @@ description: DotNet Updates
 - Aspire 9.4 is here with a CLI and interactive dashboard features ([9 days ago](https://devblogs.microsoft.com/dotnet/announcing-aspire-9-4/))
 - Running one-off .NET tools with dnx: Exploring the .NET 10 preview - Part 5 ([10 days ago](https://andrewlock.net/exploring-dotnet-10-preview-features-5-running-one-off-dotnet-tools-with-dnx/))
 - Boost Your .NET Projects: Enhance Drive Management with DriveHelper in Spargine ([12 days ago](https://dotnettips.wordpress.com/2025/07/27/boost-your-net-projects-enhance-drive-management-with-spargine/))
-- Upcoming Changes to JetBrains .NET Tools ([13 days ago](https://blog.jetbrains.com/dotnet/2025/07/25/upcoming-changes-to-dotnet-tools/))
-- The ReSharper and .NET Tools 2025.2 Release Candidates Are Now Available ([14 days ago](https://blog.jetbrains.com/dotnet/2025/07/24/resharper-dot-net-tools-2025-2-release-candidate/))
-- The Rider 2025.2 Release Candidate Is Here! ([14 days ago](https://blog.jetbrains.com/dotnet/2025/07/24/the-rider-2025-2-release-candidate/))
+- Upcoming Changes to JetBrains .NET Tools ([14 days ago](https://blog.jetbrains.com/dotnet/2025/07/25/upcoming-changes-to-dotnet-tools/))
+- The ReSharper and .NET Tools 2025.2 Release Candidates Are Now Available ([15 days ago](https://blog.jetbrains.com/dotnet/2025/07/24/resharper-dot-net-tools-2025-2-release-candidate/))
+- The Rider 2025.2 Release Candidate Is Here! ([15 days ago](https://blog.jetbrains.com/dotnet/2025/07/24/the-rider-2025-2-release-candidate/))
 - MCP C# SDK Gets Major Update: Support for Protocol Version 2025-06-18 ([16 days ago](https://devblogs.microsoft.com/dotnet/mcp-csharp-sdk-2025-06-18-update/))
 - Solving the source generator 'marker attribute' problem in .NET 10: Exploring the .NET 10 preview - Part 4 ([17 days ago](https://andrewlock.net/exploring-dotnet-10-preview-features-4-solving-the-source-generator-marker-attribute-problem-in-dotnet-10/))
 - Ask Mode vs Agent Mode – Choosing the Right Copilot Experience for .NET ([17 days ago](https://devblogs.microsoft.com/dotnet/ask-mode-vs-agent-mode/))
