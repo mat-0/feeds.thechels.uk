@@ -9,7 +9,7 @@ description: DotNet Updates
 
 <!-- news_marker starts -->
 - Coding Faster with dotNetTips.com Spargine 8: August 2025 Release ([9 hours ago](https://dotnettips.wordpress.com/2025/08/08/coding-faster-with-dotnettips-com-spargine-8-august-2025-release/))
-- Loosely Coupled Monolith - Software Architecture - 2025 Edition ([21 hours ago](https://dotnetkicks.com/r/727008?url=https://codeopinion.com/loosely-coupled-monolith-software-architecture-2025-edition/))
+- Loosely Coupled Monolith - Software Architecture - 2025 Edition ([22 hours ago](https://dotnetkicks.com/r/727008?url=https://codeopinion.com/loosely-coupled-monolith-software-architecture-2025-edition/))
 - Use EdDSA signatures to validate tokens in ASP.NET Core using OpenID Connect ([1 days ago](https://dotnetkicks.com/r/726972?url=https://damienbod.com/2025/08/06/use-eddsa-signatures-to-validate-tokens-in-asp-net-core-using-openid-connect/))
 - 5 Copilot Chat Prompts .NET Devs Should Steal Today - .NET Blog ([1 days ago](https://dotnetkicks.com/r/726939?url=https://devblogs.microsoft.com/dotnet/5-copilot-chat-prompts-dotnet-devs-should-steal-today/))
 - 5 Copilot Chat Prompts .NET Devs Should Steal Today - .NET Blog ([1 days ago](https://dotnetkicks.com/r/726936?url=https://devblogs.microsoft.com/dotnet/5-copilot-chat-prompts-dotnet-devs-should-steal-today/))
@@ -34,8 +34,8 @@ description: DotNet Updates
 - The new Dependabot NuGet updater: 65% faster with native .NET ([4 days ago](https://devblogs.microsoft.com/dotnet/the-new-dependabot-nuget-updater/))
 - F# Weekly #31, 2025 - Aspire 9.4 ([5 days ago](https://dotnetkicks.com/r/726523?url=https://sergeytihon.com/2025/08/02/f-weekly-31-2025-aspire-9-4/))
 - The Untapped Power of Veteran Engineers: Why Companies Are Overlooking Their Most Valuable Assets – Part 3 ([5 days ago](https://dotnettips.wordpress.com/2025/08/03/the-untapped-power-of-veteran-engineers-why-companies-are-overlooking-their-most-valuable-assets-part-3/))
-- Video: Visual Toolbox: Git in Visual Studio ([6 days ago](https://dotnetkicks.com/r/726482?url=https://jesseliberty.com/2025/08/01/video-visual-toolbox-git-in-visual-studio/))
-- Video: Visual Toolbox: Git in Visual Studio ([6 days ago](https://dotnetkicks.com/r/726471?url=https://jesseliberty.com/2025/08/01/video-visual-toolbox-git-in-visual-studio/))
+- Video: Visual Toolbox: Git in Visual Studio ([7 days ago](https://dotnetkicks.com/r/726482?url=https://jesseliberty.com/2025/08/01/video-visual-toolbox-git-in-visual-studio/))
+- Video: Visual Toolbox: Git in Visual Studio ([7 days ago](https://dotnetkicks.com/r/726471?url=https://jesseliberty.com/2025/08/01/video-visual-toolbox-git-in-visual-studio/))
 - Metadata Tracking Improvements in Marten ([7 days ago](https://dotnetkicks.com/r/726440?url=https://jeremydmiller.com/2025/07/27/metadata-tracking-improvements-in-marten/))
 - Phi Silica task specialization using LoRA in Microsoft Learning Zone: A technical deep dive ([7 days ago](https://dotnetkicks.com/r/726432?url=https://blogs.windows.com/windowsdeveloper/2025/07/31/phi-silica-task-specialization-using-lora-in-microsoft-learning-zone-a-technical-deep-dive/))
 - Smarter AI Edits in Visual Studio Copilot - Visual Studio Blog ([8 days ago](https://dotnetkicks.com/r/726416?url=https://devblogs.microsoft.com/visualstudio/smarter-ai-edits-in-visual-studio-copilot/))
