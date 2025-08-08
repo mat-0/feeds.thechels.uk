@@ -8,8 +8,8 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Coding Faster with dotNetTips.com Spargine 8: August 2025 Release ([2 hours ago](https://dotnettips.wordpress.com/2025/08/08/coding-faster-with-dotnettips-com-spargine-8-august-2025-release/))
-- Loosely Coupled Monolith - Software Architecture - 2025 Edition ([15 hours ago](https://dotnetkicks.com/r/727008?url=https://codeopinion.com/loosely-coupled-monolith-software-architecture-2025-edition/))
+- Coding Faster with dotNetTips.com Spargine 8: August 2025 Release ([3 hours ago](https://dotnettips.wordpress.com/2025/08/08/coding-faster-with-dotnettips-com-spargine-8-august-2025-release/))
+- Loosely Coupled Monolith - Software Architecture - 2025 Edition ([16 hours ago](https://dotnetkicks.com/r/727008?url=https://codeopinion.com/loosely-coupled-monolith-software-architecture-2025-edition/))
 - Use EdDSA signatures to validate tokens in ASP.NET Core using OpenID Connect ([1 days ago](https://dotnetkicks.com/r/726972?url=https://damienbod.com/2025/08/06/use-eddsa-signatures-to-validate-tokens-in-asp-net-core-using-openid-connect/))
 - 5 Copilot Chat Prompts .NET Devs Should Steal Today - .NET Blog ([1 days ago](https://dotnetkicks.com/r/726939?url=https://devblogs.microsoft.com/dotnet/5-copilot-chat-prompts-dotnet-devs-should-steal-today/))
 - 5 Copilot Chat Prompts .NET Devs Should Steal Today - .NET Blog ([1 days ago](https://dotnetkicks.com/r/726936?url=https://devblogs.microsoft.com/dotnet/5-copilot-chat-prompts-dotnet-devs-should-steal-today/))
