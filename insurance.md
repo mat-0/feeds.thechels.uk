@@ -9,10 +9,10 @@ description: Insurance Updates
 
 <!-- news_marker starts -->
 - 3 Ways for Insurers to Spread Catastrophe Risk Literacy to Homeowners, Minimal Lift Required ([18 hours ago](https://www.insurancejournal.com/blogs/cotality/2025/08/08/834825.htm))
-- Life Insurance Companies are Facing a “Climate Paradox” – How Do They Solve It? ([19 hours ago](https://insurance-edge.net/2025/08/08/life-insurance-companies-are-facing-a-climate-paradox-how-do-they-solve-it/))
-- CEO on QBE's financials and how broker relationships are driving strong results ([22 hours ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/ceo-on-qbes-financials-and-how-broker-relationships-are-driving-strong-results-545610.aspx))
+- Life Insurance Companies are Facing a “Climate Paradox” – How Do They Solve It? ([20 hours ago](https://insurance-edge.net/2025/08/08/life-insurance-companies-are-facing-a-climate-paradox-how-do-they-solve-it/))
+- CEO on QBE's financials and how broker relationships are driving strong results ([23 hours ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/ceo-on-qbes-financials-and-how-broker-relationships-are-driving-strong-results-545610.aspx))
 - Allianz Group Post Latest Results: £3.6bn Revenues From UK Operations ([23 hours ago](https://insurance-edge.net/2025/08/08/allianz-group-post-latest-results-3-6bn-revenues-from-uk-operations/))
-- Iowa AG Secures Pair of Environment Case Settlements ([23 hours ago](https://www.insurancejournal.com/news/midwest/2025/08/08/835081.htm))
+- Iowa AG Secures Pair of Environment Case Settlements ([1 days ago](https://www.insurancejournal.com/news/midwest/2025/08/08/835081.htm))
 - American Coastal’s net income grew 39% and CoR improved in Q2’25 ([1 days ago](https://www.reinsurancene.ws/american-coastals-net-income-grew-39-and-cor-improved-in-q225/))
 - FOS complaints drop, but insurance still in the spotlight ([1 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/fos-complaints-drop-but-insurance-still-in-the-spotlight-545600.aspx))
 - Second California Wildfire Prompts Evacuations, Threatens Thousands of Structures ([1 days ago](https://www.insurancejournal.com/news/west/2025/08/08/835082.htm))
@@ -99,7 +99,7 @@ description: Insurance Updates
 - Q&A: James Burns, CFC ([2 days ago](https://www.postonline.co.uk/technology/7957874/qa-james-burns-cfc))
 - New CEO leading Allianz Trade Americas AI plans ([2 days ago](https://www.dig-in.com/news/new-ceo-leading-allianz-trade-americas-ai-plans))
 - Human connection trumps AI in financial planning, Northwestern Mutual ([2 days ago](https://www.dig-in.com/news/americans-prefer-human-financial-advisors-over-ai))
-- Aon Launches Accelerate Programme to Support High-Growth UK Tech Startups with Risk Management ([2 days ago](https://www.insurtechinsights.com/aon-launches-accelerate-programme-to-support-high-growth-uk-tech-startups-with-risk-management/))
+- Aon Launches Accelerate Programme to Support High-Growth UK Tech Startups with Risk Management ([3 days ago](https://www.insurtechinsights.com/aon-launches-accelerate-programme-to-support-high-growth-uk-tech-startups-with-risk-management/))
 - WTW and Klarity Partner to Enhance Underwriting Accuracy Using Wearable Health Tech ([3 days ago](https://www.insurtechinsights.com/wtw-and-klarity-partner-to-enhance-underwriting-accuracy-using-wearable-health-tech/))
 - Researchers are resurrecting billion-dollar disaster tool Trump killed ([3 days ago](https://www.dig-in.com/articles/researchers-are-resurrecting-billion-dollar-disaster-tool-trump-killed))
 - VYRD Selects ZestyAI to Bring AI-Powered Risk Analytics to Florida Homeowners Portfolio ([3 days ago](https://www.insurtechinsights.com/vyrd-selects-zestyai-to-bring-ai-powered-risk-analytics-to-florida-homeowners-portfolio/))
