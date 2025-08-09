@@ -8,7 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- 3 Ways for Insurers to Spread Catastrophe Risk Literacy to Homeowners, Minimal Lift Required ([20 hours ago](https://www.insurancejournal.com/blogs/cotality/2025/08/08/834825.htm))
+- 3 Ways for Insurers to Spread Catastrophe Risk Literacy to Homeowners, Minimal Lift Required ([21 hours ago](https://www.insurancejournal.com/blogs/cotality/2025/08/08/834825.htm))
 - Life Insurance Companies are Facing a “Climate Paradox” – How Do They Solve It? ([22 hours ago](https://insurance-edge.net/2025/08/08/life-insurance-companies-are-facing-a-climate-paradox-how-do-they-solve-it/))
 - CEO on QBE's financials and how broker relationships are driving strong results ([1 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/ceo-on-qbes-financials-and-how-broker-relationships-are-driving-strong-results-545610.aspx))
 - Allianz Group Post Latest Results: £3.6bn Revenues From UK Operations ([1 days ago](https://insurance-edge.net/2025/08/08/allianz-group-post-latest-results-3-6bn-revenues-from-uk-operations/))
