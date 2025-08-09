@@ -9,12 +9,12 @@ description: SecOps News
 
 <!-- news_marker starts -->
 - Google confirms data breach exposed potential Google Ads customers' info ([2 hours ago](https://www.bleepingcomputer.com/news/security/google-confirms-data-breach-exposed-potential-google-ads-customers-info/))
-- Linux-Based Lenovo Webcams’ Flaw Can Be Remotely Exploited for BadUSB Attacks ([2 hours ago](https://thehackernews.com/2025/08/linux-based-lenovo-webcams-flaw-can-be.html))
-- Scattered Spider has a new Telegram channel to list its attacks ([4 hours ago](https://databreaches.net/2025/08/09/scattered-spider-has-a-new-telegram-channel-to-list-its-attacks/?pk_campaign=feed&pk_kwd=scattered-spider-has-a-new-telegram-channel-to-list-its-attacks))
-- Researchers Uncover GPT-5 Jailbreak and Zero-Click AI Agent Attacks Exposing Cloud and IoT Systems ([6 hours ago](https://thehackernews.com/2025/08/researchers-uncover-gpt-5-jailbreak-and.html))
-- 60 malicious Ruby gems downloaded 275,000 times steal credentials ([7 hours ago](https://www.bleepingcomputer.com/news/security/60-malicious-ruby-gems-downloaded-275-000-times-steal-credentials/))
-- The dead need right to delete their data so they can't be AI-ified, lawyer says ([9 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/08/09/dead_need_ai_data_delete_right/))
-- Free Wi-Fi Leaves Buses Vulnerable to Remote Hacking ([10 hours ago](https://www.securityweek.com/free-wi-fi-leaves-buses-vulnerable-to-remote-hacking/))
+- Linux-Based Lenovo Webcams’ Flaw Can Be Remotely Exploited for BadUSB Attacks ([3 hours ago](https://thehackernews.com/2025/08/linux-based-lenovo-webcams-flaw-can-be.html))
+- Scattered Spider has a new Telegram channel to list its attacks ([5 hours ago](https://databreaches.net/2025/08/09/scattered-spider-has-a-new-telegram-channel-to-list-its-attacks/?pk_campaign=feed&pk_kwd=scattered-spider-has-a-new-telegram-channel-to-list-its-attacks))
+- Researchers Uncover GPT-5 Jailbreak and Zero-Click AI Agent Attacks Exposing Cloud and IoT Systems ([7 hours ago](https://thehackernews.com/2025/08/researchers-uncover-gpt-5-jailbreak-and.html))
+- 60 malicious Ruby gems downloaded 275,000 times steal credentials ([8 hours ago](https://www.bleepingcomputer.com/news/security/60-malicious-ruby-gems-downloaded-275-000-times-steal-credentials/))
+- The dead need right to delete their data so they can't be AI-ified, lawyer says ([10 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/08/09/dead_need_ai_data_delete_right/))
+- Free Wi-Fi Leaves Buses Vulnerable to Remote Hacking ([11 hours ago](https://www.securityweek.com/free-wi-fi-leaves-buses-vulnerable-to-remote-hacking/))
 - The International Obfuscated C Code Contest is back for 2024 ([12 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/08/09/ioccc_2024/))
 - CyberArk and HashiCorp Flaws Enable Remote Vault Takeover Without Credentials ([16 hours ago](https://thehackernews.com/2025/08/cyberark-and-hashicorp-flaws-enable.html))
 - KrebsOnSecurity in New ‘Most Wanted’ HBO Max Series ([1 days ago](https://krebsonsecurity.com/2025/08/krebsonsecurity-in-new-most-wanted-hbo-max-series/))
