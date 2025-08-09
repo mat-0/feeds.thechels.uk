@@ -8,7 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- 3 Ways for Insurers to Spread Catastrophe Risk Literacy to Homeowners, Minimal Lift Required ([22 hours ago](https://www.insurancejournal.com/blogs/cotality/2025/08/08/834825.htm))
+- 3 Ways for Insurers to Spread Catastrophe Risk Literacy to Homeowners, Minimal Lift Required ([23 hours ago](https://www.insurancejournal.com/blogs/cotality/2025/08/08/834825.htm))
 - Life Insurance Companies are Facing a “Climate Paradox” – How Do They Solve It? ([1 days ago](https://insurance-edge.net/2025/08/08/life-insurance-companies-are-facing-a-climate-paradox-how-do-they-solve-it/))
 - CEO on QBE's financials and how broker relationships are driving strong results ([1 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/ceo-on-qbes-financials-and-how-broker-relationships-are-driving-strong-results-545610.aspx))
 - Allianz Group Post Latest Results: £3.6bn Revenues From UK Operations ([1 days ago](https://insurance-edge.net/2025/08/08/allianz-group-post-latest-results-3-6bn-revenues-from-uk-operations/))
@@ -123,7 +123,7 @@ description: Insurance Updates
 - Howden develops transition plan using UN guidance ([4 days ago](https://www.postonline.co.uk/broker/7958296/howden-develops-transition-plan-using-un-guidance))
 - Biba's Trudgill spots wins in government’s growth strategy ([4 days ago](https://www.postonline.co.uk/regulation/7958302/bibas-trudgill-spots-wins-in-government%E2%80%99s-growth-strategy))
 - 60 Seconds With… Graham Gordon of Sapiens ([4 days ago](https://www.postonline.co.uk/people/7957970/60-seconds-with%E2%80%A6-graham-gordon-of-sapiens))
-- CSAA names EVP and CIO ([4 days ago](https://www.dig-in.com/news/csaa-names-evp-and-cio))
+- CSAA names EVP and CIO ([5 days ago](https://www.dig-in.com/news/csaa-names-evp-and-cio))
 - BPL CEO steps down after 10 years ([5 days ago](https://www.postonline.co.uk/broker/7958312/bpl-ceo-steps-down-after-10-years))
 - 'Sting could still be in the tail' after court motor finance ruling ([5 days ago](https://www.postonline.co.uk/news/7958304/sting-could-still-be-in-the-tail-after-court-motor-finance-ruling))
 - NI&P Podcast #15: Heroes in the middle – How advisers are powering better protection advice, with L&G’s Mike Pritchard ([5 days ago](https://ifamagazine.com/nip-podcast-15-heroes-in-the-middle-how-advisers-are-powering-better-protection-advice-with-lgs-mike-pritchard/))
