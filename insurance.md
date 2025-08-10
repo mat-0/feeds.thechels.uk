@@ -20,7 +20,7 @@ description: Insurance Updates
 - Minnesota Cities Consider Government-Run Marijuana Shops ([1 days ago](https://www.insurancejournal.com/news/midwest/2025/08/08/835077.htm))
 - Tesla Secures Texas Rideshare Permit for Robotaxi Operation ([1 days ago](https://www.insurancejournal.com/news/southcentral/2025/08/08/835072.htm))
 - Why Experts Say States Need to Get in the Business of Floodplain Buyouts ([1 days ago](https://www.insurancejournal.com/news/southcentral/2025/08/08/835067.htm))
-- HCI Group posts strong Q2’25 results with 15% premium growth ([1 days ago](https://www.reinsurancene.ws/hci-group-posts-strong-q225-results-with-15-premium-growth/))
+- HCI Group posts strong Q2’25 results with 15% premium growth ([2 days ago](https://www.reinsurancene.ws/hci-group-posts-strong-q225-results-with-15-premium-growth/))
 - Turner to lead Hiscox’s newly launched SML cover ([2 days ago](https://www.reinsurancene.ws/turner-to-lead-hiscoxs-newly-launched-sml-cover/))
 - Zurich Insurance Reports Record H1 Profit of $4.2B, Driven by Middle Market, Specialty ([2 days ago](https://www.insurancejournal.com/news/international/2025/08/08/835039.htm))
 - Former Ironshore, Lexington CEO Kevin Kelley Dies ([2 days ago](https://www.insurancejournal.com/news/national/2025/08/08/835052.htm))
