@@ -10,8 +10,8 @@ description: Insurance Updates
 <!-- news_marker starts -->
 - 3 Ways for Insurers to Spread Catastrophe Risk Literacy to Homeowners, Minimal Lift Required ([1 days ago](https://www.insurancejournal.com/blogs/cotality/2025/08/08/834825.htm))
 - Life Insurance Companies are Facing a “Climate Paradox” – How Do They Solve It? ([1 days ago](https://insurance-edge.net/2025/08/08/life-insurance-companies-are-facing-a-climate-paradox-how-do-they-solve-it/))
-- CEO on QBE's financials and how broker relationships are driving strong results ([1 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/ceo-on-qbes-financials-and-how-broker-relationships-are-driving-strong-results-545610.aspx))
-- Allianz Group Post Latest Results: £3.6bn Revenues From UK Operations ([1 days ago](https://insurance-edge.net/2025/08/08/allianz-group-post-latest-results-3-6bn-revenues-from-uk-operations/))
+- CEO on QBE's financials and how broker relationships are driving strong results ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/ceo-on-qbes-financials-and-how-broker-relationships-are-driving-strong-results-545610.aspx))
+- Allianz Group Post Latest Results: £3.6bn Revenues From UK Operations ([2 days ago](https://insurance-edge.net/2025/08/08/allianz-group-post-latest-results-3-6bn-revenues-from-uk-operations/))
 - Iowa AG Secures Pair of Environment Case Settlements ([2 days ago](https://www.insurancejournal.com/news/midwest/2025/08/08/835081.htm))
 - American Coastal’s net income grew 39% and CoR improved in Q2’25 ([2 days ago](https://www.reinsurancene.ws/american-coastals-net-income-grew-39-and-cor-improved-in-q225/))
 - FOS complaints drop, but insurance still in the spotlight ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/fos-complaints-drop-but-insurance-still-in-the-spotlight-545600.aspx))
