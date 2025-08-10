@@ -53,7 +53,7 @@ description: Insurance Updates
 - Tokio Marine Q1 net income soars on strong underwriting and investment gains ([1 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/tokio-marine-q1-net-income-soars-on-strong-underwriting-and-investment-gains-545506.aspx))
 - MS Amlin Q1 profit after tax climbs despite wildfire impact ([1 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/ms-amlin-q1-profit-after-tax-climbs-despite-wildfire-impact-545503.aspx))
 - Australia’s Privacy Regulator Sues Optus Over 2022 Data Breach ([1 days ago](https://www.insurancejournal.com/news/international/2025/08/08/835002.htm))
-- Aspen Insurance improves underwriting income in Q2 ([1 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/aspen-insurance-improves-underwriting-income-in-q2-545500.aspx))
+- Aspen Insurance improves underwriting income in Q2 ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/aspen-insurance-improves-underwriting-income-in-q2-545500.aspx))
 - BHP, Vale Offer $1.4B Settlement in UK Lawsuit Over Brazil Mining-Dam Disaster: FT ([2 days ago](https://www.insurancejournal.com/news/international/2025/08/08/834999.htm))
 - Fires Ravage Southern French Vineyards Ahead of Harvest Season ([2 days ago](https://www.insurancejournal.com/news/international/2025/08/08/834994.htm))
 - Calls grow to cut IPT as motor premiums surge - report ([2 days ago](https://www.insurancebusinessmag.com/uk/news/auto-motor/calls-grow-to-cut-ipt-as-motor-premiums-surge--report-545497.aspx))
