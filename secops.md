@@ -9,13 +9,13 @@ description: SecOps News
 
 <!-- news_marker starts -->
 - The inside story of the Telemessage saga, and how you can view the data ([5 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/08/10/telemessage_archive_online/))
-- Google confirms data breach exposed potential Google Ads customers' info ([10 hours ago](https://www.bleepingcomputer.com/news/security/google-confirms-data-breach-exposed-potential-google-ads-customers-info/))
-- Linux-Based Lenovo Webcams’ Flaw Can Be Remotely Exploited for BadUSB Attacks ([10 hours ago](https://thehackernews.com/2025/08/linux-based-lenovo-webcams-flaw-can-be.html))
+- Google confirms data breach exposed potential Google Ads customers' info ([11 hours ago](https://www.bleepingcomputer.com/news/security/google-confirms-data-breach-exposed-potential-google-ads-customers-info/))
+- Linux-Based Lenovo Webcams’ Flaw Can Be Remotely Exploited for BadUSB Attacks ([11 hours ago](https://thehackernews.com/2025/08/linux-based-lenovo-webcams-flaw-can-be.html))
 - Scattered Spider has a new Telegram channel to list its attacks ([13 hours ago](https://databreaches.net/2025/08/09/scattered-spider-has-a-new-telegram-channel-to-list-its-attacks/?pk_campaign=feed&pk_kwd=scattered-spider-has-a-new-telegram-channel-to-list-its-attacks))
-- Researchers Uncover GPT-5 Jailbreak and Zero-Click AI Agent Attacks Exposing Cloud and IoT Systems ([14 hours ago](https://thehackernews.com/2025/08/researchers-uncover-gpt-5-jailbreak-and.html))
-- 60 malicious Ruby gems downloaded 275,000 times steal credentials ([15 hours ago](https://www.bleepingcomputer.com/news/security/60-malicious-ruby-gems-downloaded-275-000-times-steal-credentials/))
-- The dead need right to delete their data so they can't be AI-ified, lawyer says ([17 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/08/09/dead_need_ai_data_delete_right/))
-- Free Wi-Fi Leaves Buses Vulnerable to Remote Hacking ([18 hours ago](https://www.securityweek.com/free-wi-fi-leaves-buses-vulnerable-to-remote-hacking/))
+- Researchers Uncover GPT-5 Jailbreak and Zero-Click AI Agent Attacks Exposing Cloud and IoT Systems ([15 hours ago](https://thehackernews.com/2025/08/researchers-uncover-gpt-5-jailbreak-and.html))
+- 60 malicious Ruby gems downloaded 275,000 times steal credentials ([16 hours ago](https://www.bleepingcomputer.com/news/security/60-malicious-ruby-gems-downloaded-275-000-times-steal-credentials/))
+- The dead need right to delete their data so they can't be AI-ified, lawyer says ([18 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/08/09/dead_need_ai_data_delete_right/))
+- Free Wi-Fi Leaves Buses Vulnerable to Remote Hacking ([19 hours ago](https://www.securityweek.com/free-wi-fi-leaves-buses-vulnerable-to-remote-hacking/))
 - The International Obfuscated C Code Contest is back for 2024 ([20 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/08/09/ioccc_2024/))
 - CyberArk and HashiCorp Flaws Enable Remote Vault Takeover Without Credentials ([1 days ago](https://thehackernews.com/2025/08/cyberark-and-hashicorp-flaws-enable.html))
 - KrebsOnSecurity in New ‘Most Wanted’ HBO Max Series ([1 days ago](https://krebsonsecurity.com/2025/08/krebsonsecurity-in-new-most-wanted-hbo-max-series/))
@@ -115,7 +115,7 @@ description: SecOps News
 - Hospital fined after patient data found in street food wrappers ([3 days ago](https://grahamcluley.com/hospital-fined-after-patient-data-found-in-street-food-wrappers/))
 - Trend Micro Confirms Active Exploitation of Critical Apex One Flaws in On-Premise Systems ([3 days ago](https://thehackernews.com/2025/08/trend-micro-confirms-active.html))
 - CERT-UA Warns of HTA-Delivered C# Malware Attacks Using Court Summons Lures ([3 days ago](https://thehackernews.com/2025/08/cert-ua-warns-of-hta-delivered-c.html))
-- AI Is Transforming Cybersecurity Adversarial Testing - Pentera Founder’s Vision ([3 days ago](https://thehackernews.com/2025/08/ai-is-transforming-cybersecurity.html))
+- AI Is Transforming Cybersecurity Adversarial Testing - Pentera Founder’s Vision ([4 days ago](https://thehackernews.com/2025/08/ai-is-transforming-cybersecurity.html))
 - CISA Adds 3 D-Link Vulnerabilities to KEV Catalog Amid Active Exploitation Evidence ([4 days ago](https://thehackernews.com/2025/08/cisa-adds-3-d-link-router-flaws-to-kev.html))
 - Vibe coding tool Cursor's MCP implementation allows persistent code execution ([4 days ago](https://go.theregister.com/feed/www.theregister.com/2025/08/05/mcpoison_bug_abuses_cursor_mcp/))
 - Welcoming Guardio to Have I Been Pwned's Partner Program ([4 days ago](https://www.troyhunt.com/welcoming-guardio-to-have-i-been-pwneds-partner-program/))
@@ -199,7 +199,7 @@ description: SecOps News
 - The AI Fix #59: Grok thinks it’s Mecha Hitler, and AIs can think strategically ([25 days ago](https://grahamcluley.com/the-ai-fix-59/))
 - MaReads - 74,453 breached accounts ([25 days ago](https://haveibeenpwned.com/Breach/MaReads))
 - DOGE Denizen Marko Elez Leaked API Key for xAI ([26 days ago](https://krebsonsecurity.com/2025/07/doge-denizen-marko-elez-leaked-api-key-for-xai/))
-- Omnicuris - 215,298 breached accounts ([27 days ago](https://haveibeenpwned.com/Breach/Omnicuris))
+- Omnicuris - 215,298 breached accounts ([28 days ago](https://haveibeenpwned.com/Breach/Omnicuris))
 - Weekly Update 460 ([28 days ago](https://www.troyhunt.com/weekly-update-460/))
 
 <!-- news_marker ends -->

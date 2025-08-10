@@ -59,7 +59,7 @@ description: Insurance Updates
 - Calls grow to cut IPT as motor premiums surge - report ([1 days ago](https://www.insurancebusinessmag.com/uk/news/auto-motor/calls-grow-to-cut-ipt-as-motor-premiums-surge--report-545497.aspx))
 - NFP acquires Bspoke Insurance Group ([1 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/nfp-acquires-bspoke-insurance-group-545496.aspx))
 - Insurance moves: CFC, Liberty Mutual and Munich Re ([1 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/insurance-moves-cfc-liberty-mutual-and-munich-re-545495.aspx))
-- GPS spoofing puts marine insurance cover under scrutiny ([1 days ago](https://www.insurancebusinessmag.com/uk/news/marine/gps-spoofing-puts-marine-insurance-cover-under-scrutiny-545493.aspx))
+- GPS spoofing puts marine insurance cover under scrutiny ([2 days ago](https://www.insurancebusinessmag.com/uk/news/marine/gps-spoofing-puts-marine-insurance-cover-under-scrutiny-545493.aspx))
 - Digging Into Tesla’s Liability in Crash Case: Where’s the Data? ([2 days ago](https://www.insurancejournal.com/news/national/2025/08/08/834964.htm))
 - Surplus Lines Sector Shows 13.2% Rise in Premium Mid-Year: WSIA Report ([2 days ago](https://www.insurancejournal.com/news/national/2025/08/08/834974.htm))
 - Trenton Diocese Withdraws Lawsuit Against Insurers Over Sex Abuse Coverage ([2 days ago](https://www.insurancejournal.com/news/east/2025/08/08/834988.htm))
