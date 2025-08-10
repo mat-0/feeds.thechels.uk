@@ -114,7 +114,7 @@ description: Insurance Updates
 - Tomorrow’s World: Career Development ([4 days ago](https://www.postonline.co.uk/people/7958152/tomorrow%E2%80%99s-world-career-development))
 - Insurers call for more regulation of electric vehicles ([4 days ago](https://www.postonline.co.uk/personal/7958024/insurers-call-for-more-regulation-of-electric-vehicles))
 - AI model for estimating damage gets patent ([4 days ago](https://www.dig-in.com/news/ai-model-for-estimating-damage-gets-patent))
-- Why insurance disbursements are vulnerable, how to protect them ([4 days ago](https://www.dig-in.com/opinion/insurance-disbursements-are-vulnerable-how-to-protect-them))
+- Why insurance disbursements are vulnerable, how to protect them ([5 days ago](https://www.dig-in.com/opinion/insurance-disbursements-are-vulnerable-how-to-protect-them))
 - Only 41% of employers believe employees have a good understanding of added-value benefits ([5 days ago](https://ifamagazine.com/only-41-of-employers-believe-employees-have-a-good-understanding-of-added-value-benefits/))
 - Lloyd’s appoints Hiscox veteran Flaquet as COO ([5 days ago](https://www.postonline.co.uk/lloyd%E2%80%99slondon/7958317/lloyd%E2%80%99s-appoints-hiscox-veteran-flaquet-as-coo))
 - Cuvva explores sale after ‘unsolicited’ approaches ([5 days ago](https://www.postonline.co.uk/news/7958316/cuvva-explores-sale-after-%E2%80%98unsolicited%E2%80%99-approaches))
