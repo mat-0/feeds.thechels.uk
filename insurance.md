@@ -67,7 +67,7 @@ description: Insurance Updates
 - 13 Charged in Pennsylvania With Selling Luxury Autos Stolen From Florida ([1 days ago](https://www.insurancejournal.com/news/east/2025/08/08/834983.htm))
 - Should premium finance firms be on high alert after motor finance decision? ([1 days ago](https://www.postonline.co.uk/regulation/7958311/should-premium-finance-firms-be-on-high-alert-after-motor-finance-decision))
 - Penny Black’s Social Diary: Lloyd’s volunteering; Howden’s bao bun ([1 days ago](https://www.postonline.co.uk/people/7958082/penny-black%E2%80%99s-social-diary-lloyd%E2%80%99s-volunteering-howden%E2%80%99s-bao-bun))
-- QBE has a 27% profits surge ([1 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/qbe-has-a-27-profits-surge-545459.aspx))
+- QBE has a 27% profits surge ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/qbe-has-a-27-profits-surge-545459.aspx))
 - AI in insurance: Strategies for automating claims and underwriting ([2 days ago](https://www.dig-in.com/opinion/strategies-for-automating-claims-and-underwriting-with-ai))
 - Technology's impact on customized auto insurance ([2 days ago](https://www.dig-in.com/opinion/how-telematics-will-customize-auto-insurance))
 - AI and the future of insurance: Managing risk in a digital world ([2 days ago](https://www.dig-in.com/opinion/using-ai-to-manage-risk-in-a-digital-world))
