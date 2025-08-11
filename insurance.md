@@ -8,8 +8,9 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Making sense of quantum computing for P&C insurance pros ([5 hours ago](https://www.dig-in.com/opinion/making-sense-of-quantum-computing-for-p-c-insurance-pros))
-- Insurers struggle to grab new professional talent ([5 hours ago](https://www.dig-in.com/news/insurers-struggle-to-grab-new-professional-talent))
+- Two Adults and Four Children Perish in Maryland House Fire ([32 minutes ago](https://www.insurancejournal.com/news/east/2025/08/10/835143.htm))
+- Making sense of quantum computing for P&C insurance pros ([6 hours ago](https://www.dig-in.com/opinion/making-sense-of-quantum-computing-for-p-c-insurance-pros))
+- Insurers struggle to grab new professional talent ([6 hours ago](https://www.dig-in.com/news/insurers-struggle-to-grab-new-professional-talent))
 - 3 Ways for Insurers to Spread Catastrophe Risk Literacy to Homeowners, Minimal Lift Required ([2 days ago](https://www.insurancejournal.com/blogs/cotality/2025/08/08/834825.htm))
 - Life Insurance Companies are Facing a “Climate Paradox” – How Do They Solve It? ([2 days ago](https://insurance-edge.net/2025/08/08/life-insurance-companies-are-facing-a-climate-paradox-how-do-they-solve-it/))
 - CEO on QBE's financials and how broker relationships are driving strong results ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/ceo-on-qbes-financials-and-how-broker-relationships-are-driving-strong-results-545610.aspx))
@@ -66,7 +67,6 @@ description: Insurance Updates
 - Surplus Lines Sector Shows 13.2% Rise in Premium Mid-Year: WSIA Report ([2 days ago](https://www.insurancejournal.com/news/national/2025/08/08/834974.htm))
 - Trenton Diocese Withdraws Lawsuit Against Insurers Over Sex Abuse Coverage ([2 days ago](https://www.insurancejournal.com/news/east/2025/08/08/834988.htm))
 - J&J Talc Evidence Gets Review by Ex-Judge at Drugmaker Law Firm ([2 days ago](https://www.insurancejournal.com/news/national/2025/08/08/834978.htm))
-- 13 Charged in Pennsylvania With Selling Luxury Autos Stolen From Florida ([2 days ago](https://www.insurancejournal.com/news/east/2025/08/08/834983.htm))
 - Should premium finance firms be on high alert after motor finance decision? ([2 days ago](https://www.postonline.co.uk/regulation/7958311/should-premium-finance-firms-be-on-high-alert-after-motor-finance-decision))
 - Penny Black’s Social Diary: Lloyd’s volunteering; Howden’s bao bun ([2 days ago](https://www.postonline.co.uk/people/7958082/penny-black%E2%80%99s-social-diary-lloyd%E2%80%99s-volunteering-howden%E2%80%99s-bao-bun))
 - QBE has a 27% profits surge ([3 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/qbe-has-a-27-profits-surge-545459.aspx))
