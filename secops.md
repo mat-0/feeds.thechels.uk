@@ -8,15 +8,15 @@ description: SecOps News
 [Get this as an RSS feed](/secops.rss)
 
 <!-- news_marker starts -->
-- Google fixing Gemini so it doesn't channel paranoid androids quite so often ([18 minutes ago](https://go.theregister.com/feed/www.theregister.com/2025/08/11/google_fixing_gemini_self_flagellation/))
+- Google fixing Gemini so it doesn't channel paranoid androids quite so often ([47 minutes ago](https://go.theregister.com/feed/www.theregister.com/2025/08/11/google_fixing_gemini_self_flagellation/))
 - Trend Micro offers weak workaround for already-exploited critical vuln in management console ([7 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/08/10/infosec_in_brief/))
-- Connex Credit Union notifies 172,000 members of hacking incident ([7 hours ago](https://databreaches.net/2025/08/10/connex-credit-union-notifies-172000-members-of-hacking-incident/?pk_campaign=feed&pk_kwd=connex-credit-union-notifies-172000-members-of-hacking-incident))
+- Connex Credit Union notifies 172,000 members of hacking incident ([8 hours ago](https://databreaches.net/2025/08/10/connex-credit-union-notifies-172000-members-of-hacking-incident/?pk_campaign=feed&pk_kwd=connex-credit-union-notifies-172000-members-of-hacking-incident))
 - New Win-DDoS Flaws Let Attackers Turn Public Domain Controllers into DDoS Botnet via RPC, LDAP ([10 hours ago](https://thehackernews.com/2025/08/new-win-ddos-flaws-let-attackers-turn.html))
 - Researchers Detail Windows EPM Poisoning Exploit Chain Leading to Domain Privilege Escalation ([17 hours ago](https://thehackernews.com/2025/08/researchers-detail-windows-epm.html))
-- DEF CON hackers plug security holes in US water systems amid tsunami of threats ([17 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/08/10/def_con_hackers_water_security/))
-- Federal judiciary says it is boosting security after cyberattack; researcher finds new leaks (CORRECTED) ([17 hours ago](https://databreaches.net/2025/08/10/federal-judiciary-says-it-is-boosting-security-after-cyberattack-researcher-finds-new-leaks/?pk_campaign=feed&pk_kwd=federal-judiciary-says-it-is-boosting-security-after-cyberattack-researcher-finds-new-leaks))
-- Bank of America Refused To Reimburse Georgia Customer After Hackers Hit Account. Then a News Station Showed Up. ([18 hours ago](https://databreaches.net/2025/08/10/bank-of-america-refused-to-reimburse-georgia-customer-after-hackers-hit-account-then-a-news-station-showed-up/?pk_campaign=feed&pk_kwd=bank-of-america-refused-to-reimburse-georgia-customer-after-hackers-hit-account-then-a-news-station-showed-up))
-- NCERT Issues Advisory on “Blue Locker” Ransomware Targeting Pakistan’s Key Institutions ([18 hours ago](https://databreaches.net/2025/08/10/ncert-issues-advisory-on-blue-locker-ransomware-targeting-pakistans-key-institutions/?pk_campaign=feed&pk_kwd=ncert-issues-advisory-on-blue-locker-ransomware-targeting-pakistans-key-institutions))
+- DEF CON hackers plug security holes in US water systems amid tsunami of threats ([18 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/08/10/def_con_hackers_water_security/))
+- Federal judiciary says it is boosting security after cyberattack; researcher finds new leaks (CORRECTED) ([18 hours ago](https://databreaches.net/2025/08/10/federal-judiciary-says-it-is-boosting-security-after-cyberattack-researcher-finds-new-leaks/?pk_campaign=feed&pk_kwd=federal-judiciary-says-it-is-boosting-security-after-cyberattack-researcher-finds-new-leaks))
+- Bank of America Refused To Reimburse Georgia Customer After Hackers Hit Account. Then a News Station Showed Up. ([19 hours ago](https://databreaches.net/2025/08/10/bank-of-america-refused-to-reimburse-georgia-customer-after-hackers-hit-account-then-a-news-station-showed-up/?pk_campaign=feed&pk_kwd=bank-of-america-refused-to-reimburse-georgia-customer-after-hackers-hit-account-then-a-news-station-showed-up))
+- NCERT Issues Advisory on “Blue Locker” Ransomware Targeting Pakistan’s Key Institutions ([19 hours ago](https://databreaches.net/2025/08/10/ncert-issues-advisory-on-blue-locker-ransomware-targeting-pakistans-key-institutions/?pk_campaign=feed&pk_kwd=ncert-issues-advisory-on-blue-locker-ransomware-targeting-pakistans-key-institutions))
 - How OpenAI used a new data type to cut inference costs by 75% ([20 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/08/10/openai_mxfp4/))
 - The inside story of the Telemessage saga, and how you can view the data ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2025/08/10/telemessage_archive_online/))
 - Google confirms data breach exposed potential Google Ads customers' info ([1 days ago](https://www.bleepingcomputer.com/news/security/google-confirms-data-breach-exposed-potential-google-ads-customers-info/))
@@ -199,7 +199,7 @@ description: SecOps News
 - The AI Fix #59: Grok thinks it’s Mecha Hitler, and AIs can think strategically ([26 days ago](https://grahamcluley.com/the-ai-fix-59/))
 - MaReads - 74,453 breached accounts ([26 days ago](https://haveibeenpwned.com/Breach/MaReads))
 - DOGE Denizen Marko Elez Leaked API Key for xAI ([27 days ago](https://krebsonsecurity.com/2025/07/doge-denizen-marko-elez-leaked-api-key-for-xai/))
-- Omnicuris - 215,298 breached accounts ([28 days ago](https://haveibeenpwned.com/Breach/Omnicuris))
+- Omnicuris - 215,298 breached accounts ([29 days ago](https://haveibeenpwned.com/Breach/Omnicuris))
 - Weekly Update 460 ([29 days ago](https://www.troyhunt.com/weekly-update-460/))
 
 <!-- news_marker ends -->
