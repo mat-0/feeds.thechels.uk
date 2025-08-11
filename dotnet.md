@@ -19,7 +19,7 @@ description: DotNet Updates
 - Introducing MCP Support in AI Shell Preview 6 - PowerShell Team ([5 days ago](https://dotnetkicks.com/r/726864?url=https://devblogs.microsoft.com/powershell/preview-6-ai-shell/))
 - .NET and .NET Framework August 2025 servicing releases updates - .NET Blog ([5 days ago](https://dotnetkicks.com/r/726862?url=https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-august-2025-servicing-updates/))
 - .NET and .NET Framework August 2025 servicing releases updates - .NET Blog ([5 days ago](https://dotnetkicks.com/r/726844?url=https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-august-2025-servicing-updates/))
-- .NET and .NET Framework August 2025 servicing releases updates ([5 days ago](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-august-2025-servicing-updates/))
+- .NET and .NET Framework August 2025 servicing releases updates ([6 days ago](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-august-2025-servicing-updates/))
 - Exploring new Agent Quality and NLP evaluators for .NET AI applications - .NET Blog ([6 days ago](https://dotnetkicks.com/r/726818?url=https://devblogs.microsoft.com/dotnet/exploring-agent-quality-and-nlp-evaluators/))
 - Exploring new Agent Quality and NLP evaluators for .NET AI applications - .NET Blog ([6 days ago](https://dotnetkicks.com/r/726814?url=https://devblogs.microsoft.com/dotnet/exploring-agent-quality-and-nlp-evaluators/))
 - Exploring new Agent Quality and NLP evaluators for .NET AI applications ([6 days ago](https://devblogs.microsoft.com/dotnet/exploring-agent-quality-and-nlp-evaluators/))
