@@ -9,10 +9,10 @@ description: DotNet Updates
 
 <!-- news_marker starts -->
 - F# Weekly #32, 2025 - Call for Speakers: .NET Conf 2025 &amp; JetBrains .NET Days ([10 hours ago](https://dotnetkicks.com/r/727117?url=https://sergeytihon.com/2025/08/10/f-weekly-32-2025-call-for-speakers-net-conf-2025-jetbrains-net-days/))
-- Boost Your .NET Projects: Simplify Date & Time Formatting with Spargine’s DateTimeFormat ([21 hours ago](https://dotnettips.wordpress.com/2025/08/10/boost-your-net-projects-simplify-date-time-formatting-with-spargines-datetimeformat/))
+- Boost Your .NET Projects: Simplify Date & Time Formatting with Spargine’s DateTimeFormat ([22 hours ago](https://dotnettips.wordpress.com/2025/08/10/boost-your-net-projects-simplify-date-time-formatting-with-spargines-datetimeformat/))
 - Coding Faster with dotNetTips.com Spargine 8: August 2025 Release ([2 days ago](https://dotnettips.wordpress.com/2025/08/08/coding-faster-with-dotnettips-com-spargine-8-august-2025-release/))
 - Loosely Coupled Monolith - Software Architecture - 2025 Edition ([3 days ago](https://dotnetkicks.com/r/727008?url=https://codeopinion.com/loosely-coupled-monolith-software-architecture-2025-edition/))
-- Use EdDSA signatures to validate tokens in ASP.NET Core using OpenID Connect ([3 days ago](https://dotnetkicks.com/r/726972?url=https://damienbod.com/2025/08/06/use-eddsa-signatures-to-validate-tokens-in-asp-net-core-using-openid-connect/))
+- Use EdDSA signatures to validate tokens in ASP.NET Core using OpenID Connect ([4 days ago](https://dotnetkicks.com/r/726972?url=https://damienbod.com/2025/08/06/use-eddsa-signatures-to-validate-tokens-in-asp-net-core-using-openid-connect/))
 - 5 Copilot Chat Prompts .NET Devs Should Steal Today - .NET Blog ([4 days ago](https://dotnetkicks.com/r/726939?url=https://devblogs.microsoft.com/dotnet/5-copilot-chat-prompts-dotnet-devs-should-steal-today/))
 - 5 Copilot Chat Prompts .NET Devs Should Steal Today - .NET Blog ([4 days ago](https://dotnetkicks.com/r/726936?url=https://devblogs.microsoft.com/dotnet/5-copilot-chat-prompts-dotnet-devs-should-steal-today/))
 - 5 Copilot Chat Prompts .NET Devs Should Steal Today ([4 days ago](https://devblogs.microsoft.com/dotnet/5-copilot-chat-prompts-dotnet-devs-should-steal-today/))
