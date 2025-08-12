@@ -9,7 +9,7 @@ description: DotNet Updates
 
 <!-- news_marker starts -->
 - Running .NET in the browser without Blazor ([2 hours ago](https://dotnetkicks.com/r/727227?url=https://andrewlock.net/running-dotnet-in-the-browser-without-blazor/))
-- Running .NET in the browser without Blazor ([2 hours ago](https://andrewlock.net/running-dotnet-in-the-browser-without-blazor/))
+- Running .NET in the browser without Blazor ([3 hours ago](https://andrewlock.net/running-dotnet-in-the-browser-without-blazor/))
 - F# Weekly #32, 2025 - Call for Speakers: .NET Conf 2025 &amp; JetBrains .NET Days ([1 days ago](https://dotnetkicks.com/r/727117?url=https://sergeytihon.com/2025/08/10/f-weekly-32-2025-call-for-speakers-net-conf-2025-jetbrains-net-days/))
 - Boost Your .NET Projects: Simplify Date & Time Formatting with Spargine’s DateTimeFormat ([2 days ago](https://dotnettips.wordpress.com/2025/08/10/boost-your-net-projects-simplify-date-time-formatting-with-spargines-datetimeformat/))
 - Coding Faster with dotNetTips.com Spargine 8: August 2025 Release ([4 days ago](https://dotnettips.wordpress.com/2025/08/08/coding-faster-with-dotnettips-com-spargine-8-august-2025-release/))
@@ -48,9 +48,9 @@ description: DotNet Updates
 - Aspire 9.4 is here with a CLI and interactive dashboard features ([13 days ago](https://devblogs.microsoft.com/dotnet/announcing-aspire-9-4/))
 - Running one-off .NET tools with dnx: Exploring the .NET 10 preview - Part 5 ([14 days ago](https://andrewlock.net/exploring-dotnet-10-preview-features-5-running-one-off-dotnet-tools-with-dnx/))
 - Boost Your .NET Projects: Enhance Drive Management with DriveHelper in Spargine ([16 days ago](https://dotnettips.wordpress.com/2025/07/27/boost-your-net-projects-enhance-drive-management-with-spargine/))
-- Upcoming Changes to JetBrains .NET Tools ([17 days ago](https://blog.jetbrains.com/dotnet/2025/07/25/upcoming-changes-to-dotnet-tools/))
-- The ReSharper and .NET Tools 2025.2 Release Candidates Are Now Available ([18 days ago](https://blog.jetbrains.com/dotnet/2025/07/24/resharper-dot-net-tools-2025-2-release-candidate/))
-- The Rider 2025.2 Release Candidate Is Here! ([18 days ago](https://blog.jetbrains.com/dotnet/2025/07/24/the-rider-2025-2-release-candidate/))
+- Upcoming Changes to JetBrains .NET Tools ([18 days ago](https://blog.jetbrains.com/dotnet/2025/07/25/upcoming-changes-to-dotnet-tools/))
+- The ReSharper and .NET Tools 2025.2 Release Candidates Are Now Available ([19 days ago](https://blog.jetbrains.com/dotnet/2025/07/24/resharper-dot-net-tools-2025-2-release-candidate/))
+- The Rider 2025.2 Release Candidate Is Here! ([19 days ago](https://blog.jetbrains.com/dotnet/2025/07/24/the-rider-2025-2-release-candidate/))
 - MCP C# SDK Gets Major Update: Support for Protocol Version 2025-06-18 ([20 days ago](https://devblogs.microsoft.com/dotnet/mcp-csharp-sdk-2025-06-18-update/))
 - Solving the source generator 'marker attribute' problem in .NET 10: Exploring the .NET 10 preview - Part 4 ([21 days ago](https://andrewlock.net/exploring-dotnet-10-preview-features-4-solving-the-source-generator-marker-attribute-problem-in-dotnet-10/))
 - Ask Mode vs Agent Mode – Choosing the Right Copilot Experience for .NET ([21 days ago](https://devblogs.microsoft.com/dotnet/ask-mode-vs-agent-mode/))
