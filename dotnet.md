@@ -8,8 +8,8 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- .NET 10 Preview 7 is now available! - .NET Blog ([17 hours ago](https://dotnetkicks.com/r/727280?url=https://devblogs.microsoft.com/dotnet/dotnet-10-preview-7/))
-- .NET 10 Preview 7 is now available! ([17 hours ago](https://devblogs.microsoft.com/dotnet/dotnet-10-preview-7/))
+- .NET 10 Preview 7 is now available! - .NET Blog ([18 hours ago](https://dotnetkicks.com/r/727280?url=https://devblogs.microsoft.com/dotnet/dotnet-10-preview-7/))
+- .NET 10 Preview 7 is now available! ([18 hours ago](https://devblogs.microsoft.com/dotnet/dotnet-10-preview-7/))
 - dotInsights  -  August 2025 ([23 hours ago](https://blog.jetbrains.com/dotnet/2025/08/12/dotinsights-august-2025/))
 - Running .NET in the browser without Blazor ([1 days ago](https://dotnetkicks.com/r/727227?url=https://andrewlock.net/running-dotnet-in-the-browser-without-blazor/))
 - Running .NET in the browser without Blazor ([1 days ago](https://andrewlock.net/running-dotnet-in-the-browser-without-blazor/))
