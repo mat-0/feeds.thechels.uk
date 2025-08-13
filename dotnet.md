@@ -8,10 +8,10 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- .NET 10 Preview 7 is now available! - .NET Blog ([11 hours ago](https://dotnetkicks.com/r/727280?url=https://devblogs.microsoft.com/dotnet/dotnet-10-preview-7/))
-- .NET 10 Preview 7 is now available! ([11 hours ago](https://devblogs.microsoft.com/dotnet/dotnet-10-preview-7/))
-- dotInsights  -  August 2025 ([16 hours ago](https://blog.jetbrains.com/dotnet/2025/08/12/dotinsights-august-2025/))
-- Running .NET in the browser without Blazor ([20 hours ago](https://dotnetkicks.com/r/727227?url=https://andrewlock.net/running-dotnet-in-the-browser-without-blazor/))
+- .NET 10 Preview 7 is now available! - .NET Blog ([12 hours ago](https://dotnetkicks.com/r/727280?url=https://devblogs.microsoft.com/dotnet/dotnet-10-preview-7/))
+- .NET 10 Preview 7 is now available! ([12 hours ago](https://devblogs.microsoft.com/dotnet/dotnet-10-preview-7/))
+- dotInsights  -  August 2025 ([17 hours ago](https://blog.jetbrains.com/dotnet/2025/08/12/dotinsights-august-2025/))
+- Running .NET in the browser without Blazor ([21 hours ago](https://dotnetkicks.com/r/727227?url=https://andrewlock.net/running-dotnet-in-the-browser-without-blazor/))
 - Running .NET in the browser without Blazor ([21 hours ago](https://andrewlock.net/running-dotnet-in-the-browser-without-blazor/))
 - F# Weekly #32, 2025 - Call for Speakers: .NET Conf 2025 &amp; JetBrains .NET Days ([2 days ago](https://dotnetkicks.com/r/727117?url=https://sergeytihon.com/2025/08/10/f-weekly-32-2025-call-for-speakers-net-conf-2025-jetbrains-net-days/))
 - Boost Your .NET Projects: Simplify Date & Time Formatting with Spargine’s DateTimeFormat ([3 days ago](https://dotnettips.wordpress.com/2025/08/10/boost-your-net-projects-simplify-date-time-formatting-with-spargines-datetimeformat/))
@@ -39,7 +39,7 @@ description: DotNet Updates
 - Issue and verify credentials using the Swiss Digital identity public beta, ASP.NET Core and .NET Aspire ([8 days ago](https://dotnetkicks.com/r/726622?url=https://damienbod.com/2025/08/04/issuer-and-verify-credentials-using-the-swiss-digital-identity-public-beta-asp-net-core-and-net-aspire/))
 - The new Dependabot NuGet updater: 65% faster with native .NET - .NET Blog ([8 days ago](https://dotnetkicks.com/r/726617?url=https://devblogs.microsoft.com/dotnet/the-new-dependabot-nuget-updater/))
 - The new Dependabot NuGet updater: 65% faster with native .NET ([8 days ago](https://devblogs.microsoft.com/dotnet/the-new-dependabot-nuget-updater/))
-- F# Weekly #31, 2025 - Aspire 9.4 ([9 days ago](https://dotnetkicks.com/r/726523?url=https://sergeytihon.com/2025/08/02/f-weekly-31-2025-aspire-9-4/))
+- F# Weekly #31, 2025 - Aspire 9.4 ([10 days ago](https://dotnetkicks.com/r/726523?url=https://sergeytihon.com/2025/08/02/f-weekly-31-2025-aspire-9-4/))
 - The Untapped Power of Veteran Engineers: Why Companies Are Overlooking Their Most Valuable Assets – Part 3 ([10 days ago](https://dotnettips.wordpress.com/2025/08/03/the-untapped-power-of-veteran-engineers-why-companies-are-overlooking-their-most-valuable-assets-part-3/))
 - Video: Visual Toolbox: Git in Visual Studio ([11 days ago](https://dotnetkicks.com/r/726482?url=https://jesseliberty.com/2025/08/01/video-visual-toolbox-git-in-visual-studio/))
 - Video: Visual Toolbox: Git in Visual Studio ([11 days ago](https://dotnetkicks.com/r/726471?url=https://jesseliberty.com/2025/08/01/video-visual-toolbox-git-in-visual-studio/))
