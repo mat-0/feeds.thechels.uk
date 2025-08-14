@@ -8,14 +8,14 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Announcing the NuGet MCP Server Preview - .NET Blog ([3 hours ago](https://dotnetkicks.com/r/727519?url=https://devblogs.microsoft.com/dotnet/nuget-mcp-server-preview/))
+- Announcing the NuGet MCP Server Preview - .NET Blog ([4 hours ago](https://dotnetkicks.com/r/727519?url=https://devblogs.microsoft.com/dotnet/nuget-mcp-server-preview/))
 - Announcing the NuGet MCP Server Preview ([4 hours ago](https://devblogs.microsoft.com/dotnet/nuget-mcp-server-preview/))
-- Improving Codebase Awareness in Visual Studio Chat - Visual Studio Blog ([8 hours ago](https://dotnetkicks.com/r/727490?url=https://devblogs.microsoft.com/visualstudio/improving-codebase-awareness-in-visual-studio-chat/))
-- Improving Codebase Awareness in Visual Studio Chat - Visual Studio Blog ([8 hours ago](https://dotnetkicks.com/r/727467?url=https://devblogs.microsoft.com/visualstudio/improving-codebase-awareness-in-visual-studio-chat/))
+- Improving Codebase Awareness in Visual Studio Chat - Visual Studio Blog ([9 hours ago](https://dotnetkicks.com/r/727490?url=https://devblogs.microsoft.com/visualstudio/improving-codebase-awareness-in-visual-studio-chat/))
+- Improving Codebase Awareness in Visual Studio Chat - Visual Studio Blog ([9 hours ago](https://dotnetkicks.com/r/727467?url=https://devblogs.microsoft.com/visualstudio/improving-codebase-awareness-in-visual-studio-chat/))
 - Next-Level Performance Improvements in ReSharper 2025.2 ([10 hours ago](https://blog.jetbrains.com/dotnet/2025/08/14/resharper-performance-improvements-2025/))
 - ReSharper and the .NET Tools 2025.2 Are Out! ([10 hours ago](https://blog.jetbrains.com/dotnet/2025/08/14/resharper-and-the-net-tools-2025-2-are-out/))
 - Rider 2025.2 Is Here with Junie, In-IDE OpenTelemetry, Game Dev Upgrades, and More ([10 hours ago](https://blog.jetbrains.com/dotnet/2025/08/14/rider-2025-2-is-here-with-junie-in-ide-opentelemetry-game-dev-upgrades-and-more/))
-- Cake.Sdk 5.0.25225.53-beta released ([14 hours ago](https://dotnetkicks.com/r/727431?url=https://cakebuild.net/blog/2025/08/cake-sdk-net-preview-7-update))
+- Cake.Sdk 5.0.25225.53-beta released ([15 hours ago](https://dotnetkicks.com/r/727431?url=https://cakebuild.net/blog/2025/08/cake-sdk-net-preview-7-update))
 - From Redmond to San Diego: VS Live! Highlights, Session Examples, and What's Next - Visual Studio Blog ([20 hours ago](https://dotnetkicks.com/r/727404?url=https://devblogs.microsoft.com/visualstudio/from-redmond-to-san-diego-vs-live-highlights-session-examples-and-whats-next/))
 - .NET 10 Preview 7 is now available! - .NET Blog ([2 days ago](https://dotnetkicks.com/r/727280?url=https://devblogs.microsoft.com/dotnet/dotnet-10-preview-7/))
 - .NET 10 Preview 7 is now available! ([2 days ago](https://devblogs.microsoft.com/dotnet/dotnet-10-preview-7/))
