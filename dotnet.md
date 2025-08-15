@@ -9,8 +9,8 @@ description: DotNet Updates
 
 <!-- news_marker starts -->
 - Why Akka.Streams.Kafka is the Best Kafka Client for .NET ([15 hours ago](https://dotnetkicks.com/r/727550?url=https://petabridge.com/blog/akka-streams-kafka-best-kafka-client-dotnet/))
-- Announcing the NuGet MCP Server Preview - .NET Blog ([19 hours ago](https://dotnetkicks.com/r/727519?url=https://devblogs.microsoft.com/dotnet/nuget-mcp-server-preview/))
-- Announcing the NuGet MCP Server Preview ([19 hours ago](https://devblogs.microsoft.com/dotnet/nuget-mcp-server-preview/))
+- Announcing the NuGet MCP Server Preview - .NET Blog ([20 hours ago](https://dotnetkicks.com/r/727519?url=https://devblogs.microsoft.com/dotnet/nuget-mcp-server-preview/))
+- Announcing the NuGet MCP Server Preview ([20 hours ago](https://devblogs.microsoft.com/dotnet/nuget-mcp-server-preview/))
 - Improving Codebase Awareness in Visual Studio Chat - Visual Studio Blog ([1 days ago](https://dotnetkicks.com/r/727490?url=https://devblogs.microsoft.com/visualstudio/improving-codebase-awareness-in-visual-studio-chat/))
 - Improving Codebase Awareness in Visual Studio Chat - Visual Studio Blog ([1 days ago](https://dotnetkicks.com/r/727467?url=https://devblogs.microsoft.com/visualstudio/improving-codebase-awareness-in-visual-studio-chat/))
 - Next-Level Performance Improvements in ReSharper 2025.2 ([1 days ago](https://blog.jetbrains.com/dotnet/2025/08/14/resharper-performance-improvements-2025/))
@@ -54,7 +54,7 @@ description: DotNet Updates
 - Aspire 9.4 is here with a CLI and interactive dashboard features ([16 days ago](https://devblogs.microsoft.com/dotnet/announcing-aspire-9-4/))
 - Running one-off .NET tools with dnx: Exploring the .NET 10 preview - Part 5 ([17 days ago](https://andrewlock.net/exploring-dotnet-10-preview-features-5-running-one-off-dotnet-tools-with-dnx/))
 - Boost Your .NET Projects: Enhance Drive Management with DriveHelper in Spargine ([19 days ago](https://dotnettips.wordpress.com/2025/07/27/boost-your-net-projects-enhance-drive-management-with-spargine/))
-- Upcoming Changes to JetBrains .NET Tools ([20 days ago](https://blog.jetbrains.com/dotnet/2025/07/25/upcoming-changes-to-dotnet-tools/))
+- Upcoming Changes to JetBrains .NET Tools ([21 days ago](https://blog.jetbrains.com/dotnet/2025/07/25/upcoming-changes-to-dotnet-tools/))
 - The ReSharper and .NET Tools 2025.2 Release Candidates Are Now Available ([21 days ago](https://blog.jetbrains.com/dotnet/2025/07/24/resharper-dot-net-tools-2025-2-release-candidate/))
 - The Rider 2025.2 Release Candidate Is Here! ([21 days ago](https://blog.jetbrains.com/dotnet/2025/07/24/the-rider-2025-2-release-candidate/))
 - MCP C# SDK Gets Major Update: Support for Protocol Version 2025-06-18 ([23 days ago](https://devblogs.microsoft.com/dotnet/mcp-csharp-sdk-2025-06-18-update/))
