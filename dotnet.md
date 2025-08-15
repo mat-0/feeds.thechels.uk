@@ -10,7 +10,7 @@ description: DotNet Updates
 <!-- news_marker starts -->
 - Why Akka.Streams.Kafka is the Best Kafka Client for .NET ([9 hours ago](https://dotnetkicks.com/r/727550?url=https://petabridge.com/blog/akka-streams-kafka-best-kafka-client-dotnet/))
 - Announcing the NuGet MCP Server Preview - .NET Blog ([13 hours ago](https://dotnetkicks.com/r/727519?url=https://devblogs.microsoft.com/dotnet/nuget-mcp-server-preview/))
-- Announcing the NuGet MCP Server Preview ([13 hours ago](https://devblogs.microsoft.com/dotnet/nuget-mcp-server-preview/))
+- Announcing the NuGet MCP Server Preview ([14 hours ago](https://devblogs.microsoft.com/dotnet/nuget-mcp-server-preview/))
 - Improving Codebase Awareness in Visual Studio Chat - Visual Studio Blog ([18 hours ago](https://dotnetkicks.com/r/727490?url=https://devblogs.microsoft.com/visualstudio/improving-codebase-awareness-in-visual-studio-chat/))
 - Improving Codebase Awareness in Visual Studio Chat - Visual Studio Blog ([18 hours ago](https://dotnetkicks.com/r/727467?url=https://devblogs.microsoft.com/visualstudio/improving-codebase-awareness-in-visual-studio-chat/))
 - Next-Level Performance Improvements in ReSharper 2025.2 ([20 hours ago](https://blog.jetbrains.com/dotnet/2025/08/14/resharper-performance-improvements-2025/))
