@@ -8,7 +8,7 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Why Akka.Streams.Kafka is the Best Kafka Client for .NET ([19 hours ago](https://dotnetkicks.com/r/727550?url=https://petabridge.com/blog/akka-streams-kafka-best-kafka-client-dotnet/))
+- Why Akka.Streams.Kafka is the Best Kafka Client for .NET ([20 hours ago](https://dotnetkicks.com/r/727550?url=https://petabridge.com/blog/akka-streams-kafka-best-kafka-client-dotnet/))
 - Announcing the NuGet MCP Server Preview - .NET Blog ([1 days ago](https://dotnetkicks.com/r/727519?url=https://devblogs.microsoft.com/dotnet/nuget-mcp-server-preview/))
 - Announcing the NuGet MCP Server Preview ([1 days ago](https://devblogs.microsoft.com/dotnet/nuget-mcp-server-preview/))
 - Improving Codebase Awareness in Visual Studio Chat - Visual Studio Blog ([1 days ago](https://dotnetkicks.com/r/727490?url=https://devblogs.microsoft.com/visualstudio/improving-codebase-awareness-in-visual-studio-chat/))
@@ -51,7 +51,7 @@ description: DotNet Updates
 - The new Dependabot NuGet updater: 65% faster with native .NET ([11 days ago](https://devblogs.microsoft.com/dotnet/the-new-dependabot-nuget-updater/))
 - The Untapped Power of Veteran Engineers: Why Companies Are Overlooking Their Most Valuable Assets – Part 3 ([12 days ago](https://dotnettips.wordpress.com/2025/08/03/the-untapped-power-of-veteran-engineers-why-companies-are-overlooking-their-most-valuable-assets-part-3/))
 - Building a Full-Stack App with React and Aspire: A Step-by-Step Guide ([16 days ago](https://devblogs.microsoft.com/dotnet/new-aspire-app-with-react/))
-- Aspire 9.4 is here with a CLI and interactive dashboard features ([16 days ago](https://devblogs.microsoft.com/dotnet/announcing-aspire-9-4/))
+- Aspire 9.4 is here with a CLI and interactive dashboard features ([17 days ago](https://devblogs.microsoft.com/dotnet/announcing-aspire-9-4/))
 - Running one-off .NET tools with dnx: Exploring the .NET 10 preview - Part 5 ([17 days ago](https://andrewlock.net/exploring-dotnet-10-preview-features-5-running-one-off-dotnet-tools-with-dnx/))
 - Boost Your .NET Projects: Enhance Drive Management with DriveHelper in Spargine ([19 days ago](https://dotnettips.wordpress.com/2025/07/27/boost-your-net-projects-enhance-drive-management-with-spargine/))
 - Upcoming Changes to JetBrains .NET Tools ([21 days ago](https://blog.jetbrains.com/dotnet/2025/07/25/upcoming-changes-to-dotnet-tools/))
@@ -60,6 +60,6 @@ description: DotNet Updates
 - MCP C# SDK Gets Major Update: Support for Protocol Version 2025-06-18 ([24 days ago](https://devblogs.microsoft.com/dotnet/mcp-csharp-sdk-2025-06-18-update/))
 - Solving the source generator 'marker attribute' problem in .NET 10: Exploring the .NET 10 preview - Part 4 ([24 days ago](https://andrewlock.net/exploring-dotnet-10-preview-features-4-solving-the-source-generator-marker-attribute-problem-in-dotnet-10/))
 - Boost Your .NET Projects: Effortlessly Randomize Collections with CollectionRandomizer in Spargine ([26 days ago](https://dotnettips.wordpress.com/2025/07/20/boost-your-net-projects-effortlessly-randomize-collections-with-collectionrandomizer-in-spargine/))
-- Still Compiling: Two Shirts Every Veteran Software Engineer Needs ([28 days ago](https://dotnettips.wordpress.com/2025/07/17/still-compiling-two-shirts-every-veteran-software-engineer-needs/))
+- Still Compiling: Two Shirts Every Veteran Software Engineer Needs ([29 days ago](https://dotnettips.wordpress.com/2025/07/17/still-compiling-two-shirts-every-veteran-software-engineer-needs/))
 
 <!-- news_marker ends -->
