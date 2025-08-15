@@ -8,11 +8,11 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Why Akka.Streams.Kafka is the Best Kafka Client for .NET ([4 hours ago](https://dotnetkicks.com/r/727550?url=https://petabridge.com/blog/akka-streams-kafka-best-kafka-client-dotnet/))
-- Announcing the NuGet MCP Server Preview - .NET Blog ([9 hours ago](https://dotnetkicks.com/r/727519?url=https://devblogs.microsoft.com/dotnet/nuget-mcp-server-preview/))
-- Announcing the NuGet MCP Server Preview ([9 hours ago](https://devblogs.microsoft.com/dotnet/nuget-mcp-server-preview/))
-- Improving Codebase Awareness in Visual Studio Chat - Visual Studio Blog ([14 hours ago](https://dotnetkicks.com/r/727490?url=https://devblogs.microsoft.com/visualstudio/improving-codebase-awareness-in-visual-studio-chat/))
-- Improving Codebase Awareness in Visual Studio Chat - Visual Studio Blog ([14 hours ago](https://dotnetkicks.com/r/727467?url=https://devblogs.microsoft.com/visualstudio/improving-codebase-awareness-in-visual-studio-chat/))
+- Why Akka.Streams.Kafka is the Best Kafka Client for .NET ([5 hours ago](https://dotnetkicks.com/r/727550?url=https://petabridge.com/blog/akka-streams-kafka-best-kafka-client-dotnet/))
+- Announcing the NuGet MCP Server Preview - .NET Blog ([10 hours ago](https://dotnetkicks.com/r/727519?url=https://devblogs.microsoft.com/dotnet/nuget-mcp-server-preview/))
+- Announcing the NuGet MCP Server Preview ([10 hours ago](https://devblogs.microsoft.com/dotnet/nuget-mcp-server-preview/))
+- Improving Codebase Awareness in Visual Studio Chat - Visual Studio Blog ([15 hours ago](https://dotnetkicks.com/r/727490?url=https://devblogs.microsoft.com/visualstudio/improving-codebase-awareness-in-visual-studio-chat/))
+- Improving Codebase Awareness in Visual Studio Chat - Visual Studio Blog ([15 hours ago](https://dotnetkicks.com/r/727467?url=https://devblogs.microsoft.com/visualstudio/improving-codebase-awareness-in-visual-studio-chat/))
 - Next-Level Performance Improvements in ReSharper 2025.2 ([16 hours ago](https://blog.jetbrains.com/dotnet/2025/08/14/resharper-performance-improvements-2025/))
 - ReSharper and the .NET Tools 2025.2 Are Out! ([16 hours ago](https://blog.jetbrains.com/dotnet/2025/08/14/resharper-and-the-net-tools-2025-2-are-out/))
 - Rider 2025.2 Is Here with Junie, In-IDE OpenTelemetry, Game Dev Upgrades, and More ([16 hours ago](https://blog.jetbrains.com/dotnet/2025/08/14/rider-2025-2-is-here-with-junie-in-ide-opentelemetry-game-dev-upgrades-and-more/))
