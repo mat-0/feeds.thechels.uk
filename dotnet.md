@@ -9,7 +9,7 @@ description: DotNet Updates
 
 <!-- news_marker starts -->
 - Why Akka.Streams.Kafka is the Best Kafka Client for .NET ([18 hours ago](https://dotnetkicks.com/r/727550?url=https://petabridge.com/blog/akka-streams-kafka-best-kafka-client-dotnet/))
-- Announcing the NuGet MCP Server Preview - .NET Blog ([22 hours ago](https://dotnetkicks.com/r/727519?url=https://devblogs.microsoft.com/dotnet/nuget-mcp-server-preview/))
+- Announcing the NuGet MCP Server Preview - .NET Blog ([23 hours ago](https://dotnetkicks.com/r/727519?url=https://devblogs.microsoft.com/dotnet/nuget-mcp-server-preview/))
 - Announcing the NuGet MCP Server Preview ([23 hours ago](https://devblogs.microsoft.com/dotnet/nuget-mcp-server-preview/))
 - Improving Codebase Awareness in Visual Studio Chat - Visual Studio Blog ([1 days ago](https://dotnetkicks.com/r/727490?url=https://devblogs.microsoft.com/visualstudio/improving-codebase-awareness-in-visual-studio-chat/))
 - Improving Codebase Awareness in Visual Studio Chat - Visual Studio Blog ([1 days ago](https://dotnetkicks.com/r/727467?url=https://devblogs.microsoft.com/visualstudio/improving-codebase-awareness-in-visual-studio-chat/))
@@ -38,9 +38,9 @@ description: DotNet Updates
 - Exploring new Agent Quality and NLP evaluators for .NET AI applications - .NET Blog ([9 days ago](https://dotnetkicks.com/r/726818?url=https://devblogs.microsoft.com/dotnet/exploring-agent-quality-and-nlp-evaluators/))
 - Exploring new Agent Quality and NLP evaluators for .NET AI applications - .NET Blog ([9 days ago](https://dotnetkicks.com/r/726814?url=https://devblogs.microsoft.com/dotnet/exploring-agent-quality-and-nlp-evaluators/))
 - Exploring new Agent Quality and NLP evaluators for .NET AI applications ([9 days ago](https://devblogs.microsoft.com/dotnet/exploring-agent-quality-and-nlp-evaluators/))
-- Visual Studio 2015 Retirement: Support reminder for older versions of Visual Studio - Visual Studio Blog ([9 days ago](https://dotnetkicks.com/r/726809?url=https://devblogs.microsoft.com/visualstudio/visual-studio-2015-retirement-support-reminder-for-older-versions-of-visual-studio/))
-- Visual Studio 2015 Retirement: Support reminder for older versions of Visual Studio - Visual Studio Blog ([9 days ago](https://dotnetkicks.com/r/726798?url=https://devblogs.microsoft.com/visualstudio/visual-studio-2015-retirement-support-reminder-for-older-versions-of-visual-studio/))
-- .NET Conf 2025 - Announcing the Call for Content - .NET Blog ([9 days ago](https://dotnetkicks.com/r/726779?url=https://devblogs.microsoft.com/dotnet/dotnet-conf-2025-announcing-the-call-for-content/))
+- Visual Studio 2015 Retirement: Support reminder for older versions of Visual Studio - Visual Studio Blog ([10 days ago](https://dotnetkicks.com/r/726809?url=https://devblogs.microsoft.com/visualstudio/visual-studio-2015-retirement-support-reminder-for-older-versions-of-visual-studio/))
+- Visual Studio 2015 Retirement: Support reminder for older versions of Visual Studio - Visual Studio Blog ([10 days ago](https://dotnetkicks.com/r/726798?url=https://devblogs.microsoft.com/visualstudio/visual-studio-2015-retirement-support-reminder-for-older-versions-of-visual-studio/))
+- .NET Conf 2025 - Announcing the Call for Content - .NET Blog ([10 days ago](https://dotnetkicks.com/r/726779?url=https://devblogs.microsoft.com/dotnet/dotnet-conf-2025-announcing-the-call-for-content/))
 - .NET Conf 2025 – Announcing the Call for Content ([10 days ago](https://devblogs.microsoft.com/dotnet/dotnet-conf-2025-announcing-the-call-for-content/))
 - Jeff Fritz on .NET Aspire and CoPilot Agents ([10 days ago](https://dotnetkicks.com/r/726734?url=https://jesseliberty.com/2025/08/05/jeff-fritz-on-net-aspire-and-copilot-agents/))
 - Passkey support for ASP.NET Core identity: Exploring the .NET 10 preview - Part 6 ([10 days ago](https://dotnetkicks.com/r/726680?url=https://andrewlock.net/exploring-dotnet-10-preview-features-6-passkey-support-for-aspnetcore-identity/))
