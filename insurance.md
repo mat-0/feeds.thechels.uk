@@ -100,7 +100,7 @@ description: Insurance Updates
 - MS&AD reports higher Q1 profit ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/msandad-reports-higher-q1-profit-546090.aspx))
 - FAIR Plan in regulatory and court crosshairs ([2 days ago](https://www.dig-in.com/list/fair-plan-in-regulatory-and-court-crosshairs))
 - Why password reviews are crucial during employee exits ([2 days ago](https://www.insurancebusinessmag.com/uk/business-strategy/why-password-reviews-are-crucial-during-employee-exits-546075.aspx))
-- Advent to Acquire Sapiens for $2.5 Billion in All-Cash Deal ([2 days ago](https://www.insurtechinsights.com/advent-to-acquire-sapiens-for-2-5-billion-in-all-cash-deal/))
+- Advent to Acquire Sapiens for $2.5 Billion in All-Cash Deal ([3 days ago](https://www.insurtechinsights.com/advent-to-acquire-sapiens-for-2-5-billion-in-all-cash-deal/))
 - Marsh Launches BrokerSafe to Provide Stable, Affordable Auto Liability Coverage for US Freight Brokers ([3 days ago](https://www.insurtechinsights.com/marsh-launches-brokersafe-to-provide-stable-affordable-auto-liability-coverage-for-us-freight-brokers/))
 - W. R. Berkley Corporation Expands Adoption of Kalepa’s AI-Powered Underwriting Platform ([3 days ago](https://www.insurtechinsights.com/w-r-berkley-corporation-expands-adoption-of-kalepas-ai-powered-underwriting-platform/))
 - Verisk Names Eric Spear Chief Technology Officer for Extreme Event Solutions ([3 days ago](https://www.insurtechinsights.com/verisk-names-eric-spear-chief-technology-officer-for-extreme-event-solutions/))
