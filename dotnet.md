@@ -8,7 +8,7 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Need Some Feedback on Near Term Wolverine Work ([19 hours ago](https://dotnetkicks.com/r/727678?url=https://jeremydmiller.com/2025/08/15/need-some-feedback-on-near-term-wolverine-work/))
+- Need Some Feedback on Near Term Wolverine Work ([20 hours ago](https://dotnetkicks.com/r/727678?url=https://jeremydmiller.com/2025/08/15/need-some-feedback-on-near-term-wolverine-work/))
 - Why Akka.Streams.Kafka is the Best Kafka Client for .NET ([1 days ago](https://dotnetkicks.com/r/727550?url=https://petabridge.com/blog/akka-streams-kafka-best-kafka-client-dotnet/))
 - Announcing the NuGet MCP Server Preview - .NET Blog ([1 days ago](https://dotnetkicks.com/r/727519?url=https://devblogs.microsoft.com/dotnet/nuget-mcp-server-preview/))
 - Announcing the NuGet MCP Server Preview ([1 days ago](https://devblogs.microsoft.com/dotnet/nuget-mcp-server-preview/))
@@ -42,12 +42,12 @@ description: DotNet Updates
 - Visual Studio 2015 Retirement: Support reminder for older versions of Visual Studio - Visual Studio Blog ([10 days ago](https://dotnetkicks.com/r/726809?url=https://devblogs.microsoft.com/visualstudio/visual-studio-2015-retirement-support-reminder-for-older-versions-of-visual-studio/))
 - Visual Studio 2015 Retirement: Support reminder for older versions of Visual Studio - Visual Studio Blog ([10 days ago](https://dotnetkicks.com/r/726798?url=https://devblogs.microsoft.com/visualstudio/visual-studio-2015-retirement-support-reminder-for-older-versions-of-visual-studio/))
 - .NET Conf 2025 - Announcing the Call for Content - .NET Blog ([10 days ago](https://dotnetkicks.com/r/726779?url=https://devblogs.microsoft.com/dotnet/dotnet-conf-2025-announcing-the-call-for-content/))
-- .NET Conf 2025 – Announcing the Call for Content ([10 days ago](https://devblogs.microsoft.com/dotnet/dotnet-conf-2025-announcing-the-call-for-content/))
+- .NET Conf 2025 – Announcing the Call for Content ([11 days ago](https://devblogs.microsoft.com/dotnet/dotnet-conf-2025-announcing-the-call-for-content/))
 - Jeff Fritz on .NET Aspire and CoPilot Agents ([11 days ago](https://dotnetkicks.com/r/726734?url=https://jesseliberty.com/2025/08/05/jeff-fritz-on-net-aspire-and-copilot-agents/))
 - Passkey support for ASP.NET Core identity: Exploring the .NET 10 preview - Part 6 ([11 days ago](https://dotnetkicks.com/r/726680?url=https://andrewlock.net/exploring-dotnet-10-preview-features-6-passkey-support-for-aspnetcore-identity/))
 - JetBrains is a Platinum Sponsor of the Godot Foundation ([11 days ago](https://blog.jetbrains.com/dotnet/2025/08/05/jetbrains-is-a-platinum-sponsor-of-the-godot-foundation/))
 - Passkey support for ASP.NET Core identity: Exploring the .NET 10 preview - Part 6 ([11 days ago](https://andrewlock.net/exploring-dotnet-10-preview-features-6-passkey-support-for-aspnetcore-identity/))
-- Issue and verify credentials using the Swiss Digital identity public beta, ASP.NET Core and .NET Aspire ([11 days ago](https://dotnetkicks.com/r/726622?url=https://damienbod.com/2025/08/04/issuer-and-verify-credentials-using-the-swiss-digital-identity-public-beta-asp-net-core-and-net-aspire/))
+- Issue and verify credentials using the Swiss Digital identity public beta, ASP.NET Core and .NET Aspire ([12 days ago](https://dotnetkicks.com/r/726622?url=https://damienbod.com/2025/08/04/issuer-and-verify-credentials-using-the-swiss-digital-identity-public-beta-asp-net-core-and-net-aspire/))
 - The new Dependabot NuGet updater: 65% faster with native .NET ([12 days ago](https://devblogs.microsoft.com/dotnet/the-new-dependabot-nuget-updater/))
 - The Untapped Power of Veteran Engineers: Why Companies Are Overlooking Their Most Valuable Assets – Part 3 ([13 days ago](https://dotnettips.wordpress.com/2025/08/03/the-untapped-power-of-veteran-engineers-why-companies-are-overlooking-their-most-valuable-assets-part-3/))
 - Building a Full-Stack App with React and Aspire: A Step-by-Step Guide ([16 days ago](https://devblogs.microsoft.com/dotnet/new-aspire-app-with-react/))
