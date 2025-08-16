@@ -8,7 +8,7 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Need Some Feedback on Near Term Wolverine Work ([4 hours ago](https://dotnetkicks.com/r/727678?url=https://jeremydmiller.com/2025/08/15/need-some-feedback-on-near-term-wolverine-work/))
+- Need Some Feedback on Near Term Wolverine Work ([5 hours ago](https://dotnetkicks.com/r/727678?url=https://jeremydmiller.com/2025/08/15/need-some-feedback-on-near-term-wolverine-work/))
 - Why Akka.Streams.Kafka is the Best Kafka Client for .NET ([1 days ago](https://dotnetkicks.com/r/727550?url=https://petabridge.com/blog/akka-streams-kafka-best-kafka-client-dotnet/))
 - Announcing the NuGet MCP Server Preview - .NET Blog ([1 days ago](https://dotnetkicks.com/r/727519?url=https://devblogs.microsoft.com/dotnet/nuget-mcp-server-preview/))
 - Announcing the NuGet MCP Server Preview ([1 days ago](https://devblogs.microsoft.com/dotnet/nuget-mcp-server-preview/))
@@ -18,7 +18,7 @@ description: DotNet Updates
 - ReSharper and the .NET Tools 2025.2 Are Out! ([1 days ago](https://blog.jetbrains.com/dotnet/2025/08/14/resharper-and-the-net-tools-2025-2-are-out/))
 - Rider 2025.2 Is Here with Junie, In-IDE OpenTelemetry, Game Dev Upgrades, and More ([1 days ago](https://blog.jetbrains.com/dotnet/2025/08/14/rider-2025-2-is-here-with-junie-in-ide-opentelemetry-game-dev-upgrades-and-more/))
 - Cake.Sdk 5.0.25225.53-beta released ([1 days ago](https://dotnetkicks.com/r/727431?url=https://cakebuild.net/blog/2025/08/cake-sdk-net-preview-7-update))
-- From Redmond to San Diego: VS Live! Highlights, Session Examples, and What's Next - Visual Studio Blog ([1 days ago](https://dotnetkicks.com/r/727404?url=https://devblogs.microsoft.com/visualstudio/from-redmond-to-san-diego-vs-live-highlights-session-examples-and-whats-next/))
+- From Redmond to San Diego: VS Live! Highlights, Session Examples, and What's Next - Visual Studio Blog ([2 days ago](https://dotnetkicks.com/r/727404?url=https://devblogs.microsoft.com/visualstudio/from-redmond-to-san-diego-vs-live-highlights-session-examples-and-whats-next/))
 - .NET 10 Preview 7 is now available! - .NET Blog ([3 days ago](https://dotnetkicks.com/r/727280?url=https://devblogs.microsoft.com/dotnet/dotnet-10-preview-7/))
 - .NET 10 Preview 7 is now available! ([3 days ago](https://devblogs.microsoft.com/dotnet/dotnet-10-preview-7/))
 - dotInsights  -  August 2025 ([3 days ago](https://blog.jetbrains.com/dotnet/2025/08/12/dotinsights-august-2025/))
