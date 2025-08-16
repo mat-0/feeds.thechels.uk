@@ -8,7 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- 3 Ways for Insurers to Spread Catastrophe Risk Literacy to Homeowners, Minimal Lift Required ([21 hours ago](https://www.insurancejournal.com/blogs/cotality/2025/08/15/834517.htm))
+- 3 Ways for Insurers to Spread Catastrophe Risk Literacy to Homeowners, Minimal Lift Required ([22 hours ago](https://www.insurancejournal.com/blogs/cotality/2025/08/15/834517.htm))
 - Mercury Seeks 6.9% Rate Increase in Filing Based on New Cat Modeling Regulation ([23 hours ago](https://www.insurancejournal.com/news/west/2025/08/15/835953.htm))
 - Sunderland Marine Supports `The Lifeboat’ Song ([1 days ago](https://insurance-edge.net/2025/08/15/sunderland-marine-supports-the-lifeboat-song/))
 - DOJ Sues California to End Enforcement of Emissions Standards for Trucks ([1 days ago](https://www.insurancejournal.com/news/west/2025/08/15/835948.htm))
@@ -98,7 +98,7 @@ description: Insurance Updates
 - States bracing for FEMA changes ([2 days ago](https://www.dig-in.com/news/states-bracing-for-fema-changes))
 - Risk concerns shift, CAS and SOA survey ([2 days ago](https://www.dig-in.com/news/risk-concerns-shift-cas-and-soa-survey))
 - MS&AD reports higher Q1 profit ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/msandad-reports-higher-q1-profit-546090.aspx))
-- FAIR Plan in regulatory and court crosshairs ([2 days ago](https://www.dig-in.com/list/fair-plan-in-regulatory-and-court-crosshairs))
+- FAIR Plan in regulatory and court crosshairs ([3 days ago](https://www.dig-in.com/list/fair-plan-in-regulatory-and-court-crosshairs))
 - Why password reviews are crucial during employee exits ([3 days ago](https://www.insurancebusinessmag.com/uk/business-strategy/why-password-reviews-are-crucial-during-employee-exits-546075.aspx))
 - Advent to Acquire Sapiens for $2.5 Billion in All-Cash Deal ([3 days ago](https://www.insurtechinsights.com/advent-to-acquire-sapiens-for-2-5-billion-in-all-cash-deal/))
 - Marsh Launches BrokerSafe to Provide Stable, Affordable Auto Liability Coverage for US Freight Brokers ([3 days ago](https://www.insurtechinsights.com/marsh-launches-brokersafe-to-provide-stable-affordable-auto-liability-coverage-for-us-freight-brokers/))
