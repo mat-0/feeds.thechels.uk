@@ -8,6 +8,8 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
+- Sapiens acquired for $2.5B; Plymouth Rock's new execs: Insurance news ([27 minutes ago](https://www.dig-in.com/news/sapiens-acquired-2-5b-plymouth-rock-executive-news))
+- Study finds insurers using AI see a positive ROI ([32 minutes ago](https://www.dig-in.com/news/insurers-using-ai-see-a-positive-roi))
 - 3 Ways for Insurers to Spread Catastrophe Risk Literacy to Homeowners, Minimal Lift Required ([1 days ago](https://www.insurancejournal.com/blogs/cotality/2025/08/15/834517.htm))
 - Mercury Seeks 6.9% Rate Increase in Filing Based on New Cat Modeling Regulation ([1 days ago](https://www.insurancejournal.com/news/west/2025/08/15/835953.htm))
 - Sunderland Marine Supports `The Lifeboat’ Song ([2 days ago](https://insurance-edge.net/2025/08/15/sunderland-marine-supports-the-lifeboat-song/))
@@ -98,7 +100,7 @@ description: Insurance Updates
 - States bracing for FEMA changes ([3 days ago](https://www.dig-in.com/news/states-bracing-for-fema-changes))
 - Risk concerns shift, CAS and SOA survey ([3 days ago](https://www.dig-in.com/news/risk-concerns-shift-cas-and-soa-survey))
 - MS&AD reports higher Q1 profit ([3 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/msandad-reports-higher-q1-profit-546090.aspx))
-- FAIR Plan in regulatory and court crosshairs ([3 days ago](https://www.dig-in.com/list/fair-plan-in-regulatory-and-court-crosshairs))
+- FAIR Plan in regulatory and court crosshairs ([4 days ago](https://www.dig-in.com/list/fair-plan-in-regulatory-and-court-crosshairs))
 - Why password reviews are crucial during employee exits ([4 days ago](https://www.insurancebusinessmag.com/uk/business-strategy/why-password-reviews-are-crucial-during-employee-exits-546075.aspx))
 - Advent to Acquire Sapiens for $2.5 Billion in All-Cash Deal ([4 days ago](https://www.insurtechinsights.com/advent-to-acquire-sapiens-for-2-5-billion-in-all-cash-deal/))
 - Marsh Launches BrokerSafe to Provide Stable, Affordable Auto Liability Coverage for US Freight Brokers ([4 days ago](https://www.insurtechinsights.com/marsh-launches-brokersafe-to-provide-stable-affordable-auto-liability-coverage-for-us-freight-brokers/))
@@ -113,8 +115,6 @@ description: Insurance Updates
 - How the e-bikes boom is testing insurance models ([4 days ago](https://www.postonline.co.uk/personal/7958083/how-the-e-bikes-boom-is-testing-insurance-models))
 - Tomorrow’s World: Regulatory Requirements ([4 days ago](https://www.postonline.co.uk/regulation/7958154/tomorrow%E2%80%99s-world-regulatory-requirements))
 - Using past security incidents to strengthen business defenses ([4 days ago](https://www.dig-in.com/opinion/using-past-cybersecurity-incidents-to-strengthen-business-defenses))
-- Federal reinsurance bill stalls under fire ([4 days ago](https://www.dig-in.com/news/federal-reinsurance-bill-stalls-under-fire))
-- Top insurtech funding rounds, July 2025 ([4 days ago](https://www.dig-in.com/list/top-insurtech-funding-rounds-july-2025))
 - Insurers and brokers agree to aid development of Ukrainian market ([5 days ago](https://www.postonline.co.uk/news/7958879/insurers-and-brokers-agree-to-aid-development-of-ukrainian-market))
 - Wedding venue’s Covid fight with RSA drags on ([5 days ago](https://www.postonline.co.uk/commercial/7958873/wedding-venue%E2%80%99s-covid-fight-with-rsa-drags-on))
 - Brokers voice concerns over non-standard underinsurance ([5 days ago](https://www.postonline.co.uk/broker/7958868/brokers-voice-concerns-over-non-standard-underinsurance))
