@@ -36,7 +36,7 @@ description: Insurance Updates
 - West Virginia Will Finally Study How to Protect Communities After 2016 Floods ([1 days ago](https://www.insurancejournal.com/news/southeast/2025/08/15/835902.htm))
 - Blenheim Underwriting appoints Alex Stratton-Thomsett as Casualty Underwriter ([1 days ago](https://www.reinsurancene.ws/blenheim-underwriting-appoints-alex-stratton-thomsett-as-casualty-underwriter/))
 - Older Drivers in Northern Ireland Are Paying More, Says CompareNI ([1 days ago](https://insurance-edge.net/2025/08/15/older-drivers-in-northern-ireland-are-paying-more-says-compareni/))
-- Equitable takes step to mitigate mortality risk with major reinsurance deal ([1 days ago](https://www.reinsurancene.ws/equitable-takes-step-to-mitigate-mortality-risk-with-major-reinsurance-deal/))
+- Equitable takes step to mitigate mortality risk with major reinsurance deal ([2 days ago](https://www.reinsurancene.ws/equitable-takes-step-to-mitigate-mortality-risk-with-major-reinsurance-deal/))
 - Kalepa expands technology partnership with W. R. Berkley Corporation affiliate ([2 days ago](https://www.reinsurancene.ws/kalepa-expands-technology-partnership-with-w-r-berkley-corporation-affiliate/))
 - AXIS Capital names Matthew Kirk as next chief financial officer ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/axis-capital-names-matthew-kirk-as-next-chief-financial-officer-546344.aspx))
 - Can AI help solve the US' nuclear verdict problem? ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/can-ai-help-solve-the-us-nuclear-verdict-problem-546336.aspx))
