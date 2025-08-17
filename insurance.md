@@ -86,7 +86,7 @@ description: Insurance Updates
 - Aviva’s Direct Line deal triggers £500 staff gift ([2 days ago](https://www.postonline.co.uk/personal/7958890/aviva%E2%80%99s-direct-line-deal-triggers-%C2%A3500-staff-gift))
 - Admiral lifts H1 profit as UK motor and household lines surge ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/admiral-lifts-h1-profit-as-uk-motor-and-household-lines-surge-546151.aspx))
 - Aviva boosts H1 operating profit as capital-light strategy pays off ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/aviva-boosts-h1-operating-profit-as-capitallight-strategy-pays-off-546124.aspx))
-- Talanx lifts 2025 income forecast after record €1.37bn H1 profit ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/talanx-lifts-2025-income-forecast-after-record-1-37bn-h1-profit-546144.aspx))
+- Talanx lifts 2025 income forecast after record €1.37bn H1 profit ([3 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/talanx-lifts-2025-income-forecast-after-record-1-37bn-h1-profit-546144.aspx))
 - Insurtech Gateway acquires Lloyd’s license to trade ([3 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/insurtech-gateway-acquires-lloyds-license-to-trade-546140.aspx))
 - AXIS Capital launches new business unit ([3 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/axis-capital-launches-new-business-unit-546134.aspx))
 - CFC supports voluntary carbon market financing ([3 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/cfc-supports-voluntary-carbon-market-financing-546128.aspx))
