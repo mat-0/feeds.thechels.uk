@@ -8,10 +8,10 @@ description: SecOps News
 [Get this as an RSS feed](/secops.rss)
 
 <!-- news_marker starts -->
-- P2P payment service Zelle sued for enabling payment fraud hell ([10 minutes ago](https://go.theregister.com/feed/www.theregister.com/2025/08/17/cybersecurity_news_roundup/))
-- Google is adding "Projects" feature to Gemini to run research tasks ([8 hours ago](https://www.bleepingcomputer.com/news/artificial-intelligence/google-is-adding-projects-feature-to-gemini-to-run-research-tasks/))
-- U.S. seizes $2.8 million in crypto from Zeppelin ransomware operator ([8 hours ago](https://www.bleepingcomputer.com/news/security/us-seizes-28-million-in-crypto-from-zeppelin-ransomware-operator/))
-- Anthropic: Claude can now end conversations to prevent harmful uses ([8 hours ago](https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-claude-can-now-end-conversations-to-prevent-harmful-uses/))
+- P2P payment service Zelle sued for enabling payment fraud hell ([39 minutes ago](https://go.theregister.com/feed/www.theregister.com/2025/08/17/cybersecurity_news_roundup/))
+- Google is adding "Projects" feature to Gemini to run research tasks ([9 hours ago](https://www.bleepingcomputer.com/news/artificial-intelligence/google-is-adding-projects-feature-to-gemini-to-run-research-tasks/))
+- U.S. seizes $2.8 million in crypto from Zeppelin ransomware operator ([9 hours ago](https://www.bleepingcomputer.com/news/security/us-seizes-28-million-in-crypto-from-zeppelin-ransomware-operator/))
+- Anthropic: Claude can now end conversations to prevent harmful uses ([9 hours ago](https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-claude-can-now-end-conversations-to-prevent-harmful-uses/))
 - Nabiha Syed remakes Mozilla Foundation in the era of Trump and AI ([12 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/08/17/nabiha_syed_remakes_mozilla_foundation/))
 - 18 Arrested as Gurugram Call Centre Data Leak Fuels Massive SBI Credit Card Scam ([12 hours ago](https://databreaches.net/2025/08/17/18-arrested-as-gurugram-call-centre-data-leak-fuels-massive-sbi-credit-card-scam/?pk_campaign=feed&pk_kwd=18-arrested-as-gurugram-call-centre-data-leak-fuels-massive-sbi-credit-card-scam))
 - Weekly Update 465 ([1 days ago](https://www.troyhunt.com/weekly-update-465/))
