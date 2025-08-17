@@ -44,7 +44,7 @@ description: DotNet Updates
 - Visual Studio 2015 Retirement: Support reminder for older versions of Visual Studio - Visual Studio Blog ([11 days ago](https://dotnetkicks.com/r/726798?url=https://devblogs.microsoft.com/visualstudio/visual-studio-2015-retirement-support-reminder-for-older-versions-of-visual-studio/))
 - .NET Conf 2025 - Announcing the Call for Content - .NET Blog ([11 days ago](https://dotnetkicks.com/r/726779?url=https://devblogs.microsoft.com/dotnet/dotnet-conf-2025-announcing-the-call-for-content/))
 - .NET Conf 2025 – Announcing the Call for Content ([11 days ago](https://devblogs.microsoft.com/dotnet/dotnet-conf-2025-announcing-the-call-for-content/))
-- Jeff Fritz on .NET Aspire and CoPilot Agents ([11 days ago](https://dotnetkicks.com/r/726734?url=https://jesseliberty.com/2025/08/05/jeff-fritz-on-net-aspire-and-copilot-agents/))
+- Jeff Fritz on .NET Aspire and CoPilot Agents ([12 days ago](https://dotnetkicks.com/r/726734?url=https://jesseliberty.com/2025/08/05/jeff-fritz-on-net-aspire-and-copilot-agents/))
 - Passkey support for ASP.NET Core identity: Exploring the .NET 10 preview - Part 6 ([12 days ago](https://dotnetkicks.com/r/726680?url=https://andrewlock.net/exploring-dotnet-10-preview-features-6-passkey-support-for-aspnetcore-identity/))
 - JetBrains is a Platinum Sponsor of the Godot Foundation ([12 days ago](https://blog.jetbrains.com/dotnet/2025/08/05/jetbrains-is-a-platinum-sponsor-of-the-godot-foundation/))
 - Passkey support for ASP.NET Core identity: Exploring the .NET 10 preview - Part 6 ([12 days ago](https://andrewlock.net/exploring-dotnet-10-preview-features-6-passkey-support-for-aspnetcore-identity/))
