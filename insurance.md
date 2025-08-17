@@ -11,7 +11,7 @@ description: Insurance Updates
 - 3 Ways for Insurers to Spread Catastrophe Risk Literacy to Homeowners, Minimal Lift Required ([1 days ago](https://www.insurancejournal.com/blogs/cotality/2025/08/15/834517.htm))
 - Mercury Seeks 6.9% Rate Increase in Filing Based on New Cat Modeling Regulation ([1 days ago](https://www.insurancejournal.com/news/west/2025/08/15/835953.htm))
 - Sunderland Marine Supports `The Lifeboat’ Song ([1 days ago](https://insurance-edge.net/2025/08/15/sunderland-marine-supports-the-lifeboat-song/))
-- DOJ Sues California to End Enforcement of Emissions Standards for Trucks ([1 days ago](https://www.insurancejournal.com/news/west/2025/08/15/835948.htm))
+- DOJ Sues California to End Enforcement of Emissions Standards for Trucks ([2 days ago](https://www.insurancejournal.com/news/west/2025/08/15/835948.htm))
 - Banking’s Ailing Climate Coalition Loses Ground in Europe ([2 days ago](https://www.insurancejournal.com/news/international/2025/08/15/835887.htm))
 - Ohio’s Roehr Insurance Partners With Higginbotham ([2 days ago](https://www.insurancejournal.com/news/midwest/2025/08/15/835931.htm))
 - Dragos report estimates up to $330bn in global OT cyber risk ([2 days ago](https://www.reinsurancene.ws/dragos-report-estimates-up-to-330bn-in-global-ot-cyber-risk/))
