@@ -94,7 +94,7 @@ description: Insurance Updates
 - Q&A: Julian Schoemig, Diesta ([2 days ago](https://www.postonline.co.uk/technology/7957973/qa-julian-schoemig-diesta))
 - Throwback Thursday: Safety tyre discount; explosion risk ([2 days ago](https://www.postonline.co.uk/personal/7956761/throwback-thursday-safety-tyre-discount-explosion-risk))
 - Insurance moves: Amiga Specialty and Verisk ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/insurance-moves-amiga-specialty-and-verisk-546127.aspx))
-- Foreclosures tick up as home costs weigh heavy on borrowers ([2 days ago](https://www.dig-in.com/news/foreclosure-rates-rise-nationwide-report-finds))
+- Foreclosures tick up as home costs weigh heavy on borrowers ([3 days ago](https://www.dig-in.com/news/foreclosure-rates-rise-nationwide-report-finds))
 - States bracing for FEMA changes ([3 days ago](https://www.dig-in.com/news/states-bracing-for-fema-changes))
 - Risk concerns shift, CAS and SOA survey ([3 days ago](https://www.dig-in.com/news/risk-concerns-shift-cas-and-soa-survey))
 - MS&AD reports higher Q1 profit ([3 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/msandad-reports-higher-q1-profit-546090.aspx))
