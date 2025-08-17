@@ -8,7 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Sapiens acquired for $2.5B; Plymouth Rock's new execs: Insurance news ([2 hours ago](https://www.dig-in.com/news/sapiens-acquired-2-5b-plymouth-rock-executive-news))
+- Sapiens acquired for $2.5B; Plymouth Rock's new execs: Insurance news ([3 hours ago](https://www.dig-in.com/news/sapiens-acquired-2-5b-plymouth-rock-executive-news))
 - Study finds insurers using AI see a positive ROI ([3 hours ago](https://www.dig-in.com/news/insurers-using-ai-see-a-positive-roi))
 - 3 Ways for Insurers to Spread Catastrophe Risk Literacy to Homeowners, Minimal Lift Required ([2 days ago](https://www.insurancejournal.com/blogs/cotality/2025/08/15/834517.htm))
 - Mercury Seeks 6.9% Rate Increase in Filing Based on New Cat Modeling Regulation ([2 days ago](https://www.insurancejournal.com/news/west/2025/08/15/835953.htm))
