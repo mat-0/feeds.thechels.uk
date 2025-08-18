@@ -8,9 +8,9 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Gas Valve Failure May Have Led to Fatal US Steel Plant Explosion ([1 hours ago](https://www.insurancejournal.com/news/east/2025/08/17/835978.htm))
-- Sapiens acquired for $2.5B; Plymouth Rock's new execs: Insurance news ([5 hours ago](https://www.dig-in.com/news/sapiens-acquired-2-5b-plymouth-rock-executive-news))
-- Study finds insurers using AI see a positive ROI ([6 hours ago](https://www.dig-in.com/news/insurers-using-ai-see-a-positive-roi))
+- Gas Valve Failure May Have Led to Fatal US Steel Plant Explosion ([3 hours ago](https://www.insurancejournal.com/news/east/2025/08/17/835978.htm))
+- Sapiens acquired for $2.5B; Plymouth Rock's new execs: Insurance news ([7 hours ago](https://www.dig-in.com/news/sapiens-acquired-2-5b-plymouth-rock-executive-news))
+- Study finds insurers using AI see a positive ROI ([7 hours ago](https://www.dig-in.com/news/insurers-using-ai-see-a-positive-roi))
 - 3 Ways for Insurers to Spread Catastrophe Risk Literacy to Homeowners, Minimal Lift Required ([2 days ago](https://www.insurancejournal.com/blogs/cotality/2025/08/15/834517.htm))
 - Mercury Seeks 6.9% Rate Increase in Filing Based on New Cat Modeling Regulation ([2 days ago](https://www.insurancejournal.com/news/west/2025/08/15/835953.htm))
 - Sunderland Marine Supports `The Lifeboat’ Song ([2 days ago](https://insurance-edge.net/2025/08/15/sunderland-marine-supports-the-lifeboat-song/))
