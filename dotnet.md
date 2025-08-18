@@ -8,6 +8,7 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
+- Reset Cookies and force new sign-in using ASP.NET Core Identity ([18 minutes ago](https://dotnetkicks.com/r/727827?url=https://damienbod.com/2025/08/18/reset-cookies-and-force-new-sign-in-using-asp-net-core-identity/))
 - F# Weekly #33, 2025 - Rider 2025.2 &amp; .NET 10 Preview 7 ([12 hours ago](https://dotnetkicks.com/r/727748?url=https://sergeytihon.com/2025/08/17/f-weekly-33-2025-rider-2025-2-net-10-preview-7/))
 - UX Chronicles: Why Streaming Apps Still Suck—and Why That Should Terrify Tech Teams ([1 days ago](https://dotnettips.wordpress.com/2025/08/17/ux-chronicles-why-streaming-apps-still-suck-and-why-that-should-terrify-tech-teams/))
 - Need Some Feedback on Near Term Wolverine Work ([2 days ago](https://dotnetkicks.com/r/727678?url=https://jeremydmiller.com/2025/08/15/need-some-feedback-on-near-term-wolverine-work/))
@@ -21,8 +22,8 @@ description: DotNet Updates
 - Rider 2025.2 Is Here with Junie, In-IDE OpenTelemetry, Game Dev Upgrades, and More ([4 days ago](https://blog.jetbrains.com/dotnet/2025/08/14/rider-2025-2-is-here-with-junie-in-ide-opentelemetry-game-dev-upgrades-and-more/))
 - Cake.Sdk 5.0.25225.53-beta released ([4 days ago](https://dotnetkicks.com/r/727431?url=https://cakebuild.net/blog/2025/08/cake-sdk-net-preview-7-update))
 - From Redmond to San Diego: VS Live! Highlights, Session Examples, and What's Next - Visual Studio Blog ([4 days ago](https://dotnetkicks.com/r/727404?url=https://devblogs.microsoft.com/visualstudio/from-redmond-to-san-diego-vs-live-highlights-session-examples-and-whats-next/))
-- .NET 10 Preview 7 is now available! - .NET Blog ([5 days ago](https://dotnetkicks.com/r/727280?url=https://devblogs.microsoft.com/dotnet/dotnet-10-preview-7/))
-- .NET 10 Preview 7 is now available! ([5 days ago](https://devblogs.microsoft.com/dotnet/dotnet-10-preview-7/))
+- .NET 10 Preview 7 is now available! - .NET Blog ([6 days ago](https://dotnetkicks.com/r/727280?url=https://devblogs.microsoft.com/dotnet/dotnet-10-preview-7/))
+- .NET 10 Preview 7 is now available! ([6 days ago](https://devblogs.microsoft.com/dotnet/dotnet-10-preview-7/))
 - dotInsights  -  August 2025 ([6 days ago](https://blog.jetbrains.com/dotnet/2025/08/12/dotinsights-august-2025/))
 - Running .NET in the browser without Blazor ([6 days ago](https://dotnetkicks.com/r/727227?url=https://andrewlock.net/running-dotnet-in-the-browser-without-blazor/))
 - Running .NET in the browser without Blazor ([6 days ago](https://andrewlock.net/running-dotnet-in-the-browser-without-blazor/))
@@ -46,7 +47,6 @@ description: DotNet Updates
 - .NET Conf 2025 - Announcing the Call for Content - .NET Blog ([13 days ago](https://dotnetkicks.com/r/726779?url=https://devblogs.microsoft.com/dotnet/dotnet-conf-2025-announcing-the-call-for-content/))
 - .NET Conf 2025 – Announcing the Call for Content ([13 days ago](https://devblogs.microsoft.com/dotnet/dotnet-conf-2025-announcing-the-call-for-content/))
 - Jeff Fritz on .NET Aspire and CoPilot Agents ([13 days ago](https://dotnetkicks.com/r/726734?url=https://jesseliberty.com/2025/08/05/jeff-fritz-on-net-aspire-and-copilot-agents/))
-- Passkey support for ASP.NET Core identity: Exploring the .NET 10 preview - Part 6 ([13 days ago](https://dotnetkicks.com/r/726680?url=https://andrewlock.net/exploring-dotnet-10-preview-features-6-passkey-support-for-aspnetcore-identity/))
 - JetBrains is a Platinum Sponsor of the Godot Foundation ([13 days ago](https://blog.jetbrains.com/dotnet/2025/08/05/jetbrains-is-a-platinum-sponsor-of-the-godot-foundation/))
 - Passkey support for ASP.NET Core identity: Exploring the .NET 10 preview - Part 6 ([13 days ago](https://andrewlock.net/exploring-dotnet-10-preview-features-6-passkey-support-for-aspnetcore-identity/))
 - The new Dependabot NuGet updater: 65% faster with native .NET ([14 days ago](https://devblogs.microsoft.com/dotnet/the-new-dependabot-nuget-updater/))
