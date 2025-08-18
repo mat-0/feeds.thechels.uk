@@ -8,9 +8,9 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Gas Valve Failure May Have Led to Fatal US Steel Plant Explosion ([4 hours ago](https://www.insurancejournal.com/news/east/2025/08/17/835978.htm))
-- Sapiens acquired for $2.5B; Plymouth Rock's new execs: Insurance news ([8 hours ago](https://www.dig-in.com/news/sapiens-acquired-2-5b-plymouth-rock-executive-news))
-- Study finds insurers using AI see a positive ROI ([8 hours ago](https://www.dig-in.com/news/insurers-using-ai-see-a-positive-roi))
+- Gas Valve Failure May Have Led to Fatal US Steel Plant Explosion ([5 hours ago](https://www.insurancejournal.com/news/east/2025/08/17/835978.htm))
+- Sapiens acquired for $2.5B; Plymouth Rock's new execs: Insurance news ([9 hours ago](https://www.dig-in.com/news/sapiens-acquired-2-5b-plymouth-rock-executive-news))
+- Study finds insurers using AI see a positive ROI ([9 hours ago](https://www.dig-in.com/news/insurers-using-ai-see-a-positive-roi))
 - 3 Ways for Insurers to Spread Catastrophe Risk Literacy to Homeowners, Minimal Lift Required ([2 days ago](https://www.insurancejournal.com/blogs/cotality/2025/08/15/834517.htm))
 - Mercury Seeks 6.9% Rate Increase in Filing Based on New Cat Modeling Regulation ([2 days ago](https://www.insurancejournal.com/news/west/2025/08/15/835953.htm))
 - Sunderland Marine Supports `The Lifeboat’ Song ([2 days ago](https://insurance-edge.net/2025/08/15/sunderland-marine-supports-the-lifeboat-song/))
@@ -95,7 +95,7 @@ description: Insurance Updates
 - How to use AI in insurance responsibly and ethically ([3 days ago](https://www.postonline.co.uk/technology/7958869/how-to-use-ai-in-insurance-responsibly-and-ethically))
 - Q&A: Julian Schoemig, Diesta ([3 days ago](https://www.postonline.co.uk/technology/7957973/qa-julian-schoemig-diesta))
 - Throwback Thursday: Safety tyre discount; explosion risk ([3 days ago](https://www.postonline.co.uk/personal/7956761/throwback-thursday-safety-tyre-discount-explosion-risk))
-- Insurance moves: Amiga Specialty and Verisk ([3 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/insurance-moves-amiga-specialty-and-verisk-546127.aspx))
+- Insurance moves: Amiga Specialty and Verisk ([4 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/insurance-moves-amiga-specialty-and-verisk-546127.aspx))
 - Foreclosures tick up as home costs weigh heavy on borrowers ([4 days ago](https://www.dig-in.com/news/foreclosure-rates-rise-nationwide-report-finds))
 - States bracing for FEMA changes ([4 days ago](https://www.dig-in.com/news/states-bracing-for-fema-changes))
 - Risk concerns shift, CAS and SOA survey ([4 days ago](https://www.dig-in.com/news/risk-concerns-shift-cas-and-soa-survey))
