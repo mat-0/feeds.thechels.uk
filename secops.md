@@ -8,15 +8,15 @@ description: SecOps News
 [Get this as an RSS feed](/secops.rss)
 
 <!-- news_marker starts -->
-- Someone's poking the bear with infostealers targeting Russian crypto developers ([17 minutes ago](https://go.theregister.com/feed/www.theregister.com/2025/08/18/solana_infostealer_npm_malware/))
+- Someone's poking the bear with infostealers targeting Russian crypto developers ([41 minutes ago](https://go.theregister.com/feed/www.theregister.com/2025/08/18/solana_infostealer_npm_malware/))
 - In Otter news, transcription app accused of illegally recording users’ voices ([1 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/08/18/otter_ml_privacy_lawsuit/))
-- Google admits anticompetitive conduct in Australia, agrees to modest fine ([5 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/08/18/asia_tech_news_in_brief/))
-- P2P payment service Zelle sued for enabling payment fraud hell ([7 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/08/17/cybersecurity_news_roundup/))
+- Google admits anticompetitive conduct in Australia, agrees to modest fine ([6 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/08/18/asia_tech_news_in_brief/))
+- P2P payment service Zelle sued for enabling payment fraud hell ([8 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/08/17/cybersecurity_news_roundup/))
 - Google is adding "Projects" feature to Gemini to run research tasks ([16 hours ago](https://www.bleepingcomputer.com/news/artificial-intelligence/google-is-adding-projects-feature-to-gemini-to-run-research-tasks/))
 - U.S. seizes $2.8 million in crypto from Zeppelin ransomware operator ([16 hours ago](https://www.bleepingcomputer.com/news/security/us-seizes-28-million-in-crypto-from-zeppelin-ransomware-operator/))
 - Anthropic: Claude can now end conversations to prevent harmful uses ([16 hours ago](https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-claude-can-now-end-conversations-to-prevent-harmful-uses/))
-- Nabiha Syed remakes Mozilla Foundation in the era of Trump and AI ([19 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/08/17/nabiha_syed_remakes_mozilla_foundation/))
-- 18 Arrested as Gurugram Call Centre Data Leak Fuels Massive SBI Credit Card Scam ([19 hours ago](https://databreaches.net/2025/08/17/18-arrested-as-gurugram-call-centre-data-leak-fuels-massive-sbi-credit-card-scam/?pk_campaign=feed&pk_kwd=18-arrested-as-gurugram-call-centre-data-leak-fuels-massive-sbi-credit-card-scam))
+- Nabiha Syed remakes Mozilla Foundation in the era of Trump and AI ([20 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/08/17/nabiha_syed_remakes_mozilla_foundation/))
+- 18 Arrested as Gurugram Call Centre Data Leak Fuels Massive SBI Credit Card Scam ([20 hours ago](https://databreaches.net/2025/08/17/18-arrested-as-gurugram-call-centre-data-leak-fuels-massive-sbi-credit-card-scam/?pk_campaign=feed&pk_kwd=18-arrested-as-gurugram-call-centre-data-leak-fuels-massive-sbi-credit-card-scam))
 - Weekly Update 465 ([1 days ago](https://www.troyhunt.com/weekly-update-465/))
 - OpenAI prepares Chromium-based AI browser to take on Google ([1 days ago](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-prepares-chromium-based-ai-browser-to-take-on-google/))
 - Leak: ChatGPT cheaper plan costs $4 or £3.50, might release everywhere ([1 days ago](https://www.bleepingcomputer.com/news/artificial-intelligence/leak-chatgpt-cheaper-plan-costs-4-or-350-might-release-everywhere/))
@@ -154,7 +154,7 @@ description: SecOps News
 - Active Cyber Defence (ACD) - the fourth year ([13 days ago](https://www.ncsc.gov.uk/report/acd-report-year-four))
 - Active Cyber Defence (ACD) - The Third Year ([13 days ago](https://www.ncsc.gov.uk/report/acd-report-year-three))
 - OWASP ASVS 5.0.0 is here! ([13 days ago](https://scotthelme.ghost.io/owasp-asvs-5-0-0-is-here/))
-- Weekly Update 463 ([14 days ago](https://www.troyhunt.com/weekly-update-463/))
+- Weekly Update 463 ([15 days ago](https://www.troyhunt.com/weekly-update-463/))
 - Rtpengine: RTP Inject and RTP Bleed vulnerabilities despite proper configuration (CVSS v4.0 Score: 9.3 / Critical) ([15 days ago](https://seclists.org/fulldisclosure/2025/Aug/1))
 - APPLE-SA-07-30-2025-1 Safari 18.6 ([15 days ago](https://seclists.org/fulldisclosure/2025/Aug/0))
 - Disruption with some GitHub services ([16 days ago](https://www.githubstatus.com/incidents/j630wwvgw9kb))
@@ -197,6 +197,6 @@ description: SecOps News
 - Incident with Issues ([27 days ago](https://www.githubstatus.com/incidents/btl2cjm2pzkj))
 - Good Riddance Teespring, Hello Fourthwall ([27 days ago](https://www.troyhunt.com/good-riddance-teespring-hello-fourthwall/))
 - Some Copilot Models Experiencing Degraded Performance ([27 days ago](https://www.githubstatus.com/incidents/j3byj17b8m1t))
-- Weekly Update 461 ([28 days ago](https://www.troyhunt.com/weekly-update-461/))
+- Weekly Update 461 ([29 days ago](https://www.troyhunt.com/weekly-update-461/))
 
 <!-- news_marker ends -->
