@@ -8,8 +8,9 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Sapiens acquired for $2.5B; Plymouth Rock's new execs: Insurance news ([3 hours ago](https://www.dig-in.com/news/sapiens-acquired-2-5b-plymouth-rock-executive-news))
-- Study finds insurers using AI see a positive ROI ([4 hours ago](https://www.dig-in.com/news/insurers-using-ai-see-a-positive-roi))
+- Gas Valve Failure May Have Led to Fatal US Steel Plant Explosion ([54 minutes ago](https://www.insurancejournal.com/news/east/2025/08/17/835978.htm))
+- Sapiens acquired for $2.5B; Plymouth Rock's new execs: Insurance news ([4 hours ago](https://www.dig-in.com/news/sapiens-acquired-2-5b-plymouth-rock-executive-news))
+- Study finds insurers using AI see a positive ROI ([5 hours ago](https://www.dig-in.com/news/insurers-using-ai-see-a-positive-roi))
 - 3 Ways for Insurers to Spread Catastrophe Risk Literacy to Homeowners, Minimal Lift Required ([2 days ago](https://www.insurancejournal.com/blogs/cotality/2025/08/15/834517.htm))
 - Mercury Seeks 6.9% Rate Increase in Filing Based on New Cat Modeling Regulation ([2 days ago](https://www.insurancejournal.com/news/west/2025/08/15/835953.htm))
 - Sunderland Marine Supports `The Lifeboat’ Song ([2 days ago](https://insurance-edge.net/2025/08/15/sunderland-marine-supports-the-lifeboat-song/))
@@ -68,7 +69,6 @@ description: Insurance Updates
 - Rising La Niña Odds Point to More Hurricanes in the Atlantic ([2 days ago](https://www.insurancejournal.com/news/national/2025/08/15/835839.htm))
 - Florida Peninsula Files for 8.4% Cut in HO Rates, 12% Drop in Condo Owners’ ([2 days ago](https://www.insurancejournal.com/news/southeast/2025/08/15/835874.htm))
 - Son Cashed Mom’s Workers’ Compensation Checks After She Died ([2 days ago](https://www.insurancejournal.com/news/east/2025/08/15/835579.htm))
-- Brightstone Specialty Acquires RMS Hospitality and Fortis Risk ([2 days ago](https://www.insurancejournal.com/news/east/2025/08/15/835803.htm))
 - SRG buys broker; Evolution’s office; Davies’ insurance CEO ([2 days ago](https://www.postonline.co.uk/news/7958889/srg-buys-broker-evolution%E2%80%99s-office-davies%E2%80%99-insurance-ceo))
 - Penny Black’s Social Diary: HFG’s history; WTW’s ham ([2 days ago](https://www.postonline.co.uk/people/7958127/penny-black%E2%80%99s-social-diary-hfg%E2%80%99s-history-wtw%E2%80%99s-ham))
 - What the motor finance ruling means for broking pay ([2 days ago](https://www.postonline.co.uk/regulation/7958313/what-the-motor-finance-ruling-means-for-broking-pay))
