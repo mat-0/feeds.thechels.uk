@@ -8,8 +8,8 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Gas Valve Failure May Have Led to Fatal US Steel Plant Explosion ([3 hours ago](https://www.insurancejournal.com/news/east/2025/08/17/835978.htm))
-- Sapiens acquired for $2.5B; Plymouth Rock's new execs: Insurance news ([7 hours ago](https://www.dig-in.com/news/sapiens-acquired-2-5b-plymouth-rock-executive-news))
+- Gas Valve Failure May Have Led to Fatal US Steel Plant Explosion ([4 hours ago](https://www.insurancejournal.com/news/east/2025/08/17/835978.htm))
+- Sapiens acquired for $2.5B; Plymouth Rock's new execs: Insurance news ([8 hours ago](https://www.dig-in.com/news/sapiens-acquired-2-5b-plymouth-rock-executive-news))
 - Study finds insurers using AI see a positive ROI ([8 hours ago](https://www.dig-in.com/news/insurers-using-ai-see-a-positive-roi))
 - 3 Ways for Insurers to Spread Catastrophe Risk Literacy to Homeowners, Minimal Lift Required ([2 days ago](https://www.insurancejournal.com/blogs/cotality/2025/08/15/834517.htm))
 - Mercury Seeks 6.9% Rate Increase in Filing Based on New Cat Modeling Regulation ([2 days ago](https://www.insurancejournal.com/news/west/2025/08/15/835953.htm))
@@ -96,7 +96,7 @@ description: Insurance Updates
 - Q&A: Julian Schoemig, Diesta ([3 days ago](https://www.postonline.co.uk/technology/7957973/qa-julian-schoemig-diesta))
 - Throwback Thursday: Safety tyre discount; explosion risk ([3 days ago](https://www.postonline.co.uk/personal/7956761/throwback-thursday-safety-tyre-discount-explosion-risk))
 - Insurance moves: Amiga Specialty and Verisk ([3 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/insurance-moves-amiga-specialty-and-verisk-546127.aspx))
-- Foreclosures tick up as home costs weigh heavy on borrowers ([3 days ago](https://www.dig-in.com/news/foreclosure-rates-rise-nationwide-report-finds))
+- Foreclosures tick up as home costs weigh heavy on borrowers ([4 days ago](https://www.dig-in.com/news/foreclosure-rates-rise-nationwide-report-finds))
 - States bracing for FEMA changes ([4 days ago](https://www.dig-in.com/news/states-bracing-for-fema-changes))
 - Risk concerns shift, CAS and SOA survey ([4 days ago](https://www.dig-in.com/news/risk-concerns-shift-cas-and-soa-survey))
 - MS&AD reports higher Q1 profit ([4 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/msandad-reports-higher-q1-profit-546090.aspx))
