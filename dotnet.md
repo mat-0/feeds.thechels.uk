@@ -8,11 +8,11 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Converting an xUnit test project to TUnit ([5 hours ago](https://dotnetkicks.com/r/727846?url=https://andrewlock.net/converting-an-xunit-project-to-tunit/))
-- Converting an xUnit test project to TUnit ([5 hours ago](https://dotnetkicks.com/r/727845?url=https://andrewlock.net/converting-an-xunit-project-to-tunit/))
+- Converting an xUnit test project to TUnit ([6 hours ago](https://dotnetkicks.com/r/727846?url=https://andrewlock.net/converting-an-xunit-project-to-tunit/))
+- Converting an xUnit test project to TUnit ([6 hours ago](https://dotnetkicks.com/r/727845?url=https://andrewlock.net/converting-an-xunit-project-to-tunit/))
 - Converting an xUnit test project to TUnit ([6 hours ago](https://andrewlock.net/converting-an-xunit-project-to-tunit/))
 - Operations that Span Multiple Event Streams with the Critter Stack ([15 hours ago](https://dotnetkicks.com/r/727838?url=https://jeremydmiller.com/2025/08/18/operations-that-span-multiple-event-streams-with-the-critter-stack/))
-- Reset Cookies and force new sign-in using ASP.NET Core Identity ([20 hours ago](https://dotnetkicks.com/r/727827?url=https://damienbod.com/2025/08/18/reset-cookies-and-force-new-sign-in-using-asp-net-core-identity/))
+- Reset Cookies and force new sign-in using ASP.NET Core Identity ([21 hours ago](https://dotnetkicks.com/r/727827?url=https://damienbod.com/2025/08/18/reset-cookies-and-force-new-sign-in-using-asp-net-core-identity/))
 - F# Weekly #33, 2025 - Rider 2025.2 &amp; .NET 10 Preview 7 ([1 days ago](https://dotnetkicks.com/r/727748?url=https://sergeytihon.com/2025/08/17/f-weekly-33-2025-rider-2025-2-net-10-preview-7/))
 - UX Chronicles: Why Streaming Apps Still Suck—and Why That Should Terrify Tech Teams ([2 days ago](https://dotnettips.wordpress.com/2025/08/17/ux-chronicles-why-streaming-apps-still-suck-and-why-that-should-terrify-tech-teams/))
 - Need Some Feedback on Near Term Wolverine Work ([3 days ago](https://dotnetkicks.com/r/727678?url=https://jeremydmiller.com/2025/08/15/need-some-feedback-on-near-term-wolverine-work/))
@@ -46,7 +46,7 @@ description: DotNet Updates
 - Exploring new Agent Quality and NLP evaluators for .NET AI applications - .NET Blog ([13 days ago](https://dotnetkicks.com/r/726818?url=https://devblogs.microsoft.com/dotnet/exploring-agent-quality-and-nlp-evaluators/))
 - Exploring new Agent Quality and NLP evaluators for .NET AI applications - .NET Blog ([13 days ago](https://dotnetkicks.com/r/726814?url=https://devblogs.microsoft.com/dotnet/exploring-agent-quality-and-nlp-evaluators/))
 - Exploring new Agent Quality and NLP evaluators for .NET AI applications ([13 days ago](https://devblogs.microsoft.com/dotnet/exploring-agent-quality-and-nlp-evaluators/))
-- Visual Studio 2015 Retirement: Support reminder for older versions of Visual Studio - Visual Studio Blog ([13 days ago](https://dotnetkicks.com/r/726809?url=https://devblogs.microsoft.com/visualstudio/visual-studio-2015-retirement-support-reminder-for-older-versions-of-visual-studio/))
+- Visual Studio 2015 Retirement: Support reminder for older versions of Visual Studio - Visual Studio Blog ([14 days ago](https://dotnetkicks.com/r/726809?url=https://devblogs.microsoft.com/visualstudio/visual-studio-2015-retirement-support-reminder-for-older-versions-of-visual-studio/))
 - .NET Conf 2025 – Announcing the Call for Content ([14 days ago](https://devblogs.microsoft.com/dotnet/dotnet-conf-2025-announcing-the-call-for-content/))
 - JetBrains is a Platinum Sponsor of the Godot Foundation ([14 days ago](https://blog.jetbrains.com/dotnet/2025/08/05/jetbrains-is-a-platinum-sponsor-of-the-godot-foundation/))
 - Passkey support for ASP.NET Core identity: Exploring the .NET 10 preview - Part 6 ([14 days ago](https://andrewlock.net/exploring-dotnet-10-preview-features-6-passkey-support-for-aspnetcore-identity/))
