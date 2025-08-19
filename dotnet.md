@@ -8,11 +8,11 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Converting an xUnit test project to TUnit ([3 hours ago](https://dotnetkicks.com/r/727846?url=https://andrewlock.net/converting-an-xunit-project-to-tunit/))
-- Converting an xUnit test project to TUnit ([3 hours ago](https://dotnetkicks.com/r/727845?url=https://andrewlock.net/converting-an-xunit-project-to-tunit/))
+- Converting an xUnit test project to TUnit ([4 hours ago](https://dotnetkicks.com/r/727846?url=https://andrewlock.net/converting-an-xunit-project-to-tunit/))
+- Converting an xUnit test project to TUnit ([4 hours ago](https://dotnetkicks.com/r/727845?url=https://andrewlock.net/converting-an-xunit-project-to-tunit/))
 - Converting an xUnit test project to TUnit ([4 hours ago](https://andrewlock.net/converting-an-xunit-project-to-tunit/))
 - Operations that Span Multiple Event Streams with the Critter Stack ([13 hours ago](https://dotnetkicks.com/r/727838?url=https://jeremydmiller.com/2025/08/18/operations-that-span-multiple-event-streams-with-the-critter-stack/))
-- Reset Cookies and force new sign-in using ASP.NET Core Identity ([18 hours ago](https://dotnetkicks.com/r/727827?url=https://damienbod.com/2025/08/18/reset-cookies-and-force-new-sign-in-using-asp-net-core-identity/))
+- Reset Cookies and force new sign-in using ASP.NET Core Identity ([19 hours ago](https://dotnetkicks.com/r/727827?url=https://damienbod.com/2025/08/18/reset-cookies-and-force-new-sign-in-using-asp-net-core-identity/))
 - F# Weekly #33, 2025 - Rider 2025.2 &amp; .NET 10 Preview 7 ([1 days ago](https://dotnetkicks.com/r/727748?url=https://sergeytihon.com/2025/08/17/f-weekly-33-2025-rider-2025-2-net-10-preview-7/))
 - UX Chronicles: Why Streaming Apps Still Suck—and Why That Should Terrify Tech Teams ([2 days ago](https://dotnettips.wordpress.com/2025/08/17/ux-chronicles-why-streaming-apps-still-suck-and-why-that-should-terrify-tech-teams/))
 - Need Some Feedback on Near Term Wolverine Work ([3 days ago](https://dotnetkicks.com/r/727678?url=https://jeremydmiller.com/2025/08/15/need-some-feedback-on-near-term-wolverine-work/))
@@ -28,7 +28,7 @@ description: DotNet Updates
 - From Redmond to San Diego: VS Live! Highlights, Session Examples, and What's Next - Visual Studio Blog ([5 days ago](https://dotnetkicks.com/r/727404?url=https://devblogs.microsoft.com/visualstudio/from-redmond-to-san-diego-vs-live-highlights-session-examples-and-whats-next/))
 - .NET 10 Preview 7 is now available! - .NET Blog ([6 days ago](https://dotnetkicks.com/r/727280?url=https://devblogs.microsoft.com/dotnet/dotnet-10-preview-7/))
 - .NET 10 Preview 7 is now available! ([6 days ago](https://devblogs.microsoft.com/dotnet/dotnet-10-preview-7/))
-- dotInsights  -  August 2025 ([6 days ago](https://blog.jetbrains.com/dotnet/2025/08/12/dotinsights-august-2025/))
+- dotInsights  -  August 2025 ([7 days ago](https://blog.jetbrains.com/dotnet/2025/08/12/dotinsights-august-2025/))
 - Running .NET in the browser without Blazor ([7 days ago](https://dotnetkicks.com/r/727227?url=https://andrewlock.net/running-dotnet-in-the-browser-without-blazor/))
 - Running .NET in the browser without Blazor ([7 days ago](https://andrewlock.net/running-dotnet-in-the-browser-without-blazor/))
 - F# Weekly #32, 2025 - Call for Speakers: .NET Conf 2025 &amp; JetBrains .NET Days ([8 days ago](https://dotnetkicks.com/r/727117?url=https://sergeytihon.com/2025/08/10/f-weekly-32-2025-call-for-speakers-net-conf-2025-jetbrains-net-days/))
