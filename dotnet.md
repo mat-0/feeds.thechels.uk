@@ -8,10 +8,10 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Model Context Protocol (MCP) is Now Generally Available in Visual Studio 🎉 - Visual Studio Blog ([16 hours ago](https://dotnetkicks.com/r/727902?url=https://devblogs.microsoft.com/visualstudio/mcp-is-now-generally-available-in-visual-studio/))
+- Model Context Protocol (MCP) is Now Generally Available in Visual Studio 🎉 - Visual Studio Blog ([17 hours ago](https://dotnetkicks.com/r/727902?url=https://devblogs.microsoft.com/visualstudio/mcp-is-now-generally-available-in-visual-studio/))
 - GPT-OSS - A C# Guide with Ollama - .NET Blog ([18 hours ago](https://dotnetkicks.com/r/727899?url=https://devblogs.microsoft.com/dotnet/gpt-oss-csharp-ollama/))
 - GPT-OSS - A C# Guide with Ollama - .NET Blog ([18 hours ago](https://dotnetkicks.com/r/727897?url=https://devblogs.microsoft.com/dotnet/gpt-oss-csharp-ollama/))
-- GPT-OSS – A C# Guide with Ollama ([18 hours ago](https://devblogs.microsoft.com/dotnet/gpt-oss-csharp-ollama/))
+- GPT-OSS – A C# Guide with Ollama ([19 hours ago](https://devblogs.microsoft.com/dotnet/gpt-oss-csharp-ollama/))
 - Converting an xUnit test project to TUnit ([1 days ago](https://dotnetkicks.com/r/727846?url=https://andrewlock.net/converting-an-xunit-project-to-tunit/))
 - Converting an xUnit test project to TUnit ([1 days ago](https://dotnetkicks.com/r/727845?url=https://andrewlock.net/converting-an-xunit-project-to-tunit/))
 - Converting an xUnit test project to TUnit ([1 days ago](https://andrewlock.net/converting-an-xunit-project-to-tunit/))
