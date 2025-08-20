@@ -8,9 +8,9 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Model Context Protocol (MCP) is Now Generally Available in Visual Studio 🎉 - Visual Studio Blog ([17 hours ago](https://dotnetkicks.com/r/727902?url=https://devblogs.microsoft.com/visualstudio/mcp-is-now-generally-available-in-visual-studio/))
-- GPT-OSS - A C# Guide with Ollama - .NET Blog ([18 hours ago](https://dotnetkicks.com/r/727899?url=https://devblogs.microsoft.com/dotnet/gpt-oss-csharp-ollama/))
-- GPT-OSS - A C# Guide with Ollama - .NET Blog ([18 hours ago](https://dotnetkicks.com/r/727897?url=https://devblogs.microsoft.com/dotnet/gpt-oss-csharp-ollama/))
+- Model Context Protocol (MCP) is Now Generally Available in Visual Studio 🎉 - Visual Studio Blog ([18 hours ago](https://dotnetkicks.com/r/727902?url=https://devblogs.microsoft.com/visualstudio/mcp-is-now-generally-available-in-visual-studio/))
+- GPT-OSS - A C# Guide with Ollama - .NET Blog ([19 hours ago](https://dotnetkicks.com/r/727899?url=https://devblogs.microsoft.com/dotnet/gpt-oss-csharp-ollama/))
+- GPT-OSS - A C# Guide with Ollama - .NET Blog ([19 hours ago](https://dotnetkicks.com/r/727897?url=https://devblogs.microsoft.com/dotnet/gpt-oss-csharp-ollama/))
 - GPT-OSS – A C# Guide with Ollama ([19 hours ago](https://devblogs.microsoft.com/dotnet/gpt-oss-csharp-ollama/))
 - Converting an xUnit test project to TUnit ([1 days ago](https://dotnetkicks.com/r/727846?url=https://andrewlock.net/converting-an-xunit-project-to-tunit/))
 - Converting an xUnit test project to TUnit ([1 days ago](https://dotnetkicks.com/r/727845?url=https://andrewlock.net/converting-an-xunit-project-to-tunit/))
@@ -23,8 +23,8 @@ description: DotNet Updates
 - Why Akka.Streams.Kafka is the Best Kafka Client for .NET ([5 days ago](https://dotnetkicks.com/r/727550?url=https://petabridge.com/blog/akka-streams-kafka-best-kafka-client-dotnet/))
 - Announcing the NuGet MCP Server Preview - .NET Blog ([5 days ago](https://dotnetkicks.com/r/727519?url=https://devblogs.microsoft.com/dotnet/nuget-mcp-server-preview/))
 - Announcing the NuGet MCP Server Preview ([5 days ago](https://devblogs.microsoft.com/dotnet/nuget-mcp-server-preview/))
-- Improving Codebase Awareness in Visual Studio Chat - Visual Studio Blog ([5 days ago](https://dotnetkicks.com/r/727490?url=https://devblogs.microsoft.com/visualstudio/improving-codebase-awareness-in-visual-studio-chat/))
-- Improving Codebase Awareness in Visual Studio Chat - Visual Studio Blog ([5 days ago](https://dotnetkicks.com/r/727467?url=https://devblogs.microsoft.com/visualstudio/improving-codebase-awareness-in-visual-studio-chat/))
+- Improving Codebase Awareness in Visual Studio Chat - Visual Studio Blog ([6 days ago](https://dotnetkicks.com/r/727490?url=https://devblogs.microsoft.com/visualstudio/improving-codebase-awareness-in-visual-studio-chat/))
+- Improving Codebase Awareness in Visual Studio Chat - Visual Studio Blog ([6 days ago](https://dotnetkicks.com/r/727467?url=https://devblogs.microsoft.com/visualstudio/improving-codebase-awareness-in-visual-studio-chat/))
 - Next-Level Performance Improvements in ReSharper 2025.2 ([6 days ago](https://blog.jetbrains.com/dotnet/2025/08/14/resharper-performance-improvements-2025/))
 - ReSharper and the .NET Tools 2025.2 Are Out! ([6 days ago](https://blog.jetbrains.com/dotnet/2025/08/14/resharper-and-the-net-tools-2025-2-are-out/))
 - Rider 2025.2 Is Here with Junie, In-IDE OpenTelemetry, Game Dev Upgrades, and More ([6 days ago](https://blog.jetbrains.com/dotnet/2025/08/14/rider-2025-2-is-here-with-junie-in-ide-opentelemetry-game-dev-upgrades-and-more/))
