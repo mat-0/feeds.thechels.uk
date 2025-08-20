@@ -9,9 +9,9 @@ description: DotNet Updates
 
 <!-- news_marker starts -->
 - Copilot Diagnostics toolset for .NET In Visual Studio - .NET Blog ([2 hours ago](https://dotnetkicks.com/r/728012?url=https://devblogs.microsoft.com/dotnet/github-copilot-diagnostics-toolset-for-dotnet-in-visual-studio/))
-- Copilot Diagnostics toolset for .NET In Visual Studio ([2 hours ago](https://devblogs.microsoft.com/dotnet/github-copilot-diagnostics-toolset-for-dotnet-in-visual-studio/))
-- Bring Your Own Model to Chat in Visual Studio - Visual Studio Blog ([3 hours ago](https://dotnetkicks.com/r/728005?url=https://devblogs.microsoft.com/visualstudio/bring-your-own-model-visual-studio-chat/))
-- Bring Your Own Model to Chat in Visual Studio - Visual Studio Blog ([3 hours ago](https://dotnetkicks.com/r/727973?url=https://devblogs.microsoft.com/visualstudio/bring-your-own-model-visual-studio-chat/))
+- Copilot Diagnostics toolset for .NET In Visual Studio ([3 hours ago](https://devblogs.microsoft.com/dotnet/github-copilot-diagnostics-toolset-for-dotnet-in-visual-studio/))
+- Bring Your Own Model to Chat in Visual Studio - Visual Studio Blog ([4 hours ago](https://dotnetkicks.com/r/728005?url=https://devblogs.microsoft.com/visualstudio/bring-your-own-model-visual-studio-chat/))
+- Bring Your Own Model to Chat in Visual Studio - Visual Studio Blog ([4 hours ago](https://dotnetkicks.com/r/727973?url=https://devblogs.microsoft.com/visualstudio/bring-your-own-model-visual-studio-chat/))
 - Model Context Protocol (MCP) is Now Generally Available in Visual Studio 🎉 - Visual Studio Blog ([1 days ago](https://dotnetkicks.com/r/727902?url=https://devblogs.microsoft.com/visualstudio/mcp-is-now-generally-available-in-visual-studio/))
 - GPT-OSS - A C# Guide with Ollama - .NET Blog ([1 days ago](https://dotnetkicks.com/r/727899?url=https://devblogs.microsoft.com/dotnet/gpt-oss-csharp-ollama/))
 - GPT-OSS - A C# Guide with Ollama - .NET Blog ([1 days ago](https://dotnetkicks.com/r/727897?url=https://devblogs.microsoft.com/dotnet/gpt-oss-csharp-ollama/))
@@ -23,7 +23,7 @@ description: DotNet Updates
 - Reset Cookies and force new sign-in using ASP.NET Core Identity ([2 days ago](https://dotnetkicks.com/r/727827?url=https://damienbod.com/2025/08/18/reset-cookies-and-force-new-sign-in-using-asp-net-core-identity/))
 - F# Weekly #33, 2025 - Rider 2025.2 &amp; .NET 10 Preview 7 ([2 days ago](https://dotnetkicks.com/r/727748?url=https://sergeytihon.com/2025/08/17/f-weekly-33-2025-rider-2025-2-net-10-preview-7/))
 - UX Chronicles: Why Streaming Apps Still Suck—and Why That Should Terrify Tech Teams ([3 days ago](https://dotnettips.wordpress.com/2025/08/17/ux-chronicles-why-streaming-apps-still-suck-and-why-that-should-terrify-tech-teams/))
-- Need Some Feedback on Near Term Wolverine Work ([4 days ago](https://dotnetkicks.com/r/727678?url=https://jeremydmiller.com/2025/08/15/need-some-feedback-on-near-term-wolverine-work/))
+- Need Some Feedback on Near Term Wolverine Work ([5 days ago](https://dotnetkicks.com/r/727678?url=https://jeremydmiller.com/2025/08/15/need-some-feedback-on-near-term-wolverine-work/))
 - Why Akka.Streams.Kafka is the Best Kafka Client for .NET ([5 days ago](https://dotnetkicks.com/r/727550?url=https://petabridge.com/blog/akka-streams-kafka-best-kafka-client-dotnet/))
 - Announcing the NuGet MCP Server Preview - .NET Blog ([6 days ago](https://dotnetkicks.com/r/727519?url=https://devblogs.microsoft.com/dotnet/nuget-mcp-server-preview/))
 - Announcing the NuGet MCP Server Preview ([6 days ago](https://devblogs.microsoft.com/dotnet/nuget-mcp-server-preview/))
