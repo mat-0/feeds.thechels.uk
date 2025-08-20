@@ -9,9 +9,9 @@ description: DotNet Updates
 
 <!-- news_marker starts -->
 - Copilot Diagnostics toolset for .NET In Visual Studio - .NET Blog ([5 hours ago](https://dotnetkicks.com/r/728012?url=https://devblogs.microsoft.com/dotnet/github-copilot-diagnostics-toolset-for-dotnet-in-visual-studio/))
-- Copilot Diagnostics toolset for .NET In Visual Studio ([5 hours ago](https://devblogs.microsoft.com/dotnet/github-copilot-diagnostics-toolset-for-dotnet-in-visual-studio/))
-- Bring Your Own Model to Chat in Visual Studio - Visual Studio Blog ([6 hours ago](https://dotnetkicks.com/r/728005?url=https://devblogs.microsoft.com/visualstudio/bring-your-own-model-visual-studio-chat/))
-- Bring Your Own Model to Chat in Visual Studio - Visual Studio Blog ([6 hours ago](https://dotnetkicks.com/r/727973?url=https://devblogs.microsoft.com/visualstudio/bring-your-own-model-visual-studio-chat/))
+- Copilot Diagnostics toolset for .NET In Visual Studio ([6 hours ago](https://devblogs.microsoft.com/dotnet/github-copilot-diagnostics-toolset-for-dotnet-in-visual-studio/))
+- Bring Your Own Model to Chat in Visual Studio - Visual Studio Blog ([7 hours ago](https://dotnetkicks.com/r/728005?url=https://devblogs.microsoft.com/visualstudio/bring-your-own-model-visual-studio-chat/))
+- Bring Your Own Model to Chat in Visual Studio - Visual Studio Blog ([7 hours ago](https://dotnetkicks.com/r/727973?url=https://devblogs.microsoft.com/visualstudio/bring-your-own-model-visual-studio-chat/))
 - Model Context Protocol (MCP) is Now Generally Available in Visual Studio 🎉 - Visual Studio Blog ([1 days ago](https://dotnetkicks.com/r/727902?url=https://devblogs.microsoft.com/visualstudio/mcp-is-now-generally-available-in-visual-studio/))
 - GPT-OSS - A C# Guide with Ollama - .NET Blog ([1 days ago](https://dotnetkicks.com/r/727899?url=https://devblogs.microsoft.com/dotnet/gpt-oss-csharp-ollama/))
 - GPT-OSS - A C# Guide with Ollama - .NET Blog ([1 days ago](https://dotnetkicks.com/r/727897?url=https://devblogs.microsoft.com/dotnet/gpt-oss-csharp-ollama/))
@@ -47,7 +47,7 @@ description: DotNet Updates
 - 5 Copilot Chat Prompts .NET Devs Should Steal Today - .NET Blog ([14 days ago](https://dotnetkicks.com/r/726939?url=https://devblogs.microsoft.com/dotnet/5-copilot-chat-prompts-dotnet-devs-should-steal-today/))
 - 5 Copilot Chat Prompts .NET Devs Should Steal Today - .NET Blog ([14 days ago](https://dotnetkicks.com/r/726936?url=https://devblogs.microsoft.com/dotnet/5-copilot-chat-prompts-dotnet-devs-should-steal-today/))
 - 5 Copilot Chat Prompts .NET Devs Should Steal Today ([14 days ago](https://devblogs.microsoft.com/dotnet/5-copilot-chat-prompts-dotnet-devs-should-steal-today/))
-- .NET and .NET Framework August 2025 servicing releases updates ([14 days ago](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-august-2025-servicing-updates/))
+- .NET and .NET Framework August 2025 servicing releases updates ([15 days ago](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-august-2025-servicing-updates/))
 - Exploring new Agent Quality and NLP evaluators for .NET AI applications ([15 days ago](https://devblogs.microsoft.com/dotnet/exploring-agent-quality-and-nlp-evaluators/))
 - .NET Conf 2025 – Announcing the Call for Content ([15 days ago](https://devblogs.microsoft.com/dotnet/dotnet-conf-2025-announcing-the-call-for-content/))
 - JetBrains is a Platinum Sponsor of the Godot Foundation ([15 days ago](https://blog.jetbrains.com/dotnet/2025/08/05/jetbrains-is-a-platinum-sponsor-of-the-godot-foundation/))
