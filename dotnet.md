@@ -8,8 +8,8 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Security Product Efficacy ([8 hours ago](https://dotnetkicks.com/r/728032?url=https://textslashplain.com/2025/08/20/security-product-efficacy/))
-- Copilot Diagnostics toolset for .NET In Visual Studio - .NET Blog ([14 hours ago](https://dotnetkicks.com/r/728012?url=https://devblogs.microsoft.com/dotnet/github-copilot-diagnostics-toolset-for-dotnet-in-visual-studio/))
+- Security Product Efficacy ([9 hours ago](https://dotnetkicks.com/r/728032?url=https://textslashplain.com/2025/08/20/security-product-efficacy/))
+- Copilot Diagnostics toolset for .NET In Visual Studio - .NET Blog ([15 hours ago](https://dotnetkicks.com/r/728012?url=https://devblogs.microsoft.com/dotnet/github-copilot-diagnostics-toolset-for-dotnet-in-visual-studio/))
 - Copilot Diagnostics toolset for .NET In Visual Studio ([15 hours ago](https://devblogs.microsoft.com/dotnet/github-copilot-diagnostics-toolset-for-dotnet-in-visual-studio/))
 - Bring Your Own Model to Chat in Visual Studio - Visual Studio Blog ([16 hours ago](https://dotnetkicks.com/r/728005?url=https://devblogs.microsoft.com/visualstudio/bring-your-own-model-visual-studio-chat/))
 - Bring Your Own Model to Chat in Visual Studio - Visual Studio Blog ([16 hours ago](https://dotnetkicks.com/r/727973?url=https://devblogs.microsoft.com/visualstudio/bring-your-own-model-visual-studio-chat/))
