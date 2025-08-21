@@ -10,7 +10,7 @@ description: DotNet Updates
 <!-- news_marker starts -->
 - Why Separate Databases? Explaining Like You're Five ([4 hours ago](https://dotnetkicks.com/r/728117?url=https://codeopinion.com/why-separate-databases-explaining-like-youre-five/))
 - Enhance your CLI testing workflow with the new dotnet test - .NET Blog ([5 hours ago](https://dotnetkicks.com/r/728111?url=https://devblogs.microsoft.com/dotnet/dotnet-test-with-mtp/))
-- Enhance your CLI testing workflow with the new dotnet test ([5 hours ago](https://devblogs.microsoft.com/dotnet/dotnet-test-with-mtp/))
+- Enhance your CLI testing workflow with the new dotnet test ([6 hours ago](https://devblogs.microsoft.com/dotnet/dotnet-test-with-mtp/))
 - Better Control over Your Copilot Code Suggestions - Visual Studio Blog ([6 hours ago](https://dotnetkicks.com/r/728100?url=https://devblogs.microsoft.com/visualstudio/better-control-over-your-copilot-code-suggestions/))
 - Security Product Efficacy ([23 hours ago](https://dotnetkicks.com/r/728032?url=https://textslashplain.com/2025/08/20/security-product-efficacy/))
 - Copilot Diagnostics toolset for .NET In Visual Studio - .NET Blog ([1 days ago](https://dotnetkicks.com/r/728012?url=https://devblogs.microsoft.com/dotnet/github-copilot-diagnostics-toolset-for-dotnet-in-visual-studio/))
@@ -48,7 +48,7 @@ description: DotNet Updates
 - Boost Your .NET Projects: Simplify Date & Time Formatting with Spargine’s DateTimeFormat ([11 days ago](https://dotnettips.wordpress.com/2025/08/10/boost-your-net-projects-simplify-date-time-formatting-with-spargines-datetimeformat/))
 - Coding Faster with dotNetTips.com Spargine 8: August 2025 Release ([13 days ago](https://dotnettips.wordpress.com/2025/08/08/coding-faster-with-dotnettips-com-spargine-8-august-2025-release/))
 - 5 Copilot Chat Prompts .NET Devs Should Steal Today ([15 days ago](https://devblogs.microsoft.com/dotnet/5-copilot-chat-prompts-dotnet-devs-should-steal-today/))
-- .NET and .NET Framework August 2025 servicing releases updates ([15 days ago](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-august-2025-servicing-updates/))
+- .NET and .NET Framework August 2025 servicing releases updates ([16 days ago](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-august-2025-servicing-updates/))
 - Exploring new Agent Quality and NLP evaluators for .NET AI applications ([16 days ago](https://devblogs.microsoft.com/dotnet/exploring-agent-quality-and-nlp-evaluators/))
 - .NET Conf 2025 – Announcing the Call for Content ([16 days ago](https://devblogs.microsoft.com/dotnet/dotnet-conf-2025-announcing-the-call-for-content/))
 - JetBrains is a Platinum Sponsor of the Godot Foundation ([16 days ago](https://blog.jetbrains.com/dotnet/2025/08/05/jetbrains-is-a-platinum-sponsor-of-the-godot-foundation/))
