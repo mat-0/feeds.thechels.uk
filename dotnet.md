@@ -8,10 +8,10 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Why Separate Databases? Explaining Like You're Five ([5 hours ago](https://dotnetkicks.com/r/728117?url=https://codeopinion.com/why-separate-databases-explaining-like-youre-five/))
-- Enhance your CLI testing workflow with the new dotnet test - .NET Blog ([6 hours ago](https://dotnetkicks.com/r/728111?url=https://devblogs.microsoft.com/dotnet/dotnet-test-with-mtp/))
-- Enhance your CLI testing workflow with the new dotnet test ([6 hours ago](https://devblogs.microsoft.com/dotnet/dotnet-test-with-mtp/))
-- Better Control over Your Copilot Code Suggestions - Visual Studio Blog ([7 hours ago](https://dotnetkicks.com/r/728100?url=https://devblogs.microsoft.com/visualstudio/better-control-over-your-copilot-code-suggestions/))
+- Why Separate Databases? Explaining Like You're Five ([6 hours ago](https://dotnetkicks.com/r/728117?url=https://codeopinion.com/why-separate-databases-explaining-like-youre-five/))
+- Enhance your CLI testing workflow with the new dotnet test - .NET Blog ([7 hours ago](https://dotnetkicks.com/r/728111?url=https://devblogs.microsoft.com/dotnet/dotnet-test-with-mtp/))
+- Enhance your CLI testing workflow with the new dotnet test ([7 hours ago](https://devblogs.microsoft.com/dotnet/dotnet-test-with-mtp/))
+- Better Control over Your Copilot Code Suggestions - Visual Studio Blog ([8 hours ago](https://dotnetkicks.com/r/728100?url=https://devblogs.microsoft.com/visualstudio/better-control-over-your-copilot-code-suggestions/))
 - Security Product Efficacy ([1 days ago](https://dotnetkicks.com/r/728032?url=https://textslashplain.com/2025/08/20/security-product-efficacy/))
 - Copilot Diagnostics toolset for .NET In Visual Studio - .NET Blog ([1 days ago](https://dotnetkicks.com/r/728012?url=https://devblogs.microsoft.com/dotnet/github-copilot-diagnostics-toolset-for-dotnet-in-visual-studio/))
 - Copilot Diagnostics toolset for .NET In Visual Studio ([1 days ago](https://devblogs.microsoft.com/dotnet/github-copilot-diagnostics-toolset-for-dotnet-in-visual-studio/))
