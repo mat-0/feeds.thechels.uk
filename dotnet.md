@@ -53,7 +53,7 @@ description: DotNet Updates
 - .NET Conf 2025 – Announcing the Call for Content ([17 days ago](https://devblogs.microsoft.com/dotnet/dotnet-conf-2025-announcing-the-call-for-content/))
 - JetBrains is a Platinum Sponsor of the Godot Foundation ([18 days ago](https://blog.jetbrains.com/dotnet/2025/08/05/jetbrains-is-a-platinum-sponsor-of-the-godot-foundation/))
 - Passkey support for ASP.NET Core identity: Exploring the .NET 10 preview - Part 6 ([18 days ago](https://andrewlock.net/exploring-dotnet-10-preview-features-6-passkey-support-for-aspnetcore-identity/))
-- The new Dependabot NuGet updater: 65% faster with native .NET ([18 days ago](https://devblogs.microsoft.com/dotnet/the-new-dependabot-nuget-updater/))
+- The new Dependabot NuGet updater: 65% faster with native .NET ([19 days ago](https://devblogs.microsoft.com/dotnet/the-new-dependabot-nuget-updater/))
 - The Untapped Power of Veteran Engineers: Why Companies Are Overlooking Their Most Valuable Assets – Part 3 ([20 days ago](https://dotnettips.wordpress.com/2025/08/03/the-untapped-power-of-veteran-engineers-why-companies-are-overlooking-their-most-valuable-assets-part-3/))
 - Running one-off .NET tools with dnx: Exploring the .NET 10 preview - Part 5 ([25 days ago](https://andrewlock.net/exploring-dotnet-10-preview-features-5-running-one-off-dotnet-tools-with-dnx/))
 - Boost Your .NET Projects: Enhance Drive Management with DriveHelper in Spargine ([27 days ago](https://dotnettips.wordpress.com/2025/07/27/boost-your-net-projects-enhance-drive-management-with-spargine/))
