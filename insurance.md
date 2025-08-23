@@ -109,7 +109,7 @@ description: Insurance Updates
 - Admiral launches branded body shop to master new vehicle tech ([3 days ago](https://www.postonline.co.uk/claims/7958908/admiral-launches-branded-body-shop-to-master-new-vehicle-tech))
 - Tomorrow’s World: Pricing Practices ([3 days ago](https://www.postonline.co.uk/personal/7958156/tomorrow%E2%80%99s-world-pricing-practices))
 - Handling film production claims caused by climate change ([3 days ago](https://www.postonline.co.uk/claims/7958022/handling-film-production-claims-caused-by-climate-change))
-- Weather forecasting cuts weaken insurance risk mitigation ([3 days ago](https://www.dig-in.com/news/weather-forecasting-cuts-weaken-insurance-risk-mitigation))
+- Weather forecasting cuts weaken insurance risk mitigation ([4 days ago](https://www.dig-in.com/news/weather-forecasting-cuts-weaken-insurance-risk-mitigation))
 - IIHS names most-stolen vehicles ([4 days ago](https://www.dig-in.com/news/iihs-names-most-stolen-vehicle-models))
 - Sixfold Launches AI-Powered Research Agent to Streamline Underwriting ([4 days ago](https://www.insurtechinsights.com/sixfold-launches-ai-powered-research-agent-to-streamline-underwriting/))
 - Gallagher’s M&A appetite ‘undimmed’ following AssuredPartners acquisition ([4 days ago](https://www.postonline.co.uk/broker/7958906/gallagher%E2%80%99s-ma-appetite-%E2%80%98undimmed%E2%80%99-following-assuredpartners-acquisition))
