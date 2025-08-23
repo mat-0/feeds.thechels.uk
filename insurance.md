@@ -92,7 +92,7 @@ description: Insurance Updates
 - Q&A: Richard Hartley, Cytora ([2 days ago](https://www.postonline.co.uk/technology/7958053/qa-richard-hartley-cytora))
 - The Insurance Charity’s CEO reveals new mission ([2 days ago](https://www.postonline.co.uk/people/7958166/the-insurance-charity%E2%80%99s-ceo-reveals-new-mission))
 - Throwback Thursday: Insurance levy for smokers ([2 days ago](https://www.postonline.co.uk/claims/7956762/throwback-thursday-insurance-levy-for-smokers))
-- What's the future of regulation modernization? ([2 days ago](https://www.dig-in.com/opinion/what-does-rule-modernization-mean))
+- What's the future of regulation modernization? ([3 days ago](https://www.dig-in.com/opinion/what-does-rule-modernization-mean))
 - Renewables battling climate change now need to insure against it ([3 days ago](https://www.dig-in.com/articles/renewables-battling-climate-change-now-need-to-insure))
 - Privacy violations top incidents related to AI, report finds ([3 days ago](https://www.insurancebusinessmag.com/uk/business-strategy/privacy-violations-top-incidents-related-to-ai-report-finds-546857.aspx))
 - Upstage Secures $45M Series B Bridge to Scale Generative AI and Global Expansion ([3 days ago](https://www.insurtechinsights.com/upstage-secures-45m-series-b-bridge-to-scale-generative-ai-and-global-expansion/))
