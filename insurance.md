@@ -8,7 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Missouri’s Mutual Insurance Companies Report Stronger Results in 2024 ([23 hours ago](https://www.insurancejournal.com/news/midwest/2025/08/22/836744.htm))
+- Missouri’s Mutual Insurance Companies Report Stronger Results in 2024 ([1 days ago](https://www.insurancejournal.com/news/midwest/2025/08/22/836744.htm))
 - AM Best Revises Outlooks to Stable for Southern Farm Bureau Casualty Group ([1 days ago](https://www.insurancejournal.com/news/southeast/2025/08/22/836740.htm))
 - American Integrity surpasses 15,000 policies in-force in South Carolina ([1 days ago](https://www.reinsurancene.ws/american-integrity-surpasses-15000-policies-in-force-in-south-carolina/))
 - Be Recognized as a Best Agency to Work For: Submit Now ([1 days ago](https://www.insurancejournal.com/news/national/2025/08/22/836735.htm))
@@ -111,7 +111,7 @@ description: Insurance Updates
 - Handling film production claims caused by climate change ([3 days ago](https://www.postonline.co.uk/claims/7958022/handling-film-production-claims-caused-by-climate-change))
 - Weather forecasting cuts weaken insurance risk mitigation ([3 days ago](https://www.dig-in.com/news/weather-forecasting-cuts-weaken-insurance-risk-mitigation))
 - IIHS names most-stolen vehicles ([3 days ago](https://www.dig-in.com/news/iihs-names-most-stolen-vehicle-models))
-- Sixfold Launches AI-Powered Research Agent to Streamline Underwriting ([3 days ago](https://www.insurtechinsights.com/sixfold-launches-ai-powered-research-agent-to-streamline-underwriting/))
+- Sixfold Launches AI-Powered Research Agent to Streamline Underwriting ([4 days ago](https://www.insurtechinsights.com/sixfold-launches-ai-powered-research-agent-to-streamline-underwriting/))
 - Gallagher’s M&A appetite ‘undimmed’ following AssuredPartners acquisition ([4 days ago](https://www.postonline.co.uk/broker/7958906/gallagher%E2%80%99s-ma-appetite-%E2%80%98undimmed%E2%80%99-following-assuredpartners-acquisition))
 - The Exeter announces agreement with iGPR to streamline requests for medical information ([4 days ago](https://ifamagazine.com/the-exeter-announces-agreement-with-igpr-to-streamline-requests-for-medical-information/))
 - Swiss Re appoints Robin Spencer as Chief Operating Officer for Life & Health Reinsurance ([4 days ago](https://ifamagazine.com/swiss-re-appoints-robin-spencer-as-chief-operating-officer-for-life-health-reinsurance/))
