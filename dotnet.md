@@ -8,8 +8,8 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Accelerating SQL Server 2025 momentum: Announcing the first release candidate - Microsoft SQL Server Blog ([6 hours ago](https://dotnetkicks.com/r/728173?url=https://www.microsoft.com/en-us/sql-server/blog/2025/08/22/accelerating-sql-server-2025-momentum-announcing-the-first-release-candidate/))
-- Why Separate Databases? Explaining Like You're Five ([1 days ago](https://dotnetkicks.com/r/728117?url=https://codeopinion.com/why-separate-databases-explaining-like-youre-five/))
+- Accelerating SQL Server 2025 momentum: Announcing the first release candidate - Microsoft SQL Server Blog ([7 hours ago](https://dotnetkicks.com/r/728173?url=https://www.microsoft.com/en-us/sql-server/blog/2025/08/22/accelerating-sql-server-2025-momentum-announcing-the-first-release-candidate/))
+- Why Separate Databases? Explaining Like You're Five ([2 days ago](https://dotnetkicks.com/r/728117?url=https://codeopinion.com/why-separate-databases-explaining-like-youre-five/))
 - Enhance your CLI testing workflow with the new dotnet test - .NET Blog ([2 days ago](https://dotnetkicks.com/r/728111?url=https://devblogs.microsoft.com/dotnet/dotnet-test-with-mtp/))
 - Enhance your CLI testing workflow with the new dotnet test ([2 days ago](https://devblogs.microsoft.com/dotnet/dotnet-test-with-mtp/))
 - Better Control over Your Copilot Code Suggestions - Visual Studio Blog ([2 days ago](https://dotnetkicks.com/r/728100?url=https://devblogs.microsoft.com/visualstudio/better-control-over-your-copilot-code-suggestions/))
@@ -18,7 +18,7 @@ description: DotNet Updates
 - Copilot Diagnostics toolset for .NET In Visual Studio ([3 days ago](https://devblogs.microsoft.com/dotnet/github-copilot-diagnostics-toolset-for-dotnet-in-visual-studio/))
 - Bring Your Own Model to Chat in Visual Studio - Visual Studio Blog ([3 days ago](https://dotnetkicks.com/r/728005?url=https://devblogs.microsoft.com/visualstudio/bring-your-own-model-visual-studio-chat/))
 - Bring Your Own Model to Chat in Visual Studio - Visual Studio Blog ([3 days ago](https://dotnetkicks.com/r/727973?url=https://devblogs.microsoft.com/visualstudio/bring-your-own-model-visual-studio-chat/))
-- Model Context Protocol (MCP) is Now Generally Available in Visual Studio 🎉 - Visual Studio Blog ([3 days ago](https://dotnetkicks.com/r/727902?url=https://devblogs.microsoft.com/visualstudio/mcp-is-now-generally-available-in-visual-studio/))
+- Model Context Protocol (MCP) is Now Generally Available in Visual Studio 🎉 - Visual Studio Blog ([4 days ago](https://dotnetkicks.com/r/727902?url=https://devblogs.microsoft.com/visualstudio/mcp-is-now-generally-available-in-visual-studio/))
 - GPT-OSS - A C# Guide with Ollama - .NET Blog ([4 days ago](https://dotnetkicks.com/r/727899?url=https://devblogs.microsoft.com/dotnet/gpt-oss-csharp-ollama/))
 - GPT-OSS - A C# Guide with Ollama - .NET Blog ([4 days ago](https://dotnetkicks.com/r/727897?url=https://devblogs.microsoft.com/dotnet/gpt-oss-csharp-ollama/))
 - GPT-OSS – A C# Guide with Ollama ([4 days ago](https://devblogs.microsoft.com/dotnet/gpt-oss-csharp-ollama/))
