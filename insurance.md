@@ -9,12 +9,12 @@ description: Insurance Updates
 
 <!-- news_marker starts -->
 - Missouri’s Mutual Insurance Companies Report Stronger Results in 2024 ([22 hours ago](https://www.insurancejournal.com/news/midwest/2025/08/22/836744.htm))
-- AM Best Revises Outlooks to Stable for Southern Farm Bureau Casualty Group ([22 hours ago](https://www.insurancejournal.com/news/southeast/2025/08/22/836740.htm))
+- AM Best Revises Outlooks to Stable for Southern Farm Bureau Casualty Group ([23 hours ago](https://www.insurancejournal.com/news/southeast/2025/08/22/836740.htm))
 - American Integrity surpasses 15,000 policies in-force in South Carolina ([23 hours ago](https://www.reinsurancene.ws/american-integrity-surpasses-15000-policies-in-force-in-south-carolina/))
 - Be Recognized as a Best Agency to Work For: Submit Now ([23 hours ago](https://www.insurancejournal.com/news/national/2025/08/22/836735.htm))
-- Rural California Wine Country Fire Burning Out of Control ([23 hours ago](https://www.insurancejournal.com/news/west/2025/08/22/836727.htm))
-- People Moves: Aon Commercial Risk Promotes Smaje as Specialty Leader, Transportation & Logistics; MGA Optio Names Deloitte’s Hallett Head of Insurer Partnerships ([23 hours ago](https://www.insurancejournal.com/news/international/2025/08/22/836716.htm))
-- New Jersey Compensation Bureau Back Online After Cyber Incident ([23 hours ago](https://www.insurancejournal.com/news/east/2025/08/22/836717.htm))
+- Rural California Wine Country Fire Burning Out of Control ([1 days ago](https://www.insurancejournal.com/news/west/2025/08/22/836727.htm))
+- People Moves: Aon Commercial Risk Promotes Smaje as Specialty Leader, Transportation & Logistics; MGA Optio Names Deloitte’s Hallett Head of Insurer Partnerships ([1 days ago](https://www.insurancejournal.com/news/international/2025/08/22/836716.htm))
+- New Jersey Compensation Bureau Back Online After Cyber Incident ([1 days ago](https://www.insurancejournal.com/news/east/2025/08/22/836717.htm))
 - Reinsurance broker Atrea Risk Solutions launches from the DIFC ([1 days ago](https://www.reinsurancene.ws/reinsurance-broker-atrea-risk-solutions-launches-from-the-difc/))
 - Gymnastics Coach at Renowned Iowa Gym Accused of Sexual Abuse ([1 days ago](https://www.insurancejournal.com/news/midwest/2025/08/22/836708.htm))
 - Postal Services Across Globe Pause US Deliveries as Tariff Shift Sows Confusion ([1 days ago](https://www.insurancejournal.com/news/international/2025/08/22/836701.htm))
