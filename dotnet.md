@@ -8,7 +8,7 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Accelerating SQL Server 2025 momentum: Announcing the first release candidate - Microsoft SQL Server Blog ([1 hours ago](https://dotnetkicks.com/r/728173?url=https://www.microsoft.com/en-us/sql-server/blog/2025/08/22/accelerating-sql-server-2025-momentum-announcing-the-first-release-candidate/))
+- Accelerating SQL Server 2025 momentum: Announcing the first release candidate - Microsoft SQL Server Blog ([2 hours ago](https://dotnetkicks.com/r/728173?url=https://www.microsoft.com/en-us/sql-server/blog/2025/08/22/accelerating-sql-server-2025-momentum-announcing-the-first-release-candidate/))
 - Why Separate Databases? Explaining Like You're Five ([1 days ago](https://dotnetkicks.com/r/728117?url=https://codeopinion.com/why-separate-databases-explaining-like-youre-five/))
 - Enhance your CLI testing workflow with the new dotnet test - .NET Blog ([1 days ago](https://dotnetkicks.com/r/728111?url=https://devblogs.microsoft.com/dotnet/dotnet-test-with-mtp/))
 - Enhance your CLI testing workflow with the new dotnet test ([1 days ago](https://devblogs.microsoft.com/dotnet/dotnet-test-with-mtp/))
@@ -57,7 +57,7 @@ description: DotNet Updates
 - The Untapped Power of Veteran Engineers: Why Companies Are Overlooking Their Most Valuable Assets – Part 3 ([20 days ago](https://dotnettips.wordpress.com/2025/08/03/the-untapped-power-of-veteran-engineers-why-companies-are-overlooking-their-most-valuable-assets-part-3/))
 - Running one-off .NET tools with dnx: Exploring the .NET 10 preview - Part 5 ([25 days ago](https://andrewlock.net/exploring-dotnet-10-preview-features-5-running-one-off-dotnet-tools-with-dnx/))
 - Boost Your .NET Projects: Enhance Drive Management with DriveHelper in Spargine ([27 days ago](https://dotnettips.wordpress.com/2025/07/27/boost-your-net-projects-enhance-drive-management-with-spargine/))
-- Upcoming Changes to JetBrains .NET Tools ([28 days ago](https://blog.jetbrains.com/dotnet/2025/07/25/upcoming-changes-to-dotnet-tools/))
+- Upcoming Changes to JetBrains .NET Tools ([29 days ago](https://blog.jetbrains.com/dotnet/2025/07/25/upcoming-changes-to-dotnet-tools/))
 - The ReSharper and .NET Tools 2025.2 Release Candidates Are Now Available ([29 days ago](https://blog.jetbrains.com/dotnet/2025/07/24/resharper-dot-net-tools-2025-2-release-candidate/))
 - The Rider 2025.2 Release Candidate Is Here! ([29 days ago](https://blog.jetbrains.com/dotnet/2025/07/24/the-rider-2025-2-release-candidate/))
 
