@@ -9,7 +9,7 @@ description: Insurance Updates
 
 <!-- news_marker starts -->
 - Missouri’s Mutual Insurance Companies Report Stronger Results in 2024 ([23 hours ago](https://www.insurancejournal.com/news/midwest/2025/08/22/836744.htm))
-- AM Best Revises Outlooks to Stable for Southern Farm Bureau Casualty Group ([23 hours ago](https://www.insurancejournal.com/news/southeast/2025/08/22/836740.htm))
+- AM Best Revises Outlooks to Stable for Southern Farm Bureau Casualty Group ([1 days ago](https://www.insurancejournal.com/news/southeast/2025/08/22/836740.htm))
 - American Integrity surpasses 15,000 policies in-force in South Carolina ([1 days ago](https://www.reinsurancene.ws/american-integrity-surpasses-15000-policies-in-force-in-south-carolina/))
 - Be Recognized as a Best Agency to Work For: Submit Now ([1 days ago](https://www.insurancejournal.com/news/national/2025/08/22/836735.htm))
 - Rural California Wine Country Fire Burning Out of Control ([1 days ago](https://www.insurancejournal.com/news/west/2025/08/22/836727.htm))
