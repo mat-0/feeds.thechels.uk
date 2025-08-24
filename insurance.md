@@ -8,7 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Tour Bus Rollover Kills 5 on Highway in Western New York ([2 hours ago](https://www.insurancejournal.com/news/east/2025/08/24/836768.htm))
+- Tour Bus Rollover Kills 5 on Highway in Western New York ([3 hours ago](https://www.insurancejournal.com/news/east/2025/08/24/836768.htm))
 - Missouri’s Mutual Insurance Companies Report Stronger Results in 2024 ([1 days ago](https://www.insurancejournal.com/news/midwest/2025/08/22/836744.htm))
 - AM Best Revises Outlooks to Stable for Southern Farm Bureau Casualty Group ([1 days ago](https://www.insurancejournal.com/news/southeast/2025/08/22/836740.htm))
 - American Integrity surpasses 15,000 policies in-force in South Carolina ([1 days ago](https://www.reinsurancene.ws/american-integrity-surpasses-15000-policies-in-force-in-south-carolina/))
@@ -19,8 +19,8 @@ description: Insurance Updates
 - Reinsurance broker Atrea Risk Solutions launches from the DIFC ([1 days ago](https://www.reinsurancene.ws/reinsurance-broker-atrea-risk-solutions-launches-from-the-difc/))
 - Gymnastics Coach at Renowned Iowa Gym Accused of Sexual Abuse ([1 days ago](https://www.insurancejournal.com/news/midwest/2025/08/22/836708.htm))
 - Postal Services Across Globe Pause US Deliveries as Tariff Shift Sows Confusion ([1 days ago](https://www.insurancejournal.com/news/international/2025/08/22/836701.htm))
-- Texas Lawmakers Advance Flood Bills With Grieving Parents in Attendance ([1 days ago](https://www.insurancejournal.com/news/southcentral/2025/08/22/836699.htm))
-- US Halts Visas for Truck Drivers After Fatal Florida Crash ([1 days ago](https://www.insurancejournal.com/news/southeast/2025/08/22/836690.htm))
+- Texas Lawmakers Advance Flood Bills With Grieving Parents in Attendance ([2 days ago](https://www.insurancejournal.com/news/southcentral/2025/08/22/836699.htm))
+- US Halts Visas for Truck Drivers After Fatal Florida Crash ([2 days ago](https://www.insurancejournal.com/news/southeast/2025/08/22/836690.htm))
 - Viceroy becomes 15th insurer to enter Florida market following legislative reforms ([2 days ago](https://www.reinsurancene.ws/viceroy-becomes-15th-insurer-to-enter-florida-market-following-legislative-reforms/))
 - People Moves: Marsh Names Global, US Aviation and Space Leaders; Ryan Appoints Ferguson CEO of US Assure ([2 days ago](https://www.insurancejournal.com/news/national/2025/08/22/836548.htm))
 - Two More Beach Homes Near Collapse as Erin’s Waves Pound NC Outer Banks ([2 days ago](https://www.insurancejournal.com/news/southeast/2025/08/22/836677.htm))
