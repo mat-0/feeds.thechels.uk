@@ -9,7 +9,7 @@ description: Insurance Updates
 
 <!-- news_marker starts -->
 - AIG names chief digital officer; FM names CIO: Insurance news ([1 hours ago](https://www.dig-in.com/news/aig-names-chief-digital-officer-fm-names-cio-insurance-news))
-- Tracking actuarial technology's evolution, with Amalgamated executive, part one ([1 hours ago](https://www.dig-in.com/news/tracking-actuarial-technologys-evolution-part-one))
+- Tracking actuarial technology's evolution, with Amalgamated executive, part one ([2 hours ago](https://www.dig-in.com/news/tracking-actuarial-technologys-evolution-part-one))
 - Tour Bus Rollover Kills 5 on Highway in Western New York ([9 hours ago](https://www.insurancejournal.com/news/east/2025/08/24/836768.htm))
 - Missouri’s Mutual Insurance Companies Report Stronger Results in 2024 ([2 days ago](https://www.insurancejournal.com/news/midwest/2025/08/22/836744.htm))
 - AM Best Revises Outlooks to Stable for Southern Farm Bureau Casualty Group ([2 days ago](https://www.insurancejournal.com/news/southeast/2025/08/22/836740.htm))
@@ -111,7 +111,7 @@ description: Insurance Updates
 - Admiral launches branded body shop to master new vehicle tech ([4 days ago](https://www.postonline.co.uk/claims/7958908/admiral-launches-branded-body-shop-to-master-new-vehicle-tech))
 - Tomorrow’s World: Pricing Practices ([4 days ago](https://www.postonline.co.uk/personal/7958156/tomorrow%E2%80%99s-world-pricing-practices))
 - Handling film production claims caused by climate change ([4 days ago](https://www.postonline.co.uk/claims/7958022/handling-film-production-claims-caused-by-climate-change))
-- Weather forecasting cuts weaken insurance risk mitigation ([4 days ago](https://www.dig-in.com/news/weather-forecasting-cuts-weaken-insurance-risk-mitigation))
+- Weather forecasting cuts weaken insurance risk mitigation ([5 days ago](https://www.dig-in.com/news/weather-forecasting-cuts-weaken-insurance-risk-mitigation))
 - IIHS names most-stolen vehicles ([5 days ago](https://www.dig-in.com/news/iihs-names-most-stolen-vehicle-models))
 - Sixfold Launches AI-Powered Research Agent to Streamline Underwriting ([5 days ago](https://www.insurtechinsights.com/sixfold-launches-ai-powered-research-agent-to-streamline-underwriting/))
 - Gallagher’s M&A appetite ‘undimmed’ following AssuredPartners acquisition ([5 days ago](https://www.postonline.co.uk/broker/7958906/gallagher%E2%80%99s-ma-appetite-%E2%80%98undimmed%E2%80%99-following-assuredpartners-acquisition))
