@@ -9,9 +9,9 @@ description: SecOps News
 
 <!-- news_marker starts -->
 - Search-capable AI agents may cheat on benchmark tests ([14 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/08/23/searchcapable_ai_agents_may_cheat/))
-- VirtualBox 7.2 fixes flaky 3D guests and adds Arm-on-Arm support ([17 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/08/23/virtualbox_72_fixes_3d_guests/))
-- Major Cyberattack Disrupts Communication On Dozens Of Iranian Ships ([17 hours ago](https://databreaches.net/2025/08/23/major-cyberattack-disrupts-communication-on-dozens-of-iranian-ships/?pk_campaign=feed&pk_kwd=major-cyberattack-disrupts-communication-on-dozens-of-iranian-ships))
-- Attorney General James Sues Company Behind Zelle for Enabling Widespread Fraud ([17 hours ago](https://databreaches.net/2025/08/23/attorney-general-james-sues-company-behind-zelle-for-enabling-widespread-fraud/?pk_campaign=feed&pk_kwd=attorney-general-james-sues-company-behind-zelle-for-enabling-widespread-fraud))
+- VirtualBox 7.2 fixes flaky 3D guests and adds Arm-on-Arm support ([18 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/08/23/virtualbox_72_fixes_3d_guests/))
+- Major Cyberattack Disrupts Communication On Dozens Of Iranian Ships ([18 hours ago](https://databreaches.net/2025/08/23/major-cyberattack-disrupts-communication-on-dozens-of-iranian-ships/?pk_campaign=feed&pk_kwd=major-cyberattack-disrupts-communication-on-dozens-of-iranian-ships))
+- Attorney General James Sues Company Behind Zelle for Enabling Widespread Fraud ([18 hours ago](https://databreaches.net/2025/08/23/attorney-general-james-sues-company-behind-zelle-for-enabling-widespread-fraud/?pk_campaign=feed&pk_kwd=attorney-general-james-sues-company-behind-zelle-for-enabling-widespread-fraud))
 - The Unix Epochalypse might be sooner than you think ([20 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/08/23/the_unix_epochalypse_might_be/))
 - GeoServer Exploits, PolarEdge, and Gayfemboy Push Cybercrime Beyond Traditional Botnets ([21 hours ago](https://thehackernews.com/2025/08/geoserver-exploits-polaredge-and.html))
 - Murky Panda hackers exploit cloud trust to hack downstream customers ([1 days ago](https://www.bleepingcomputer.com/news/security/murky-panda-hackers-exploit-cloud-trust-to-hack-downstream-customers/))
@@ -171,7 +171,7 @@ description: SecOps News
 - KrebsOnSecurity in New ‘Most Wanted’ HBO Max Series ([15 days ago](https://krebsonsecurity.com/2025/08/krebsonsecurity-in-new-most-wanted-hbo-max-series/))
 - Data Protection Enforcement: Your Cookie Compliance Questions Answered ([15 days ago](https://www.itgovernance.co.uk/blog/data-protection-enforcement-your-cookie-compliance-questions-answered))
 - TeaOnHer copies everything from Tea – including the data breaches ([15 days ago](https://www.bitdefender.com/en-us/blog/hotforsecurity/teaonher-copies-everything-from-tea-including-the-data-breaches))
-- Unigame - 843,696 breached accounts ([15 days ago](https://haveibeenpwned.com/Breach/Unigame))
+- Unigame - 843,696 breached accounts ([16 days ago](https://haveibeenpwned.com/Breach/Unigame))
 - Actions to take when the cyber threat is heightened ([16 days ago](https://www.ncsc.gov.uk/guidance/actions-to-take-when-the-cyber-threat-is-heightened))
 - Ransomware plunges insurance company into bankruptcy ([17 days ago](https://www.fortra.com/blog/ransomware-plunges-insurance-company-bankruptcy))
 - A Guide to TOMs (technical and organisational measures) under the GDPR ([17 days ago](https://www.itgovernance.co.uk/blog/a-guide-to-gdpr-technical-and-organisational-measures))
