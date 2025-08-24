@@ -9,7 +9,7 @@ description: Insurance Updates
 
 <!-- news_marker starts -->
 - AIG names chief digital officer; FM names CIO: Insurance news ([3 hours ago](https://www.dig-in.com/news/aig-names-chief-digital-officer-fm-names-cio-insurance-news))
-- Tracking actuarial technology's evolution, with Amalgamated executive, part one ([3 hours ago](https://www.dig-in.com/news/tracking-actuarial-technologys-evolution-part-one))
+- Tracking actuarial technology's evolution, with Amalgamated executive, part one ([4 hours ago](https://www.dig-in.com/news/tracking-actuarial-technologys-evolution-part-one))
 - Tour Bus Rollover Kills 5 on Highway in Western New York ([11 hours ago](https://www.insurancejournal.com/news/east/2025/08/24/836768.htm))
 - Missouri’s Mutual Insurance Companies Report Stronger Results in 2024 ([2 days ago](https://www.insurancejournal.com/news/midwest/2025/08/22/836744.htm))
 - AM Best Revises Outlooks to Stable for Southern Farm Bureau Casualty Group ([2 days ago](https://www.insurancejournal.com/news/southeast/2025/08/22/836740.htm))
