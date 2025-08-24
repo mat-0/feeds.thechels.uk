@@ -45,9 +45,9 @@ description: Insurance Updates
 - iFarm Underwriting Extends Partnership With Accelerant Risk Exchange ([1 days ago](https://insurance-edge.net/2025/08/22/ifarm-underwriting-extends-partnership-with-accelerant-risk-exchange/))
 - Climate change fuels demand for UK offshore wind cat model ([1 days ago](https://www.postonline.co.uk/commercial/7958315/climate-change-fuels-demand-for-uk-offshore-wind-cat-model))
 - ‘Urgent Action’ Needed to Protect Workers From Heat Stress in Warming World: UN ([1 days ago](https://www.insurancejournal.com/news/international/2025/08/22/836650.htm))
-- Aon unveils leadership shift in Commercial Risk business ([1 days ago](https://www.reinsurancene.ws/aon-unveils-leadership-shift-in-commercial-risk-business/))
-- Stress and anxiety are the most common mental health conditions that RedArc supports ([1 days ago](https://ifamagazine.com/stress-and-anxiety-are-the-most-common-mental-health-conditions-that-redarc-supports/))
-- Hurricane Erin Is Disrupting Both Europe’s Weather and Forecasts ([1 days ago](https://www.insurancejournal.com/news/international/2025/08/22/836647.htm))
+- Aon unveils leadership shift in Commercial Risk business ([2 days ago](https://www.reinsurancene.ws/aon-unveils-leadership-shift-in-commercial-risk-business/))
+- Stress and anxiety are the most common mental health conditions that RedArc supports ([2 days ago](https://ifamagazine.com/stress-and-anxiety-are-the-most-common-mental-health-conditions-that-redarc-supports/))
+- Hurricane Erin Is Disrupting Both Europe’s Weather and Forecasts ([2 days ago](https://www.insurancejournal.com/news/international/2025/08/22/836647.htm))
 - Moody’s raises Ryan Specialty’s credit ratings, outlook revised to stable ([2 days ago](https://www.reinsurancene.ws/moodys-raises-ryan-specialtys-credit-ratings-outlook-revised-to-stable/))
 - MGAA reports membership surge ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/mgaa-reports-membership-surge-547078.aspx))
 - Are brokers aware of how much of a threat AI is? ([2 days ago](https://www.insurancebusinessmag.com/uk/news/technology/are-brokers-aware-of-how-much-of-a-threat-ai-is-547077.aspx))
@@ -128,7 +128,7 @@ description: Insurance Updates
 - Aviva-backed AI broker raises £950K ([5 days ago](https://www.postonline.co.uk/broker/7958903/aviva-backed-ai-broker-raises-%C2%A3950k))
 - Benenden Health makes COO appointment ([5 days ago](https://ifamagazine.com/benenden-health-makes-coo-appointment/))
 - Reframe Cancer partners with Freedom Health Insurance to expand cancer navigation services ([5 days ago](https://ifamagazine.com/reframe-cancer-partners-with-freedom-health-insurance-to-expand-cancer-navigation-services/))
-- Ex-LEI chief Attia insists new MGA Elevate isn’t Das 2.0 ([5 days ago](https://www.postonline.co.uk/personal/7958900/ex-lei-chief-attia-insists-new-mga-elevate-isn%E2%80%99t-das-20))
+- Ex-LEI chief Attia insists new MGA Elevate isn’t Das 2.0 ([6 days ago](https://www.postonline.co.uk/personal/7958900/ex-lei-chief-attia-insists-new-mga-elevate-isn%E2%80%99t-das-20))
 - Wio Bank Integrates Shory’s Car Insurance to Make Protection More Accessible in the UAE ([15 days ago](https://thefintechtimes.com/wio-bank-integrates-shorys-car-insurance-to-make-protection-more-accessible-in-the-uae/))
 
 <!-- news_marker ends -->
