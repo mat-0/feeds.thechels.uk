@@ -8,6 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
+- Tour Bus Rollover Kills 5 on Highway in Western New York ([5 minutes ago](https://www.insurancejournal.com/news/east/2025/08/24/836768.htm))
 - Missouri’s Mutual Insurance Companies Report Stronger Results in 2024 ([1 days ago](https://www.insurancejournal.com/news/midwest/2025/08/22/836744.htm))
 - AM Best Revises Outlooks to Stable for Southern Farm Bureau Casualty Group ([1 days ago](https://www.insurancejournal.com/news/southeast/2025/08/22/836740.htm))
 - American Integrity surpasses 15,000 policies in-force in South Carolina ([1 days ago](https://www.reinsurancene.ws/american-integrity-surpasses-15000-policies-in-force-in-south-carolina/))
@@ -61,7 +62,6 @@ description: Insurance Updates
 - Baltimore Shipping Channel Reopened After Explosion on Ship Near 2024 Bridge Collapse ([2 days ago](https://www.insurancejournal.com/news/east/2025/08/22/836627.htm))
 - People Moves: Montoya Joins Liberty Naranjo as VP, Producer; Alliant Human Capital Names Chalmers SVP ([2 days ago](https://www.insurancejournal.com/news/west/2025/08/22/836425.htm))
 - ‘What About Legacy Admissions?’ Critics Ask as Trump Presses Colleges for Merit ([2 days ago](https://www.insurancejournal.com/news/national/2025/08/22/836210.htm))
-- Bank of America Says Autonomous Vehicles Can Boost Insurers’ Profitability ([2 days ago](https://www.insurancejournal.com/news/national/2025/08/22/836590.htm))
 - Questioning the math behind FCA’s insurance price defence ([2 days ago](https://www.postonline.co.uk/regulation/7958257/questioning-the-math-behind-fca%E2%80%99s-insurance-price-defence))
 - Penny Black’s Social Diary: Lloyd’s festival; Dynatrace’s gnocchi ([2 days ago](https://www.postonline.co.uk/people/7958186/penny-black%E2%80%99s-social-diary-lloyd%E2%80%99s-festival-dynatrace%E2%80%99s-gnocchi))
 - Small businesses consider switching insurers: JD Power ([2 days ago](https://www.dig-in.com/news/small-businesses-consider-switching-insurers-jd-power))
@@ -123,7 +123,7 @@ description: Insurance Updates
 - What comes next for AI in insurance? ([5 days ago](https://www.dig-in.com/opinion/what-comes-next-for-ai-in-insurance))
 - Karen Jackman appointed Bravo Networks MD ([5 days ago](https://www.postonline.co.uk/broker/7958905/karen-jackman-appointed-bravo-networks-md))
 - Gallagher completes AssuredPartners acquisition ([5 days ago](https://www.postonline.co.uk/broker/7958904/gallagher-completes-assuredpartners-acquisition))
-- Freedom Health Insurance launches Freedom 360: a powerful new health and wellbeing toolkit tailored for group clients ([5 days ago](https://ifamagazine.com/freedom-health-insurance-launches-freedom-360-a-powerful-new-health-and-wellbeing-toolkit-tailored-for-group-clients/))
+- Freedom Health Insurance launches Freedom 360: a powerful new health and wellbeing toolkit tailored for group clients ([6 days ago](https://ifamagazine.com/freedom-health-insurance-launches-freedom-360-a-powerful-new-health-and-wellbeing-toolkit-tailored-for-group-clients/))
 - Two in five insurers say tech platforms miss the mark ([6 days ago](https://www.postonline.co.uk/news/7958902/two-in-five-insurers-say-tech-platforms-miss-the-mark))
 - Aviva-backed AI broker raises £950K ([6 days ago](https://www.postonline.co.uk/broker/7958903/aviva-backed-ai-broker-raises-%C2%A3950k))
 - Benenden Health makes COO appointment ([6 days ago](https://ifamagazine.com/benenden-health-makes-coo-appointment/))
