@@ -8,11 +8,12 @@ description: SecOps News
 [Get this as an RSS feed](/secops.rss)
 
 <!-- news_marker starts -->
-- Search-capable AI agents may cheat on benchmark tests ([17 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/08/23/searchcapable_ai_agents_may_cheat/))
+- Bug bounties: The good, the bad, and the frankly ridiculous ways to do it ([16 minutes ago](https://go.theregister.com/feed/www.theregister.com/2025/08/24/bug_bounty_advice/))
+- Search-capable AI agents may cheat on benchmark tests ([18 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/08/23/searchcapable_ai_agents_may_cheat/))
 - VirtualBox 7.2 fixes flaky 3D guests and adds Arm-on-Arm support ([21 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/08/23/virtualbox_72_fixes_3d_guests/))
 - Major Cyberattack Disrupts Communication On Dozens Of Iranian Ships ([21 hours ago](https://databreaches.net/2025/08/23/major-cyberattack-disrupts-communication-on-dozens-of-iranian-ships/?pk_campaign=feed&pk_kwd=major-cyberattack-disrupts-communication-on-dozens-of-iranian-ships))
 - Attorney General James Sues Company Behind Zelle for Enabling Widespread Fraud ([21 hours ago](https://databreaches.net/2025/08/23/attorney-general-james-sues-company-behind-zelle-for-enabling-widespread-fraud/?pk_campaign=feed&pk_kwd=attorney-general-james-sues-company-behind-zelle-for-enabling-widespread-fraud))
-- The Unix Epochalypse might be sooner than you think ([23 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/08/23/the_unix_epochalypse_might_be/))
+- The Unix Epochalypse might be sooner than you think ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2025/08/23/the_unix_epochalypse_might_be/))
 - GeoServer Exploits, PolarEdge, and Gayfemboy Push Cybercrime Beyond Traditional Botnets ([1 days ago](https://thehackernews.com/2025/08/geoserver-exploits-polaredge-and.html))
 - Murky Panda hackers exploit cloud trust to hack downstream customers ([1 days ago](https://www.bleepingcomputer.com/news/security/murky-panda-hackers-exploit-cloud-trust-to-hack-downstream-customers/))
 - Short circuit: Electronics supplier to tech giants suffers ransomware shutdown ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2025/08/22/data_io_ransomware_attack_temporarily/))
@@ -117,7 +118,6 @@ description: SecOps News
 - North Korea Uses GitHub in Diplomat Cyber Attacks as IT Worker Scheme Hits 320+ Firms ([3 days ago](https://thehackernews.com/2025/08/north-korea-uses-github-in-diplomat.html))
 - McDonald's not lovin' it when hacker exposes nuggets of rotten security ([4 days ago](https://go.theregister.com/feed/www.theregister.com/2025/08/20/mcdonalds_terrible_security/))
 - DOJ Charges 22-Year-Old for Running RapperBot Botnet Behind 370,000 DDoS Attacks ([4 days ago](https://thehackernews.com/2025/08/doj-charges-22-year-old-for-running.html))
-- Don't want drive-by Ollama attackers snooping on your local chats? Patch now ([4 days ago](https://go.theregister.com/feed/www.theregister.com/2025/08/19/ollama_driveby_attack/))
 - Oregon Man Charged in ‘Rapper Bot’ DDoS Service ([4 days ago](https://krebsonsecurity.com/2025/08/oregon-man-charged-in-rapper-bot-ddos-service/))
 - Apache ActiveMQ Flaw Exploited to Deploy DripDropper Malware on Cloud Linux Systems ([4 days ago](https://thehackernews.com/2025/08/apache-activemq-flaw-exploited-to.html))
 - Speed cameras knocked out after cyber attack ([4 days ago](https://www.bitdefender.com/en-us/blog/hotforsecurity/speed-cameras-knocked-out-after-cyber-attack))
