@@ -8,7 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Tour Bus Rollover Kills 5 on Highway in Western New York ([41 minutes ago](https://www.insurancejournal.com/news/east/2025/08/24/836768.htm))
+- Tour Bus Rollover Kills 5 on Highway in Western New York ([1 hours ago](https://www.insurancejournal.com/news/east/2025/08/24/836768.htm))
 - Missouri’s Mutual Insurance Companies Report Stronger Results in 2024 ([1 days ago](https://www.insurancejournal.com/news/midwest/2025/08/22/836744.htm))
 - AM Best Revises Outlooks to Stable for Southern Farm Bureau Casualty Group ([1 days ago](https://www.insurancejournal.com/news/southeast/2025/08/22/836740.htm))
 - American Integrity surpasses 15,000 policies in-force in South Carolina ([1 days ago](https://www.reinsurancene.ws/american-integrity-surpasses-15000-policies-in-force-in-south-carolina/))
@@ -26,8 +26,8 @@ description: Insurance Updates
 - Two More Beach Homes Near Collapse as Erin’s Waves Pound NC Outer Banks ([1 days ago](https://www.insurancejournal.com/news/southeast/2025/08/22/836677.htm))
 - We are now firmly in the hard market softening phase: Flandro, Howden Re ([1 days ago](https://www.reinsurancene.ws/we-are-now-firmly-in-the-hard-market-softening-phase-flandro-howden-re/))
 - Reinsurers Have Made Major Structural Changes to Improve Profits. Will Discipline Last? ([1 days ago](https://www.insurancejournal.com/news/international/2025/08/22/836659.htm))
-- Gallagher Bassett Aims to Grow QA Teams ([1 days ago](https://insurance-edge.net/2025/08/22/gallagher-bassett-aims-to-grow-qa-teams/))
-- Two Workers Sue Over New York City Legionnaires’ Disease Outbreak ([1 days ago](https://www.insurancejournal.com/news/east/2025/08/22/836661.htm))
+- Gallagher Bassett Aims to Grow QA Teams ([2 days ago](https://insurance-edge.net/2025/08/22/gallagher-bassett-aims-to-grow-qa-teams/))
+- Two Workers Sue Over New York City Legionnaires’ Disease Outbreak ([2 days ago](https://www.insurancejournal.com/news/east/2025/08/22/836661.htm))
 - Clear Group appoints Barbara Duffy as Chief People & Performance Officer ([2 days ago](https://www.reinsurancene.ws/clear-group-appoints-barbara-duffy-as-chief-people-performance-officer/))
 - Almost two-thirds of consumers are open to advice when purchasing insurance, despite preference for self-led research ([2 days ago](https://ifamagazine.com/almost-two-thirds-of-consumers-are-open-to-advice-when-purchasing-insurance-despite-preference-for-self-led-research/))
 - Preview: Insurance Day For Dementia 2025 ([2 days ago](https://insurance-edge.net/2025/08/22/preview-insurance-day-for-dementia-2025/))
@@ -68,7 +68,7 @@ description: Insurance Updates
 - AI is speeding up insurance — can compliance keep up? ([2 days ago](https://www.dig-in.com/opinion/ai-is-affecting-insurance-compliance))
 - "During wartime, KPIs don’t work": Leadership lessons from Ukraine’s darkest days ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/during-wartime-kpis-dont-work-leadership-lessons-from-ukraines-darkest-days-547007.aspx))
 - M47 AI COMPANY Unveils AI Claims Solution to Streamline Insurance Processes ([2 days ago](https://www.insurtechinsights.com/m47-ai-company-unveils-ai-claims-solution-to-streamline-insurance-processes/))
-- Transforming Mental Health in Insurance: An Interview with Johnny O’Connell, Chief Commercial & Customer Officer at Spectrum.Life ([2 days ago](https://www.insurtechinsights.com/transforming-mental-health-in-insurance-an-interview-with-johnny-oconnell-chief-commercial-customer-officer-at-spectrum-life/))
+- Transforming Mental Health in Insurance: An Interview with Johnny O’Connell, Chief Commercial & Customer Officer at Spectrum.Life ([3 days ago](https://www.insurtechinsights.com/transforming-mental-health-in-insurance-an-interview-with-johnny-oconnell-chief-commercial-customer-officer-at-spectrum-life/))
 - Marsh expands global aviation and space leadership team ([3 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/marsh-expands-global-aviation-and-space-leadership-team-546974.aspx))
 - Have your say: a call to mortgage and protection advisers ([3 days ago](https://ifamagazine.com/have-your-say-a-call-to-mortgage-and-protection-advisers/))
 - IBmarkets launches in the UK: The broker-loved platform connecting you with specialty coverage ([3 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/ibmarkets-launches-in-the-uk-the-brokerloved-platform-connecting-you-with-specialty-coverage-546952.aspx))
