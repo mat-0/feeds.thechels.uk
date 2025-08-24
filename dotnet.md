@@ -8,7 +8,7 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Boost Your .NET Projects: Harness the Power of Async Queues with Spargine’s ChannelQueue ([4 hours ago](https://dotnettips.wordpress.com/2025/08/24/boost-your-net-projects-harness-the-power-of-async-queues-with-spargines-channelqueue/))
+- Boost Your .NET Projects: Harness the Power of Async Queues with Spargine’s ChannelQueue ([5 hours ago](https://dotnettips.wordpress.com/2025/08/24/boost-your-net-projects-harness-the-power-of-async-queues-with-spargines-channelqueue/))
 - Accelerating SQL Server 2025 momentum: Announcing the first release candidate - Microsoft SQL Server Blog ([23 hours ago](https://dotnetkicks.com/r/728173?url=https://www.microsoft.com/en-us/sql-server/blog/2025/08/22/accelerating-sql-server-2025-momentum-announcing-the-first-release-candidate/))
 - Why Separate Databases? Explaining Like You're Five ([2 days ago](https://dotnetkicks.com/r/728117?url=https://codeopinion.com/why-separate-databases-explaining-like-youre-five/))
 - Enhance your CLI testing workflow with the new dotnet test - .NET Blog ([2 days ago](https://dotnetkicks.com/r/728111?url=https://devblogs.microsoft.com/dotnet/dotnet-test-with-mtp/))
@@ -36,9 +36,9 @@ description: DotNet Updates
 - Announcing the NuGet MCP Server Preview ([9 days ago](https://devblogs.microsoft.com/dotnet/nuget-mcp-server-preview/))
 - Improving Codebase Awareness in Visual Studio Chat - Visual Studio Blog ([9 days ago](https://dotnetkicks.com/r/727490?url=https://devblogs.microsoft.com/visualstudio/improving-codebase-awareness-in-visual-studio-chat/))
 - Improving Codebase Awareness in Visual Studio Chat - Visual Studio Blog ([9 days ago](https://dotnetkicks.com/r/727467?url=https://devblogs.microsoft.com/visualstudio/improving-codebase-awareness-in-visual-studio-chat/))
-- Next-Level Performance Improvements in ReSharper 2025.2 ([9 days ago](https://blog.jetbrains.com/dotnet/2025/08/14/resharper-performance-improvements-2025/))
-- ReSharper and the .NET Tools 2025.2 Are Out! ([9 days ago](https://blog.jetbrains.com/dotnet/2025/08/14/resharper-and-the-net-tools-2025-2-are-out/))
-- Rider 2025.2 Is Here with Junie, In-IDE OpenTelemetry, Game Dev Upgrades, and More ([9 days ago](https://blog.jetbrains.com/dotnet/2025/08/14/rider-2025-2-is-here-with-junie-in-ide-opentelemetry-game-dev-upgrades-and-more/))
+- Next-Level Performance Improvements in ReSharper 2025.2 ([10 days ago](https://blog.jetbrains.com/dotnet/2025/08/14/resharper-performance-improvements-2025/))
+- ReSharper and the .NET Tools 2025.2 Are Out! ([10 days ago](https://blog.jetbrains.com/dotnet/2025/08/14/resharper-and-the-net-tools-2025-2-are-out/))
+- Rider 2025.2 Is Here with Junie, In-IDE OpenTelemetry, Game Dev Upgrades, and More ([10 days ago](https://blog.jetbrains.com/dotnet/2025/08/14/rider-2025-2-is-here-with-junie-in-ide-opentelemetry-game-dev-upgrades-and-more/))
 - Cake.Sdk 5.0.25225.53-beta released ([10 days ago](https://dotnetkicks.com/r/727431?url=https://cakebuild.net/blog/2025/08/cake-sdk-net-preview-7-update))
 - From Redmond to San Diego: VS Live! Highlights, Session Examples, and What's Next - Visual Studio Blog ([10 days ago](https://dotnetkicks.com/r/727404?url=https://devblogs.microsoft.com/visualstudio/from-redmond-to-san-diego-vs-live-highlights-session-examples-and-whats-next/))
 - .NET 10 Preview 7 is now available! - .NET Blog ([11 days ago](https://dotnetkicks.com/r/727280?url=https://devblogs.microsoft.com/dotnet/dotnet-10-preview-7/))
