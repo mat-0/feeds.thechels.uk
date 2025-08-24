@@ -8,6 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
+- Tracking actuarial technology's evolution, with Amalgamated executive, part one ([3 minutes ago](https://www.dig-in.com/news/tracking-actuarial-technologys-evolution-part-one))
 - Tour Bus Rollover Kills 5 on Highway in Western New York ([7 hours ago](https://www.insurancejournal.com/news/east/2025/08/24/836768.htm))
 - Missouri’s Mutual Insurance Companies Report Stronger Results in 2024 ([2 days ago](https://www.insurancejournal.com/news/midwest/2025/08/22/836744.htm))
 - AM Best Revises Outlooks to Stable for Southern Farm Bureau Casualty Group ([2 days ago](https://www.insurancejournal.com/news/southeast/2025/08/22/836740.htm))
@@ -92,7 +93,7 @@ description: Insurance Updates
 - Q&A: Richard Hartley, Cytora ([3 days ago](https://www.postonline.co.uk/technology/7958053/qa-richard-hartley-cytora))
 - The Insurance Charity’s CEO reveals new mission ([3 days ago](https://www.postonline.co.uk/people/7958166/the-insurance-charity%E2%80%99s-ceo-reveals-new-mission))
 - Throwback Thursday: Insurance levy for smokers ([3 days ago](https://www.postonline.co.uk/claims/7956762/throwback-thursday-insurance-levy-for-smokers))
-- What's the future of regulation modernization? ([3 days ago](https://www.dig-in.com/opinion/what-does-rule-modernization-mean))
+- What's the future of regulation modernization? ([4 days ago](https://www.dig-in.com/opinion/what-does-rule-modernization-mean))
 - Renewables battling climate change now need to insure against it ([4 days ago](https://www.dig-in.com/articles/renewables-battling-climate-change-now-need-to-insure))
 - Privacy violations top incidents related to AI, report finds ([4 days ago](https://www.insurancebusinessmag.com/uk/business-strategy/privacy-violations-top-incidents-related-to-ai-report-finds-546857.aspx))
 - Upstage Secures $45M Series B Bridge to Scale Generative AI and Global Expansion ([4 days ago](https://www.insurtechinsights.com/upstage-secures-45m-series-b-bridge-to-scale-generative-ai-and-global-expansion/))
@@ -120,7 +121,6 @@ description: Insurance Updates
 - 60 Seconds With… Charles Taylor’s Izabela Mielko ([5 days ago](https://www.postonline.co.uk/technology/7957984/60-seconds-with%E2%80%A6-charles-taylor%E2%80%99s-izabela-mielko))
 - AI's role in mitigating risk ([5 days ago](https://www.dig-in.com/opinion/ais-role-in-mitigating-risk))
 - What's the future of property and casualty insurance? ([5 days ago](https://www.dig-in.com/opinion/whats-the-future-of-property-and-casualty-insurance))
-- What comes next for AI in insurance? ([5 days ago](https://www.dig-in.com/opinion/what-comes-next-for-ai-in-insurance))
 - Karen Jackman appointed Bravo Networks MD ([6 days ago](https://www.postonline.co.uk/broker/7958905/karen-jackman-appointed-bravo-networks-md))
 - Gallagher completes AssuredPartners acquisition ([6 days ago](https://www.postonline.co.uk/broker/7958904/gallagher-completes-assuredpartners-acquisition))
 - Freedom Health Insurance launches Freedom 360: a powerful new health and wellbeing toolkit tailored for group clients ([6 days ago](https://ifamagazine.com/freedom-health-insurance-launches-freedom-360-a-powerful-new-health-and-wellbeing-toolkit-tailored-for-group-clients/))
