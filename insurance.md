@@ -83,7 +83,7 @@ description: Insurance Updates
 - Thomas Carroll eyes high-net-worth expansion as it combines teams ([2 days ago](https://www.postonline.co.uk/broker/7958912/thomas-carroll-eyes-high-net-worth-expansion-as-it-combines-teams))
 - InsureMO and LifeCheq Join Forces to Redefine Insurance Distribution Across Continents ([2 days ago](https://www.insurtechinsights.com/insuremo-and-lifecheq-join-forces-to-redefine-insurance-distribution-across-continents/))
 - Almost three quarters of Brits fear loved ones couldn’t cope financially without them ([2 days ago](https://ifamagazine.com/almost-three-quarters-of-brits-fear-loved-ones-couldnt-cope-financially-without-them/))
-- Aegon reverses last year’s loss with stronger profits in H1 ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/aegon-reverses-last-years-loss-with-stronger-profits-in-h1-546921.aspx))
+- Aegon reverses last year’s loss with stronger profits in H1 ([3 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/aegon-reverses-last-years-loss-with-stronger-profits-in-h1-546921.aspx))
 - Zurich chief raises concerns over private capital's growing role in insurance ([3 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/zurich-chief-raises-concerns-over-private-capitals-growing-role-in-insurance-546919.aspx))
 - Clear Group appoints Barbara Duffy as group chief people & performance officer ([3 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/clear-group-appoints-barbara-duffy-as-group-chief-people-and-performance-officer-546918.aspx))
 - Tesco forms partnership with Aviva ([3 days ago](https://www.insurancebusinessmag.com/uk/news/life-insurance/tesco-forms-partnership-with-aviva-546917.aspx))
