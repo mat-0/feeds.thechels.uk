@@ -8,7 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Tour Bus Rollover Kills 5 on Highway in Western New York ([6 hours ago](https://www.insurancejournal.com/news/east/2025/08/24/836768.htm))
+- Tour Bus Rollover Kills 5 on Highway in Western New York ([7 hours ago](https://www.insurancejournal.com/news/east/2025/08/24/836768.htm))
 - Missouri’s Mutual Insurance Companies Report Stronger Results in 2024 ([2 days ago](https://www.insurancejournal.com/news/midwest/2025/08/22/836744.htm))
 - AM Best Revises Outlooks to Stable for Southern Farm Bureau Casualty Group ([2 days ago](https://www.insurancejournal.com/news/southeast/2025/08/22/836740.htm))
 - American Integrity surpasses 15,000 policies in-force in South Carolina ([2 days ago](https://www.reinsurancene.ws/american-integrity-surpasses-15000-policies-in-force-in-south-carolina/))
