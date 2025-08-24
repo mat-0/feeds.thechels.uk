@@ -8,8 +8,8 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- AIG names chief digital officer; FM names CIO: Insurance news ([5 minutes ago](https://www.dig-in.com/news/aig-names-chief-digital-officer-fm-names-cio-insurance-news))
-- Tracking actuarial technology's evolution, with Amalgamated executive, part one ([32 minutes ago](https://www.dig-in.com/news/tracking-actuarial-technologys-evolution-part-one))
+- AIG names chief digital officer; FM names CIO: Insurance news ([37 minutes ago](https://www.dig-in.com/news/aig-names-chief-digital-officer-fm-names-cio-insurance-news))
+- Tracking actuarial technology's evolution, with Amalgamated executive, part one ([1 hours ago](https://www.dig-in.com/news/tracking-actuarial-technologys-evolution-part-one))
 - Tour Bus Rollover Kills 5 on Highway in Western New York ([8 hours ago](https://www.insurancejournal.com/news/east/2025/08/24/836768.htm))
 - Missouri’s Mutual Insurance Companies Report Stronger Results in 2024 ([2 days ago](https://www.insurancejournal.com/news/midwest/2025/08/22/836744.htm))
 - AM Best Revises Outlooks to Stable for Southern Farm Bureau Casualty Group ([2 days ago](https://www.insurancejournal.com/news/southeast/2025/08/22/836740.htm))
@@ -66,8 +66,8 @@ description: Insurance Updates
 - ‘What About Legacy Admissions?’ Critics Ask as Trump Presses Colleges for Merit ([2 days ago](https://www.insurancejournal.com/news/national/2025/08/22/836210.htm))
 - Questioning the math behind FCA’s insurance price defence ([2 days ago](https://www.postonline.co.uk/regulation/7958257/questioning-the-math-behind-fca%E2%80%99s-insurance-price-defence))
 - Penny Black’s Social Diary: Lloyd’s festival; Dynatrace’s gnocchi ([2 days ago](https://www.postonline.co.uk/people/7958186/penny-black%E2%80%99s-social-diary-lloyd%E2%80%99s-festival-dynatrace%E2%80%99s-gnocchi))
-- Small businesses consider switching insurers: JD Power ([2 days ago](https://www.dig-in.com/news/small-businesses-consider-switching-insurers-jd-power))
-- AI is speeding up insurance — can compliance keep up? ([2 days ago](https://www.dig-in.com/opinion/ai-is-affecting-insurance-compliance))
+- Small businesses consider switching insurers: JD Power ([3 days ago](https://www.dig-in.com/news/small-businesses-consider-switching-insurers-jd-power))
+- AI is speeding up insurance — can compliance keep up? ([3 days ago](https://www.dig-in.com/opinion/ai-is-affecting-insurance-compliance))
 - "During wartime, KPIs don’t work": Leadership lessons from Ukraine’s darkest days ([3 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/during-wartime-kpis-dont-work-leadership-lessons-from-ukraines-darkest-days-547007.aspx))
 - M47 AI COMPANY Unveils AI Claims Solution to Streamline Insurance Processes ([3 days ago](https://www.insurtechinsights.com/m47-ai-company-unveils-ai-claims-solution-to-streamline-insurance-processes/))
 - Transforming Mental Health in Insurance: An Interview with Johnny O’Connell, Chief Commercial & Customer Officer at Spectrum.Life ([3 days ago](https://www.insurtechinsights.com/transforming-mental-health-in-insurance-an-interview-with-johnny-oconnell-chief-commercial-customer-officer-at-spectrum-life/))
