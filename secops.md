@@ -13,7 +13,7 @@ description: SecOps News
 - Major Cyberattack Disrupts Communication On Dozens Of Iranian Ships ([16 hours ago](https://databreaches.net/2025/08/23/major-cyberattack-disrupts-communication-on-dozens-of-iranian-ships/?pk_campaign=feed&pk_kwd=major-cyberattack-disrupts-communication-on-dozens-of-iranian-ships))
 - Attorney General James Sues Company Behind Zelle for Enabling Widespread Fraud ([16 hours ago](https://databreaches.net/2025/08/23/attorney-general-james-sues-company-behind-zelle-for-enabling-widespread-fraud/?pk_campaign=feed&pk_kwd=attorney-general-james-sues-company-behind-zelle-for-enabling-widespread-fraud))
 - The Unix Epochalypse might be sooner than you think ([19 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/08/23/the_unix_epochalypse_might_be/))
-- GeoServer Exploits, PolarEdge, and Gayfemboy Push Cybercrime Beyond Traditional Botnets ([19 hours ago](https://thehackernews.com/2025/08/geoserver-exploits-polaredge-and.html))
+- GeoServer Exploits, PolarEdge, and Gayfemboy Push Cybercrime Beyond Traditional Botnets ([20 hours ago](https://thehackernews.com/2025/08/geoserver-exploits-polaredge-and.html))
 - Murky Panda hackers exploit cloud trust to hack downstream customers ([1 days ago](https://www.bleepingcomputer.com/news/security/murky-panda-hackers-exploit-cloud-trust-to-hack-downstream-customers/))
 - Short circuit: Electronics supplier to tech giants suffers ransomware shutdown ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2025/08/22/data_io_ransomware_attack_temporarily/))
 - AI giants call for energy grid kumbaya ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2025/08/22/microsoft_nvidia_openai_power_grid/))
