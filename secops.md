@@ -8,10 +8,10 @@ description: SecOps News
 [Get this as an RSS feed](/secops.rss)
 
 <!-- news_marker starts -->
-- AWS, Cloudflare, Digital Ocean, and Google helped Feds investigate alleged Rapper Bot DDoS perp ([2 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/08/25/infosec_in_brief/))
-- Malicious Go Module Poses as SSH Brute-Force Tool, Steals Credentials via Telegram Bot ([13 hours ago](https://thehackernews.com/2025/08/malicious-go-module-poses-as-ssh-brute.html))
-- The EU NIS2 Directive and intra-group IT services ([15 hours ago](https://databreaches.net/2025/08/24/the-eu-nis2-directive-and-intra-group-it-services/?pk_campaign=feed&pk_kwd=the-eu-nis2-directive-and-intra-group-it-services))
-- Google Deletes Millions of Android Apps After Malware Discovery ([15 hours ago](https://databreaches.net/2025/08/24/google-deletes-millions-of-android-apps-after-malware-discovery/?pk_campaign=feed&pk_kwd=google-deletes-millions-of-android-apps-after-malware-discovery))
+- AWS, Cloudflare, Digital Ocean, and Google helped Feds investigate alleged Rapper Bot DDoS perp ([3 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/08/25/infosec_in_brief/))
+- Malicious Go Module Poses as SSH Brute-Force Tool, Steals Credentials via Telegram Bot ([14 hours ago](https://thehackernews.com/2025/08/malicious-go-module-poses-as-ssh-brute.html))
+- The EU NIS2 Directive and intra-group IT services ([16 hours ago](https://databreaches.net/2025/08/24/the-eu-nis2-directive-and-intra-group-it-services/?pk_campaign=feed&pk_kwd=the-eu-nis2-directive-and-intra-group-it-services))
+- Google Deletes Millions of Android Apps After Malware Discovery ([16 hours ago](https://databreaches.net/2025/08/24/google-deletes-millions-of-android-apps-after-malware-discovery/?pk_campaign=feed&pk_kwd=google-deletes-millions-of-android-apps-after-malware-discovery))
 - Tinker with LLMs in the privacy of your own home using Llama.cpp ([16 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/08/24/llama_cpp_hands_on/))
 - Bug bounties: The good, the bad, and the frankly ridiculous ways to do it ([19 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/08/24/bug_bounty_advice/))
 - Search-capable AI agents may cheat on benchmark tests ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2025/08/23/searchcapable_ai_agents_may_cheat/))
