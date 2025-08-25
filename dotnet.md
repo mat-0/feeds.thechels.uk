@@ -8,12 +8,13 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
+- F# Weekly #34, 2025 - FsiX: new F# REPL with hot reloading ([10 minutes ago](https://dotnetkicks.com/r/728288?url=https://sergeytihon.com/2025/08/24/f-weekly-34-2025-fsix-new-f-repl-with-hot-reloading/))
 - Boost Your .NET Projects: Harness the Power of Async Queues with Spargine’s ChannelQueue ([1 days ago](https://dotnettips.wordpress.com/2025/08/24/boost-your-net-projects-harness-the-power-of-async-queues-with-spargines-channelqueue/))
 - Accelerating SQL Server 2025 momentum: Announcing the first release candidate - Microsoft SQL Server Blog ([2 days ago](https://dotnetkicks.com/r/728173?url=https://www.microsoft.com/en-us/sql-server/blog/2025/08/22/accelerating-sql-server-2025-momentum-announcing-the-first-release-candidate/))
 - Why Separate Databases? Explaining Like You're Five ([3 days ago](https://dotnetkicks.com/r/728117?url=https://codeopinion.com/why-separate-databases-explaining-like-youre-five/))
 - Enhance your CLI testing workflow with the new dotnet test - .NET Blog ([3 days ago](https://dotnetkicks.com/r/728111?url=https://devblogs.microsoft.com/dotnet/dotnet-test-with-mtp/))
 - Enhance your CLI testing workflow with the new dotnet test ([3 days ago](https://devblogs.microsoft.com/dotnet/dotnet-test-with-mtp/))
-- Better Control over Your Copilot Code Suggestions - Visual Studio Blog ([3 days ago](https://dotnetkicks.com/r/728100?url=https://devblogs.microsoft.com/visualstudio/better-control-over-your-copilot-code-suggestions/))
+- Better Control over Your Copilot Code Suggestions - Visual Studio Blog ([4 days ago](https://dotnetkicks.com/r/728100?url=https://devblogs.microsoft.com/visualstudio/better-control-over-your-copilot-code-suggestions/))
 - Security Product Efficacy ([4 days ago](https://dotnetkicks.com/r/728032?url=https://textslashplain.com/2025/08/20/security-product-efficacy/))
 - Copilot Diagnostics toolset for .NET In Visual Studio - .NET Blog ([4 days ago](https://dotnetkicks.com/r/728012?url=https://devblogs.microsoft.com/dotnet/github-copilot-diagnostics-toolset-for-dotnet-in-visual-studio/))
 - Copilot Diagnostics toolset for .NET In Visual Studio ([4 days ago](https://devblogs.microsoft.com/dotnet/github-copilot-diagnostics-toolset-for-dotnet-in-visual-studio/))
@@ -44,7 +45,6 @@ description: DotNet Updates
 - .NET 10 Preview 7 is now available! - .NET Blog ([12 days ago](https://dotnetkicks.com/r/727280?url=https://devblogs.microsoft.com/dotnet/dotnet-10-preview-7/))
 - .NET 10 Preview 7 is now available! ([12 days ago](https://devblogs.microsoft.com/dotnet/dotnet-10-preview-7/))
 - dotInsights  -  August 2025 ([13 days ago](https://blog.jetbrains.com/dotnet/2025/08/12/dotinsights-august-2025/))
-- Running .NET in the browser without Blazor ([13 days ago](https://dotnetkicks.com/r/727227?url=https://andrewlock.net/running-dotnet-in-the-browser-without-blazor/))
 - Running .NET in the browser without Blazor ([13 days ago](https://andrewlock.net/running-dotnet-in-the-browser-without-blazor/))
 - Boost Your .NET Projects: Simplify Date & Time Formatting with Spargine’s DateTimeFormat ([15 days ago](https://dotnettips.wordpress.com/2025/08/10/boost-your-net-projects-simplify-date-time-formatting-with-spargines-datetimeformat/))
 - Coding Faster with dotNetTips.com Spargine 8: August 2025 Release ([17 days ago](https://dotnettips.wordpress.com/2025/08/08/coding-faster-with-dotnettips-com-spargine-8-august-2025-release/))
