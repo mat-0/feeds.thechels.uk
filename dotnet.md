@@ -8,9 +8,9 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Fixing an old .NET Core native library loading issue on Alpine ([6 hours ago](https://dotnetkicks.com/r/728349?url=https://andrewlock.net/fixing-an-old-dotnet-core-native-library-loading-issue-on-alpine/))
-- Fixing an old .NET Core native library loading issue on Alpine ([7 hours ago](https://andrewlock.net/fixing-an-old-dotnet-core-native-library-loading-issue-on-alpine/))
-- 2025 Summer Vacation ([20 hours ago](https://dotnetkicks.com/r/728343?url=https://textslashplain.com/2025/08/25/2025-summer-vacation/))
+- Fixing an old .NET Core native library loading issue on Alpine ([7 hours ago](https://dotnetkicks.com/r/728349?url=https://andrewlock.net/fixing-an-old-dotnet-core-native-library-loading-issue-on-alpine/))
+- Fixing an old .NET Core native library loading issue on Alpine ([8 hours ago](https://andrewlock.net/fixing-an-old-dotnet-core-native-library-loading-issue-on-alpine/))
+- 2025 Summer Vacation ([21 hours ago](https://dotnetkicks.com/r/728343?url=https://textslashplain.com/2025/08/25/2025-summer-vacation/))
 - MauiReactor: An MVU Approach for .NET MAUI - .NET Blog ([1 days ago](https://dotnetkicks.com/r/728311?url=https://devblogs.microsoft.com/dotnet/mauireactor-mvu-for-dotnet-maui/))
 - MauiReactor: An MVU Approach for .NET MAUI - .NET Blog ([1 days ago](https://dotnetkicks.com/r/728306?url=https://devblogs.microsoft.com/dotnet/mauireactor-mvu-for-dotnet-maui/))
 - MauiReactor: An MVU Approach for .NET MAUI - .NET Blog ([1 days ago](https://dotnetkicks.com/r/728290?url=https://devblogs.microsoft.com/dotnet/mauireactor-mvu-for-dotnet-maui/))
