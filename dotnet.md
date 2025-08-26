@@ -8,10 +8,10 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- The Visual Studio August Update is here - smarter AI, better debugging, and more control - Visual Studio Blog ([10 minutes ago](https://dotnetkicks.com/r/728413?url=https://devblogs.microsoft.com/visualstudio/the-visual-studio-august-update-is-here-smarter-ai-better-debugging-and-more-control/))
-- Fixing an old .NET Core native library loading issue on Alpine ([7 hours ago](https://dotnetkicks.com/r/728349?url=https://andrewlock.net/fixing-an-old-dotnet-core-native-library-loading-issue-on-alpine/))
-- Fixing an old .NET Core native library loading issue on Alpine ([8 hours ago](https://andrewlock.net/fixing-an-old-dotnet-core-native-library-loading-issue-on-alpine/))
-- 2025 Summer Vacation ([21 hours ago](https://dotnetkicks.com/r/728343?url=https://textslashplain.com/2025/08/25/2025-summer-vacation/))
+- The Visual Studio August Update is here - smarter AI, better debugging, and more control - Visual Studio Blog ([35 minutes ago](https://dotnetkicks.com/r/728413?url=https://devblogs.microsoft.com/visualstudio/the-visual-studio-august-update-is-here-smarter-ai-better-debugging-and-more-control/))
+- Fixing an old .NET Core native library loading issue on Alpine ([8 hours ago](https://dotnetkicks.com/r/728349?url=https://andrewlock.net/fixing-an-old-dotnet-core-native-library-loading-issue-on-alpine/))
+- Fixing an old .NET Core native library loading issue on Alpine ([9 hours ago](https://andrewlock.net/fixing-an-old-dotnet-core-native-library-loading-issue-on-alpine/))
+- 2025 Summer Vacation ([22 hours ago](https://dotnetkicks.com/r/728343?url=https://textslashplain.com/2025/08/25/2025-summer-vacation/))
 - MauiReactor: An MVU Approach for .NET MAUI - .NET Blog ([1 days ago](https://dotnetkicks.com/r/728311?url=https://devblogs.microsoft.com/dotnet/mauireactor-mvu-for-dotnet-maui/))
 - MauiReactor: An MVU Approach for .NET MAUI - .NET Blog ([1 days ago](https://dotnetkicks.com/r/728306?url=https://devblogs.microsoft.com/dotnet/mauireactor-mvu-for-dotnet-maui/))
 - MauiReactor: An MVU Approach for .NET MAUI - .NET Blog ([1 days ago](https://dotnetkicks.com/r/728290?url=https://devblogs.microsoft.com/dotnet/mauireactor-mvu-for-dotnet-maui/))
