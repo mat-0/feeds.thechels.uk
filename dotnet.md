@@ -8,7 +8,7 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- The Visual Studio August Update is here - smarter AI, better debugging, and more control - Visual Studio Blog ([4 hours ago](https://dotnetkicks.com/r/728413?url=https://devblogs.microsoft.com/visualstudio/the-visual-studio-august-update-is-here-smarter-ai-better-debugging-and-more-control/))
+- The Visual Studio August Update is here - smarter AI, better debugging, and more control - Visual Studio Blog ([5 hours ago](https://dotnetkicks.com/r/728413?url=https://devblogs.microsoft.com/visualstudio/the-visual-studio-august-update-is-here-smarter-ai-better-debugging-and-more-control/))
 - Fixing an old .NET Core native library loading issue on Alpine ([12 hours ago](https://dotnetkicks.com/r/728349?url=https://andrewlock.net/fixing-an-old-dotnet-core-native-library-loading-issue-on-alpine/))
 - Fixing an old .NET Core native library loading issue on Alpine ([13 hours ago](https://andrewlock.net/fixing-an-old-dotnet-core-native-library-loading-issue-on-alpine/))
 - 2025 Summer Vacation ([1 days ago](https://dotnetkicks.com/r/728343?url=https://textslashplain.com/2025/08/25/2025-summer-vacation/))
@@ -23,7 +23,7 @@ description: DotNet Updates
 - Enhance your CLI testing workflow with the new dotnet test - .NET Blog ([5 days ago](https://dotnetkicks.com/r/728111?url=https://devblogs.microsoft.com/dotnet/dotnet-test-with-mtp/))
 - Enhance your CLI testing workflow with the new dotnet test ([5 days ago](https://devblogs.microsoft.com/dotnet/dotnet-test-with-mtp/))
 - Better Control over Your Copilot Code Suggestions - Visual Studio Blog ([5 days ago](https://dotnetkicks.com/r/728100?url=https://devblogs.microsoft.com/visualstudio/better-control-over-your-copilot-code-suggestions/))
-- Security Product Efficacy ([5 days ago](https://dotnetkicks.com/r/728032?url=https://textslashplain.com/2025/08/20/security-product-efficacy/))
+- Security Product Efficacy ([6 days ago](https://dotnetkicks.com/r/728032?url=https://textslashplain.com/2025/08/20/security-product-efficacy/))
 - Copilot Diagnostics toolset for .NET In Visual Studio - .NET Blog ([6 days ago](https://dotnetkicks.com/r/728012?url=https://devblogs.microsoft.com/dotnet/github-copilot-diagnostics-toolset-for-dotnet-in-visual-studio/))
 - Copilot Diagnostics toolset for .NET In Visual Studio ([6 days ago](https://devblogs.microsoft.com/dotnet/github-copilot-diagnostics-toolset-for-dotnet-in-visual-studio/))
 - Bring Your Own Model to Chat in Visual Studio - Visual Studio Blog ([6 days ago](https://dotnetkicks.com/r/728005?url=https://devblogs.microsoft.com/visualstudio/bring-your-own-model-visual-studio-chat/))
