@@ -8,7 +8,7 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- 2025 Summer Vacation ([11 hours ago](https://dotnetkicks.com/r/728343?url=https://textslashplain.com/2025/08/25/2025-summer-vacation/))
+- 2025 Summer Vacation ([12 hours ago](https://dotnetkicks.com/r/728343?url=https://textslashplain.com/2025/08/25/2025-summer-vacation/))
 - MauiReactor: An MVU Approach for .NET MAUI - .NET Blog ([15 hours ago](https://dotnetkicks.com/r/728311?url=https://devblogs.microsoft.com/dotnet/mauireactor-mvu-for-dotnet-maui/))
 - MauiReactor: An MVU Approach for .NET MAUI - .NET Blog ([15 hours ago](https://dotnetkicks.com/r/728306?url=https://devblogs.microsoft.com/dotnet/mauireactor-mvu-for-dotnet-maui/))
 - MauiReactor: An MVU Approach for .NET MAUI - .NET Blog ([15 hours ago](https://dotnetkicks.com/r/728290?url=https://devblogs.microsoft.com/dotnet/mauireactor-mvu-for-dotnet-maui/))
