@@ -8,7 +8,7 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- The Visual Studio August Update is here - smarter AI, better debugging, and more control - Visual Studio Blog ([19 hours ago](https://dotnetkicks.com/r/728413?url=https://devblogs.microsoft.com/visualstudio/the-visual-studio-august-update-is-here-smarter-ai-better-debugging-and-more-control/))
+- The Visual Studio August Update is here - smarter AI, better debugging, and more control - Visual Studio Blog ([20 hours ago](https://dotnetkicks.com/r/728413?url=https://devblogs.microsoft.com/visualstudio/the-visual-studio-august-update-is-here-smarter-ai-better-debugging-and-more-control/))
 - Fixing an old .NET Core native library loading issue on Alpine ([1 days ago](https://dotnetkicks.com/r/728349?url=https://andrewlock.net/fixing-an-old-dotnet-core-native-library-loading-issue-on-alpine/))
 - Fixing an old .NET Core native library loading issue on Alpine ([1 days ago](https://andrewlock.net/fixing-an-old-dotnet-core-native-library-loading-issue-on-alpine/))
 - 2025 Summer Vacation ([1 days ago](https://dotnetkicks.com/r/728343?url=https://textslashplain.com/2025/08/25/2025-summer-vacation/))
@@ -46,7 +46,7 @@ description: DotNet Updates
 - ReSharper and the .NET Tools 2025.2 Are Out! ([13 days ago](https://blog.jetbrains.com/dotnet/2025/08/14/resharper-and-the-net-tools-2025-2-are-out/))
 - Rider 2025.2 Is Here with Junie, In-IDE OpenTelemetry, Game Dev Upgrades, and More ([13 days ago](https://blog.jetbrains.com/dotnet/2025/08/14/rider-2025-2-is-here-with-junie-in-ide-opentelemetry-game-dev-upgrades-and-more/))
 - .NET 10 Preview 7 is now available! ([14 days ago](https://devblogs.microsoft.com/dotnet/dotnet-10-preview-7/))
-- dotInsights  -  August 2025 ([14 days ago](https://blog.jetbrains.com/dotnet/2025/08/12/dotinsights-august-2025/))
+- dotInsights  -  August 2025 ([15 days ago](https://blog.jetbrains.com/dotnet/2025/08/12/dotinsights-august-2025/))
 - Running .NET in the browser without Blazor ([15 days ago](https://andrewlock.net/running-dotnet-in-the-browser-without-blazor/))
 - Boost Your .NET Projects: Simplify Date & Time Formatting with Spargine’s DateTimeFormat ([17 days ago](https://dotnettips.wordpress.com/2025/08/10/boost-your-net-projects-simplify-date-time-formatting-with-spargines-datetimeformat/))
 - Coding Faster with dotNetTips.com Spargine 8: August 2025 Release ([19 days ago](https://dotnettips.wordpress.com/2025/08/08/coding-faster-with-dotnettips-com-spargine-8-august-2025-release/))
