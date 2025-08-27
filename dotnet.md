@@ -8,10 +8,10 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Roadmap for AI in Visual Studio (September) - Visual Studio Blog ([54 minutes ago](https://dotnetkicks.com/r/728498?url=https://devblogs.microsoft.com/visualstudio/roadmap-for-ai-in-visual-studio-september/))
-- Roadmap for AI in Visual Studio (September) - Visual Studio Blog ([54 minutes ago](https://dotnetkicks.com/r/728482?url=https://devblogs.microsoft.com/visualstudio/roadmap-for-ai-in-visual-studio-september/))
-- EFCore.Visualizer - View Entity Framework Core query plan inside Visual Studio - .NET Blog ([1 hours ago](https://dotnetkicks.com/r/728480?url=https://devblogs.microsoft.com/dotnet/ef-core-visualizer-view-entity-framework-core-query-plan-inside-visual-studio/))
-- EFCore.Visualizer - View Entity Framework Core query plan inside Visual Studio - .NET Blog ([1 hours ago](https://dotnetkicks.com/r/728461?url=https://devblogs.microsoft.com/dotnet/ef-core-visualizer-view-entity-framework-core-query-plan-inside-visual-studio/))
+- Roadmap for AI in Visual Studio (September) - Visual Studio Blog ([1 hours ago](https://dotnetkicks.com/r/728498?url=https://devblogs.microsoft.com/visualstudio/roadmap-for-ai-in-visual-studio-september/))
+- Roadmap for AI in Visual Studio (September) - Visual Studio Blog ([1 hours ago](https://dotnetkicks.com/r/728482?url=https://devblogs.microsoft.com/visualstudio/roadmap-for-ai-in-visual-studio-september/))
+- EFCore.Visualizer - View Entity Framework Core query plan inside Visual Studio - .NET Blog ([2 hours ago](https://dotnetkicks.com/r/728480?url=https://devblogs.microsoft.com/dotnet/ef-core-visualizer-view-entity-framework-core-query-plan-inside-visual-studio/))
+- EFCore.Visualizer - View Entity Framework Core query plan inside Visual Studio - .NET Blog ([2 hours ago](https://dotnetkicks.com/r/728461?url=https://devblogs.microsoft.com/dotnet/ef-core-visualizer-view-entity-framework-core-query-plan-inside-visual-studio/))
 - EFCore.Visualizer – View Entity Framework Core query plan inside Visual Studio ([2 hours ago](https://devblogs.microsoft.com/dotnet/ef-core-visualizer-view-entity-framework-core-query-plan-inside-visual-studio/))
 - The Visual Studio August Update is here - smarter AI, better debugging, and more control - Visual Studio Blog ([1 days ago](https://dotnetkicks.com/r/728413?url=https://devblogs.microsoft.com/visualstudio/the-visual-studio-august-update-is-here-smarter-ai-better-debugging-and-more-control/))
 - Fixing an old .NET Core native library loading issue on Alpine ([1 days ago](https://dotnetkicks.com/r/728349?url=https://andrewlock.net/fixing-an-old-dotnet-core-native-library-loading-issue-on-alpine/))
@@ -46,7 +46,7 @@ description: DotNet Updates
 - Next-Level Performance Improvements in ReSharper 2025.2 ([13 days ago](https://blog.jetbrains.com/dotnet/2025/08/14/resharper-performance-improvements-2025/))
 - ReSharper and the .NET Tools 2025.2 Are Out! ([13 days ago](https://blog.jetbrains.com/dotnet/2025/08/14/resharper-and-the-net-tools-2025-2-are-out/))
 - Rider 2025.2 Is Here with Junie, In-IDE OpenTelemetry, Game Dev Upgrades, and More ([13 days ago](https://blog.jetbrains.com/dotnet/2025/08/14/rider-2025-2-is-here-with-junie-in-ide-opentelemetry-game-dev-upgrades-and-more/))
-- .NET 10 Preview 7 is now available! ([14 days ago](https://devblogs.microsoft.com/dotnet/dotnet-10-preview-7/))
+- .NET 10 Preview 7 is now available! ([15 days ago](https://devblogs.microsoft.com/dotnet/dotnet-10-preview-7/))
 - dotInsights  -  August 2025 ([15 days ago](https://blog.jetbrains.com/dotnet/2025/08/12/dotinsights-august-2025/))
 - Running .NET in the browser without Blazor ([15 days ago](https://andrewlock.net/running-dotnet-in-the-browser-without-blazor/))
 - Boost Your .NET Projects: Simplify Date & Time Formatting with Spargine’s DateTimeFormat ([17 days ago](https://dotnettips.wordpress.com/2025/08/10/boost-your-net-projects-simplify-date-time-formatting-with-spargines-datetimeformat/))
