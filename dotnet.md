@@ -9,8 +9,8 @@ description: DotNet Updates
 
 <!-- news_marker starts -->
 - The Visual Studio August Update is here - smarter AI, better debugging, and more control - Visual Studio Blog ([15 hours ago](https://dotnetkicks.com/r/728413?url=https://devblogs.microsoft.com/visualstudio/the-visual-studio-august-update-is-here-smarter-ai-better-debugging-and-more-control/))
-- Fixing an old .NET Core native library loading issue on Alpine ([22 hours ago](https://dotnetkicks.com/r/728349?url=https://andrewlock.net/fixing-an-old-dotnet-core-native-library-loading-issue-on-alpine/))
-- Fixing an old .NET Core native library loading issue on Alpine ([23 hours ago](https://andrewlock.net/fixing-an-old-dotnet-core-native-library-loading-issue-on-alpine/))
+- Fixing an old .NET Core native library loading issue on Alpine ([23 hours ago](https://dotnetkicks.com/r/728349?url=https://andrewlock.net/fixing-an-old-dotnet-core-native-library-loading-issue-on-alpine/))
+- Fixing an old .NET Core native library loading issue on Alpine ([1 days ago](https://andrewlock.net/fixing-an-old-dotnet-core-native-library-loading-issue-on-alpine/))
 - 2025 Summer Vacation ([1 days ago](https://dotnetkicks.com/r/728343?url=https://textslashplain.com/2025/08/25/2025-summer-vacation/))
 - MauiReactor: An MVU Approach for .NET MAUI - .NET Blog ([1 days ago](https://dotnetkicks.com/r/728311?url=https://devblogs.microsoft.com/dotnet/mauireactor-mvu-for-dotnet-maui/))
 - MauiReactor: An MVU Approach for .NET MAUI - .NET Blog ([1 days ago](https://dotnetkicks.com/r/728306?url=https://devblogs.microsoft.com/dotnet/mauireactor-mvu-for-dotnet-maui/))
@@ -34,7 +34,7 @@ description: DotNet Updates
 - GPT-OSS – A C# Guide with Ollama ([7 days ago](https://devblogs.microsoft.com/dotnet/gpt-oss-csharp-ollama/))
 - Converting an xUnit test project to TUnit ([7 days ago](https://dotnetkicks.com/r/727846?url=https://andrewlock.net/converting-an-xunit-project-to-tunit/))
 - Converting an xUnit test project to TUnit ([7 days ago](https://dotnetkicks.com/r/727845?url=https://andrewlock.net/converting-an-xunit-project-to-tunit/))
-- Converting an xUnit test project to TUnit ([7 days ago](https://andrewlock.net/converting-an-xunit-project-to-tunit/))
+- Converting an xUnit test project to TUnit ([8 days ago](https://andrewlock.net/converting-an-xunit-project-to-tunit/))
 - Operations that Span Multiple Event Streams with the Critter Stack ([8 days ago](https://dotnetkicks.com/r/727838?url=https://jeremydmiller.com/2025/08/18/operations-that-span-multiple-event-streams-with-the-critter-stack/))
 - Reset Cookies and force new sign-in using ASP.NET Core Identity ([8 days ago](https://dotnetkicks.com/r/727827?url=https://damienbod.com/2025/08/18/reset-cookies-and-force-new-sign-in-using-asp-net-core-identity/))
 - F# Weekly #33, 2025 - Rider 2025.2 &amp; .NET 10 Preview 7 ([9 days ago](https://dotnetkicks.com/r/727748?url=https://sergeytihon.com/2025/08/17/f-weekly-33-2025-rider-2025-2-net-10-preview-7/))
@@ -47,7 +47,7 @@ description: DotNet Updates
 - Rider 2025.2 Is Here with Junie, In-IDE OpenTelemetry, Game Dev Upgrades, and More ([12 days ago](https://blog.jetbrains.com/dotnet/2025/08/14/rider-2025-2-is-here-with-junie-in-ide-opentelemetry-game-dev-upgrades-and-more/))
 - .NET 10 Preview 7 is now available! ([14 days ago](https://devblogs.microsoft.com/dotnet/dotnet-10-preview-7/))
 - dotInsights  -  August 2025 ([14 days ago](https://blog.jetbrains.com/dotnet/2025/08/12/dotinsights-august-2025/))
-- Running .NET in the browser without Blazor ([14 days ago](https://andrewlock.net/running-dotnet-in-the-browser-without-blazor/))
+- Running .NET in the browser without Blazor ([15 days ago](https://andrewlock.net/running-dotnet-in-the-browser-without-blazor/))
 - Boost Your .NET Projects: Simplify Date & Time Formatting with Spargine’s DateTimeFormat ([17 days ago](https://dotnettips.wordpress.com/2025/08/10/boost-your-net-projects-simplify-date-time-formatting-with-spargines-datetimeformat/))
 - Coding Faster with dotNetTips.com Spargine 8: August 2025 Release ([19 days ago](https://dotnettips.wordpress.com/2025/08/08/coding-faster-with-dotnettips-com-spargine-8-august-2025-release/))
 - 5 Copilot Chat Prompts .NET Devs Should Steal Today ([20 days ago](https://devblogs.microsoft.com/dotnet/5-copilot-chat-prompts-dotnet-devs-should-steal-today/))
@@ -55,8 +55,8 @@ description: DotNet Updates
 - Exploring new Agent Quality and NLP evaluators for .NET AI applications ([21 days ago](https://devblogs.microsoft.com/dotnet/exploring-agent-quality-and-nlp-evaluators/))
 - .NET Conf 2025 – Announcing the Call for Content ([21 days ago](https://devblogs.microsoft.com/dotnet/dotnet-conf-2025-announcing-the-call-for-content/))
 - JetBrains is a Platinum Sponsor of the Godot Foundation ([21 days ago](https://blog.jetbrains.com/dotnet/2025/08/05/jetbrains-is-a-platinum-sponsor-of-the-godot-foundation/))
-- Passkey support for ASP.NET Core identity: Exploring the .NET 10 preview - Part 6 ([21 days ago](https://andrewlock.net/exploring-dotnet-10-preview-features-6-passkey-support-for-aspnetcore-identity/))
+- Passkey support for ASP.NET Core identity: Exploring the .NET 10 preview - Part 6 ([22 days ago](https://andrewlock.net/exploring-dotnet-10-preview-features-6-passkey-support-for-aspnetcore-identity/))
 - The Untapped Power of Veteran Engineers: Why Companies Are Overlooking Their Most Valuable Assets – Part 3 ([24 days ago](https://dotnettips.wordpress.com/2025/08/03/the-untapped-power-of-veteran-engineers-why-companies-are-overlooking-their-most-valuable-assets-part-3/))
-- Running one-off .NET tools with dnx: Exploring the .NET 10 preview - Part 5 ([28 days ago](https://andrewlock.net/exploring-dotnet-10-preview-features-5-running-one-off-dotnet-tools-with-dnx/))
+- Running one-off .NET tools with dnx: Exploring the .NET 10 preview - Part 5 ([29 days ago](https://andrewlock.net/exploring-dotnet-10-preview-features-5-running-one-off-dotnet-tools-with-dnx/))
 
 <!-- news_marker ends -->
