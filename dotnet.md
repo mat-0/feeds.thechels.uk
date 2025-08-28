@@ -8,12 +8,12 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- ReSharper’s New Out-of-Process Engine Cuts UI Freezes in Visual Studio by 80% ([6 hours ago](https://blog.jetbrains.com/dotnet/2025/08/28/resharper-s-new-out-of-process-engine-cuts-ui-freezes-in-visual-studio-by-80/))
+- ReSharper’s New Out-of-Process Engine Cuts UI Freezes in Visual Studio by 80% ([7 hours ago](https://blog.jetbrains.com/dotnet/2025/08/28/resharper-s-new-out-of-process-engine-cuts-ui-freezes-in-visual-studio-by-80/))
 - Roadmap for AI in Visual Studio (September) - Visual Studio Blog ([19 hours ago](https://dotnetkicks.com/r/728498?url=https://devblogs.microsoft.com/visualstudio/roadmap-for-ai-in-visual-studio-september/))
 - Roadmap for AI in Visual Studio (September) - Visual Studio Blog ([19 hours ago](https://dotnetkicks.com/r/728482?url=https://devblogs.microsoft.com/visualstudio/roadmap-for-ai-in-visual-studio-september/))
 - EFCore.Visualizer - View Entity Framework Core query plan inside Visual Studio - .NET Blog ([20 hours ago](https://dotnetkicks.com/r/728480?url=https://devblogs.microsoft.com/dotnet/ef-core-visualizer-view-entity-framework-core-query-plan-inside-visual-studio/))
 - EFCore.Visualizer - View Entity Framework Core query plan inside Visual Studio - .NET Blog ([20 hours ago](https://dotnetkicks.com/r/728461?url=https://devblogs.microsoft.com/dotnet/ef-core-visualizer-view-entity-framework-core-query-plan-inside-visual-studio/))
-- EFCore.Visualizer – View Entity Framework Core query plan inside Visual Studio ([20 hours ago](https://devblogs.microsoft.com/dotnet/ef-core-visualizer-view-entity-framework-core-query-plan-inside-visual-studio/))
+- EFCore.Visualizer – View Entity Framework Core query plan inside Visual Studio ([21 hours ago](https://devblogs.microsoft.com/dotnet/ef-core-visualizer-view-entity-framework-core-query-plan-inside-visual-studio/))
 - The Visual Studio August Update is here - smarter AI, better debugging, and more control - Visual Studio Blog ([1 days ago](https://dotnetkicks.com/r/728413?url=https://devblogs.microsoft.com/visualstudio/the-visual-studio-august-update-is-here-smarter-ai-better-debugging-and-more-control/))
 - Fixing an old .NET Core native library loading issue on Alpine ([2 days ago](https://dotnetkicks.com/r/728349?url=https://andrewlock.net/fixing-an-old-dotnet-core-native-library-loading-issue-on-alpine/))
 - Fixing an old .NET Core native library loading issue on Alpine ([2 days ago](https://andrewlock.net/fixing-an-old-dotnet-core-native-library-loading-issue-on-alpine/))
