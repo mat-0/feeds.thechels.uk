@@ -40,7 +40,7 @@ description: DotNet Updates
 - Converting an xUnit test project to TUnit ([8 days ago](https://dotnetkicks.com/r/727846?url=https://andrewlock.net/converting-an-xunit-project-to-tunit/))
 - Converting an xUnit test project to TUnit ([8 days ago](https://dotnetkicks.com/r/727845?url=https://andrewlock.net/converting-an-xunit-project-to-tunit/))
 - Converting an xUnit test project to TUnit ([8 days ago](https://andrewlock.net/converting-an-xunit-project-to-tunit/))
-- Operations that Span Multiple Event Streams with the Critter Stack ([8 days ago](https://dotnetkicks.com/r/727838?url=https://jeremydmiller.com/2025/08/18/operations-that-span-multiple-event-streams-with-the-critter-stack/))
+- Operations that Span Multiple Event Streams with the Critter Stack ([9 days ago](https://dotnetkicks.com/r/727838?url=https://jeremydmiller.com/2025/08/18/operations-that-span-multiple-event-streams-with-the-critter-stack/))
 - UX Chronicles: Why Streaming Apps Still Suck—and Why That Should Terrify Tech Teams ([10 days ago](https://dotnettips.wordpress.com/2025/08/17/ux-chronicles-why-streaming-apps-still-suck-and-why-that-should-terrify-tech-teams/))
 - Announcing the NuGet MCP Server Preview ([13 days ago](https://devblogs.microsoft.com/dotnet/nuget-mcp-server-preview/))
 - Next-Level Performance Improvements in ReSharper 2025.2 ([13 days ago](https://blog.jetbrains.com/dotnet/2025/08/14/resharper-performance-improvements-2025/))
