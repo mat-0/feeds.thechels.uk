@@ -9,7 +9,7 @@ description: DotNet Updates
 
 <!-- news_marker starts -->
 - Getting Started with the Aspire CLI - .NET Blog ([22 hours ago](https://dotnetkicks.com/r/728623?url=https://devblogs.microsoft.com/dotnet/getting-started-with-the-aspire-cli/))
-- Getting Started with the Aspire CLI ([22 hours ago](https://devblogs.microsoft.com/dotnet/getting-started-with-the-aspire-cli/))
+- Getting Started with the Aspire CLI ([23 hours ago](https://devblogs.microsoft.com/dotnet/getting-started-with-the-aspire-cli/))
 - The Easiest Way to Do OpenTelemetry in .NET: OTLP + Collector ([1 days ago](https://dotnetkicks.com/r/728599?url=https://petabridge.com/blog/easiest-opentelemetry-dotnet-otlp-collector/))
 - ReSharper’s New Out-of-Process Engine Cuts Visual Studio startup UI freezes by 61% ([1 days ago](https://blog.jetbrains.com/dotnet/2025/08/28/resharper-s-new-out-of-process-engine-cuts-ui-freezes-in-visual-studio-by-80/))
 - Roadmap for AI in Visual Studio (September) - Visual Studio Blog ([1 days ago](https://dotnetkicks.com/r/728498?url=https://devblogs.microsoft.com/visualstudio/roadmap-for-ai-in-visual-studio-september/))
@@ -35,8 +35,8 @@ description: DotNet Updates
 - Security Product Efficacy ([8 days ago](https://dotnetkicks.com/r/728032?url=https://textslashplain.com/2025/08/20/security-product-efficacy/))
 - Copilot Diagnostics toolset for .NET In Visual Studio - .NET Blog ([8 days ago](https://dotnetkicks.com/r/728012?url=https://devblogs.microsoft.com/dotnet/github-copilot-diagnostics-toolset-for-dotnet-in-visual-studio/))
 - Copilot Diagnostics toolset for .NET In Visual Studio ([8 days ago](https://devblogs.microsoft.com/dotnet/github-copilot-diagnostics-toolset-for-dotnet-in-visual-studio/))
-- Bring Your Own Model to Chat in Visual Studio - Visual Studio Blog ([8 days ago](https://dotnetkicks.com/r/728005?url=https://devblogs.microsoft.com/visualstudio/bring-your-own-model-visual-studio-chat/))
-- Bring Your Own Model to Chat in Visual Studio - Visual Studio Blog ([8 days ago](https://dotnetkicks.com/r/727973?url=https://devblogs.microsoft.com/visualstudio/bring-your-own-model-visual-studio-chat/))
+- Bring Your Own Model to Chat in Visual Studio - Visual Studio Blog ([9 days ago](https://dotnetkicks.com/r/728005?url=https://devblogs.microsoft.com/visualstudio/bring-your-own-model-visual-studio-chat/))
+- Bring Your Own Model to Chat in Visual Studio - Visual Studio Blog ([9 days ago](https://dotnetkicks.com/r/727973?url=https://devblogs.microsoft.com/visualstudio/bring-your-own-model-visual-studio-chat/))
 - Model Context Protocol (MCP) is Now Generally Available in Visual Studio 🎉 - Visual Studio Blog ([9 days ago](https://dotnetkicks.com/r/727902?url=https://devblogs.microsoft.com/visualstudio/mcp-is-now-generally-available-in-visual-studio/))
 - GPT-OSS - A C# Guide with Ollama - .NET Blog ([9 days ago](https://dotnetkicks.com/r/727899?url=https://devblogs.microsoft.com/dotnet/gpt-oss-csharp-ollama/))
 - GPT-OSS - A C# Guide with Ollama - .NET Blog ([9 days ago](https://dotnetkicks.com/r/727897?url=https://devblogs.microsoft.com/dotnet/gpt-oss-csharp-ollama/))
