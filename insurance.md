@@ -61,7 +61,7 @@ description: Insurance Updates
 - Talanx hands Stephanie Bode expanded role ([1 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/talanx-hands-stephanie-bode-expanded-role-547793.aspx))
 - Allianz Personal Broker MD to step down ([1 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/allianz-personal-broker-md-to-step-down-547792.aspx))
 - Hagerty and Aviva launch new policies for younger classic car drivers ([1 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/hagerty-and-aviva-launch-new-policies-for-younger-classic-car-drivers-547789.aspx))
-- Surprise! The best insurtechs are legacy companies ([1 days ago](https://www.dig-in.com/opinion/the-best-insurtechs-are-legacy-companies))
+- Surprise! The best insurtechs are legacy companies ([2 days ago](https://www.dig-in.com/opinion/the-best-insurtechs-are-legacy-companies))
 - Insurtech profile highlights of 2025 ([2 days ago](https://www.dig-in.com/list/insurtech-profile-highlights-of-2025))
 - Telecom Outage Halted Arriving Flights at Newark Airport, FAA Says ([2 days ago](https://www.insurancejournal.com/news/east/2025/08/28/837387.htm))
 - MassMutual and Orion Partner to Launch New WealthTech Platform ([2 days ago](https://www.insurtechinsights.com/massmutual-and-orion-partner-to-launch-new-wealthtech-platform/))
