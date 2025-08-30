@@ -9,9 +9,9 @@ description: SecOps News
 
 <!-- news_marker starts -->
 - TamperedChef infostealer delivered through fraudulent PDF Editor ([6 hours ago](https://www.bleepingcomputer.com/news/security/tamperedchef-infostealer-delivered-through-fraudulent-pdf-editor/))
-- Attackers Abuse Velociraptor Forensic Tool to Deploy Visual Studio Code for C2 Tunneling ([10 hours ago](https://thehackernews.com/2025/08/attackers-abuse-velociraptor-forensic.html))
-- Huge Fines Imposed by Thailand’s PDPC: A Major Alert on Data Privacy Violations (Thailand) ([11 hours ago](https://databreaches.net/2025/08/30/huge-fines-imposed-by-thailands-pdpc-a-major-alert-on-data-privacy-violations-thailand/?pk_campaign=feed&pk_kwd=huge-fines-imposed-by-thailands-pdpc-a-major-alert-on-data-privacy-violations-thailand))
-- Massachusetts AG Secures $795,000 Settlement for Alleged Data Security and Breach Notification Failures by Peabody Properties Inc. ([11 hours ago](https://databreaches.net/2025/08/30/massachusetts-ag-secures-795000-settlement-for-alleged-data-security-and-breach-notification-failures-by-peabody-properties-inc/?pk_campaign=feed&pk_kwd=massachusetts-ag-secures-795000-settlement-for-alleged-data-security-and-breach-notification-failures-by-peabody-properties-inc))
+- Attackers Abuse Velociraptor Forensic Tool to Deploy Visual Studio Code for C2 Tunneling ([11 hours ago](https://thehackernews.com/2025/08/attackers-abuse-velociraptor-forensic.html))
+- Huge Fines Imposed by Thailand’s PDPC: A Major Alert on Data Privacy Violations (Thailand) ([12 hours ago](https://databreaches.net/2025/08/30/huge-fines-imposed-by-thailands-pdpc-a-major-alert-on-data-privacy-violations-thailand/?pk_campaign=feed&pk_kwd=huge-fines-imposed-by-thailands-pdpc-a-major-alert-on-data-privacy-violations-thailand))
+- Massachusetts AG Secures $795,000 Settlement for Alleged Data Security and Breach Notification Failures by Peabody Properties Inc. ([12 hours ago](https://databreaches.net/2025/08/30/massachusetts-ag-secures-795000-settlement-for-alleged-data-security-and-breach-notification-failures-by-peabody-properties-inc/?pk_campaign=feed&pk_kwd=massachusetts-ag-secures-795000-settlement-for-alleged-data-security-and-breach-notification-failures-by-peabody-properties-inc))
 - Programmers: you have to watch your weight, too ([12 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/08/30/programmers_watch_your_weight/))
 - WhatsApp Issues Emergency Update for Zero-Click Exploit Targeting iOS and macOS Devices ([18 hours ago](https://thehackernews.com/2025/08/whatsapp-issues-emergency-update-for.html))
 - Researcher who found McDonald's free-food hack turns her attention to Chinese restaurant robots ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2025/08/29/pudu_robots_hackable/))
@@ -99,7 +99,7 @@ description: SecOps News
 - ChatGPT hates LA Chargers fans ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2025/08/27/chatgpt_has_a_problem_with/))
 - ChatGPT hates LA Chargers fans ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2025/08/27/chatgpt_has_a_problem_with/))
 - AI arms dealer Nvidia laments the many billions lost to US-China trade war ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2025/08/27/nvidia_q2_china/))
-- Smashing Security podcast #432: Oops! I auto-filled my password into a cookie banner ([2 days ago](https://grahamcluley.com/smashing-security-podcast-432/))
+- Smashing Security podcast #432: Oops! I auto-filled my password into a cookie banner ([3 days ago](https://grahamcluley.com/smashing-security-podcast-432/))
 - Disruption with some GitHub services ([3 days ago](https://www.githubstatus.com/incidents/x7gtw6r3x2s1))
 - Nvidia details its itty bitty GB10 superchip for local AI development ([3 days ago](https://go.theregister.com/feed/www.theregister.com/2025/08/27/nvidia_blackwell_gb10/))
 - Sting nails two front firms in Nork IT worker scam ([3 days ago](https://go.theregister.com/feed/www.theregister.com/2025/08/27/us_treasury_korea_sanctions/))
@@ -135,7 +135,7 @@ description: SecOps News
 - Define Protocol from Traffic (XenoRAT) ([9 days ago](https://www.netresec.com/?page=Blog&month=2025-08&post=Define-Protocol-from-Traffic-XenoRAT))
 - Incident with Issues and Git Operations ([9 days ago](https://www.githubstatus.com/incidents/g0bsmfqmq8xt))
 - SIM-Swapper, Scattered Spider Hacker Gets 10 Years ([9 days ago](https://krebsonsecurity.com/2025/08/sim-swapper-scattered-spider-hacker-gets-10-years/))
-- Smashing Security podcast #431: How to mine millions without paying the bill ([9 days ago](https://grahamcluley.com/smashing-security-podcast-431/))
+- Smashing Security podcast #431: How to mine millions without paying the bill ([10 days ago](https://grahamcluley.com/smashing-security-podcast-431/))
 - Disruption with some GitHub services ([10 days ago](https://www.githubstatus.com/incidents/2cl0fjn559ty))
 - Warlock ransomware: What you need to know ([10 days ago](https://www.fortra.com/blog/warlock-ransomware-what-you-need-know))
 - Oregon Man Charged in ‘Rapper Bot’ DDoS Service ([11 days ago](https://krebsonsecurity.com/2025/08/oregon-man-charged-in-rapper-bot-ddos-service/))
@@ -164,7 +164,7 @@ description: SecOps News
 - Incident with Packages ([16 days ago](https://www.githubstatus.com/incidents/fg0pp1nl4bdg))
 - Nine Steps to SOC 2 Compliance – Including a SOC 2 Readiness Checklist ([16 days ago](https://www.itgovernance.co.uk/blog/nine-steps-to-soc-2-compliance-including-a-soc-2-readiness-checklist))
 - Incident with Actions ([16 days ago](https://www.githubstatus.com/incidents/c2psrbjsmrxr))
-- Smashing Security podcast #430: Poisoned Calendar invites, ChatGPT, and Bromide ([16 days ago](https://grahamcluley.com/smashing-security-podcast-430-poisoned-calendar-invites-chatgpt-and-bromide/))
+- Smashing Security podcast #430: Poisoned Calendar invites, ChatGPT, and Bromide ([17 days ago](https://grahamcluley.com/smashing-security-podcast-430-poisoned-calendar-invites-chatgpt-and-bromide/))
 - That 16 Billion Password Story (AKA "Data Troll") ([17 days ago](https://www.troyhunt.com/that-16-billion-password-story-aka-data-troll/))
 - Data Troll Stealer Logs - 109,532,219 breached accounts ([17 days ago](https://haveibeenpwned.com/Breach/DataTrollStealerLogs))
 - The MedusaLocker ransomware gang is hiring penetration testers ([17 days ago](https://www.fortra.com/blog/medusalocker-ransomware-gang-hiring-penetration-testers))
@@ -203,6 +203,5 @@ description: SecOps News
 - Weekly Update 463 ([27 days ago](https://www.troyhunt.com/weekly-update-463/))
 - Disruption with some GitHub services ([29 days ago](https://www.githubstatus.com/incidents/j630wwvgw9kb))
 - The Six Data Processing Principles of the UK GDPR Explained ([29 days ago](https://www.itgovernance.co.uk/blog/the-six-data-processing-principles-of-the-uk-gdpr-explained))
-- Pi-hole - 29,926 breached accounts ([29 days ago](https://haveibeenpwned.com/Breach/ThePi-Hole))
 
 <!-- news_marker ends -->
