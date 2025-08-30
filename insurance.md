@@ -8,8 +8,8 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Why Bother With Travel Insurance? It Could Cost You £100K, That’s Why ([11 hours ago](https://insurance-edge.net/2025/08/30/why-bother-with-travel-insurance-it-could-cost-you-100k-thats-why/))
-- Uber, Lyft Drop Opposition to California Driver Union Bill ([22 hours ago](https://www.insurancejournal.com/news/west/2025/08/29/837519.htm))
+- Why Bother With Travel Insurance? It Could Cost You £100K, That’s Why ([12 hours ago](https://insurance-edge.net/2025/08/30/why-bother-with-travel-insurance-it-could-cost-you-100k-thats-why/))
+- Uber, Lyft Drop Opposition to California Driver Union Bill ([23 hours ago](https://www.insurancejournal.com/news/west/2025/08/29/837519.htm))
 - New Head of Reinsurance & Specialty Lines at Talanx ([1 days ago](https://insurance-edge.net/2025/08/29/new-head-of-reinsurance-specialty-lines-at-talanx/))
 - France and Germany Reject Trump’s Threats on EU Tech Legislation ([1 days ago](https://www.insurancejournal.com/news/international/2025/08/29/837499.htm))
 - Katrina’s Legacy: Louisiana Fortifies Itself Against the Next Storm ([1 days ago](https://www.insurancejournal.com/news/national/2025/08/29/837490.htm))
