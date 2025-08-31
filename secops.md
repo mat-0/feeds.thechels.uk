@@ -9,8 +9,8 @@ description: SecOps News
 
 <!-- news_marker starts -->
 - TamperedChef infostealer delivered through fraudulent PDF Editor ([11 hours ago](https://www.bleepingcomputer.com/news/security/tamperedchef-infostealer-delivered-through-fraudulent-pdf-editor/))
-- Attackers Abuse Velociraptor Forensic Tool to Deploy Visual Studio Code for C2 Tunneling ([15 hours ago](https://thehackernews.com/2025/08/attackers-abuse-velociraptor-forensic.html))
-- Huge Fines Imposed by Thailand’s PDPC: A Major Alert on Data Privacy Violations (Thailand) ([16 hours ago](https://databreaches.net/2025/08/30/huge-fines-imposed-by-thailands-pdpc-a-major-alert-on-data-privacy-violations-thailand/?pk_campaign=feed&pk_kwd=huge-fines-imposed-by-thailands-pdpc-a-major-alert-on-data-privacy-violations-thailand))
+- Attackers Abuse Velociraptor Forensic Tool to Deploy Visual Studio Code for C2 Tunneling ([16 hours ago](https://thehackernews.com/2025/08/attackers-abuse-velociraptor-forensic.html))
+- Huge Fines Imposed by Thailand’s PDPC: A Major Alert on Data Privacy Violations (Thailand) ([17 hours ago](https://databreaches.net/2025/08/30/huge-fines-imposed-by-thailands-pdpc-a-major-alert-on-data-privacy-violations-thailand/?pk_campaign=feed&pk_kwd=huge-fines-imposed-by-thailands-pdpc-a-major-alert-on-data-privacy-violations-thailand))
 - Massachusetts AG Secures $795,000 Settlement for Alleged Data Security and Breach Notification Failures by Peabody Properties Inc. ([17 hours ago](https://databreaches.net/2025/08/30/massachusetts-ag-secures-795000-settlement-for-alleged-data-security-and-breach-notification-failures-by-peabody-properties-inc/?pk_campaign=feed&pk_kwd=massachusetts-ag-secures-795000-settlement-for-alleged-data-security-and-breach-notification-failures-by-peabody-properties-inc))
 - Programmers: you have to watch your weight, too ([17 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/08/30/programmers_watch_your_weight/))
 - WhatsApp Issues Emergency Update for Zero-Click Exploit Targeting iOS and macOS Devices ([23 hours ago](https://thehackernews.com/2025/08/whatsapp-issues-emergency-update-for.html))
@@ -121,7 +121,7 @@ description: SecOps News
 - Salesloft OAuth Breach via Drift AI Chat Agent Exposes Salesforce Customer Data ([3 days ago](https://thehackernews.com/2025/08/salesloft-oauth-breach-via-drift-ai.html))
 - Blind Eagle’s Five Clusters Target Colombia Using RATs, Phishing Lures, and Dynamic DNS Infra ([3 days ago](https://thehackernews.com/2025/08/blind-eagles-five-clusters-target.html))
 - Home Assistant + Ubiquiti + AI = Home Automation Magic ([3 days ago](https://www.troyhunt.com/home-assistant-ubiquiti-ai-home-automation-magic/))
-- TheSqua.re - 107,041 breached accounts ([3 days ago](https://haveibeenpwned.com/Breach/TheSquare))
+- TheSqua.re - 107,041 breached accounts ([4 days ago](https://haveibeenpwned.com/Breach/TheSquare))
 - Citrix Patches Three NetScaler Flaws, Confirms Active Exploitation of CVE-2025-7775 ([4 days ago](https://thehackernews.com/2025/08/citrix-patches-three-netscaler-flaws.html))
 - The AI Fix #65: Excel Copilot will wreck your data, and can AI fix social media? ([4 days ago](https://grahamcluley.com/the-ai-fix-65/))
 - DSLRoot, Proxies, and the Threat of ‘Legal Botnets’ ([4 days ago](https://krebsonsecurity.com/2025/08/dslroot-proxies-and-the-threat-of-legal-botnets/))
