@@ -8,7 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Why Bother With Travel Insurance? It Could Cost You £100K, That’s Why ([23 hours ago](https://insurance-edge.net/2025/08/30/why-bother-with-travel-insurance-it-could-cost-you-100k-thats-why/))
+- Why Bother With Travel Insurance? It Could Cost You £100K, That’s Why ([1 days ago](https://insurance-edge.net/2025/08/30/why-bother-with-travel-insurance-it-could-cost-you-100k-thats-why/))
 - Uber, Lyft Drop Opposition to California Driver Union Bill ([1 days ago](https://www.insurancejournal.com/news/west/2025/08/29/837519.htm))
 - New Head of Reinsurance & Specialty Lines at Talanx ([1 days ago](https://insurance-edge.net/2025/08/29/new-head-of-reinsurance-specialty-lines-at-talanx/))
 - France and Germany Reject Trump’s Threats on EU Tech Legislation ([1 days ago](https://www.insurancejournal.com/news/international/2025/08/29/837499.htm))
@@ -100,8 +100,8 @@ description: Insurance Updates
 - McKenzie Intelligence Services and Eagleview Form Partnership to Improve Insurance Response to US Catastrophes ([3 days ago](https://www.insurtechinsights.com/mckenzie-intelligence-services-and-eagleview-form-partnership-to-improve-insurance-response-to-us-catastrophes/))
 - Another interest rate cut – what does it mean for insurers? ([3 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/another-interest-rate-cut--what-does-it-mean-for-insurers-547675.aspx))
 - Westfield Specialty International names Melanie Gilbert head of third-party claims ([3 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/westfield-specialty-international-names-melanie-gilbert-head-of-thirdparty-claims-547553.aspx))
-- Healthcare's shift to sound cybersecurity measures ([3 days ago](https://www.dig-in.com/advisers/opinion/healthcares-shift-to-sound-cybersecurity-measures))
-- Architects take first step towards mutual insurer ([3 days ago](https://www.postonline.co.uk/commercial/7958921/architects-take-first-step-towards-mutual-insurer))
+- Healthcare's shift to sound cybersecurity measures ([4 days ago](https://www.dig-in.com/advisers/opinion/healthcares-shift-to-sound-cybersecurity-measures))
+- Architects take first step towards mutual insurer ([4 days ago](https://www.postonline.co.uk/commercial/7958921/architects-take-first-step-towards-mutual-insurer))
 - Insurance push needed to tackle women’s rugby online abuse ([4 days ago](https://www.postonline.co.uk/commercial/7958920/insurance-push-needed-to-tackle-female-rugby-online-abuse))
 - Ageas sees profits rise in first half ([4 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/ageas-sees-profits-rise-in-first-half-547530.aspx))
 - Prudential delivers double-digit profit growth in H1 ([4 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/prudential-delivers-doubledigit-profit-growth-in-h1-547527.aspx))
@@ -123,13 +123,13 @@ description: Insurance Updates
 - Have your say: a call to mortgage and protection advisers ([9 days ago](https://ifamagazine.com/have-your-say-a-call-to-mortgage-and-protection-advisers/))
 - UK pet insurance viewed as most expensive in Europe ([9 days ago](https://www.postonline.co.uk/personal/7958915/uk-pet-insurance-viewed-as-most-expensive-in-europe))
 - Court decision creates transgender PI ‘compensation lottery’ ([9 days ago](https://www.postonline.co.uk/personal/7958916/court-decision-creates-transgender-pi-%E2%80%98compensation-lottery%E2%80%99))
-- Thomas Carroll eyes high-net-worth expansion as it combines teams ([9 days ago](https://www.postonline.co.uk/broker/7958912/thomas-carroll-eyes-high-net-worth-expansion-as-it-combines-teams))
+- Thomas Carroll eyes high-net-worth expansion as it combines teams ([10 days ago](https://www.postonline.co.uk/broker/7958912/thomas-carroll-eyes-high-net-worth-expansion-as-it-combines-teams))
 - Almost three quarters of Brits fear loved ones couldn’t cope financially without them ([10 days ago](https://ifamagazine.com/almost-three-quarters-of-brits-fear-loved-ones-couldnt-cope-financially-without-them/))
 - The Insurance Charity’s CEO reveals new mission ([10 days ago](https://www.postonline.co.uk/people/7958166/the-insurance-charity%E2%80%99s-ceo-reveals-new-mission))
 - Q&A: Richard Hartley, Cytora ([10 days ago](https://www.postonline.co.uk/technology/7958053/qa-richard-hartley-cytora))
 - The power of cover upgrades: demonstrating real benefits for existing clients ([11 days ago](https://ifamagazine.com/the-power-of-cover-upgrades-demonstrating-real-benefits-for-existing-clients/))
 - The Exeter announces agreement with iGPR to streamline requests for medical information ([11 days ago](https://ifamagazine.com/the-exeter-announces-agreement-with-igpr-to-streamline-requests-for-medical-information/))
 - Swiss Re appoints Robin Spencer as Chief Operating Officer for Life & Health Reinsurance ([12 days ago](https://ifamagazine.com/swiss-re-appoints-robin-spencer-as-chief-operating-officer-for-life-health-reinsurance/))
-- Wio Bank Integrates Shory’s Car Insurance to Make Protection More Accessible in the UAE ([22 days ago](https://thefintechtimes.com/wio-bank-integrates-shorys-car-insurance-to-make-protection-more-accessible-in-the-uae/))
+- Wio Bank Integrates Shory’s Car Insurance to Make Protection More Accessible in the UAE ([23 days ago](https://thefintechtimes.com/wio-bank-integrates-shorys-car-insurance-to-make-protection-more-accessible-in-the-uae/))
 
 <!-- news_marker ends -->
