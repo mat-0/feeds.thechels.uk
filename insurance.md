@@ -63,7 +63,7 @@ description: Insurance Updates
 - Hagerty and Aviva launch new policies for younger classic car drivers ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/hagerty-and-aviva-launch-new-policies-for-younger-classic-car-drivers-547789.aspx))
 - Surprise! The best insurtechs are legacy companies ([2 days ago](https://www.dig-in.com/opinion/the-best-insurtechs-are-legacy-companies))
 - Insurtech profile highlights of 2025 ([2 days ago](https://www.dig-in.com/list/insurtech-profile-highlights-of-2025))
-- Telecom Outage Halted Arriving Flights at Newark Airport, FAA Says ([2 days ago](https://www.insurancejournal.com/news/east/2025/08/28/837387.htm))
+- Telecom Outage Halted Arriving Flights at Newark Airport, FAA Says ([3 days ago](https://www.insurancejournal.com/news/east/2025/08/28/837387.htm))
 - MassMutual and Orion Partner to Launch New WealthTech Platform ([3 days ago](https://www.insurtechinsights.com/massmutual-and-orion-partner-to-launch-new-wealthtech-platform/))
 - Sixfold Unveils AI-Powered Condition-Based Insights and Core Clinical Data for L&H Underwriting ([3 days ago](https://www.insurtechinsights.com/sixfold-unveils-ai-powered-condition-based-insights-and-core-clinical-data-for-lh-underwriting/))
 - Mortgage insurers commit to using VantageScore 4.0 ([3 days ago](https://www.dig-in.com/news/mortgage-insurers-commit-to-using-vantagescore-4-0))
