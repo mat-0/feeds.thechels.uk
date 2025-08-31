@@ -8,6 +8,7 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
+- Faster &amp; More Reliable Integration Testing Against Marten Projections or Subscriptions ([22 minutes ago](https://dotnetkicks.com/r/728715?url=https://jeremydmiller.com/2025/08/19/faster-more-reliable-integration-testing-against-marten-projections-or-subscriptions/))
 - Mads K (Microsoft) on Visual Studio and VSCode ([4 hours ago](https://dotnetkicks.com/r/728714?url=https://jesseliberty.com/2025/08/31/mads-k-microsoft-on-visual-studio-and-vscode/))
 - Boost Your .NET Projects: Find the Fastest Way to Get an Item’s Index in Arrays ([16 hours ago](https://dotnettips.wordpress.com/2025/08/31/boost-your-net-projects-find-the-fastest-way-to-get-an-items-index-in-arrays/))
 - F# Weekly #35, 2025 - AI agents can write F#! ([1 days ago](https://dotnetkicks.com/r/728676?url=https://sergeytihon.com/2025/08/30/f-weekly-35-2025-ai-agents-can-write-f/))
@@ -41,7 +42,6 @@ description: DotNet Updates
 - Copilot Diagnostics toolset for .NET In Visual Studio ([11 days ago](https://devblogs.microsoft.com/dotnet/github-copilot-diagnostics-toolset-for-dotnet-in-visual-studio/))
 - Bring Your Own Model to Chat in Visual Studio - Visual Studio Blog ([11 days ago](https://dotnetkicks.com/r/728005?url=https://devblogs.microsoft.com/visualstudio/bring-your-own-model-visual-studio-chat/))
 - Bring Your Own Model to Chat in Visual Studio - Visual Studio Blog ([11 days ago](https://dotnetkicks.com/r/727973?url=https://devblogs.microsoft.com/visualstudio/bring-your-own-model-visual-studio-chat/))
-- Model Context Protocol (MCP) is Now Generally Available in Visual Studio 🎉 - Visual Studio Blog ([12 days ago](https://dotnetkicks.com/r/727902?url=https://devblogs.microsoft.com/visualstudio/mcp-is-now-generally-available-in-visual-studio/))
 - GPT-OSS – A C# Guide with Ollama ([12 days ago](https://devblogs.microsoft.com/dotnet/gpt-oss-csharp-ollama/))
 - Converting an xUnit test project to TUnit ([12 days ago](https://andrewlock.net/converting-an-xunit-project-to-tunit/))
 - UX Chronicles: Why Streaming Apps Still Suck—and Why That Should Terrify Tech Teams ([14 days ago](https://dotnettips.wordpress.com/2025/08/17/ux-chronicles-why-streaming-apps-still-suck-and-why-that-should-terrify-tech-teams/))
