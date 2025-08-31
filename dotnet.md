@@ -8,8 +8,8 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- F# Weekly #35, 2025 - AI agents can write F#! ([11 hours ago](https://dotnetkicks.com/r/728676?url=https://sergeytihon.com/2025/08/30/f-weekly-35-2025-ai-agents-can-write-f/))
-- F# Weekly #35, 2025 - AI agents can write F#! ([11 hours ago](https://dotnetkicks.com/r/728668?url=https://sergeytihon.com/2025/08/30/f-weekly-35-2025-ai-agents-can-write-f/))
+- F# Weekly #35, 2025 - AI agents can write F#! ([12 hours ago](https://dotnetkicks.com/r/728676?url=https://sergeytihon.com/2025/08/30/f-weekly-35-2025-ai-agents-can-write-f/))
+- F# Weekly #35, 2025 - AI agents can write F#! ([12 hours ago](https://dotnetkicks.com/r/728668?url=https://sergeytihon.com/2025/08/30/f-weekly-35-2025-ai-agents-can-write-f/))
 - Getting Started with the Aspire CLI - .NET Blog ([2 days ago](https://dotnetkicks.com/r/728623?url=https://devblogs.microsoft.com/dotnet/getting-started-with-the-aspire-cli/))
 - Getting Started with the Aspire CLI ([2 days ago](https://devblogs.microsoft.com/dotnet/getting-started-with-the-aspire-cli/))
 - The Easiest Way to Do OpenTelemetry in .NET: OTLP + Collector ([2 days ago](https://dotnetkicks.com/r/728599?url=https://petabridge.com/blog/easiest-opentelemetry-dotnet-otlp-collector/))
