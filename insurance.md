@@ -8,7 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Why Bother With Travel Insurance? It Could Cost You £100K, That’s Why ([20 hours ago](https://insurance-edge.net/2025/08/30/why-bother-with-travel-insurance-it-could-cost-you-100k-thats-why/))
+- Why Bother With Travel Insurance? It Could Cost You £100K, That’s Why ([21 hours ago](https://insurance-edge.net/2025/08/30/why-bother-with-travel-insurance-it-could-cost-you-100k-thats-why/))
 - Uber, Lyft Drop Opposition to California Driver Union Bill ([1 days ago](https://www.insurancejournal.com/news/west/2025/08/29/837519.htm))
 - New Head of Reinsurance & Specialty Lines at Talanx ([1 days ago](https://insurance-edge.net/2025/08/29/new-head-of-reinsurance-specialty-lines-at-talanx/))
 - France and Germany Reject Trump’s Threats on EU Tech Legislation ([1 days ago](https://www.insurancejournal.com/news/international/2025/08/29/837499.htm))
@@ -79,8 +79,8 @@ description: Insurance Updates
 - Sompo to Acquire Aspen for $3.5 Billion ([2 days ago](https://www.insurtechinsights.com/sompo-to-acquire-aspen-for-3-5-billion/))
 - Steadily Expands Use of ZestyAI Models to Enhance Landlord Insurance Underwriting ([2 days ago](https://www.insurtechinsights.com/steadily-expands-use-of-zestyai-models-to-enhance-landlord-insurance-underwriting/))
 - iPipeline Appoints Holly McGiboney as Chief Human Resources Officer to Lead Talent Strategy and Employee Experience ([2 days ago](https://www.insurtechinsights.com/ipipeline-appoints-holly-mcgiboney-as-chief-human-resources-officer-to-lead-talent-strategy-and-employee-experience/))
-- Q&A: Testudo’s George Lewin-Smith ([2 days ago](https://www.postonline.co.uk/technology/7958076/qa-testudo%E2%80%99s-george-lewin-smith))
-- Why it’s time to rethink what adequate cybersecurity looks like ([2 days ago](https://www.postonline.co.uk/commercial/7958910/why-it%E2%80%99s-time-to-rethink-what-adequate-cybersecurity-looks-like))
+- Q&A: Testudo’s George Lewin-Smith ([3 days ago](https://www.postonline.co.uk/technology/7958076/qa-testudo%E2%80%99s-george-lewin-smith))
+- Why it’s time to rethink what adequate cybersecurity looks like ([3 days ago](https://www.postonline.co.uk/commercial/7958910/why-it%E2%80%99s-time-to-rethink-what-adequate-cybersecurity-looks-like))
 - Throwback Thursday: Computer warning; Sedgwick’s expansion ([3 days ago](https://www.postonline.co.uk/technology/7956763/throwback-thursday-computer-warning-sedgwick%E2%80%99s-expansion))
 - FCA received 5,000 impersonation scams in H1 2025 ([3 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/fca-received-5000-impersonation-scams-in-h1-2025-547649.aspx))
 - Incident response planning linked to fewer cyber insurance claims: Marsh study ([3 days ago](https://www.insurancebusinessmag.com/uk/news/cyber/incident-response-planning-linked-to-fewer-cyber-insurance-claims-marsh-study-547641.aspx))
