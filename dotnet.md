@@ -8,13 +8,13 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Boost Your .NET Projects: Find the Fastest Way to Get an Item’s Index in Arrays ([40 minutes ago](https://dotnettips.wordpress.com/2025/08/31/boost-your-net-projects-find-the-fastest-way-to-get-an-items-index-in-arrays/))
-- F# Weekly #35, 2025 - AI agents can write F#! ([13 hours ago](https://dotnetkicks.com/r/728676?url=https://sergeytihon.com/2025/08/30/f-weekly-35-2025-ai-agents-can-write-f/))
-- F# Weekly #35, 2025 - AI agents can write F#! ([13 hours ago](https://dotnetkicks.com/r/728668?url=https://sergeytihon.com/2025/08/30/f-weekly-35-2025-ai-agents-can-write-f/))
+- Boost Your .NET Projects: Find the Fastest Way to Get an Item’s Index in Arrays ([1 hours ago](https://dotnettips.wordpress.com/2025/08/31/boost-your-net-projects-find-the-fastest-way-to-get-an-items-index-in-arrays/))
+- F# Weekly #35, 2025 - AI agents can write F#! ([14 hours ago](https://dotnetkicks.com/r/728676?url=https://sergeytihon.com/2025/08/30/f-weekly-35-2025-ai-agents-can-write-f/))
+- F# Weekly #35, 2025 - AI agents can write F#! ([14 hours ago](https://dotnetkicks.com/r/728668?url=https://sergeytihon.com/2025/08/30/f-weekly-35-2025-ai-agents-can-write-f/))
 - Getting Started with the Aspire CLI - .NET Blog ([2 days ago](https://dotnetkicks.com/r/728623?url=https://devblogs.microsoft.com/dotnet/getting-started-with-the-aspire-cli/))
 - Getting Started with the Aspire CLI ([2 days ago](https://devblogs.microsoft.com/dotnet/getting-started-with-the-aspire-cli/))
 - The Easiest Way to Do OpenTelemetry in .NET: OTLP + Collector ([2 days ago](https://dotnetkicks.com/r/728599?url=https://petabridge.com/blog/easiest-opentelemetry-dotnet-otlp-collector/))
-- ReSharper’s New Out-of-Process Engine Cuts Visual Studio startup UI freezes by 61% ([2 days ago](https://blog.jetbrains.com/dotnet/2025/08/28/resharper-s-new-out-of-process-engine-cuts-ui-freezes-in-visual-studio-by-80/))
+- ReSharper’s New Out-of-Process Engine Cuts Visual Studio startup UI freezes by 61% ([3 days ago](https://blog.jetbrains.com/dotnet/2025/08/28/resharper-s-new-out-of-process-engine-cuts-ui-freezes-in-visual-studio-by-80/))
 - Roadmap for AI in Visual Studio (September) - Visual Studio Blog ([3 days ago](https://dotnetkicks.com/r/728498?url=https://devblogs.microsoft.com/visualstudio/roadmap-for-ai-in-visual-studio-september/))
 - Roadmap for AI in Visual Studio (September) - Visual Studio Blog ([3 days ago](https://dotnetkicks.com/r/728482?url=https://devblogs.microsoft.com/visualstudio/roadmap-for-ai-in-visual-studio-september/))
 - EFCore.Visualizer - View Entity Framework Core query plan inside Visual Studio - .NET Blog ([3 days ago](https://dotnetkicks.com/r/728480?url=https://devblogs.microsoft.com/dotnet/ef-core-visualizer-view-entity-framework-core-query-plan-inside-visual-studio/))
