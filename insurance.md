@@ -10,7 +10,7 @@ description: Insurance Updates
 <!-- news_marker starts -->
 - Why Bother With Travel Insurance? It Could Cost You £100K, That’s Why ([1 days ago](https://insurance-edge.net/2025/08/30/why-bother-with-travel-insurance-it-could-cost-you-100k-thats-why/))
 - Uber, Lyft Drop Opposition to California Driver Union Bill ([1 days ago](https://www.insurancejournal.com/news/west/2025/08/29/837519.htm))
-- New Head of Reinsurance & Specialty Lines at Talanx ([1 days ago](https://insurance-edge.net/2025/08/29/new-head-of-reinsurance-specialty-lines-at-talanx/))
+- New Head of Reinsurance & Specialty Lines at Talanx ([2 days ago](https://insurance-edge.net/2025/08/29/new-head-of-reinsurance-specialty-lines-at-talanx/))
 - France and Germany Reject Trump’s Threats on EU Tech Legislation ([2 days ago](https://www.insurancejournal.com/news/international/2025/08/29/837499.htm))
 - Katrina’s Legacy: Louisiana Fortifies Itself Against the Next Storm ([2 days ago](https://www.insurancejournal.com/news/national/2025/08/29/837490.htm))
 - Mun named Director, Client Management at Aon Reinsurance Malaysia ([2 days ago](https://www.reinsurancene.ws/mun-named-director-client-management-at-aon-reinsurance-malaysia/))
@@ -87,7 +87,7 @@ description: Insurance Updates
 - War is changing global shipping routes and increasing marine insurance risks ([3 days ago](https://www.insurancebusinessmag.com/uk/news/marine/war-is-changing-global-shipping-routes-and-increasing-marine-insurance-risks-547774.aspx))
 - AI-powered wellness: Shaping the future of employee health and productivity ([3 days ago](https://www.dig-in.com/opinion/ai-powered-wellness-shaping-the-future-of-employee-health-and-productivity))
 - Lockton appoints head of property for Swedish operations ([3 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/lockton-appoints-head-of-property-for-swedish-operations-547635.aspx))
-- Bridging the gap between human expertise and AI ([3 days ago](https://www.dig-in.com/opinion/bridging-the-gap-between-human-expertise-and-ai))
+- Bridging the gap between human expertise and AI ([4 days ago](https://www.dig-in.com/opinion/bridging-the-gap-between-human-expertise-and-ai))
 - Agent lookup tool and federal reinsurance bill: Regulation news ([4 days ago](https://www.dig-in.com/list/agent-lookup-tool-federal-reinsurance-bill-regulation-news))
 - Top EV claims trends from 2025 second quarter ([4 days ago](https://www.dig-in.com/list/top-ev-claims-trends-from-q2-2025))
 - Surprising reason employees may seem happier at work ([4 days ago](https://www.insurancebusinessmag.com/uk/business-strategy/surprising-reason-employees-may-seem-happier-at-work-547610.aspx))
