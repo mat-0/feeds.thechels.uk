@@ -9,8 +9,8 @@ description: SecOps News
 
 <!-- news_marker starts -->
 - TamperedChef infostealer delivered through fraudulent PDF Editor ([13 hours ago](https://www.bleepingcomputer.com/news/security/tamperedchef-infostealer-delivered-through-fraudulent-pdf-editor/))
-- Attackers Abuse Velociraptor Forensic Tool to Deploy Visual Studio Code for C2 Tunneling ([17 hours ago](https://thehackernews.com/2025/08/attackers-abuse-velociraptor-forensic.html))
-- Huge Fines Imposed by Thailand’s PDPC: A Major Alert on Data Privacy Violations (Thailand) ([18 hours ago](https://databreaches.net/2025/08/30/huge-fines-imposed-by-thailands-pdpc-a-major-alert-on-data-privacy-violations-thailand/?pk_campaign=feed&pk_kwd=huge-fines-imposed-by-thailands-pdpc-a-major-alert-on-data-privacy-violations-thailand))
+- Attackers Abuse Velociraptor Forensic Tool to Deploy Visual Studio Code for C2 Tunneling ([18 hours ago](https://thehackernews.com/2025/08/attackers-abuse-velociraptor-forensic.html))
+- Huge Fines Imposed by Thailand’s PDPC: A Major Alert on Data Privacy Violations (Thailand) ([19 hours ago](https://databreaches.net/2025/08/30/huge-fines-imposed-by-thailands-pdpc-a-major-alert-on-data-privacy-violations-thailand/?pk_campaign=feed&pk_kwd=huge-fines-imposed-by-thailands-pdpc-a-major-alert-on-data-privacy-violations-thailand))
 - Massachusetts AG Secures $795,000 Settlement for Alleged Data Security and Breach Notification Failures by Peabody Properties Inc. ([19 hours ago](https://databreaches.net/2025/08/30/massachusetts-ag-secures-795000-settlement-for-alleged-data-security-and-breach-notification-failures-by-peabody-properties-inc/?pk_campaign=feed&pk_kwd=massachusetts-ag-secures-795000-settlement-for-alleged-data-security-and-breach-notification-failures-by-peabody-properties-inc))
 - Programmers: you have to watch your weight, too ([19 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/08/30/programmers_watch_your_weight/))
 - WhatsApp Issues Emergency Update for Zero-Click Exploit Targeting iOS and macOS Devices ([1 days ago](https://thehackernews.com/2025/08/whatsapp-issues-emergency-update-for.html))
@@ -128,7 +128,7 @@ description: SecOps News
 - Alleged mastermind behind K-Pop celebrity stock heist extradited to South Korea ([4 days ago](https://www.bitdefender.com/en-us/blog/hotforsecurity/alleged-mastermind-behind-k-pop-celebrity-stock-heist-extradited-to-south-korea))
 - Countering Chinese State-Sponsored Actors Compromise of Networks Worldwide to Feed Global Espionage System ([5 days ago](https://www.cisa.gov/news-events/cybersecurity-advisories/aa25-239a))
 - Yemen Cyber Army hacker jailed after stealing millions of people’s data ([5 days ago](https://grahamcluley.com/yemen-cyber-army-hacker-jailed-after-stealing-millions-of-peoples-data/))
-- Weekly Update 466 ([5 days ago](https://www.troyhunt.com/weekly-update-466/))
+- Weekly Update 466 ([6 days ago](https://www.troyhunt.com/weekly-update-466/))
 - Europol says Telegram post about $50,000 Qilin ransomware award is fake ([8 days ago](https://www.bitdefender.com/en-us/blog/hotforsecurity/europol-says-telegram-post-about-50-000-qilin-ransomware-award-is-fake))
 - Blue Locker ransomware hits critical infrastructure – is your organisation ready? ([8 days ago](https://www.exponential-e.com/blog/blue-locker-ransomware-hits-critical-infrastructure-is-your-organisation-ready))
 - Incident with Actions ([9 days ago](https://www.githubstatus.com/incidents/c7kq3ctclddp))
