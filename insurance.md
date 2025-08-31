@@ -8,7 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Why Bother With Travel Insurance? It Could Cost You £100K, That’s Why ([18 hours ago](https://insurance-edge.net/2025/08/30/why-bother-with-travel-insurance-it-could-cost-you-100k-thats-why/))
+- Why Bother With Travel Insurance? It Could Cost You £100K, That’s Why ([19 hours ago](https://insurance-edge.net/2025/08/30/why-bother-with-travel-insurance-it-could-cost-you-100k-thats-why/))
 - Uber, Lyft Drop Opposition to California Driver Union Bill ([1 days ago](https://www.insurancejournal.com/news/west/2025/08/29/837519.htm))
 - New Head of Reinsurance & Specialty Lines at Talanx ([1 days ago](https://insurance-edge.net/2025/08/29/new-head-of-reinsurance-specialty-lines-at-talanx/))
 - France and Germany Reject Trump’s Threats on EU Tech Legislation ([1 days ago](https://www.insurancejournal.com/news/international/2025/08/29/837499.htm))
@@ -57,7 +57,7 @@ description: Insurance Updates
 - Home Protect ready to roll out AI-powered claims system ([1 days ago](https://www.postonline.co.uk/news/7958319/home-protect-ready-to-roll-out-ai-powered-claims-system))
 - Penny Black’s Social Diary: LexisNexis’ maps; iCan’s cupcakes ([1 days ago](https://www.postonline.co.uk/people/7958246/penny-black%E2%80%99s-social-diary-lexisnexis%E2%80%99-maps-ican%E2%80%99s-cupcakes))
 - Starpeak x Peach; Liiba’s commercial report; Aon’s head of professional services ([1 days ago](https://www.postonline.co.uk/news/7958924/starpeak-x-peach-liiba%E2%80%99s-commercial-report-aon%E2%80%99s-head-of-professional-services))
-- Steadfast Group announces major US acquisition ([1 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/steadfast-group-announces-major-us-acquisition-547806.aspx))
+- Steadfast Group announces major US acquisition ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/steadfast-group-announces-major-us-acquisition-547806.aspx))
 - Talanx hands Stephanie Bode expanded role ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/talanx-hands-stephanie-bode-expanded-role-547793.aspx))
 - Allianz Personal Broker MD to step down ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/allianz-personal-broker-md-to-step-down-547792.aspx))
 - Hagerty and Aviva launch new policies for younger classic car drivers ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/hagerty-and-aviva-launch-new-policies-for-younger-classic-car-drivers-547789.aspx))
