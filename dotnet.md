@@ -8,9 +8,9 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Faster &amp; More Reliable Integration Testing Against Marten Projections or Subscriptions ([22 minutes ago](https://dotnetkicks.com/r/728715?url=https://jeremydmiller.com/2025/08/19/faster-more-reliable-integration-testing-against-marten-projections-or-subscriptions/))
-- Mads K (Microsoft) on Visual Studio and VSCode ([4 hours ago](https://dotnetkicks.com/r/728714?url=https://jesseliberty.com/2025/08/31/mads-k-microsoft-on-visual-studio-and-vscode/))
-- Boost Your .NET Projects: Find the Fastest Way to Get an Item’s Index in Arrays ([16 hours ago](https://dotnettips.wordpress.com/2025/08/31/boost-your-net-projects-find-the-fastest-way-to-get-an-items-index-in-arrays/))
+- Faster &amp; More Reliable Integration Testing Against Marten Projections or Subscriptions ([52 minutes ago](https://dotnetkicks.com/r/728715?url=https://jeremydmiller.com/2025/08/19/faster-more-reliable-integration-testing-against-marten-projections-or-subscriptions/))
+- Mads K (Microsoft) on Visual Studio and VSCode ([5 hours ago](https://dotnetkicks.com/r/728714?url=https://jesseliberty.com/2025/08/31/mads-k-microsoft-on-visual-studio-and-vscode/))
+- Boost Your .NET Projects: Find the Fastest Way to Get an Item’s Index in Arrays ([17 hours ago](https://dotnettips.wordpress.com/2025/08/31/boost-your-net-projects-find-the-fastest-way-to-get-an-items-index-in-arrays/))
 - F# Weekly #35, 2025 - AI agents can write F#! ([1 days ago](https://dotnetkicks.com/r/728676?url=https://sergeytihon.com/2025/08/30/f-weekly-35-2025-ai-agents-can-write-f/))
 - F# Weekly #35, 2025 - AI agents can write F#! ([1 days ago](https://dotnetkicks.com/r/728668?url=https://sergeytihon.com/2025/08/30/f-weekly-35-2025-ai-agents-can-write-f/))
 - Getting Started with the Aspire CLI - .NET Blog ([3 days ago](https://dotnetkicks.com/r/728623?url=https://devblogs.microsoft.com/dotnet/getting-started-with-the-aspire-cli/))
@@ -55,7 +55,7 @@ description: DotNet Updates
 - Boost Your .NET Projects: Simplify Date & Time Formatting with Spargine’s DateTimeFormat ([21 days ago](https://dotnettips.wordpress.com/2025/08/10/boost-your-net-projects-simplify-date-time-formatting-with-spargines-datetimeformat/))
 - Coding Faster with dotNetTips.com Spargine 8: August 2025 Release ([23 days ago](https://dotnettips.wordpress.com/2025/08/08/coding-faster-with-dotnettips-com-spargine-8-august-2025-release/))
 - 5 Copilot Chat Prompts .NET Devs Should Steal Today ([25 days ago](https://devblogs.microsoft.com/dotnet/5-copilot-chat-prompts-dotnet-devs-should-steal-today/))
-- .NET and .NET Framework August 2025 servicing releases updates ([25 days ago](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-august-2025-servicing-updates/))
+- .NET and .NET Framework August 2025 servicing releases updates ([26 days ago](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-august-2025-servicing-updates/))
 - JetBrains is a Platinum Sponsor of the Godot Foundation ([26 days ago](https://blog.jetbrains.com/dotnet/2025/08/05/jetbrains-is-a-platinum-sponsor-of-the-godot-foundation/))
 - Passkey support for ASP.NET Core identity: Exploring the .NET 10 preview - Part 6 ([26 days ago](https://andrewlock.net/exploring-dotnet-10-preview-features-6-passkey-support-for-aspnetcore-identity/))
 - The Untapped Power of Veteran Engineers: Why Companies Are Overlooking Their Most Valuable Assets – Part 3 ([28 days ago](https://dotnettips.wordpress.com/2025/08/03/the-untapped-power-of-veteran-engineers-why-companies-are-overlooking-their-most-valuable-assets-part-3/))
