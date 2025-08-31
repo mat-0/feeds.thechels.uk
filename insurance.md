@@ -88,7 +88,7 @@ description: Insurance Updates
 - AI-powered wellness: Shaping the future of employee health and productivity ([3 days ago](https://www.dig-in.com/opinion/ai-powered-wellness-shaping-the-future-of-employee-health-and-productivity))
 - Lockton appoints head of property for Swedish operations ([3 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/lockton-appoints-head-of-property-for-swedish-operations-547635.aspx))
 - Bridging the gap between human expertise and AI ([3 days ago](https://www.dig-in.com/opinion/bridging-the-gap-between-human-expertise-and-ai))
-- Agent lookup tool and federal reinsurance bill: Regulation news ([3 days ago](https://www.dig-in.com/list/agent-lookup-tool-federal-reinsurance-bill-regulation-news))
+- Agent lookup tool and federal reinsurance bill: Regulation news ([4 days ago](https://www.dig-in.com/list/agent-lookup-tool-federal-reinsurance-bill-regulation-news))
 - Top EV claims trends from 2025 second quarter ([4 days ago](https://www.dig-in.com/list/top-ev-claims-trends-from-q2-2025))
 - Surprising reason employees may seem happier at work ([4 days ago](https://www.insurancebusinessmag.com/uk/business-strategy/surprising-reason-employees-may-seem-happier-at-work-547610.aspx))
 - Remember A Charity research reveals prevalence of charitable legacies among the UK’s wealthiest ([4 days ago](https://ifamagazine.com/remember-a-charity-research-reveals-prevalence-of-charitable-legacies-among-the-uks-wealthiest/))
