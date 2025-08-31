@@ -8,7 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Why Bother With Travel Insurance? It Could Cost You £100K, That’s Why ([16 hours ago](https://insurance-edge.net/2025/08/30/why-bother-with-travel-insurance-it-could-cost-you-100k-thats-why/))
+- Why Bother With Travel Insurance? It Could Cost You £100K, That’s Why ([17 hours ago](https://insurance-edge.net/2025/08/30/why-bother-with-travel-insurance-it-could-cost-you-100k-thats-why/))
 - Uber, Lyft Drop Opposition to California Driver Union Bill ([1 days ago](https://www.insurancejournal.com/news/west/2025/08/29/837519.htm))
 - New Head of Reinsurance & Specialty Lines at Talanx ([1 days ago](https://insurance-edge.net/2025/08/29/new-head-of-reinsurance-specialty-lines-at-talanx/))
 - France and Germany Reject Trump’s Threats on EU Tech Legislation ([1 days ago](https://www.insurancejournal.com/news/international/2025/08/29/837499.htm))
@@ -60,7 +60,7 @@ description: Insurance Updates
 - Steadfast Group announces major US acquisition ([1 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/steadfast-group-announces-major-us-acquisition-547806.aspx))
 - Talanx hands Stephanie Bode expanded role ([1 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/talanx-hands-stephanie-bode-expanded-role-547793.aspx))
 - Allianz Personal Broker MD to step down ([1 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/allianz-personal-broker-md-to-step-down-547792.aspx))
-- Hagerty and Aviva launch new policies for younger classic car drivers ([1 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/hagerty-and-aviva-launch-new-policies-for-younger-classic-car-drivers-547789.aspx))
+- Hagerty and Aviva launch new policies for younger classic car drivers ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/hagerty-and-aviva-launch-new-policies-for-younger-classic-car-drivers-547789.aspx))
 - Surprise! The best insurtechs are legacy companies ([2 days ago](https://www.dig-in.com/opinion/the-best-insurtechs-are-legacy-companies))
 - Insurtech profile highlights of 2025 ([2 days ago](https://www.dig-in.com/list/insurtech-profile-highlights-of-2025))
 - Telecom Outage Halted Arriving Flights at Newark Airport, FAA Says ([2 days ago](https://www.insurancejournal.com/news/east/2025/08/28/837387.htm))
@@ -85,8 +85,8 @@ description: Insurance Updates
 - FCA received 5,000 impersonation scams in H1 2025 ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/fca-received-5000-impersonation-scams-in-h1-2025-547649.aspx))
 - Incident response planning linked to fewer cyber insurance claims: Marsh study ([2 days ago](https://www.insurancebusinessmag.com/uk/news/cyber/incident-response-planning-linked-to-fewer-cyber-insurance-claims-marsh-study-547641.aspx))
 - War is changing global shipping routes and increasing marine insurance risks ([2 days ago](https://www.insurancebusinessmag.com/uk/news/marine/war-is-changing-global-shipping-routes-and-increasing-marine-insurance-risks-547774.aspx))
-- AI-powered wellness: Shaping the future of employee health and productivity ([2 days ago](https://www.dig-in.com/opinion/ai-powered-wellness-shaping-the-future-of-employee-health-and-productivity))
-- Lockton appoints head of property for Swedish operations ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/lockton-appoints-head-of-property-for-swedish-operations-547635.aspx))
+- AI-powered wellness: Shaping the future of employee health and productivity ([3 days ago](https://www.dig-in.com/opinion/ai-powered-wellness-shaping-the-future-of-employee-health-and-productivity))
+- Lockton appoints head of property for Swedish operations ([3 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/lockton-appoints-head-of-property-for-swedish-operations-547635.aspx))
 - Bridging the gap between human expertise and AI ([3 days ago](https://www.dig-in.com/opinion/bridging-the-gap-between-human-expertise-and-ai))
 - Agent lookup tool and federal reinsurance bill: Regulation news ([3 days ago](https://www.dig-in.com/list/agent-lookup-tool-federal-reinsurance-bill-regulation-news))
 - Top EV claims trends from 2025 second quarter ([3 days ago](https://www.dig-in.com/list/top-ev-claims-trends-from-q2-2025))
