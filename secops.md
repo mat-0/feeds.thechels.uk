@@ -8,11 +8,11 @@ description: SecOps News
 [Get this as an RSS feed](/secops.rss)
 
 <!-- news_marker starts -->
-- TamperedChef infostealer delivered through fraudulent PDF Editor ([12 hours ago](https://www.bleepingcomputer.com/news/security/tamperedchef-infostealer-delivered-through-fraudulent-pdf-editor/))
+- TamperedChef infostealer delivered through fraudulent PDF Editor ([13 hours ago](https://www.bleepingcomputer.com/news/security/tamperedchef-infostealer-delivered-through-fraudulent-pdf-editor/))
 - Attackers Abuse Velociraptor Forensic Tool to Deploy Visual Studio Code for C2 Tunneling ([17 hours ago](https://thehackernews.com/2025/08/attackers-abuse-velociraptor-forensic.html))
 - Huge Fines Imposed by Thailand’s PDPC: A Major Alert on Data Privacy Violations (Thailand) ([18 hours ago](https://databreaches.net/2025/08/30/huge-fines-imposed-by-thailands-pdpc-a-major-alert-on-data-privacy-violations-thailand/?pk_campaign=feed&pk_kwd=huge-fines-imposed-by-thailands-pdpc-a-major-alert-on-data-privacy-violations-thailand))
-- Massachusetts AG Secures $795,000 Settlement for Alleged Data Security and Breach Notification Failures by Peabody Properties Inc. ([18 hours ago](https://databreaches.net/2025/08/30/massachusetts-ag-secures-795000-settlement-for-alleged-data-security-and-breach-notification-failures-by-peabody-properties-inc/?pk_campaign=feed&pk_kwd=massachusetts-ag-secures-795000-settlement-for-alleged-data-security-and-breach-notification-failures-by-peabody-properties-inc))
-- Programmers: you have to watch your weight, too ([18 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/08/30/programmers_watch_your_weight/))
+- Massachusetts AG Secures $795,000 Settlement for Alleged Data Security and Breach Notification Failures by Peabody Properties Inc. ([19 hours ago](https://databreaches.net/2025/08/30/massachusetts-ag-secures-795000-settlement-for-alleged-data-security-and-breach-notification-failures-by-peabody-properties-inc/?pk_campaign=feed&pk_kwd=massachusetts-ag-secures-795000-settlement-for-alleged-data-security-and-breach-notification-failures-by-peabody-properties-inc))
+- Programmers: you have to watch your weight, too ([19 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/08/30/programmers_watch_your_weight/))
 - WhatsApp Issues Emergency Update for Zero-Click Exploit Targeting iOS and macOS Devices ([1 days ago](https://thehackernews.com/2025/08/whatsapp-issues-emergency-update-for.html))
 - Researcher who found McDonald's free-food hack turns her attention to Chinese restaurant robots ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2025/08/29/pudu_robots_hackable/))
 - Alibaba looks to end reliance on Nvidia for AI inference ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2025/08/29/china_alibaba_ai_accelerator/))
