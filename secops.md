@@ -8,12 +8,12 @@ description: SecOps News
 [Get this as an RSS feed](/secops.rss)
 
 <!-- news_marker starts -->
-- Traffic to government domains often crosses national borders, or flows through risky bottlenecks ([53 minutes ago](https://go.theregister.com/feed/www.theregister.com/2025/09/01/isoc_government_domain_traffic_measurement/))
+- Traffic to government domains often crosses national borders, or flows through risky bottlenecks ([1 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/09/01/isoc_government_domain_traffic_measurement/))
 - China launches new ‘AI+’ policy to ‘deepen information technology revolution’ ([3 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/09/01/asia_tech_news_in_brief/))
-- WhatsApp warns of 'attack against specific targeted users' ([5 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/09/01/infosec_in_brief/))
+- WhatsApp warns of 'attack against specific targeted users' ([6 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/09/01/infosec_in_brief/))
 - OpenAI is testing "Thinking effort" for ChatGPT ([19 hours ago](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-testing-thinking-effort-for-chatgpt/))
 - Weekly Update 467 ([20 hours ago](https://www.troyhunt.com/weekly-update-467/))
-- Bring your own brain? Why local LLMs are taking off ([23 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/08/31/local_llm_opinion_column/))
+- Bring your own brain? Why local LLMs are taking off ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2025/08/31/local_llm_opinion_column/))
 - TamperedChef infostealer delivered through fraudulent PDF Editor ([1 days ago](https://www.bleepingcomputer.com/news/security/tamperedchef-infostealer-delivered-through-fraudulent-pdf-editor/))
 - Attackers Abuse Velociraptor Forensic Tool to Deploy Visual Studio Code for C2 Tunneling ([1 days ago](https://thehackernews.com/2025/08/attackers-abuse-velociraptor-forensic.html))
 - Huge Fines Imposed by Thailand’s PDPC: A Major Alert on Data Privacy Violations (Thailand) ([1 days ago](https://databreaches.net/2025/08/30/huge-fines-imposed-by-thailands-pdpc-a-major-alert-on-data-privacy-violations-thailand/?pk_campaign=feed&pk_kwd=huge-fines-imposed-by-thailands-pdpc-a-major-alert-on-data-privacy-violations-thailand))
@@ -131,10 +131,10 @@ description: SecOps News
 - Yemen Cyber Army hacker jailed after stealing millions of people’s data ([6 days ago](https://grahamcluley.com/yemen-cyber-army-hacker-jailed-after-stealing-millions-of-peoples-data/))
 - Weekly Update 466 ([7 days ago](https://www.troyhunt.com/weekly-update-466/))
 - Europol says Telegram post about $50,000 Qilin ransomware award is fake ([9 days ago](https://www.bitdefender.com/en-us/blog/hotforsecurity/europol-says-telegram-post-about-50-000-qilin-ransomware-award-is-fake))
-- Blue Locker ransomware hits critical infrastructure – is your organisation ready? ([9 days ago](https://www.exponential-e.com/blog/blue-locker-ransomware-hits-critical-infrastructure-is-your-organisation-ready))
+- Blue Locker ransomware hits critical infrastructure – is your organisation ready? ([10 days ago](https://www.exponential-e.com/blog/blue-locker-ransomware-hits-critical-infrastructure-is-your-organisation-ready))
 - Incident with Actions ([10 days ago](https://www.githubstatus.com/incidents/c7kq3ctclddp))
 - Define Protocol from Traffic (XenoRAT) ([10 days ago](https://www.netresec.com/?page=Blog&month=2025-08&post=Define-Protocol-from-Traffic-XenoRAT))
-- Incident with Issues and Git Operations ([10 days ago](https://www.githubstatus.com/incidents/g0bsmfqmq8xt))
+- Incident with Issues and Git Operations ([11 days ago](https://www.githubstatus.com/incidents/g0bsmfqmq8xt))
 - SIM-Swapper, Scattered Spider Hacker Gets 10 Years ([11 days ago](https://krebsonsecurity.com/2025/08/sim-swapper-scattered-spider-hacker-gets-10-years/))
 - Smashing Security podcast #431: How to mine millions without paying the bill ([11 days ago](https://grahamcluley.com/smashing-security-podcast-431/))
 - Disruption with some GitHub services ([11 days ago](https://www.githubstatus.com/incidents/2cl0fjn559ty))
@@ -201,6 +201,6 @@ description: SecOps News
 - Active Cyber Defence (ACD) - the fourth year ([27 days ago](https://www.ncsc.gov.uk/report/acd-report-year-four))
 - Active Cyber Defence (ACD) - The Third Year ([27 days ago](https://www.ncsc.gov.uk/report/acd-report-year-three))
 - OWASP ASVS 5.0.0 is here! ([27 days ago](https://scotthelme.ghost.io/owasp-asvs-5-0-0-is-here/))
-- Weekly Update 463 ([28 days ago](https://www.troyhunt.com/weekly-update-463/))
+- Weekly Update 463 ([29 days ago](https://www.troyhunt.com/weekly-update-463/))
 
 <!-- news_marker ends -->
