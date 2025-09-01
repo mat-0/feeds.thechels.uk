@@ -8,9 +8,10 @@ description: SecOps News
 [Get this as an RSS feed](/secops.rss)
 
 <!-- news_marker starts -->
-- OpenAI is testing "Thinking effort" for ChatGPT ([13 hours ago](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-testing-thinking-effort-for-chatgpt/))
-- Weekly Update 467 ([14 hours ago](https://www.troyhunt.com/weekly-update-467/))
-- Bring your own brain? Why local LLMs are taking off ([17 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/08/31/local_llm_opinion_column/))
+- WhatsApp warns of 'attack against specific targeted users' ([29 minutes ago](https://go.theregister.com/feed/www.theregister.com/2025/09/01/infosec_in_brief/))
+- OpenAI is testing "Thinking effort" for ChatGPT ([14 hours ago](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-testing-thinking-effort-for-chatgpt/))
+- Weekly Update 467 ([15 hours ago](https://www.troyhunt.com/weekly-update-467/))
+- Bring your own brain? Why local LLMs are taking off ([18 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/08/31/local_llm_opinion_column/))
 - TamperedChef infostealer delivered through fraudulent PDF Editor ([1 days ago](https://www.bleepingcomputer.com/news/security/tamperedchef-infostealer-delivered-through-fraudulent-pdf-editor/))
 - Attackers Abuse Velociraptor Forensic Tool to Deploy Visual Studio Code for C2 Tunneling ([1 days ago](https://thehackernews.com/2025/08/attackers-abuse-velociraptor-forensic.html))
 - Huge Fines Imposed by Thailand’s PDPC: A Major Alert on Data Privacy Violations (Thailand) ([1 days ago](https://databreaches.net/2025/08/30/huge-fines-imposed-by-thailands-pdpc-a-major-alert-on-data-privacy-violations-thailand/?pk_campaign=feed&pk_kwd=huge-fines-imposed-by-thailands-pdpc-a-major-alert-on-data-privacy-violations-thailand))
@@ -115,7 +116,6 @@ description: SecOps News
 - ShadowSilk Hits 35 Organizations in Central Asia and APAC Using Telegram Bots ([4 days ago](https://thehackernews.com/2025/08/shadowsilk-hits-36-government-targets.html))
 - Salesforce data missing? It might be due to Salesloft breach, Google says ([4 days ago](https://go.theregister.com/feed/www.theregister.com/2025/08/27/salesforce_salesloft_breach/))
 - The 5 Golden Rules of Safe AI Adoption ([4 days ago](https://thehackernews.com/2025/08/the-5-golden-rules-of-safe-ai-adoption.html))
-- Who are you again? Infosec experiencing 'Identity crisis' amid rising login attacks ([4 days ago](https://go.theregister.com/feed/www.theregister.com/2025/08/27/ciscos_duo_identity_crisis/))
 - Salesloft OAuth Breach via Drift AI Chat Agent Exposes Salesforce Customer Data ([4 days ago](https://thehackernews.com/2025/08/salesloft-oauth-breach-via-drift-ai.html))
 - Blind Eagle’s Five Clusters Target Colombia Using RATs, Phishing Lures, and Dynamic DNS Infra ([4 days ago](https://thehackernews.com/2025/08/blind-eagles-five-clusters-target.html))
 - Home Assistant + Ubiquiti + AI = Home Automation Magic ([4 days ago](https://www.troyhunt.com/home-assistant-ubiquiti-ai-home-automation-magic/))
