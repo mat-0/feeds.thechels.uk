@@ -8,7 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- D&O market faces fresh challenges with new 'failure to prevent fraud' offence ([36 minutes ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/dando-market-faces-fresh-challenges-with-new-failure-to-prevent-fraud-offence-547969.aspx))
+- D&O market faces fresh challenges with new 'failure to prevent fraud' offence ([1 hours ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/dando-market-faces-fresh-challenges-with-new-failure-to-prevent-fraud-offence-547969.aspx))
 - Rockhopper secures €31 million insurance payout tied to Ombrina arbitration ([1 hours ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/rockhopper-secures-31-million-insurance-payout-tied-to-ombrina-arbitration-547967.aspx))
 - Police seize dozens of cars in Birmingham crackdown on uninsured driving ([1 hours ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/police-seize-dozens-of-cars-in-birmingham-crackdown-on-uninsured-driving-547965.aspx))
 - Sedgwick names CEO of Sweden operations ([2 hours ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/sedgwick-names-ceo-of-sweden-operations-547963.aspx))
@@ -61,7 +61,7 @@ description: Insurance Updates
 - Home Protect ready to roll out AI-powered claims system ([2 days ago](https://www.postonline.co.uk/news/7958319/home-protect-ready-to-roll-out-ai-powered-claims-system))
 - Penny Black’s Social Diary: LexisNexis’ maps; iCan’s cupcakes ([2 days ago](https://www.postonline.co.uk/people/7958246/penny-black%E2%80%99s-social-diary-lexisnexis%E2%80%99-maps-ican%E2%80%99s-cupcakes))
 - Starpeak x Peach; Liiba’s commercial report; Aon’s head of professional services ([2 days ago](https://www.postonline.co.uk/news/7958924/starpeak-x-peach-liiba%E2%80%99s-commercial-report-aon%E2%80%99s-head-of-professional-services))
-- Steadfast Group announces major US acquisition ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/steadfast-group-announces-major-us-acquisition-547806.aspx))
+- Steadfast Group announces major US acquisition ([3 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/steadfast-group-announces-major-us-acquisition-547806.aspx))
 - Talanx hands Stephanie Bode expanded role ([3 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/talanx-hands-stephanie-bode-expanded-role-547793.aspx))
 - Allianz Personal Broker MD to step down ([3 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/allianz-personal-broker-md-to-step-down-547792.aspx))
 - Hagerty and Aviva launch new policies for younger classic car drivers ([3 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/hagerty-and-aviva-launch-new-policies-for-younger-classic-car-drivers-547789.aspx))
