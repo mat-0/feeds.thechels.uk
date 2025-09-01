@@ -8,10 +8,10 @@ description: SecOps News
 [Get this as an RSS feed](/secops.rss)
 
 <!-- news_marker starts -->
-- China launches new ‘AI+’ policy to ‘deepen information technology revolution’ ([1 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/09/01/asia_tech_news_in_brief/))
+- China launches new ‘AI+’ policy to ‘deepen information technology revolution’ ([2 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/09/01/asia_tech_news_in_brief/))
 - WhatsApp warns of 'attack against specific targeted users' ([4 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/09/01/infosec_in_brief/))
-- OpenAI is testing "Thinking effort" for ChatGPT ([17 hours ago](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-testing-thinking-effort-for-chatgpt/))
-- Weekly Update 467 ([18 hours ago](https://www.troyhunt.com/weekly-update-467/))
+- OpenAI is testing "Thinking effort" for ChatGPT ([18 hours ago](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-testing-thinking-effort-for-chatgpt/))
+- Weekly Update 467 ([19 hours ago](https://www.troyhunt.com/weekly-update-467/))
 - Bring your own brain? Why local LLMs are taking off ([22 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/08/31/local_llm_opinion_column/))
 - TamperedChef infostealer delivered through fraudulent PDF Editor ([1 days ago](https://www.bleepingcomputer.com/news/security/tamperedchef-infostealer-delivered-through-fraudulent-pdf-editor/))
 - Attackers Abuse Velociraptor Forensic Tool to Deploy Visual Studio Code for C2 Tunneling ([1 days ago](https://thehackernews.com/2025/08/attackers-abuse-velociraptor-forensic.html))
