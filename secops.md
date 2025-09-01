@@ -9,10 +9,10 @@ description: SecOps News
 
 <!-- news_marker starts -->
 - China launches new ‘AI+’ policy to ‘deepen information technology revolution’ ([1 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/09/01/asia_tech_news_in_brief/))
-- WhatsApp warns of 'attack against specific targeted users' ([3 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/09/01/infosec_in_brief/))
+- WhatsApp warns of 'attack against specific targeted users' ([4 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/09/01/infosec_in_brief/))
 - OpenAI is testing "Thinking effort" for ChatGPT ([17 hours ago](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-testing-thinking-effort-for-chatgpt/))
 - Weekly Update 467 ([18 hours ago](https://www.troyhunt.com/weekly-update-467/))
-- Bring your own brain? Why local LLMs are taking off ([21 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/08/31/local_llm_opinion_column/))
+- Bring your own brain? Why local LLMs are taking off ([22 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/08/31/local_llm_opinion_column/))
 - TamperedChef infostealer delivered through fraudulent PDF Editor ([1 days ago](https://www.bleepingcomputer.com/news/security/tamperedchef-infostealer-delivered-through-fraudulent-pdf-editor/))
 - Attackers Abuse Velociraptor Forensic Tool to Deploy Visual Studio Code for C2 Tunneling ([1 days ago](https://thehackernews.com/2025/08/attackers-abuse-velociraptor-forensic.html))
 - Huge Fines Imposed by Thailand’s PDPC: A Major Alert on Data Privacy Violations (Thailand) ([1 days ago](https://databreaches.net/2025/08/30/huge-fines-imposed-by-thailands-pdpc-a-major-alert-on-data-privacy-violations-thailand/?pk_campaign=feed&pk_kwd=huge-fines-imposed-by-thailands-pdpc-a-major-alert-on-data-privacy-violations-thailand))
@@ -186,7 +186,7 @@ description: SecOps News
 - KrebsOnSecurity in New ‘Most Wanted’ HBO Max Series ([23 days ago](https://krebsonsecurity.com/2025/08/krebsonsecurity-in-new-most-wanted-hbo-max-series/))
 - Data Protection Enforcement: Your Cookie Compliance Questions Answered ([23 days ago](https://www.itgovernance.co.uk/blog/data-protection-enforcement-your-cookie-compliance-questions-answered))
 - TeaOnHer copies everything from Tea – including the data breaches ([23 days ago](https://www.bitdefender.com/en-us/blog/hotforsecurity/teaonher-copies-everything-from-tea-including-the-data-breaches))
-- Unigame - 843,696 breached accounts ([23 days ago](https://haveibeenpwned.com/Breach/Unigame))
+- Unigame - 843,696 breached accounts ([24 days ago](https://haveibeenpwned.com/Breach/Unigame))
 - Actions to take when the cyber threat is heightened ([24 days ago](https://www.ncsc.gov.uk/guidance/actions-to-take-when-the-cyber-threat-is-heightened))
 - Ransomware plunges insurance company into bankruptcy ([25 days ago](https://www.fortra.com/blog/ransomware-plunges-insurance-company-bankruptcy))
 - A Guide to TOMs (technical and organisational measures) under the GDPR ([25 days ago](https://www.itgovernance.co.uk/blog/a-guide-to-gdpr-technical-and-organisational-measures))
