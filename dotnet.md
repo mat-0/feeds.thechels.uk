@@ -8,7 +8,7 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Using and authoring .NET tools ([42 minutes ago](https://dotnetkicks.com/r/728763?url=https://andrewlock.net/using-and-authoring-dotnet-tools/))
+- Using and authoring .NET tools ([1 hours ago](https://dotnetkicks.com/r/728763?url=https://andrewlock.net/using-and-authoring-dotnet-tools/))
 - Using and authoring .NET tools ([1 hours ago](https://andrewlock.net/using-and-authoring-dotnet-tools/))
 - Faster &amp; More Reliable Integration Testing Against Marten Projections or Subscriptions ([1 days ago](https://dotnetkicks.com/r/728715?url=https://jeremydmiller.com/2025/08/19/faster-more-reliable-integration-testing-against-marten-projections-or-subscriptions/))
 - Mads K (Microsoft) on Visual Studio and VSCode ([1 days ago](https://dotnetkicks.com/r/728714?url=https://jesseliberty.com/2025/08/31/mads-k-microsoft-on-visual-studio-and-vscode/))
@@ -34,7 +34,7 @@ description: DotNet Updates
 - MauiReactor: An MVU Approach for .NET MAUI ([7 days ago](https://devblogs.microsoft.com/dotnet/mauireactor-mvu-for-dotnet-maui/))
 - F# Weekly #34, 2025 - FsiX: new F# REPL with hot reloading ([7 days ago](https://dotnetkicks.com/r/728288?url=https://sergeytihon.com/2025/08/24/f-weekly-34-2025-fsix-new-f-repl-with-hot-reloading/))
 - Boost Your .NET Projects: Harness the Power of Async Queues with Spargine’s ChannelQueue ([9 days ago](https://dotnettips.wordpress.com/2025/08/24/boost-your-net-projects-harness-the-power-of-async-queues-with-spargines-channelqueue/))
-- Accelerating SQL Server 2025 momentum: Announcing the first release candidate - Microsoft SQL Server Blog ([9 days ago](https://dotnetkicks.com/r/728173?url=https://www.microsoft.com/en-us/sql-server/blog/2025/08/22/accelerating-sql-server-2025-momentum-announcing-the-first-release-candidate/))
+- Accelerating SQL Server 2025 momentum: Announcing the first release candidate - Microsoft SQL Server Blog ([10 days ago](https://dotnetkicks.com/r/728173?url=https://www.microsoft.com/en-us/sql-server/blog/2025/08/22/accelerating-sql-server-2025-momentum-announcing-the-first-release-candidate/))
 - Why Separate Databases? Explaining Like You're Five ([11 days ago](https://dotnetkicks.com/r/728117?url=https://codeopinion.com/why-separate-databases-explaining-like-youre-five/))
 - Enhance your CLI testing workflow with the new dotnet test - .NET Blog ([11 days ago](https://dotnetkicks.com/r/728111?url=https://devblogs.microsoft.com/dotnet/dotnet-test-with-mtp/))
 - Enhance your CLI testing workflow with the new dotnet test ([11 days ago](https://devblogs.microsoft.com/dotnet/dotnet-test-with-mtp/))
