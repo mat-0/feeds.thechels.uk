@@ -8,10 +8,10 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Boost Your Copilot Collaboration with Reusable Prompt Files - Visual Studio Blog ([10 hours ago](https://dotnetkicks.com/r/728787?url=https://devblogs.microsoft.com/visualstudio/boost-your-copilot-collaboration-with-reusable-prompt-files/))
-- Boost Your Copilot Collaboration with Reusable Prompt Files - Visual Studio Blog ([10 hours ago](https://dotnetkicks.com/r/728783?url=https://devblogs.microsoft.com/visualstudio/boost-your-copilot-collaboration-with-reusable-prompt-files/))
+- Boost Your Copilot Collaboration with Reusable Prompt Files - Visual Studio Blog ([11 hours ago](https://dotnetkicks.com/r/728787?url=https://devblogs.microsoft.com/visualstudio/boost-your-copilot-collaboration-with-reusable-prompt-files/))
+- Boost Your Copilot Collaboration with Reusable Prompt Files - Visual Studio Blog ([11 hours ago](https://dotnetkicks.com/r/728783?url=https://devblogs.microsoft.com/visualstudio/boost-your-copilot-collaboration-with-reusable-prompt-files/))
 - dotInsights  -  September 2025 ([11 hours ago](https://blog.jetbrains.com/dotnet/2025/09/02/dotinsights-september-2025/))
-- Using and authoring .NET tools ([12 hours ago](https://dotnetkicks.com/r/728763?url=https://andrewlock.net/using-and-authoring-dotnet-tools/))
+- Using and authoring .NET tools ([13 hours ago](https://dotnetkicks.com/r/728763?url=https://andrewlock.net/using-and-authoring-dotnet-tools/))
 - Using and authoring .NET tools ([13 hours ago](https://andrewlock.net/using-and-authoring-dotnet-tools/))
 - Faster &amp; More Reliable Integration Testing Against Marten Projections or Subscriptions ([2 days ago](https://dotnetkicks.com/r/728715?url=https://jeremydmiller.com/2025/08/19/faster-more-reliable-integration-testing-against-marten-projections-or-subscriptions/))
 - Mads K (Microsoft) on Visual Studio and VSCode ([2 days ago](https://dotnetkicks.com/r/728714?url=https://jesseliberty.com/2025/08/31/mads-k-microsoft-on-visual-studio-and-vscode/))
@@ -42,7 +42,7 @@ description: DotNet Updates
 - Enhance your CLI testing workflow with the new dotnet test - .NET Blog ([12 days ago](https://dotnetkicks.com/r/728111?url=https://devblogs.microsoft.com/dotnet/dotnet-test-with-mtp/))
 - Enhance your CLI testing workflow with the new dotnet test ([12 days ago](https://devblogs.microsoft.com/dotnet/dotnet-test-with-mtp/))
 - Better Control over Your Copilot Code Suggestions - Visual Studio Blog ([12 days ago](https://dotnetkicks.com/r/728100?url=https://devblogs.microsoft.com/visualstudio/better-control-over-your-copilot-code-suggestions/))
-- Security Product Efficacy ([12 days ago](https://dotnetkicks.com/r/728032?url=https://textslashplain.com/2025/08/20/security-product-efficacy/))
+- Security Product Efficacy ([13 days ago](https://dotnetkicks.com/r/728032?url=https://textslashplain.com/2025/08/20/security-product-efficacy/))
 - Copilot Diagnostics toolset for .NET In Visual Studio ([13 days ago](https://devblogs.microsoft.com/dotnet/github-copilot-diagnostics-toolset-for-dotnet-in-visual-studio/))
 - GPT-OSS – A C# Guide with Ollama ([14 days ago](https://devblogs.microsoft.com/dotnet/gpt-oss-csharp-ollama/))
 - Converting an xUnit test project to TUnit ([14 days ago](https://andrewlock.net/converting-an-xunit-project-to-tunit/))
