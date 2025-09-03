@@ -9,7 +9,7 @@ description: DotNet Updates
 
 <!-- news_marker starts -->
 - Let Copilot Coding Agent handle the busy work - .NET Blog ([5 hours ago](https://dotnetkicks.com/r/728879?url=https://devblogs.microsoft.com/dotnet/copilot-coding-agent-dotnet/))
-- Let Copilot Coding Agent handle the busy work ([5 hours ago](https://devblogs.microsoft.com/dotnet/copilot-coding-agent-dotnet/))
+- Let Copilot Coding Agent handle the busy work ([6 hours ago](https://devblogs.microsoft.com/dotnet/copilot-coding-agent-dotnet/))
 - Boost Your Copilot Collaboration with Reusable Prompt Files - Visual Studio Blog ([1 days ago](https://dotnetkicks.com/r/728787?url=https://devblogs.microsoft.com/visualstudio/boost-your-copilot-collaboration-with-reusable-prompt-files/))
 - Boost Your Copilot Collaboration with Reusable Prompt Files - Visual Studio Blog ([1 days ago](https://dotnetkicks.com/r/728783?url=https://devblogs.microsoft.com/visualstudio/boost-your-copilot-collaboration-with-reusable-prompt-files/))
 - dotInsights  -  September 2025 ([1 days ago](https://blog.jetbrains.com/dotnet/2025/09/02/dotinsights-september-2025/))
