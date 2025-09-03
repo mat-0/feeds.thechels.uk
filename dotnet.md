@@ -8,8 +8,8 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Boost Your Copilot Collaboration with Reusable Prompt Files - Visual Studio Blog ([22 hours ago](https://dotnetkicks.com/r/728787?url=https://devblogs.microsoft.com/visualstudio/boost-your-copilot-collaboration-with-reusable-prompt-files/))
-- Boost Your Copilot Collaboration with Reusable Prompt Files - Visual Studio Blog ([22 hours ago](https://dotnetkicks.com/r/728783?url=https://devblogs.microsoft.com/visualstudio/boost-your-copilot-collaboration-with-reusable-prompt-files/))
+- Boost Your Copilot Collaboration with Reusable Prompt Files - Visual Studio Blog ([23 hours ago](https://dotnetkicks.com/r/728787?url=https://devblogs.microsoft.com/visualstudio/boost-your-copilot-collaboration-with-reusable-prompt-files/))
+- Boost Your Copilot Collaboration with Reusable Prompt Files - Visual Studio Blog ([23 hours ago](https://dotnetkicks.com/r/728783?url=https://devblogs.microsoft.com/visualstudio/boost-your-copilot-collaboration-with-reusable-prompt-files/))
 - dotInsights  -  September 2025 ([23 hours ago](https://blog.jetbrains.com/dotnet/2025/09/02/dotinsights-september-2025/))
 - Using and authoring .NET tools ([1 days ago](https://dotnetkicks.com/r/728763?url=https://andrewlock.net/using-and-authoring-dotnet-tools/))
 - Using and authoring .NET tools ([1 days ago](https://andrewlock.net/using-and-authoring-dotnet-tools/))
@@ -37,7 +37,7 @@ description: DotNet Updates
 - MauiReactor: An MVU Approach for .NET MAUI ([8 days ago](https://devblogs.microsoft.com/dotnet/mauireactor-mvu-for-dotnet-maui/))
 - F# Weekly #34, 2025 - FsiX: new F# REPL with hot reloading ([8 days ago](https://dotnetkicks.com/r/728288?url=https://sergeytihon.com/2025/08/24/f-weekly-34-2025-fsix-new-f-repl-with-hot-reloading/))
 - Boost Your .NET Projects: Harness the Power of Async Queues with Spargine’s ChannelQueue ([10 days ago](https://dotnettips.wordpress.com/2025/08/24/boost-your-net-projects-harness-the-power-of-async-queues-with-spargines-channelqueue/))
-- Accelerating SQL Server 2025 momentum: Announcing the first release candidate - Microsoft SQL Server Blog ([10 days ago](https://dotnetkicks.com/r/728173?url=https://www.microsoft.com/en-us/sql-server/blog/2025/08/22/accelerating-sql-server-2025-momentum-announcing-the-first-release-candidate/))
+- Accelerating SQL Server 2025 momentum: Announcing the first release candidate - Microsoft SQL Server Blog ([11 days ago](https://dotnetkicks.com/r/728173?url=https://www.microsoft.com/en-us/sql-server/blog/2025/08/22/accelerating-sql-server-2025-momentum-announcing-the-first-release-candidate/))
 - Why Separate Databases? Explaining Like You're Five ([12 days ago](https://dotnetkicks.com/r/728117?url=https://codeopinion.com/why-separate-databases-explaining-like-youre-five/))
 - Enhance your CLI testing workflow with the new dotnet test - .NET Blog ([12 days ago](https://dotnetkicks.com/r/728111?url=https://devblogs.microsoft.com/dotnet/dotnet-test-with-mtp/))
 - Enhance your CLI testing workflow with the new dotnet test ([12 days ago](https://devblogs.microsoft.com/dotnet/dotnet-test-with-mtp/))
