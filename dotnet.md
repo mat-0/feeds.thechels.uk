@@ -8,8 +8,9 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Let Copilot Coding Agent handle the busy work - .NET Blog ([8 hours ago](https://dotnetkicks.com/r/728879?url=https://devblogs.microsoft.com/dotnet/copilot-coding-agent-dotnet/))
-- Let Copilot Coding Agent handle the busy work ([8 hours ago](https://devblogs.microsoft.com/dotnet/copilot-coding-agent-dotnet/))
+- Live Stream Previewing Wolverine 5.0 on Thursday ([36 minutes ago](https://dotnetkicks.com/r/728887?url=https://jeremydmiller.com/2025/09/03/live-stream-previewing-wolverine-5-0-on-thursday/))
+- Let Copilot Coding Agent handle the busy work - .NET Blog ([9 hours ago](https://dotnetkicks.com/r/728879?url=https://devblogs.microsoft.com/dotnet/copilot-coding-agent-dotnet/))
+- Let Copilot Coding Agent handle the busy work ([9 hours ago](https://devblogs.microsoft.com/dotnet/copilot-coding-agent-dotnet/))
 - Boost Your Copilot Collaboration with Reusable Prompt Files - Visual Studio Blog ([1 days ago](https://dotnetkicks.com/r/728787?url=https://devblogs.microsoft.com/visualstudio/boost-your-copilot-collaboration-with-reusable-prompt-files/))
 - Boost Your Copilot Collaboration with Reusable Prompt Files - Visual Studio Blog ([1 days ago](https://dotnetkicks.com/r/728783?url=https://devblogs.microsoft.com/visualstudio/boost-your-copilot-collaboration-with-reusable-prompt-files/))
 - dotInsights  -  September 2025 ([1 days ago](https://blog.jetbrains.com/dotnet/2025/09/02/dotinsights-september-2025/))
@@ -43,7 +44,6 @@ description: DotNet Updates
 - Why Separate Databases? Explaining Like You're Five ([13 days ago](https://dotnetkicks.com/r/728117?url=https://codeopinion.com/why-separate-databases-explaining-like-youre-five/))
 - Enhance your CLI testing workflow with the new dotnet test - .NET Blog ([13 days ago](https://dotnetkicks.com/r/728111?url=https://devblogs.microsoft.com/dotnet/dotnet-test-with-mtp/))
 - Enhance your CLI testing workflow with the new dotnet test ([13 days ago](https://devblogs.microsoft.com/dotnet/dotnet-test-with-mtp/))
-- Better Control over Your Copilot Code Suggestions - Visual Studio Blog ([13 days ago](https://dotnetkicks.com/r/728100?url=https://devblogs.microsoft.com/visualstudio/better-control-over-your-copilot-code-suggestions/))
 - Copilot Diagnostics toolset for .NET In Visual Studio ([14 days ago](https://devblogs.microsoft.com/dotnet/github-copilot-diagnostics-toolset-for-dotnet-in-visual-studio/))
 - GPT-OSS – A C# Guide with Ollama ([15 days ago](https://devblogs.microsoft.com/dotnet/gpt-oss-csharp-ollama/))
 - Converting an xUnit test project to TUnit ([15 days ago](https://andrewlock.net/converting-an-xunit-project-to-tunit/))
