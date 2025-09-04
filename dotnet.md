@@ -8,10 +8,10 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Windowing overview for WinUI and Windows App SDK - Windows apps ([49 minutes ago](https://dotnetkicks.com/r/728956?url=https://learn.microsoft.com/en-us/windows/apps/develop/ui-input/windowing-overview))
-- The First Set of Updates and Fixes for ReSharper and Rider 2025.2 Is Out! ([2 hours ago](https://blog.jetbrains.com/dotnet/2025/09/04/resharper-and-rider-2025-2-1-is-out/))
-- Composing Data from Multiple Services ([3 hours ago](https://dotnetkicks.com/r/728934?url=https://codeopinion.com/composing-data-from-multiple-services/))
-- Live Stream Previewing Wolverine 5.0 on Thursday ([15 hours ago](https://dotnetkicks.com/r/728887?url=https://jeremydmiller.com/2025/09/03/live-stream-previewing-wolverine-5-0-on-thursday/))
+- Windowing overview for WinUI and Windows App SDK - Windows apps ([1 hours ago](https://dotnetkicks.com/r/728956?url=https://learn.microsoft.com/en-us/windows/apps/develop/ui-input/windowing-overview))
+- The First Set of Updates and Fixes for ReSharper and Rider 2025.2 Is Out! ([3 hours ago](https://blog.jetbrains.com/dotnet/2025/09/04/resharper-and-rider-2025-2-1-is-out/))
+- Composing Data from Multiple Services ([4 hours ago](https://dotnetkicks.com/r/728934?url=https://codeopinion.com/composing-data-from-multiple-services/))
+- Live Stream Previewing Wolverine 5.0 on Thursday ([16 hours ago](https://dotnetkicks.com/r/728887?url=https://jeremydmiller.com/2025/09/03/live-stream-previewing-wolverine-5-0-on-thursday/))
 - Let Copilot Coding Agent handle the busy work - .NET Blog ([1 days ago](https://dotnetkicks.com/r/728879?url=https://devblogs.microsoft.com/dotnet/copilot-coding-agent-dotnet/))
 - Let Copilot Coding Agent handle the busy work ([1 days ago](https://devblogs.microsoft.com/dotnet/copilot-coding-agent-dotnet/))
 - Boost Your Copilot Collaboration with Reusable Prompt Files - Visual Studio Blog ([2 days ago](https://dotnetkicks.com/r/728787?url=https://devblogs.microsoft.com/visualstudio/boost-your-copilot-collaboration-with-reusable-prompt-files/))
@@ -20,7 +20,7 @@ description: DotNet Updates
 - Using and authoring .NET tools ([2 days ago](https://dotnetkicks.com/r/728763?url=https://andrewlock.net/using-and-authoring-dotnet-tools/))
 - Using and authoring .NET tools ([2 days ago](https://andrewlock.net/using-and-authoring-dotnet-tools/))
 - Faster &amp; More Reliable Integration Testing Against Marten Projections or Subscriptions ([3 days ago](https://dotnetkicks.com/r/728715?url=https://jeremydmiller.com/2025/08/19/faster-more-reliable-integration-testing-against-marten-projections-or-subscriptions/))
-- Mads K (Microsoft) on Visual Studio and VSCode ([3 days ago](https://dotnetkicks.com/r/728714?url=https://jesseliberty.com/2025/08/31/mads-k-microsoft-on-visual-studio-and-vscode/))
+- Mads K (Microsoft) on Visual Studio and VSCode ([4 days ago](https://dotnetkicks.com/r/728714?url=https://jesseliberty.com/2025/08/31/mads-k-microsoft-on-visual-studio-and-vscode/))
 - Boost Your .NET Projects: Find the Fastest Way to Get an Item’s Index in Arrays ([4 days ago](https://dotnettips.wordpress.com/2025/08/31/boost-your-net-projects-find-the-fastest-way-to-get-an-items-index-in-arrays/))
 - F# Weekly #35, 2025 - AI agents can write F#! ([5 days ago](https://dotnetkicks.com/r/728676?url=https://sergeytihon.com/2025/08/30/f-weekly-35-2025-ai-agents-can-write-f/))
 - F# Weekly #35, 2025 - AI agents can write F#! ([5 days ago](https://dotnetkicks.com/r/728668?url=https://sergeytihon.com/2025/08/30/f-weekly-35-2025-ai-agents-can-write-f/))
