@@ -9,7 +9,7 @@ description: DotNet Updates
 
 <!-- news_marker starts -->
 - Live Stream Previewing Wolverine 5.0 on Thursday ([5 hours ago](https://dotnetkicks.com/r/728887?url=https://jeremydmiller.com/2025/09/03/live-stream-previewing-wolverine-5-0-on-thursday/))
-- Let Copilot Coding Agent handle the busy work - .NET Blog ([13 hours ago](https://dotnetkicks.com/r/728879?url=https://devblogs.microsoft.com/dotnet/copilot-coding-agent-dotnet/))
+- Let Copilot Coding Agent handle the busy work - .NET Blog ([14 hours ago](https://dotnetkicks.com/r/728879?url=https://devblogs.microsoft.com/dotnet/copilot-coding-agent-dotnet/))
 - Let Copilot Coding Agent handle the busy work ([14 hours ago](https://devblogs.microsoft.com/dotnet/copilot-coding-agent-dotnet/))
 - Boost Your Copilot Collaboration with Reusable Prompt Files - Visual Studio Blog ([1 days ago](https://dotnetkicks.com/r/728787?url=https://devblogs.microsoft.com/visualstudio/boost-your-copilot-collaboration-with-reusable-prompt-files/))
 - Boost Your Copilot Collaboration with Reusable Prompt Files - Visual Studio Blog ([1 days ago](https://dotnetkicks.com/r/728783?url=https://devblogs.microsoft.com/visualstudio/boost-your-copilot-collaboration-with-reusable-prompt-files/))
