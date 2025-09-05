@@ -8,9 +8,9 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Windowing overview for WinUI and Windows App SDK - Windows apps ([11 hours ago](https://dotnetkicks.com/r/728956?url=https://learn.microsoft.com/en-us/windows/apps/develop/ui-input/windowing-overview))
-- The First Set of Updates and Fixes for ReSharper and Rider 2025.2 Is Out! ([13 hours ago](https://blog.jetbrains.com/dotnet/2025/09/04/resharper-and-rider-2025-2-1-is-out/))
-- Composing Data from Multiple Services ([14 hours ago](https://dotnetkicks.com/r/728934?url=https://codeopinion.com/composing-data-from-multiple-services/))
+- Windowing overview for WinUI and Windows App SDK - Windows apps ([12 hours ago](https://dotnetkicks.com/r/728956?url=https://learn.microsoft.com/en-us/windows/apps/develop/ui-input/windowing-overview))
+- The First Set of Updates and Fixes for ReSharper and Rider 2025.2 Is Out! ([14 hours ago](https://blog.jetbrains.com/dotnet/2025/09/04/resharper-and-rider-2025-2-1-is-out/))
+- Composing Data from Multiple Services ([15 hours ago](https://dotnetkicks.com/r/728934?url=https://codeopinion.com/composing-data-from-multiple-services/))
 - Live Stream Previewing Wolverine 5.0 on Thursday ([1 days ago](https://dotnetkicks.com/r/728887?url=https://jeremydmiller.com/2025/09/03/live-stream-previewing-wolverine-5-0-on-thursday/))
 - Let Copilot Coding Agent handle the busy work - .NET Blog ([1 days ago](https://dotnetkicks.com/r/728879?url=https://devblogs.microsoft.com/dotnet/copilot-coding-agent-dotnet/))
 - Let Copilot Coding Agent handle the busy work ([1 days ago](https://devblogs.microsoft.com/dotnet/copilot-coding-agent-dotnet/))
