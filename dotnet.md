@@ -8,8 +8,8 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Sneak Peek at the SignalR Integration in Wolverine 5.0 ([48 minutes ago](https://dotnetkicks.com/r/729074?url=https://jeremydmiller.com/2025/09/05/sneak-peek-at-the-signalr-integration-in-wolverine-5-0/))
-- Windowing overview for WinUI and Windows App SDK - Windows apps ([22 hours ago](https://dotnetkicks.com/r/728956?url=https://learn.microsoft.com/en-us/windows/apps/develop/ui-input/windowing-overview))
+- Sneak Peek at the SignalR Integration in Wolverine 5.0 ([1 hours ago](https://dotnetkicks.com/r/729074?url=https://jeremydmiller.com/2025/09/05/sneak-peek-at-the-signalr-integration-in-wolverine-5-0/))
+- Windowing overview for WinUI and Windows App SDK - Windows apps ([23 hours ago](https://dotnetkicks.com/r/728956?url=https://learn.microsoft.com/en-us/windows/apps/develop/ui-input/windowing-overview))
 - The First Set of Updates and Fixes for ReSharper and Rider 2025.2 Is Out! ([1 days ago](https://blog.jetbrains.com/dotnet/2025/09/04/resharper-and-rider-2025-2-1-is-out/))
 - Composing Data from Multiple Services ([1 days ago](https://dotnetkicks.com/r/728934?url=https://codeopinion.com/composing-data-from-multiple-services/))
 - Live Stream Previewing Wolverine 5.0 on Thursday ([1 days ago](https://dotnetkicks.com/r/728887?url=https://jeremydmiller.com/2025/09/03/live-stream-previewing-wolverine-5-0-on-thursday/))
