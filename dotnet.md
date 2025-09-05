@@ -8,8 +8,9 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Windowing overview for WinUI and Windows App SDK - Windows apps ([21 hours ago](https://dotnetkicks.com/r/728956?url=https://learn.microsoft.com/en-us/windows/apps/develop/ui-input/windowing-overview))
-- The First Set of Updates and Fixes for ReSharper and Rider 2025.2 Is Out! ([23 hours ago](https://blog.jetbrains.com/dotnet/2025/09/04/resharper-and-rider-2025-2-1-is-out/))
+- Sneak Peek at the SignalR Integration in Wolverine 5.0 ([20 minutes ago](https://dotnetkicks.com/r/729074?url=https://jeremydmiller.com/2025/09/05/sneak-peek-at-the-signalr-integration-in-wolverine-5-0/))
+- Windowing overview for WinUI and Windows App SDK - Windows apps ([22 hours ago](https://dotnetkicks.com/r/728956?url=https://learn.microsoft.com/en-us/windows/apps/develop/ui-input/windowing-overview))
+- The First Set of Updates and Fixes for ReSharper and Rider 2025.2 Is Out! ([1 days ago](https://blog.jetbrains.com/dotnet/2025/09/04/resharper-and-rider-2025-2-1-is-out/))
 - Composing Data from Multiple Services ([1 days ago](https://dotnetkicks.com/r/728934?url=https://codeopinion.com/composing-data-from-multiple-services/))
 - Live Stream Previewing Wolverine 5.0 on Thursday ([1 days ago](https://dotnetkicks.com/r/728887?url=https://jeremydmiller.com/2025/09/03/live-stream-previewing-wolverine-5-0-on-thursday/))
 - Let Copilot Coding Agent handle the busy work - .NET Blog ([1 days ago](https://dotnetkicks.com/r/728879?url=https://devblogs.microsoft.com/dotnet/copilot-coding-agent-dotnet/))
@@ -43,7 +44,6 @@ description: DotNet Updates
 - MauiReactor: An MVU Approach for .NET MAUI ([10 days ago](https://devblogs.microsoft.com/dotnet/mauireactor-mvu-for-dotnet-maui/))
 - F# Weekly #34, 2025 - FsiX: new F# REPL with hot reloading ([10 days ago](https://dotnetkicks.com/r/728288?url=https://sergeytihon.com/2025/08/24/f-weekly-34-2025-fsix-new-f-repl-with-hot-reloading/))
 - Boost Your .NET Projects: Harness the Power of Async Queues with Spargine’s ChannelQueue ([12 days ago](https://dotnettips.wordpress.com/2025/08/24/boost-your-net-projects-harness-the-power-of-async-queues-with-spargines-channelqueue/))
-- Accelerating SQL Server 2025 momentum: Announcing the first release candidate - Microsoft SQL Server Blog ([13 days ago](https://dotnetkicks.com/r/728173?url=https://www.microsoft.com/en-us/sql-server/blog/2025/08/22/accelerating-sql-server-2025-momentum-announcing-the-first-release-candidate/))
 - Enhance your CLI testing workflow with the new dotnet test ([14 days ago](https://devblogs.microsoft.com/dotnet/dotnet-test-with-mtp/))
 - Copilot Diagnostics toolset for .NET In Visual Studio ([15 days ago](https://devblogs.microsoft.com/dotnet/github-copilot-diagnostics-toolset-for-dotnet-in-visual-studio/))
 - GPT-OSS – A C# Guide with Ollama ([16 days ago](https://devblogs.microsoft.com/dotnet/gpt-oss-csharp-ollama/))
