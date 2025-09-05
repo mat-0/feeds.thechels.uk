@@ -42,7 +42,7 @@ description: DotNet Updates
 - MauiReactor: An MVU Approach for .NET MAUI - .NET Blog ([10 days ago](https://dotnetkicks.com/r/728306?url=https://devblogs.microsoft.com/dotnet/mauireactor-mvu-for-dotnet-maui/))
 - MauiReactor: An MVU Approach for .NET MAUI - .NET Blog ([10 days ago](https://dotnetkicks.com/r/728290?url=https://devblogs.microsoft.com/dotnet/mauireactor-mvu-for-dotnet-maui/))
 - MauiReactor: An MVU Approach for .NET MAUI ([10 days ago](https://devblogs.microsoft.com/dotnet/mauireactor-mvu-for-dotnet-maui/))
-- F# Weekly #34, 2025 - FsiX: new F# REPL with hot reloading ([10 days ago](https://dotnetkicks.com/r/728288?url=https://sergeytihon.com/2025/08/24/f-weekly-34-2025-fsix-new-f-repl-with-hot-reloading/))
+- F# Weekly #34, 2025 - FsiX: new F# REPL with hot reloading ([11 days ago](https://dotnetkicks.com/r/728288?url=https://sergeytihon.com/2025/08/24/f-weekly-34-2025-fsix-new-f-repl-with-hot-reloading/))
 - Boost Your .NET Projects: Harness the Power of Async Queues with Spargine’s ChannelQueue ([12 days ago](https://dotnettips.wordpress.com/2025/08/24/boost-your-net-projects-harness-the-power-of-async-queues-with-spargines-channelqueue/))
 - Enhance your CLI testing workflow with the new dotnet test ([14 days ago](https://devblogs.microsoft.com/dotnet/dotnet-test-with-mtp/))
 - Copilot Diagnostics toolset for .NET In Visual Studio ([15 days ago](https://devblogs.microsoft.com/dotnet/github-copilot-diagnostics-toolset-for-dotnet-in-visual-studio/))
