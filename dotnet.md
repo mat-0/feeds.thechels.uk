@@ -8,9 +8,9 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Windowing overview for WinUI and Windows App SDK - Windows apps ([13 hours ago](https://dotnetkicks.com/r/728956?url=https://learn.microsoft.com/en-us/windows/apps/develop/ui-input/windowing-overview))
-- The First Set of Updates and Fixes for ReSharper and Rider 2025.2 Is Out! ([15 hours ago](https://blog.jetbrains.com/dotnet/2025/09/04/resharper-and-rider-2025-2-1-is-out/))
-- Composing Data from Multiple Services ([16 hours ago](https://dotnetkicks.com/r/728934?url=https://codeopinion.com/composing-data-from-multiple-services/))
+- Windowing overview for WinUI and Windows App SDK - Windows apps ([14 hours ago](https://dotnetkicks.com/r/728956?url=https://learn.microsoft.com/en-us/windows/apps/develop/ui-input/windowing-overview))
+- The First Set of Updates and Fixes for ReSharper and Rider 2025.2 Is Out! ([16 hours ago](https://blog.jetbrains.com/dotnet/2025/09/04/resharper-and-rider-2025-2-1-is-out/))
+- Composing Data from Multiple Services ([17 hours ago](https://dotnetkicks.com/r/728934?url=https://codeopinion.com/composing-data-from-multiple-services/))
 - Live Stream Previewing Wolverine 5.0 on Thursday ([1 days ago](https://dotnetkicks.com/r/728887?url=https://jeremydmiller.com/2025/09/03/live-stream-previewing-wolverine-5-0-on-thursday/))
 - Let Copilot Coding Agent handle the busy work - .NET Blog ([1 days ago](https://dotnetkicks.com/r/728879?url=https://devblogs.microsoft.com/dotnet/copilot-coding-agent-dotnet/))
 - Let Copilot Coding Agent handle the busy work ([1 days ago](https://devblogs.microsoft.com/dotnet/copilot-coding-agent-dotnet/))
@@ -27,7 +27,7 @@ description: DotNet Updates
 - Getting Started with the Aspire CLI - .NET Blog ([7 days ago](https://dotnetkicks.com/r/728623?url=https://devblogs.microsoft.com/dotnet/getting-started-with-the-aspire-cli/))
 - Getting Started with the Aspire CLI ([7 days ago](https://devblogs.microsoft.com/dotnet/getting-started-with-the-aspire-cli/))
 - The Easiest Way to Do OpenTelemetry in .NET: OTLP + Collector ([7 days ago](https://dotnetkicks.com/r/728599?url=https://petabridge.com/blog/easiest-opentelemetry-dotnet-otlp-collector/))
-- ReSharper’s New Out-of-Process Engine Cuts Visual Studio startup UI freezes by 61% ([7 days ago](https://blog.jetbrains.com/dotnet/2025/08/28/resharper-s-new-out-of-process-engine-cuts-ui-freezes-in-visual-studio-by-80/))
+- ReSharper’s New Out-of-Process Engine Cuts Visual Studio startup UI freezes by 61% ([8 days ago](https://blog.jetbrains.com/dotnet/2025/08/28/resharper-s-new-out-of-process-engine-cuts-ui-freezes-in-visual-studio-by-80/))
 - Roadmap for AI in Visual Studio (September) - Visual Studio Blog ([8 days ago](https://dotnetkicks.com/r/728498?url=https://devblogs.microsoft.com/visualstudio/roadmap-for-ai-in-visual-studio-september/))
 - Roadmap for AI in Visual Studio (September) - Visual Studio Blog ([8 days ago](https://dotnetkicks.com/r/728482?url=https://devblogs.microsoft.com/visualstudio/roadmap-for-ai-in-visual-studio-september/))
 - EFCore.Visualizer - View Entity Framework Core query plan inside Visual Studio - .NET Blog ([8 days ago](https://dotnetkicks.com/r/728480?url=https://devblogs.microsoft.com/dotnet/ef-core-visualizer-view-entity-framework-core-query-plan-inside-visual-studio/))
