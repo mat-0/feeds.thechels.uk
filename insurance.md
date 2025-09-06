@@ -8,10 +8,10 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Robust reinsurance & alternative solutions key as global P&C growth persists: Swiss Re ([8 hours ago](https://www.reinsurancene.ws/robust-reinsurance-alternative-solutions-key-as-global-pc-growth-persists-swiss-re/))
-- EU Regulation: Quick Note From Insurance Europe ([12 hours ago](https://insurance-edge.net/2025/09/06/eu-regulation-quick-note-from-insurance-europe/))
-- Aon Agrees Sponsorship Deal With Scuderia Ferrari ([22 hours ago](https://insurance-edge.net/2025/09/05/aon-agrees-sponsorship-deal-with-scuderia-ferrari/))
-- Points on Your Licence For Arachnophobia? It’s a Remote Possibility ([23 hours ago](https://insurance-edge.net/2025/09/05/points-on-your-licence-for-arachnophobia-its-a-remote-possibility/))
+- Robust reinsurance & alternative solutions key as global P&C growth persists: Swiss Re ([9 hours ago](https://www.reinsurancene.ws/robust-reinsurance-alternative-solutions-key-as-global-pc-growth-persists-swiss-re/))
+- EU Regulation: Quick Note From Insurance Europe ([13 hours ago](https://insurance-edge.net/2025/09/06/eu-regulation-quick-note-from-insurance-europe/))
+- Aon Agrees Sponsorship Deal With Scuderia Ferrari ([23 hours ago](https://insurance-edge.net/2025/09/05/aon-agrees-sponsorship-deal-with-scuderia-ferrari/))
+- Points on Your Licence For Arachnophobia? It’s a Remote Possibility ([1 days ago](https://insurance-edge.net/2025/09/05/points-on-your-licence-for-arachnophobia-its-a-remote-possibility/))
 - New Global Risk Management Proposition From Aviva ([1 days ago](https://insurance-edge.net/2025/09/05/new-global-risk-management-proposition-from-aviva/))
 - Liability Claims Are an Increasing Risks For SMEs in the UK ([1 days ago](https://insurance-edge.net/2025/09/05/liability-claims-are-an-increasing-risks-for-smes-in-the-uk/))
 - Pokie Spins Casino: A Straight-Up Look ([1 days ago](https://insurance-edge.net/2025/09/05/pokie-spins-casino-review-games-bonuses-payments/))
@@ -95,7 +95,7 @@ description: Insurance Updates
 - Insurance moves: AXA UK & Ireland and New Dawn Risk ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/insurance-moves-axa-uk-and-ireland-and-new-dawn-risk-548375.aspx))
 - Marine insurers update EV shipping guidance as fire risks evolve ([2 days ago](https://www.insurancebusinessmag.com/uk/news/marine/marine-insurers-update-ev-shipping-guidance-as-fire-risks-evolve-548373.aspx))
 - Race to the bottom? Van insurance premiums slide 20% year-on-year ([2 days ago](https://www.insurancebusinessmag.com/uk/news/auto-motor/race-to-the-bottom-van-insurance-premiums-slide-20-yearonyear-548371.aspx))
-- State Farm rate increase hits judicial headwinds ([2 days ago](https://www.dig-in.com/news/state-farm-rate-increase-hits-judicial-headwinds))
+- State Farm rate increase hits judicial headwinds ([3 days ago](https://www.dig-in.com/news/state-farm-rate-increase-hits-judicial-headwinds))
 - AI and data revolution in reinsurance underwriting ([3 days ago](https://www.dig-in.com/opinion/ai-and-data-revolution-in-reinsurance-underwriting))
 - Neptune Insurance files for IPO ([3 days ago](https://www.dig-in.com/articles/neptune-insurance-files-for-ipo))
 - Health insurers avoided $34B in taxes while denying claims ([3 days ago](https://www.dig-in.com/news/health-insurers-avoided-34b-in-taxes-while-denying-claims))
