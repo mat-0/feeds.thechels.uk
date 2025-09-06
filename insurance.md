@@ -8,9 +8,9 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Robust reinsurance & alternative solutions key as global P&C growth persists: Swiss Re ([9 hours ago](https://www.reinsurancene.ws/robust-reinsurance-alternative-solutions-key-as-global-pc-growth-persists-swiss-re/))
-- EU Regulation: Quick Note From Insurance Europe ([13 hours ago](https://insurance-edge.net/2025/09/06/eu-regulation-quick-note-from-insurance-europe/))
-- Aon Agrees Sponsorship Deal With Scuderia Ferrari ([23 hours ago](https://insurance-edge.net/2025/09/05/aon-agrees-sponsorship-deal-with-scuderia-ferrari/))
+- Robust reinsurance & alternative solutions key as global P&C growth persists: Swiss Re ([10 hours ago](https://www.reinsurancene.ws/robust-reinsurance-alternative-solutions-key-as-global-pc-growth-persists-swiss-re/))
+- EU Regulation: Quick Note From Insurance Europe ([14 hours ago](https://insurance-edge.net/2025/09/06/eu-regulation-quick-note-from-insurance-europe/))
+- Aon Agrees Sponsorship Deal With Scuderia Ferrari ([1 days ago](https://insurance-edge.net/2025/09/05/aon-agrees-sponsorship-deal-with-scuderia-ferrari/))
 - Points on Your Licence For Arachnophobia? It’s a Remote Possibility ([1 days ago](https://insurance-edge.net/2025/09/05/points-on-your-licence-for-arachnophobia-its-a-remote-possibility/))
 - New Global Risk Management Proposition From Aviva ([1 days ago](https://insurance-edge.net/2025/09/05/new-global-risk-management-proposition-from-aviva/))
 - Liability Claims Are an Increasing Risks For SMEs in the UK ([1 days ago](https://insurance-edge.net/2025/09/05/liability-claims-are-an-increasing-risks-for-smes-in-the-uk/))
