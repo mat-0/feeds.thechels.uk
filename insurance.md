@@ -8,13 +8,13 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Robust reinsurance & alternative solutions key as global P&C growth persists: Swiss Re ([5 hours ago](https://www.reinsurancene.ws/robust-reinsurance-alternative-solutions-key-as-global-pc-growth-persists-swiss-re/))
-- EU Regulation: Quick Note From Insurance Europe ([9 hours ago](https://insurance-edge.net/2025/09/06/eu-regulation-quick-note-from-insurance-europe/))
-- Aon Agrees Sponsorship Deal With Scuderia Ferrari ([19 hours ago](https://insurance-edge.net/2025/09/05/aon-agrees-sponsorship-deal-with-scuderia-ferrari/))
-- Points on Your Licence For Arachnophobia? It’s a Remote Possibility ([20 hours ago](https://insurance-edge.net/2025/09/05/points-on-your-licence-for-arachnophobia-its-a-remote-possibility/))
+- Robust reinsurance & alternative solutions key as global P&C growth persists: Swiss Re ([6 hours ago](https://www.reinsurancene.ws/robust-reinsurance-alternative-solutions-key-as-global-pc-growth-persists-swiss-re/))
+- EU Regulation: Quick Note From Insurance Europe ([10 hours ago](https://insurance-edge.net/2025/09/06/eu-regulation-quick-note-from-insurance-europe/))
+- Aon Agrees Sponsorship Deal With Scuderia Ferrari ([20 hours ago](https://insurance-edge.net/2025/09/05/aon-agrees-sponsorship-deal-with-scuderia-ferrari/))
+- Points on Your Licence For Arachnophobia? It’s a Remote Possibility ([21 hours ago](https://insurance-edge.net/2025/09/05/points-on-your-licence-for-arachnophobia-its-a-remote-possibility/))
 - New Global Risk Management Proposition From Aviva ([21 hours ago](https://insurance-edge.net/2025/09/05/new-global-risk-management-proposition-from-aviva/))
 - Liability Claims Are an Increasing Risks For SMEs in the UK ([21 hours ago](https://insurance-edge.net/2025/09/05/liability-claims-are-an-increasing-risks-for-smes-in-the-uk/))
-- Pokie Spins Casino: A Straight-Up Look ([21 hours ago](https://insurance-edge.net/2025/09/05/pokie-spins-casino-review-games-bonuses-payments/))
+- Pokie Spins Casino: A Straight-Up Look ([22 hours ago](https://insurance-edge.net/2025/09/05/pokie-spins-casino-review-games-bonuses-payments/))
 - Percayso names new group CEO as Tomlinson exits ([1 days ago](https://www.postonline.co.uk/people/7958971/percayso-names-new-group-ceo-as-tomlinson-exits))
 - Insurance Europe warns Solvency II reform falls short of EU competitiveness goals ([1 days ago](https://www.reinsurancene.ws/insurance-europe-warns-solvency-ii-reform-falls-short-of-eu-competitiveness-goals/))
 - Optalitix expands quote platform to power reinsurance pricing ([1 days ago](https://www.reinsurancene.ws/optalitix-expands-quote-platform-to-power-reinsurance-pricing/))
