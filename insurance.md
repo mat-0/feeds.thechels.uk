@@ -8,7 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Aon tops reinsurance broker ranking on 2024 revenues, but Guy Carpenter ahead in 2025 ([8 minutes ago](https://www.reinsurancene.ws/aon-tops-reinsurance-broker-ranking-on-2024-revenues-but-guy-carpenter-ahead-in-2025/))
+- Aon tops reinsurance broker ranking on 2024 revenues, but Guy Carpenter ahead in 2025 ([39 minutes ago](https://www.reinsurancene.ws/aon-tops-reinsurance-broker-ranking-on-2024-revenues-but-guy-carpenter-ahead-in-2025/))
 - Robust reinsurance & alternative solutions key as global P&C growth persists: Swiss Re ([18 hours ago](https://www.reinsurancene.ws/robust-reinsurance-alternative-solutions-key-as-global-pc-growth-persists-swiss-re/))
 - EU Regulation: Quick Note From Insurance Europe ([22 hours ago](https://insurance-edge.net/2025/09/06/eu-regulation-quick-note-from-insurance-europe/))
 - Aon Agrees Sponsorship Deal With Scuderia Ferrari ([1 days ago](https://insurance-edge.net/2025/09/05/aon-agrees-sponsorship-deal-with-scuderia-ferrari/))
@@ -109,7 +109,7 @@ description: Insurance Updates
 - How to determine good captive insurance candidates ([3 days ago](https://www.dig-in.com/advisers/opinion/how-to-determine-good-captive-insurance-candidates))
 - A third of parents feel guilty when not around for their sick child – MetLife research ([3 days ago](https://ifamagazine.com/a-third-of-parents-feel-guilty-when-not-around-for-their-sick-child-metlife-research/))
 - Cytora Expands Advisory Board with Appointment of Ed Giera ([3 days ago](https://www.insurtechinsights.com/cytora-expands-advisory-board-with-appointment-of-ed-giera/))
-- Is the pet insurance market delivering fair value? ([3 days ago](https://www.postonline.co.uk/personal/7958177/is-the-pet-insurance-market-delivering-fair-value))
+- Is the pet insurance market delivering fair value? ([4 days ago](https://www.postonline.co.uk/personal/7958177/is-the-pet-insurance-market-delivering-fair-value))
 - Tomorrow’s World: Cultural Change ([4 days ago](https://www.postonline.co.uk/regulation/7958189/tomorrow%E2%80%99s-world-cultural-change))
 - Parents hold the key to fighting motor insurance fraud ([4 days ago](https://www.postonline.co.uk/claims/7958260/parents-hold-the-key-to-fighting-motor-insurance-fraud))
 - Meet the insurtech: Clearspeed ([4 days ago](https://www.dig-in.com/news/meet-the-insurtech-clearspeed))
