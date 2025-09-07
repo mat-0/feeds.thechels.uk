@@ -62,7 +62,7 @@ description: Insurance Updates
 - FTC Takes Action Against Worker Noncompete Agreements ([1 days ago](https://www.insurancejournal.com/news/national/2025/09/05/838042.htm))
 - Penny Black’s Social Diary: Axa’s enthusiast; Biba’s buns ([1 days ago](https://www.postonline.co.uk/people/7958297/penny-black%E2%80%99s-social-diary-axa%E2%80%99s-enthusiast-biba%E2%80%99s-buns))
 - Why Kafka-length insurance policies need to go ([1 days ago](https://www.postonline.co.uk/regulation/7958932/why-kafka-length-insurance-policies-need-to-go))
-- Insurance moves: RSA, Open GI and McGill ([1 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/insurance-moves-rsa-open-gi-and-mcgill-548562.aspx))
+- Insurance moves: RSA, Open GI and McGill ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/insurance-moves-rsa-open-gi-and-mcgill-548562.aspx))
 - Davies backs launch of Assurex Global London ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/davies-backs-launch-of-assurex-global-london-548560.aspx))
 - Civil court backlogs shrink but insurance claims still face uneven delays ([2 days ago](https://www.insurancebusinessmag.com/uk/news/legal-insights/civil-court-backlogs-shrink-but-insurance-claims-still-face-uneven-delays-548558.aspx))
 - Tysers strikes deal for Türkiye’s Rönesans ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/tysers-strikes-deal-for-turkiyes-ronesans-548557.aspx))
