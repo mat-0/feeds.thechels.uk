@@ -8,8 +8,9 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Robust reinsurance & alternative solutions key as global P&C growth persists: Swiss Re ([17 hours ago](https://www.reinsurancene.ws/robust-reinsurance-alternative-solutions-key-as-global-pc-growth-persists-swiss-re/))
-- EU Regulation: Quick Note From Insurance Europe ([21 hours ago](https://insurance-edge.net/2025/09/06/eu-regulation-quick-note-from-insurance-europe/))
+- Aon tops reinsurance broker ranking on 2024 revenues, but Guy Carpenter ahead in 2025 ([8 minutes ago](https://www.reinsurancene.ws/aon-tops-reinsurance-broker-ranking-on-2024-revenues-but-guy-carpenter-ahead-in-2025/))
+- Robust reinsurance & alternative solutions key as global P&C growth persists: Swiss Re ([18 hours ago](https://www.reinsurancene.ws/robust-reinsurance-alternative-solutions-key-as-global-pc-growth-persists-swiss-re/))
+- EU Regulation: Quick Note From Insurance Europe ([22 hours ago](https://insurance-edge.net/2025/09/06/eu-regulation-quick-note-from-insurance-europe/))
 - Aon Agrees Sponsorship Deal With Scuderia Ferrari ([1 days ago](https://insurance-edge.net/2025/09/05/aon-agrees-sponsorship-deal-with-scuderia-ferrari/))
 - Points on Your Licence For Arachnophobia? It’s a Remote Possibility ([1 days ago](https://insurance-edge.net/2025/09/05/points-on-your-licence-for-arachnophobia-its-a-remote-possibility/))
 - New Global Risk Management Proposition From Aviva ([1 days ago](https://insurance-edge.net/2025/09/05/new-global-risk-management-proposition-from-aviva/))
@@ -32,7 +33,6 @@ description: Insurance Updates
 - People Moves: Judd Joins AXA XL Energy ([1 days ago](https://www.insurancejournal.com/news/east/2025/09/05/837044.htm))
 - Flood Re adds Murphy as Independent Non-Exec. Director and Mulry-Lawson as Interim CRO ([1 days ago](https://www.reinsurancene.ws/flood-re-adds-murphy-as-independent-non-exec-director-and-mulry-lawson-as-interim-cro/))
 - Trump to Ask Supreme Court to Toss Carroll’s $5 Million Abuse and Defamation Verdict ([1 days ago](https://www.insurancejournal.com/news/east/2025/09/05/838108.htm))
-- Those who innovate & adapt will thrive in evolved reinsurance market: Howden Re ([1 days ago](https://www.reinsurancene.ws/those-who-innovate-adapt-will-thrive-in-evolved-reinsurance-market-howden-re/))
 - Mass. Orders Insurers to Cover State-Backed Vaccines, Even Without CDC Support ([1 days ago](https://www.insurancejournal.com/news/east/2025/09/05/838104.htm))
 - Aviva’s Storah calls for pricing sanity not vanity ([1 days ago](https://www.postonline.co.uk/news/7958958/aviva%E2%80%99s-storah-calls-for-pricing-sanity-not-vanity))
 - Will executives’ pay cuts force clients to rethink cyber preparedness? ([1 days ago](https://www.insurancebusinessmag.com/uk/news/cyber/will-executives-pay-cuts-force-clients-to-rethink-cyber-preparedness-548661.aspx))
