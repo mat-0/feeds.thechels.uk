@@ -8,10 +8,11 @@ description: SecOps News
 [Get this as an RSS feed](/secops.rss)
 
 <!-- news_marker starts -->
+- Weekly Update 468 ([1 hours ago](https://www.troyhunt.com/weekly-update-468/))
 - VirusTotal finds hidden malware phishing campaign in SVG files ([14 hours ago](https://www.bleepingcomputer.com/news/security/virustotal-finds-hidden-malware-phishing-campaign-in-svg-files/))
 - Noisy Bear Targets Kazakhstan Energy Sector With BarrelFire Phishing Campaign ([18 hours ago](https://thehackernews.com/2025/09/noisy-bear-targets-kazakhstan-energy.html))
 - AI-powered malware hit 2,180 GitHub accounts in “s1ngularity” attack ([19 hours ago](https://www.bleepingcomputer.com/news/security/ai-powered-malware-hit-2-180-github-accounts-in-s1ngularity-attack/))
-- No more waiting for lines: New Windows keyboard shortcuts output em and en dashes with ease ([21 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/09/06/windows_keyboard_shortcuts_dashes/))
+- No more waiting for lines: New Windows keyboard shortcuts output em and en dashes with ease ([22 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/09/06/windows_keyboard_shortcuts_dashes/))
 - Reg hack attends job interview hosted by AI avatar, struggles to exit uncanny valley ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2025/09/06/ai_job_interview_experience/))
 - Malicious npm Packages Impersonate Flashbots, Steal Ethereum Wallet Keys ([1 days ago](https://thehackernews.com/2025/09/malicious-npm-packages-impersonate.html))
 - GOP Cries Censorship Over Spam Filters That Work ([1 days ago](https://krebsonsecurity.com/2025/09/gop-cries-censorship-over-spam-filters-that-work/))
@@ -81,7 +82,7 @@ description: SecOps News
 - Simple Steps for Attack Surface Reduction ([2 days ago](https://thehackernews.com/2025/08/simple-steps-for-attack-surface.html))
 - Google Fined $379 Million by French Regulator for Cookie Consent Violations ([2 days ago](https://thehackernews.com/2025/09/google-fined-379-million-by-french.html))
 - CISA Flags TP-Link Router Flaws CVE-2023-50224 and CVE-2025-9377 as Actively Exploited ([2 days ago](https://thehackernews.com/2025/09/cisa-flags-tp-link-router-flaws-cve.html))
-- UK government trial of M365 Copilot finds no clear productivity boost ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2025/09/04/m365_copilot_uk_government/))
+- UK government trial of M365 Copilot finds no clear productivity boost ([3 days ago](https://go.theregister.com/feed/www.theregister.com/2025/09/04/m365_copilot_uk_government/))
 - Sainsbury's eyes up shoplifters with live facial recognition ([3 days ago](https://go.theregister.com/feed/www.theregister.com/2025/09/04/sainsburys_lfr/))
 - France fines Google, SHEIN for undercooked cookie policies that led to crummy privacy ([3 days ago](https://go.theregister.com/feed/www.theregister.com/2025/09/04/france_google_shein_cookie_fines/))
 - US puts $10M bounty on three Russians accused of attacking critical infrastructure ([3 days ago](https://go.theregister.com/feed/www.theregister.com/2025/09/04/us_10m_bounty_fsb_attackers/))
@@ -192,6 +193,5 @@ description: SecOps News
 - Disruption with some GitHub services ([26 days ago](https://www.githubstatus.com/incidents/j2fdyn2v9df9))
 - Automation improvements after a Tesla Powerwall outage! ([26 days ago](https://scotthelme.ghost.io/automation-improvements-after-a-tesla-powerwall-outage/))
 - KrebsOnSecurity in New ‘Most Wanted’ HBO Max Series ([29 days ago](https://krebsonsecurity.com/2025/08/krebsonsecurity-in-new-most-wanted-hbo-max-series/))
-- Data Protection Enforcement: Your Cookie Compliance Questions Answered ([29 days ago](https://www.itgovernance.co.uk/blog/data-protection-enforcement-your-cookie-compliance-questions-answered))
 
 <!-- news_marker ends -->
