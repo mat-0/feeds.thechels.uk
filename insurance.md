@@ -93,7 +93,7 @@ description: Insurance Updates
 - Throwback Thursday: Lit streets and radar reflections ([2 days ago](https://www.postonline.co.uk/personal/7956764/throwback-thursday-lit-streets-and-radar-reflections))
 - Q&A: Jeff Heine, Novidea ([2 days ago](https://www.postonline.co.uk/technology/7957699/qa-jeff-heine-novidea))
 - Insurance moves: AXA UK & Ireland and New Dawn Risk ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/insurance-moves-axa-uk-and-ireland-and-new-dawn-risk-548375.aspx))
-- Marine insurers update EV shipping guidance as fire risks evolve ([2 days ago](https://www.insurancebusinessmag.com/uk/news/marine/marine-insurers-update-ev-shipping-guidance-as-fire-risks-evolve-548373.aspx))
+- Marine insurers update EV shipping guidance as fire risks evolve ([3 days ago](https://www.insurancebusinessmag.com/uk/news/marine/marine-insurers-update-ev-shipping-guidance-as-fire-risks-evolve-548373.aspx))
 - Race to the bottom? Van insurance premiums slide 20% year-on-year ([3 days ago](https://www.insurancebusinessmag.com/uk/news/auto-motor/race-to-the-bottom-van-insurance-premiums-slide-20-yearonyear-548371.aspx))
 - State Farm rate increase hits judicial headwinds ([3 days ago](https://www.dig-in.com/news/state-farm-rate-increase-hits-judicial-headwinds))
 - AI and data revolution in reinsurance underwriting ([3 days ago](https://www.dig-in.com/opinion/ai-and-data-revolution-in-reinsurance-underwriting))
