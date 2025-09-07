@@ -8,6 +8,7 @@ description: SecOps News
 [Get this as an RSS feed](/secops.rss)
 
 <!-- news_marker starts -->
+- ChatGPT makes Projects feature free, adds a toggle to split chat ([7 minutes ago](https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-makes-projects-feature-free-adds-a-toggle-to-split-chat/))
 - Salesloft+Drift Update on Investigation Results ([3 hours ago](https://databreaches.net/2025/09/07/salesloftdrift-update-on-investigation-results/?pk_campaign=feed&pk_kwd=salesloftdrift-update-on-investigation-results))
 - iCloud Calendar abused to send phishing emails from Apple’s servers ([6 hours ago](https://www.bleepingcomputer.com/news/security/icloud-calendar-abused-to-send-phishing-emails-from-apples-servers/))
 - Czech cyber agency warns against Chinese tech in critical infrastructure ([9 hours ago](https://www.bleepingcomputer.com/news/security/czech-cyber-agency-warns-against-chinese-tech-in-critical-infrastructure/))
@@ -21,7 +22,7 @@ description: SecOps News
 - Reg hack attends job interview hosted by AI avatar, struggles to exit uncanny valley ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2025/09/06/ai_job_interview_experience/))
 - Malicious npm Packages Impersonate Flashbots, Steal Ethereum Wallet Keys ([1 days ago](https://thehackernews.com/2025/09/malicious-npm-packages-impersonate.html))
 - GOP Cries Censorship Over Spam Filters That Work ([1 days ago](https://krebsonsecurity.com/2025/09/gop-cries-censorship-over-spam-filters-that-work/))
-- OpenAI reorg at risk as Attorneys General push AI safety ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2025/09/05/openai_reorg_at_risk/))
+- OpenAI reorg at risk as Attorneys General push AI safety ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2025/09/05/openai_reorg_at_risk/))
 - Let us git rid of it, angry GitHub users say of forced Copilot features ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2025/09/05/github_copilot_complaints/))
 - If Broadcom is helping OpenAI build AI chips, here's what they might look like ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2025/09/05/openai_broadcom_ai_chips/))
 - The crazy, true story behind the first AI-powered ransomware ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2025/09/05/real_story_ai_ransomware_promptlock/))
@@ -63,7 +64,7 @@ description: SecOps News
 - Uber India starts offering drivers gigs collecting and classifying info for AI models ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2025/09/05/uber_india_ai_model_gigs/))
 - Department of State employee sentenced for transmitting national defense information to suspected Chinese government agents ([2 days ago](https://databreaches.net/2025/09/04/department-of-state-employee-sentenced-for-transmitting-national-defense-information-to-suspected-chinese-government-agents/?pk_campaign=feed&pk_kwd=department-of-state-employee-sentenced-for-transmitting-national-defense-information-to-suspected-chinese-government-agents))
 - Boffins detail new method to make neural nets forget private and copyrighted info ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2025/09/04/boffins_detail_ai_mind_wipe/))
-- Attackers snooping around Sitecore, dropping malware via public sample keys ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2025/09/04/unknown_miscreants_snooping_around_sitecore/))
+- Attackers snooping around Sitecore, dropping malware via public sample keys ([3 days ago](https://go.theregister.com/feed/www.theregister.com/2025/09/04/unknown_miscreants_snooping_around_sitecore/))
 - Boffins build automated Android bug hunting system ([3 days ago](https://go.theregister.com/feed/www.theregister.com/2025/09/04/boffins_build_automated_android_bug_hunting/))
 - Boffins build automated Android bug hunting system ([3 days ago](https://go.theregister.com/feed/www.theregister.com/2025/09/04/boffins_build_automated_android_bug_hunting/))
 - China-aligned crew poisons Windows servers to manipulate Google results ([3 days ago](https://go.theregister.com/feed/www.theregister.com/2025/09/04/new_chinaaligned_crew_poisons_windows_servers/))
