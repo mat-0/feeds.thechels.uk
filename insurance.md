@@ -8,8 +8,8 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Robust reinsurance & alternative solutions key as global P&C growth persists: Swiss Re ([12 hours ago](https://www.reinsurancene.ws/robust-reinsurance-alternative-solutions-key-as-global-pc-growth-persists-swiss-re/))
-- EU Regulation: Quick Note From Insurance Europe ([16 hours ago](https://insurance-edge.net/2025/09/06/eu-regulation-quick-note-from-insurance-europe/))
+- Robust reinsurance & alternative solutions key as global P&C growth persists: Swiss Re ([13 hours ago](https://www.reinsurancene.ws/robust-reinsurance-alternative-solutions-key-as-global-pc-growth-persists-swiss-re/))
+- EU Regulation: Quick Note From Insurance Europe ([17 hours ago](https://insurance-edge.net/2025/09/06/eu-regulation-quick-note-from-insurance-europe/))
 - Aon Agrees Sponsorship Deal With Scuderia Ferrari ([1 days ago](https://insurance-edge.net/2025/09/05/aon-agrees-sponsorship-deal-with-scuderia-ferrari/))
 - Points on Your Licence For Arachnophobia? It’s a Remote Possibility ([1 days ago](https://insurance-edge.net/2025/09/05/points-on-your-licence-for-arachnophobia-its-a-remote-possibility/))
 - New Global Risk Management Proposition From Aviva ([1 days ago](https://insurance-edge.net/2025/09/05/new-global-risk-management-proposition-from-aviva/))
