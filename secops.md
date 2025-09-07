@@ -8,12 +8,12 @@ description: SecOps News
 [Get this as an RSS feed](/secops.rss)
 
 <!-- news_marker starts -->
-- iCloud Calendar abused to send phishing emails from Apple’s servers ([1 hours ago](https://www.bleepingcomputer.com/news/security/icloud-calendar-abused-to-send-phishing-emails-from-apples-servers/))
-- Czech cyber agency warns against Chinese tech in critical infrastructure ([4 hours ago](https://www.bleepingcomputer.com/news/security/czech-cyber-agency-warns-against-chinese-tech-in-critical-infrastructure/))
-- Snake eating tail: Google’s AI Overviews cites web pages written by AI, study says ([6 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/09/07/googles_ai_cites_written_by_ai/))
-- CISA orders federal agencies to patch Sitecore zero-day following hacking reports ([7 hours ago](https://databreaches.net/2025/09/07/cisa-orders-federal-agencies-to-patch-sitecore-zero-day-following-hacking-reports/?pk_campaign=feed&pk_kwd=cisa-orders-federal-agencies-to-patch-sitecore-zero-day-following-hacking-reports))
-- Weekly Update 468 ([10 hours ago](https://www.troyhunt.com/weekly-update-468/))
-- VirusTotal finds hidden malware phishing campaign in SVG files ([23 hours ago](https://www.bleepingcomputer.com/news/security/virustotal-finds-hidden-malware-phishing-campaign-in-svg-files/))
+- iCloud Calendar abused to send phishing emails from Apple’s servers ([2 hours ago](https://www.bleepingcomputer.com/news/security/icloud-calendar-abused-to-send-phishing-emails-from-apples-servers/))
+- Czech cyber agency warns against Chinese tech in critical infrastructure ([5 hours ago](https://www.bleepingcomputer.com/news/security/czech-cyber-agency-warns-against-chinese-tech-in-critical-infrastructure/))
+- Snake eating tail: Google’s AI Overviews cites web pages written by AI, study says ([7 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/09/07/googles_ai_cites_written_by_ai/))
+- CISA orders federal agencies to patch Sitecore zero-day following hacking reports ([8 hours ago](https://databreaches.net/2025/09/07/cisa-orders-federal-agencies-to-patch-sitecore-zero-day-following-hacking-reports/?pk_campaign=feed&pk_kwd=cisa-orders-federal-agencies-to-patch-sitecore-zero-day-following-hacking-reports))
+- Weekly Update 468 ([11 hours ago](https://www.troyhunt.com/weekly-update-468/))
+- VirusTotal finds hidden malware phishing campaign in SVG files ([1 days ago](https://www.bleepingcomputer.com/news/security/virustotal-finds-hidden-malware-phishing-campaign-in-svg-files/))
 - Noisy Bear Targets Kazakhstan Energy Sector With BarrelFire Phishing Campaign ([1 days ago](https://thehackernews.com/2025/09/noisy-bear-targets-kazakhstan-energy.html))
 - AI-powered malware hit 2,180 GitHub accounts in “s1ngularity” attack ([1 days ago](https://www.bleepingcomputer.com/news/security/ai-powered-malware-hit-2-180-github-accounts-in-s1ngularity-attack/))
 - No more waiting for lines: New Windows keyboard shortcuts output em and en dashes with ease ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2025/09/06/windows_keyboard_shortcuts_dashes/))
@@ -190,7 +190,7 @@ description: SecOps News
 - Kigen eUICC issue (custom backdoor vs. FW update bug) ([26 days ago](https://seclists.org/fulldisclosure/2025/Aug/4))
 - Cyber security for high profile conferences ([26 days ago](https://www.ncsc.gov.uk/guidance/cyber-security-for-high-profile-conferences))
 - Weekly Update 464 ([26 days ago](https://www.troyhunt.com/weekly-update-464/))
-- Disruption with some GitHub services ([26 days ago](https://www.githubstatus.com/incidents/j2fdyn2v9df9))
+- Disruption with some GitHub services ([27 days ago](https://www.githubstatus.com/incidents/j2fdyn2v9df9))
 - Automation improvements after a Tesla Powerwall outage! ([27 days ago](https://scotthelme.ghost.io/automation-improvements-after-a-tesla-powerwall-outage/))
 - KrebsOnSecurity in New ‘Most Wanted’ HBO Max Series ([29 days ago](https://krebsonsecurity.com/2025/08/krebsonsecurity-in-new-most-wanted-hbo-max-series/))
 
