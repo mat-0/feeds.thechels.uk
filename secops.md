@@ -8,9 +8,9 @@ description: SecOps News
 [Get this as an RSS feed](/secops.rss)
 
 <!-- news_marker starts -->
-- VirusTotal finds hidden malware phishing campaign in SVG files ([13 hours ago](https://www.bleepingcomputer.com/news/security/virustotal-finds-hidden-malware-phishing-campaign-in-svg-files/))
-- Noisy Bear Targets Kazakhstan Energy Sector With BarrelFire Phishing Campaign ([17 hours ago](https://thehackernews.com/2025/09/noisy-bear-targets-kazakhstan-energy.html))
-- AI-powered malware hit 2,180 GitHub accounts in “s1ngularity” attack ([18 hours ago](https://www.bleepingcomputer.com/news/security/ai-powered-malware-hit-2-180-github-accounts-in-s1ngularity-attack/))
+- VirusTotal finds hidden malware phishing campaign in SVG files ([14 hours ago](https://www.bleepingcomputer.com/news/security/virustotal-finds-hidden-malware-phishing-campaign-in-svg-files/))
+- Noisy Bear Targets Kazakhstan Energy Sector With BarrelFire Phishing Campaign ([18 hours ago](https://thehackernews.com/2025/09/noisy-bear-targets-kazakhstan-energy.html))
+- AI-powered malware hit 2,180 GitHub accounts in “s1ngularity” attack ([19 hours ago](https://www.bleepingcomputer.com/news/security/ai-powered-malware-hit-2-180-github-accounts-in-s1ngularity-attack/))
 - No more waiting for lines: New Windows keyboard shortcuts output em and en dashes with ease ([21 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/09/06/windows_keyboard_shortcuts_dashes/))
 - Reg hack attends job interview hosted by AI avatar, struggles to exit uncanny valley ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2025/09/06/ai_job_interview_experience/))
 - Malicious npm Packages Impersonate Flashbots, Steal Ethereum Wallet Keys ([1 days ago](https://thehackernews.com/2025/09/malicious-npm-packages-impersonate.html))
@@ -119,7 +119,7 @@ description: SecOps News
 - Prolific Russian ransomware operator living in California enjoys rare leniency awaiting trial ([4 days ago](https://databreaches.net/2025/09/02/prolific-russian-ransomware-operator-living-in-california-enjoys-rare-leniency-awaiting-trial/?pk_campaign=feed&pk_kwd=prolific-russian-ransomware-operator-living-in-california-enjoys-rare-leniency-awaiting-trial))
 - Watchdog orders Lotte Card to compensate victims of hack ([4 days ago](https://databreaches.net/2025/09/02/watchdog-orders-lotte-card-to-compensate-victims-of-hack/?pk_campaign=feed&pk_kwd=watchdog-orders-lotte-card-to-compensate-victims-of-hack))
 - Huawei counts cost of Western bans as UK business withers ([4 days ago](https://go.theregister.com/feed/www.theregister.com/2025/09/02/huawei_uk_decline/))
-- Frostbyte10 bugs put thousands of refrigerators at major grocery chains at risk ([4 days ago](https://go.theregister.com/feed/www.theregister.com/2025/09/02/frostbyte10_copeland_controller_bugs/))
+- Frostbyte10 bugs put thousands of refrigerators at major grocery chains at risk ([5 days ago](https://go.theregister.com/feed/www.theregister.com/2025/09/02/frostbyte10_copeland_controller_bugs/))
 - Reg readers have spoken: 93% back move away from Microsoft in UK public sector ([5 days ago](https://go.theregister.com/feed/www.theregister.com/2025/09/02/reg_poll_microsoft_uk/))
 - Europe Putin the blame on Russia after GPS jamming disrupts president’s plane ([5 days ago](https://go.theregister.com/feed/www.theregister.com/2025/09/02/eu_gps_jamming_russia_response/))
 - The Ongoing Fallout from a Breach at AI Chatbot Maker Salesloft ([5 days ago](https://krebsonsecurity.com/2025/09/the-ongoing-fallout-from-a-breach-at-ai-chatbot-maker-salesloft/))
