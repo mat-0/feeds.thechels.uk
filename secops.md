@@ -8,9 +8,9 @@ description: SecOps News
 [Get this as an RSS feed](/secops.rss)
 
 <!-- news_marker starts -->
-- VirusTotal finds hidden malware phishing campaign in SVG files ([9 hours ago](https://www.bleepingcomputer.com/news/security/virustotal-finds-hidden-malware-phishing-campaign-in-svg-files/))
-- Noisy Bear Targets Kazakhstan Energy Sector With BarrelFire Phishing Campaign ([13 hours ago](https://thehackernews.com/2025/09/noisy-bear-targets-kazakhstan-energy.html))
-- AI-powered malware hit 2,180 GitHub accounts in “s1ngularity” attack ([14 hours ago](https://www.bleepingcomputer.com/news/security/ai-powered-malware-hit-2-180-github-accounts-in-s1ngularity-attack/))
+- VirusTotal finds hidden malware phishing campaign in SVG files ([10 hours ago](https://www.bleepingcomputer.com/news/security/virustotal-finds-hidden-malware-phishing-campaign-in-svg-files/))
+- Noisy Bear Targets Kazakhstan Energy Sector With BarrelFire Phishing Campaign ([14 hours ago](https://thehackernews.com/2025/09/noisy-bear-targets-kazakhstan-energy.html))
+- AI-powered malware hit 2,180 GitHub accounts in “s1ngularity” attack ([15 hours ago](https://www.bleepingcomputer.com/news/security/ai-powered-malware-hit-2-180-github-accounts-in-s1ngularity-attack/))
 - No more waiting for lines: New Windows keyboard shortcuts output em and en dashes with ease ([17 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/09/06/windows_keyboard_shortcuts_dashes/))
 - Reg hack attends job interview hosted by AI avatar, struggles to exit uncanny valley ([20 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/09/06/ai_job_interview_experience/))
 - Malicious npm Packages Impersonate Flashbots, Steal Ethereum Wallet Keys ([22 hours ago](https://thehackernews.com/2025/09/malicious-npm-packages-impersonate.html))
@@ -104,7 +104,7 @@ description: SecOps News
 - AI-Driven Trends in Endpoint Security: What the 2025 Gartner® Magic Quadrant™ Reveals ([3 days ago](https://thehackernews.com/2025/07/ai-driven-trends-in-endpoint-security.html))
 - Cloudflare Blocks Record-Breaking 11.5 Tbps DDoS Attack ([3 days ago](https://thehackernews.com/2025/09/cloudflare-blocks-record-breaking-115.html))
 - Internet mapping and research outfit Censys reveals state-based abuse, harassment ([3 days ago](https://go.theregister.com/feed/www.theregister.com/2025/09/03/censys_abuse_sigcomm_paper/))
-- CISA Adds TP-Link and WhatsApp Flaws to KEV Catalog Amid Active Exploitation ([3 days ago](https://thehackernews.com/2025/09/cisa-adds-tp-link-and-whatsapp-flaws-to.html))
+- CISA Adds TP-Link and WhatsApp Flaws to KEV Catalog Amid Active Exploitation ([4 days ago](https://thehackernews.com/2025/09/cisa-adds-tp-link-and-whatsapp-flaws-to.html))
 - Salesloft Takes Drift Offline After OAuth Token Theft Hits Hundreds of Organizations ([4 days ago](https://thehackernews.com/2025/09/salesloft-takes-drift-offline-after.html))
 - How big will this Drift get? Cloudflare cops to Salesloft Drift breach ([4 days ago](https://go.theregister.com/feed/www.theregister.com/2025/09/02/cloudflare_salesloft_drift_breach/))
 - Who watches the watchmen? Surveillanceware firms make bank, avoid oversight ([4 days ago](https://go.theregister.com/feed/www.theregister.com/2025/09/02/commercial_surveillanceware_safe/))
@@ -193,6 +193,5 @@ description: SecOps News
 - Automation improvements after a Tesla Powerwall outage! ([26 days ago](https://scotthelme.ghost.io/automation-improvements-after-a-tesla-powerwall-outage/))
 - KrebsOnSecurity in New ‘Most Wanted’ HBO Max Series ([29 days ago](https://krebsonsecurity.com/2025/08/krebsonsecurity-in-new-most-wanted-hbo-max-series/))
 - Data Protection Enforcement: Your Cookie Compliance Questions Answered ([29 days ago](https://www.itgovernance.co.uk/blog/data-protection-enforcement-your-cookie-compliance-questions-answered))
-- Unigame - 843,696 breached accounts ([29 days ago](https://haveibeenpwned.com/Breach/Unigame))
 
 <!-- news_marker ends -->
