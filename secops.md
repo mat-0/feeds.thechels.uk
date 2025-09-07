@@ -22,7 +22,7 @@ description: SecOps News
 - Malicious npm Packages Impersonate Flashbots, Steal Ethereum Wallet Keys ([1 days ago](https://thehackernews.com/2025/09/malicious-npm-packages-impersonate.html))
 - GOP Cries Censorship Over Spam Filters That Work ([1 days ago](https://krebsonsecurity.com/2025/09/gop-cries-censorship-over-spam-filters-that-work/))
 - OpenAI reorg at risk as Attorneys General push AI safety ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2025/09/05/openai_reorg_at_risk/))
-- Let us git rid of it, angry GitHub users say of forced Copilot features ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2025/09/05/github_copilot_complaints/))
+- Let us git rid of it, angry GitHub users say of forced Copilot features ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2025/09/05/github_copilot_complaints/))
 - If Broadcom is helping OpenAI build AI chips, here's what they might look like ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2025/09/05/openai_broadcom_ai_chips/))
 - The crazy, true story behind the first AI-powered ransomware ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2025/09/05/real_story_ai_ransomware_promptlock/))
 - The crazy, true story behind the first AI-powered ransomware ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2025/09/05/real_story_ai_ransomware_promptlock/))
@@ -91,7 +91,7 @@ description: SecOps News
 - Congressional panel throws cyber threat intel-sharing, funding a lifeline ([3 days ago](https://go.theregister.com/feed/www.theregister.com/2025/09/04/cyber_threat_intelsharing_funding_lifeline/))
 - Smashing Security podcast #433: How hackers turned AI into their new henchman ([3 days ago](https://grahamcluley.com/smashing-security-podcast-433/))
 - Android drops mega patch bomb - 120 fixes, two already exploited ([3 days ago](https://go.theregister.com/feed/www.theregister.com/2025/09/03/android_patch_september/))
-- Salesloft Drift Breach Rolls Up Cloudflare, Palo Alto, Zscaler, and Others ([3 days ago](https://databreaches.net/2025/09/03/salesloft-drift-breach-rolls-up-cloudflare-palo-alto-zscaler-and-others/?pk_campaign=feed&pk_kwd=salesloft-drift-breach-rolls-up-cloudflare-palo-alto-zscaler-and-others))
+- Salesloft Drift Breach Rolls Up Cloudflare, Palo Alto, Zscaler, and Others ([4 days ago](https://databreaches.net/2025/09/03/salesloft-drift-breach-rolls-up-cloudflare-palo-alto-zscaler-and-others/?pk_campaign=feed&pk_kwd=salesloft-drift-breach-rolls-up-cloudflare-palo-alto-zscaler-and-others))
 - Texas sues PowerSchool over breach compromising info of over 880,000 students, teachers ([4 days ago](https://databreaches.net/2025/09/03/texas-sues-powerschool-over-breach-compromising-info-of-over-880000-students-teachers/?pk_campaign=feed&pk_kwd=texas-sues-powerschool-over-breach-compromising-info-of-over-880000-students-teachers))
 - Crims claim HexStrike AI penetration tool makes quick work of Citrix bugs ([4 days ago](https://go.theregister.com/feed/www.theregister.com/2025/09/03/hexstrike_ai_citrix_exploits/))
 - Malicious npm Packages Exploit Ethereum Smart Contracts to Target Crypto Developers ([4 days ago](https://thehackernews.com/2025/09/malicious-npm-packages-exploit-ethereum.html))
@@ -131,7 +131,7 @@ description: SecOps News
 - Social Media: how to use it safely ([9 days ago](https://www.ncsc.gov.uk/guidance/social-media-how-to-use-it-safely))
 - Affiliates Flock to ‘Soulless’ Scam Gambling Machine ([10 days ago](https://krebsonsecurity.com/2025/08/affiliates-flock-to-soulless-scam-gambling-machine/))
 - Smashing Security podcast #432: Oops! I auto-filled my password into a cookie banner ([10 days ago](https://grahamcluley.com/smashing-security-podcast-432/))
-- Disruption with some GitHub services ([10 days ago](https://www.githubstatus.com/incidents/x7gtw6r3x2s1))
+- Disruption with some GitHub services ([11 days ago](https://www.githubstatus.com/incidents/x7gtw6r3x2s1))
 - Cephalus ransomware: What you need to know ([11 days ago](https://www.fortra.com/blog/cephalus-ransomware-what-you-need-know))
 - Home Assistant + Ubiquiti + AI = Home Automation Magic ([11 days ago](https://www.troyhunt.com/home-assistant-ubiquiti-ai-home-automation-magic/))
 - TheSqua.re - 107,041 breached accounts ([11 days ago](https://haveibeenpwned.com/Breach/TheSquare))
@@ -192,6 +192,5 @@ description: SecOps News
 - Weekly Update 464 ([26 days ago](https://www.troyhunt.com/weekly-update-464/))
 - Disruption with some GitHub services ([27 days ago](https://www.githubstatus.com/incidents/j2fdyn2v9df9))
 - Automation improvements after a Tesla Powerwall outage! ([27 days ago](https://scotthelme.ghost.io/automation-improvements-after-a-tesla-powerwall-outage/))
-- KrebsOnSecurity in New ‘Most Wanted’ HBO Max Series ([29 days ago](https://krebsonsecurity.com/2025/08/krebsonsecurity-in-new-most-wanted-hbo-max-series/))
 
 <!-- news_marker ends -->
