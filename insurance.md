@@ -8,8 +8,8 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Robust reinsurance & alternative solutions key as global P&C growth persists: Swiss Re ([14 hours ago](https://www.reinsurancene.ws/robust-reinsurance-alternative-solutions-key-as-global-pc-growth-persists-swiss-re/))
-- EU Regulation: Quick Note From Insurance Europe ([18 hours ago](https://insurance-edge.net/2025/09/06/eu-regulation-quick-note-from-insurance-europe/))
+- Robust reinsurance & alternative solutions key as global P&C growth persists: Swiss Re ([15 hours ago](https://www.reinsurancene.ws/robust-reinsurance-alternative-solutions-key-as-global-pc-growth-persists-swiss-re/))
+- EU Regulation: Quick Note From Insurance Europe ([19 hours ago](https://insurance-edge.net/2025/09/06/eu-regulation-quick-note-from-insurance-europe/))
 - Aon Agrees Sponsorship Deal With Scuderia Ferrari ([1 days ago](https://insurance-edge.net/2025/09/05/aon-agrees-sponsorship-deal-with-scuderia-ferrari/))
 - Points on Your Licence For Arachnophobia? It’s a Remote Possibility ([1 days ago](https://insurance-edge.net/2025/09/05/points-on-your-licence-for-arachnophobia-its-a-remote-possibility/))
 - New Global Risk Management Proposition From Aviva ([1 days ago](https://insurance-edge.net/2025/09/05/new-global-risk-management-proposition-from-aviva/))
@@ -65,7 +65,7 @@ description: Insurance Updates
 - Insurance moves: RSA, Open GI and McGill ([1 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/insurance-moves-rsa-open-gi-and-mcgill-548562.aspx))
 - Davies backs launch of Assurex Global London ([1 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/davies-backs-launch-of-assurex-global-london-548560.aspx))
 - Civil court backlogs shrink but insurance claims still face uneven delays ([1 days ago](https://www.insurancebusinessmag.com/uk/news/legal-insights/civil-court-backlogs-shrink-but-insurance-claims-still-face-uneven-delays-548558.aspx))
-- Tysers strikes deal for Türkiye’s Rönesans ([1 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/tysers-strikes-deal-for-turkiyes-ronesans-548557.aspx))
+- Tysers strikes deal for Türkiye’s Rönesans ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/tysers-strikes-deal-for-turkiyes-ronesans-548557.aspx))
 - Insurers need to stop treating fraud and CX as separate problems ([2 days ago](https://www.dig-in.com/opinion/insurers-to-stop-treating-fraud-and-cx-as-separate-problems))
 - Tech, transparency and the liquidity challenge in insurance ([2 days ago](https://www.dig-in.com/opinion/tech-transparency-and-liquidity-challenge-in-insurance))
 - HSB taps former DAS UK chief to lead its UK and Ireland operations ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/hsb-taps-former-das-uk-chief-to-lead-its-uk-and-ireland-operations-548501.aspx))
@@ -94,7 +94,7 @@ description: Insurance Updates
 - Q&A: Jeff Heine, Novidea ([2 days ago](https://www.postonline.co.uk/technology/7957699/qa-jeff-heine-novidea))
 - Insurance moves: AXA UK & Ireland and New Dawn Risk ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/insurance-moves-axa-uk-and-ireland-and-new-dawn-risk-548375.aspx))
 - Marine insurers update EV shipping guidance as fire risks evolve ([2 days ago](https://www.insurancebusinessmag.com/uk/news/marine/marine-insurers-update-ev-shipping-guidance-as-fire-risks-evolve-548373.aspx))
-- Race to the bottom? Van insurance premiums slide 20% year-on-year ([2 days ago](https://www.insurancebusinessmag.com/uk/news/auto-motor/race-to-the-bottom-van-insurance-premiums-slide-20-yearonyear-548371.aspx))
+- Race to the bottom? Van insurance premiums slide 20% year-on-year ([3 days ago](https://www.insurancebusinessmag.com/uk/news/auto-motor/race-to-the-bottom-van-insurance-premiums-slide-20-yearonyear-548371.aspx))
 - State Farm rate increase hits judicial headwinds ([3 days ago](https://www.dig-in.com/news/state-farm-rate-increase-hits-judicial-headwinds))
 - AI and data revolution in reinsurance underwriting ([3 days ago](https://www.dig-in.com/opinion/ai-and-data-revolution-in-reinsurance-underwriting))
 - Neptune Insurance files for IPO ([3 days ago](https://www.dig-in.com/articles/neptune-insurance-files-for-ipo))
