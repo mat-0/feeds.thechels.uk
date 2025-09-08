@@ -8,8 +8,8 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Celebrating 15 years of Yet Another Podcast ([19 hours ago](https://dotnetkicks.com/r/729155?url=https://jesseliberty.com/2025/09/07/celebrating-15-years-of-yet-another-podcast/))
-- Celebrating 15 years of Yet Another Podcast ([19 hours ago](https://dotnetkicks.com/r/729142?url=https://jesseliberty.com/2025/09/07/celebrating-15-years-of-yet-another-podcast/))
+- Celebrating 15 years of Yet Another Podcast ([20 hours ago](https://dotnetkicks.com/r/729155?url=https://jesseliberty.com/2025/09/07/celebrating-15-years-of-yet-another-podcast/))
+- Celebrating 15 years of Yet Another Podcast ([20 hours ago](https://dotnetkicks.com/r/729142?url=https://jesseliberty.com/2025/09/07/celebrating-15-years-of-yet-another-podcast/))
 - Boost Your .NET Projects: Efficient Byte Array Conversions ([1 days ago](https://dotnettips.wordpress.com/2025/09/07/boost-your-net-projects-efficient-byte-array-conversions/))
 - F# Weekly #36, 2025 - In Memory of Oleg Pyzhcov ([1 days ago](https://dotnetkicks.com/r/729107?url=https://sergeytihon.com/2025/09/06/f-weekly-36-2025-in-memory-of-oleg-pyzhcov/))
 - AI Injection Attacks ([2 days ago](https://dotnetkicks.com/r/729106?url=https://textslashplain.com/2025/09/05/ai-injection-attacks/))
