@@ -8,9 +8,10 @@ description: SecOps News
 [Get this as an RSS feed](/secops.rss)
 
 <!-- news_marker starts -->
-- All IT work to involve AI by 2030, says Gartner, but jobs are safe ([1 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/09/08/ai_impact_it_departments/))
+- Anthropic to pay at least $1.5 billion to authors whose work it knowingly pirated ([11 minutes ago](https://go.theregister.com/feed/www.theregister.com/2025/09/08/anthropic_settles_author_lawsuit/))
+- All IT work to involve AI by 2030, says Gartner, but jobs are safe ([2 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/09/08/ai_impact_it_departments/))
 - Google to make it easier to access AI Mode as default ([5 hours ago](https://www.bleepingcomputer.com/news/google/google-to-make-it-easier-to-access-ai-mode-as-default/))
-- ChatGPT makes Projects feature free, adds a toggle to split chat ([5 hours ago](https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-makes-projects-feature-free-adds-a-toggle-to-split-chat/))
+- ChatGPT makes Projects feature free, adds a toggle to split chat ([6 hours ago](https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-makes-projects-feature-free-adds-a-toggle-to-split-chat/))
 - Salesloft+Drift Update on Investigation Results ([9 hours ago](https://databreaches.net/2025/09/07/salesloftdrift-update-on-investigation-results/?pk_campaign=feed&pk_kwd=salesloftdrift-update-on-investigation-results))
 - iCloud Calendar abused to send phishing emails from Apple’s servers ([12 hours ago](https://www.bleepingcomputer.com/news/security/icloud-calendar-abused-to-send-phishing-emails-from-apples-servers/))
 - Czech cyber agency warns against Chinese tech in critical infrastructure ([15 hours ago](https://www.bleepingcomputer.com/news/security/czech-cyber-agency-warns-against-chinese-tech-in-critical-infrastructure/))
@@ -78,7 +79,6 @@ description: SecOps News
 - Apple Seeks Researchers for 2026 iPhone Security Program ([3 days ago](https://www.securityweek.com/apple-seeks-researchers-for-2026-iphone-security-program/))
 - PostgreSQL 18 eyes analytics boost and distributed future ([3 days ago](https://go.theregister.com/feed/www.theregister.com/2025/09/04/postgresql_18/))
 - Atlassian acquisition drives dream of AI-powered ChromeOS challenger ([3 days ago](https://go.theregister.com/feed/www.theregister.com/2025/09/04/atlassian_browser_company/))
-- Linux Lite relief: 7.6 keeps it simple, shiny, and mostly slim ([3 days ago](https://go.theregister.com/feed/www.theregister.com/2025/09/04/linux_lite_76/))
 - AI Supply Chain Attack Method Demonstrated Against Google, Microsoft Products ([3 days ago](https://www.securityweek.com/ai-supply-chain-attack-method-demonstrated-against-google-microsoft-products/))
 - US Offers $10 Million for Three Russian Energy Firm Hackers ([3 days ago](https://www.securityweek.com/us-offers-10-million-for-three-russian-energy-firm-hackers/))
 - Enterprises sticking with Windows 10 could shell out billions for continued support ([3 days ago](https://go.theregister.com/feed/www.theregister.com/2025/09/04/windows_10_esu_costs/))
