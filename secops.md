@@ -8,9 +8,9 @@ description: SecOps News
 [Get this as an RSS feed](/secops.rss)
 
 <!-- news_marker starts -->
-- All IT work to involve AI by 2030, says Gartner, but jobs are safe ([35 minutes ago](https://go.theregister.com/feed/www.theregister.com/2025/09/08/ai_impact_it_departments/))
+- All IT work to involve AI by 2030, says Gartner, but jobs are safe ([1 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/09/08/ai_impact_it_departments/))
 - Google to make it easier to access AI Mode as default ([4 hours ago](https://www.bleepingcomputer.com/news/google/google-to-make-it-easier-to-access-ai-mode-as-default/))
-- ChatGPT makes Projects feature free, adds a toggle to split chat ([4 hours ago](https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-makes-projects-feature-free-adds-a-toggle-to-split-chat/))
+- ChatGPT makes Projects feature free, adds a toggle to split chat ([5 hours ago](https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-makes-projects-feature-free-adds-a-toggle-to-split-chat/))
 - Salesloft+Drift Update on Investigation Results ([8 hours ago](https://databreaches.net/2025/09/07/salesloftdrift-update-on-investigation-results/?pk_campaign=feed&pk_kwd=salesloftdrift-update-on-investigation-results))
 - iCloud Calendar abused to send phishing emails from Apple’s servers ([11 hours ago](https://www.bleepingcomputer.com/news/security/icloud-calendar-abused-to-send-phishing-emails-from-apples-servers/))
 - Czech cyber agency warns against Chinese tech in critical infrastructure ([14 hours ago](https://www.bleepingcomputer.com/news/security/czech-cyber-agency-warns-against-chinese-tech-in-critical-infrastructure/))
