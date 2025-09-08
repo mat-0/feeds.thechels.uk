@@ -8,6 +8,7 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
+- An Improbable Recovery ([9 minutes ago](https://dotnetkicks.com/r/729268?url=https://textslashplain.com/2025/09/08/an-improbable-recovery/))
 - Celebrating 15 years of Yet Another Podcast ([1 days ago](https://dotnetkicks.com/r/729155?url=https://jesseliberty.com/2025/09/07/celebrating-15-years-of-yet-another-podcast/))
 - Celebrating 15 years of Yet Another Podcast ([1 days ago](https://dotnetkicks.com/r/729142?url=https://jesseliberty.com/2025/09/07/celebrating-15-years-of-yet-another-podcast/))
 - Boost Your .NET Projects: Efficient Byte Array Conversions ([1 days ago](https://dotnettips.wordpress.com/2025/09/07/boost-your-net-projects-efficient-byte-array-conversions/))
@@ -42,7 +43,6 @@ description: DotNet Updates
 - The Visual Studio August Update is here - smarter AI, better debugging, and more control - Visual Studio Blog ([13 days ago](https://dotnetkicks.com/r/728413?url=https://devblogs.microsoft.com/visualstudio/the-visual-studio-august-update-is-here-smarter-ai-better-debugging-and-more-control/))
 - Fixing an old .NET Core native library loading issue on Alpine ([13 days ago](https://dotnetkicks.com/r/728349?url=https://andrewlock.net/fixing-an-old-dotnet-core-native-library-loading-issue-on-alpine/))
 - Fixing an old .NET Core native library loading issue on Alpine ([13 days ago](https://andrewlock.net/fixing-an-old-dotnet-core-native-library-loading-issue-on-alpine/))
-- 2025 Summer Vacation ([14 days ago](https://dotnetkicks.com/r/728343?url=https://textslashplain.com/2025/08/25/2025-summer-vacation/))
 - MauiReactor: An MVU Approach for .NET MAUI ([14 days ago](https://devblogs.microsoft.com/dotnet/mauireactor-mvu-for-dotnet-maui/))
 - Boost Your .NET Projects: Harness the Power of Async Queues with Spargine’s ChannelQueue ([15 days ago](https://dotnettips.wordpress.com/2025/08/24/boost-your-net-projects-harness-the-power-of-async-queues-with-spargines-channelqueue/))
 - Enhance your CLI testing workflow with the new dotnet test ([18 days ago](https://devblogs.microsoft.com/dotnet/dotnet-test-with-mtp/))
