@@ -8,8 +8,8 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- The Facadeware Problem, But, Also, Help Me Beat My Car to Death ([18 minutes ago](https://dotnetkicks.com/r/729327?url=https://daedtech.com/the-facadeware-problem-but-also-help-me-beat-my-car-to-death/))
-- The Facadeware Problem, But, Also, Help Me Beat My Car to Death ([18 minutes ago](https://dotnetkicks.com/r/729323?url=https://daedtech.com/the-facadeware-problem-but-also-help-me-beat-my-car-to-death/))
+- The Facadeware Problem, But, Also, Help Me Beat My Car to Death ([49 minutes ago](https://dotnetkicks.com/r/729327?url=https://daedtech.com/the-facadeware-problem-but-also-help-me-beat-my-car-to-death/))
+- The Facadeware Problem, But, Also, Help Me Beat My Car to Death ([50 minutes ago](https://dotnetkicks.com/r/729323?url=https://daedtech.com/the-facadeware-problem-but-also-help-me-beat-my-car-to-death/))
 - Packaging self-contained and native AOT .NET tools for NuGet: Exploring the .NET 10 preview - Part 7 ([3 hours ago](https://dotnetkicks.com/r/729276?url=https://andrewlock.net/exploring-dotnet-10-preview-features-7-packaging-self-contained-and-native-aot-dotnet-tools-for-nuget/))
 - Packaging self-contained and native AOT .NET tools for NuGet: Exploring the .NET 10 preview - Part 7 ([4 hours ago](https://andrewlock.net/exploring-dotnet-10-preview-features-7-packaging-self-contained-and-native-aot-dotnet-tools-for-nuget/))
 - An Improbable Recovery ([15 hours ago](https://dotnetkicks.com/r/729268?url=https://textslashplain.com/2025/09/08/an-improbable-recovery/))
@@ -37,7 +37,7 @@ description: DotNet Updates
 - F# Weekly #35, 2025 - AI agents can write F#! ([9 days ago](https://dotnetkicks.com/r/728668?url=https://sergeytihon.com/2025/08/30/f-weekly-35-2025-ai-agents-can-write-f/))
 - Getting Started with the Aspire CLI - .NET Blog ([11 days ago](https://dotnetkicks.com/r/728623?url=https://devblogs.microsoft.com/dotnet/getting-started-with-the-aspire-cli/))
 - Getting Started with the Aspire CLI ([11 days ago](https://devblogs.microsoft.com/dotnet/getting-started-with-the-aspire-cli/))
-- The Easiest Way to Do OpenTelemetry in .NET: OTLP + Collector ([11 days ago](https://dotnetkicks.com/r/728599?url=https://petabridge.com/blog/easiest-opentelemetry-dotnet-otlp-collector/))
+- The Easiest Way to Do OpenTelemetry in .NET: OTLP + Collector ([12 days ago](https://dotnetkicks.com/r/728599?url=https://petabridge.com/blog/easiest-opentelemetry-dotnet-otlp-collector/))
 - ReSharper’s New Out-of-Process Engine Cuts Visual Studio startup UI freezes by 61% ([12 days ago](https://blog.jetbrains.com/dotnet/2025/08/28/resharper-s-new-out-of-process-engine-cuts-ui-freezes-in-visual-studio-by-80/))
 - Roadmap for AI in Visual Studio (September) - Visual Studio Blog ([12 days ago](https://dotnetkicks.com/r/728498?url=https://devblogs.microsoft.com/visualstudio/roadmap-for-ai-in-visual-studio-september/))
 - Roadmap for AI in Visual Studio (September) - Visual Studio Blog ([12 days ago](https://dotnetkicks.com/r/728482?url=https://devblogs.microsoft.com/visualstudio/roadmap-for-ai-in-visual-studio-september/))
@@ -56,7 +56,7 @@ description: DotNet Updates
 - ReSharper and the .NET Tools 2025.2 Are Out! ([26 days ago](https://blog.jetbrains.com/dotnet/2025/08/14/resharper-and-the-net-tools-2025-2-are-out/))
 - Rider 2025.2 Is Here with Junie, In-IDE OpenTelemetry, Game Dev Upgrades, and More ([26 days ago](https://blog.jetbrains.com/dotnet/2025/08/14/rider-2025-2-is-here-with-junie-in-ide-opentelemetry-game-dev-upgrades-and-more/))
 - .NET 10 Preview 7 is now available! ([27 days ago](https://devblogs.microsoft.com/dotnet/dotnet-10-preview-7/))
-- dotInsights  -  August 2025 ([27 days ago](https://blog.jetbrains.com/dotnet/2025/08/12/dotinsights-august-2025/))
+- dotInsights  -  August 2025 ([28 days ago](https://blog.jetbrains.com/dotnet/2025/08/12/dotinsights-august-2025/))
 - Running .NET in the browser without Blazor ([28 days ago](https://andrewlock.net/running-dotnet-in-the-browser-without-blazor/))
 
 <!-- news_marker ends -->
