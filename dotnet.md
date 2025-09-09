@@ -8,11 +8,11 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- The Facadeware Problem, But, Also, Help Me Beat My Car to Death ([1 hours ago](https://dotnetkicks.com/r/729327?url=https://daedtech.com/the-facadeware-problem-but-also-help-me-beat-my-car-to-death/))
-- The Facadeware Problem, But, Also, Help Me Beat My Car to Death ([1 hours ago](https://dotnetkicks.com/r/729323?url=https://daedtech.com/the-facadeware-problem-but-also-help-me-beat-my-car-to-death/))
-- Packaging self-contained and native AOT .NET tools for NuGet: Exploring the .NET 10 preview - Part 7 ([4 hours ago](https://dotnetkicks.com/r/729276?url=https://andrewlock.net/exploring-dotnet-10-preview-features-7-packaging-self-contained-and-native-aot-dotnet-tools-for-nuget/))
-- Packaging self-contained and native AOT .NET tools for NuGet: Exploring the .NET 10 preview - Part 7 ([5 hours ago](https://andrewlock.net/exploring-dotnet-10-preview-features-7-packaging-self-contained-and-native-aot-dotnet-tools-for-nuget/))
-- An Improbable Recovery ([16 hours ago](https://dotnetkicks.com/r/729268?url=https://textslashplain.com/2025/09/08/an-improbable-recovery/))
+- The Facadeware Problem, But, Also, Help Me Beat My Car to Death ([2 hours ago](https://dotnetkicks.com/r/729327?url=https://daedtech.com/the-facadeware-problem-but-also-help-me-beat-my-car-to-death/))
+- The Facadeware Problem, But, Also, Help Me Beat My Car to Death ([2 hours ago](https://dotnetkicks.com/r/729323?url=https://daedtech.com/the-facadeware-problem-but-also-help-me-beat-my-car-to-death/))
+- Packaging self-contained and native AOT .NET tools for NuGet: Exploring the .NET 10 preview - Part 7 ([5 hours ago](https://dotnetkicks.com/r/729276?url=https://andrewlock.net/exploring-dotnet-10-preview-features-7-packaging-self-contained-and-native-aot-dotnet-tools-for-nuget/))
+- Packaging self-contained and native AOT .NET tools for NuGet: Exploring the .NET 10 preview - Part 7 ([6 hours ago](https://andrewlock.net/exploring-dotnet-10-preview-features-7-packaging-self-contained-and-native-aot-dotnet-tools-for-nuget/))
+- An Improbable Recovery ([17 hours ago](https://dotnetkicks.com/r/729268?url=https://textslashplain.com/2025/09/08/an-improbable-recovery/))
 - Celebrating 15 years of Yet Another Podcast ([2 days ago](https://dotnetkicks.com/r/729155?url=https://jesseliberty.com/2025/09/07/celebrating-15-years-of-yet-another-podcast/))
 - Celebrating 15 years of Yet Another Podcast ([2 days ago](https://dotnetkicks.com/r/729142?url=https://jesseliberty.com/2025/09/07/celebrating-15-years-of-yet-another-podcast/))
 - Boost Your .NET Projects: Efficient Byte Array Conversions ([2 days ago](https://dotnettips.wordpress.com/2025/09/07/boost-your-net-projects-efficient-byte-array-conversions/))
