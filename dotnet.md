@@ -36,7 +36,7 @@ description: DotNet Updates
 - dotInsights  -  September 2025 ([7 days ago](https://blog.jetbrains.com/dotnet/2025/09/02/dotinsights-september-2025/))
 - Using and authoring .NET tools ([7 days ago](https://dotnetkicks.com/r/728763?url=https://andrewlock.net/using-and-authoring-dotnet-tools/))
 - Using and authoring .NET tools ([7 days ago](https://andrewlock.net/using-and-authoring-dotnet-tools/))
-- Faster &amp; More Reliable Integration Testing Against Marten Projections or Subscriptions ([8 days ago](https://dotnetkicks.com/r/728715?url=https://jeremydmiller.com/2025/08/19/faster-more-reliable-integration-testing-against-marten-projections-or-subscriptions/))
+- Faster &amp; More Reliable Integration Testing Against Marten Projections or Subscriptions ([9 days ago](https://dotnetkicks.com/r/728715?url=https://jeremydmiller.com/2025/08/19/faster-more-reliable-integration-testing-against-marten-projections-or-subscriptions/))
 - Mads K (Microsoft) on Visual Studio and VSCode ([9 days ago](https://dotnetkicks.com/r/728714?url=https://jesseliberty.com/2025/08/31/mads-k-microsoft-on-visual-studio-and-vscode/))
 - Boost Your .NET Projects: Find the Fastest Way to Get an Item’s Index in Arrays ([9 days ago](https://dotnettips.wordpress.com/2025/08/31/boost-your-net-projects-find-the-fastest-way-to-get-an-items-index-in-arrays/))
 - F# Weekly #35, 2025 - AI agents can write F#! ([10 days ago](https://dotnetkicks.com/r/728676?url=https://sergeytihon.com/2025/08/30/f-weekly-35-2025-ai-agents-can-write-f/))
