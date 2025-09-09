@@ -8,7 +8,7 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- An Improbable Recovery ([2 hours ago](https://dotnetkicks.com/r/729268?url=https://textslashplain.com/2025/09/08/an-improbable-recovery/))
+- An Improbable Recovery ([3 hours ago](https://dotnetkicks.com/r/729268?url=https://textslashplain.com/2025/09/08/an-improbable-recovery/))
 - Celebrating 15 years of Yet Another Podcast ([1 days ago](https://dotnetkicks.com/r/729155?url=https://jesseliberty.com/2025/09/07/celebrating-15-years-of-yet-another-podcast/))
 - Celebrating 15 years of Yet Another Podcast ([1 days ago](https://dotnetkicks.com/r/729142?url=https://jesseliberty.com/2025/09/07/celebrating-15-years-of-yet-another-podcast/))
 - Boost Your .NET Projects: Efficient Byte Array Conversions ([1 days ago](https://dotnettips.wordpress.com/2025/09/07/boost-your-net-projects-efficient-byte-array-conversions/))
@@ -18,7 +18,7 @@ description: DotNet Updates
 - Windowing overview for WinUI and Windows App SDK - Windows apps ([4 days ago](https://dotnetkicks.com/r/728956?url=https://learn.microsoft.com/en-us/windows/apps/develop/ui-input/windowing-overview))
 - The First Set of Updates and Fixes for ReSharper and Rider 2025.2 Is Out! ([4 days ago](https://blog.jetbrains.com/dotnet/2025/09/04/resharper-and-rider-2025-2-1-is-out/))
 - Composing Data from Multiple Services ([4 days ago](https://dotnetkicks.com/r/728934?url=https://codeopinion.com/composing-data-from-multiple-services/))
-- Live Stream Previewing Wolverine 5.0 on Thursday ([4 days ago](https://dotnetkicks.com/r/728887?url=https://jeremydmiller.com/2025/09/03/live-stream-previewing-wolverine-5-0-on-thursday/))
+- Live Stream Previewing Wolverine 5.0 on Thursday ([5 days ago](https://dotnetkicks.com/r/728887?url=https://jeremydmiller.com/2025/09/03/live-stream-previewing-wolverine-5-0-on-thursday/))
 - Let Copilot Coding Agent handle the busy work - .NET Blog ([5 days ago](https://dotnetkicks.com/r/728879?url=https://devblogs.microsoft.com/dotnet/copilot-coding-agent-dotnet/))
 - Let Copilot Coding Agent handle the busy work ([5 days ago](https://devblogs.microsoft.com/dotnet/copilot-coding-agent-dotnet/))
 - Boost Your Copilot Collaboration with Reusable Prompt Files - Visual Studio Blog ([6 days ago](https://dotnetkicks.com/r/728787?url=https://devblogs.microsoft.com/visualstudio/boost-your-copilot-collaboration-with-reusable-prompt-files/))
