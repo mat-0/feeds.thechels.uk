@@ -8,9 +8,9 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Announcing .NET 10 Release Candidate 1 - .NET Blog ([17 minutes ago](https://dotnetkicks.com/r/729367?url=https://devblogs.microsoft.com/dotnet/dotnet-10-rc-1/))
-- Announcing .NET 10 Release Candidate 1 - .NET Blog ([17 minutes ago](https://dotnetkicks.com/r/729363?url=https://devblogs.microsoft.com/dotnet/dotnet-10-rc-1/))
-- Announcing .NET 10 Release Candidate 1 ([21 minutes ago](https://devblogs.microsoft.com/dotnet/dotnet-10-rc-1/))
+- Announcing .NET 10 Release Candidate 1 - .NET Blog ([45 minutes ago](https://dotnetkicks.com/r/729367?url=https://devblogs.microsoft.com/dotnet/dotnet-10-rc-1/))
+- Announcing .NET 10 Release Candidate 1 - .NET Blog ([46 minutes ago](https://dotnetkicks.com/r/729363?url=https://devblogs.microsoft.com/dotnet/dotnet-10-rc-1/))
+- Announcing .NET 10 Release Candidate 1 ([49 minutes ago](https://devblogs.microsoft.com/dotnet/dotnet-10-rc-1/))
 - .NET and .NET Framework September 2025 servicing releases updates - .NET Blog ([1 hours ago](https://dotnetkicks.com/r/729354?url=https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-september-2025-servicing-updates/))
 - .NET and .NET Framework September 2025 servicing releases updates ([1 hours ago](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-september-2025-servicing-updates/))
 - The Facadeware Problem, But, Also, Help Me Beat My Car to Death ([5 hours ago](https://dotnetkicks.com/r/729327?url=https://daedtech.com/the-facadeware-problem-but-also-help-me-beat-my-car-to-death/))
