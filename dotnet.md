@@ -8,9 +8,9 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Ask Ralph: Where style meets AI-a new era of conversational commerce - Microsoft Industry Blogs ([1 hours ago](https://dotnetkicks.com/r/729479?url=https://www.microsoft.com/en-us/industry/blog/retail/2025/09/09/ask-ralph-where-style-meets-ai-a-new-era-of-conversational-commerce/))
+- Ask Ralph: Where style meets AI-a new era of conversational commerce - Microsoft Industry Blogs ([2 hours ago](https://dotnetkicks.com/r/729479?url=https://www.microsoft.com/en-us/industry/blog/retail/2025/09/09/ask-ralph-where-style-meets-ai-a-new-era-of-conversational-commerce/))
 - Cake.Sdk 5.0.25253.70-beta released ([2 hours ago](https://dotnetkicks.com/r/729475?url=https://cakebuild.net/blog/2025/09/cake-sdk-net-rc1-update))
-- Performance Improvements in .NET 10 ([9 hours ago](https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-10/))
+- Performance Improvements in .NET 10 ([10 hours ago](https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-10/))
 - Visual Studio 2026! with Mads Kristensen ([1 days ago](https://dotnetkicks.com/r/729393?url=https://jesseliberty.com/2025/09/09/visual-studio-2026-with-mads-kristensen/))
 - Announcing .NET 10 Release Candidate 1 - .NET Blog ([1 days ago](https://dotnetkicks.com/r/729367?url=https://devblogs.microsoft.com/dotnet/dotnet-10-rc-1/))
 - Announcing .NET 10 Release Candidate 1 - .NET Blog ([1 days ago](https://dotnetkicks.com/r/729363?url=https://devblogs.microsoft.com/dotnet/dotnet-10-rc-1/))
@@ -21,7 +21,7 @@ description: DotNet Updates
 - The Facadeware Problem, But, Also, Help Me Beat My Car to Death ([1 days ago](https://dotnetkicks.com/r/729323?url=https://daedtech.com/the-facadeware-problem-but-also-help-me-beat-my-car-to-death/))
 - Packaging self-contained and native AOT .NET tools for NuGet: Exploring the .NET 10 preview - Part 7 ([1 days ago](https://dotnetkicks.com/r/729276?url=https://andrewlock.net/exploring-dotnet-10-preview-features-7-packaging-self-contained-and-native-aot-dotnet-tools-for-nuget/))
 - Packaging self-contained and native AOT .NET tools for NuGet: Exploring the .NET 10 preview - Part 7 ([1 days ago](https://andrewlock.net/exploring-dotnet-10-preview-features-7-packaging-self-contained-and-native-aot-dotnet-tools-for-nuget/))
-- An Improbable Recovery ([1 days ago](https://dotnetkicks.com/r/729268?url=https://textslashplain.com/2025/09/08/an-improbable-recovery/))
+- An Improbable Recovery ([2 days ago](https://dotnetkicks.com/r/729268?url=https://textslashplain.com/2025/09/08/an-improbable-recovery/))
 - Celebrating 15 years of Yet Another Podcast ([3 days ago](https://dotnetkicks.com/r/729155?url=https://jesseliberty.com/2025/09/07/celebrating-15-years-of-yet-another-podcast/))
 - Celebrating 15 years of Yet Another Podcast ([3 days ago](https://dotnetkicks.com/r/729142?url=https://jesseliberty.com/2025/09/07/celebrating-15-years-of-yet-another-podcast/))
 - Boost Your .NET Projects: Efficient Byte Array Conversions ([3 days ago](https://dotnettips.wordpress.com/2025/09/07/boost-your-net-projects-efficient-byte-array-conversions/))
