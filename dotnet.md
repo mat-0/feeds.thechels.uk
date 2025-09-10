@@ -57,7 +57,7 @@ description: DotNet Updates
 - Next-Level Performance Improvements in ReSharper 2025.2 ([27 days ago](https://blog.jetbrains.com/dotnet/2025/08/14/resharper-performance-improvements-2025/))
 - ReSharper and the .NET Tools 2025.2 Are Out! ([27 days ago](https://blog.jetbrains.com/dotnet/2025/08/14/resharper-and-the-net-tools-2025-2-are-out/))
 - Rider 2025.2 Is Here with Junie, In-IDE OpenTelemetry, Game Dev Upgrades, and More ([27 days ago](https://blog.jetbrains.com/dotnet/2025/08/14/rider-2025-2-is-here-with-junie-in-ide-opentelemetry-game-dev-upgrades-and-more/))
-- dotInsights  -  August 2025 ([28 days ago](https://blog.jetbrains.com/dotnet/2025/08/12/dotinsights-august-2025/))
+- dotInsights  -  August 2025 ([29 days ago](https://blog.jetbrains.com/dotnet/2025/08/12/dotinsights-august-2025/))
 - Running .NET in the browser without Blazor ([29 days ago](https://andrewlock.net/running-dotnet-in-the-browser-without-blazor/))
 
 <!-- news_marker ends -->
