@@ -8,8 +8,8 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Performance Improvements in .NET 10 ([6 hours ago](https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-10/))
-- Visual Studio 2026! with Mads Kristensen ([22 hours ago](https://dotnetkicks.com/r/729393?url=https://jesseliberty.com/2025/09/09/visual-studio-2026-with-mads-kristensen/))
+- Performance Improvements in .NET 10 ([7 hours ago](https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-10/))
+- Visual Studio 2026! with Mads Kristensen ([23 hours ago](https://dotnetkicks.com/r/729393?url=https://jesseliberty.com/2025/09/09/visual-studio-2026-with-mads-kristensen/))
 - Announcing .NET 10 Release Candidate 1 - .NET Blog ([1 days ago](https://dotnetkicks.com/r/729367?url=https://devblogs.microsoft.com/dotnet/dotnet-10-rc-1/))
 - Announcing .NET 10 Release Candidate 1 - .NET Blog ([1 days ago](https://dotnetkicks.com/r/729363?url=https://devblogs.microsoft.com/dotnet/dotnet-10-rc-1/))
 - Announcing .NET 10 Release Candidate 1 ([1 days ago](https://devblogs.microsoft.com/dotnet/dotnet-10-rc-1/))
