@@ -9,7 +9,7 @@ description: DotNet Updates
 
 <!-- news_marker starts -->
 - Ask Ralph: Where style meets AI-a new era of conversational commerce - Microsoft Industry Blogs ([17 hours ago](https://dotnetkicks.com/r/729479?url=https://www.microsoft.com/en-us/industry/blog/retail/2025/09/09/ask-ralph-where-style-meets-ai-a-new-era-of-conversational-commerce/))
-- Cake.Sdk 5.0.25253.70-beta released ([17 hours ago](https://dotnetkicks.com/r/729475?url=https://cakebuild.net/blog/2025/09/cake-sdk-net-rc1-update))
+- Cake.Sdk 5.0.25253.70-beta released ([18 hours ago](https://dotnetkicks.com/r/729475?url=https://cakebuild.net/blog/2025/09/cake-sdk-net-rc1-update))
 - Performance Improvements in .NET 10 ([1 days ago](https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-10/))
 - Visual Studio 2026! with Mads Kristensen ([1 days ago](https://dotnetkicks.com/r/729393?url=https://jesseliberty.com/2025/09/09/visual-studio-2026-with-mads-kristensen/))
 - Announcing .NET 10 Release Candidate 1 - .NET Blog ([1 days ago](https://dotnetkicks.com/r/729367?url=https://devblogs.microsoft.com/dotnet/dotnet-10-rc-1/))
@@ -57,6 +57,5 @@ description: DotNet Updates
 - Next-Level Performance Improvements in ReSharper 2025.2 ([28 days ago](https://blog.jetbrains.com/dotnet/2025/08/14/resharper-performance-improvements-2025/))
 - ReSharper and the .NET Tools 2025.2 Are Out! ([28 days ago](https://blog.jetbrains.com/dotnet/2025/08/14/resharper-and-the-net-tools-2025-2-are-out/))
 - Rider 2025.2 Is Here with Junie, In-IDE OpenTelemetry, Game Dev Upgrades, and More ([28 days ago](https://blog.jetbrains.com/dotnet/2025/08/14/rider-2025-2-is-here-with-junie-in-ide-opentelemetry-game-dev-upgrades-and-more/))
-- dotInsights  -  August 2025 ([29 days ago](https://blog.jetbrains.com/dotnet/2025/08/12/dotinsights-august-2025/))
 
 <!-- news_marker ends -->
