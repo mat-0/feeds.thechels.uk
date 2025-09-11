@@ -9,7 +9,7 @@ description: DotNet Updates
 
 <!-- news_marker starts -->
 - Ask Ralph: Where style meets AI-a new era of conversational commerce - Microsoft Industry Blogs ([14 hours ago](https://dotnetkicks.com/r/729479?url=https://www.microsoft.com/en-us/industry/blog/retail/2025/09/09/ask-ralph-where-style-meets-ai-a-new-era-of-conversational-commerce/))
-- Cake.Sdk 5.0.25253.70-beta released ([14 hours ago](https://dotnetkicks.com/r/729475?url=https://cakebuild.net/blog/2025/09/cake-sdk-net-rc1-update))
+- Cake.Sdk 5.0.25253.70-beta released ([15 hours ago](https://dotnetkicks.com/r/729475?url=https://cakebuild.net/blog/2025/09/cake-sdk-net-rc1-update))
 - Performance Improvements in .NET 10 ([22 hours ago](https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-10/))
 - Visual Studio 2026! with Mads Kristensen ([1 days ago](https://dotnetkicks.com/r/729393?url=https://jesseliberty.com/2025/09/09/visual-studio-2026-with-mads-kristensen/))
 - Announcing .NET 10 Release Candidate 1 - .NET Blog ([1 days ago](https://dotnetkicks.com/r/729367?url=https://devblogs.microsoft.com/dotnet/dotnet-10-rc-1/))
