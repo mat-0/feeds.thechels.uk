@@ -8,7 +8,7 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Ask Ralph: Where style meets AI-a new era of conversational commerce - Microsoft Industry Blogs ([17 hours ago](https://dotnetkicks.com/r/729479?url=https://www.microsoft.com/en-us/industry/blog/retail/2025/09/09/ask-ralph-where-style-meets-ai-a-new-era-of-conversational-commerce/))
+- Ask Ralph: Where style meets AI-a new era of conversational commerce - Microsoft Industry Blogs ([18 hours ago](https://dotnetkicks.com/r/729479?url=https://www.microsoft.com/en-us/industry/blog/retail/2025/09/09/ask-ralph-where-style-meets-ai-a-new-era-of-conversational-commerce/))
 - Cake.Sdk 5.0.25253.70-beta released ([18 hours ago](https://dotnetkicks.com/r/729475?url=https://cakebuild.net/blog/2025/09/cake-sdk-net-rc1-update))
 - Performance Improvements in .NET 10 ([1 days ago](https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-10/))
 - Visual Studio 2026! with Mads Kristensen ([1 days ago](https://dotnetkicks.com/r/729393?url=https://jesseliberty.com/2025/09/09/visual-studio-2026-with-mads-kristensen/))
@@ -27,9 +27,9 @@ description: DotNet Updates
 - Boost Your .NET Projects: Efficient Byte Array Conversions ([4 days ago](https://dotnettips.wordpress.com/2025/09/07/boost-your-net-projects-efficient-byte-array-conversions/))
 - F# Weekly #36, 2025 - In Memory of Oleg Pyzhcov ([4 days ago](https://dotnetkicks.com/r/729107?url=https://sergeytihon.com/2025/09/06/f-weekly-36-2025-in-memory-of-oleg-pyzhcov/))
 - AI Injection Attacks ([5 days ago](https://dotnetkicks.com/r/729106?url=https://textslashplain.com/2025/09/05/ai-injection-attacks/))
-- Sneak Peek at the SignalR Integration in Wolverine 5.0 ([5 days ago](https://dotnetkicks.com/r/729074?url=https://jeremydmiller.com/2025/09/05/sneak-peek-at-the-signalr-integration-in-wolverine-5-0/))
+- Sneak Peek at the SignalR Integration in Wolverine 5.0 ([6 days ago](https://dotnetkicks.com/r/729074?url=https://jeremydmiller.com/2025/09/05/sneak-peek-at-the-signalr-integration-in-wolverine-5-0/))
 - Windowing overview for WinUI and Windows App SDK - Windows apps ([6 days ago](https://dotnetkicks.com/r/728956?url=https://learn.microsoft.com/en-us/windows/apps/develop/ui-input/windowing-overview))
-- The First Set of Updates and Fixes for ReSharper and Rider 2025.2 Is Out! ([6 days ago](https://blog.jetbrains.com/dotnet/2025/09/04/resharper-and-rider-2025-2-1-is-out/))
+- The First Set of Updates and Fixes for ReSharper and Rider 2025.2 Is Out! ([7 days ago](https://blog.jetbrains.com/dotnet/2025/09/04/resharper-and-rider-2025-2-1-is-out/))
 - Composing Data from Multiple Services ([7 days ago](https://dotnetkicks.com/r/728934?url=https://codeopinion.com/composing-data-from-multiple-services/))
 - Live Stream Previewing Wolverine 5.0 on Thursday ([7 days ago](https://dotnetkicks.com/r/728887?url=https://jeremydmiller.com/2025/09/03/live-stream-previewing-wolverine-5-0-on-thursday/))
 - Let Copilot Coding Agent handle the busy work - .NET Blog ([7 days ago](https://dotnetkicks.com/r/728879?url=https://devblogs.microsoft.com/dotnet/copilot-coding-agent-dotnet/))
