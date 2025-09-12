@@ -8,8 +8,8 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Democratizing Performance: The Copilot Profiler Agent in Action on Real Code - Visual Studio Blog ([17 hours ago](https://dotnetkicks.com/r/729582?url=https://devblogs.microsoft.com/visualstudio/copilot-profiler-agent-visual-studio/))
-- Democratizing Performance: The Copilot Profiler Agent in Action on Real Code - Visual Studio Blog ([17 hours ago](https://dotnetkicks.com/r/729572?url=https://devblogs.microsoft.com/visualstudio/copilot-profiler-agent-visual-studio/))
+- Democratizing Performance: The Copilot Profiler Agent in Action on Real Code - Visual Studio Blog ([18 hours ago](https://dotnetkicks.com/r/729582?url=https://devblogs.microsoft.com/visualstudio/copilot-profiler-agent-visual-studio/))
+- Democratizing Performance: The Copilot Profiler Agent in Action on Real Code - Visual Studio Blog ([18 hours ago](https://dotnetkicks.com/r/729572?url=https://devblogs.microsoft.com/visualstudio/copilot-profiler-agent-visual-studio/))
 - Ask Ralph: Where style meets AI-a new era of conversational commerce - Microsoft Industry Blogs ([1 days ago](https://dotnetkicks.com/r/729479?url=https://www.microsoft.com/en-us/industry/blog/retail/2025/09/09/ask-ralph-where-style-meets-ai-a-new-era-of-conversational-commerce/))
 - Cake.Sdk 5.0.25253.70-beta released ([1 days ago](https://dotnetkicks.com/r/729475?url=https://cakebuild.net/blog/2025/09/cake-sdk-net-rc1-update))
 - Performance Improvements in .NET 10 ([1 days ago](https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-10/))
@@ -39,7 +39,7 @@ description: DotNet Updates
 - Boost Your Copilot Collaboration with Reusable Prompt Files - Visual Studio Blog ([9 days ago](https://dotnetkicks.com/r/728787?url=https://devblogs.microsoft.com/visualstudio/boost-your-copilot-collaboration-with-reusable-prompt-files/))
 - Boost Your Copilot Collaboration with Reusable Prompt Files - Visual Studio Blog ([9 days ago](https://dotnetkicks.com/r/728783?url=https://devblogs.microsoft.com/visualstudio/boost-your-copilot-collaboration-with-reusable-prompt-files/))
 - dotInsights  -  September 2025 ([9 days ago](https://blog.jetbrains.com/dotnet/2025/09/02/dotinsights-september-2025/))
-- Using and authoring .NET tools ([9 days ago](https://dotnetkicks.com/r/728763?url=https://andrewlock.net/using-and-authoring-dotnet-tools/))
+- Using and authoring .NET tools ([10 days ago](https://dotnetkicks.com/r/728763?url=https://andrewlock.net/using-and-authoring-dotnet-tools/))
 - Using and authoring .NET tools ([10 days ago](https://andrewlock.net/using-and-authoring-dotnet-tools/))
 - Faster &amp; More Reliable Integration Testing Against Marten Projections or Subscriptions ([11 days ago](https://dotnetkicks.com/r/728715?url=https://jeremydmiller.com/2025/08/19/faster-more-reliable-integration-testing-against-marten-projections-or-subscriptions/))
 - Boost Your .NET Projects: Find the Fastest Way to Get an Item’s Index in Arrays ([12 days ago](https://dotnettips.wordpress.com/2025/08/31/boost-your-net-projects-find-the-fastest-way-to-get-an-items-index-in-arrays/))
