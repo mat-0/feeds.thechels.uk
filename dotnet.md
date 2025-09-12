@@ -8,8 +8,8 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Democratizing Performance: The Copilot Profiler Agent in Action on Real Code - Visual Studio Blog ([12 hours ago](https://dotnetkicks.com/r/729582?url=https://devblogs.microsoft.com/visualstudio/copilot-profiler-agent-visual-studio/))
-- Democratizing Performance: The Copilot Profiler Agent in Action on Real Code - Visual Studio Blog ([12 hours ago](https://dotnetkicks.com/r/729572?url=https://devblogs.microsoft.com/visualstudio/copilot-profiler-agent-visual-studio/))
+- Democratizing Performance: The Copilot Profiler Agent in Action on Real Code - Visual Studio Blog ([13 hours ago](https://dotnetkicks.com/r/729582?url=https://devblogs.microsoft.com/visualstudio/copilot-profiler-agent-visual-studio/))
+- Democratizing Performance: The Copilot Profiler Agent in Action on Real Code - Visual Studio Blog ([13 hours ago](https://dotnetkicks.com/r/729572?url=https://devblogs.microsoft.com/visualstudio/copilot-profiler-agent-visual-studio/))
 - Ask Ralph: Where style meets AI-a new era of conversational commerce - Microsoft Industry Blogs ([1 days ago](https://dotnetkicks.com/r/729479?url=https://www.microsoft.com/en-us/industry/blog/retail/2025/09/09/ask-ralph-where-style-meets-ai-a-new-era-of-conversational-commerce/))
 - Cake.Sdk 5.0.25253.70-beta released ([1 days ago](https://dotnetkicks.com/r/729475?url=https://cakebuild.net/blog/2025/09/cake-sdk-net-rc1-update))
 - Performance Improvements in .NET 10 ([1 days ago](https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-10/))
@@ -27,8 +27,8 @@ description: DotNet Updates
 - Celebrating 15 years of Yet Another Podcast ([4 days ago](https://dotnetkicks.com/r/729155?url=https://jesseliberty.com/2025/09/07/celebrating-15-years-of-yet-another-podcast/))
 - Celebrating 15 years of Yet Another Podcast ([4 days ago](https://dotnetkicks.com/r/729142?url=https://jesseliberty.com/2025/09/07/celebrating-15-years-of-yet-another-podcast/))
 - Boost Your .NET Projects: Efficient Byte Array Conversions ([4 days ago](https://dotnettips.wordpress.com/2025/09/07/boost-your-net-projects-efficient-byte-array-conversions/))
-- F# Weekly #36, 2025 - In Memory of Oleg Pyzhcov ([4 days ago](https://dotnetkicks.com/r/729107?url=https://sergeytihon.com/2025/09/06/f-weekly-36-2025-in-memory-of-oleg-pyzhcov/))
-- AI Injection Attacks ([5 days ago](https://dotnetkicks.com/r/729106?url=https://textslashplain.com/2025/09/05/ai-injection-attacks/))
+- F# Weekly #36, 2025 - In Memory of Oleg Pyzhcov ([5 days ago](https://dotnetkicks.com/r/729107?url=https://sergeytihon.com/2025/09/06/f-weekly-36-2025-in-memory-of-oleg-pyzhcov/))
+- AI Injection Attacks ([6 days ago](https://dotnetkicks.com/r/729106?url=https://textslashplain.com/2025/09/05/ai-injection-attacks/))
 - Sneak Peek at the SignalR Integration in Wolverine 5.0 ([6 days ago](https://dotnetkicks.com/r/729074?url=https://jeremydmiller.com/2025/09/05/sneak-peek-at-the-signalr-integration-in-wolverine-5-0/))
 - Windowing overview for WinUI and Windows App SDK - Windows apps ([7 days ago](https://dotnetkicks.com/r/728956?url=https://learn.microsoft.com/en-us/windows/apps/develop/ui-input/windowing-overview))
 - The First Set of Updates and Fixes for ReSharper and Rider 2025.2 Is Out! ([7 days ago](https://blog.jetbrains.com/dotnet/2025/09/04/resharper-and-rider-2025-2-1-is-out/))
