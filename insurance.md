@@ -9,7 +9,7 @@ description: Insurance Updates
 
 <!-- news_marker starts -->
 - LSM Announces Changes in MENA and UK Units ([11 hours ago](https://insurance-edge.net/2025/09/13/lsm-announces-changes-in-mena-and-uk-units/))
-- Another Client Win For Neutrinos ([21 hours ago](https://insurance-edge.net/2025/09/12/another-client-win-for-neutrinos/))
+- Another Client Win For Neutrinos ([22 hours ago](https://insurance-edge.net/2025/09/12/another-client-win-for-neutrinos/))
 - FM Picks Up TIME Magazine Award ([1 days ago](https://insurance-edge.net/2025/09/12/fm-picks-up-time-magazine-award/))
 - Cybersecurity and the iGaming Industry: Protecting Against Emerging Threats ([1 days ago](https://insurance-edge.net/2025/09/12/cybersecurity-and-the-igaming-industry-protecting-against-emerging-threats/))
 - Zywave Launches Suite of Innovations ([1 days ago](https://insurance-edge.net/2025/09/12/zywave-launches-suite-of-innovations/))
@@ -67,7 +67,7 @@ description: Insurance Updates
 - JMG Group adds three brokers to portfolio ([1 days ago](https://www.insurancebusinessmag.com/uk/news/mergers-acquisitions/jmg-group-adds-three-brokers-to-portfolio-549430.aspx))
 - Specialist Risk Group acquires James Hirst team ([1 days ago](https://www.insurancebusinessmag.com/uk/news/mergers-acquisitions/specialist-risk-group-acquires-james-hirst-team-549429.aspx))
 - DUAL Europe enters cargo market with new insurance offering ([1 days ago](https://www.insurancebusinessmag.com/uk/news/marine/dual-europe-enters-cargo-market-with-new-insurance-offering-549427.aspx))
-- Power companies confront rising demand amid fragile grids ([1 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/power-companies-confront-rising-demand-amid-fragile-grids-549405.aspx))
+- Power companies confront rising demand amid fragile grids ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/power-companies-confront-rising-demand-amid-fragile-grids-549405.aspx))
 - FEMA cuts bring war for disaster mitigation and recovery resources ([2 days ago](https://www.dig-in.com/news/fema-cuts-bring-war-for-disaster-mitigation-resources))
 - Emerging technology in workers' compensation insurance ([2 days ago](https://www.dig-in.com/podcast/emerging-technology-in-workers-compensation-insurance))
 - Allianz X Leads Strategic Investment in Coterie Insurance, Expands Reinsurance Partnership ([2 days ago](https://www.insurtechinsights.com/allianz-x-leads-strategic-investment-in-coterie-insurance-expands-reinsurance-partnership/))
@@ -98,8 +98,8 @@ description: Insurance Updates
 - Insurance moves: Arch Insurance, Sicsic Advisory, Willis and Davies ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/insurance-moves-arch-insurance-sicsic-advisory-willis-and-davies-549260.aspx))
 - Weight-loss drugs spark insurance disclosure dilemma ([2 days ago](https://www.insurancebusinessmag.com/uk/news/life-insurance/weightloss-drugs-spark-insurance-disclosure-dilemma-549259.aspx))
 - AXA reveals winners of Startup Angel Awards ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/axa-reveals-winners-of-startup-angel-awards-549255.aspx))
-- Insurtech takes on 'document chaos' with Gen AI ([2 days ago](https://www.dig-in.com/news/insurtech-takes-on-document-chaos-with-gen-ai))
-- How tech is changing fraud detection ([2 days ago](https://www.dig-in.com/opinion/how-tech-is-changing-fraud-detection))
+- Insurtech takes on 'document chaos' with Gen AI ([3 days ago](https://www.dig-in.com/news/insurtech-takes-on-document-chaos-with-gen-ai))
+- How tech is changing fraud detection ([3 days ago](https://www.dig-in.com/opinion/how-tech-is-changing-fraud-detection))
 - GOP senators punch big banks during deposit insurance panel ([3 days ago](https://www.dig-in.com/news/gop-senators-punch-big-banks-during-deposit-insurance-panel))
 - 'Promotion recession' driving high performers to leave ([3 days ago](https://www.insurancebusinessmag.com/uk/business-strategy/promotion-recession-driving-high-performers-to-leave-549218.aspx))
 - AI agents could join insurance workforce within next three years ([3 days ago](https://www.postonline.co.uk/news/7958997/ai-agents-could-join-insurance-workforce-within-next-three-years))
