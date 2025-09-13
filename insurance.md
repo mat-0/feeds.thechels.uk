@@ -8,7 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- LSM Announces Changes in MENA and UK Units ([11 hours ago](https://insurance-edge.net/2025/09/13/lsm-announces-changes-in-mena-and-uk-units/))
+- LSM Announces Changes in MENA and UK Units ([12 hours ago](https://insurance-edge.net/2025/09/13/lsm-announces-changes-in-mena-and-uk-units/))
 - Another Client Win For Neutrinos ([22 hours ago](https://insurance-edge.net/2025/09/12/another-client-win-for-neutrinos/))
 - FM Picks Up TIME Magazine Award ([1 days ago](https://insurance-edge.net/2025/09/12/fm-picks-up-time-magazine-award/))
 - Cybersecurity and the iGaming Industry: Protecting Against Emerging Threats ([1 days ago](https://insurance-edge.net/2025/09/12/cybersecurity-and-the-igaming-industry-protecting-against-emerging-threats/))
@@ -123,8 +123,8 @@ description: Insurance Updates
 - Diversity and Inclusion In Insurance Awards 2025 shortlist revealed ([4 days ago](https://www.postonline.co.uk/people/7958962/diversity-and-inclusion-in-insurance-awards-2025-shortlist-revealed))
 - Shepherds Friendly partners with Alula Technologies to future-proof underwriting ([4 days ago](https://ifamagazine.com/shepherds-friendly-partners-with-alula-technologies-to-future-proof-underwriting/))
 - Duncan Pagan appointed CEO at Hedron ([4 days ago](https://www.postonline.co.uk/broker/7958984/duncan-pagan-appointed-ceo-at-hedron))
-- Morgan Stanley ups its insurance game with athletes, retired boomers ([4 days ago](https://www.dig-in.com/news/morgan-stanley-sees-big-role-for-fas-with-insurance-products))
-- Top insurtech funding rounds, August 2025 ([4 days ago](https://www.dig-in.com/list/top-insurtech-funding-rounds-august-2025))
+- Morgan Stanley ups its insurance game with athletes, retired boomers ([5 days ago](https://www.dig-in.com/news/morgan-stanley-sees-big-role-for-fas-with-insurance-products))
+- Top insurtech funding rounds, August 2025 ([5 days ago](https://www.dig-in.com/list/top-insurtech-funding-rounds-august-2025))
 - GRiD: Government’s announcement on thousands of sick and disabled people to get life-changing support into work ([5 days ago](https://ifamagazine.com/grid-governments-announcement-on-thousands-of-sick-and-disabled-people-to-get-life-changing-support-into-work/))
 - Scottish Widows bolsters protection distribution team ([5 days ago](https://ifamagazine.com/scottish-widows-bolsters-protection-distribution-team/))
 - LifeSearch appoints new CIO to lead tech transformation ([5 days ago](https://ifamagazine.com/lifesearch-appoints-new-cio-to-lead-tech-transformation/))
