@@ -9,7 +9,7 @@ description: Insurance Updates
 
 <!-- news_marker starts -->
 - LSM Announces Changes in MENA and UK Units ([13 hours ago](https://insurance-edge.net/2025/09/13/lsm-announces-changes-in-mena-and-uk-units/))
-- Another Client Win For Neutrinos ([23 hours ago](https://insurance-edge.net/2025/09/12/another-client-win-for-neutrinos/))
+- Another Client Win For Neutrinos ([1 days ago](https://insurance-edge.net/2025/09/12/another-client-win-for-neutrinos/))
 - FM Picks Up TIME Magazine Award ([1 days ago](https://insurance-edge.net/2025/09/12/fm-picks-up-time-magazine-award/))
 - Cybersecurity and the iGaming Industry: Protecting Against Emerging Threats ([1 days ago](https://insurance-edge.net/2025/09/12/cybersecurity-and-the-igaming-industry-protecting-against-emerging-threats/))
 - Zywave Launches Suite of Innovations ([1 days ago](https://insurance-edge.net/2025/09/12/zywave-launches-suite-of-innovations/))
