@@ -9,11 +9,11 @@ description: Insurance Updates
 
 <!-- news_marker starts -->
 - LSM Announces Changes in MENA and UK Units ([9 hours ago](https://insurance-edge.net/2025/09/13/lsm-announces-changes-in-mena-and-uk-units/))
-- Another Client Win For Neutrinos ([19 hours ago](https://insurance-edge.net/2025/09/12/another-client-win-for-neutrinos/))
+- Another Client Win For Neutrinos ([20 hours ago](https://insurance-edge.net/2025/09/12/another-client-win-for-neutrinos/))
 - FM Picks Up TIME Magazine Award ([22 hours ago](https://insurance-edge.net/2025/09/12/fm-picks-up-time-magazine-award/))
 - Cybersecurity and the iGaming Industry: Protecting Against Emerging Threats ([22 hours ago](https://insurance-edge.net/2025/09/12/cybersecurity-and-the-igaming-industry-protecting-against-emerging-threats/))
 - Zywave Launches Suite of Innovations ([22 hours ago](https://insurance-edge.net/2025/09/12/zywave-launches-suite-of-innovations/))
-- Sun Life Launches Two New Life Insurance Products ([22 hours ago](https://insurance-edge.net/2025/09/12/sun-life-launches-two-new-life-insurance-products/))
+- Sun Life Launches Two New Life Insurance Products ([23 hours ago](https://insurance-edge.net/2025/09/12/sun-life-launches-two-new-life-insurance-products/))
 - Fundamentals of the Financial Protection (RO5) and how it supports clients ([1 days ago](https://www.insurancebusinessmag.com/uk/guides/fundamentals-of-the-financial-protection-ro5-and-how-it-supports-clients-549550.aspx))
 - Missouri to Requires Insurers to Register with New Uninsured Motorist Program ([1 days ago](https://www.insurancejournal.com/news/midwest/2025/09/12/839036.htm))
 - Texas Insurer New Century Placed in Receivership and Liquidation ([1 days ago](https://www.insurancejournal.com/news/southcentral/2025/09/12/839025.htm))
