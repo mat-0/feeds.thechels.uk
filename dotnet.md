@@ -41,7 +41,7 @@ description: DotNet Updates
 - dotInsights  -  September 2025 ([11 days ago](https://blog.jetbrains.com/dotnet/2025/09/02/dotinsights-september-2025/))
 - Using and authoring .NET tools ([11 days ago](https://dotnetkicks.com/r/728763?url=https://andrewlock.net/using-and-authoring-dotnet-tools/))
 - Using and authoring .NET tools ([11 days ago](https://andrewlock.net/using-and-authoring-dotnet-tools/))
-- Faster &amp; More Reliable Integration Testing Against Marten Projections or Subscriptions ([12 days ago](https://dotnetkicks.com/r/728715?url=https://jeremydmiller.com/2025/08/19/faster-more-reliable-integration-testing-against-marten-projections-or-subscriptions/))
+- Faster &amp; More Reliable Integration Testing Against Marten Projections or Subscriptions ([13 days ago](https://dotnetkicks.com/r/728715?url=https://jeremydmiller.com/2025/08/19/faster-more-reliable-integration-testing-against-marten-projections-or-subscriptions/))
 - Boost Your .NET Projects: Find the Fastest Way to Get an Item’s Index in Arrays ([13 days ago](https://dotnettips.wordpress.com/2025/08/31/boost-your-net-projects-find-the-fastest-way-to-get-an-items-index-in-arrays/))
 - Getting Started with the Aspire CLI ([16 days ago](https://devblogs.microsoft.com/dotnet/getting-started-with-the-aspire-cli/))
 - ReSharper’s New Out-of-Process Engine Cuts Visual Studio startup UI freezes by 61% ([16 days ago](https://blog.jetbrains.com/dotnet/2025/08/28/resharper-s-new-out-of-process-engine-cuts-ui-freezes-in-visual-studio-by-80/))
