@@ -9,7 +9,7 @@ description: Insurance Updates
 
 <!-- news_marker starts -->
 - LSM Announces Changes in MENA and UK Units ([12 hours ago](https://insurance-edge.net/2025/09/13/lsm-announces-changes-in-mena-and-uk-units/))
-- Another Client Win For Neutrinos ([22 hours ago](https://insurance-edge.net/2025/09/12/another-client-win-for-neutrinos/))
+- Another Client Win For Neutrinos ([23 hours ago](https://insurance-edge.net/2025/09/12/another-client-win-for-neutrinos/))
 - FM Picks Up TIME Magazine Award ([1 days ago](https://insurance-edge.net/2025/09/12/fm-picks-up-time-magazine-award/))
 - Cybersecurity and the iGaming Industry: Protecting Against Emerging Threats ([1 days ago](https://insurance-edge.net/2025/09/12/cybersecurity-and-the-igaming-industry-protecting-against-emerging-threats/))
 - Zywave Launches Suite of Innovations ([1 days ago](https://insurance-edge.net/2025/09/12/zywave-launches-suite-of-innovations/))
@@ -115,7 +115,7 @@ description: Insurance Updates
 - Tomorrow’s World: Tackling fraud ([3 days ago](https://www.postonline.co.uk/claims/7958215/tomorrow%E2%80%99s-world-tackling-fraud))
 - Burning point: insurance and heat-driven perils ([3 days ago](https://www.postonline.co.uk/claims/7958886/burning-point-insurance-and-heat-driven-perils))
 - Insurers’ private market push faces a data reckoning ([3 days ago](https://www.postonline.co.uk/regulation/7958261/insurers%E2%80%99-private-market-push-faces-a-data-reckoning))
-- Ransomware costs rise 17% despite fewer claims overall ([3 days ago](https://www.dig-in.com/news/ransomware-costs-rise-17-despite-fewer-claims))
+- Ransomware costs rise 17% despite fewer claims overall ([4 days ago](https://www.dig-in.com/news/ransomware-costs-rise-17-despite-fewer-claims))
 - What's ahead as OEMs enter insurance market? ([4 days ago](https://www.dig-in.com/opinion/whats-ahead-as-oems-enter-insurance-market))
 - IIHS analyzes Subaru's DriverFocus ([4 days ago](https://www.dig-in.com/news/iihs-analyzes-subarus-driverfocus))
 - Cila changes name and overhauls Charter ([4 days ago](https://www.postonline.co.uk/claims/7958987/cila-changes-name-and-overhauls-charter))
