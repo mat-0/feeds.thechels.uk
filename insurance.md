@@ -8,7 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- LSM Announces Changes in MENA and UK Units ([23 hours ago](https://insurance-edge.net/2025/09/13/lsm-announces-changes-in-mena-and-uk-units/))
+- LSM Announces Changes in MENA and UK Units ([1 days ago](https://insurance-edge.net/2025/09/13/lsm-announces-changes-in-mena-and-uk-units/))
 - Another Client Win For Neutrinos ([1 days ago](https://insurance-edge.net/2025/09/12/another-client-win-for-neutrinos/))
 - FM Picks Up TIME Magazine Award ([1 days ago](https://insurance-edge.net/2025/09/12/fm-picks-up-time-magazine-award/))
 - Cybersecurity and the iGaming Industry: Protecting Against Emerging Threats ([1 days ago](https://insurance-edge.net/2025/09/12/cybersecurity-and-the-igaming-industry-protecting-against-emerging-threats/))
@@ -111,7 +111,7 @@ description: Insurance Updates
 - CFC CEO Louise O'Shea leads the charge for long-term success ([3 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/cfc-ceo-louise-oshea-leads-the-charge-for-longterm-success-549144.aspx))
 - Spotlight: Unlocking ESG: the strategic advantage for insurance providers in the SME market ([3 days ago](https://www.postonline.co.uk/market-access/7958115/spotlight-unlocking-esg-the-strategic-advantage-for-insurance-providers-in-the-sme-market))
 - Admiral foils family of fraudsters ([3 days ago](https://www.postonline.co.uk/claims/7958991/admiral-foils-family-of-fraudsters))
-- National Friendly launches level reviewable premiums for 5 years ([3 days ago](https://ifamagazine.com/national-friendly-launches-level-reviewable-premiums-for-5-years/))
+- National Friendly launches level reviewable premiums for 5 years ([4 days ago](https://ifamagazine.com/national-friendly-launches-level-reviewable-premiums-for-5-years/))
 - Tomorrow’s World: Tackling fraud ([4 days ago](https://www.postonline.co.uk/claims/7958215/tomorrow%E2%80%99s-world-tackling-fraud))
 - Burning point: insurance and heat-driven perils ([4 days ago](https://www.postonline.co.uk/claims/7958886/burning-point-insurance-and-heat-driven-perils))
 - Insurers’ private market push faces a data reckoning ([4 days ago](https://www.postonline.co.uk/regulation/7958261/insurers%E2%80%99-private-market-push-faces-a-data-reckoning))
@@ -126,9 +126,9 @@ description: Insurance Updates
 - Morgan Stanley ups its insurance game with athletes, retired boomers ([5 days ago](https://www.dig-in.com/news/morgan-stanley-sees-big-role-for-fas-with-insurance-products))
 - Top insurtech funding rounds, August 2025 ([5 days ago](https://www.dig-in.com/list/top-insurtech-funding-rounds-august-2025))
 - GRiD: Government’s announcement on thousands of sick and disabled people to get life-changing support into work ([5 days ago](https://ifamagazine.com/grid-governments-announcement-on-thousands-of-sick-and-disabled-people-to-get-life-changing-support-into-work/))
-- Scottish Widows bolsters protection distribution team ([5 days ago](https://ifamagazine.com/scottish-widows-bolsters-protection-distribution-team/))
-- LifeSearch appoints new CIO to lead tech transformation ([5 days ago](https://ifamagazine.com/lifesearch-appoints-new-cio-to-lead-tech-transformation/))
-- A third of parents feel guilty when not around for their sick child – MetLife research ([10 days ago](https://ifamagazine.com/a-third-of-parents-feel-guilty-when-not-around-for-their-sick-child-metlife-research/))
+- Scottish Widows bolsters protection distribution team ([6 days ago](https://ifamagazine.com/scottish-widows-bolsters-protection-distribution-team/))
+- LifeSearch appoints new CIO to lead tech transformation ([6 days ago](https://ifamagazine.com/lifesearch-appoints-new-cio-to-lead-tech-transformation/))
+- A third of parents feel guilty when not around for their sick child – MetLife research ([11 days ago](https://ifamagazine.com/a-third-of-parents-feel-guilty-when-not-around-for-their-sick-child-metlife-research/))
 - 39% of Brits Report Pet Insurance Have Skyrocketed: CRIF Uncovers Pet Insurance Trends in Europe ([20 days ago](https://thefintechtimes.com/39-of-brits-report-pet-insurance-have-skyrocketed-crif-uncovers-pet-insurance-trends-in-europe/))
 
 <!-- news_marker ends -->

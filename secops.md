@@ -8,11 +8,11 @@ description: SecOps News
 [Get this as an RSS feed](/secops.rss)
 
 <!-- news_marker starts -->
-- Interview with Valéry Rieß-Marchive – Managing Leaks in Ransomware Negotiations ([8 hours ago](https://databreaches.net/2025/09/13/interview-with-valery-ries-marchive-managing-leaks-in-ransomware-negotiations/?pk_campaign=feed&pk_kwd=interview-with-valery-ries-marchive-managing-leaks-in-ransomware-negotiations))
-- Repository search is degraded ([9 hours ago](https://www.githubstatus.com/incidents/n3vgjzqv7d18))
+- Interview with Valéry Rieß-Marchive – Managing Leaks in Ransomware Negotiations ([9 hours ago](https://databreaches.net/2025/09/13/interview-with-valery-ries-marchive-managing-leaks-in-ransomware-negotiations/?pk_campaign=feed&pk_kwd=interview-with-valery-ries-marchive-managing-leaks-in-ransomware-negotiations))
+- Repository search is degraded ([10 hours ago](https://www.githubstatus.com/incidents/n3vgjzqv7d18))
 - China’s Great Firewall suffers its biggest leak ever as 500GB of source code and docs spill online — censorship tool has been sold to three different countries ([14 hours ago](https://databreaches.net/2025/09/13/chinas-great-firewall-suffers-its-biggest-leak-ever-as-500gb-of-source-code-and-docs-spill-online-censorship-tool-has-been-sold-to-three-different-countries/?pk_campaign=feed&pk_kwd=chinas-great-firewall-suffers-its-biggest-leak-ever-as-500gb-of-source-code-and-docs-spill-online-censorship-tool-has-been-sold-to-three-different-countries))
 - FBI Flash Alert:  Cyber Criminal Groups UNC6040 and UNC6395 Compromising Salesforce Instances for Data Theft and Extortion ([17 hours ago](https://databreaches.net/2025/09/13/fbi-flash-alert-cyber-criminal-groups-unc6040-and-unc6395-compromising-salesforce-instances-for-data-theft-and-extortion/?pk_campaign=feed&pk_kwd=fbi-flash-alert-cyber-criminal-groups-unc6040-and-unc6395-compromising-salesforce-instances-for-data-theft-and-extortion))
-- Bring back your old Mac: 5 ways to refresh the OS on elderly Apples ([20 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/09/13/refresh_an_old_mac/))
+- Bring back your old Mac: 5 ways to refresh the OS on elderly Apples ([21 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/09/13/refresh_an_old_mac/))
 - FBI Warns of UNC6040 and UNC6395 Targeting Salesforce Platforms in Data Theft Attacks ([23 hours ago](https://thehackernews.com/2025/09/fbi-warns-of-unc6040-and-unc6395.html))
 - Weekly Update 469 ([1 days ago](https://www.troyhunt.com/weekly-update-469/))
 - “Pompompurin’s” re-sentencing is scheduled for Tuesday. What will the judge do this time? ([1 days ago](https://databreaches.net/2025/09/12/pompompurins-re-sentencing-is-scheduled-for-tuesday-what-will-the-judge-do-this-time/?pk_campaign=feed&pk_kwd=pompompurins-re-sentencing-is-scheduled-for-tuesday-what-will-the-judge-do-this-time))
@@ -47,7 +47,7 @@ description: SecOps News
 - Samsung patches actively exploited zero-day reported by WhatsApp ([1 days ago](https://www.bleepingcomputer.com/news/security/samsung-patches-actively-exploited-zero-day-reported-by-whatsapp/))
 - Hack to school: Parents told to keep their little script kiddies in line ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2025/09/12/students_school_cyberattacks/))
 - Terminators: AI-driven robot war machines on the march ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2025/09/12/terminators_aidriven_robot_war_machines/))
-- Payment System Vendor Took Year+ to Patch Infinite Card Top-Up Hack: Security Firm ([1 days ago](https://www.securityweek.com/payment-system-vendor-took-year-to-patch-infinite-card-top-up-hack-security-firm/))
+- Payment System Vendor Took Year+ to Patch Infinite Card Top-Up Hack: Security Firm ([2 days ago](https://www.securityweek.com/payment-system-vendor-took-year-to-patch-infinite-card-top-up-hack-security-firm/))
 - Cloud-Native Security in 2025: Why Runtime Visibility Must Take Center Stage ([2 days ago](https://thehackernews.com/2025/09/cloud-native-security-in-2025-why.html))
 - Huntress's 'hilarious' attacker surveillance splits infosec community ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2025/09/12/huntress_attacker_surveillance/))
 - ‘IT manager’ needed tech support because they had never heard of a command line ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2025/09/12/on_call/))
