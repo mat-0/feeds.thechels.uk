@@ -9,7 +9,7 @@ description: DotNet Updates
 
 <!-- news_marker starts -->
 - F# Weekly #37, 2025 - .NET 10 RC1 &amp; FScrobble ([2 hours ago](https://dotnetkicks.com/r/729730?url=https://sergeytihon.com/2025/09/13/f-weekly-37-2025-net-10-rc1-fscrobble/))
-- Boost Your .NET Projects: Ensure Thread-Safe Uniqueness with DistinctConcurrentBag in Spargine ([5 hours ago](https://dotnettips.wordpress.com/2025/09/14/boost-your-net-projects-ensure-thread-safe-uniqueness-with-distinctconcurrentbag-in-spargine/))
+- Boost Your .NET Projects: Ensure Thread-Safe Uniqueness with DistinctConcurrentBag in Spargine ([6 hours ago](https://dotnettips.wordpress.com/2025/09/14/boost-your-net-projects-ensure-thread-safe-uniqueness-with-distinctconcurrentbag-in-spargine/))
 - Democratizing Performance: The Copilot Profiler Agent in Action on Real Code - Visual Studio Blog ([2 days ago](https://dotnetkicks.com/r/729582?url=https://devblogs.microsoft.com/visualstudio/copilot-profiler-agent-visual-studio/))
 - Democratizing Performance: The Copilot Profiler Agent in Action on Real Code - Visual Studio Blog ([2 days ago](https://dotnetkicks.com/r/729572?url=https://devblogs.microsoft.com/visualstudio/copilot-profiler-agent-visual-studio/))
 - Ask Ralph: Where style meets AI-a new era of conversational commerce - Microsoft Industry Blogs ([3 days ago](https://dotnetkicks.com/r/729479?url=https://www.microsoft.com/en-us/industry/blog/retail/2025/09/09/ask-ralph-where-style-meets-ai-a-new-era-of-conversational-commerce/))
@@ -40,7 +40,7 @@ description: DotNet Updates
 - Let Copilot Coding Agent handle the busy work ([10 days ago](https://devblogs.microsoft.com/dotnet/copilot-coding-agent-dotnet/))
 - Boost Your Copilot Collaboration with Reusable Prompt Files - Visual Studio Blog ([11 days ago](https://dotnetkicks.com/r/728787?url=https://devblogs.microsoft.com/visualstudio/boost-your-copilot-collaboration-with-reusable-prompt-files/))
 - Boost Your Copilot Collaboration with Reusable Prompt Files - Visual Studio Blog ([11 days ago](https://dotnetkicks.com/r/728783?url=https://devblogs.microsoft.com/visualstudio/boost-your-copilot-collaboration-with-reusable-prompt-files/))
-- dotInsights  -  September 2025 ([11 days ago](https://blog.jetbrains.com/dotnet/2025/09/02/dotinsights-september-2025/))
+- dotInsights  -  September 2025 ([12 days ago](https://blog.jetbrains.com/dotnet/2025/09/02/dotinsights-september-2025/))
 - Using and authoring .NET tools ([12 days ago](https://dotnetkicks.com/r/728763?url=https://andrewlock.net/using-and-authoring-dotnet-tools/))
 - Using and authoring .NET tools ([12 days ago](https://andrewlock.net/using-and-authoring-dotnet-tools/))
 - Boost Your .NET Projects: Find the Fastest Way to Get an Item’s Index in Arrays ([14 days ago](https://dotnettips.wordpress.com/2025/08/31/boost-your-net-projects-find-the-fastest-way-to-get-an-items-index-in-arrays/))
