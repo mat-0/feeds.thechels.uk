@@ -8,7 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Parento Closes on Seed II Funding Round ([6 hours ago](https://insurance-edge.net/2025/09/14/parento-closes-on-seed-ii-funding-round/))
+- Parento Closes on Seed II Funding Round ([7 hours ago](https://insurance-edge.net/2025/09/14/parento-closes-on-seed-ii-funding-round/))
 - LSM Announces Changes in MENA and UK Units ([1 days ago](https://insurance-edge.net/2025/09/13/lsm-announces-changes-in-mena-and-uk-units/))
 - Another Client Win For Neutrinos ([1 days ago](https://insurance-edge.net/2025/09/12/another-client-win-for-neutrinos/))
 - FM Picks Up TIME Magazine Award ([1 days ago](https://insurance-edge.net/2025/09/12/fm-picks-up-time-magazine-award/))
@@ -100,7 +100,7 @@ description: Insurance Updates
 - AXA reveals winners of Startup Angel Awards ([3 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/axa-reveals-winners-of-startup-angel-awards-549255.aspx))
 - Insurtech takes on 'document chaos' with Gen AI ([3 days ago](https://www.dig-in.com/news/insurtech-takes-on-document-chaos-with-gen-ai))
 - How tech is changing fraud detection ([3 days ago](https://www.dig-in.com/opinion/how-tech-is-changing-fraud-detection))
-- GOP senators punch big banks during deposit insurance panel ([3 days ago](https://www.dig-in.com/news/gop-senators-punch-big-banks-during-deposit-insurance-panel))
+- GOP senators punch big banks during deposit insurance panel ([4 days ago](https://www.dig-in.com/news/gop-senators-punch-big-banks-during-deposit-insurance-panel))
 - 'Promotion recession' driving high performers to leave ([4 days ago](https://www.insurancebusinessmag.com/uk/business-strategy/promotion-recession-driving-high-performers-to-leave-549218.aspx))
 - AI agents could join insurance workforce within next three years ([4 days ago](https://www.postonline.co.uk/news/7958997/ai-agents-could-join-insurance-workforce-within-next-three-years))
 - LightSpun Raises $13M Series A to Transform Dental Insurance Administration with AI ([4 days ago](https://www.insurtechinsights.com/lightspun-raises-13m-series-a-to-transform-dental-insurance-administration-with-ai/))
@@ -117,7 +117,7 @@ description: Insurance Updates
 - Insurers’ private market push faces a data reckoning ([4 days ago](https://www.postonline.co.uk/regulation/7958261/insurers%E2%80%99-private-market-push-faces-a-data-reckoning))
 - Ransomware costs rise 17% despite fewer claims overall ([4 days ago](https://www.dig-in.com/news/ransomware-costs-rise-17-despite-fewer-claims))
 - What's ahead as OEMs enter insurance market? ([4 days ago](https://www.dig-in.com/opinion/whats-ahead-as-oems-enter-insurance-market))
-- IIHS analyzes Subaru's DriverFocus ([4 days ago](https://www.dig-in.com/news/iihs-analyzes-subarus-driverfocus))
+- IIHS analyzes Subaru's DriverFocus ([5 days ago](https://www.dig-in.com/news/iihs-analyzes-subarus-driverfocus))
 - Cila changes name and overhauls Charter ([5 days ago](https://www.postonline.co.uk/claims/7958987/cila-changes-name-and-overhauls-charter))
 - Fraudsters using AI ‘next great threat’ to insurance industry ([5 days ago](https://www.postonline.co.uk/news/7958959/fraudsters-using-ai-%E2%80%98next-great-threat%E2%80%99-to-insurance-industry))
 - Diversity and Inclusion In Insurance Awards 2025 shortlist revealed ([5 days ago](https://www.postonline.co.uk/people/7958962/diversity-and-inclusion-in-insurance-awards-2025-shortlist-revealed))
