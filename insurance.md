@@ -8,7 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- LSM Announces Changes in MENA and UK Units ([20 hours ago](https://insurance-edge.net/2025/09/13/lsm-announces-changes-in-mena-and-uk-units/))
+- LSM Announces Changes in MENA and UK Units ([21 hours ago](https://insurance-edge.net/2025/09/13/lsm-announces-changes-in-mena-and-uk-units/))
 - Another Client Win For Neutrinos ([1 days ago](https://insurance-edge.net/2025/09/12/another-client-win-for-neutrinos/))
 - FM Picks Up TIME Magazine Award ([1 days ago](https://insurance-edge.net/2025/09/12/fm-picks-up-time-magazine-award/))
 - Cybersecurity and the iGaming Industry: Protecting Against Emerging Threats ([1 days ago](https://insurance-edge.net/2025/09/12/cybersecurity-and-the-igaming-industry-protecting-against-emerging-threats/))
@@ -50,7 +50,7 @@ description: Insurance Updates
 - London braces for large-scale protests as Crawford & Co warns of major risks ([1 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/london-braces-for-largescale-protests-as-crawford-and-co-warns-of-major-risks-549478.aspx))
 - AG London debuts as independent broker platform backed by Assurex Global ([1 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/ag-london-debuts-as-independent-broker-platform-backed-by-assurex-global-549462.aspx))
 - Hong Kong Boosts Flood Management as Climate Change Fuels Heavy Rains ([1 days ago](https://www.insurancejournal.com/news/international/2025/09/12/838950.htm))
-- 75% of Buyers Are Concerned About Rising Homeowners Insurance Costs: Survey ([1 days ago](https://www.insurancejournal.com/news/national/2025/09/12/838913.htm))
+- 75% of Buyers Are Concerned About Rising Homeowners Insurance Costs: Survey ([2 days ago](https://www.insurancejournal.com/news/national/2025/09/12/838913.htm))
 - Uber Sued by DOJ Over Passenger Disability Discrimination ([2 days ago](https://www.insurancejournal.com/news/national/2025/09/12/838908.htm))
 - Immigration Raid Disruptions Spread, Casting Pall on Korea Investment ([2 days ago](https://www.insurancejournal.com/news/international/2025/09/12/838925.htm))
 - People Moves: Blumhagen Joins Willis as Producer for Upstate New York ([2 days ago](https://www.insurancejournal.com/news/east/2025/09/12/838880.htm))
