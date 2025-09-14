@@ -8,7 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- LSM Announces Changes in MENA and UK Units ([22 hours ago](https://insurance-edge.net/2025/09/13/lsm-announces-changes-in-mena-and-uk-units/))
+- LSM Announces Changes in MENA and UK Units ([23 hours ago](https://insurance-edge.net/2025/09/13/lsm-announces-changes-in-mena-and-uk-units/))
 - Another Client Win For Neutrinos ([1 days ago](https://insurance-edge.net/2025/09/12/another-client-win-for-neutrinos/))
 - FM Picks Up TIME Magazine Award ([1 days ago](https://insurance-edge.net/2025/09/12/fm-picks-up-time-magazine-award/))
 - Cybersecurity and the iGaming Industry: Protecting Against Emerging Threats ([1 days ago](https://insurance-edge.net/2025/09/12/cybersecurity-and-the-igaming-industry-protecting-against-emerging-threats/))
@@ -48,7 +48,7 @@ description: Insurance Updates
 - Cyber insurers grapple with AI and automation risks ([1 days ago](https://www.postonline.co.uk/news/7959006/cyber-insurers-grapple-with-ai-and-automation-risks))
 - Lockton Names Naji Abboud as Senior Executive Officer for DIFC Branch ([1 days ago](https://www.insurtechinsights.com/lockton-names-naji-abboud-as-senior-executive-officer-for-difc-branch/))
 - London braces for large-scale protests as Crawford & Co warns of major risks ([1 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/london-braces-for-largescale-protests-as-crawford-and-co-warns-of-major-risks-549478.aspx))
-- AG London debuts as independent broker platform backed by Assurex Global ([1 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/ag-london-debuts-as-independent-broker-platform-backed-by-assurex-global-549462.aspx))
+- AG London debuts as independent broker platform backed by Assurex Global ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/ag-london-debuts-as-independent-broker-platform-backed-by-assurex-global-549462.aspx))
 - Hong Kong Boosts Flood Management as Climate Change Fuels Heavy Rains ([2 days ago](https://www.insurancejournal.com/news/international/2025/09/12/838950.htm))
 - 75% of Buyers Are Concerned About Rising Homeowners Insurance Costs: Survey ([2 days ago](https://www.insurancejournal.com/news/national/2025/09/12/838913.htm))
 - Uber Sued by DOJ Over Passenger Disability Discrimination ([2 days ago](https://www.insurancejournal.com/news/national/2025/09/12/838908.htm))
@@ -129,6 +129,6 @@ description: Insurance Updates
 - Scottish Widows bolsters protection distribution team ([5 days ago](https://ifamagazine.com/scottish-widows-bolsters-protection-distribution-team/))
 - LifeSearch appoints new CIO to lead tech transformation ([5 days ago](https://ifamagazine.com/lifesearch-appoints-new-cio-to-lead-tech-transformation/))
 - A third of parents feel guilty when not around for their sick child – MetLife research ([10 days ago](https://ifamagazine.com/a-third-of-parents-feel-guilty-when-not-around-for-their-sick-child-metlife-research/))
-- 39% of Brits Report Pet Insurance Have Skyrocketed: CRIF Uncovers Pet Insurance Trends in Europe ([19 days ago](https://thefintechtimes.com/39-of-brits-report-pet-insurance-have-skyrocketed-crif-uncovers-pet-insurance-trends-in-europe/))
+- 39% of Brits Report Pet Insurance Have Skyrocketed: CRIF Uncovers Pet Insurance Trends in Europe ([20 days ago](https://thefintechtimes.com/39-of-brits-report-pet-insurance-have-skyrocketed-crif-uncovers-pet-insurance-trends-in-europe/))
 
 <!-- news_marker ends -->
