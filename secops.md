@@ -11,8 +11,8 @@ description: SecOps News
 - Data destruction done wrong could cost your company millions ([5 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/09/14/destroy_data_company_laptops_or_else/))
 - Uvalde CISD to close most of next week due to ransomware issue ([6 hours ago](https://databreaches.net/2025/09/14/uvalde-cisd-to-close-most-of-next-week-due-to-ransomware-issue/?pk_campaign=feed&pk_kwd=uvalde-cisd-to-close-most-of-next-week-due-to-ransomware-issue))
 - Union urges government intervention with 100,000 jobs at risk after JLR cyber attack ([6 hours ago](https://databreaches.net/2025/09/14/union-urges-government-intervention-with-100000-jobs-at-risk-after-jlr-cyber-attack/?pk_campaign=feed&pk_kwd=union-urges-government-intervention-with-100000-jobs-at-risk-after-jlr-cyber-attack))
-- Interview with Valéry Rieß-Marchive – Managing Leaks in Ransomware Negotiations ([18 hours ago](https://databreaches.net/2025/09/13/interview-with-valery-ries-marchive-managing-leaks-in-ransomware-negotiations/?pk_campaign=feed&pk_kwd=interview-with-valery-ries-marchive-managing-leaks-in-ransomware-negotiations))
-- Repository search is degraded ([19 hours ago](https://www.githubstatus.com/incidents/n3vgjzqv7d18))
+- Interview with Valéry Rieß-Marchive – Managing Leaks in Ransomware Negotiations ([19 hours ago](https://databreaches.net/2025/09/13/interview-with-valery-ries-marchive-managing-leaks-in-ransomware-negotiations/?pk_campaign=feed&pk_kwd=interview-with-valery-ries-marchive-managing-leaks-in-ransomware-negotiations))
+- Repository search is degraded ([20 hours ago](https://www.githubstatus.com/incidents/n3vgjzqv7d18))
 - China’s Great Firewall suffers its biggest leak ever as 500GB of source code and docs spill online — censorship tool has been sold to three different countries ([1 days ago](https://databreaches.net/2025/09/13/chinas-great-firewall-suffers-its-biggest-leak-ever-as-500gb-of-source-code-and-docs-spill-online-censorship-tool-has-been-sold-to-three-different-countries/?pk_campaign=feed&pk_kwd=chinas-great-firewall-suffers-its-biggest-leak-ever-as-500gb-of-source-code-and-docs-spill-online-censorship-tool-has-been-sold-to-three-different-countries))
 - FBI Flash Alert:  Cyber Criminal Groups UNC6040 and UNC6395 Compromising Salesforce Instances for Data Theft and Extortion ([1 days ago](https://databreaches.net/2025/09/13/fbi-flash-alert-cyber-criminal-groups-unc6040-and-unc6395-compromising-salesforce-instances-for-data-theft-and-extortion/?pk_campaign=feed&pk_kwd=fbi-flash-alert-cyber-criminal-groups-unc6040-and-unc6395-compromising-salesforce-instances-for-data-theft-and-extortion))
 - Bring back your old Mac: 5 ways to refresh the OS on elderly Apples ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2025/09/13/refresh_an_old_mac/))
@@ -66,7 +66,7 @@ description: SecOps News
 - Hijacker helper VoidProxy boosts Google, Microsoft accounts on demand ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2025/09/11/voidproxy_phishing_service/))
 - U.S. Senator accuses Microsoft of “gross cybersecurity negligence” ([2 days ago](https://www.bleepingcomputer.com/news/security/us-senator-accuses-microsoft-of-gross-cybersecurity-negligence/))
 - Apple warns customers targeted in recent spyware attacks ([2 days ago](https://www.bleepingcomputer.com/news/security/apple-warns-customers-targeted-in-recent-spyware-attacks/))
-- Panama Ministry of Economy discloses breach claimed by INC ransomware ([2 days ago](https://www.bleepingcomputer.com/news/security/panama-ministry-of-economy-discloses-breach-claimed-by-inc-ransomware/))
+- Panama Ministry of Economy discloses breach claimed by INC ransomware ([3 days ago](https://www.bleepingcomputer.com/news/security/panama-ministry-of-economy-discloses-breach-claimed-by-inc-ransomware/))
 - Bulletproof Host Stark Industries Evades EU Sanctions ([3 days ago](https://krebsonsecurity.com/2025/09/bulletproof-host-stark-industries-evades-eu-sanctions/))
 - Monty Widenius 'heartbroken' at the extent of Oracle's MySQL job cuts ([3 days ago](https://go.theregister.com/feed/www.theregister.com/2025/09/11/oracle_slammed_for_mysql_job/))
 - Microsoft adds malicious link warnings to Teams private chats ([3 days ago](https://www.bleepingcomputer.com/news/security/microsoft-adds-malicious-link-warnings-to-teams-private-chats/))
@@ -166,6 +166,5 @@ description: SecOps News
 - Allianz Life - 1,115,061 breached accounts ([26 days ago](https://haveibeenpwned.com/Breach/AllianzLife))
 - We're going High Availability with Redis Sentinel! ([27 days ago](https://scotthelme.ghost.io/were-going-high-availability-with-redis-sentinel/))
 - Weekly Update 465 ([28 days ago](https://www.troyhunt.com/weekly-update-465/))
-- Mobile Phishers Target Brokerage Accounts in ‘Ramp and Dump’ Cashout Scheme ([29 days ago](https://krebsonsecurity.com/2025/08/mobile-phishers-target-brokerage-accounts-in-ramp-and-dump-cashout-scheme/))
 
 <!-- news_marker ends -->
