@@ -97,7 +97,7 @@ description: Insurance Updates
 - Cargo marine insurance holds steady - IUMI ([2 days ago](https://www.insurancebusinessmag.com/uk/news/marine/cargo-marine-insurance-holds-steady--iumi-549261.aspx))
 - Insurance moves: Arch Insurance, Sicsic Advisory, Willis and Davies ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/insurance-moves-arch-insurance-sicsic-advisory-willis-and-davies-549260.aspx))
 - Weight-loss drugs spark insurance disclosure dilemma ([2 days ago](https://www.insurancebusinessmag.com/uk/news/life-insurance/weightloss-drugs-spark-insurance-disclosure-dilemma-549259.aspx))
-- AXA reveals winners of Startup Angel Awards ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/axa-reveals-winners-of-startup-angel-awards-549255.aspx))
+- AXA reveals winners of Startup Angel Awards ([3 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/axa-reveals-winners-of-startup-angel-awards-549255.aspx))
 - Insurtech takes on 'document chaos' with Gen AI ([3 days ago](https://www.dig-in.com/news/insurtech-takes-on-document-chaos-with-gen-ai))
 - How tech is changing fraud detection ([3 days ago](https://www.dig-in.com/opinion/how-tech-is-changing-fraud-detection))
 - GOP senators punch big banks during deposit insurance panel ([3 days ago](https://www.dig-in.com/news/gop-senators-punch-big-banks-during-deposit-insurance-panel))
