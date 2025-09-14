@@ -8,7 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Parento Closes on Seed II Funding Round ([29 minutes ago](https://insurance-edge.net/2025/09/14/parento-closes-on-seed-ii-funding-round/))
+- Parento Closes on Seed II Funding Round ([1 hours ago](https://insurance-edge.net/2025/09/14/parento-closes-on-seed-ii-funding-round/))
 - LSM Announces Changes in MENA and UK Units ([1 days ago](https://insurance-edge.net/2025/09/13/lsm-announces-changes-in-mena-and-uk-units/))
 - Another Client Win For Neutrinos ([1 days ago](https://insurance-edge.net/2025/09/12/another-client-win-for-neutrinos/))
 - FM Picks Up TIME Magazine Award ([1 days ago](https://insurance-edge.net/2025/09/12/fm-picks-up-time-magazine-award/))
@@ -35,7 +35,7 @@ description: Insurance Updates
 - Supply increases as demand grows in Europe and LatAm: Munich Re’s Kopff ([1 days ago](https://www.reinsurancene.ws/supply-increases-as-demand-grows-in-europe-and-latam-munich-res-kopff/))
 - Hymans Robertson names Prince Head of Member Experience for Risk Transfer ([1 days ago](https://www.reinsurancene.ws/hymans-robertson-names-prince-head-of-member-experience-for-risk-transfer/))
 - Earnings protection & legacy key themes at RVS 2025: Hochberg, Guy Carpenter ([1 days ago](https://www.reinsurancene.ws/earnings-protection-legacy-key-themes-at-rvs-2025-hochberg-guy-carpenter/))
-- WTW strengthens global placement and portfolio solutions team with senior hires ([1 days ago](https://www.reinsurancene.ws/wtw-strengthens-global-placement-and-portfolio-solutions-team-with-senior-hires/))
+- WTW strengthens global placement and portfolio solutions team with senior hires ([2 days ago](https://www.reinsurancene.ws/wtw-strengthens-global-placement-and-portfolio-solutions-team-with-senior-hires/))
 - State Police Shortage Stalls Vermont Program to Protect Highway Workers ([2 days ago](https://www.insurancejournal.com/news/east/2025/09/12/838966.htm))
 - Hurricane season has little impact on European reinsurance shares: Autonomous reports ([2 days ago](https://www.reinsurancene.ws/hurricane-season-has-little-impact-on-european-reinsurance-shares-autonomous-reports/))
 - Allianz X makes equity investment in Coterie Insurance ([2 days ago](https://www.reinsurancene.ws/allianz-x-makes-equity-investment-in-coterie-insurance/))
@@ -118,7 +118,7 @@ description: Insurance Updates
 - Ransomware costs rise 17% despite fewer claims overall ([4 days ago](https://www.dig-in.com/news/ransomware-costs-rise-17-despite-fewer-claims))
 - What's ahead as OEMs enter insurance market? ([4 days ago](https://www.dig-in.com/opinion/whats-ahead-as-oems-enter-insurance-market))
 - IIHS analyzes Subaru's DriverFocus ([4 days ago](https://www.dig-in.com/news/iihs-analyzes-subarus-driverfocus))
-- Cila changes name and overhauls Charter ([4 days ago](https://www.postonline.co.uk/claims/7958987/cila-changes-name-and-overhauls-charter))
+- Cila changes name and overhauls Charter ([5 days ago](https://www.postonline.co.uk/claims/7958987/cila-changes-name-and-overhauls-charter))
 - Fraudsters using AI ‘next great threat’ to insurance industry ([5 days ago](https://www.postonline.co.uk/news/7958959/fraudsters-using-ai-%E2%80%98next-great-threat%E2%80%99-to-insurance-industry))
 - Diversity and Inclusion In Insurance Awards 2025 shortlist revealed ([5 days ago](https://www.postonline.co.uk/people/7958962/diversity-and-inclusion-in-insurance-awards-2025-shortlist-revealed))
 - Shepherds Friendly partners with Alula Technologies to future-proof underwriting ([5 days ago](https://ifamagazine.com/shepherds-friendly-partners-with-alula-technologies-to-future-proof-underwriting/))
