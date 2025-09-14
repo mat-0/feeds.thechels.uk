@@ -49,7 +49,7 @@ description: Insurance Updates
 - Lockton Names Naji Abboud as Senior Executive Officer for DIFC Branch ([1 days ago](https://www.insurtechinsights.com/lockton-names-naji-abboud-as-senior-executive-officer-for-difc-branch/))
 - London braces for large-scale protests as Crawford & Co warns of major risks ([1 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/london-braces-for-largescale-protests-as-crawford-and-co-warns-of-major-risks-549478.aspx))
 - AG London debuts as independent broker platform backed by Assurex Global ([1 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/ag-london-debuts-as-independent-broker-platform-backed-by-assurex-global-549462.aspx))
-- Hong Kong Boosts Flood Management as Climate Change Fuels Heavy Rains ([1 days ago](https://www.insurancejournal.com/news/international/2025/09/12/838950.htm))
+- Hong Kong Boosts Flood Management as Climate Change Fuels Heavy Rains ([2 days ago](https://www.insurancejournal.com/news/international/2025/09/12/838950.htm))
 - 75% of Buyers Are Concerned About Rising Homeowners Insurance Costs: Survey ([2 days ago](https://www.insurancejournal.com/news/national/2025/09/12/838913.htm))
 - Uber Sued by DOJ Over Passenger Disability Discrimination ([2 days ago](https://www.insurancejournal.com/news/national/2025/09/12/838908.htm))
 - Immigration Raid Disruptions Spread, Casting Pall on Korea Investment ([2 days ago](https://www.insurancejournal.com/news/international/2025/09/12/838925.htm))
