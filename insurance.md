@@ -8,7 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- LSM Announces Changes in MENA and UK Units ([18 hours ago](https://insurance-edge.net/2025/09/13/lsm-announces-changes-in-mena-and-uk-units/))
+- LSM Announces Changes in MENA and UK Units ([19 hours ago](https://insurance-edge.net/2025/09/13/lsm-announces-changes-in-mena-and-uk-units/))
 - Another Client Win For Neutrinos ([1 days ago](https://insurance-edge.net/2025/09/12/another-client-win-for-neutrinos/))
 - FM Picks Up TIME Magazine Award ([1 days ago](https://insurance-edge.net/2025/09/12/fm-picks-up-time-magazine-award/))
 - Cybersecurity and the iGaming Industry: Protecting Against Emerging Threats ([1 days ago](https://insurance-edge.net/2025/09/12/cybersecurity-and-the-igaming-industry-protecting-against-emerging-threats/))
@@ -66,7 +66,7 @@ description: Insurance Updates
 - Insurance players hold their ground in TIME's World's Best Companies of 2025 ([1 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/insurance-players-hold-their-ground-in-times-worlds-best-companies-of-2025-549431.aspx))
 - JMG Group adds three brokers to portfolio ([1 days ago](https://www.insurancebusinessmag.com/uk/news/mergers-acquisitions/jmg-group-adds-three-brokers-to-portfolio-549430.aspx))
 - Specialist Risk Group acquires James Hirst team ([1 days ago](https://www.insurancebusinessmag.com/uk/news/mergers-acquisitions/specialist-risk-group-acquires-james-hirst-team-549429.aspx))
-- DUAL Europe enters cargo market with new insurance offering ([1 days ago](https://www.insurancebusinessmag.com/uk/news/marine/dual-europe-enters-cargo-market-with-new-insurance-offering-549427.aspx))
+- DUAL Europe enters cargo market with new insurance offering ([2 days ago](https://www.insurancebusinessmag.com/uk/news/marine/dual-europe-enters-cargo-market-with-new-insurance-offering-549427.aspx))
 - Power companies confront rising demand amid fragile grids ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/power-companies-confront-rising-demand-amid-fragile-grids-549405.aspx))
 - FEMA cuts bring war for disaster mitigation and recovery resources ([2 days ago](https://www.dig-in.com/news/fema-cuts-bring-war-for-disaster-mitigation-resources))
 - Emerging technology in workers' compensation insurance ([2 days ago](https://www.dig-in.com/podcast/emerging-technology-in-workers-compensation-insurance))
