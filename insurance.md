@@ -8,13 +8,13 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Parento Closes on Seed II Funding Round ([4 hours ago](https://insurance-edge.net/2025/09/14/parento-closes-on-seed-ii-funding-round/))
+- Parento Closes on Seed II Funding Round ([5 hours ago](https://insurance-edge.net/2025/09/14/parento-closes-on-seed-ii-funding-round/))
 - LSM Announces Changes in MENA and UK Units ([1 days ago](https://insurance-edge.net/2025/09/13/lsm-announces-changes-in-mena-and-uk-units/))
 - Another Client Win For Neutrinos ([1 days ago](https://insurance-edge.net/2025/09/12/another-client-win-for-neutrinos/))
 - FM Picks Up TIME Magazine Award ([1 days ago](https://insurance-edge.net/2025/09/12/fm-picks-up-time-magazine-award/))
 - Cybersecurity and the iGaming Industry: Protecting Against Emerging Threats ([1 days ago](https://insurance-edge.net/2025/09/12/cybersecurity-and-the-igaming-industry-protecting-against-emerging-threats/))
 - Zywave Launches Suite of Innovations ([1 days ago](https://insurance-edge.net/2025/09/12/zywave-launches-suite-of-innovations/))
-- Fundamentals of the Financial Protection (RO5) and how it supports clients ([1 days ago](https://www.insurancebusinessmag.com/uk/guides/fundamentals-of-the-financial-protection-ro5-and-how-it-supports-clients-549550.aspx))
+- Fundamentals of the Financial Protection (RO5) and how it supports clients ([2 days ago](https://www.insurancebusinessmag.com/uk/guides/fundamentals-of-the-financial-protection-ro5-and-how-it-supports-clients-549550.aspx))
 - Missouri to Requires Insurers to Register with New Uninsured Motorist Program ([2 days ago](https://www.insurancejournal.com/news/midwest/2025/09/12/839036.htm))
 - Texas Insurer New Century Placed in Receivership and Liquidation ([2 days ago](https://www.insurancejournal.com/news/southcentral/2025/09/12/839025.htm))
 - Fitch Ratings: U.S. E&S Growth Slows but Remains Strong ([2 days ago](https://www.insurancejournal.com/news/national/2025/09/12/839020.htm))
