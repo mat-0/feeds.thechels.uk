@@ -8,9 +8,9 @@ description: SecOps News
 [Get this as an RSS feed](/secops.rss)
 
 <!-- news_marker starts -->
-- Data destruction done wrong could cost your company millions ([6 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/09/14/destroy_data_company_laptops_or_else/))
-- Uvalde CISD to close most of next week due to ransomware issue ([7 hours ago](https://databreaches.net/2025/09/14/uvalde-cisd-to-close-most-of-next-week-due-to-ransomware-issue/?pk_campaign=feed&pk_kwd=uvalde-cisd-to-close-most-of-next-week-due-to-ransomware-issue))
-- Union urges government intervention with 100,000 jobs at risk after JLR cyber attack ([7 hours ago](https://databreaches.net/2025/09/14/union-urges-government-intervention-with-100000-jobs-at-risk-after-jlr-cyber-attack/?pk_campaign=feed&pk_kwd=union-urges-government-intervention-with-100000-jobs-at-risk-after-jlr-cyber-attack))
+- Data destruction done wrong could cost your company millions ([7 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/09/14/destroy_data_company_laptops_or_else/))
+- Uvalde CISD to close most of next week due to ransomware issue ([8 hours ago](https://databreaches.net/2025/09/14/uvalde-cisd-to-close-most-of-next-week-due-to-ransomware-issue/?pk_campaign=feed&pk_kwd=uvalde-cisd-to-close-most-of-next-week-due-to-ransomware-issue))
+- Union urges government intervention with 100,000 jobs at risk after JLR cyber attack ([8 hours ago](https://databreaches.net/2025/09/14/union-urges-government-intervention-with-100000-jobs-at-risk-after-jlr-cyber-attack/?pk_campaign=feed&pk_kwd=union-urges-government-intervention-with-100000-jobs-at-risk-after-jlr-cyber-attack))
 - Interview with Valéry Rieß-Marchive – Managing Leaks in Ransomware Negotiations ([20 hours ago](https://databreaches.net/2025/09/13/interview-with-valery-ries-marchive-managing-leaks-in-ransomware-negotiations/?pk_campaign=feed&pk_kwd=interview-with-valery-ries-marchive-managing-leaks-in-ransomware-negotiations))
 - Repository search is degraded ([21 hours ago](https://www.githubstatus.com/incidents/n3vgjzqv7d18))
 - China’s Great Firewall suffers its biggest leak ever as 500GB of source code and docs spill online — censorship tool has been sold to three different countries ([1 days ago](https://databreaches.net/2025/09/13/chinas-great-firewall-suffers-its-biggest-leak-ever-as-500gb-of-source-code-and-docs-spill-online-censorship-tool-has-been-sold-to-three-different-countries/?pk_campaign=feed&pk_kwd=chinas-great-firewall-suffers-its-biggest-leak-ever-as-500gb-of-source-code-and-docs-spill-online-censorship-tool-has-been-sold-to-three-different-countries))
@@ -63,7 +63,7 @@ description: SecOps News
 - “Omni” wins a round in his extradition case ([2 days ago](https://databreaches.net/2025/09/11/omni-wins-a-round-in-his-extradition-case/?pk_campaign=feed&pk_kwd=omni-wins-a-round-in-his-extradition-case))
 - We're number 1! America now leads the world in surveillanceware investment ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2025/09/11/us_surveillanceware_investment/))
 - New Really Simple Licensing spec wants AI crawlers to show a license - or a credit card ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2025/09/11/rsl_content_grabbing_ai_digital_licensing/))
-- Microsoft fixes Exchange Online outage affecting users worldwide ([2 days ago](https://www.bleepingcomputer.com/news/microsoft/microsoft-investigates-exchange-online-outage-in-north-america/))
+- Microsoft fixes Exchange Online outage affecting users worldwide ([3 days ago](https://www.bleepingcomputer.com/news/microsoft/microsoft-investigates-exchange-online-outage-in-north-america/))
 - Hijacker helper VoidProxy boosts Google, Microsoft accounts on demand ([3 days ago](https://go.theregister.com/feed/www.theregister.com/2025/09/11/voidproxy_phishing_service/))
 - U.S. Senator accuses Microsoft of “gross cybersecurity negligence” ([3 days ago](https://www.bleepingcomputer.com/news/security/us-senator-accuses-microsoft-of-gross-cybersecurity-negligence/))
 - Apple warns customers targeted in recent spyware attacks ([3 days ago](https://www.bleepingcomputer.com/news/security/apple-warns-customers-targeted-in-recent-spyware-attacks/))
