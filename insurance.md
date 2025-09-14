@@ -8,9 +8,9 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Verisk: P&C industry saw $11.5b underwriting gain through first half of 2025 ([35 minutes ago](https://www.dig-in.com/news/verisk-p-c-industry-saw-11-5b-underwriting-gain))
+- Verisk: P&C industry saw $11.5b underwriting gain through first half of 2025 ([1 hours ago](https://www.dig-in.com/news/verisk-p-c-industry-saw-11-5b-underwriting-gain))
 - What skills do insurance professionals need? ([1 hours ago](https://www.dig-in.com/news/what-skills-do-insurance-professionals-need))
-- Parento Closes on Seed II Funding Round ([8 hours ago](https://insurance-edge.net/2025/09/14/parento-closes-on-seed-ii-funding-round/))
+- Parento Closes on Seed II Funding Round ([9 hours ago](https://insurance-edge.net/2025/09/14/parento-closes-on-seed-ii-funding-round/))
 - LSM Announces Changes in MENA and UK Units ([1 days ago](https://insurance-edge.net/2025/09/13/lsm-announces-changes-in-mena-and-uk-units/))
 - Another Client Win For Neutrinos ([1 days ago](https://insurance-edge.net/2025/09/12/another-client-win-for-neutrinos/))
 - FM Picks Up TIME Magazine Award ([2 days ago](https://insurance-edge.net/2025/09/12/fm-picks-up-time-magazine-award/))
@@ -117,7 +117,7 @@ description: Insurance Updates
 - Tomorrow’s World: Tackling fraud ([4 days ago](https://www.postonline.co.uk/claims/7958215/tomorrow%E2%80%99s-world-tackling-fraud))
 - Burning point: insurance and heat-driven perils ([4 days ago](https://www.postonline.co.uk/claims/7958886/burning-point-insurance-and-heat-driven-perils))
 - Insurers’ private market push faces a data reckoning ([4 days ago](https://www.postonline.co.uk/regulation/7958261/insurers%E2%80%99-private-market-push-faces-a-data-reckoning))
-- Ransomware costs rise 17% despite fewer claims overall ([4 days ago](https://www.dig-in.com/news/ransomware-costs-rise-17-despite-fewer-claims))
+- Ransomware costs rise 17% despite fewer claims overall ([5 days ago](https://www.dig-in.com/news/ransomware-costs-rise-17-despite-fewer-claims))
 - What's ahead as OEMs enter insurance market? ([5 days ago](https://www.dig-in.com/opinion/whats-ahead-as-oems-enter-insurance-market))
 - IIHS analyzes Subaru's DriverFocus ([5 days ago](https://www.dig-in.com/news/iihs-analyzes-subarus-driverfocus))
 - Cila changes name and overhauls Charter ([5 days ago](https://www.postonline.co.uk/claims/7958987/cila-changes-name-and-overhauls-charter))
