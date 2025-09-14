@@ -69,7 +69,7 @@ description: Insurance Updates
 - DUAL Europe enters cargo market with new insurance offering ([2 days ago](https://www.insurancebusinessmag.com/uk/news/marine/dual-europe-enters-cargo-market-with-new-insurance-offering-549427.aspx))
 - Power companies confront rising demand amid fragile grids ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/power-companies-confront-rising-demand-amid-fragile-grids-549405.aspx))
 - FEMA cuts bring war for disaster mitigation and recovery resources ([2 days ago](https://www.dig-in.com/news/fema-cuts-bring-war-for-disaster-mitigation-resources))
-- Emerging technology in workers' compensation insurance ([2 days ago](https://www.dig-in.com/podcast/emerging-technology-in-workers-compensation-insurance))
+- Emerging technology in workers' compensation insurance ([3 days ago](https://www.dig-in.com/podcast/emerging-technology-in-workers-compensation-insurance))
 - Allianz X Leads Strategic Investment in Coterie Insurance, Expands Reinsurance Partnership ([3 days ago](https://www.insurtechinsights.com/allianz-x-leads-strategic-investment-in-coterie-insurance-expands-reinsurance-partnership/))
 - Ditch ‘pre-existing condition’ terminology to fight travel insurance pain point ([3 days ago](https://www.postonline.co.uk/news/7958966/ditch-%E2%80%98pre-existing-condition%E2%80%99-terminology-to-fight-travel-insurance-pain-point))
 - Accelerant Partners with AF Specialty to Expand Capacity on Risk Exchange ([3 days ago](https://www.insurtechinsights.com/accelerant-partners-with-af-specialty-to-expand-capacity-on-risk-exchange/))
