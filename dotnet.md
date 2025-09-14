@@ -8,7 +8,7 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- F# Weekly #37, 2025 - .NET 10 RC1 &amp; FScrobble ([55 minutes ago](https://dotnetkicks.com/r/729730?url=https://sergeytihon.com/2025/09/13/f-weekly-37-2025-net-10-rc1-fscrobble/))
+- F# Weekly #37, 2025 - .NET 10 RC1 &amp; FScrobble ([1 hours ago](https://dotnetkicks.com/r/729730?url=https://sergeytihon.com/2025/09/13/f-weekly-37-2025-net-10-rc1-fscrobble/))
 - Boost Your .NET Projects: Ensure Thread-Safe Uniqueness with DistinctConcurrentBag in Spargine ([4 hours ago](https://dotnettips.wordpress.com/2025/09/14/boost-your-net-projects-ensure-thread-safe-uniqueness-with-distinctconcurrentbag-in-spargine/))
 - Democratizing Performance: The Copilot Profiler Agent in Action on Real Code - Visual Studio Blog ([2 days ago](https://dotnetkicks.com/r/729582?url=https://devblogs.microsoft.com/visualstudio/copilot-profiler-agent-visual-studio/))
 - Democratizing Performance: The Copilot Profiler Agent in Action on Real Code - Visual Studio Blog ([2 days ago](https://dotnetkicks.com/r/729572?url=https://devblogs.microsoft.com/visualstudio/copilot-profiler-agent-visual-studio/))
@@ -41,7 +41,7 @@ description: DotNet Updates
 - Boost Your Copilot Collaboration with Reusable Prompt Files - Visual Studio Blog ([11 days ago](https://dotnetkicks.com/r/728787?url=https://devblogs.microsoft.com/visualstudio/boost-your-copilot-collaboration-with-reusable-prompt-files/))
 - Boost Your Copilot Collaboration with Reusable Prompt Files - Visual Studio Blog ([11 days ago](https://dotnetkicks.com/r/728783?url=https://devblogs.microsoft.com/visualstudio/boost-your-copilot-collaboration-with-reusable-prompt-files/))
 - dotInsights  -  September 2025 ([11 days ago](https://blog.jetbrains.com/dotnet/2025/09/02/dotinsights-september-2025/))
-- Using and authoring .NET tools ([11 days ago](https://dotnetkicks.com/r/728763?url=https://andrewlock.net/using-and-authoring-dotnet-tools/))
+- Using and authoring .NET tools ([12 days ago](https://dotnetkicks.com/r/728763?url=https://andrewlock.net/using-and-authoring-dotnet-tools/))
 - Using and authoring .NET tools ([12 days ago](https://andrewlock.net/using-and-authoring-dotnet-tools/))
 - Boost Your .NET Projects: Find the Fastest Way to Get an Item’s Index in Arrays ([14 days ago](https://dotnettips.wordpress.com/2025/08/31/boost-your-net-projects-find-the-fastest-way-to-get-an-items-index-in-arrays/))
 - Getting Started with the Aspire CLI ([16 days ago](https://devblogs.microsoft.com/dotnet/getting-started-with-the-aspire-cli/))
