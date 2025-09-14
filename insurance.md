@@ -9,7 +9,7 @@ description: Insurance Updates
 
 <!-- news_marker starts -->
 - Verisk: P&C industry saw $11.5b underwriting gain through first half of 2025 ([1 hours ago](https://www.dig-in.com/news/verisk-p-c-industry-saw-11-5b-underwriting-gain))
-- What skills do insurance professionals need? ([1 hours ago](https://www.dig-in.com/news/what-skills-do-insurance-professionals-need))
+- What skills do insurance professionals need? ([2 hours ago](https://www.dig-in.com/news/what-skills-do-insurance-professionals-need))
 - Parento Closes on Seed II Funding Round ([9 hours ago](https://insurance-edge.net/2025/09/14/parento-closes-on-seed-ii-funding-round/))
 - LSM Announces Changes in MENA and UK Units ([1 days ago](https://insurance-edge.net/2025/09/13/lsm-announces-changes-in-mena-and-uk-units/))
 - Another Client Win For Neutrinos ([1 days ago](https://insurance-edge.net/2025/09/12/another-client-win-for-neutrinos/))
