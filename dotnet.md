@@ -9,7 +9,7 @@ description: DotNet Updates
 
 <!-- news_marker starts -->
 - F# Weekly #37, 2025 - .NET 10 RC1 &amp; FScrobble ([6 hours ago](https://dotnetkicks.com/r/729730?url=https://sergeytihon.com/2025/09/13/f-weekly-37-2025-net-10-rc1-fscrobble/))
-- Boost Your .NET Projects: Ensure Thread-Safe Uniqueness with DistinctConcurrentBag in Spargine ([9 hours ago](https://dotnettips.wordpress.com/2025/09/14/boost-your-net-projects-ensure-thread-safe-uniqueness-with-distinctconcurrentbag-in-spargine/))
+- Boost Your .NET Projects: Ensure Thread-Safe Uniqueness with DistinctConcurrentBag in Spargine ([10 hours ago](https://dotnettips.wordpress.com/2025/09/14/boost-your-net-projects-ensure-thread-safe-uniqueness-with-distinctconcurrentbag-in-spargine/))
 - Democratizing Performance: The Copilot Profiler Agent in Action on Real Code - Visual Studio Blog ([2 days ago](https://dotnetkicks.com/r/729582?url=https://devblogs.microsoft.com/visualstudio/copilot-profiler-agent-visual-studio/))
 - Democratizing Performance: The Copilot Profiler Agent in Action on Real Code - Visual Studio Blog ([2 days ago](https://dotnetkicks.com/r/729572?url=https://devblogs.microsoft.com/visualstudio/copilot-profiler-agent-visual-studio/))
 - Ask Ralph: Where style meets AI-a new era of conversational commerce - Microsoft Industry Blogs ([3 days ago](https://dotnetkicks.com/r/729479?url=https://www.microsoft.com/en-us/industry/blog/retail/2025/09/09/ask-ralph-where-style-meets-ai-a-new-era-of-conversational-commerce/))
