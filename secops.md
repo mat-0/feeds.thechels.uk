@@ -8,10 +8,10 @@ description: SecOps News
 [Get this as an RSS feed](/secops.rss)
 
 <!-- news_marker starts -->
-- Cyber-scam camp operators shift operations to vulnerable countries as sanctions strike ([1 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/09/15/asia_tech_news_roundup/))
-- 15 ransomware gangs ‘go dark’ to enjoy 'golden parachutes' ([4 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/09/14/in_brief_infosec/))
+- Cyber-scam camp operators shift operations to vulnerable countries as sanctions strike ([2 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/09/15/asia_tech_news_roundup/))
+- 15 ransomware gangs ‘go dark’ to enjoy 'golden parachutes' ([5 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/09/14/in_brief_infosec/))
 - FBI warns of UNC6040, UNC6395 hackers stealing Salesforce data ([6 hours ago](https://www.bleepingcomputer.com/news/security/fbi-warns-of-unc6040-unc6395-hackers-stealing-salesforce-data/))
-- New VoidProxy phishing service targets Microsoft 365, Google accounts ([13 hours ago](https://www.bleepingcomputer.com/news/security/new-voidproxy-phishing-service-targets-microsoft-365-google-accounts/))
+- New VoidProxy phishing service targets Microsoft 365, Google accounts ([14 hours ago](https://www.bleepingcomputer.com/news/security/new-voidproxy-phishing-service-targets-microsoft-365-google-accounts/))
 - Data destruction done wrong could cost your company millions ([15 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/09/14/destroy_data_company_laptops_or_else/))
 - Uvalde CISD to close most of next week due to ransomware issue ([16 hours ago](https://databreaches.net/2025/09/14/uvalde-cisd-to-close-most-of-next-week-due-to-ransomware-issue/?pk_campaign=feed&pk_kwd=uvalde-cisd-to-close-most-of-next-week-due-to-ransomware-issue))
 - Union urges government intervention with 100,000 jobs at risk after JLR cyber attack ([16 hours ago](https://databreaches.net/2025/09/14/union-urges-government-intervention-with-100000-jobs-at-risk-after-jlr-cyber-attack/?pk_campaign=feed&pk_kwd=union-urges-government-intervention-with-100000-jobs-at-risk-after-jlr-cyber-attack))
