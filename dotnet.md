@@ -9,7 +9,7 @@ description: DotNet Updates
 
 <!-- news_marker starts -->
 - Regex for Email Validation? Think Again! ([2 hours ago](https://dotnetkicks.com/r/729873?url=https://codeopinion.com/regex-for-email-validation-think-again/))
-- Application Insights Code Optimizations for .NET Apps - .NET Blog ([3 hours ago](https://dotnetkicks.com/r/729860?url=https://devblogs.microsoft.com/dotnet/application-insights-code-optimizations/))
+- Application Insights Code Optimizations for .NET Apps - .NET Blog ([4 hours ago](https://dotnetkicks.com/r/729860?url=https://devblogs.microsoft.com/dotnet/application-insights-code-optimizations/))
 - Application Insights Code Optimizations for .NET Apps ([5 hours ago](https://devblogs.microsoft.com/dotnet/application-insights-code-optimizations/))
 - Working and Testing Against Scheduled Messages with Wolverine ([7 hours ago](https://dotnetkicks.com/r/729825?url=https://jeremydmiller.com/2025/09/15/working-and-testing-against-scheduled-messages-with-wolverine/))
 - Cake.Sdk 5.0.25257.82-beta released ([14 hours ago](https://dotnetkicks.com/r/729742?url=https://cakebuild.net/blog/2025/09/cake-sdk-net-publish-debug))
