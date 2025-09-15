@@ -8,9 +8,10 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Verisk: P&C industry saw $11.5b underwriting gain through first half of 2025 ([4 hours ago](https://www.dig-in.com/news/verisk-p-c-industry-saw-11-5b-underwriting-gain))
-- What skills do insurance professionals need? ([5 hours ago](https://www.dig-in.com/news/what-skills-do-insurance-professionals-need))
-- Parento Closes on Seed II Funding Round ([12 hours ago](https://insurance-edge.net/2025/09/14/parento-closes-on-seed-ii-funding-round/))
+- Equine insurance cover lags behind colic costs, study finds ([30 minutes ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/equine-insurance-cover-lags-behind-colic-costs-study-finds-549594.aspx))
+- Verisk: P&C industry saw $11.5b underwriting gain through first half of 2025 ([5 hours ago](https://www.dig-in.com/news/verisk-p-c-industry-saw-11-5b-underwriting-gain))
+- What skills do insurance professionals need? ([6 hours ago](https://www.dig-in.com/news/what-skills-do-insurance-professionals-need))
+- Parento Closes on Seed II Funding Round ([13 hours ago](https://insurance-edge.net/2025/09/14/parento-closes-on-seed-ii-funding-round/))
 - LSM Announces Changes in MENA and UK Units ([1 days ago](https://insurance-edge.net/2025/09/13/lsm-announces-changes-in-mena-and-uk-units/))
 - Another Client Win For Neutrinos ([2 days ago](https://insurance-edge.net/2025/09/12/another-client-win-for-neutrinos/))
 - FM Picks Up TIME Magazine Award ([2 days ago](https://insurance-edge.net/2025/09/12/fm-picks-up-time-magazine-award/))
@@ -110,7 +111,6 @@ description: Insurance Updates
 - SageSure to Acquire Olympus MGA, Expanding Presence in Florida Property Insurance Market ([4 days ago](https://www.insurtechinsights.com/sagesure-to-acquire-olympus-mga-expanding-presence-in-florida-property-insurance-market/))
 - Former Gable CEO found liable for £5m misappropriations ([4 days ago](https://www.postonline.co.uk/news/7958992/former-gable-ceo-found-liable-for-%C2%A35m-misappropriations))
 - Homeowners insurance profitability improves despite rising catastrophe losses – Moody’s ([4 days ago](https://www.insurancebusinessmag.com/uk/news/property-insurance/homeowners-insurance-profitability-improves-despite-rising-catastrophe-losses--moodys-549158.aspx))
-- CFC CEO Louise O'Shea leads the charge for long-term success ([4 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/cfc-ceo-louise-oshea-leads-the-charge-for-longterm-success-549144.aspx))
 - Spotlight: Unlocking ESG: the strategic advantage for insurance providers in the SME market ([4 days ago](https://www.postonline.co.uk/market-access/7958115/spotlight-unlocking-esg-the-strategic-advantage-for-insurance-providers-in-the-sme-market))
 - Admiral foils family of fraudsters ([4 days ago](https://www.postonline.co.uk/claims/7958991/admiral-foils-family-of-fraudsters))
 - National Friendly launches level reviewable premiums for 5 years ([4 days ago](https://ifamagazine.com/national-friendly-launches-level-reviewable-premiums-for-5-years/))
