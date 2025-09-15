@@ -8,7 +8,7 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- F# Weekly #37, 2025 - .NET 10 RC1 &amp; FScrobble ([19 hours ago](https://dotnetkicks.com/r/729730?url=https://sergeytihon.com/2025/09/13/f-weekly-37-2025-net-10-rc1-fscrobble/))
+- F# Weekly #37, 2025 - .NET 10 RC1 &amp; FScrobble ([20 hours ago](https://dotnetkicks.com/r/729730?url=https://sergeytihon.com/2025/09/13/f-weekly-37-2025-net-10-rc1-fscrobble/))
 - Boost Your .NET Projects: Ensure Thread-Safe Uniqueness with DistinctConcurrentBag in Spargine ([23 hours ago](https://dotnettips.wordpress.com/2025/09/14/boost-your-net-projects-ensure-thread-safe-uniqueness-with-distinctconcurrentbag-in-spargine/))
 - Democratizing Performance: The Copilot Profiler Agent in Action on Real Code - Visual Studio Blog ([3 days ago](https://dotnetkicks.com/r/729582?url=https://devblogs.microsoft.com/visualstudio/copilot-profiler-agent-visual-studio/))
 - Democratizing Performance: The Copilot Profiler Agent in Action on Real Code - Visual Studio Blog ([3 days ago](https://dotnetkicks.com/r/729572?url=https://devblogs.microsoft.com/visualstudio/copilot-profiler-agent-visual-studio/))
@@ -29,8 +29,8 @@ description: DotNet Updates
 - Celebrating 15 years of Yet Another Podcast ([7 days ago](https://dotnetkicks.com/r/729155?url=https://jesseliberty.com/2025/09/07/celebrating-15-years-of-yet-another-podcast/))
 - Celebrating 15 years of Yet Another Podcast ([7 days ago](https://dotnetkicks.com/r/729142?url=https://jesseliberty.com/2025/09/07/celebrating-15-years-of-yet-another-podcast/))
 - Boost Your .NET Projects: Efficient Byte Array Conversions ([7 days ago](https://dotnettips.wordpress.com/2025/09/07/boost-your-net-projects-efficient-byte-array-conversions/))
-- F# Weekly #36, 2025 - In Memory of Oleg Pyzhcov ([7 days ago](https://dotnetkicks.com/r/729107?url=https://sergeytihon.com/2025/09/06/f-weekly-36-2025-in-memory-of-oleg-pyzhcov/))
-- AI Injection Attacks ([8 days ago](https://dotnetkicks.com/r/729106?url=https://textslashplain.com/2025/09/05/ai-injection-attacks/))
+- F# Weekly #36, 2025 - In Memory of Oleg Pyzhcov ([8 days ago](https://dotnetkicks.com/r/729107?url=https://sergeytihon.com/2025/09/06/f-weekly-36-2025-in-memory-of-oleg-pyzhcov/))
+- AI Injection Attacks ([9 days ago](https://dotnetkicks.com/r/729106?url=https://textslashplain.com/2025/09/05/ai-injection-attacks/))
 - Sneak Peek at the SignalR Integration in Wolverine 5.0 ([9 days ago](https://dotnetkicks.com/r/729074?url=https://jeremydmiller.com/2025/09/05/sneak-peek-at-the-signalr-integration-in-wolverine-5-0/))
 - Windowing overview for WinUI and Windows App SDK - Windows apps ([10 days ago](https://dotnetkicks.com/r/728956?url=https://learn.microsoft.com/en-us/windows/apps/develop/ui-input/windowing-overview))
 - The First Set of Updates and Fixes for ReSharper and Rider 2025.2 Is Out! ([10 days ago](https://blog.jetbrains.com/dotnet/2025/09/04/resharper-and-rider-2025-2-1-is-out/))
