@@ -8,11 +8,11 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Regex for Email Validation? Think Again! ([3 hours ago](https://dotnetkicks.com/r/729873?url=https://codeopinion.com/regex-for-email-validation-think-again/))
+- Regex for Email Validation? Think Again! ([4 hours ago](https://dotnetkicks.com/r/729873?url=https://codeopinion.com/regex-for-email-validation-think-again/))
 - Application Insights Code Optimizations for .NET Apps - .NET Blog ([5 hours ago](https://dotnetkicks.com/r/729860?url=https://devblogs.microsoft.com/dotnet/application-insights-code-optimizations/))
-- Application Insights Code Optimizations for .NET Apps ([6 hours ago](https://devblogs.microsoft.com/dotnet/application-insights-code-optimizations/))
-- Working and Testing Against Scheduled Messages with Wolverine ([8 hours ago](https://dotnetkicks.com/r/729825?url=https://jeremydmiller.com/2025/09/15/working-and-testing-against-scheduled-messages-with-wolverine/))
-- Cake.Sdk 5.0.25257.82-beta released ([15 hours ago](https://dotnetkicks.com/r/729742?url=https://cakebuild.net/blog/2025/09/cake-sdk-net-publish-debug))
+- Application Insights Code Optimizations for .NET Apps ([7 hours ago](https://devblogs.microsoft.com/dotnet/application-insights-code-optimizations/))
+- Working and Testing Against Scheduled Messages with Wolverine ([9 hours ago](https://dotnetkicks.com/r/729825?url=https://jeremydmiller.com/2025/09/15/working-and-testing-against-scheduled-messages-with-wolverine/))
+- Cake.Sdk 5.0.25257.82-beta released ([16 hours ago](https://dotnetkicks.com/r/729742?url=https://cakebuild.net/blog/2025/09/cake-sdk-net-publish-debug))
 - GameDev Day 2025 Is Back in October! ([1 days ago](https://blog.jetbrains.com/dotnet/2025/09/15/gamedev-day-2025-is-back-in-october/))
 - F# Weekly #37, 2025 - .NET 10 RC1 &amp; FScrobble ([1 days ago](https://dotnetkicks.com/r/729730?url=https://sergeytihon.com/2025/09/13/f-weekly-37-2025-net-10-rc1-fscrobble/))
 - Boost Your .NET Projects: Ensure Thread-Safe Uniqueness with DistinctConcurrentBag in Spargine ([1 days ago](https://dotnettips.wordpress.com/2025/09/14/boost-your-net-projects-ensure-thread-safe-uniqueness-with-distinctconcurrentbag-in-spargine/))
