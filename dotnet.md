@@ -9,8 +9,11 @@ description: DotNet Updates
 
 <!-- news_marker starts -->
 - .NET 10 Release 1: Performance Boosts, Security Upgrades, and Smarter AI ([20 hours ago](https://dotnetkicks.com/r/729874?url=https://www.gapvelocity.ai/blog/dotnet-10-release-1?utm_source=DNK-729874&utm_medium=DNK-729874&utm_content=DNK-729874&utm_campaign=DNK-729874))
+- Supporting platform-specific .NET tools on old .NET SDKs: Exploring the .NET 10 preview - Part 8 ([15 minutes ago](https://dotnetkicks.com/r/729922?url=https://andrewlock.net/exploring-dotnet-10-preview-features-8-supporting-platform-specific-dotnet-tools-on-old-sdks/))
+- Supporting platform-specific .NET tools on old .NET SDKs: Exploring the .NET 10 preview - Part 8 ([15 minutes ago](https://dotnetkicks.com/r/729909?url=https://andrewlock.net/exploring-dotnet-10-preview-features-8-supporting-platform-specific-dotnet-tools-on-old-sdks/))
+- Supporting platform-specific .NET tools on old .NET SDKs: Exploring the .NET 10 preview - Part 8 ([38 minutes ago](https://andrewlock.net/exploring-dotnet-10-preview-features-8-supporting-platform-specific-dotnet-tools-on-old-sdks/))
 - Regex for Email Validation? Think Again! ([14 hours ago](https://dotnetkicks.com/r/729873?url=https://codeopinion.com/regex-for-email-validation-think-again/))
-- Application Insights Code Optimizations for .NET Apps - .NET Blog ([15 hours ago](https://dotnetkicks.com/r/729860?url=https://devblogs.microsoft.com/dotnet/application-insights-code-optimizations/))
+- Application Insights Code Optimizations for .NET Apps - .NET Blog ([16 hours ago](https://dotnetkicks.com/r/729860?url=https://devblogs.microsoft.com/dotnet/application-insights-code-optimizations/))
 - Application Insights Code Optimizations for .NET Apps ([17 hours ago](https://devblogs.microsoft.com/dotnet/application-insights-code-optimizations/))
 - Working and Testing Against Scheduled Messages with Wolverine ([19 hours ago](https://dotnetkicks.com/r/729825?url=https://jeremydmiller.com/2025/09/15/working-and-testing-against-scheduled-messages-with-wolverine/))
 - Cake.Sdk 5.0.25257.82-beta released ([1 days ago](https://dotnetkicks.com/r/729742?url=https://cakebuild.net/blog/2025/09/cake-sdk-net-publish-debug))
@@ -39,9 +42,7 @@ description: DotNet Updates
 - F# Weekly #36, 2025 - In Memory of Oleg Pyzhcov ([9 days ago](https://dotnetkicks.com/r/729107?url=https://sergeytihon.com/2025/09/06/f-weekly-36-2025-in-memory-of-oleg-pyzhcov/))
 - AI Injection Attacks ([10 days ago](https://dotnetkicks.com/r/729106?url=https://textslashplain.com/2025/09/05/ai-injection-attacks/))
 - Sneak Peek at the SignalR Integration in Wolverine 5.0 ([10 days ago](https://dotnetkicks.com/r/729074?url=https://jeremydmiller.com/2025/09/05/sneak-peek-at-the-signalr-integration-in-wolverine-5-0/))
-- Windowing overview for WinUI and Windows App SDK - Windows apps ([11 days ago](https://dotnetkicks.com/r/728956?url=https://learn.microsoft.com/en-us/windows/apps/develop/ui-input/windowing-overview))
 - The First Set of Updates and Fixes for ReSharper and Rider 2025.2 Is Out! ([11 days ago](https://blog.jetbrains.com/dotnet/2025/09/04/resharper-and-rider-2025-2-1-is-out/))
-- Composing Data from Multiple Services ([11 days ago](https://dotnetkicks.com/r/728934?url=https://codeopinion.com/composing-data-from-multiple-services/))
 - Let Copilot Coding Agent handle the busy work ([12 days ago](https://devblogs.microsoft.com/dotnet/copilot-coding-agent-dotnet/))
 - dotInsights  -  September 2025 ([13 days ago](https://blog.jetbrains.com/dotnet/2025/09/02/dotinsights-september-2025/))
 - Using and authoring .NET tools ([14 days ago](https://andrewlock.net/using-and-authoring-dotnet-tools/))
