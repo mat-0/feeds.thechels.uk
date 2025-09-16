@@ -10,7 +10,7 @@ description: DotNet Updates
 <!-- news_marker starts -->
 - .NET 10 Release 1: Performance Boosts, Security Upgrades, and Smarter AI ([18 hours ago](https://dotnetkicks.com/r/729874?url=https://www.gapvelocity.ai/blog/dotnet-10-release-1?utm_source=DNK-729874&utm_medium=DNK-729874&utm_content=DNK-729874&utm_campaign=DNK-729874))
 - Regex for Email Validation? Think Again! ([12 hours ago](https://dotnetkicks.com/r/729873?url=https://codeopinion.com/regex-for-email-validation-think-again/))
-- Application Insights Code Optimizations for .NET Apps - .NET Blog ([13 hours ago](https://dotnetkicks.com/r/729860?url=https://devblogs.microsoft.com/dotnet/application-insights-code-optimizations/))
+- Application Insights Code Optimizations for .NET Apps - .NET Blog ([14 hours ago](https://dotnetkicks.com/r/729860?url=https://devblogs.microsoft.com/dotnet/application-insights-code-optimizations/))
 - Application Insights Code Optimizations for .NET Apps ([15 hours ago](https://devblogs.microsoft.com/dotnet/application-insights-code-optimizations/))
 - Working and Testing Against Scheduled Messages with Wolverine ([17 hours ago](https://dotnetkicks.com/r/729825?url=https://jeremydmiller.com/2025/09/15/working-and-testing-against-scheduled-messages-with-wolverine/))
 - Cake.Sdk 5.0.25257.82-beta released ([1 days ago](https://dotnetkicks.com/r/729742?url=https://cakebuild.net/blog/2025/09/cake-sdk-net-publish-debug))
