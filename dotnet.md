@@ -8,8 +8,9 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Prompt Files and Instructions Files Explained - .NET Blog ([1 hours ago](https://dotnetkicks.com/r/730155?url=https://devblogs.microsoft.com/dotnet/prompt-files-and-instructions-files-explained/))
-- Prompt Files and Instructions Files Explained - .NET Blog ([1 hours ago](https://dotnetkicks.com/r/730152?url=https://devblogs.microsoft.com/dotnet/prompt-files-and-instructions-files-explained/))
+- Phobos 2.10: Game-Changing Akka.NET Cluster Monitoring and Actor Performance Dashboards ([21 minutes ago](https://dotnetkicks.com/r/730173?url=https://petabridge.com/blog/phobos-2.10-akka-cluster-monitoring-dashboards/))
+- Prompt Files and Instructions Files Explained - .NET Blog ([2 hours ago](https://dotnetkicks.com/r/730155?url=https://devblogs.microsoft.com/dotnet/prompt-files-and-instructions-files-explained/))
+- Prompt Files and Instructions Files Explained - .NET Blog ([2 hours ago](https://dotnetkicks.com/r/730152?url=https://devblogs.microsoft.com/dotnet/prompt-files-and-instructions-files-explained/))
 - Prompt Files and Instructions Files Explained ([2 hours ago](https://devblogs.microsoft.com/dotnet/prompt-files-and-instructions-files-explained/))
 - The Early Access Program for Rider 2025.3 Is Now Open! ([10 hours ago](https://blog.jetbrains.com/dotnet/2025/09/17/the-early-access-program-for-rider-2025-3/))
 - The Early Access Program for ReSharper and .NET Tools 2025.3 Is Here! ([10 hours ago](https://blog.jetbrains.com/dotnet/2025/09/17/the-early-access-program-for-resharper-and-net-tools-2025-3/))
@@ -43,7 +44,6 @@ description: DotNet Updates
 - .NET and .NET Framework September 2025 servicing releases updates ([8 days ago](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-september-2025-servicing-updates/))
 - The Facadeware Problem, But, Also, Help Me Beat My Car to Death ([8 days ago](https://dotnetkicks.com/r/729327?url=https://daedtech.com/the-facadeware-problem-but-also-help-me-beat-my-car-to-death/))
 - The Facadeware Problem, But, Also, Help Me Beat My Car to Death ([8 days ago](https://dotnetkicks.com/r/729323?url=https://daedtech.com/the-facadeware-problem-but-also-help-me-beat-my-car-to-death/))
-- Packaging self-contained and native AOT .NET tools for NuGet: Exploring the .NET 10 preview - Part 7 ([8 days ago](https://dotnetkicks.com/r/729276?url=https://andrewlock.net/exploring-dotnet-10-preview-features-7-packaging-self-contained-and-native-aot-dotnet-tools-for-nuget/))
 - Packaging self-contained and native AOT .NET tools for NuGet: Exploring the .NET 10 preview - Part 7 ([8 days ago](https://andrewlock.net/exploring-dotnet-10-preview-features-7-packaging-self-contained-and-native-aot-dotnet-tools-for-nuget/))
 - Boost Your .NET Projects: Efficient Byte Array Conversions ([10 days ago](https://dotnettips.wordpress.com/2025/09/07/boost-your-net-projects-efficient-byte-array-conversions/))
 - The First Set of Updates and Fixes for ReSharper and Rider 2025.2 Is Out! ([13 days ago](https://blog.jetbrains.com/dotnet/2025/09/04/resharper-and-rider-2025-2-1-is-out/))
