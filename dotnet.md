@@ -8,8 +8,8 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Prompt Files and Instructions Files Explained - .NET Blog ([46 minutes ago](https://dotnetkicks.com/r/730155?url=https://devblogs.microsoft.com/dotnet/prompt-files-and-instructions-files-explained/))
-- Prompt Files and Instructions Files Explained - .NET Blog ([46 minutes ago](https://dotnetkicks.com/r/730152?url=https://devblogs.microsoft.com/dotnet/prompt-files-and-instructions-files-explained/))
+- Prompt Files and Instructions Files Explained - .NET Blog ([1 hours ago](https://dotnetkicks.com/r/730155?url=https://devblogs.microsoft.com/dotnet/prompt-files-and-instructions-files-explained/))
+- Prompt Files and Instructions Files Explained - .NET Blog ([1 hours ago](https://dotnetkicks.com/r/730152?url=https://devblogs.microsoft.com/dotnet/prompt-files-and-instructions-files-explained/))
 - Prompt Files and Instructions Files Explained ([1 hours ago](https://devblogs.microsoft.com/dotnet/prompt-files-and-instructions-files-explained/))
 - The Early Access Program for Rider 2025.3 Is Now Open! ([9 hours ago](https://blog.jetbrains.com/dotnet/2025/09/17/the-early-access-program-for-rider-2025-3/))
 - The Early Access Program for ReSharper and .NET Tools 2025.3 Is Here! ([9 hours ago](https://blog.jetbrains.com/dotnet/2025/09/17/the-early-access-program-for-resharper-and-net-tools-2025-3/))
@@ -23,7 +23,7 @@ description: DotNet Updates
 - Supporting platform-specific .NET tools on old .NET SDKs: Exploring the .NET 10 preview - Part 8 ([1 days ago](https://dotnetkicks.com/r/729909?url=https://andrewlock.net/exploring-dotnet-10-preview-features-8-supporting-platform-specific-dotnet-tools-on-old-sdks/))
 - Supporting platform-specific .NET tools on old .NET SDKs: Exploring the .NET 10 preview - Part 8 ([1 days ago](https://andrewlock.net/exploring-dotnet-10-preview-features-8-supporting-platform-specific-dotnet-tools-on-old-sdks/))
 - Regex for Email Validation? Think Again! ([1 days ago](https://dotnetkicks.com/r/729873?url=https://codeopinion.com/regex-for-email-validation-think-again/))
-- Application Insights Code Optimizations for .NET Apps - .NET Blog ([1 days ago](https://dotnetkicks.com/r/729860?url=https://devblogs.microsoft.com/dotnet/application-insights-code-optimizations/))
+- Application Insights Code Optimizations for .NET Apps - .NET Blog ([2 days ago](https://dotnetkicks.com/r/729860?url=https://devblogs.microsoft.com/dotnet/application-insights-code-optimizations/))
 - Application Insights Code Optimizations for .NET Apps ([2 days ago](https://devblogs.microsoft.com/dotnet/application-insights-code-optimizations/))
 - Working and Testing Against Scheduled Messages with Wolverine ([2 days ago](https://dotnetkicks.com/r/729825?url=https://jeremydmiller.com/2025/09/15/working-and-testing-against-scheduled-messages-with-wolverine/))
 - Cake.Sdk 5.0.25257.82-beta released ([2 days ago](https://dotnetkicks.com/r/729742?url=https://cakebuild.net/blog/2025/09/cake-sdk-net-publish-debug))
