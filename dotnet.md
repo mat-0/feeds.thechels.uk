@@ -8,9 +8,9 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Event Enrichment in Marten Projections ([2 hours ago](https://dotnetkicks.com/r/730234?url=https://jeremydmiller.com/2025/09/17/event-enrichment-in-marten-projections/))
-- Event Enrichment in Marten Projections ([2 hours ago](https://dotnetkicks.com/r/730215?url=https://jeremydmiller.com/2025/09/17/event-enrichment-in-marten-projections/))
-- Event Enrichment in Marten Projections ([2 hours ago](https://dotnetkicks.com/r/730204?url=https://jeremydmiller.com/2025/09/17/event-enrichment-in-marten-projections/))
+- Event Enrichment in Marten Projections ([3 hours ago](https://dotnetkicks.com/r/730234?url=https://jeremydmiller.com/2025/09/17/event-enrichment-in-marten-projections/))
+- Event Enrichment in Marten Projections ([3 hours ago](https://dotnetkicks.com/r/730215?url=https://jeremydmiller.com/2025/09/17/event-enrichment-in-marten-projections/))
+- Event Enrichment in Marten Projections ([3 hours ago](https://dotnetkicks.com/r/730204?url=https://jeremydmiller.com/2025/09/17/event-enrichment-in-marten-projections/))
 - Scott Hunter ([3 hours ago](https://dotnetkicks.com/r/730190?url=https://jesseliberty.com/2025/09/17/scott-hunter/))
 - Phobos 2.10: Game-Changing Akka.NET Cluster Monitoring and Actor Performance Dashboards ([5 hours ago](https://dotnetkicks.com/r/730173?url=https://petabridge.com/blog/phobos-2.10-akka-cluster-monitoring-dashboards/))
 - Prompt Files and Instructions Files Explained - .NET Blog ([7 hours ago](https://dotnetkicks.com/r/730155?url=https://devblogs.microsoft.com/dotnet/prompt-files-and-instructions-files-explained/))
