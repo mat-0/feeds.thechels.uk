@@ -8,7 +8,7 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- What a fortnight! VS2026 and iOS26 ([4 hours ago](https://dotnetkicks.com/r/730393?url=https://jesseliberty.com/2025/09/19/what-a-fortnight-vs2026-and-ios26/))
+- What a fortnight! VS2026 and iOS26 ([5 hours ago](https://dotnetkicks.com/r/730393?url=https://jesseliberty.com/2025/09/19/what-a-fortnight-vs2026-and-ios26/))
 - Announcing: JetBrains .NET Days Online 2025 ([1 days ago](https://blog.jetbrains.com/dotnet/2025/09/18/announcing-jetbrains-net-days-online-2025/))
 - Update on Wolverine 5 and CritterWatch ([1 days ago](https://dotnetkicks.com/r/730317?url=https://jeremydmiller.com/2025/09/18/update-on-wolverine-5-and-critterwatch/))
 - More Updates and Fixes for ReSharper and Rider 2025.2 ([1 days ago](https://blog.jetbrains.com/dotnet/2025/09/18/resharper-rider-2025-2-2/))
@@ -31,7 +31,7 @@ description: DotNet Updates
 - Supporting platform-specific .NET tools on old .NET SDKs: Exploring the .NET 10 preview - Part 8 ([3 days ago](https://dotnetkicks.com/r/729922?url=https://andrewlock.net/exploring-dotnet-10-preview-features-8-supporting-platform-specific-dotnet-tools-on-old-sdks/))
 - Supporting platform-specific .NET tools on old .NET SDKs: Exploring the .NET 10 preview - Part 8 ([3 days ago](https://dotnetkicks.com/r/729909?url=https://andrewlock.net/exploring-dotnet-10-preview-features-8-supporting-platform-specific-dotnet-tools-on-old-sdks/))
 - Supporting platform-specific .NET tools on old .NET SDKs: Exploring the .NET 10 preview - Part 8 ([3 days ago](https://andrewlock.net/exploring-dotnet-10-preview-features-8-supporting-platform-specific-dotnet-tools-on-old-sdks/))
-- Regex for Email Validation? Think Again! ([3 days ago](https://dotnetkicks.com/r/729873?url=https://codeopinion.com/regex-for-email-validation-think-again/))
+- Regex for Email Validation? Think Again! ([4 days ago](https://dotnetkicks.com/r/729873?url=https://codeopinion.com/regex-for-email-validation-think-again/))
 - Application Insights Code Optimizations for .NET Apps - .NET Blog ([4 days ago](https://dotnetkicks.com/r/729860?url=https://devblogs.microsoft.com/dotnet/application-insights-code-optimizations/))
 - Application Insights Code Optimizations for .NET Apps ([4 days ago](https://devblogs.microsoft.com/dotnet/application-insights-code-optimizations/))
 - Working and Testing Against Scheduled Messages with Wolverine ([4 days ago](https://dotnetkicks.com/r/729825?url=https://jeremydmiller.com/2025/09/15/working-and-testing-against-scheduled-messages-with-wolverine/))
