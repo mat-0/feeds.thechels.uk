@@ -8,13 +8,13 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- What a fortnight! VS2026 and iOS26 ([6 hours ago](https://dotnetkicks.com/r/730393?url=https://jesseliberty.com/2025/09/19/what-a-fortnight-vs2026-and-ios26/))
+- What a fortnight! VS2026 and iOS26 ([7 hours ago](https://dotnetkicks.com/r/730393?url=https://jesseliberty.com/2025/09/19/what-a-fortnight-vs2026-and-ios26/))
 - Announcing: JetBrains .NET Days Online 2025 ([1 days ago](https://blog.jetbrains.com/dotnet/2025/09/18/announcing-jetbrains-net-days-online-2025/))
 - Update on Wolverine 5 and CritterWatch ([1 days ago](https://dotnetkicks.com/r/730317?url=https://jeremydmiller.com/2025/09/18/update-on-wolverine-5-and-critterwatch/))
 - More Updates and Fixes for ReSharper and Rider 2025.2 ([1 days ago](https://blog.jetbrains.com/dotnet/2025/09/18/resharper-rider-2025-2-2/))
-- Event Enrichment in Marten Projections ([1 days ago](https://dotnetkicks.com/r/730234?url=https://jeremydmiller.com/2025/09/17/event-enrichment-in-marten-projections/))
-- Event Enrichment in Marten Projections ([1 days ago](https://dotnetkicks.com/r/730215?url=https://jeremydmiller.com/2025/09/17/event-enrichment-in-marten-projections/))
-- Event Enrichment in Marten Projections ([1 days ago](https://dotnetkicks.com/r/730204?url=https://jeremydmiller.com/2025/09/17/event-enrichment-in-marten-projections/))
+- Event Enrichment in Marten Projections ([2 days ago](https://dotnetkicks.com/r/730234?url=https://jeremydmiller.com/2025/09/17/event-enrichment-in-marten-projections/))
+- Event Enrichment in Marten Projections ([2 days ago](https://dotnetkicks.com/r/730215?url=https://jeremydmiller.com/2025/09/17/event-enrichment-in-marten-projections/))
+- Event Enrichment in Marten Projections ([2 days ago](https://dotnetkicks.com/r/730204?url=https://jeremydmiller.com/2025/09/17/event-enrichment-in-marten-projections/))
 - Scott Hunter ([2 days ago](https://dotnetkicks.com/r/730190?url=https://jesseliberty.com/2025/09/17/scott-hunter/))
 - Phobos 2.10: Game-Changing Akka.NET Cluster Monitoring and Actor Performance Dashboards ([2 days ago](https://dotnetkicks.com/r/730173?url=https://petabridge.com/blog/phobos-2.10-akka-cluster-monitoring-dashboards/))
 - Prompt Files and Instructions Files Explained - .NET Blog ([2 days ago](https://dotnetkicks.com/r/730155?url=https://devblogs.microsoft.com/dotnet/prompt-files-and-instructions-files-explained/))
