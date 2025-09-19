@@ -8,9 +8,9 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Announcing: JetBrains .NET Days Online 2025 ([4 hours ago](https://blog.jetbrains.com/dotnet/2025/09/18/announcing-jetbrains-net-days-online-2025/))
-- Update on Wolverine 5 and CritterWatch ([6 hours ago](https://dotnetkicks.com/r/730317?url=https://jeremydmiller.com/2025/09/18/update-on-wolverine-5-and-critterwatch/))
-- More Updates and Fixes for ReSharper and Rider 2025.2 ([8 hours ago](https://blog.jetbrains.com/dotnet/2025/09/18/resharper-rider-2025-2-2/))
+- Announcing: JetBrains .NET Days Online 2025 ([5 hours ago](https://blog.jetbrains.com/dotnet/2025/09/18/announcing-jetbrains-net-days-online-2025/))
+- Update on Wolverine 5 and CritterWatch ([7 hours ago](https://dotnetkicks.com/r/730317?url=https://jeremydmiller.com/2025/09/18/update-on-wolverine-5-and-critterwatch/))
+- More Updates and Fixes for ReSharper and Rider 2025.2 ([9 hours ago](https://blog.jetbrains.com/dotnet/2025/09/18/resharper-rider-2025-2-2/))
 - Event Enrichment in Marten Projections ([1 days ago](https://dotnetkicks.com/r/730234?url=https://jeremydmiller.com/2025/09/17/event-enrichment-in-marten-projections/))
 - Event Enrichment in Marten Projections ([1 days ago](https://dotnetkicks.com/r/730215?url=https://jeremydmiller.com/2025/09/17/event-enrichment-in-marten-projections/))
 - Event Enrichment in Marten Projections ([1 days ago](https://dotnetkicks.com/r/730204?url=https://jeremydmiller.com/2025/09/17/event-enrichment-in-marten-projections/))
