@@ -9,7 +9,7 @@ description: Insurance Updates
 
 <!-- news_marker starts -->
 - Homeowners Risk Insurance Cover by Skipping Maintenance & Payments ([9 hours ago](https://insurance-edge.net/2025/09/20/homeowners-risk-insurance-cover-by-skipping-maintenance-payments/))
-- California’s Insurance Commissioner Is Seeking Changes to The Intervenor Process ([19 hours ago](https://www.insurancejournal.com/news/west/2025/09/19/839886.htm))
+- California’s Insurance Commissioner Is Seeking Changes to The Intervenor Process ([20 hours ago](https://www.insurancejournal.com/news/west/2025/09/19/839886.htm))
 - People Moves: IMA Financial Group Names Leadership Appointments in Houston Office ([1 days ago](https://www.insurancejournal.com/news/southcentral/2025/09/19/839874.htm))
 - Broadstone Warns Chancellor: Resist The IPT Tax Hike Temptation ([1 days ago](https://insurance-edge.net/2025/09/19/broadstone-warns-chancellor-resist-the-ipt-tax-hike-temptation/))
 - Grange Policy Not Ambiguous in Death of Family Killed in 2019 Kentucky Crash ([1 days ago](https://www.insurancejournal.com/news/southeast/2025/09/19/839863.htm))
@@ -123,7 +123,7 @@ description: Insurance Updates
 - How insurers can harness tech for smarter wildfire resilience ([3 days ago](https://www.dig-in.com/opinion/how-insurers-can-harness-tech-for-smarter-wildfire-resilience))
 - J.D. Power: Rising premiums impacting customer loyalty ([3 days ago](https://www.dig-in.com/news/j-d-power-rising-premiums-impacting-customer-loyalty))
 - Acrisure London Wholesale Expands Global Reach Through Partnership with Israel’s Madanes ([3 days ago](https://www.insurtechinsights.com/acrisure-london-wholesale-expands-global-reach-through-partnership-with-israels-madanes/))
-- What this professional athlete's mental health journey can teach the workplace ([3 days ago](https://www.dig-in.com/news/what-this-professional-athletes-mental-health-journey-can-teach-the-workplace))
+- What this professional athlete's mental health journey can teach the workplace ([4 days ago](https://www.dig-in.com/news/what-this-professional-athletes-mental-health-journey-can-teach-the-workplace))
 - Only 14% of employers have a good understanding of the full spectrum of employees’ health and wellbeing needs ([4 days ago](https://ifamagazine.com/only-14-of-employers-have-a-good-understanding-of-the-full-spectrum-of-employees-health-and-wellbeing-needs/))
 - AXA XL Names Donnacha Smyth Global Chief Underwriting Officer, Casualty ([5 days ago](https://www.insurtechinsights.com/axa-xl-names-donnacha-smyth-global-chief-underwriting-officer-casualty/))
 - Seyna Secures €10 Million to Accelerate Growth ([5 days ago](https://www.insurtechinsights.com/seyna-secures-e10-million-to-accelerate-growth/))
