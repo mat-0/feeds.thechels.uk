@@ -43,7 +43,7 @@ description: DotNet Updates
 - Democratizing Performance: The Copilot Profiler Agent in Action on Real Code - Visual Studio Blog ([8 days ago](https://dotnetkicks.com/r/729572?url=https://devblogs.microsoft.com/visualstudio/copilot-profiler-agent-visual-studio/))
 - Ask Ralph: Where style meets AI-a new era of conversational commerce - Microsoft Industry Blogs ([9 days ago](https://dotnetkicks.com/r/729479?url=https://www.microsoft.com/en-us/industry/blog/retail/2025/09/09/ask-ralph-where-style-meets-ai-a-new-era-of-conversational-commerce/))
 - Cake.Sdk 5.0.25253.70-beta released ([9 days ago](https://dotnetkicks.com/r/729475?url=https://cakebuild.net/blog/2025/09/cake-sdk-net-rc1-update))
-- Performance Improvements in .NET 10 ([9 days ago](https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-10/))
+- Performance Improvements in .NET 10 ([10 days ago](https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-10/))
 - Announcing .NET 10 Release Candidate 1 ([10 days ago](https://devblogs.microsoft.com/dotnet/dotnet-10-rc-1/))
 - .NET and .NET Framework September 2025 servicing releases updates ([10 days ago](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-september-2025-servicing-updates/))
 - Packaging self-contained and native AOT .NET tools for NuGet: Exploring the .NET 10 preview - Part 7 ([11 days ago](https://andrewlock.net/exploring-dotnet-10-preview-features-7-packaging-self-contained-and-native-aot-dotnet-tools-for-nuget/))
