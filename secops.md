@@ -8,11 +8,11 @@ description: SecOps News
 [Get this as an RSS feed](/secops.rss)
 
 <!-- news_marker starts -->
-- Canada dismantles TradeOgre exchange, seizes $40 million in crypto ([2 hours ago](https://www.bleepingcomputer.com/news/security/canada-dismantles-tradeogre-exchange-seizes-40-million-in-crypto/))
-- Cyberattack disrupts European airports including Heathrow, Brussels ([8 hours ago](https://databreaches.net/2025/09/20/cyberattack-disrupts-european-airports-including-heathrow-brussels/?pk_campaign=feed&pk_kwd=cyberattack-disrupts-european-airports-including-heathrow-brussels))
+- Canada dismantles TradeOgre exchange, seizes $40 million in crypto ([3 hours ago](https://www.bleepingcomputer.com/news/security/canada-dismantles-tradeogre-exchange-seizes-40-million-in-crypto/))
+- Cyberattack disrupts European airports including Heathrow, Brussels ([9 hours ago](https://databreaches.net/2025/09/20/cyberattack-disrupts-european-airports-including-heathrow-brussels/?pk_campaign=feed&pk_kwd=cyberattack-disrupts-european-airports-including-heathrow-brussels))
 - Britain jumps into bed with Palantir in £1.5B defense pact ([11 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/09/20/uk_palantir_defense_pact/))
-- LastPass Warns of Fake Repositories Infecting macOS with Atomic Infostealer ([12 hours ago](https://thehackernews.com/2025/09/lastpass-warns-of-fake-repositories.html))
-- Researchers Uncover GPT-4-Powered MalTerminal Malware Creating Ransomware, Reverse Shell ([13 hours ago](https://thehackernews.com/2025/09/researchers-uncover-gpt-4-powered.html))
+- LastPass Warns of Fake Repositories Infecting macOS with Atomic Infostealer ([13 hours ago](https://thehackernews.com/2025/09/lastpass-warns-of-fake-repositories.html))
+- Researchers Uncover GPT-4-Powered MalTerminal Malware Creating Ransomware, Reverse Shell ([14 hours ago](https://thehackernews.com/2025/09/researchers-uncover-gpt-4-powered.html))
 - ShadowLeak Zero-Click Flaw Leaks Gmail Data via OpenAI ChatGPT Deep Research Agent ([14 hours ago](https://thehackernews.com/2025/09/shadowleak-zero-click-flaw-leaks-gmail.html))
 - Teen Suspect Surrenders in 2023 Las Vegas Casino Cyberattack Case ([19 hours ago](https://databreaches.net/2025/09/19/teen-suspect-surrenders-in-2023-las-vegas-casino-cyberattack-case/?pk_campaign=feed&pk_kwd=teen-suspect-surrenders-in-2023-las-vegas-casino-cyberattack-case))
 - Microsoft starts rolling out Gaming Copilot on Windows 11 PCs ([1 days ago](https://www.bleepingcomputer.com/news/microsoft/microsoft-starts-rolling-out-gaming-copilot-on-windows-11-pcs/))
