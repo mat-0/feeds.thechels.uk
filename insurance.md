@@ -9,7 +9,7 @@ description: Insurance Updates
 
 <!-- news_marker starts -->
 - Homeowners Risk Insurance Cover by Skipping Maintenance & Payments ([12 hours ago](https://insurance-edge.net/2025/09/20/homeowners-risk-insurance-cover-by-skipping-maintenance-payments/))
-- California’s Insurance Commissioner Is Seeking Changes to The Intervenor Process ([22 hours ago](https://www.insurancejournal.com/news/west/2025/09/19/839886.htm))
+- California’s Insurance Commissioner Is Seeking Changes to The Intervenor Process ([23 hours ago](https://www.insurancejournal.com/news/west/2025/09/19/839886.htm))
 - People Moves: IMA Financial Group Names Leadership Appointments in Houston Office ([1 days ago](https://www.insurancejournal.com/news/southcentral/2025/09/19/839874.htm))
 - Broadstone Warns Chancellor: Resist The IPT Tax Hike Temptation ([1 days ago](https://insurance-edge.net/2025/09/19/broadstone-warns-chancellor-resist-the-ipt-tax-hike-temptation/))
 - Grange Policy Not Ambiguous in Death of Family Killed in 2019 Kentucky Crash ([1 days ago](https://www.insurancejournal.com/news/southeast/2025/09/19/839863.htm))
@@ -104,7 +104,7 @@ description: Insurance Updates
 - Uris Group renews and expands Zurich partnership ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/uris-group-renews-and-expands-zurich-partnership-550091.aspx))
 - DUAL and Hiscox partnership reshapes Ireland's HNW insurance market ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/dual-and-hiscox-partnership-reshapes-irelands-hnw-insurance-market-550089.aspx))
 - BHSI launches group personal accident and business travel cover in UK ([2 days ago](https://www.insurancebusinessmag.com/uk/news/travel/bhsi-launches-group-personal-accident-and-business-travel-cover-in-uk-550088.aspx))
-- New York bank doubles down on insurance with big investment ([2 days ago](https://www.dig-in.com/news/new-york-bank-doubles-down-on-insurance-with-big-investment))
+- New York bank doubles down on insurance with big investment ([3 days ago](https://www.dig-in.com/news/new-york-bank-doubles-down-on-insurance-with-big-investment))
 - Smart Strategies – Sept. 2025 ([3 days ago](https://www.dig-in.com/news/smart-insurance-strategies-sept-2025))
 - 'Real risk': Growth of identity fraud and candidate misrepresentation ([3 days ago](https://www.insurancebusinessmag.com/uk/business-strategy/real-risk-growth-of-identity-fraud-and-candidate-misrepresentation-550067.aspx))
 - AmTrust partners with Blackstone: Insurance news ([3 days ago](https://www.dig-in.com/news/amtrust-partners-with-blackstone-insurance-news))
@@ -120,7 +120,7 @@ description: Insurance Updates
 - Arrow Risk Partners with Bridgehaven to Launch Tech E&O Practice ([3 days ago](https://www.insurtechinsights.com/arrow-risk-partners-with-bridgehaven-to-launch-tech-eo-practice/))
 - Qover and Helvetia Expand Partnership to Deliver Multi-Product Embedded Insurance Solutions ([3 days ago](https://www.insurtechinsights.com/qover-and-helvetia-expand-partnership-to-deliver-multi-product-embedded-insurance-solutions/))
 - Dive In experts urge carers’ leave support development ([3 days ago](https://www.postonline.co.uk/people/7959048/dive-in-experts-urge-carers%E2%80%99-leave-support-development))
-- How insurers can harness tech for smarter wildfire resilience ([3 days ago](https://www.dig-in.com/opinion/how-insurers-can-harness-tech-for-smarter-wildfire-resilience))
+- How insurers can harness tech for smarter wildfire resilience ([4 days ago](https://www.dig-in.com/opinion/how-insurers-can-harness-tech-for-smarter-wildfire-resilience))
 - J.D. Power: Rising premiums impacting customer loyalty ([4 days ago](https://www.dig-in.com/news/j-d-power-rising-premiums-impacting-customer-loyalty))
 - Acrisure London Wholesale Expands Global Reach Through Partnership with Israel’s Madanes ([4 days ago](https://www.insurtechinsights.com/acrisure-london-wholesale-expands-global-reach-through-partnership-with-israels-madanes/))
 - What this professional athlete's mental health journey can teach the workplace ([4 days ago](https://www.dig-in.com/news/what-this-professional-athletes-mental-health-journey-can-teach-the-workplace))
