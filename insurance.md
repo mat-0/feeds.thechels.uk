@@ -71,7 +71,7 @@ description: Insurance Updates
 - Lycetts strengthens leadership team with senior promotions ([1 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/lycetts-strengthens-leadership-team-with-senior-promotions-550240.aspx))
 - Fortegra Insurance UK joins ABI ([1 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/fortegra-insurance-uk-joins-abi-550238.aspx))
 - AI adoption could reshape professional liability landscape - LMA ([1 days ago](https://www.insurancebusinessmag.com/uk/news/professional-liability/ai-adoption-could-reshape-professional-liability-landscape--lma-550237.aspx))
-- More than just legal insurance ([1 days ago](https://www.insurancebusinessmag.com/uk/news/legal-insights/more-than-just-legal-insurance-550046.aspx))
+- More than just legal insurance ([2 days ago](https://www.insurancebusinessmag.com/uk/news/legal-insights/more-than-just-legal-insurance-550046.aspx))
 - Why insurance industry is leading AI adoption ([2 days ago](https://www.dig-in.com/opinion/why-insurance-industry-is-leading-ai-adoption))
 - The future of insurance tech depends on people ([2 days ago](https://www.dig-in.com/opinion/the-future-of-insurance-tech-depends-on-people))
 - Companies underestimate broader climate risks, survey finds ([2 days ago](https://www.dig-in.com/articles/companies-underestimate-broader-climate-risks-survey-finds))
