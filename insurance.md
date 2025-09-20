@@ -8,7 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Homeowners Risk Insurance Cover by Skipping Maintenance & Payments ([11 hours ago](https://insurance-edge.net/2025/09/20/homeowners-risk-insurance-cover-by-skipping-maintenance-payments/))
+- Homeowners Risk Insurance Cover by Skipping Maintenance & Payments ([12 hours ago](https://insurance-edge.net/2025/09/20/homeowners-risk-insurance-cover-by-skipping-maintenance-payments/))
 - California’s Insurance Commissioner Is Seeking Changes to The Intervenor Process ([22 hours ago](https://www.insurancejournal.com/news/west/2025/09/19/839886.htm))
 - People Moves: IMA Financial Group Names Leadership Appointments in Houston Office ([1 days ago](https://www.insurancejournal.com/news/southcentral/2025/09/19/839874.htm))
 - Broadstone Warns Chancellor: Resist The IPT Tax Hike Temptation ([1 days ago](https://insurance-edge.net/2025/09/19/broadstone-warns-chancellor-resist-the-ipt-tax-hike-temptation/))
@@ -105,7 +105,7 @@ description: Insurance Updates
 - DUAL and Hiscox partnership reshapes Ireland's HNW insurance market ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/dual-and-hiscox-partnership-reshapes-irelands-hnw-insurance-market-550089.aspx))
 - BHSI launches group personal accident and business travel cover in UK ([2 days ago](https://www.insurancebusinessmag.com/uk/news/travel/bhsi-launches-group-personal-accident-and-business-travel-cover-in-uk-550088.aspx))
 - New York bank doubles down on insurance with big investment ([2 days ago](https://www.dig-in.com/news/new-york-bank-doubles-down-on-insurance-with-big-investment))
-- Smart Strategies – Sept. 2025 ([2 days ago](https://www.dig-in.com/news/smart-insurance-strategies-sept-2025))
+- Smart Strategies – Sept. 2025 ([3 days ago](https://www.dig-in.com/news/smart-insurance-strategies-sept-2025))
 - 'Real risk': Growth of identity fraud and candidate misrepresentation ([3 days ago](https://www.insurancebusinessmag.com/uk/business-strategy/real-risk-growth-of-identity-fraud-and-candidate-misrepresentation-550067.aspx))
 - AmTrust partners with Blackstone: Insurance news ([3 days ago](https://www.dig-in.com/news/amtrust-partners-with-blackstone-insurance-news))
 - Flora Fertility is giving  employees  control of their benefits — while  lowering costs ([3 days ago](https://www.dig-in.com/news/flora-fertility-introduces-individual-fertility-benefits))
