@@ -8,11 +8,11 @@ description: SecOps News
 [Get this as an RSS feed](/secops.rss)
 
 <!-- news_marker starts -->
-- Canada dismantles TradeOgre exchange, seizes $40 million in crypto ([12 hours ago](https://www.bleepingcomputer.com/news/security/canada-dismantles-tradeogre-exchange-seizes-40-million-in-crypto/))
-- Cyberattack disrupts European airports including Heathrow, Brussels ([18 hours ago](https://databreaches.net/2025/09/20/cyberattack-disrupts-european-airports-including-heathrow-brussels/?pk_campaign=feed&pk_kwd=cyberattack-disrupts-european-airports-including-heathrow-brussels))
+- Canada dismantles TradeOgre exchange, seizes $40 million in crypto ([13 hours ago](https://www.bleepingcomputer.com/news/security/canada-dismantles-tradeogre-exchange-seizes-40-million-in-crypto/))
+- Cyberattack disrupts European airports including Heathrow, Brussels ([19 hours ago](https://databreaches.net/2025/09/20/cyberattack-disrupts-european-airports-including-heathrow-brussels/?pk_campaign=feed&pk_kwd=cyberattack-disrupts-european-airports-including-heathrow-brussels))
 - Britain jumps into bed with Palantir in £1.5B defense pact ([21 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/09/20/uk_palantir_defense_pact/))
-- LastPass Warns of Fake Repositories Infecting macOS with Atomic Infostealer ([22 hours ago](https://thehackernews.com/2025/09/lastpass-warns-of-fake-repositories.html))
-- Researchers Uncover GPT-4-Powered MalTerminal Malware Creating Ransomware, Reverse Shell ([23 hours ago](https://thehackernews.com/2025/09/researchers-uncover-gpt-4-powered.html))
+- LastPass Warns of Fake Repositories Infecting macOS with Atomic Infostealer ([23 hours ago](https://thehackernews.com/2025/09/lastpass-warns-of-fake-repositories.html))
+- Researchers Uncover GPT-4-Powered MalTerminal Malware Creating Ransomware, Reverse Shell ([1 days ago](https://thehackernews.com/2025/09/researchers-uncover-gpt-4-powered.html))
 - ShadowLeak Zero-Click Flaw Leaks Gmail Data via OpenAI ChatGPT Deep Research Agent ([1 days ago](https://thehackernews.com/2025/09/shadowleak-zero-click-flaw-leaks-gmail.html))
 - Teen Suspect Surrenders in 2023 Las Vegas Casino Cyberattack Case ([1 days ago](https://databreaches.net/2025/09/19/teen-suspect-surrenders-in-2023-las-vegas-casino-cyberattack-case/?pk_campaign=feed&pk_kwd=teen-suspect-surrenders-in-2023-las-vegas-casino-cyberattack-case))
 - Microsoft starts rolling out Gaming Copilot on Windows 11 PCs ([1 days ago](https://www.bleepingcomputer.com/news/microsoft/microsoft-starts-rolling-out-gaming-copilot-on-windows-11-pcs/))
@@ -56,7 +56,7 @@ description: SecOps News
 - Vastaamo psychotherapy hack: US citizen charged in latest twist of notorious data breach ([1 days ago](https://www.bitdefender.com/en-us/blog/hotforsecurity/vastaamo-psychotherapy-hack-us-citizen-charged-in-latest-twist-of-notorious-data-breach))
 - U.K. Arrests Two Teen Scattered Spider Hackers Linked to August 2024 TfL Cyber Attack ([1 days ago](https://thehackernews.com/2025/09/uk-arrest-two-teen-scattered-spider.html))
 - MI6 reveals 'Silent Courier' dark web portal upgrade it hopes will help it recruit new spies ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2025/09/19/mi6_darkweb_portal_upgrade/))
-- Have I Been Pwned Demos Are Now Live! ([1 days ago](https://www.troyhunt.com/have-i-been-pwned-demos-are-now-live/))
+- Have I Been Pwned Demos Are Now Live! ([2 days ago](https://www.troyhunt.com/have-i-been-pwned-demos-are-now-live/))
 - Slack threatened to delete nonprofit coding club’s data if it didn’t pay $50k in a week ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2025/09/19/slack_nonprofit_license_hike_threat/))
 - CISA Warns of Two Malware Strains Exploiting Ivanti EPMM CVE-2025-4427 and CVE-2025-4428 ([2 days ago](https://thehackernews.com/2025/09/cisa-warns-of-two-malware-strains.html))
 - OpenAI's $4 GPT Go plan may expand to more regions ([2 days ago](https://www.bleepingcomputer.com/news/artificial-intelligence/openais-4-gpt-go-plan-may-expand-to-more-regions/))
@@ -94,7 +94,7 @@ description: SecOps News
 - “Pompompurin” resentenced: BreachForums creator heads back behind bars ([2 days ago](https://www.bitdefender.com/en-us/blog/hotforsecurity/pompompurin-resentenced-breachforums-creator-heads-back-behind-bars))
 - Toys can tell us a lot about how tech will change our lives ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2025/09/18/toys_and_tech_futures/))
 - Huawei lays out multi-year AI accelerator roadmap and claims it makes Earth’s mightiest clusters ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2025/09/18/huawei_ascend_roadmap/))
-- Google Patches Chrome Zero-Day CVE-2025-10585 as Active V8 Exploit Threatens Millions ([2 days ago](https://thehackernews.com/2025/09/google-patches-chrome-zero-day-cve-2025.html))
+- Google Patches Chrome Zero-Day CVE-2025-10585 as Active V8 Exploit Threatens Millions ([3 days ago](https://thehackernews.com/2025/09/google-patches-chrome-zero-day-cve-2025.html))
 - Microsoft thinks cloud PCs might be overkill, starts streaming just apps under Windows 365 ([3 days ago](https://go.theregister.com/feed/www.theregister.com/2025/09/18/microsoft_cloud_apps_omnissa_update/))
 - FreeOnes - 960,213 breached accounts ([3 days ago](https://haveibeenpwned.com/Breach/FreeOnes))
 - Vibe coding platform Replit's latest update is infuriating customers with surprise cost overruns ([3 days ago](https://go.theregister.com/feed/www.theregister.com/2025/09/18/replit_agent3_pricing/))
@@ -185,6 +185,6 @@ description: SecOps News
 - TheSqua.re - 107,041 breached accounts ([25 days ago](https://haveibeenpwned.com/Breach/TheSquare))
 - DSLRoot, Proxies, and the Threat of ‘Legal Botnets’ ([25 days ago](https://krebsonsecurity.com/2025/08/dslroot-proxies-and-the-threat-of-legal-botnets/))
 - Countering Chinese State-Sponsored Actors Compromise of Networks Worldwide to Feed Global Espionage System ([26 days ago](https://www.cisa.gov/news-events/cybersecurity-advisories/aa25-239a))
-- Weekly Update 466 ([26 days ago](https://www.troyhunt.com/weekly-update-466/))
+- Weekly Update 466 ([27 days ago](https://www.troyhunt.com/weekly-update-466/))
 
 <!-- news_marker ends -->
