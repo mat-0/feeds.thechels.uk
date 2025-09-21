@@ -8,6 +8,8 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
+- Hyperexponential launches AI-based underwriting platform ([4 minutes ago](https://www.dig-in.com/news/hyperexponential-launches-ai-based-underwriting-platform))
+- Customers expect digital, not many life insurers deliver, Capgemini ([5 minutes ago](https://www.dig-in.com/news/customers-expect-digital-not-many-life-insurers-deliver-capgemini))
 - Homeowners Risk Insurance Cover by Skipping Maintenance & Payments ([1 days ago](https://insurance-edge.net/2025/09/20/homeowners-risk-insurance-cover-by-skipping-maintenance-payments/))
 - California’s Insurance Commissioner Is Seeking Changes to The Intervenor Process ([1 days ago](https://www.insurancejournal.com/news/west/2025/09/19/839886.htm))
 - People Moves: IMA Financial Group Names Leadership Appointments in Houston Office ([2 days ago](https://www.insurancejournal.com/news/southcentral/2025/09/19/839874.htm))
@@ -74,7 +76,7 @@ description: Insurance Updates
 - More than just legal insurance ([2 days ago](https://www.insurancebusinessmag.com/uk/news/legal-insights/more-than-just-legal-insurance-550046.aspx))
 - Why insurance industry is leading AI adoption ([2 days ago](https://www.dig-in.com/opinion/why-insurance-industry-is-leading-ai-adoption))
 - The future of insurance tech depends on people ([2 days ago](https://www.dig-in.com/opinion/the-future-of-insurance-tech-depends-on-people))
-- Companies underestimate broader climate risks, survey finds ([2 days ago](https://www.dig-in.com/articles/companies-underestimate-broader-climate-risks-survey-finds))
+- Companies underestimate broader climate risks, survey finds ([3 days ago](https://www.dig-in.com/articles/companies-underestimate-broader-climate-risks-survey-finds))
 - Could a speed limit change make motor profitable? ([3 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/could-a-speed-limit-change-make-motor-profitable-550189.aspx))
 - Radian Group to Acquire Lloyd’s Specialty Insurer Inigo for $1.7 Billion ([3 days ago](https://www.insurtechinsights.com/radian-group-to-acquire-lloyds-specialty-insurer-inigo-for-1-7-billion/))
 - Future-proof: How climate modelling tools are empowering insurers and brokers ([3 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/futureproof-how-climate-modelling-tools-are-empowering-insurers-and-brokers-550166.aspx))
@@ -121,9 +123,7 @@ description: Insurance Updates
 - Qover and Helvetia Expand Partnership to Deliver Multi-Product Embedded Insurance Solutions ([4 days ago](https://www.insurtechinsights.com/qover-and-helvetia-expand-partnership-to-deliver-multi-product-embedded-insurance-solutions/))
 - Dive In experts urge carers’ leave support development ([4 days ago](https://www.postonline.co.uk/people/7959048/dive-in-experts-urge-carers%E2%80%99-leave-support-development))
 - How insurers can harness tech for smarter wildfire resilience ([4 days ago](https://www.dig-in.com/opinion/how-insurers-can-harness-tech-for-smarter-wildfire-resilience))
-- J.D. Power: Rising premiums impacting customer loyalty ([4 days ago](https://www.dig-in.com/news/j-d-power-rising-premiums-impacting-customer-loyalty))
 - Acrisure London Wholesale Expands Global Reach Through Partnership with Israel’s Madanes ([5 days ago](https://www.insurtechinsights.com/acrisure-london-wholesale-expands-global-reach-through-partnership-with-israels-madanes/))
-- What this professional athlete's mental health journey can teach the workplace ([5 days ago](https://www.dig-in.com/news/what-this-professional-athletes-mental-health-journey-can-teach-the-workplace))
 - Only 14% of employers have a good understanding of the full spectrum of employees’ health and wellbeing needs ([5 days ago](https://ifamagazine.com/only-14-of-employers-have-a-good-understanding-of-the-full-spectrum-of-employees-health-and-wellbeing-needs/))
 - AXA XL Names Donnacha Smyth Global Chief Underwriting Officer, Casualty ([6 days ago](https://www.insurtechinsights.com/axa-xl-names-donnacha-smyth-global-chief-underwriting-officer-casualty/))
 - Seyna Secures €10 Million to Accelerate Growth ([6 days ago](https://www.insurtechinsights.com/seyna-secures-e10-million-to-accelerate-growth/))

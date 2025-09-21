@@ -9,11 +9,11 @@ description: SecOps News
 
 <!-- news_marker starts -->
 - Microsoft Entra ID flaw allowed hijacking any company's tenant ([1 hours ago](https://www.bleepingcomputer.com/news/security/microsoft-entra-id-flaw-allowed-hijacking-any-companys-tenant/))
-- Airport Cyberattack Disrupts More Flights Across Europe ([2 hours ago](https://www.securityweek.com/airport-cyberattack-disrupts-more-flights-across-europe/))
-- DPRK Hackers Use ClickFix to Deliver BeaverTail Malware in Crypto Job Scams ([7 hours ago](https://thehackernews.com/2025/09/dprk-hackers-use-clickfix-to-deliver.html))
+- Airport Cyberattack Disrupts More Flights Across Europe ([3 hours ago](https://www.securityweek.com/airport-cyberattack-disrupts-more-flights-across-europe/))
+- DPRK Hackers Use ClickFix to Deliver BeaverTail Malware in Crypto Job Scams ([8 hours ago](https://thehackernews.com/2025/09/dprk-hackers-use-clickfix-to-deliver.html))
 - Weekly Update 470 ([10 hours ago](https://www.troyhunt.com/weekly-update-470/))
 - Make Windows 11 more useful and less annoying with these 11 Registry hacks ([10 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/09/21/windows_11_registry_hacks_regedit/))
-- Animeify - 808,034 breached accounts ([10 hours ago](https://haveibeenpwned.com/Breach/Animeify))
+- Animeify - 808,034 breached accounts ([11 hours ago](https://haveibeenpwned.com/Breach/Animeify))
 - Canada dismantles TradeOgre exchange, seizes $40 million in crypto ([1 days ago](https://www.bleepingcomputer.com/news/security/canada-dismantles-tradeogre-exchange-seizes-40-million-in-crypto/))
 - Cyberattack Disrupts Check-In Systems at Major European Airports ([1 days ago](https://www.securityweek.com/cyberattack-disrupts-check-in-systems-at-major-european-airports/))
 - Cyberattack disrupts European airports including Heathrow, Brussels ([1 days ago](https://databreaches.net/2025/09/20/cyberattack-disrupts-european-airports-including-heathrow-brussels/?pk_campaign=feed&pk_kwd=cyberattack-disrupts-european-airports-including-heathrow-brussels))
@@ -22,7 +22,7 @@ description: SecOps News
 - Researchers Uncover GPT-4-Powered MalTerminal Malware Creating Ransomware, Reverse Shell ([1 days ago](https://thehackernews.com/2025/09/researchers-uncover-gpt-4-powered.html))
 - ShadowLeak Zero-Click Flaw Leaks Gmail Data via OpenAI ChatGPT Deep Research Agent ([1 days ago](https://thehackernews.com/2025/09/shadowleak-zero-click-flaw-leaks-gmail.html))
 - Teen Suspect Surrenders in 2023 Las Vegas Casino Cyberattack Case ([1 days ago](https://databreaches.net/2025/09/19/teen-suspect-surrenders-in-2023-las-vegas-casino-cyberattack-case/?pk_campaign=feed&pk_kwd=teen-suspect-surrenders-in-2023-las-vegas-casino-cyberattack-case))
-- Microsoft starts rolling out Gaming Copilot on Windows 11 PCs ([1 days ago](https://www.bleepingcomputer.com/news/microsoft/microsoft-starts-rolling-out-gaming-copilot-on-windows-11-pcs/))
+- Microsoft starts rolling out Gaming Copilot on Windows 11 PCs ([2 days ago](https://www.bleepingcomputer.com/news/microsoft/microsoft-starts-rolling-out-gaming-copilot-on-windows-11-pcs/))
 - ChatGPT joins human league, now solves CAPTCHAs for the right prompt ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2025/09/19/how_to_trick_chatgpt_agents/))
 - ChatGPT joins human league, now solves CAPTCHAs for the right prompt ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2025/09/19/how_to_trick_chatgpt_agents/))
 - Sorry, but DeepSeek didn’t really train its flagship model for $294,000 ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2025/09/19/deepseek_cost_train/))
