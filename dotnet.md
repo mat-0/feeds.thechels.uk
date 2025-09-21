@@ -9,7 +9,7 @@ description: DotNet Updates
 
 <!-- news_marker starts -->
 - F# Weekly #38, 2025 - .NET STS releases supported for 24 months ([10 hours ago](https://dotnetkicks.com/r/730440?url=https://sergeytihon.com/2025/09/21/f-weekly-38-2025-net-sts-releases-supported-for-24-months/))
-- Boost Your .NET Projects: Mastering ObservableList in Spargine ([16 hours ago](https://dotnettips.wordpress.com/2025/09/21/boost-your-net-projects-mastering-observablelist-in-spargine/))
+- Boost Your .NET Projects: Mastering ObservableList in Spargine ([17 hours ago](https://dotnettips.wordpress.com/2025/09/21/boost-your-net-projects-mastering-observablelist-in-spargine/))
 - What a fortnight! VS2026 and iOS26 ([2 days ago](https://dotnetkicks.com/r/730393?url=https://jesseliberty.com/2025/09/19/what-a-fortnight-vs2026-and-ios26/))
 - Announcing: JetBrains .NET Days Online 2025 ([3 days ago](https://blog.jetbrains.com/dotnet/2025/09/18/announcing-jetbrains-net-days-online-2025/))
 - Update on Wolverine 5 and CritterWatch ([3 days ago](https://dotnetkicks.com/r/730317?url=https://jeremydmiller.com/2025/09/18/update-on-wolverine-5-and-critterwatch/))
@@ -38,7 +38,7 @@ description: DotNet Updates
 - Application Insights Code Optimizations for .NET Apps ([6 days ago](https://devblogs.microsoft.com/dotnet/application-insights-code-optimizations/))
 - Working and Testing Against Scheduled Messages with Wolverine ([6 days ago](https://dotnetkicks.com/r/729825?url=https://jeremydmiller.com/2025/09/15/working-and-testing-against-scheduled-messages-with-wolverine/))
 - Cake.Sdk 5.0.25257.82-beta released ([6 days ago](https://dotnetkicks.com/r/729742?url=https://cakebuild.net/blog/2025/09/cake-sdk-net-publish-debug))
-- GameDev Day 2025 Is Back in October! ([6 days ago](https://blog.jetbrains.com/dotnet/2025/09/15/gamedev-day-2025-is-back-in-october/))
+- GameDev Day 2025 Is Back in October! ([7 days ago](https://blog.jetbrains.com/dotnet/2025/09/15/gamedev-day-2025-is-back-in-october/))
 - F# Weekly #37, 2025 - .NET 10 RC1 &amp; FScrobble ([7 days ago](https://dotnetkicks.com/r/729730?url=https://sergeytihon.com/2025/09/13/f-weekly-37-2025-net-10-rc1-fscrobble/))
 - Boost Your .NET Projects: Ensure Thread-Safe Uniqueness with DistinctConcurrentBag in Spargine ([7 days ago](https://dotnettips.wordpress.com/2025/09/14/boost-your-net-projects-ensure-thread-safe-uniqueness-with-distinctconcurrentbag-in-spargine/))
 - Democratizing Performance: The Copilot Profiler Agent in Action on Real Code - Visual Studio Blog ([10 days ago](https://dotnetkicks.com/r/729582?url=https://devblogs.microsoft.com/visualstudio/copilot-profiler-agent-visual-studio/))
