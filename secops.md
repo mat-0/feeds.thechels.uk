@@ -8,13 +8,13 @@ description: SecOps News
 [Get this as an RSS feed](/secops.rss)
 
 <!-- news_marker starts -->
-- The Pennsylvania Attorney General’s Office Updates Ransomware Attack Incident ([1 hours ago](https://databreaches.net/2025/09/21/the-pennsylvania-attorney-generals-office-updates-ransomware-attack-incident/?pk_campaign=feed&pk_kwd=the-pennsylvania-attorney-generals-office-updates-ransomware-attack-incident))
+- The Pennsylvania Attorney General’s Office Updates Ransomware Attack Incident ([2 hours ago](https://databreaches.net/2025/09/21/the-pennsylvania-attorney-generals-office-updates-ransomware-attack-incident/?pk_campaign=feed&pk_kwd=the-pennsylvania-attorney-generals-office-updates-ransomware-attack-incident))
 - When “Goodbye” isn’t the end:  Scattered LAPSUS$ Hunters hack on ([4 hours ago](https://databreaches.net/2025/09/21/when-goodbye-isnt-the-end-scattered-lapsus-hunters-hack-on/?pk_campaign=feed&pk_kwd=when-goodbye-isnt-the-end-scattered-lapsus-hunters-hack-on))
-- Microsoft Entra ID flaw allowed hijacking any company's tenant ([5 hours ago](https://www.bleepingcomputer.com/news/security/microsoft-entra-id-flaw-allowed-hijacking-any-companys-tenant/))
+- Microsoft Entra ID flaw allowed hijacking any company's tenant ([6 hours ago](https://www.bleepingcomputer.com/news/security/microsoft-entra-id-flaw-allowed-hijacking-any-companys-tenant/))
 - Airport Cyberattack Disrupts More Flights Across Europe ([7 hours ago](https://www.securityweek.com/airport-cyberattack-disrupts-more-flights-across-europe/))
 - DPRK Hackers Use ClickFix to Deliver BeaverTail Malware in Crypto Job Scams ([12 hours ago](https://thehackernews.com/2025/09/dprk-hackers-use-clickfix-to-deliver.html))
-- Weekly Update 470 ([14 hours ago](https://www.troyhunt.com/weekly-update-470/))
-- Make Windows 11 more useful and less annoying with these 11 Registry hacks ([14 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/09/21/windows_11_registry_hacks_regedit/))
+- Weekly Update 470 ([15 hours ago](https://www.troyhunt.com/weekly-update-470/))
+- Make Windows 11 more useful and less annoying with these 11 Registry hacks ([15 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/09/21/windows_11_registry_hacks_regedit/))
 - Animeify - 808,034 breached accounts ([15 hours ago](https://haveibeenpwned.com/Breach/Animeify))
 - Canada dismantles TradeOgre exchange, seizes $40 million in crypto ([1 days ago](https://www.bleepingcomputer.com/news/security/canada-dismantles-tradeogre-exchange-seizes-40-million-in-crypto/))
 - Cyberattack Disrupts Check-In Systems at Major European Airports ([1 days ago](https://www.securityweek.com/cyberattack-disrupts-check-in-systems-at-major-european-airports/))
