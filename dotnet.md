@@ -9,7 +9,7 @@ description: DotNet Updates
 
 <!-- news_marker starts -->
 - F# Weekly #38, 2025 - .NET STS releases supported for 24 months ([1 hours ago](https://dotnetkicks.com/r/730440?url=https://sergeytihon.com/2025/09/21/f-weekly-38-2025-net-sts-releases-supported-for-24-months/))
-- Boost Your .NET Projects: Mastering ObservableList in Spargine ([7 hours ago](https://dotnettips.wordpress.com/2025/09/21/boost-your-net-projects-mastering-observablelist-in-spargine/))
+- Boost Your .NET Projects: Mastering ObservableList in Spargine ([8 hours ago](https://dotnettips.wordpress.com/2025/09/21/boost-your-net-projects-mastering-observablelist-in-spargine/))
 - What a fortnight! VS2026 and iOS26 ([1 days ago](https://dotnetkicks.com/r/730393?url=https://jesseliberty.com/2025/09/19/what-a-fortnight-vs2026-and-ios26/))
 - Announcing: JetBrains .NET Days Online 2025 ([2 days ago](https://blog.jetbrains.com/dotnet/2025/09/18/announcing-jetbrains-net-days-online-2025/))
 - Update on Wolverine 5 and CritterWatch ([2 days ago](https://dotnetkicks.com/r/730317?url=https://jeremydmiller.com/2025/09/18/update-on-wolverine-5-and-critterwatch/))
@@ -29,7 +29,7 @@ description: DotNet Updates
 - FabCon Vienna: Build data-rich agents on an enterprise-ready foundation ([4 days ago](https://dotnetkicks.com/r/729995?url=https://www.microsoft.com/en-us/microsoft-fabric/blog/2025/09/16/fabcon-vienna-build-data-rich-agents-on-an-enterprise-ready-foundation))
 - .NET STS releases supported for 24 months - .NET Blog ([4 days ago](https://dotnetkicks.com/r/729969?url=https://devblogs.microsoft.com/dotnet/dotnet-sts-releases-supported-for-24-months/))
 - .NET STS releases supported for 24 months ([4 days ago](https://devblogs.microsoft.com/dotnet/dotnet-sts-releases-supported-for-24-months/))
-- .NET 10 Release 1: Performance Boosts, Security Upgrades, and Smarter AI ([4 days ago](https://dotnetkicks.com/r/729874?url=https://www.gapvelocity.ai/blog/dotnet-10-release-1?utm_source=DNK-729874&utm_medium=DNK-729874&utm_content=DNK-729874&utm_campaign=DNK-729874))
+- .NET 10 Release 1: Performance Boosts, Security Upgrades, and Smarter AI ([5 days ago](https://dotnetkicks.com/r/729874?url=https://www.gapvelocity.ai/blog/dotnet-10-release-1?utm_source=DNK-729874&utm_medium=DNK-729874&utm_content=DNK-729874&utm_campaign=DNK-729874))
 - Supporting platform-specific .NET tools on old .NET SDKs: Exploring the .NET 10 preview - Part 8 ([5 days ago](https://dotnetkicks.com/r/729922?url=https://andrewlock.net/exploring-dotnet-10-preview-features-8-supporting-platform-specific-dotnet-tools-on-old-sdks/))
 - Supporting platform-specific .NET tools on old .NET SDKs: Exploring the .NET 10 preview - Part 8 ([5 days ago](https://dotnetkicks.com/r/729909?url=https://andrewlock.net/exploring-dotnet-10-preview-features-8-supporting-platform-specific-dotnet-tools-on-old-sdks/))
 - Supporting platform-specific .NET tools on old .NET SDKs: Exploring the .NET 10 preview - Part 8 ([5 days ago](https://andrewlock.net/exploring-dotnet-10-preview-features-8-supporting-platform-specific-dotnet-tools-on-old-sdks/))
