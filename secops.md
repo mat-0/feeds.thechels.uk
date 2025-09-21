@@ -9,8 +9,8 @@ description: SecOps News
 
 <!-- news_marker starts -->
 - DPRK Hackers Use ClickFix to Deliver BeaverTail Malware in Crypto Job Scams ([2 hours ago](https://thehackernews.com/2025/09/dprk-hackers-use-clickfix-to-deliver.html))
-- Weekly Update 470 ([4 hours ago](https://www.troyhunt.com/weekly-update-470/))
-- Make Windows 11 more useful and less annoying with these 11 Registry hacks ([4 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/09/21/windows_11_registry_hacks_regedit/))
+- Weekly Update 470 ([5 hours ago](https://www.troyhunt.com/weekly-update-470/))
+- Make Windows 11 more useful and less annoying with these 11 Registry hacks ([5 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/09/21/windows_11_registry_hacks_regedit/))
 - Animeify - 808,034 breached accounts ([5 hours ago](https://haveibeenpwned.com/Breach/Animeify))
 - Canada dismantles TradeOgre exchange, seizes $40 million in crypto ([20 hours ago](https://www.bleepingcomputer.com/news/security/canada-dismantles-tradeogre-exchange-seizes-40-million-in-crypto/))
 - Cyberattack disrupts European airports including Heathrow, Brussels ([1 days ago](https://databreaches.net/2025/09/20/cyberattack-disrupts-european-airports-including-heathrow-brussels/?pk_campaign=feed&pk_kwd=cyberattack-disrupts-european-airports-including-heathrow-brussels))
@@ -37,7 +37,7 @@ description: SecOps News
 - Fortra Releases Critical Patch for CVSS 10.0 GoAnywhere MFT Vulnerability ([1 days ago](https://thehackernews.com/2025/09/fortra-releases-critical-patch-for-cvss.html))
 - 17,500 Phishing Domains Target 316 Brands Across 74 Countries in Global PhaaS Surge ([1 days ago](https://thehackernews.com/2025/09/17500-phishing-domains-target-316.html))
 - Known. Emerging. Unstoppable? Ransomware Attacks Still Evade Defenses ([1 days ago](https://www.bleepingcomputer.com/news/security/known-emerging-unstoppable-ransomware-attacks-still-evade-defenses/))
-- Turla and Gamaredon Working Together in Fresh Ukrainian Intrusions ([1 days ago](https://www.securityweek.com/turla-and-gamaredon-working-together-in-fresh-ukrainian-intrusions/))
+- Turla and Gamaredon Working Together in Fresh Ukrainian Intrusions ([2 days ago](https://www.securityweek.com/turla-and-gamaredon-working-together-in-fresh-ukrainian-intrusions/))
 - Scattered Spider teen cuffed after buying games and meals with extortion bitcoin ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2025/09/19/scattered_spider_teen_cuffed/))
 - One token to pwn them all: Entra ID bug could have granted access to every tenant ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2025/09/19/microsoft_entra_id_bug/))
 - Steam will stop running on Windows 32-bit in January 2026 ([2 days ago](https://www.bleepingcomputer.com/news/software/steam-will-stop-running-on-windows-32-bit-in-january-2026/))
@@ -77,7 +77,7 @@ description: SecOps News
 - ChatGPT Targeted in Server-Side Data Theft Attack ([2 days ago](https://www.securityweek.com/chatgpt-deep-research-targeted-in-server-side-data-theft-attack/))
 - SonicWall Urges Password Resets After Cloud Backup Breach Affecting Under 5% of Customers ([2 days ago](https://thehackernews.com/2025/09/sonicwall-urges-password-resets-after.html))
 - Workday U-turns on rehiring pledge as activist investors take $2B stake ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2025/09/18/workday_elliott_investment/))
-- Two teenage suspected Scattered Spider members charged in UK over TfL hack; U.S. unseals charges (1) ([2 days ago](https://databreaches.net/2025/09/18/two-teenage-suspected-scattered-spider-members-charged-in-uk-over-tfl-hack/?pk_campaign=feed&pk_kwd=two-teenage-suspected-scattered-spider-members-charged-in-uk-over-tfl-hack))
+- Two teenage suspected Scattered Spider members charged in UK over TfL hack; U.S. unseals charges (1) ([3 days ago](https://databreaches.net/2025/09/18/two-teenage-suspected-scattered-spider-members-charged-in-uk-over-tfl-hack/?pk_campaign=feed&pk_kwd=two-teenage-suspected-scattered-spider-members-charged-in-uk-over-tfl-hack))
 - Survival Flight reports second cybersecurity incident in less than a year (1) ([3 days ago](https://databreaches.net/2025/09/18/survival-flight-reports-second-cybersecurity-incident-in-less-than-a-year/?pk_campaign=feed&pk_kwd=survival-flight-reports-second-cybersecurity-incident-in-less-than-a-year))
 - Two Scattered Spider teens charged over attack on London’s transport network ([3 days ago](https://go.theregister.com/feed/www.theregister.com/2025/09/18/two_teens_charged_in_tfl_case/))
 - CountLoader Broadens Russian Ransomware Operations With Multi-Version Malware Loader ([3 days ago](https://thehackernews.com/2025/09/countloader-broadens-russian-ransomware.html))
@@ -154,7 +154,7 @@ description: SecOps News
 - Weekly Update 469 ([8 days ago](https://www.troyhunt.com/weekly-update-469/))
 - British rail passengers urged to stay on guard after hack signals failure ([8 days ago](https://www.bitdefender.com/en-us/blog/hotforsecurity/british-rail-passengers-hack-signals-failure))
 - Bulletproof Host Stark Industries Evades EU Sanctions ([9 days ago](https://krebsonsecurity.com/2025/09/bulletproof-host-stark-industries-evades-eu-sanctions/))
-- Buying, selling and donating second-hand devices ([9 days ago](https://www.ncsc.gov.uk/guidance/buying-selling-second-hand-devices))
+- Buying, selling and donating second-hand devices ([10 days ago](https://www.ncsc.gov.uk/guidance/buying-selling-second-hand-devices))
 - Smashing Security podcast #434: Whopper Hackers, and AI Whoppers ([10 days ago](https://grahamcluley.com/smashing-security-podcast-434/))
 - US charges suspected ransomware kingpin, and offers $10 million bounty for his capture ([10 days ago](https://www.fortra.com/blog/us-charges-suspected-ransomware-kingpin-offers-10-million-bounty))
 - Incident with Actions ([10 days ago](https://www.githubstatus.com/incidents/s9t1dgymd4v9))
@@ -186,7 +186,7 @@ description: SecOps News
 - Home Assistant + Ubiquiti + AI = Home Automation Magic ([25 days ago](https://www.troyhunt.com/home-assistant-ubiquiti-ai-home-automation-magic/))
 - TheSqua.re - 107,041 breached accounts ([25 days ago](https://haveibeenpwned.com/Breach/TheSquare))
 - DSLRoot, Proxies, and the Threat of ‘Legal Botnets’ ([25 days ago](https://krebsonsecurity.com/2025/08/dslroot-proxies-and-the-threat-of-legal-botnets/))
-- Countering Chinese State-Sponsored Actors Compromise of Networks Worldwide to Feed Global Espionage System ([26 days ago](https://www.cisa.gov/news-events/cybersecurity-advisories/aa25-239a))
+- Countering Chinese State-Sponsored Actors Compromise of Networks Worldwide to Feed Global Espionage System ([27 days ago](https://www.cisa.gov/news-events/cybersecurity-advisories/aa25-239a))
 - Weekly Update 466 ([27 days ago](https://www.troyhunt.com/weekly-update-466/))
 
 <!-- news_marker ends -->
