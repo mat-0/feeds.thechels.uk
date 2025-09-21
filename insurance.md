@@ -107,7 +107,7 @@ description: Insurance Updates
 - DUAL and Hiscox partnership reshapes Ireland's HNW insurance market ([3 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/dual-and-hiscox-partnership-reshapes-irelands-hnw-insurance-market-550089.aspx))
 - BHSI launches group personal accident and business travel cover in UK ([3 days ago](https://www.insurancebusinessmag.com/uk/news/travel/bhsi-launches-group-personal-accident-and-business-travel-cover-in-uk-550088.aspx))
 - New York bank doubles down on insurance with big investment ([3 days ago](https://www.dig-in.com/news/new-york-bank-doubles-down-on-insurance-with-big-investment))
-- Smart Strategies – Sept. 2025 ([3 days ago](https://www.dig-in.com/news/smart-insurance-strategies-sept-2025))
+- Smart Strategies – Sept. 2025 ([4 days ago](https://www.dig-in.com/news/smart-insurance-strategies-sept-2025))
 - 'Real risk': Growth of identity fraud and candidate misrepresentation ([4 days ago](https://www.insurancebusinessmag.com/uk/business-strategy/real-risk-growth-of-identity-fraud-and-candidate-misrepresentation-550067.aspx))
 - AmTrust partners with Blackstone: Insurance news ([4 days ago](https://www.dig-in.com/news/amtrust-partners-with-blackstone-insurance-news))
 - Flora Fertility is giving  employees  control of their benefits — while  lowering costs ([4 days ago](https://www.dig-in.com/news/flora-fertility-introduces-individual-fertility-benefits))

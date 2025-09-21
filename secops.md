@@ -9,11 +9,11 @@ description: SecOps News
 
 <!-- news_marker starts -->
 - When “Goodbye” isn’t the end:  Scattered LAPSUS$ Hunters hack on ([1 hours ago](https://databreaches.net/2025/09/21/when-goodbye-isnt-the-end-scattered-lapsus-hunters-hack-on/?pk_campaign=feed&pk_kwd=when-goodbye-isnt-the-end-scattered-lapsus-hunters-hack-on))
-- Microsoft Entra ID flaw allowed hijacking any company's tenant ([2 hours ago](https://www.bleepingcomputer.com/news/security/microsoft-entra-id-flaw-allowed-hijacking-any-companys-tenant/))
+- Microsoft Entra ID flaw allowed hijacking any company's tenant ([3 hours ago](https://www.bleepingcomputer.com/news/security/microsoft-entra-id-flaw-allowed-hijacking-any-companys-tenant/))
 - Airport Cyberattack Disrupts More Flights Across Europe ([4 hours ago](https://www.securityweek.com/airport-cyberattack-disrupts-more-flights-across-europe/))
 - DPRK Hackers Use ClickFix to Deliver BeaverTail Malware in Crypto Job Scams ([9 hours ago](https://thehackernews.com/2025/09/dprk-hackers-use-clickfix-to-deliver.html))
-- Weekly Update 470 ([11 hours ago](https://www.troyhunt.com/weekly-update-470/))
-- Make Windows 11 more useful and less annoying with these 11 Registry hacks ([11 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/09/21/windows_11_registry_hacks_regedit/))
+- Weekly Update 470 ([12 hours ago](https://www.troyhunt.com/weekly-update-470/))
+- Make Windows 11 more useful and less annoying with these 11 Registry hacks ([12 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/09/21/windows_11_registry_hacks_regedit/))
 - Animeify - 808,034 breached accounts ([12 hours ago](https://haveibeenpwned.com/Breach/Animeify))
 - Canada dismantles TradeOgre exchange, seizes $40 million in crypto ([1 days ago](https://www.bleepingcomputer.com/news/security/canada-dismantles-tradeogre-exchange-seizes-40-million-in-crypto/))
 - Cyberattack Disrupts Check-In Systems at Major European Airports ([1 days ago](https://www.securityweek.com/cyberattack-disrupts-check-in-systems-at-major-european-airports/))
@@ -167,7 +167,7 @@ description: SecOps News
 - GOP Cries Censorship Over Spam Filters That Work ([15 days ago](https://krebsonsecurity.com/2025/09/gop-cries-censorship-over-spam-filters-that-work/))
 - Germany charges hacker with Rosneft cyberattack in latest wake-up call for critical infrastructure ([16 days ago](https://www.exponential-e.com/blog/germany-charges-hacker-with-rosneft-cyberattack-in-latest-wake-up-call-for-critical-infrastructure))
 - Parents warned that robot toys spied on children’s location without consent ([16 days ago](https://www.bitdefender.com/en-us/blog/hotforsecurity/parents-warned-that-robot-toys-spied-on-childrens-location-without-consent))
-- Degraded REST API success rates for some customers ([16 days ago](https://www.githubstatus.com/incidents/mdj41rgqwjx5))
+- Degraded REST API success rates for some customers ([17 days ago](https://www.githubstatus.com/incidents/mdj41rgqwjx5))
 - Smashing Security podcast #433: How hackers turned AI into their new henchman ([17 days ago](https://grahamcluley.com/smashing-security-podcast-433/))
 - FBI warns seniors are being targeted in three-phase Phantom Hacker scams ([18 days ago](https://www.fortra.com/blog/fbi-warns-seniors-targeted-three-phase-phantom-hacker-scams))
 - Loading avatars might fail for a 0.5% of total users and 100% users around the Arabian Peninsula. We are investigating. ([19 days ago](https://www.githubstatus.com/incidents/mj067hg9slb4))
