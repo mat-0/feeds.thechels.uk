@@ -13,7 +13,7 @@ description: Insurance Updates
 - People Moves: IMA Financial Group Names Leadership Appointments in Houston Office ([1 days ago](https://www.insurancejournal.com/news/southcentral/2025/09/19/839874.htm))
 - Broadstone Warns Chancellor: Resist The IPT Tax Hike Temptation ([1 days ago](https://insurance-edge.net/2025/09/19/broadstone-warns-chancellor-resist-the-ipt-tax-hike-temptation/))
 - Grange Policy Not Ambiguous in Death of Family Killed in 2019 Kentucky Crash ([1 days ago](https://www.insurancejournal.com/news/southeast/2025/09/19/839863.htm))
-- Texas Insurance Agent Pleaded Guilty After Stealing Premiums ([1 days ago](https://www.insurancejournal.com/news/southcentral/2025/09/19/839861.htm))
+- Texas Insurance Agent Pleaded Guilty After Stealing Premiums ([2 days ago](https://www.insurancejournal.com/news/southcentral/2025/09/19/839861.htm))
 - Why Understanding Boiler Cost Helps Avoid Hidden Fees ([2 days ago](https://insurance-edge.net/2025/09/19/why-understanding-boiler-cost-helps-avoid-hidden-fees/))
 - Three-year downward trend in property claims continued in Q2’25: Verisk ([2 days ago](https://www.reinsurancene.ws/three-year-downward-trend-in-property-claims-continued-in-q225-verisk/))
 - NHTSA Delays New Car Rating Updates for One Year at Industry Request ([2 days ago](https://www.insurancejournal.com/news/national/2025/09/19/839852.htm))
