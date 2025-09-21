@@ -8,8 +8,8 @@ description: SecOps News
 [Get this as an RSS feed](/secops.rss)
 
 <!-- news_marker starts -->
-- Weekly Update 470 ([38 minutes ago](https://www.troyhunt.com/weekly-update-470/))
-- Make Windows 11 more useful and less annoying with these 11 Registry hacks ([53 minutes ago](https://go.theregister.com/feed/www.theregister.com/2025/09/21/windows_11_registry_hacks_regedit/))
+- Weekly Update 470 ([1 hours ago](https://www.troyhunt.com/weekly-update-470/))
+- Make Windows 11 more useful and less annoying with these 11 Registry hacks ([1 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/09/21/windows_11_registry_hacks_regedit/))
 - Animeify - 808,034 breached accounts ([1 hours ago](https://haveibeenpwned.com/Breach/Animeify))
 - Canada dismantles TradeOgre exchange, seizes $40 million in crypto ([16 hours ago](https://www.bleepingcomputer.com/news/security/canada-dismantles-tradeogre-exchange-seizes-40-million-in-crypto/))
 - Cyberattack disrupts European airports including Heathrow, Brussels ([22 hours ago](https://databreaches.net/2025/09/20/cyberattack-disrupts-european-airports-including-heathrow-brussels/?pk_campaign=feed&pk_kwd=cyberattack-disrupts-european-airports-including-heathrow-brussels))
@@ -51,7 +51,7 @@ description: SecOps News
 - OpenAI plugs ShadowLeak bug in ChatGPT that let miscreants raid inboxes ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2025/09/19/openai_shadowleak_bug/))
 - OpenAI plugs ShadowLeak bug in ChatGPT that let miscreants raid inboxes ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2025/09/19/openai_shadowleak_bug/))
 - Charities warn Ofcom too soft on Online Safety Act violators ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2025/09/19/ofcom_osa_enforcement/))
-- Two Scattered Spider Suspects Arrested in UK; One Charged in US ([1 days ago](https://www.securityweek.com/two-scattered-spider-suspects-arrested-in-uk-one-charged-in-us/))
+- Two Scattered Spider Suspects Arrested in UK; One Charged in US ([2 days ago](https://www.securityweek.com/two-scattered-spider-suspects-arrested-in-uk-one-charged-in-us/))
 - British spreadsheet wizard will take mad skillz to Vegas after taking national Excel crown ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2025/09/19/uk_excel_champ_crowned/))
 - Russian Hackers Gamaredon and Turla Collaborate to Deploy Kazuar Backdoor in Ukraine ([2 days ago](https://thehackernews.com/2025/09/russian-hackers-gamaredon-and-turla.html))
 - Unpatched Vulnerabilities Expose Novakon HMIs to Remote Hacking ([2 days ago](https://www.securityweek.com/unpatched-vulnerabilities-expose-novakon-hmis-to-remote-hacking/))
@@ -91,7 +91,7 @@ description: SecOps News
 - Microsoft seizes 338 websites to disrupt rapidly growing ‘RaccoonO365’ phishing service ([2 days ago](https://databreaches.net/2025/09/18/microsoft-seizes-338-websites-to-disrupt-rapidly-growing-raccoono365-phishing-service/?pk_campaign=feed&pk_kwd=microsoft-seizes-338-websites-to-disrupt-rapidly-growing-raccoono365-phishing-service))
 - Panda-monium: China-backed cyber crew spoof Congressman to dig for dirt on US trade talks ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2025/09/18/pandamonium_chinabacked_attackers_spoof_congressman/))
 - KR: Lotte Card hack exposes data of 3 million users ([2 days ago](https://databreaches.net/2025/09/18/kr-lotte-card-hack-exposes-data-of-3-million-users/?pk_campaign=feed&pk_kwd=kr-lotte-card-hack-exposes-data-of-3-million-users))
-- China's DeepSeek applying trial-and-error learning to its AI 'reasoning' ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2025/09/18/chinas_deepseek_ai_reasoning_research/))
+- China's DeepSeek applying trial-and-error learning to its AI 'reasoning' ([3 days ago](https://go.theregister.com/feed/www.theregister.com/2025/09/18/chinas_deepseek_ai_reasoning_research/))
 - Microsoft weaves Oracle and BigQuery data mirroring into Fabric platform ([3 days ago](https://go.theregister.com/feed/www.theregister.com/2025/09/18/microsoft_fabric_google_oracle/))
 - How and why Linux has thrived after three decades in Kernelland ([3 days ago](https://go.theregister.com/feed/www.theregister.com/2025/09/18/three_decades_in_of_linux/))
 - “Pompompurin” resentenced: BreachForums creator heads back behind bars ([3 days ago](https://www.bitdefender.com/en-us/blog/hotforsecurity/pompompurin-resentenced-breachforums-creator-heads-back-behind-bars))
