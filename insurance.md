@@ -8,7 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Homeowners Risk Insurance Cover by Skipping Maintenance & Payments ([20 hours ago](https://insurance-edge.net/2025/09/20/homeowners-risk-insurance-cover-by-skipping-maintenance-payments/))
+- Homeowners Risk Insurance Cover by Skipping Maintenance & Payments ([21 hours ago](https://insurance-edge.net/2025/09/20/homeowners-risk-insurance-cover-by-skipping-maintenance-payments/))
 - California’s Insurance Commissioner Is Seeking Changes to The Intervenor Process ([1 days ago](https://www.insurancejournal.com/news/west/2025/09/19/839886.htm))
 - People Moves: IMA Financial Group Names Leadership Appointments in Houston Office ([1 days ago](https://www.insurancejournal.com/news/southcentral/2025/09/19/839874.htm))
 - Broadstone Warns Chancellor: Resist The IPT Tax Hike Temptation ([1 days ago](https://insurance-edge.net/2025/09/19/broadstone-warns-chancellor-resist-the-ipt-tax-hike-temptation/))
@@ -58,7 +58,7 @@ description: Insurance Updates
 - North American insurance brokers target bigger deals as growth cools: Fitch ([1 days ago](https://www.reinsurancene.ws/north-american-insurance-brokers-target-bigger-deals-as-growth-cools-fitch/))
 - Helios hires Arch’s Louis Tucker as CEO ([1 days ago](https://www.reinsurancene.ws/helios-hires-archs-louis-tucker-as-ceo/))
 - High Court ruling leaves insurers exposed in $1billion claim ([1 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/high-court-ruling-leaves-insurers-exposed-in-1billion-claim-550311.aspx))
-- Viewpoint: Rampant Fraud in Staged Accidents ([1 days ago](https://www.insurancejournal.com/news/national/2025/09/19/839747.htm))
+- Viewpoint: Rampant Fraud in Staged Accidents ([2 days ago](https://www.insurancejournal.com/news/national/2025/09/19/839747.htm))
 - Department of Energy Launches Effort to Speed Power Grid Projects for AI ([2 days ago](https://www.insurancejournal.com/news/national/2025/09/19/839736.htm))
 - People Moves: Gary Joins XPT Specialty’s Pacific Northwest Team ([2 days ago](https://www.insurancejournal.com/news/west/2025/09/19/839532.htm))
 - Judge: Vermont’s Delaying Access to Civil Cases Violates 1st Amendment ([2 days ago](https://www.insurancejournal.com/news/east/2025/09/19/839421.htm))
