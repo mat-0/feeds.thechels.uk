@@ -8,7 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Homeowners Risk Insurance Cover by Skipping Maintenance & Payments ([18 hours ago](https://insurance-edge.net/2025/09/20/homeowners-risk-insurance-cover-by-skipping-maintenance-payments/))
+- Homeowners Risk Insurance Cover by Skipping Maintenance & Payments ([19 hours ago](https://insurance-edge.net/2025/09/20/homeowners-risk-insurance-cover-by-skipping-maintenance-payments/))
 - California’s Insurance Commissioner Is Seeking Changes to The Intervenor Process ([1 days ago](https://www.insurancejournal.com/news/west/2025/09/19/839886.htm))
 - People Moves: IMA Financial Group Names Leadership Appointments in Houston Office ([1 days ago](https://www.insurancejournal.com/news/southcentral/2025/09/19/839874.htm))
 - Broadstone Warns Chancellor: Resist The IPT Tax Hike Temptation ([1 days ago](https://insurance-edge.net/2025/09/19/broadstone-warns-chancellor-resist-the-ipt-tax-hike-temptation/))
@@ -68,8 +68,8 @@ description: Insurance Updates
 - Belonging is insurance’s untapped performance driver ([1 days ago](https://www.postonline.co.uk/broker/7958271/belonging-is-insurance%E2%80%99s-untapped-performance-driver))
 - How Acies’s Taylor found a way to speak her truth ([1 days ago](https://www.postonline.co.uk/commercial/7958176/how-acies%E2%80%99s-taylor-found-a-way-to-speak-her-truth))
 - Marsh McLennan appoints chief commercial officer ([1 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/marsh-mclennan-appoints-chief-commercial-officer-550241.aspx))
-- Lycetts strengthens leadership team with senior promotions ([1 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/lycetts-strengthens-leadership-team-with-senior-promotions-550240.aspx))
-- Fortegra Insurance UK joins ABI ([1 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/fortegra-insurance-uk-joins-abi-550238.aspx))
+- Lycetts strengthens leadership team with senior promotions ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/lycetts-strengthens-leadership-team-with-senior-promotions-550240.aspx))
+- Fortegra Insurance UK joins ABI ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/fortegra-insurance-uk-joins-abi-550238.aspx))
 - AI adoption could reshape professional liability landscape - LMA ([2 days ago](https://www.insurancebusinessmag.com/uk/news/professional-liability/ai-adoption-could-reshape-professional-liability-landscape--lma-550237.aspx))
 - More than just legal insurance ([2 days ago](https://www.insurancebusinessmag.com/uk/news/legal-insights/more-than-just-legal-insurance-550046.aspx))
 - Why insurance industry is leading AI adoption ([2 days ago](https://www.dig-in.com/opinion/why-insurance-industry-is-leading-ai-adoption))
