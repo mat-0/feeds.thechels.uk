@@ -8,11 +8,11 @@ description: SecOps News
 [Get this as an RSS feed](/secops.rss)
 
 <!-- news_marker starts -->
-- Microsoft Entra ID flaw allowed hijacking any company's tenant ([1 hours ago](https://www.bleepingcomputer.com/news/security/microsoft-entra-id-flaw-allowed-hijacking-any-companys-tenant/))
+- Microsoft Entra ID flaw allowed hijacking any company's tenant ([2 hours ago](https://www.bleepingcomputer.com/news/security/microsoft-entra-id-flaw-allowed-hijacking-any-companys-tenant/))
 - Airport Cyberattack Disrupts More Flights Across Europe ([3 hours ago](https://www.securityweek.com/airport-cyberattack-disrupts-more-flights-across-europe/))
 - DPRK Hackers Use ClickFix to Deliver BeaverTail Malware in Crypto Job Scams ([8 hours ago](https://thehackernews.com/2025/09/dprk-hackers-use-clickfix-to-deliver.html))
-- Weekly Update 470 ([10 hours ago](https://www.troyhunt.com/weekly-update-470/))
-- Make Windows 11 more useful and less annoying with these 11 Registry hacks ([10 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/09/21/windows_11_registry_hacks_regedit/))
+- Weekly Update 470 ([11 hours ago](https://www.troyhunt.com/weekly-update-470/))
+- Make Windows 11 more useful and less annoying with these 11 Registry hacks ([11 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/09/21/windows_11_registry_hacks_regedit/))
 - Animeify - 808,034 breached accounts ([11 hours ago](https://haveibeenpwned.com/Breach/Animeify))
 - Canada dismantles TradeOgre exchange, seizes $40 million in crypto ([1 days ago](https://www.bleepingcomputer.com/news/security/canada-dismantles-tradeogre-exchange-seizes-40-million-in-crypto/))
 - Cyberattack Disrupts Check-In Systems at Major European Airports ([1 days ago](https://www.securityweek.com/cyberattack-disrupts-check-in-systems-at-major-european-airports/))
@@ -123,7 +123,7 @@ description: SecOps News
 - RaccoonO365 Phishing Network Dismantled as Microsoft, Cloudflare Take Down 338 Domains ([4 days ago](https://thehackernews.com/2025/09/raccoono365-phishing-network-shut-down.html))
 - Australia to let Big Tech choose its own adventure to enact kids social media ban ([4 days ago](https://go.theregister.com/feed/www.theregister.com/2025/09/17/australia_kids_social_ban_guidance/))
 - Microsoft blocks bait for ‘fastest-growing’ 365 phish kit, seizes 338 domains ([4 days ago](https://go.theregister.com/feed/www.theregister.com/2025/09/16/microsoft_cloudflare_shut_down_raccoono365/))
-- Criminals broke into the system Google uses to share info with cops ([4 days ago](https://go.theregister.com/feed/www.theregister.com/2025/09/16/google_confirms_crims_accessed_lers/))
+- Criminals broke into the system Google uses to share info with cops ([5 days ago](https://go.theregister.com/feed/www.theregister.com/2025/09/16/google_confirms_crims_accessed_lers/))
 - Unauthenticated LFS requests for public repos are returning unexpected 401 errors ([5 days ago](https://www.githubstatus.com/incidents/nh22ywy9dh84))
 - Creating GitHub apps using the REST API will fail with a 401 error ([5 days ago](https://www.githubstatus.com/incidents/3kjv06tdxxfn))
 - Chaos Mesh Critical GraphQL Flaws Enable RCE and Full Kubernetes Cluster Takeover ([5 days ago](https://thehackernews.com/2025/09/chaos-mesh-critical-graphql-flaws.html))
