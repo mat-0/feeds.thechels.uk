@@ -67,7 +67,7 @@ description: Insurance Updates
 - Penny Black’s Social Diary: Howden’s hike; Headlinemoney’s curry ([1 days ago](https://www.postonline.co.uk/people/7958898/penny-black%E2%80%99s-social-diary-howden%E2%80%99s-hike-headlinemoney%E2%80%99s-curry))
 - Belonging is insurance’s untapped performance driver ([1 days ago](https://www.postonline.co.uk/broker/7958271/belonging-is-insurance%E2%80%99s-untapped-performance-driver))
 - How Acies’s Taylor found a way to speak her truth ([1 days ago](https://www.postonline.co.uk/commercial/7958176/how-acies%E2%80%99s-taylor-found-a-way-to-speak-her-truth))
-- Marsh McLennan appoints chief commercial officer ([1 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/marsh-mclennan-appoints-chief-commercial-officer-550241.aspx))
+- Marsh McLennan appoints chief commercial officer ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/marsh-mclennan-appoints-chief-commercial-officer-550241.aspx))
 - Lycetts strengthens leadership team with senior promotions ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/lycetts-strengthens-leadership-team-with-senior-promotions-550240.aspx))
 - Fortegra Insurance UK joins ABI ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/fortegra-insurance-uk-joins-abi-550238.aspx))
 - AI adoption could reshape professional liability landscape - LMA ([2 days ago](https://www.insurancebusinessmag.com/uk/news/professional-liability/ai-adoption-could-reshape-professional-liability-landscape--lma-550237.aspx))
