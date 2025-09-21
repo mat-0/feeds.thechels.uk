@@ -8,7 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Homeowners Risk Insurance Cover by Skipping Maintenance & Payments ([17 hours ago](https://insurance-edge.net/2025/09/20/homeowners-risk-insurance-cover-by-skipping-maintenance-payments/))
+- Homeowners Risk Insurance Cover by Skipping Maintenance & Payments ([18 hours ago](https://insurance-edge.net/2025/09/20/homeowners-risk-insurance-cover-by-skipping-maintenance-payments/))
 - California’s Insurance Commissioner Is Seeking Changes to The Intervenor Process ([1 days ago](https://www.insurancejournal.com/news/west/2025/09/19/839886.htm))
 - People Moves: IMA Financial Group Names Leadership Appointments in Houston Office ([1 days ago](https://www.insurancejournal.com/news/southcentral/2025/09/19/839874.htm))
 - Broadstone Warns Chancellor: Resist The IPT Tax Hike Temptation ([1 days ago](https://insurance-edge.net/2025/09/19/broadstone-warns-chancellor-resist-the-ipt-tax-hike-temptation/))
@@ -70,7 +70,7 @@ description: Insurance Updates
 - Marsh McLennan appoints chief commercial officer ([1 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/marsh-mclennan-appoints-chief-commercial-officer-550241.aspx))
 - Lycetts strengthens leadership team with senior promotions ([1 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/lycetts-strengthens-leadership-team-with-senior-promotions-550240.aspx))
 - Fortegra Insurance UK joins ABI ([1 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/fortegra-insurance-uk-joins-abi-550238.aspx))
-- AI adoption could reshape professional liability landscape - LMA ([1 days ago](https://www.insurancebusinessmag.com/uk/news/professional-liability/ai-adoption-could-reshape-professional-liability-landscape--lma-550237.aspx))
+- AI adoption could reshape professional liability landscape - LMA ([2 days ago](https://www.insurancebusinessmag.com/uk/news/professional-liability/ai-adoption-could-reshape-professional-liability-landscape--lma-550237.aspx))
 - More than just legal insurance ([2 days ago](https://www.insurancebusinessmag.com/uk/news/legal-insights/more-than-just-legal-insurance-550046.aspx))
 - Why insurance industry is leading AI adoption ([2 days ago](https://www.dig-in.com/opinion/why-insurance-industry-is-leading-ai-adoption))
 - The future of insurance tech depends on people ([2 days ago](https://www.dig-in.com/opinion/the-future-of-insurance-tech-depends-on-people))
@@ -100,7 +100,7 @@ description: Insurance Updates
 - Q&A: Jonathan Gray, Pool Re ([2 days ago](https://www.postonline.co.uk/commercial/7958314/qa-jonathan-gray-pool-re))
 - Zurich’s Ahmad on how flexibility fosters faith belonging ([2 days ago](https://www.postonline.co.uk/people/7958121/zurich%E2%80%99s-ahmad-on-how-flexibility-fosters-faith-belonging))
 - How a remark fuelled RSA Mani’s rise with resilience and purpose ([2 days ago](https://www.postonline.co.uk/commercial/7958173/how-a-racist-remark-fuelled-rsa-mani%E2%80%99s-rise-with-resilience-and-purpose))
-- FCA publishes first update on pure protection market review ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/fca-publishes-first-update-on-pure-protection-market-review-550093.aspx))
+- FCA publishes first update on pure protection market review ([3 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/fca-publishes-first-update-on-pure-protection-market-review-550093.aspx))
 - Uris Group renews and expands Zurich partnership ([3 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/uris-group-renews-and-expands-zurich-partnership-550091.aspx))
 - DUAL and Hiscox partnership reshapes Ireland's HNW insurance market ([3 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/dual-and-hiscox-partnership-reshapes-irelands-hnw-insurance-market-550089.aspx))
 - BHSI launches group personal accident and business travel cover in UK ([3 days ago](https://www.insurancebusinessmag.com/uk/news/travel/bhsi-launches-group-personal-accident-and-business-travel-cover-in-uk-550088.aspx))
