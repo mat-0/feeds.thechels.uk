@@ -125,7 +125,7 @@ description: Insurance Updates
 - Acrisure London Wholesale Expands Global Reach Through Partnership with Israel’s Madanes ([4 days ago](https://www.insurtechinsights.com/acrisure-london-wholesale-expands-global-reach-through-partnership-with-israels-madanes/))
 - What this professional athlete's mental health journey can teach the workplace ([4 days ago](https://www.dig-in.com/news/what-this-professional-athletes-mental-health-journey-can-teach-the-workplace))
 - Only 14% of employers have a good understanding of the full spectrum of employees’ health and wellbeing needs ([5 days ago](https://ifamagazine.com/only-14-of-employers-have-a-good-understanding-of-the-full-spectrum-of-employees-health-and-wellbeing-needs/))
-- AXA XL Names Donnacha Smyth Global Chief Underwriting Officer, Casualty ([5 days ago](https://www.insurtechinsights.com/axa-xl-names-donnacha-smyth-global-chief-underwriting-officer-casualty/))
+- AXA XL Names Donnacha Smyth Global Chief Underwriting Officer, Casualty ([6 days ago](https://www.insurtechinsights.com/axa-xl-names-donnacha-smyth-global-chief-underwriting-officer-casualty/))
 - Seyna Secures €10 Million to Accelerate Growth ([6 days ago](https://www.insurtechinsights.com/seyna-secures-e10-million-to-accelerate-growth/))
 - 180 Seguros Raises $9million to Expand AI Initiatives And Boost Regulatory Capital ([9 days ago](https://thefintechtimes.com/180-seguros-raises-9m-to-expand-ai-initiatives-and-boost-regulatory-capital/))
 - The Exeter comments on latest NHS waiting list data ([9 days ago](https://ifamagazine.com/the-exeter-comments-on-latest-nhs-waiting-list-data/))
