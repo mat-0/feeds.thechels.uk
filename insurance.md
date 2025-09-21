@@ -8,8 +8,8 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Hyperexponential launches AI-based underwriting platform ([1 hours ago](https://www.dig-in.com/news/hyperexponential-launches-ai-based-underwriting-platform))
-- Customers expect digital, not many life insurers deliver, Capgemini ([1 hours ago](https://www.dig-in.com/news/customers-expect-digital-not-many-life-insurers-deliver-capgemini))
+- Hyperexponential launches AI-based underwriting platform ([2 hours ago](https://www.dig-in.com/news/hyperexponential-launches-ai-based-underwriting-platform))
+- Customers expect digital, not many life insurers deliver, Capgemini ([2 hours ago](https://www.dig-in.com/news/customers-expect-digital-not-many-life-insurers-deliver-capgemini))
 - Homeowners Risk Insurance Cover by Skipping Maintenance & Payments ([1 days ago](https://insurance-edge.net/2025/09/20/homeowners-risk-insurance-cover-by-skipping-maintenance-payments/))
 - California’s Insurance Commissioner Is Seeking Changes to The Intervenor Process ([1 days ago](https://www.insurancejournal.com/news/west/2025/09/19/839886.htm))
 - People Moves: IMA Financial Group Names Leadership Appointments in Houston Office ([2 days ago](https://www.insurancejournal.com/news/southcentral/2025/09/19/839874.htm))
@@ -106,7 +106,7 @@ description: Insurance Updates
 - Uris Group renews and expands Zurich partnership ([3 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/uris-group-renews-and-expands-zurich-partnership-550091.aspx))
 - DUAL and Hiscox partnership reshapes Ireland's HNW insurance market ([3 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/dual-and-hiscox-partnership-reshapes-irelands-hnw-insurance-market-550089.aspx))
 - BHSI launches group personal accident and business travel cover in UK ([3 days ago](https://www.insurancebusinessmag.com/uk/news/travel/bhsi-launches-group-personal-accident-and-business-travel-cover-in-uk-550088.aspx))
-- New York bank doubles down on insurance with big investment ([3 days ago](https://www.dig-in.com/news/new-york-bank-doubles-down-on-insurance-with-big-investment))
+- New York bank doubles down on insurance with big investment ([4 days ago](https://www.dig-in.com/news/new-york-bank-doubles-down-on-insurance-with-big-investment))
 - Smart Strategies – Sept. 2025 ([4 days ago](https://www.dig-in.com/news/smart-insurance-strategies-sept-2025))
 - 'Real risk': Growth of identity fraud and candidate misrepresentation ([4 days ago](https://www.insurancebusinessmag.com/uk/business-strategy/real-risk-growth-of-identity-fraud-and-candidate-misrepresentation-550067.aspx))
 - AmTrust partners with Blackstone: Insurance news ([4 days ago](https://www.dig-in.com/news/amtrust-partners-with-blackstone-insurance-news))
@@ -122,7 +122,7 @@ description: Insurance Updates
 - Arrow Risk Partners with Bridgehaven to Launch Tech E&O Practice ([4 days ago](https://www.insurtechinsights.com/arrow-risk-partners-with-bridgehaven-to-launch-tech-eo-practice/))
 - Qover and Helvetia Expand Partnership to Deliver Multi-Product Embedded Insurance Solutions ([4 days ago](https://www.insurtechinsights.com/qover-and-helvetia-expand-partnership-to-deliver-multi-product-embedded-insurance-solutions/))
 - Dive In experts urge carers’ leave support development ([4 days ago](https://www.postonline.co.uk/people/7959048/dive-in-experts-urge-carers%E2%80%99-leave-support-development))
-- How insurers can harness tech for smarter wildfire resilience ([4 days ago](https://www.dig-in.com/opinion/how-insurers-can-harness-tech-for-smarter-wildfire-resilience))
+- How insurers can harness tech for smarter wildfire resilience ([5 days ago](https://www.dig-in.com/opinion/how-insurers-can-harness-tech-for-smarter-wildfire-resilience))
 - Acrisure London Wholesale Expands Global Reach Through Partnership with Israel’s Madanes ([5 days ago](https://www.insurtechinsights.com/acrisure-london-wholesale-expands-global-reach-through-partnership-with-israels-madanes/))
 - Only 14% of employers have a good understanding of the full spectrum of employees’ health and wellbeing needs ([5 days ago](https://ifamagazine.com/only-14-of-employers-have-a-good-understanding-of-the-full-spectrum-of-employees-health-and-wellbeing-needs/))
 - AXA XL Names Donnacha Smyth Global Chief Underwriting Officer, Casualty ([6 days ago](https://www.insurtechinsights.com/axa-xl-names-donnacha-smyth-global-chief-underwriting-officer-casualty/))
