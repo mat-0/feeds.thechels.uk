@@ -8,7 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Homeowners Risk Insurance Cover by Skipping Maintenance & Payments ([22 hours ago](https://insurance-edge.net/2025/09/20/homeowners-risk-insurance-cover-by-skipping-maintenance-payments/))
+- Homeowners Risk Insurance Cover by Skipping Maintenance & Payments ([23 hours ago](https://insurance-edge.net/2025/09/20/homeowners-risk-insurance-cover-by-skipping-maintenance-payments/))
 - California’s Insurance Commissioner Is Seeking Changes to The Intervenor Process ([1 days ago](https://www.insurancejournal.com/news/west/2025/09/19/839886.htm))
 - People Moves: IMA Financial Group Names Leadership Appointments in Houston Office ([1 days ago](https://www.insurancejournal.com/news/southcentral/2025/09/19/839874.htm))
 - Broadstone Warns Chancellor: Resist The IPT Tax Hike Temptation ([1 days ago](https://insurance-edge.net/2025/09/19/broadstone-warns-chancellor-resist-the-ipt-tax-hike-temptation/))
@@ -131,6 +131,6 @@ description: Insurance Updates
 - The Exeter comments on latest NHS waiting list data ([8 days ago](https://ifamagazine.com/the-exeter-comments-on-latest-nhs-waiting-list-data/))
 - L&G digitises claims submission process for single and over 50s life claims ([9 days ago](https://ifamagazine.com/lg-digitises-claims-submission-process-for-single-and-over-50s-life-claims/))
 - Reframe Cancer enhances cancer product with Pulse to include CQC regulated cancer screening ([9 days ago](https://ifamagazine.com/reframe-cancer-enhances-cancer-product-with-pulse-to-include-cqc-regulated-cancer-screening/))
-- 39% of Brits Report Pet Insurance Have Skyrocketed: CRIF Uncovers Pet Insurance Trends in Europe ([26 days ago](https://thefintechtimes.com/39-of-brits-report-pet-insurance-have-skyrocketed-crif-uncovers-pet-insurance-trends-in-europe/))
+- 39% of Brits Report Pet Insurance Have Skyrocketed: CRIF Uncovers Pet Insurance Trends in Europe ([27 days ago](https://thefintechtimes.com/39-of-brits-report-pet-insurance-have-skyrocketed-crif-uncovers-pet-insurance-trends-in-europe/))
 
 <!-- news_marker ends -->
