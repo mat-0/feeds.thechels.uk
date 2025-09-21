@@ -77,7 +77,7 @@ description: Insurance Updates
 - Companies underestimate broader climate risks, survey finds ([2 days ago](https://www.dig-in.com/articles/companies-underestimate-broader-climate-risks-survey-finds))
 - Could a speed limit change make motor profitable? ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/could-a-speed-limit-change-make-motor-profitable-550189.aspx))
 - Radian Group to Acquire Lloyd’s Specialty Insurer Inigo for $1.7 Billion ([2 days ago](https://www.insurtechinsights.com/radian-group-to-acquire-lloyds-specialty-insurer-inigo-for-1-7-billion/))
-- Future-proof: How climate modelling tools are empowering insurers and brokers ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/futureproof-how-climate-modelling-tools-are-empowering-insurers-and-brokers-550166.aspx))
+- Future-proof: How climate modelling tools are empowering insurers and brokers ([3 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/futureproof-how-climate-modelling-tools-are-empowering-insurers-and-brokers-550166.aspx))
 - AXA XL, Allianz face potential claims after Air India crash ([3 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/axa-xl-allianz-face-potential-claims-after-air-india-crash-550157.aspx))
 - Construction under pressure: How insurers are navigating new risks on UK building sites ([3 days ago](https://www.insurancebusinessmag.com/uk/news/construction-engineering/construction-under-pressure-how-insurers-are-navigating-new-risks-on-uk-building-sites-550153.aspx))
 - Zego Aims to Shift UK Telematics Insurance From Black Box to App-Based Model ([3 days ago](https://thefintechtimes.com/zego-aims-to-shift-uk-telematics-insurance-from-black-box-to-app-based-model/))
