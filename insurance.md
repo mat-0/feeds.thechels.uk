@@ -123,7 +123,7 @@ description: Insurance Updates
 - How insurers can harness tech for smarter wildfire resilience ([4 days ago](https://www.dig-in.com/opinion/how-insurers-can-harness-tech-for-smarter-wildfire-resilience))
 - J.D. Power: Rising premiums impacting customer loyalty ([4 days ago](https://www.dig-in.com/news/j-d-power-rising-premiums-impacting-customer-loyalty))
 - Acrisure London Wholesale Expands Global Reach Through Partnership with Israel’s Madanes ([4 days ago](https://www.insurtechinsights.com/acrisure-london-wholesale-expands-global-reach-through-partnership-with-israels-madanes/))
-- What this professional athlete's mental health journey can teach the workplace ([4 days ago](https://www.dig-in.com/news/what-this-professional-athletes-mental-health-journey-can-teach-the-workplace))
+- What this professional athlete's mental health journey can teach the workplace ([5 days ago](https://www.dig-in.com/news/what-this-professional-athletes-mental-health-journey-can-teach-the-workplace))
 - Only 14% of employers have a good understanding of the full spectrum of employees’ health and wellbeing needs ([5 days ago](https://ifamagazine.com/only-14-of-employers-have-a-good-understanding-of-the-full-spectrum-of-employees-health-and-wellbeing-needs/))
 - AXA XL Names Donnacha Smyth Global Chief Underwriting Officer, Casualty ([6 days ago](https://www.insurtechinsights.com/axa-xl-names-donnacha-smyth-global-chief-underwriting-officer-casualty/))
 - Seyna Secures €10 Million to Accelerate Growth ([6 days ago](https://www.insurtechinsights.com/seyna-secures-e10-million-to-accelerate-growth/))
