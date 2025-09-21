@@ -8,7 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Homeowners Risk Insurance Cover by Skipping Maintenance & Payments ([23 hours ago](https://insurance-edge.net/2025/09/20/homeowners-risk-insurance-cover-by-skipping-maintenance-payments/))
+- Homeowners Risk Insurance Cover by Skipping Maintenance & Payments ([1 days ago](https://insurance-edge.net/2025/09/20/homeowners-risk-insurance-cover-by-skipping-maintenance-payments/))
 - California’s Insurance Commissioner Is Seeking Changes to The Intervenor Process ([1 days ago](https://www.insurancejournal.com/news/west/2025/09/19/839886.htm))
 - People Moves: IMA Financial Group Names Leadership Appointments in Houston Office ([1 days ago](https://www.insurancejournal.com/news/southcentral/2025/09/19/839874.htm))
 - Broadstone Warns Chancellor: Resist The IPT Tax Hike Temptation ([1 days ago](https://insurance-edge.net/2025/09/19/broadstone-warns-chancellor-resist-the-ipt-tax-hike-temptation/))
@@ -92,8 +92,8 @@ description: Insurance Updates
 - Actress warns domestic abuse hits insurers’ profits ([2 days ago](https://www.postonline.co.uk/news/7959054/actress-warns-domestic-abuse-hits-insurers%E2%80%99-profits))
 - Jensten hopes Bain deal will remove ‘question mark’ around future ([2 days ago](https://www.postonline.co.uk/broker/7959052/jensten-hopes-bain-deal-will-remove-%E2%80%98question-mark%E2%80%99-around-future))
 - AIG hailed as model for trans inclusion ([2 days ago](https://www.postonline.co.uk/people/7959056/aig-hailed-as-model-for-trans-inclusion))
-- CIExpert responds to HSBC’s critical illness changes ([2 days ago](https://ifamagazine.com/ciexpert-responds-to-hsbcs-critical-illness-changes/))
-- HSBC Life UK delivers new critical illness enhancements ([2 days ago](https://ifamagazine.com/hsbc-life-uk-delivers-new-critical-illness-enhancements/))
+- CIExpert responds to HSBC’s critical illness changes ([3 days ago](https://ifamagazine.com/ciexpert-responds-to-hsbcs-critical-illness-changes/))
+- HSBC Life UK delivers new critical illness enhancements ([3 days ago](https://ifamagazine.com/hsbc-life-uk-delivers-new-critical-illness-enhancements/))
 - Throwback Thursday: Colonial Mutual’s business boost ([3 days ago](https://www.postonline.co.uk/commercial/7956766/throwback-thursday-colonial-mutual%E2%80%99s-business-boost))
 - Hive’s Marsland-Roberts finds belonging where values align ([3 days ago](https://www.postonline.co.uk/people/7958147/hive%E2%80%99s-marsland-roberts-finds-belonging-where-values-align))
 - Crawford’s Brentnall on superpower of neurodivergent minds ([3 days ago](https://www.postonline.co.uk/claims/7958194/crawford%E2%80%99s-brentnall-on-superpower-of-neurodivergent-minds))
