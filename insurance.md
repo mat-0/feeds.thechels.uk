@@ -55,7 +55,7 @@ description: Insurance Updates
 - Howden to acquire US entertainment broker Gravitas ([1 days ago](https://www.reinsurancene.ws/howden-to-acquire-us-entertainment-broker-gravitas/))
 - Motorists set to receive £200 million in compensation as insurers overhaul claims practices ([1 days ago](https://www.insurancebusinessmag.com/uk/news/auto-motor/motorists-set-to-receive-200-million-in-compensation-as-insurers-overhaul-claims-practices-550282.aspx))
 - AI Boom Fuels 11% Rise in Top Japan Insurer’s Project Loans ([1 days ago](https://www.insurancejournal.com/news/international/2025/09/19/839775.htm))
-- North American insurance brokers target bigger deals as growth cools: Fitch ([1 days ago](https://www.reinsurancene.ws/north-american-insurance-brokers-target-bigger-deals-as-growth-cools-fitch/))
+- North American insurance brokers target bigger deals as growth cools: Fitch ([2 days ago](https://www.reinsurancene.ws/north-american-insurance-brokers-target-bigger-deals-as-growth-cools-fitch/))
 - Helios hires Arch’s Louis Tucker as CEO ([2 days ago](https://www.reinsurancene.ws/helios-hires-archs-louis-tucker-as-ceo/))
 - High Court ruling leaves insurers exposed in $1billion claim ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/high-court-ruling-leaves-insurers-exposed-in-1billion-claim-550311.aspx))
 - Viewpoint: Rampant Fraud in Staged Accidents ([2 days ago](https://www.insurancejournal.com/news/national/2025/09/19/839747.htm))
