@@ -8,8 +8,9 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Ghost broker sentenced as IFED and insurers warn of rising fraud threat ([5 minutes ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/ghost-broker-sentenced-as-ifed-and-insurers-warn-of-rising-fraud-threat-550387.aspx))
-- MGAA launches third next-gen mentoring scheme ([57 minutes ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/mgaa-launches-third-nextgen-mentoring-scheme-550386.aspx))
+- FCA motor claims redress prompts industry response ([just now](https://www.insurancebusinessmag.com/uk/news/breaking-news/fca-motor-claims-redress-prompts-industry-response-550389.aspx))
+- Ghost broker sentenced as IFED and insurers warn of rising fraud threat ([25 minutes ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/ghost-broker-sentenced-as-ifed-and-insurers-warn-of-rising-fraud-threat-550387.aspx))
+- MGAA launches third next-gen mentoring scheme ([1 hours ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/mgaa-launches-third-nextgen-mentoring-scheme-550386.aspx))
 - Texel Group strengthens London team with senior broking hires ([1 hours ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/texel-group-strengthens-london-team-with-senior-broking-hires-550385.aspx))
 - Insured Losses in Texas Exceed $47 Billion in 2024 ([3 hours ago](https://www.insurancejournal.com/magazines/mag-features/2025/09/22/839638.htm))
 - Maryland Moves to Deny Liability Limit Sought by Ship Manager in Key Bridge Collapse ([3 hours ago](https://www.insurancejournal.com/magazines/mag-features/2025/09/22/839637.htm))
@@ -72,7 +73,7 @@ description: Insurance Updates
 - Penny Black’s Social Diary: Howden’s hike; Headlinemoney’s curry ([2 days ago](https://www.postonline.co.uk/people/7958898/penny-black%E2%80%99s-social-diary-howden%E2%80%99s-hike-headlinemoney%E2%80%99s-curry))
 - Belonging is insurance’s untapped performance driver ([2 days ago](https://www.postonline.co.uk/broker/7958271/belonging-is-insurance%E2%80%99s-untapped-performance-driver))
 - How Acies’s Taylor found a way to speak her truth ([2 days ago](https://www.postonline.co.uk/commercial/7958176/how-acies%E2%80%99s-taylor-found-a-way-to-speak-her-truth))
-- Marsh McLennan appoints chief commercial officer ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/marsh-mclennan-appoints-chief-commercial-officer-550241.aspx))
+- Marsh McLennan appoints chief commercial officer ([3 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/marsh-mclennan-appoints-chief-commercial-officer-550241.aspx))
 - Lycetts strengthens leadership team with senior promotions ([3 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/lycetts-strengthens-leadership-team-with-senior-promotions-550240.aspx))
 - Fortegra Insurance UK joins ABI ([3 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/fortegra-insurance-uk-joins-abi-550238.aspx))
 - AI adoption could reshape professional liability landscape - LMA ([3 days ago](https://www.insurancebusinessmag.com/uk/news/professional-liability/ai-adoption-could-reshape-professional-liability-landscape--lma-550237.aspx))
@@ -106,7 +107,6 @@ description: Insurance Updates
 - Zurich’s Ahmad on how flexibility fosters faith belonging ([3 days ago](https://www.postonline.co.uk/people/7958121/zurich%E2%80%99s-ahmad-on-how-flexibility-fosters-faith-belonging))
 - How a remark fuelled RSA Mani’s rise with resilience and purpose ([3 days ago](https://www.postonline.co.uk/commercial/7958173/how-a-racist-remark-fuelled-rsa-mani%E2%80%99s-rise-with-resilience-and-purpose))
 - FCA publishes first update on pure protection market review ([4 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/fca-publishes-first-update-on-pure-protection-market-review-550093.aspx))
-- Uris Group renews and expands Zurich partnership ([4 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/uris-group-renews-and-expands-zurich-partnership-550091.aspx))
 - New York bank doubles down on insurance with big investment ([4 days ago](https://www.dig-in.com/news/new-york-bank-doubles-down-on-insurance-with-big-investment))
 - Smart Strategies – Sept. 2025 ([4 days ago](https://www.dig-in.com/news/smart-insurance-strategies-sept-2025))
 - AmTrust partners with Blackstone: Insurance news ([4 days ago](https://www.dig-in.com/news/amtrust-partners-with-blackstone-insurance-news))
