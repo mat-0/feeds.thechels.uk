@@ -8,10 +8,10 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Enhancements to XAML Live Preview in Visual Studio for .NET MAUI - Visual Studio Blog ([32 minutes ago](https://dotnetkicks.com/r/730527?url=https://devblogs.microsoft.com/visualstudio/enhancements-to-xaml-live-preview-in-visual-studio-for-net-maui/))
-- Enhancements to XAML Live Preview in Visual Studio for .NET MAUI - Visual Studio Blog ([32 minutes ago](https://dotnetkicks.com/r/730508?url=https://devblogs.microsoft.com/visualstudio/enhancements-to-xaml-live-preview-in-visual-studio-for-net-maui/))
+- Enhancements to XAML Live Preview in Visual Studio for .NET MAUI - Visual Studio Blog ([1 hours ago](https://dotnetkicks.com/r/730527?url=https://devblogs.microsoft.com/visualstudio/enhancements-to-xaml-live-preview-in-visual-studio-for-net-maui/))
+- Enhancements to XAML Live Preview in Visual Studio for .NET MAUI - Visual Studio Blog ([1 hours ago](https://dotnetkicks.com/r/730508?url=https://devblogs.microsoft.com/visualstudio/enhancements-to-xaml-live-preview-in-visual-studio-for-net-maui/))
 - New Trusted Publishing enhances security on NuGet.org - .NET Blog ([2 hours ago](https://dotnetkicks.com/r/730496?url=https://devblogs.microsoft.com/dotnet/enhanced-security-is-here-with-the-new-trust-publishing-on-nuget-org/))
-- New Trusted Publishing enhances security on NuGet.org ([2 hours ago](https://devblogs.microsoft.com/dotnet/enhanced-security-is-here-with-the-new-trust-publishing-on-nuget-org/))
+- New Trusted Publishing enhances security on NuGet.org ([3 hours ago](https://devblogs.microsoft.com/dotnet/enhanced-security-is-here-with-the-new-trust-publishing-on-nuget-org/))
 - F# Weekly #38, 2025 - .NET STS releases supported for 24 months ([1 days ago](https://dotnetkicks.com/r/730440?url=https://sergeytihon.com/2025/09/21/f-weekly-38-2025-net-sts-releases-supported-for-24-months/))
 - Boost Your .NET Projects: Mastering ObservableList in Spargine ([1 days ago](https://dotnettips.wordpress.com/2025/09/21/boost-your-net-projects-mastering-observablelist-in-spargine/))
 - What a fortnight! VS2026 and iOS26 ([3 days ago](https://dotnetkicks.com/r/730393?url=https://jesseliberty.com/2025/09/19/what-a-fortnight-vs2026-and-ios26/))
@@ -38,7 +38,7 @@ description: DotNet Updates
 - Supporting platform-specific .NET tools on old .NET SDKs: Exploring the .NET 10 preview - Part 8 ([6 days ago](https://dotnetkicks.com/r/729909?url=https://andrewlock.net/exploring-dotnet-10-preview-features-8-supporting-platform-specific-dotnet-tools-on-old-sdks/))
 - Supporting platform-specific .NET tools on old .NET SDKs: Exploring the .NET 10 preview - Part 8 ([6 days ago](https://andrewlock.net/exploring-dotnet-10-preview-features-8-supporting-platform-specific-dotnet-tools-on-old-sdks/))
 - Regex for Email Validation? Think Again! ([6 days ago](https://dotnetkicks.com/r/729873?url=https://codeopinion.com/regex-for-email-validation-think-again/))
-- Application Insights Code Optimizations for .NET Apps - .NET Blog ([6 days ago](https://dotnetkicks.com/r/729860?url=https://devblogs.microsoft.com/dotnet/application-insights-code-optimizations/))
+- Application Insights Code Optimizations for .NET Apps - .NET Blog ([7 days ago](https://dotnetkicks.com/r/729860?url=https://devblogs.microsoft.com/dotnet/application-insights-code-optimizations/))
 - Application Insights Code Optimizations for .NET Apps ([7 days ago](https://devblogs.microsoft.com/dotnet/application-insights-code-optimizations/))
 - Working and Testing Against Scheduled Messages with Wolverine ([7 days ago](https://dotnetkicks.com/r/729825?url=https://jeremydmiller.com/2025/09/15/working-and-testing-against-scheduled-messages-with-wolverine/))
 - Cake.Sdk 5.0.25257.82-beta released ([7 days ago](https://dotnetkicks.com/r/729742?url=https://cakebuild.net/blog/2025/09/cake-sdk-net-publish-debug))
