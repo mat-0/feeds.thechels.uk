@@ -44,7 +44,7 @@ description: DotNet Updates
 - Democratizing Performance: The Copilot Profiler Agent in Action on Real Code - Visual Studio Blog ([10 days ago](https://dotnetkicks.com/r/729582?url=https://devblogs.microsoft.com/visualstudio/copilot-profiler-agent-visual-studio/))
 - Democratizing Performance: The Copilot Profiler Agent in Action on Real Code - Visual Studio Blog ([10 days ago](https://dotnetkicks.com/r/729572?url=https://devblogs.microsoft.com/visualstudio/copilot-profiler-agent-visual-studio/))
 - Ask Ralph: Where style meets AI-a new era of conversational commerce - Microsoft Industry Blogs ([11 days ago](https://dotnetkicks.com/r/729479?url=https://www.microsoft.com/en-us/industry/blog/retail/2025/09/09/ask-ralph-where-style-meets-ai-a-new-era-of-conversational-commerce/))
-- Performance Improvements in .NET 10 ([11 days ago](https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-10/))
+- Performance Improvements in .NET 10 ([12 days ago](https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-10/))
 - Announcing .NET 10 Release Candidate 1 ([12 days ago](https://devblogs.microsoft.com/dotnet/dotnet-10-rc-1/))
 - .NET and .NET Framework September 2025 servicing releases updates ([12 days ago](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-september-2025-servicing-updates/))
 - Packaging self-contained and native AOT .NET tools for NuGet: Exploring the .NET 10 preview - Part 7 ([13 days ago](https://andrewlock.net/exploring-dotnet-10-preview-features-7-packaging-self-contained-and-native-aot-dotnet-tools-for-nuget/))
