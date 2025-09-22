@@ -8,10 +8,10 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- FCA motor claims redress prompts industry response ([25 minutes ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/fca-motor-claims-redress-prompts-industry-response-550389.aspx))
-- Ghost broker sentenced as IFED and insurers warn of rising fraud threat ([50 minutes ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/ghost-broker-sentenced-as-ifed-and-insurers-warn-of-rising-fraud-threat-550387.aspx))
-- MGAA launches third next-gen mentoring scheme ([1 hours ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/mgaa-launches-third-nextgen-mentoring-scheme-550386.aspx))
-- Texel Group strengthens London team with senior broking hires ([1 hours ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/texel-group-strengthens-london-team-with-senior-broking-hires-550385.aspx))
+- FCA motor claims redress prompts industry response ([54 minutes ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/fca-motor-claims-redress-prompts-industry-response-550389.aspx))
+- Ghost broker sentenced as IFED and insurers warn of rising fraud threat ([1 hours ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/ghost-broker-sentenced-as-ifed-and-insurers-warn-of-rising-fraud-threat-550387.aspx))
+- MGAA launches third next-gen mentoring scheme ([2 hours ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/mgaa-launches-third-nextgen-mentoring-scheme-550386.aspx))
+- Texel Group strengthens London team with senior broking hires ([2 hours ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/texel-group-strengthens-london-team-with-senior-broking-hires-550385.aspx))
 - Insured Losses in Texas Exceed $47 Billion in 2024 ([4 hours ago](https://www.insurancejournal.com/magazines/mag-features/2025/09/22/839638.htm))
 - Maryland Moves to Deny Liability Limit Sought by Ship Manager in Key Bridge Collapse ([4 hours ago](https://www.insurancejournal.com/magazines/mag-features/2025/09/22/839637.htm))
 - Lawsuit Dismissed Against Detroit Police in Facial Recognition Arrest ([4 hours ago](https://www.insurancejournal.com/magazines/mag-features/2025/09/22/839636.htm))
