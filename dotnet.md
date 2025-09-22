@@ -51,7 +51,7 @@ description: DotNet Updates
 - Boost Your .NET Projects: Efficient Byte Array Conversions ([15 days ago](https://dotnettips.wordpress.com/2025/09/07/boost-your-net-projects-efficient-byte-array-conversions/))
 - The First Set of Updates and Fixes for ReSharper and Rider 2025.2 Is Out! ([17 days ago](https://blog.jetbrains.com/dotnet/2025/09/04/resharper-and-rider-2025-2-1-is-out/))
 - Let Copilot Coding Agent handle the busy work ([18 days ago](https://devblogs.microsoft.com/dotnet/copilot-coding-agent-dotnet/))
-- dotInsights  -  September 2025 ([19 days ago](https://blog.jetbrains.com/dotnet/2025/09/02/dotinsights-september-2025/))
+- dotInsights  -  September 2025 ([20 days ago](https://blog.jetbrains.com/dotnet/2025/09/02/dotinsights-september-2025/))
 - Using and authoring .NET tools ([20 days ago](https://andrewlock.net/using-and-authoring-dotnet-tools/))
 - Boost Your .NET Projects: Find the Fastest Way to Get an Item’s Index in Arrays ([22 days ago](https://dotnettips.wordpress.com/2025/08/31/boost-your-net-projects-find-the-fastest-way-to-get-an-items-index-in-arrays/))
 - Getting Started with the Aspire CLI ([24 days ago](https://devblogs.microsoft.com/dotnet/getting-started-with-the-aspire-cli/))
