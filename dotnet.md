@@ -43,7 +43,7 @@ description: DotNet Updates
 - Working and Testing Against Scheduled Messages with Wolverine ([7 days ago](https://dotnetkicks.com/r/729825?url=https://jeremydmiller.com/2025/09/15/working-and-testing-against-scheduled-messages-with-wolverine/))
 - Cake.Sdk 5.0.25257.82-beta released ([8 days ago](https://dotnetkicks.com/r/729742?url=https://cakebuild.net/blog/2025/09/cake-sdk-net-publish-debug))
 - GameDev Day 2025 Is Back in October! ([8 days ago](https://blog.jetbrains.com/dotnet/2025/09/15/gamedev-day-2025-is-back-in-october/))
-- F# Weekly #37, 2025 - .NET 10 RC1 &amp; FScrobble ([8 days ago](https://dotnetkicks.com/r/729730?url=https://sergeytihon.com/2025/09/13/f-weekly-37-2025-net-10-rc1-fscrobble/))
+- F# Weekly #37, 2025 - .NET 10 RC1 &amp; FScrobble ([9 days ago](https://dotnetkicks.com/r/729730?url=https://sergeytihon.com/2025/09/13/f-weekly-37-2025-net-10-rc1-fscrobble/))
 - Boost Your .NET Projects: Ensure Thread-Safe Uniqueness with DistinctConcurrentBag in Spargine ([9 days ago](https://dotnettips.wordpress.com/2025/09/14/boost-your-net-projects-ensure-thread-safe-uniqueness-with-distinctconcurrentbag-in-spargine/))
 - Performance Improvements in .NET 10 ([12 days ago](https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-10/))
 - Announcing .NET 10 Release Candidate 1 ([13 days ago](https://devblogs.microsoft.com/dotnet/dotnet-10-rc-1/))
