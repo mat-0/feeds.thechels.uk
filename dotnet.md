@@ -8,10 +8,10 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Enhancements to XAML Live Preview in Visual Studio for .NET MAUI - Visual Studio Blog ([7 hours ago](https://dotnetkicks.com/r/730527?url=https://devblogs.microsoft.com/visualstudio/enhancements-to-xaml-live-preview-in-visual-studio-for-net-maui/))
-- Enhancements to XAML Live Preview in Visual Studio for .NET MAUI - Visual Studio Blog ([7 hours ago](https://dotnetkicks.com/r/730508?url=https://devblogs.microsoft.com/visualstudio/enhancements-to-xaml-live-preview-in-visual-studio-for-net-maui/))
-- New Trusted Publishing enhances security on NuGet.org - .NET Blog ([9 hours ago](https://dotnetkicks.com/r/730496?url=https://devblogs.microsoft.com/dotnet/enhanced-security-is-here-with-the-new-trust-publishing-on-nuget-org/))
-- New Trusted Publishing enhances security on NuGet.org ([9 hours ago](https://devblogs.microsoft.com/dotnet/enhanced-security-is-here-with-the-new-trust-publishing-on-nuget-org/))
+- Enhancements to XAML Live Preview in Visual Studio for .NET MAUI - Visual Studio Blog ([8 hours ago](https://dotnetkicks.com/r/730527?url=https://devblogs.microsoft.com/visualstudio/enhancements-to-xaml-live-preview-in-visual-studio-for-net-maui/))
+- Enhancements to XAML Live Preview in Visual Studio for .NET MAUI - Visual Studio Blog ([8 hours ago](https://dotnetkicks.com/r/730508?url=https://devblogs.microsoft.com/visualstudio/enhancements-to-xaml-live-preview-in-visual-studio-for-net-maui/))
+- New Trusted Publishing enhances security on NuGet.org - .NET Blog ([10 hours ago](https://dotnetkicks.com/r/730496?url=https://devblogs.microsoft.com/dotnet/enhanced-security-is-here-with-the-new-trust-publishing-on-nuget-org/))
+- New Trusted Publishing enhances security on NuGet.org ([10 hours ago](https://devblogs.microsoft.com/dotnet/enhanced-security-is-here-with-the-new-trust-publishing-on-nuget-org/))
 - F# Weekly #38, 2025 - .NET STS releases supported for 24 months ([1 days ago](https://dotnetkicks.com/r/730440?url=https://sergeytihon.com/2025/09/21/f-weekly-38-2025-net-sts-releases-supported-for-24-months/))
 - Boost Your .NET Projects: Mastering ObservableList in Spargine ([1 days ago](https://dotnettips.wordpress.com/2025/09/21/boost-your-net-projects-mastering-observablelist-in-spargine/))
 - What a fortnight! VS2026 and iOS26 ([3 days ago](https://dotnetkicks.com/r/730393?url=https://jesseliberty.com/2025/09/19/what-a-fortnight-vs2026-and-ios26/))
