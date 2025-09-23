@@ -10,7 +10,7 @@ description: DotNet Updates
 <!-- news_marker starts -->
 - sleep-pc: a .NET Native AOT tool to make Windows sleep after a timeout ([2 hours ago](https://dotnetkicks.com/r/730571?url=https://andrewlock.net/sleep-pc-a-dotnet-tool-to-make-windows-sleep-after-a-timeout/))
 - sleep-pc: a .NET Native AOT tool to make Windows sleep after a timeout ([2 hours ago](https://dotnetkicks.com/r/730559?url=https://andrewlock.net/sleep-pc-a-dotnet-tool-to-make-windows-sleep-after-a-timeout/))
-- sleep-pc: a .NET Native AOT tool to make Windows sleep after a timeout ([2 hours ago](https://andrewlock.net/sleep-pc-a-dotnet-tool-to-make-windows-sleep-after-a-timeout/))
+- sleep-pc: a .NET Native AOT tool to make Windows sleep after a timeout ([3 hours ago](https://andrewlock.net/sleep-pc-a-dotnet-tool-to-make-windows-sleep-after-a-timeout/))
 - Enhancements to XAML Live Preview in Visual Studio for .NET MAUI - Visual Studio Blog ([19 hours ago](https://dotnetkicks.com/r/730527?url=https://devblogs.microsoft.com/visualstudio/enhancements-to-xaml-live-preview-in-visual-studio-for-net-maui/))
 - Enhancements to XAML Live Preview in Visual Studio for .NET MAUI - Visual Studio Blog ([19 hours ago](https://dotnetkicks.com/r/730508?url=https://devblogs.microsoft.com/visualstudio/enhancements-to-xaml-live-preview-in-visual-studio-for-net-maui/))
 - New Trusted Publishing enhances security on NuGet.org - .NET Blog ([21 hours ago](https://dotnetkicks.com/r/730496?url=https://devblogs.microsoft.com/dotnet/enhanced-security-is-here-with-the-new-trust-publishing-on-nuget-org/))
@@ -46,7 +46,7 @@ description: DotNet Updates
 - Working and Testing Against Scheduled Messages with Wolverine ([7 days ago](https://dotnetkicks.com/r/729825?url=https://jeremydmiller.com/2025/09/15/working-and-testing-against-scheduled-messages-with-wolverine/))
 - GameDev Day 2025 Is Back in October! ([8 days ago](https://blog.jetbrains.com/dotnet/2025/09/15/gamedev-day-2025-is-back-in-october/))
 - Boost Your .NET Projects: Ensure Thread-Safe Uniqueness with DistinctConcurrentBag in Spargine ([9 days ago](https://dotnettips.wordpress.com/2025/09/14/boost-your-net-projects-ensure-thread-safe-uniqueness-with-distinctconcurrentbag-in-spargine/))
-- Performance Improvements in .NET 10 ([12 days ago](https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-10/))
+- Performance Improvements in .NET 10 ([13 days ago](https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-10/))
 - Announcing .NET 10 Release Candidate 1 ([13 days ago](https://devblogs.microsoft.com/dotnet/dotnet-10-rc-1/))
 - .NET and .NET Framework September 2025 servicing releases updates ([13 days ago](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-september-2025-servicing-updates/))
 - Packaging self-contained and native AOT .NET tools for NuGet: Exploring the .NET 10 preview - Part 7 ([14 days ago](https://andrewlock.net/exploring-dotnet-10-preview-features-7-packaging-self-contained-and-native-aot-dotnet-tools-for-nuget/))
