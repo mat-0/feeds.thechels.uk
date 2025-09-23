@@ -8,8 +8,8 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- sleep-pc: a .NET Native AOT tool to make Windows sleep after a timeout ([29 minutes ago](https://dotnetkicks.com/r/730571?url=https://andrewlock.net/sleep-pc-a-dotnet-tool-to-make-windows-sleep-after-a-timeout/))
-- sleep-pc: a .NET Native AOT tool to make Windows sleep after a timeout ([29 minutes ago](https://dotnetkicks.com/r/730559?url=https://andrewlock.net/sleep-pc-a-dotnet-tool-to-make-windows-sleep-after-a-timeout/))
+- sleep-pc: a .NET Native AOT tool to make Windows sleep after a timeout ([57 minutes ago](https://dotnetkicks.com/r/730571?url=https://andrewlock.net/sleep-pc-a-dotnet-tool-to-make-windows-sleep-after-a-timeout/))
+- sleep-pc: a .NET Native AOT tool to make Windows sleep after a timeout ([58 minutes ago](https://dotnetkicks.com/r/730559?url=https://andrewlock.net/sleep-pc-a-dotnet-tool-to-make-windows-sleep-after-a-timeout/))
 - sleep-pc: a .NET Native AOT tool to make Windows sleep after a timeout ([1 hours ago](https://andrewlock.net/sleep-pc-a-dotnet-tool-to-make-windows-sleep-after-a-timeout/))
 - Enhancements to XAML Live Preview in Visual Studio for .NET MAUI - Visual Studio Blog ([17 hours ago](https://dotnetkicks.com/r/730527?url=https://devblogs.microsoft.com/visualstudio/enhancements-to-xaml-live-preview-in-visual-studio-for-net-maui/))
 - Enhancements to XAML Live Preview in Visual Studio for .NET MAUI - Visual Studio Blog ([17 hours ago](https://dotnetkicks.com/r/730508?url=https://devblogs.microsoft.com/visualstudio/enhancements-to-xaml-live-preview-in-visual-studio-for-net-maui/))
