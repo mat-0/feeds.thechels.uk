@@ -8,8 +8,8 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Little Diary of How JasperFx Helps Our Clients ([10 hours ago](https://dotnetkicks.com/r/730658?url=https://jeremydmiller.com/2025/09/23/little-diary-of-how-jasperfx-helps-our-clients/))
-- Implement a secure MCP server using OAuth and Entra ID ([17 hours ago](https://dotnetkicks.com/r/730635?url=https://damienbod.com/2025/09/23/implement-a-secure-mcp-server-using-oauth-and-entra-id/))
+- Little Diary of How JasperFx Helps Our Clients ([11 hours ago](https://dotnetkicks.com/r/730658?url=https://jeremydmiller.com/2025/09/23/little-diary-of-how-jasperfx-helps-our-clients/))
+- Implement a secure MCP server using OAuth and Entra ID ([18 hours ago](https://dotnetkicks.com/r/730635?url=https://damienbod.com/2025/09/23/implement-a-secure-mcp-server-using-oauth-and-entra-id/))
 - sleep-pc: a .NET Native AOT tool to make Windows sleep after a timeout ([1 days ago](https://dotnetkicks.com/r/730571?url=https://andrewlock.net/sleep-pc-a-dotnet-tool-to-make-windows-sleep-after-a-timeout/))
 - sleep-pc: a .NET Native AOT tool to make Windows sleep after a timeout ([1 days ago](https://dotnetkicks.com/r/730559?url=https://andrewlock.net/sleep-pc-a-dotnet-tool-to-make-windows-sleep-after-a-timeout/))
 - sleep-pc: a .NET Native AOT tool to make Windows sleep after a timeout ([1 days ago](https://andrewlock.net/sleep-pc-a-dotnet-tool-to-make-windows-sleep-after-a-timeout/))
@@ -53,7 +53,7 @@ description: DotNet Updates
 - Boost Your .NET Projects: Efficient Byte Array Conversions ([17 days ago](https://dotnettips.wordpress.com/2025/09/07/boost-your-net-projects-efficient-byte-array-conversions/))
 - The First Set of Updates and Fixes for ReSharper and Rider 2025.2 Is Out! ([19 days ago](https://blog.jetbrains.com/dotnet/2025/09/04/resharper-and-rider-2025-2-1-is-out/))
 - Let Copilot Coding Agent handle the busy work ([20 days ago](https://devblogs.microsoft.com/dotnet/copilot-coding-agent-dotnet/))
-- dotInsights  -  September 2025 ([21 days ago](https://blog.jetbrains.com/dotnet/2025/09/02/dotinsights-september-2025/))
+- dotInsights  -  September 2025 ([22 days ago](https://blog.jetbrains.com/dotnet/2025/09/02/dotinsights-september-2025/))
 - Using and authoring .NET tools ([22 days ago](https://andrewlock.net/using-and-authoring-dotnet-tools/))
 - Boost Your .NET Projects: Find the Fastest Way to Get an Item’s Index in Arrays ([24 days ago](https://dotnettips.wordpress.com/2025/08/31/boost-your-net-projects-find-the-fastest-way-to-get-an-items-index-in-arrays/))
 - Getting Started with the Aspire CLI ([26 days ago](https://devblogs.microsoft.com/dotnet/getting-started-with-the-aspire-cli/))
