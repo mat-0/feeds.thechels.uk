@@ -9,9 +9,9 @@ description: DotNet Updates
 
 <!-- news_marker starts -->
 - Little Diary of How JasperFx Helps Our Clients ([5 hours ago](https://dotnetkicks.com/r/730658?url=https://jeremydmiller.com/2025/09/23/little-diary-of-how-jasperfx-helps-our-clients/))
-- Implement a secure MCP server using OAuth and Entra ID ([12 hours ago](https://dotnetkicks.com/r/730635?url=https://damienbod.com/2025/09/23/implement-a-secure-mcp-server-using-oauth-and-entra-id/))
-- sleep-pc: a .NET Native AOT tool to make Windows sleep after a timeout ([19 hours ago](https://dotnetkicks.com/r/730571?url=https://andrewlock.net/sleep-pc-a-dotnet-tool-to-make-windows-sleep-after-a-timeout/))
-- sleep-pc: a .NET Native AOT tool to make Windows sleep after a timeout ([19 hours ago](https://dotnetkicks.com/r/730559?url=https://andrewlock.net/sleep-pc-a-dotnet-tool-to-make-windows-sleep-after-a-timeout/))
+- Implement a secure MCP server using OAuth and Entra ID ([13 hours ago](https://dotnetkicks.com/r/730635?url=https://damienbod.com/2025/09/23/implement-a-secure-mcp-server-using-oauth-and-entra-id/))
+- sleep-pc: a .NET Native AOT tool to make Windows sleep after a timeout ([20 hours ago](https://dotnetkicks.com/r/730571?url=https://andrewlock.net/sleep-pc-a-dotnet-tool-to-make-windows-sleep-after-a-timeout/))
+- sleep-pc: a .NET Native AOT tool to make Windows sleep after a timeout ([20 hours ago](https://dotnetkicks.com/r/730559?url=https://andrewlock.net/sleep-pc-a-dotnet-tool-to-make-windows-sleep-after-a-timeout/))
 - sleep-pc: a .NET Native AOT tool to make Windows sleep after a timeout ([20 hours ago](https://andrewlock.net/sleep-pc-a-dotnet-tool-to-make-windows-sleep-after-a-timeout/))
 - Enhancements to XAML Live Preview in Visual Studio for .NET MAUI - Visual Studio Blog ([1 days ago](https://dotnetkicks.com/r/730527?url=https://devblogs.microsoft.com/visualstudio/enhancements-to-xaml-live-preview-in-visual-studio-for-net-maui/))
 - Enhancements to XAML Live Preview in Visual Studio for .NET MAUI - Visual Studio Blog ([1 days ago](https://dotnetkicks.com/r/730508?url=https://devblogs.microsoft.com/visualstudio/enhancements-to-xaml-live-preview-in-visual-studio-for-net-maui/))
