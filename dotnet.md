@@ -8,6 +8,8 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
+- CRUD-Sourcing is why Your Event Streams Are Bloated ([6 minutes ago](https://dotnetkicks.com/r/730772?url=https://codeopinion.com/crud-sourcing-is-why-your-event-streams-are-bloated/))
+- CRUD-Sourcing is why Your Event Streams Are Bloated ([7 minutes ago](https://dotnetkicks.com/r/730758?url=https://codeopinion.com/crud-sourcing-is-why-your-event-streams-are-bloated/))
 - Little Diary of How JasperFx Helps Our Clients ([20 hours ago](https://dotnetkicks.com/r/730658?url=https://jeremydmiller.com/2025/09/23/little-diary-of-how-jasperfx-helps-our-clients/))
 - Implement a secure MCP server using OAuth and Entra ID ([1 days ago](https://dotnetkicks.com/r/730635?url=https://damienbod.com/2025/09/23/implement-a-secure-mcp-server-using-oauth-and-entra-id/))
 - sleep-pc: a .NET Native AOT tool to make Windows sleep after a timeout ([1 days ago](https://dotnetkicks.com/r/730571?url=https://andrewlock.net/sleep-pc-a-dotnet-tool-to-make-windows-sleep-after-a-timeout/))
@@ -26,7 +28,7 @@ description: DotNet Updates
 - Event Enrichment in Marten Projections ([6 days ago](https://dotnetkicks.com/r/730234?url=https://jeremydmiller.com/2025/09/17/event-enrichment-in-marten-projections/))
 - Event Enrichment in Marten Projections ([6 days ago](https://dotnetkicks.com/r/730215?url=https://jeremydmiller.com/2025/09/17/event-enrichment-in-marten-projections/))
 - Event Enrichment in Marten Projections ([6 days ago](https://dotnetkicks.com/r/730204?url=https://jeremydmiller.com/2025/09/17/event-enrichment-in-marten-projections/))
-- Scott Hunter ([6 days ago](https://dotnetkicks.com/r/730190?url=https://jesseliberty.com/2025/09/17/scott-hunter/))
+- Scott Hunter ([7 days ago](https://dotnetkicks.com/r/730190?url=https://jesseliberty.com/2025/09/17/scott-hunter/))
 - Phobos 2.10: Game-Changing Akka.NET Cluster Monitoring and Actor Performance Dashboards ([7 days ago](https://dotnetkicks.com/r/730173?url=https://petabridge.com/blog/phobos-2.10-akka-cluster-monitoring-dashboards/))
 - Prompt Files and Instructions Files Explained - .NET Blog ([7 days ago](https://dotnetkicks.com/r/730155?url=https://devblogs.microsoft.com/dotnet/prompt-files-and-instructions-files-explained/))
 - Prompt Files and Instructions Files Explained - .NET Blog ([7 days ago](https://dotnetkicks.com/r/730152?url=https://devblogs.microsoft.com/dotnet/prompt-files-and-instructions-files-explained/))
@@ -40,9 +42,7 @@ description: DotNet Updates
 - .NET STS releases supported for 24 months ([8 days ago](https://devblogs.microsoft.com/dotnet/dotnet-sts-releases-supported-for-24-months/))
 - .NET 10 Release 1: Performance Boosts, Security Upgrades, and Smarter AI ([8 days ago](https://dotnetkicks.com/r/729874?url=https://www.gapvelocity.ai/blog/dotnet-10-release-1?utm_source=DNK-729874&utm_medium=DNK-729874&utm_content=DNK-729874&utm_campaign=DNK-729874))
 - Supporting platform-specific .NET tools on old .NET SDKs: Exploring the .NET 10 preview - Part 8 ([8 days ago](https://dotnetkicks.com/r/729922?url=https://andrewlock.net/exploring-dotnet-10-preview-features-8-supporting-platform-specific-dotnet-tools-on-old-sdks/))
-- Supporting platform-specific .NET tools on old .NET SDKs: Exploring the .NET 10 preview - Part 8 ([8 days ago](https://dotnetkicks.com/r/729909?url=https://andrewlock.net/exploring-dotnet-10-preview-features-8-supporting-platform-specific-dotnet-tools-on-old-sdks/))
 - Supporting platform-specific .NET tools on old .NET SDKs: Exploring the .NET 10 preview - Part 8 ([8 days ago](https://andrewlock.net/exploring-dotnet-10-preview-features-8-supporting-platform-specific-dotnet-tools-on-old-sdks/))
-- Regex for Email Validation? Think Again! ([9 days ago](https://dotnetkicks.com/r/729873?url=https://codeopinion.com/regex-for-email-validation-think-again/))
 - Application Insights Code Optimizations for .NET Apps ([9 days ago](https://devblogs.microsoft.com/dotnet/application-insights-code-optimizations/))
 - GameDev Day 2025 Is Back in October! ([9 days ago](https://blog.jetbrains.com/dotnet/2025/09/15/gamedev-day-2025-is-back-in-october/))
 - Boost Your .NET Projects: Ensure Thread-Safe Uniqueness with DistinctConcurrentBag in Spargine ([10 days ago](https://dotnettips.wordpress.com/2025/09/14/boost-your-net-projects-ensure-thread-safe-uniqueness-with-distinctconcurrentbag-in-spargine/))
