@@ -8,8 +8,8 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- CRUD-Sourcing is why Your Event Streams Are Bloated ([38 minutes ago](https://dotnetkicks.com/r/730772?url=https://codeopinion.com/crud-sourcing-is-why-your-event-streams-are-bloated/))
-- CRUD-Sourcing is why Your Event Streams Are Bloated ([38 minutes ago](https://dotnetkicks.com/r/730758?url=https://codeopinion.com/crud-sourcing-is-why-your-event-streams-are-bloated/))
+- CRUD-Sourcing is why Your Event Streams Are Bloated ([1 hours ago](https://dotnetkicks.com/r/730772?url=https://codeopinion.com/crud-sourcing-is-why-your-event-streams-are-bloated/))
+- CRUD-Sourcing is why Your Event Streams Are Bloated ([1 hours ago](https://dotnetkicks.com/r/730758?url=https://codeopinion.com/crud-sourcing-is-why-your-event-streams-are-bloated/))
 - Little Diary of How JasperFx Helps Our Clients ([21 hours ago](https://dotnetkicks.com/r/730658?url=https://jeremydmiller.com/2025/09/23/little-diary-of-how-jasperfx-helps-our-clients/))
 - Implement a secure MCP server using OAuth and Entra ID ([1 days ago](https://dotnetkicks.com/r/730635?url=https://damienbod.com/2025/09/23/implement-a-secure-mcp-server-using-oauth-and-entra-id/))
 - sleep-pc: a .NET Native AOT tool to make Windows sleep after a timeout ([1 days ago](https://dotnetkicks.com/r/730571?url=https://andrewlock.net/sleep-pc-a-dotnet-tool-to-make-windows-sleep-after-a-timeout/))
