@@ -46,7 +46,7 @@ description: DotNet Updates
 - Application Insights Code Optimizations for .NET Apps ([8 days ago](https://devblogs.microsoft.com/dotnet/application-insights-code-optimizations/))
 - GameDev Day 2025 Is Back in October! ([9 days ago](https://blog.jetbrains.com/dotnet/2025/09/15/gamedev-day-2025-is-back-in-october/))
 - Boost Your .NET Projects: Ensure Thread-Safe Uniqueness with DistinctConcurrentBag in Spargine ([10 days ago](https://dotnettips.wordpress.com/2025/09/14/boost-your-net-projects-ensure-thread-safe-uniqueness-with-distinctconcurrentbag-in-spargine/))
-- Performance Improvements in .NET 10 ([13 days ago](https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-10/))
+- Performance Improvements in .NET 10 ([14 days ago](https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-10/))
 - Announcing .NET 10 Release Candidate 1 ([14 days ago](https://devblogs.microsoft.com/dotnet/dotnet-10-rc-1/))
 - .NET and .NET Framework September 2025 servicing releases updates ([14 days ago](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-september-2025-servicing-updates/))
 - Packaging self-contained and native AOT .NET tools for NuGet: Exploring the .NET 10 preview - Part 7 ([15 days ago](https://andrewlock.net/exploring-dotnet-10-preview-features-7-packaging-self-contained-and-native-aot-dotnet-tools-for-nuget/))
