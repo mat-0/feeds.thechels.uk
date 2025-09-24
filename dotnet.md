@@ -8,11 +8,11 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Little Diary of How JasperFx Helps Our Clients ([5 hours ago](https://dotnetkicks.com/r/730658?url=https://jeremydmiller.com/2025/09/23/little-diary-of-how-jasperfx-helps-our-clients/))
+- Little Diary of How JasperFx Helps Our Clients ([6 hours ago](https://dotnetkicks.com/r/730658?url=https://jeremydmiller.com/2025/09/23/little-diary-of-how-jasperfx-helps-our-clients/))
 - Implement a secure MCP server using OAuth and Entra ID ([13 hours ago](https://dotnetkicks.com/r/730635?url=https://damienbod.com/2025/09/23/implement-a-secure-mcp-server-using-oauth-and-entra-id/))
 - sleep-pc: a .NET Native AOT tool to make Windows sleep after a timeout ([20 hours ago](https://dotnetkicks.com/r/730571?url=https://andrewlock.net/sleep-pc-a-dotnet-tool-to-make-windows-sleep-after-a-timeout/))
 - sleep-pc: a .NET Native AOT tool to make Windows sleep after a timeout ([20 hours ago](https://dotnetkicks.com/r/730559?url=https://andrewlock.net/sleep-pc-a-dotnet-tool-to-make-windows-sleep-after-a-timeout/))
-- sleep-pc: a .NET Native AOT tool to make Windows sleep after a timeout ([20 hours ago](https://andrewlock.net/sleep-pc-a-dotnet-tool-to-make-windows-sleep-after-a-timeout/))
+- sleep-pc: a .NET Native AOT tool to make Windows sleep after a timeout ([21 hours ago](https://andrewlock.net/sleep-pc-a-dotnet-tool-to-make-windows-sleep-after-a-timeout/))
 - Enhancements to XAML Live Preview in Visual Studio for .NET MAUI - Visual Studio Blog ([1 days ago](https://dotnetkicks.com/r/730527?url=https://devblogs.microsoft.com/visualstudio/enhancements-to-xaml-live-preview-in-visual-studio-for-net-maui/))
 - Enhancements to XAML Live Preview in Visual Studio for .NET MAUI - Visual Studio Blog ([1 days ago](https://dotnetkicks.com/r/730508?url=https://devblogs.microsoft.com/visualstudio/enhancements-to-xaml-live-preview-in-visual-studio-for-net-maui/))
 - New Trusted Publishing enhances security on NuGet.org - .NET Blog ([1 days ago](https://dotnetkicks.com/r/730496?url=https://devblogs.microsoft.com/dotnet/enhanced-security-is-here-with-the-new-trust-publishing-on-nuget-org/))
@@ -57,7 +57,7 @@ description: DotNet Updates
 - Using and authoring .NET tools ([21 days ago](https://andrewlock.net/using-and-authoring-dotnet-tools/))
 - Boost Your .NET Projects: Find the Fastest Way to Get an Item’s Index in Arrays ([24 days ago](https://dotnettips.wordpress.com/2025/08/31/boost-your-net-projects-find-the-fastest-way-to-get-an-items-index-in-arrays/))
 - Getting Started with the Aspire CLI ([26 days ago](https://devblogs.microsoft.com/dotnet/getting-started-with-the-aspire-cli/))
-- ReSharper’s New Out-of-Process Engine Cuts Visual Studio startup UI freezes by 61% ([26 days ago](https://blog.jetbrains.com/dotnet/2025/08/28/resharper-s-new-out-of-process-engine-cuts-ui-freezes-in-visual-studio-by-80/))
+- ReSharper’s New Out-of-Process Engine Cuts Visual Studio startup UI freezes by 61% ([27 days ago](https://blog.jetbrains.com/dotnet/2025/08/28/resharper-s-new-out-of-process-engine-cuts-ui-freezes-in-visual-studio-by-80/))
 - EFCore.Visualizer – View Entity Framework Core query plan inside Visual Studio ([27 days ago](https://devblogs.microsoft.com/dotnet/ef-core-visualizer-view-entity-framework-core-query-plan-inside-visual-studio/))
 - Fixing an old .NET Core native library loading issue on Alpine ([28 days ago](https://andrewlock.net/fixing-an-old-dotnet-core-native-library-loading-issue-on-alpine/))
 
