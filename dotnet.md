@@ -58,7 +58,7 @@ description: DotNet Updates
 - Using and authoring .NET tools ([22 days ago](https://andrewlock.net/using-and-authoring-dotnet-tools/))
 - Boost Your .NET Projects: Find the Fastest Way to Get an Item’s Index in Arrays ([25 days ago](https://dotnettips.wordpress.com/2025/08/31/boost-your-net-projects-find-the-fastest-way-to-get-an-items-index-in-arrays/))
 - Getting Started with the Aspire CLI ([27 days ago](https://devblogs.microsoft.com/dotnet/getting-started-with-the-aspire-cli/))
-- ReSharper’s New Out-of-Process Engine Cuts Visual Studio startup UI freezes by 61% ([27 days ago](https://blog.jetbrains.com/dotnet/2025/08/28/resharper-s-new-out-of-process-engine-cuts-ui-freezes-in-visual-studio-by-80/))
+- ReSharper’s New Out-of-Process Engine Cuts Visual Studio startup UI freezes by 61% ([28 days ago](https://blog.jetbrains.com/dotnet/2025/08/28/resharper-s-new-out-of-process-engine-cuts-ui-freezes-in-visual-studio-by-80/))
 - Fixing an old .NET Core native library loading issue on Alpine ([29 days ago](https://andrewlock.net/fixing-an-old-dotnet-core-native-library-loading-issue-on-alpine/))
 
 <!-- news_marker ends -->
