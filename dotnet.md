@@ -9,8 +9,8 @@ description: DotNet Updates
 
 <!-- news_marker starts -->
 - Preparing Your .NET MAUI Apps for Google Play's 16 KB Page Size Requirement - .NET Blog ([1 hours ago](https://dotnetkicks.com/r/731067?url=https://devblogs.microsoft.com/dotnet/maui-google-play-16-kb-page-size-support/))
-- Preparing Your .NET MAUI Apps for Google Play’s 16 KB Page Size Requirement ([1 hours ago](https://devblogs.microsoft.com/dotnet/maui-google-play-16-kb-page-size-support/))
-- Some Thoughts on MS Pulling Back on their "Eventing Framework" ([18 hours ago](https://dotnetkicks.com/r/731013?url=https://jeremydmiller.com/2025/09/25/some-thoughts-on-ms-pulling-back-on-their-eventing-framework/))
+- Preparing Your .NET MAUI Apps for Google Play’s 16 KB Page Size Requirement ([2 hours ago](https://devblogs.microsoft.com/dotnet/maui-google-play-16-kb-page-size-support/))
+- Some Thoughts on MS Pulling Back on their "Eventing Framework" ([19 hours ago](https://dotnetkicks.com/r/731013?url=https://jeremydmiller.com/2025/09/25/some-thoughts-on-ms-pulling-back-on-their-eventing-framework/))
 - You Don't Need to Use Akka.HealthChecks Any More ([23 hours ago](https://dotnetkicks.com/r/730996?url=https://petabridge.com/blog/you-dont-need-akka-healthchecks-anymore/))
 - Announcing Aspire 9.5 - .NET Blog ([1 days ago](https://dotnetkicks.com/r/730976?url=https://devblogs.microsoft.com/dotnet/announcing-dotnet-aspire-95/))
 - Announcing Aspire 9.5 - .NET Blog ([1 days ago](https://dotnetkicks.com/r/730958?url=https://devblogs.microsoft.com/dotnet/announcing-dotnet-aspire-95/))
@@ -34,7 +34,7 @@ description: DotNet Updates
 - F# Weekly #38, 2025 - .NET STS releases supported for 24 months ([5 days ago](https://dotnetkicks.com/r/730440?url=https://sergeytihon.com/2025/09/21/f-weekly-38-2025-net-sts-releases-supported-for-24-months/))
 - Boost Your .NET Projects: Mastering ObservableList in Spargine ([5 days ago](https://dotnettips.wordpress.com/2025/09/21/boost-your-net-projects-mastering-observablelist-in-spargine/))
 - What a fortnight! VS2026 and iOS26 ([7 days ago](https://dotnetkicks.com/r/730393?url=https://jesseliberty.com/2025/09/19/what-a-fortnight-vs2026-and-ios26/))
-- Announcing: JetBrains .NET Days Online 2025 ([7 days ago](https://blog.jetbrains.com/dotnet/2025/09/18/announcing-jetbrains-net-days-online-2025/))
+- Announcing: JetBrains .NET Days Online 2025 ([8 days ago](https://blog.jetbrains.com/dotnet/2025/09/18/announcing-jetbrains-net-days-online-2025/))
 - Update on Wolverine 5 and CritterWatch ([8 days ago](https://dotnetkicks.com/r/730317?url=https://jeremydmiller.com/2025/09/18/update-on-wolverine-5-and-critterwatch/))
 - More Updates and Fixes for ReSharper and Rider 2025.2 ([8 days ago](https://blog.jetbrains.com/dotnet/2025/09/18/resharper-rider-2025-2-2/))
 - Event Enrichment in Marten Projections ([8 days ago](https://dotnetkicks.com/r/730234?url=https://jeremydmiller.com/2025/09/17/event-enrichment-in-marten-projections/))
@@ -51,7 +51,7 @@ description: DotNet Updates
 - GameDev Day 2025 Is Back in October! ([11 days ago](https://blog.jetbrains.com/dotnet/2025/09/15/gamedev-day-2025-is-back-in-october/))
 - Boost Your .NET Projects: Ensure Thread-Safe Uniqueness with DistinctConcurrentBag in Spargine ([12 days ago](https://dotnettips.wordpress.com/2025/09/14/boost-your-net-projects-ensure-thread-safe-uniqueness-with-distinctconcurrentbag-in-spargine/))
 - Performance Improvements in .NET 10 ([16 days ago](https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-10/))
-- Announcing .NET 10 Release Candidate 1 ([16 days ago](https://devblogs.microsoft.com/dotnet/dotnet-10-rc-1/))
+- Announcing .NET 10 Release Candidate 1 ([17 days ago](https://devblogs.microsoft.com/dotnet/dotnet-10-rc-1/))
 - .NET and .NET Framework September 2025 servicing releases updates ([17 days ago](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-september-2025-servicing-updates/))
 - Packaging self-contained and native AOT .NET tools for NuGet: Exploring the .NET 10 preview - Part 7 ([17 days ago](https://andrewlock.net/exploring-dotnet-10-preview-features-7-packaging-self-contained-and-native-aot-dotnet-tools-for-nuget/))
 - Boost Your .NET Projects: Efficient Byte Array Conversions ([19 days ago](https://dotnettips.wordpress.com/2025/09/07/boost-your-net-projects-efficient-byte-array-conversions/))
