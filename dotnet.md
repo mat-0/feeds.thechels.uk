@@ -8,7 +8,7 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Some Thoughts on MS Pulling Back on their "Eventing Framework" ([8 hours ago](https://dotnetkicks.com/r/731013?url=https://jeremydmiller.com/2025/09/25/some-thoughts-on-ms-pulling-back-on-their-eventing-framework/))
+- Some Thoughts on MS Pulling Back on their "Eventing Framework" ([9 hours ago](https://dotnetkicks.com/r/731013?url=https://jeremydmiller.com/2025/09/25/some-thoughts-on-ms-pulling-back-on-their-eventing-framework/))
 - You Don't Need to Use Akka.HealthChecks Any More ([13 hours ago](https://dotnetkicks.com/r/730996?url=https://petabridge.com/blog/you-dont-need-akka-healthchecks-anymore/))
 - Announcing Aspire 9.5 - .NET Blog ([15 hours ago](https://dotnetkicks.com/r/730976?url=https://devblogs.microsoft.com/dotnet/announcing-dotnet-aspire-95/))
 - Announcing Aspire 9.5 - .NET Blog ([15 hours ago](https://dotnetkicks.com/r/730958?url=https://devblogs.microsoft.com/dotnet/announcing-dotnet-aspire-95/))
@@ -42,8 +42,8 @@ description: DotNet Updates
 - Phobos 2.10: Game-Changing Akka.NET Cluster Monitoring and Actor Performance Dashboards ([8 days ago](https://dotnetkicks.com/r/730173?url=https://petabridge.com/blog/phobos-2.10-akka-cluster-monitoring-dashboards/))
 - Prompt Files and Instructions Files Explained - .NET Blog ([8 days ago](https://dotnetkicks.com/r/730155?url=https://devblogs.microsoft.com/dotnet/prompt-files-and-instructions-files-explained/))
 - Prompt Files and Instructions Files Explained ([8 days ago](https://devblogs.microsoft.com/dotnet/prompt-files-and-instructions-files-explained/))
-- The Early Access Program for Rider 2025.3 Is Now Open! ([8 days ago](https://blog.jetbrains.com/dotnet/2025/09/17/the-early-access-program-for-rider-2025-3/))
-- The Early Access Program for ReSharper and .NET Tools 2025.3 Is Here! ([8 days ago](https://blog.jetbrains.com/dotnet/2025/09/17/the-early-access-program-for-resharper-and-net-tools-2025-3/))
+- The Early Access Program for Rider 2025.3 Is Now Open! ([9 days ago](https://blog.jetbrains.com/dotnet/2025/09/17/the-early-access-program-for-rider-2025-3/))
+- The Early Access Program for ReSharper and .NET Tools 2025.3 Is Here! ([9 days ago](https://blog.jetbrains.com/dotnet/2025/09/17/the-early-access-program-for-resharper-and-net-tools-2025-3/))
 - .NET STS releases supported for 24 months ([9 days ago](https://devblogs.microsoft.com/dotnet/dotnet-sts-releases-supported-for-24-months/))
 - Supporting platform-specific .NET tools on old .NET SDKs: Exploring the .NET 10 preview - Part 8 ([9 days ago](https://andrewlock.net/exploring-dotnet-10-preview-features-8-supporting-platform-specific-dotnet-tools-on-old-sdks/))
 - Application Insights Code Optimizations for .NET Apps ([10 days ago](https://devblogs.microsoft.com/dotnet/application-insights-code-optimizations/))
