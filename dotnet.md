@@ -9,12 +9,12 @@ description: DotNet Updates
 
 <!-- news_marker starts -->
 - Some Thoughts on MS Pulling Back on their "Eventing Framework" ([3 hours ago](https://dotnetkicks.com/r/731013?url=https://jeremydmiller.com/2025/09/25/some-thoughts-on-ms-pulling-back-on-their-eventing-framework/))
-- You Don't Need to Use Akka.HealthChecks Any More ([7 hours ago](https://dotnetkicks.com/r/730996?url=https://petabridge.com/blog/you-dont-need-akka-healthchecks-anymore/))
-- Announcing Aspire 9.5 - .NET Blog ([9 hours ago](https://dotnetkicks.com/r/730976?url=https://devblogs.microsoft.com/dotnet/announcing-dotnet-aspire-95/))
-- Announcing Aspire 9.5 - .NET Blog ([9 hours ago](https://dotnetkicks.com/r/730958?url=https://devblogs.microsoft.com/dotnet/announcing-dotnet-aspire-95/))
-- Announcing Aspire 9.5 ([9 hours ago](https://devblogs.microsoft.com/dotnet/announcing-dotnet-aspire-95/))
-- Lance McCarthy on CoPilot & MCP Servers ([11 hours ago](https://dotnetkicks.com/r/730936?url=https://jesseliberty.com/2025/09/25/lance-mccarthy-on-copilot-mcp-servers/))
-- Rider Roadmap: What to Expect From the Upcoming Updates and Releases ([13 hours ago](https://blog.jetbrains.com/dotnet/2025/09/25/rider-rider-roadmap-2025-3/))
+- You Don't Need to Use Akka.HealthChecks Any More ([8 hours ago](https://dotnetkicks.com/r/730996?url=https://petabridge.com/blog/you-dont-need-akka-healthchecks-anymore/))
+- Announcing Aspire 9.5 - .NET Blog ([10 hours ago](https://dotnetkicks.com/r/730976?url=https://devblogs.microsoft.com/dotnet/announcing-dotnet-aspire-95/))
+- Announcing Aspire 9.5 - .NET Blog ([10 hours ago](https://dotnetkicks.com/r/730958?url=https://devblogs.microsoft.com/dotnet/announcing-dotnet-aspire-95/))
+- Announcing Aspire 9.5 ([10 hours ago](https://devblogs.microsoft.com/dotnet/announcing-dotnet-aspire-95/))
+- Lance McCarthy on CoPilot & MCP Servers ([12 hours ago](https://dotnetkicks.com/r/730936?url=https://jesseliberty.com/2025/09/25/lance-mccarthy-on-copilot-mcp-servers/))
+- Rider Roadmap: What to Expect From the Upcoming Updates and Releases ([14 hours ago](https://blog.jetbrains.com/dotnet/2025/09/25/rider-rider-roadmap-2025-3/))
 - Exploring Text-to-Image capabilities in .NET - .NET Blog ([1 days ago](https://dotnetkicks.com/r/730800?url=https://devblogs.microsoft.com/dotnet/explore-text-to-image-dotnet/))
 - Exploring Text-to-Image capabilities in .NET - .NET Blog ([1 days ago](https://dotnetkicks.com/r/730799?url=https://devblogs.microsoft.com/dotnet/explore-text-to-image-dotnet/))
 - Exploring Text-to-Image capabilities in .NET ([1 days ago](https://devblogs.microsoft.com/dotnet/explore-text-to-image-dotnet/))
