@@ -9,8 +9,8 @@ description: DotNet Updates
 
 <!-- news_marker starts -->
 - Preparing Your .NET MAUI Apps for Google Play's 16 KB Page Size Requirement - .NET Blog ([4 hours ago](https://dotnetkicks.com/r/731067?url=https://devblogs.microsoft.com/dotnet/maui-google-play-16-kb-page-size-support/))
-- Preparing Your .NET MAUI Apps for Google Play’s 16 KB Page Size Requirement ([4 hours ago](https://devblogs.microsoft.com/dotnet/maui-google-play-16-kb-page-size-support/))
-- Some Thoughts on MS Pulling Back on their "Eventing Framework" ([21 hours ago](https://dotnetkicks.com/r/731013?url=https://jeremydmiller.com/2025/09/25/some-thoughts-on-ms-pulling-back-on-their-eventing-framework/))
+- Preparing Your .NET MAUI Apps for Google Play’s 16 KB Page Size Requirement ([5 hours ago](https://devblogs.microsoft.com/dotnet/maui-google-play-16-kb-page-size-support/))
+- Some Thoughts on MS Pulling Back on their "Eventing Framework" ([22 hours ago](https://dotnetkicks.com/r/731013?url=https://jeremydmiller.com/2025/09/25/some-thoughts-on-ms-pulling-back-on-their-eventing-framework/))
 - You Don't Need to Use Akka.HealthChecks Any More ([1 days ago](https://dotnetkicks.com/r/730996?url=https://petabridge.com/blog/you-dont-need-akka-healthchecks-anymore/))
 - Announcing Aspire 9.5 - .NET Blog ([1 days ago](https://dotnetkicks.com/r/730976?url=https://devblogs.microsoft.com/dotnet/announcing-dotnet-aspire-95/))
 - Announcing Aspire 9.5 - .NET Blog ([1 days ago](https://dotnetkicks.com/r/730958?url=https://devblogs.microsoft.com/dotnet/announcing-dotnet-aspire-95/))
@@ -37,9 +37,9 @@ description: DotNet Updates
 - Announcing: JetBrains .NET Days Online 2025 ([8 days ago](https://blog.jetbrains.com/dotnet/2025/09/18/announcing-jetbrains-net-days-online-2025/))
 - Update on Wolverine 5 and CritterWatch ([8 days ago](https://dotnetkicks.com/r/730317?url=https://jeremydmiller.com/2025/09/18/update-on-wolverine-5-and-critterwatch/))
 - More Updates and Fixes for ReSharper and Rider 2025.2 ([8 days ago](https://blog.jetbrains.com/dotnet/2025/09/18/resharper-rider-2025-2-2/))
-- Event Enrichment in Marten Projections ([8 days ago](https://dotnetkicks.com/r/730234?url=https://jeremydmiller.com/2025/09/17/event-enrichment-in-marten-projections/))
-- Event Enrichment in Marten Projections ([8 days ago](https://dotnetkicks.com/r/730215?url=https://jeremydmiller.com/2025/09/17/event-enrichment-in-marten-projections/))
-- Event Enrichment in Marten Projections ([8 days ago](https://dotnetkicks.com/r/730204?url=https://jeremydmiller.com/2025/09/17/event-enrichment-in-marten-projections/))
+- Event Enrichment in Marten Projections ([9 days ago](https://dotnetkicks.com/r/730234?url=https://jeremydmiller.com/2025/09/17/event-enrichment-in-marten-projections/))
+- Event Enrichment in Marten Projections ([9 days ago](https://dotnetkicks.com/r/730215?url=https://jeremydmiller.com/2025/09/17/event-enrichment-in-marten-projections/))
+- Event Enrichment in Marten Projections ([9 days ago](https://dotnetkicks.com/r/730204?url=https://jeremydmiller.com/2025/09/17/event-enrichment-in-marten-projections/))
 - Scott Hunter ([9 days ago](https://dotnetkicks.com/r/730190?url=https://jesseliberty.com/2025/09/17/scott-hunter/))
 - Phobos 2.10: Game-Changing Akka.NET Cluster Monitoring and Actor Performance Dashboards ([9 days ago](https://dotnetkicks.com/r/730173?url=https://petabridge.com/blog/phobos-2.10-akka-cluster-monitoring-dashboards/))
 - Prompt Files and Instructions Files Explained ([9 days ago](https://devblogs.microsoft.com/dotnet/prompt-files-and-instructions-files-explained/))
