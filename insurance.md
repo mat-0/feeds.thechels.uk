@@ -101,7 +101,7 @@ description: Insurance Updates
 - McGill and Partners backs GB Snowsport ahead of Olympic season ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/mcgill-and-partners-backs-gb-snowsport-ahead-of-olympic-season-550851.aspx))
 - Remittance senders face protection gaps despite high trust: Chubb ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/remittance-senders-face-protection-gaps-despite-high-trust-chubb-550919.aspx))
 - Bridgehaven Specialty joins ABI ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/bridgehaven-specialty-joins-abi-550847.aspx))
-- Acrisure Re Unveils AcrisureIQ PRO to Expand Analytics Platform ([2 days ago](https://www.insurtechinsights.com/acrisure-re-unveils-acrisureiq-pro-to-expand-analytics-platform/))
+- Acrisure Re Unveils AcrisureIQ PRO to Expand Analytics Platform ([3 days ago](https://www.insurtechinsights.com/acrisure-re-unveils-acrisureiq-pro-to-expand-analytics-platform/))
 - California legislature signs off on FAIR Plan financing ([3 days ago](https://www.dig-in.com/news/california-legislature-signs-off-on-fair-plan-financing))
 - Modernizing mutuals without losing the mutual ([3 days ago](https://www.dig-in.com/opinion/modernizing-mutuals-without-losing-the-mutual))
 - Threats against executives surge as companies grapple with global instability ([3 days ago](https://www.insurancebusinessmag.com/uk/business-strategy/threats-against-executives-surge-as-companies-grapple-with-global-instability-550828.aspx))
