@@ -22,7 +22,7 @@ description: DotNet Updates
 - Exploring Text-to-Image capabilities in .NET ([2 days ago](https://devblogs.microsoft.com/dotnet/explore-text-to-image-dotnet/))
 - CRUD-Sourcing is why Your Event Streams Are Bloated ([2 days ago](https://dotnetkicks.com/r/730772?url=https://codeopinion.com/crud-sourcing-is-why-your-event-streams-are-bloated/))
 - CRUD-Sourcing is why Your Event Streams Are Bloated ([2 days ago](https://dotnetkicks.com/r/730758?url=https://codeopinion.com/crud-sourcing-is-why-your-event-streams-are-bloated/))
-- Little Diary of How JasperFx Helps Our Clients ([2 days ago](https://dotnetkicks.com/r/730658?url=https://jeremydmiller.com/2025/09/23/little-diary-of-how-jasperfx-helps-our-clients/))
+- Little Diary of How JasperFx Helps Our Clients ([3 days ago](https://dotnetkicks.com/r/730658?url=https://jeremydmiller.com/2025/09/23/little-diary-of-how-jasperfx-helps-our-clients/))
 - Implement a secure MCP server using OAuth and Entra ID ([3 days ago](https://dotnetkicks.com/r/730635?url=https://damienbod.com/2025/09/23/implement-a-secure-mcp-server-using-oauth-and-entra-id/))
 - sleep-pc: a .NET Native AOT tool to make Windows sleep after a timeout ([3 days ago](https://dotnetkicks.com/r/730571?url=https://andrewlock.net/sleep-pc-a-dotnet-tool-to-make-windows-sleep-after-a-timeout/))
 - sleep-pc: a .NET Native AOT tool to make Windows sleep after a timeout ([3 days ago](https://dotnetkicks.com/r/730559?url=https://andrewlock.net/sleep-pc-a-dotnet-tool-to-make-windows-sleep-after-a-timeout/))
