@@ -8,7 +8,7 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Ardalis Fall 2025 Speaking Tour ([4 hours ago](https://dotnetkicks.com/r/731118?url=https://ardalis.com/ardalis-fall-2025-speaking-tour/))
+- Ardalis Fall 2025 Speaking Tour ([5 hours ago](https://dotnetkicks.com/r/731118?url=https://ardalis.com/ardalis-fall-2025-speaking-tour/))
 - Preparing Your .NET MAUI Apps for Google Play's 16 KB Page Size Requirement - .NET Blog ([1 days ago](https://dotnetkicks.com/r/731067?url=https://devblogs.microsoft.com/dotnet/maui-google-play-16-kb-page-size-support/))
 - Preparing Your .NET MAUI Apps for Google Play’s 16 KB Page Size Requirement ([1 days ago](https://devblogs.microsoft.com/dotnet/maui-google-play-16-kb-page-size-support/))
 - Some Thoughts on MS Pulling Back on their "Eventing Framework" ([1 days ago](https://dotnetkicks.com/r/731013?url=https://jeremydmiller.com/2025/09/25/some-thoughts-on-ms-pulling-back-on-their-eventing-framework/))
@@ -20,7 +20,7 @@ description: DotNet Updates
 - Rider Roadmap: What to Expect From the Upcoming Updates and Releases ([2 days ago](https://blog.jetbrains.com/dotnet/2025/09/25/rider-rider-roadmap-2025-3/))
 - Exploring Text-to-Image capabilities in .NET - .NET Blog ([2 days ago](https://dotnetkicks.com/r/730800?url=https://devblogs.microsoft.com/dotnet/explore-text-to-image-dotnet/))
 - Exploring Text-to-Image capabilities in .NET - .NET Blog ([2 days ago](https://dotnetkicks.com/r/730799?url=https://devblogs.microsoft.com/dotnet/explore-text-to-image-dotnet/))
-- Exploring Text-to-Image capabilities in .NET ([2 days ago](https://devblogs.microsoft.com/dotnet/explore-text-to-image-dotnet/))
+- Exploring Text-to-Image capabilities in .NET ([3 days ago](https://devblogs.microsoft.com/dotnet/explore-text-to-image-dotnet/))
 - CRUD-Sourcing is why Your Event Streams Are Bloated ([3 days ago](https://dotnetkicks.com/r/730772?url=https://codeopinion.com/crud-sourcing-is-why-your-event-streams-are-bloated/))
 - CRUD-Sourcing is why Your Event Streams Are Bloated ([3 days ago](https://dotnetkicks.com/r/730758?url=https://codeopinion.com/crud-sourcing-is-why-your-event-streams-are-bloated/))
 - Little Diary of How JasperFx Helps Our Clients ([3 days ago](https://dotnetkicks.com/r/730658?url=https://jeremydmiller.com/2025/09/23/little-diary-of-how-jasperfx-helps-our-clients/))

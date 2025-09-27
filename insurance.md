@@ -120,7 +120,7 @@ description: Insurance Updates
 - Sparking debate: Lithium-ion risks ([3 days ago](https://www.postonline.co.uk/regulation/7959010/sparking-debate-lithium-ion-risks))
 - Technology due diligence takes centre stage in insurance M&A ([3 days ago](https://www.postonline.co.uk/technology/7958262/technology-due-diligence-takes-centre-stage-in-insurance-ma))
 - Top 30 European Insurers of 2025 Revealed ([3 days ago](https://www.postonline.co.uk/personal/7958243/top-30-european-insurers-of-2025-revealed))
-- Winners of British Insurance Technology Awards 2025 revealed ([3 days ago](https://www.postonline.co.uk/technology/7959079/winners-of-british-insurance-technology-awards-2025-revealed))
+- Winners of British Insurance Technology Awards 2025 revealed ([4 days ago](https://www.postonline.co.uk/technology/7959079/winners-of-british-insurance-technology-awards-2025-revealed))
 - California moves to build public wildfire catastrophe model ([4 days ago](https://www.dig-in.com/news/california-moves-to-build-public-wildfire-catastrophe-model))
 - Neptune's backers seek $368M in IPO ([4 days ago](https://www.dig-in.com/articles/neptunes-backers-seek-368m-in-ipo))
 - MetLife Acquires 20% Stake in LatAm Insurtech Klimber ([4 days ago](https://www.insurtechinsights.com/metlife-acquires-20-stake-in-latam-insurtech-klimber/))
