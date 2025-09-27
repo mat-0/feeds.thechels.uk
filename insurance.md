@@ -8,7 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Fire Fund Helps Raise PG&E to Investment Grade Six Years After Bankruptcy ([23 hours ago](https://www.insurancejournal.com/news/west/2025/09/26/840790.htm))
+- Fire Fund Helps Raise PG&E to Investment Grade Six Years After Bankruptcy ([1 days ago](https://www.insurancejournal.com/news/west/2025/09/26/840790.htm))
 - Korean Insurer DB to Buy Fortegra for $1.65 Billion in US Foray ([1 days ago](https://www.insurancejournal.com/news/national/2025/09/26/840787.htm))
 - Howden Opens New Office in Burgess Hill ([1 days ago](https://insurance-edge.net/2025/09/26/howden-opens-new-office-in-burgess-hill/))
 - Inszone Acquires Arkansas Best Insurance Agency ([1 days ago](https://www.insurancejournal.com/news/southcentral/2025/09/26/840784.htm))
@@ -76,7 +76,7 @@ description: Insurance Updates
 - Allianz Partners Adds Proactive Travel Delay Benefit with Alaska Airlines ([1 days ago](https://www.insurtechinsights.com/allianz-partners-adds-proactive-travel-delay-benefit-with-alaska-airlines/))
 - Data governance is an insurance growth engine ([1 days ago](https://www.dig-in.com/opinion/data-governance-is-an-insurance-growth-engine))
 - Formula 1 bosses to target motor insurance ([1 days ago](https://www.insurancebusinessmag.com/uk/news/auto-motor/formula-1-bosses-to-target-motor-insurance-550991.aspx))
-- Datavant to Acquire DigitalOwl, Powering Faster, Smarter Medical Data Reviews ([1 days ago](https://www.insurtechinsights.com/datavant-to-acquire-digitalowl-powering-faster-smarter-medical-data-reviews/))
+- Datavant to Acquire DigitalOwl, Powering Faster, Smarter Medical Data Reviews ([2 days ago](https://www.insurtechinsights.com/datavant-to-acquire-digitalowl-powering-faster-smarter-medical-data-reviews/))
 - How leaders can help address the health insurance literacy gap ([2 days ago](https://www.dig-in.com/news/help-employees-navigate-their-health-insurance-coverage))
 - Insurer that owns UK's largest secondary intermediary FCA network bought in massive deal ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/insurer-that-owns-uks-largest-secondary-intermediary-fca-network-bought-in-massive-deal-550970.aspx))
 - "Meet the Insurtech" database ([2 days ago](https://www.dig-in.com/news/digital-insurances-meet-the-insurtech-database))
@@ -122,8 +122,8 @@ description: Insurance Updates
 - Top 30 European Insurers of 2025 Revealed ([3 days ago](https://www.postonline.co.uk/personal/7958243/top-30-european-insurers-of-2025-revealed))
 - Winners of British Insurance Technology Awards 2025 revealed ([3 days ago](https://www.postonline.co.uk/technology/7959079/winners-of-british-insurance-technology-awards-2025-revealed))
 - California moves to build public wildfire catastrophe model ([3 days ago](https://www.dig-in.com/news/california-moves-to-build-public-wildfire-catastrophe-model))
-- Neptune's backers seek $368M in IPO ([3 days ago](https://www.dig-in.com/articles/neptunes-backers-seek-368m-in-ipo))
-- MetLife Acquires 20% Stake in LatAm Insurtech Klimber ([3 days ago](https://www.insurtechinsights.com/metlife-acquires-20-stake-in-latam-insurtech-klimber/))
+- Neptune's backers seek $368M in IPO ([4 days ago](https://www.dig-in.com/articles/neptunes-backers-seek-368m-in-ipo))
+- MetLife Acquires 20% Stake in LatAm Insurtech Klimber ([4 days ago](https://www.insurtechinsights.com/metlife-acquires-20-stake-in-latam-insurtech-klimber/))
 - QBE North America and Assureful Partner on Commercial General Liability Insurance Program for E-Commerce Merchants ([4 days ago](https://www.insurtechinsights.com/qbe-north-america-and-assureful-partner-on-commercial-general-liability-insurance-program-for-e-commerce-merchants/))
 - Dutch InsurTech Insify Raises €16.3 Million to Accelerate European Expansion ([4 days ago](https://www.insurtechinsights.com/dutch-insurtech-insify-raises-e16-3-million-to-accelerate-european-expansion/))
 - AIA Appoints Ben Ng as Group Chief Risk Officer ([4 days ago](https://www.insurtechinsights.com/aia-appoints-ben-ng-as-group-chief-risk-officer/))
