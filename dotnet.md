@@ -16,7 +16,7 @@ description: DotNet Updates
 - Announcing Aspire 9.5 - .NET Blog ([1 days ago](https://dotnetkicks.com/r/730958?url=https://devblogs.microsoft.com/dotnet/announcing-dotnet-aspire-95/))
 - Announcing Aspire 9.5 ([1 days ago](https://devblogs.microsoft.com/dotnet/announcing-dotnet-aspire-95/))
 - Lance McCarthy on CoPilot & MCP Servers ([1 days ago](https://dotnetkicks.com/r/730936?url=https://jesseliberty.com/2025/09/25/lance-mccarthy-on-copilot-mcp-servers/))
-- Rider Roadmap: What to Expect From the Upcoming Updates and Releases ([1 days ago](https://blog.jetbrains.com/dotnet/2025/09/25/rider-rider-roadmap-2025-3/))
+- Rider Roadmap: What to Expect From the Upcoming Updates and Releases ([2 days ago](https://blog.jetbrains.com/dotnet/2025/09/25/rider-rider-roadmap-2025-3/))
 - Exploring Text-to-Image capabilities in .NET - .NET Blog ([2 days ago](https://dotnetkicks.com/r/730800?url=https://devblogs.microsoft.com/dotnet/explore-text-to-image-dotnet/))
 - Exploring Text-to-Image capabilities in .NET - .NET Blog ([2 days ago](https://dotnetkicks.com/r/730799?url=https://devblogs.microsoft.com/dotnet/explore-text-to-image-dotnet/))
 - Exploring Text-to-Image capabilities in .NET ([2 days ago](https://devblogs.microsoft.com/dotnet/explore-text-to-image-dotnet/))
