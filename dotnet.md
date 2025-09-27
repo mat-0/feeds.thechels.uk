@@ -12,7 +12,7 @@ description: DotNet Updates
 - Preparing Your .NET MAUI Apps for Google Play's 16 KB Page Size Requirement - .NET Blog ([1 days ago](https://dotnetkicks.com/r/731067?url=https://devblogs.microsoft.com/dotnet/maui-google-play-16-kb-page-size-support/))
 - Preparing Your .NET MAUI Apps for Google Play’s 16 KB Page Size Requirement ([1 days ago](https://devblogs.microsoft.com/dotnet/maui-google-play-16-kb-page-size-support/))
 - Some Thoughts on MS Pulling Back on their "Eventing Framework" ([1 days ago](https://dotnetkicks.com/r/731013?url=https://jeremydmiller.com/2025/09/25/some-thoughts-on-ms-pulling-back-on-their-eventing-framework/))
-- You Don't Need to Use Akka.HealthChecks Any More ([1 days ago](https://dotnetkicks.com/r/730996?url=https://petabridge.com/blog/you-dont-need-akka-healthchecks-anymore/))
+- You Don't Need to Use Akka.HealthChecks Any More ([2 days ago](https://dotnetkicks.com/r/730996?url=https://petabridge.com/blog/you-dont-need-akka-healthchecks-anymore/))
 - Announcing Aspire 9.5 - .NET Blog ([2 days ago](https://dotnetkicks.com/r/730976?url=https://devblogs.microsoft.com/dotnet/announcing-dotnet-aspire-95/))
 - Announcing Aspire 9.5 - .NET Blog ([2 days ago](https://dotnetkicks.com/r/730958?url=https://devblogs.microsoft.com/dotnet/announcing-dotnet-aspire-95/))
 - Announcing Aspire 9.5 ([2 days ago](https://devblogs.microsoft.com/dotnet/announcing-dotnet-aspire-95/))
