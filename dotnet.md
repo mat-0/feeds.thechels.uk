@@ -8,8 +8,8 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Preparing Your .NET MAUI Apps for Google Play's 16 KB Page Size Requirement - .NET Blog ([18 hours ago](https://dotnetkicks.com/r/731067?url=https://devblogs.microsoft.com/dotnet/maui-google-play-16-kb-page-size-support/))
-- Preparing Your .NET MAUI Apps for Google Play’s 16 KB Page Size Requirement ([18 hours ago](https://devblogs.microsoft.com/dotnet/maui-google-play-16-kb-page-size-support/))
+- Preparing Your .NET MAUI Apps for Google Play's 16 KB Page Size Requirement - .NET Blog ([19 hours ago](https://dotnetkicks.com/r/731067?url=https://devblogs.microsoft.com/dotnet/maui-google-play-16-kb-page-size-support/))
+- Preparing Your .NET MAUI Apps for Google Play’s 16 KB Page Size Requirement ([19 hours ago](https://devblogs.microsoft.com/dotnet/maui-google-play-16-kb-page-size-support/))
 - Some Thoughts on MS Pulling Back on their "Eventing Framework" ([1 days ago](https://dotnetkicks.com/r/731013?url=https://jeremydmiller.com/2025/09/25/some-thoughts-on-ms-pulling-back-on-their-eventing-framework/))
 - You Don't Need to Use Akka.HealthChecks Any More ([1 days ago](https://dotnetkicks.com/r/730996?url=https://petabridge.com/blog/you-dont-need-akka-healthchecks-anymore/))
 - Announcing Aspire 9.5 - .NET Blog ([1 days ago](https://dotnetkicks.com/r/730976?url=https://devblogs.microsoft.com/dotnet/announcing-dotnet-aspire-95/))
@@ -56,7 +56,7 @@ description: DotNet Updates
 - Packaging self-contained and native AOT .NET tools for NuGet: Exploring the .NET 10 preview - Part 7 ([18 days ago](https://andrewlock.net/exploring-dotnet-10-preview-features-7-packaging-self-contained-and-native-aot-dotnet-tools-for-nuget/))
 - Boost Your .NET Projects: Efficient Byte Array Conversions ([20 days ago](https://dotnettips.wordpress.com/2025/09/07/boost-your-net-projects-efficient-byte-array-conversions/))
 - The First Set of Updates and Fixes for ReSharper and Rider 2025.2 Is Out! ([22 days ago](https://blog.jetbrains.com/dotnet/2025/09/04/resharper-and-rider-2025-2-1-is-out/))
-- dotInsights  -  September 2025 ([24 days ago](https://blog.jetbrains.com/dotnet/2025/09/02/dotinsights-september-2025/))
+- dotInsights  -  September 2025 ([25 days ago](https://blog.jetbrains.com/dotnet/2025/09/02/dotinsights-september-2025/))
 - Using and authoring .NET tools ([25 days ago](https://andrewlock.net/using-and-authoring-dotnet-tools/))
 - Boost Your .NET Projects: Find the Fastest Way to Get an Item’s Index in Arrays ([27 days ago](https://dotnettips.wordpress.com/2025/08/31/boost-your-net-projects-find-the-fastest-way-to-get-an-items-index-in-arrays/))
 
