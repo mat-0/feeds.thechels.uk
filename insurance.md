@@ -128,7 +128,7 @@ description: Insurance Updates
 - Dutch InsurTech Insify Raises €16.3 Million to Accelerate European Expansion ([4 days ago](https://www.insurtechinsights.com/dutch-insurtech-insify-raises-e16-3-million-to-accelerate-european-expansion/))
 - AIA Appoints Ben Ng as Group Chief Risk Officer ([4 days ago](https://www.insurtechinsights.com/aia-appoints-ben-ng-as-group-chief-risk-officer/))
 - Thomas Carroll expands Bristol office ([4 days ago](https://www.postonline.co.uk/broker/7959080/thomas-carroll-expands-bristol-office))
-- Aon Introduces Specialist Claims Solutions to Support Insurers in Complex Market ([4 days ago](https://www.insurtechinsights.com/aon-introduces-specialist-claims-solutions-to-support-insurers-in-complex-market/))
+- Aon Introduces Specialist Claims Solutions to Support Insurers in Complex Market ([5 days ago](https://www.insurtechinsights.com/aon-introduces-specialist-claims-solutions-to-support-insurers-in-complex-market/))
 - Zego Aims to Shift UK Telematics Insurance From Black Box to App-Based Model ([9 days ago](https://thefintechtimes.com/zego-aims-to-shift-uk-telematics-insurance-from-black-box-to-app-based-model/))
 - 180 Seguros Raises $9million to Expand AI Initiatives And Boost Regulatory Capital ([15 days ago](https://thefintechtimes.com/180-seguros-raises-9m-to-expand-ai-initiatives-and-boost-regulatory-capital/))
 
