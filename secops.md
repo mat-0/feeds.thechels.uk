@@ -8,7 +8,7 @@ description: SecOps News
 [Get this as an RSS feed](/secops.rss)
 
 <!-- news_marker starts -->
-- Fake Microsoft Teams installers push Oyster malware via malvertising ([20 hours ago](https://www.bleepingcomputer.com/news/security/fake-microsoft-teams-installers-push-oyster-malware-via-malvertising/))
+- Fake Microsoft Teams installers push Oyster malware via malvertising ([21 hours ago](https://www.bleepingcomputer.com/news/security/fake-microsoft-teams-installers-push-oyster-malware-via-malvertising/))
 - Dutch teens arrested for trying to spy on Europol for Russia ([1 days ago](https://www.bleepingcomputer.com/news/security/dutch-teens-arrested-for-trying-to-spy-on-europol-for-russia/))
 - Company that sells software for monitoring sex offenders, terrorists, and hackers was hacked ([1 days ago](https://databreaches.net/2025/09/27/company-that-sells-software-for-monitoring-sex-offenders-terrorists-and-hackers-was-hacked/?pk_campaign=feed&pk_kwd=company-that-sells-software-for-monitoring-sex-offenders-terrorists-and-hackers-was-hacked))
 - China-Linked PlugX and Bookworm Malware Attacks Target Asian Telecom and ASEAN Networks ([1 days ago](https://thehackernews.com/2025/09/china-linked-plugx-and-bookworm-malware.html))
@@ -26,7 +26,7 @@ description: SecOps News
 - Microsoft’s new AI feature will organize your photos automatically ([1 days ago](https://www.bleepingcomputer.com/news/microsoft/microsofts-new-ai-feature-will-organize-your-photos-automatically/))
 - Columbia University Irving Medical Center pays $600K in data breach lawsuit settlement ([1 days ago](https://databreaches.net/2025/09/26/columbia-university-irving-medical-center-pays-600k-in-data-breach-lawsuit-settlement/?pk_campaign=feed&pk_kwd=columbia-university-irving-medical-center-pays-600k-in-data-breach-lawsuit-settlement))
 - Teens arrested by Dutch police reportedly suspected of spying for Russia ([1 days ago](https://databreaches.net/2025/09/26/teens-arrested-by-dutch-police-reportedly-suspected-of-spying-for-russia/?pk_campaign=feed&pk_kwd=teens-arrested-by-dutch-police-reportedly-suspected-of-spying-for-russia))
-- US investors to take over TikTok operations in the country ([1 days ago](https://www.bleepingcomputer.com/news/government/us-investors-to-take-over-tiktok-operations-in-the-country/))
+- US investors to take over TikTok operations in the country ([2 days ago](https://www.bleepingcomputer.com/news/government/us-investors-to-take-over-tiktok-operations-in-the-country/))
 - Microsoft shares temp fix for Outlook encrypted email errors ([2 days ago](https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-temp-fix-for-outlook-encrypted-email-errors/))
 - ApolloMD notifies patients of 11 physician practices affected by a June cyberattack ([2 days ago](https://databreaches.net/2025/09/26/apollomd-notifies-patients-of-11-physician-practices-affected-by-a-june-cyberattack/?pk_campaign=feed&pk_kwd=apollomd-notifies-patients-of-11-physician-practices-affected-by-a-june-cyberattack))
 - Researchers Expose Phishing Threats Distributing CountLoader and PureRAT ([2 days ago](https://thehackernews.com/2025/09/researchers-expose-svg-and-purerat.html))
@@ -82,7 +82,7 @@ description: SecOps News
 - Threatsday Bulletin: Rootkit Patch, Federal Breach, OnePlus SMS Leak, TikTok Scandal & More ([2 days ago](https://thehackernews.com/2025/09/threatsday-bulletin-rootkit-patch.html))
 - Vane Viper Generates 1 Trillion DNS Queries to Power Global Malware and Ad Fraud Network ([2 days ago](https://thehackernews.com/2025/09/vane-viper-generates-1-trillion-dns.html))
 - Callous crims break into preschool network, publish toddlers' data ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2025/09/25/ransomware_gang_publishes_toddlers_images/))
-- Harness pitches AI agents as your new DevOps taskmasters ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2025/09/25/harness_agentic_ai_devops/))
+- Harness pitches AI agents as your new DevOps taskmasters ([3 days ago](https://go.theregister.com/feed/www.theregister.com/2025/09/25/harness_agentic_ai_devops/))
 - Salesforce AI Hack Enabled CRM Data Theft ([3 days ago](https://www.securityweek.com/salesforce-ai-hack-enabled-crm-data-theft/))
 - DARPA wants AI to know when it's being an energy hog ([3 days ago](https://go.theregister.com/feed/www.theregister.com/2025/09/25/dapra_ai_power_conscious/))
 - GDPR Foundation vs Awareness Training: which is right for your team? ([3 days ago](https://www.itgovernance.co.uk/blog/gdpr-foundation-vs-awareness-training-which-is-right-for-your-team))
