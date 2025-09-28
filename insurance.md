@@ -98,7 +98,7 @@ description: Insurance Updates
 - Income Protection Action Week: protection claims – are we telling the whole story? The Exeter ([2 days ago](https://ifamagazine.com/income-protection-claims-are-we-telling-the-whole-story-the-exeter/))
 - Oil, gas firms brace for downturn as capital budgets tighten: Wood Mackenzie ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/oil-gas-firms-brace-for-downturn-as-capital-budgets-tighten-wood-mackenzie-550881.aspx))
 - Throwback Thursday: Insurers returning from war look for work ([2 days ago](https://www.postonline.co.uk/broker/7956767/throwback-thursday-insurers-returning-from-war-look-for-work))
-- McGill and Partners backs GB Snowsport ahead of Olympic season ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/mcgill-and-partners-backs-gb-snowsport-ahead-of-olympic-season-550851.aspx))
+- McGill and Partners backs GB Snowsport ahead of Olympic season ([3 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/mcgill-and-partners-backs-gb-snowsport-ahead-of-olympic-season-550851.aspx))
 - Remittance senders face protection gaps despite high trust: Chubb ([3 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/remittance-senders-face-protection-gaps-despite-high-trust-chubb-550919.aspx))
 - Bridgehaven Specialty joins ABI ([3 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/bridgehaven-specialty-joins-abi-550847.aspx))
 - Acrisure Re Unveils AcrisureIQ PRO to Expand Analytics Platform ([3 days ago](https://www.insurtechinsights.com/acrisure-re-unveils-acrisureiq-pro-to-expand-analytics-platform/))
