@@ -8,8 +8,8 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Allianz Commercial finds cyber risk claims severity has declined 50% in 2025 ([1 hours ago](https://www.dig-in.com/news/allianz-commercial-cyber-risk-claims-severity-declined-50))
-- Life insurance actuarial data needs scrubbing to apply AI ([1 hours ago](https://www.dig-in.com/news/life-insurance-actuarial-data-needs-scrubbing-to-apply-ai))
+- Allianz Commercial finds cyber risk claims severity has declined 50% in 2025 ([2 hours ago](https://www.dig-in.com/news/allianz-commercial-cyber-risk-claims-severity-declined-50))
+- Life insurance actuarial data needs scrubbing to apply AI ([2 hours ago](https://www.dig-in.com/news/life-insurance-actuarial-data-needs-scrubbing-to-apply-ai))
 - Fire Fund Helps Raise PG&E to Investment Grade Six Years After Bankruptcy ([2 days ago](https://www.insurancejournal.com/news/west/2025/09/26/840790.htm))
 - Korean Insurer DB to Buy Fortegra for $1.65 Billion in US Foray ([2 days ago](https://www.insurancejournal.com/news/national/2025/09/26/840787.htm))
 - Howden Opens New Office in Burgess Hill ([2 days ago](https://insurance-edge.net/2025/09/26/howden-opens-new-office-in-burgess-hill/))

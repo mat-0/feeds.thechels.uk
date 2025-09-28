@@ -8,8 +8,8 @@ description: SecOps News
 [Get this as an RSS feed](/secops.rss)
 
 <!-- news_marker starts -->
-- Akira ransomware breaching MFA-protected SonicWall VPN accounts ([2 hours ago](https://www.bleepingcomputer.com/news/security/akira-ransomware-breaching-mfa-protected-sonicwall-vpn-accounts/))
-- British Department Store Harrods Warns Customers That Some Personal Details Taken in Data Breach ([3 hours ago](https://www.securityweek.com/british-department-store-harrods-warns-customers-that-some-personal-details-taken-in-data-breach/))
+- Akira ransomware breaching MFA-protected SonicWall VPN accounts ([3 hours ago](https://www.bleepingcomputer.com/news/security/akira-ransomware-breaching-mfa-protected-sonicwall-vpn-accounts/))
+- British Department Store Harrods Warns Customers That Some Personal Details Taken in Data Breach ([4 hours ago](https://www.securityweek.com/british-department-store-harrods-warns-customers-that-some-personal-details-taken-in-data-breach/))
 - EU probes SAP over anti-competitive ERP support practices ([7 hours ago](https://www.bleepingcomputer.com/news/legal/eu-probes-sap-over-anti-competitive-erp-support-practices/))
 - Fake Microsoft Teams installers push Oyster malware via malvertising ([1 days ago](https://www.bleepingcomputer.com/news/security/fake-microsoft-teams-installers-push-oyster-malware-via-malvertising/))
 - Dutch teens arrested for trying to spy on Europol for Russia ([1 days ago](https://www.bleepingcomputer.com/news/security/dutch-teens-arrested-for-trying-to-spy-on-europol-for-russia/))
@@ -24,7 +24,7 @@ description: SecOps News
 - Weekly Update 471 ([1 days ago](https://www.troyhunt.com/weekly-update-471/))
 - Many employees are using AI to create 'workslop,' Stanford study says ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2025/09/26/ai_workslop_productivity/))
 - Cyber threat-sharing law set to shut down, along with US government ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2025/09/26/government_shutdown_cisa_law/))
-- Archer Health was leaking protected health information. Criminals appear to have found it. ([2 days ago](https://databreaches.net/2025/09/26/archer-health-was-leaking-protected-health-information-criminals-appear-to-have-found-it/?pk_campaign=feed&pk_kwd=archer-health-was-leaking-protected-health-information-criminals-appear-to-have-found-it))
+- Archer Health was leaking protected health information. Criminals appear to have found it. (1) ([2 days ago](https://databreaches.net/2025/09/26/archer-health-was-leaking-protected-health-information-criminals-appear-to-have-found-it/?pk_campaign=feed&pk_kwd=archer-health-was-leaking-protected-health-information-criminals-appear-to-have-found-it))
 - If you can't use AI then it's bye bye, Accenture tells staff ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2025/09/26/accenture_ai_jobs/))
 - Microsoft’s new AI feature will organize your photos automatically ([2 days ago](https://www.bleepingcomputer.com/news/microsoft/microsofts-new-ai-feature-will-organize-your-photos-automatically/))
 - Columbia University Irving Medical Center pays $600K in data breach lawsuit settlement ([2 days ago](https://databreaches.net/2025/09/26/columbia-university-irving-medical-center-pays-600k-in-data-breach-lawsuit-settlement/?pk_campaign=feed&pk_kwd=columbia-university-irving-medical-center-pays-600k-in-data-breach-lawsuit-settlement))
@@ -194,7 +194,7 @@ description: SecOps News
 - FBI warns seniors are being targeted in three-phase Phantom Hacker scams ([25 days ago](https://www.fortra.com/blog/fbi-warns-seniors-targeted-three-phase-phantom-hacker-scams))
 - Loading avatars might fail for a 0.5% of total users and 100% users around the Arabian Peninsula. We are investigating. ([26 days ago](https://www.githubstatus.com/incidents/mj067hg9slb4))
 - The AI Fix #66: OpenAI and Anthropic test each other, and everyone fails the apocalypse test ([26 days ago](https://grahamcluley.com/the-ai-fix-66/))
-- The Ongoing Fallout from a Breach at AI Chatbot Maker Salesloft ([26 days ago](https://krebsonsecurity.com/2025/09/the-ongoing-fallout-from-a-breach-at-ai-chatbot-maker-salesloft/))
+- The Ongoing Fallout from a Breach at AI Chatbot Maker Salesloft ([27 days ago](https://krebsonsecurity.com/2025/09/the-ongoing-fallout-from-a-breach-at-ai-chatbot-maker-salesloft/))
 - Giglio - 1,026,468 breached accounts ([27 days ago](https://haveibeenpwned.com/Breach/Giglio))
 - Hacker suspected of trying to cheat his way into university is arrested in Spain ([27 days ago](https://www.bitdefender.com/en-us/blog/hotforsecurity/hacker-suspected-of-trying-to-cheat-his-way-into-university-is-arrested-in-spain))
 - Weekly Update 467 ([28 days ago](https://www.troyhunt.com/weekly-update-467/))
