@@ -8,7 +8,7 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Boost Your .NET Projects: Simplify Unique Key Generation with KeyGenerator in Spargine ([4 hours ago](https://dotnettips.wordpress.com/2025/09/28/boost-your-net-projects-simplify-unique-key-generation-with-keygenerator-in-spargine/))
+- Boost Your .NET Projects: Simplify Unique Key Generation with KeyGenerator in Spargine ([5 hours ago](https://dotnettips.wordpress.com/2025/09/28/boost-your-net-projects-simplify-unique-key-generation-with-keygenerator-in-spargine/))
 - F# Weekly #39, 2025 - amplifyingfsharp.io ([7 hours ago](https://dotnetkicks.com/r/731133?url=https://sergeytihon.com/2025/09/27/f-weekly-39-2025-amplifyingfsharp-io/))
 - Ardalis Fall 2025 Speaking Tour ([16 hours ago](https://dotnetkicks.com/r/731118?url=https://ardalis.com/ardalis-fall-2025-speaking-tour/))
 - Preparing Your .NET MAUI Apps for Google Play's 16 KB Page Size Requirement - .NET Blog ([1 days ago](https://dotnetkicks.com/r/731067?url=https://devblogs.microsoft.com/dotnet/maui-google-play-16-kb-page-size-support/))
@@ -27,8 +27,8 @@ description: DotNet Updates
 - CRUD-Sourcing is why Your Event Streams Are Bloated ([3 days ago](https://dotnetkicks.com/r/730758?url=https://codeopinion.com/crud-sourcing-is-why-your-event-streams-are-bloated/))
 - Little Diary of How JasperFx Helps Our Clients ([4 days ago](https://dotnetkicks.com/r/730658?url=https://jeremydmiller.com/2025/09/23/little-diary-of-how-jasperfx-helps-our-clients/))
 - Implement a secure MCP server using OAuth and Entra ID ([4 days ago](https://dotnetkicks.com/r/730635?url=https://damienbod.com/2025/09/23/implement-a-secure-mcp-server-using-oauth-and-entra-id/))
-- sleep-pc: a .NET Native AOT tool to make Windows sleep after a timeout ([4 days ago](https://dotnetkicks.com/r/730571?url=https://andrewlock.net/sleep-pc-a-dotnet-tool-to-make-windows-sleep-after-a-timeout/))
-- sleep-pc: a .NET Native AOT tool to make Windows sleep after a timeout ([4 days ago](https://dotnetkicks.com/r/730559?url=https://andrewlock.net/sleep-pc-a-dotnet-tool-to-make-windows-sleep-after-a-timeout/))
+- sleep-pc: a .NET Native AOT tool to make Windows sleep after a timeout ([5 days ago](https://dotnetkicks.com/r/730571?url=https://andrewlock.net/sleep-pc-a-dotnet-tool-to-make-windows-sleep-after-a-timeout/))
+- sleep-pc: a .NET Native AOT tool to make Windows sleep after a timeout ([5 days ago](https://dotnetkicks.com/r/730559?url=https://andrewlock.net/sleep-pc-a-dotnet-tool-to-make-windows-sleep-after-a-timeout/))
 - sleep-pc: a .NET Native AOT tool to make Windows sleep after a timeout ([5 days ago](https://andrewlock.net/sleep-pc-a-dotnet-tool-to-make-windows-sleep-after-a-timeout/))
 - Enhancements to XAML Live Preview in Visual Studio for .NET MAUI - Visual Studio Blog ([5 days ago](https://dotnetkicks.com/r/730527?url=https://devblogs.microsoft.com/visualstudio/enhancements-to-xaml-live-preview-in-visual-studio-for-net-maui/))
 - Enhancements to XAML Live Preview in Visual Studio for .NET MAUI - Visual Studio Blog ([5 days ago](https://dotnetkicks.com/r/730508?url=https://devblogs.microsoft.com/visualstudio/enhancements-to-xaml-live-preview-in-visual-studio-for-net-maui/))
