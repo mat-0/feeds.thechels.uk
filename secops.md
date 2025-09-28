@@ -9,7 +9,7 @@ description: SecOps News
 
 <!-- news_marker starts -->
 - Fake Microsoft Teams installers push Oyster malware via malvertising ([17 hours ago](https://www.bleepingcomputer.com/news/security/fake-microsoft-teams-installers-push-oyster-malware-via-malvertising/))
-- Dutch teens arrested for trying to spy on Europol for Russia ([22 hours ago](https://www.bleepingcomputer.com/news/security/dutch-teens-arrested-for-trying-to-spy-on-europol-for-russia/))
+- Dutch teens arrested for trying to spy on Europol for Russia ([23 hours ago](https://www.bleepingcomputer.com/news/security/dutch-teens-arrested-for-trying-to-spy-on-europol-for-russia/))
 - Company that sells software for monitoring sex offenders, terrorists, and hackers was hacked ([1 days ago](https://databreaches.net/2025/09/27/company-that-sells-software-for-monitoring-sex-offenders-terrorists-and-hackers-was-hacked/?pk_campaign=feed&pk_kwd=company-that-sells-software-for-monitoring-sex-offenders-terrorists-and-hackers-was-hacked))
 - China-Linked PlugX and Bookworm Malware Attacks Target Asian Telecom and ASEAN Networks ([1 days ago](https://thehackernews.com/2025/09/china-linked-plugx-and-bookworm-malware.html))
 - Hunt for RedNovember: Beijing hacked critical orgs in year-long snooping campaign ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2025/09/27/rednovember_chinese_espionage/))
@@ -40,8 +40,8 @@ description: SecOps News
 - Interpol Says 260 Suspects in Online Romance Scams Have Been Arrested in Africa ([1 days ago](https://www.securityweek.com/interpol-says-260-suspects-in-online-romance-scams-have-been-arrested-in-africa/))
 - The hidden cyber risks of deploying generative AI ([1 days ago](https://www.bleepingcomputer.com/news/security/the-hidden-cyber-risks-of-deploying-generative-ai/))
 - Maximum severity GoAnywhere MFT flaw exploited as zero day ([1 days ago](https://www.bleepingcomputer.com/news/security/maximum-severity-goanywhere-mft-flaw-exploited-as-zero-day/))
-- Software CEO tells Catholic uni panel AI won't take out jobs, but it could take out brains ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2025/09/26/ai_catholic_uni/))
-- Microsoft releases the final Windows 10 22H2 preview update ([1 days ago](https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-the-final-windows-10-22h2-preview-update/))
+- Software CEO tells Catholic uni panel AI won't take out jobs, but it could take out brains ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2025/09/26/ai_catholic_uni/))
+- Microsoft releases the final Windows 10 22H2 preview update ([2 days ago](https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-the-final-windows-10-22h2-preview-update/))
 - ‘No Harm, No Foul:’ Courts Take Tougher Line on Data-Breach Suits ([2 days ago](https://databreaches.net/2025/09/26/no-harm-no-foul-courts-take-tougher-line-on-data-breach-suits/?pk_campaign=feed&pk_kwd=no-harm-no-foul-courts-take-tougher-line-on-data-breach-suits))
 - Prompt injection – and a $5 domain – trick Salesforce Agentforce into leaking sales ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2025/09/26/salesforce_agentforce_forceleak_attack/))
 - Prompt injection – and a $5 domain – trick Salesforce Agentforce into leaking sales ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2025/09/26/salesforce_agentforce_forceleak_attack/))
@@ -175,7 +175,7 @@ description: SecOps News
 - Weekly Update 469 ([15 days ago](https://www.troyhunt.com/weekly-update-469/))
 - British rail passengers urged to stay on guard after hack signals failure ([15 days ago](https://www.bitdefender.com/en-us/blog/hotforsecurity/british-rail-passengers-hack-signals-failure))
 - Bulletproof Host Stark Industries Evades EU Sanctions ([16 days ago](https://krebsonsecurity.com/2025/09/bulletproof-host-stark-industries-evades-eu-sanctions/))
-- Buying, selling and donating second-hand devices ([16 days ago](https://www.ncsc.gov.uk/guidance/buying-selling-second-hand-devices))
+- Buying, selling and donating second-hand devices ([17 days ago](https://www.ncsc.gov.uk/guidance/buying-selling-second-hand-devices))
 - Smashing Security podcast #434: Whopper Hackers, and AI Whoppers ([17 days ago](https://grahamcluley.com/smashing-security-podcast-434/))
 - US charges suspected ransomware kingpin, and offers $10 million bounty for his capture ([17 days ago](https://www.fortra.com/blog/us-charges-suspected-ransomware-kingpin-offers-10-million-bounty))
 - Incident with Actions ([17 days ago](https://www.githubstatus.com/incidents/s9t1dgymd4v9))
