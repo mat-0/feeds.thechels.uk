@@ -8,11 +8,11 @@ description: SecOps News
 [Get this as an RSS feed](/secops.rss)
 
 <!-- news_marker starts -->
-- Fake Microsoft Teams installers push Oyster malware via malvertising ([13 hours ago](https://www.bleepingcomputer.com/news/security/fake-microsoft-teams-installers-push-oyster-malware-via-malvertising/))
+- Fake Microsoft Teams installers push Oyster malware via malvertising ([14 hours ago](https://www.bleepingcomputer.com/news/security/fake-microsoft-teams-installers-push-oyster-malware-via-malvertising/))
 - Dutch teens arrested for trying to spy on Europol for Russia ([19 hours ago](https://www.bleepingcomputer.com/news/security/dutch-teens-arrested-for-trying-to-spy-on-europol-for-russia/))
 - Company that sells software for monitoring sex offenders, terrorists, and hackers was hacked ([21 hours ago](https://databreaches.net/2025/09/27/company-that-sells-software-for-monitoring-sex-offenders-terrorists-and-hackers-was-hacked/?pk_campaign=feed&pk_kwd=company-that-sells-software-for-monitoring-sex-offenders-terrorists-and-hackers-was-hacked))
-- China-Linked PlugX and Bookworm Malware Attacks Target Asian Telecom and ASEAN Networks ([21 hours ago](https://thehackernews.com/2025/09/china-linked-plugx-and-bookworm-malware.html))
-- Hunt for RedNovember: Beijing hacked critical orgs in year-long snooping campaign ([22 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/09/27/rednovember_chinese_espionage/))
+- China-Linked PlugX and Bookworm Malware Attacks Target Asian Telecom and ASEAN Networks ([22 hours ago](https://thehackernews.com/2025/09/china-linked-plugx-and-bookworm-malware.html))
+- Hunt for RedNovember: Beijing hacked critical orgs in year-long snooping campaign ([23 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/09/27/rednovember_chinese_espionage/))
 - London nurseries hit by hackers, data on 8,000 children stolen ([23 hours ago](https://databreaches.net/2025/09/27/london-nurseries-hit-by-hackers-data-on-8000-children-stolen/?pk_campaign=feed&pk_kwd=london-nurseries-hit-by-hackers-data-on-8000-children-stolen))
 - Harrods warns customers their personal data could have been stolen by hackers in new cyber-attack ([23 hours ago](https://databreaches.net/2025/09/27/harrods-warns-customers-their-personal-data-could-have-been-stolen-by-hackers-in-new-cyber-attack/?pk_campaign=feed&pk_kwd=harrods-warns-customers-their-personal-data-could-have-been-stolen-by-hackers-in-new-cyber-attack))
 - Cyber threat-sharing law set to shut down, along with US government ([23 hours ago](https://databreaches.net/2025/09/27/cyber-threat-sharing-law-set-to-shut-down-along-with-us-government/?pk_campaign=feed&pk_kwd=cyber-threat-sharing-law-set-to-shut-down-along-with-us-government))
@@ -56,7 +56,7 @@ description: SecOps News
 - Early Years practitioners: using cyber security to protect your settings ([1 days ago](https://www.ncsc.gov.uk/guidance/early-years-practitioners-using-cyber-security-to-protect-your-settings))
 - UK and US security agencies order urgent fixes as Cisco firewall bugs exploited in wild ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2025/09/26/cisco_firewall_flaws/))
 - New XCSSET macOS Malware Variant Hijacks Cryptocurrency Transactions ([1 days ago](https://www.securityweek.com/new-xcsset-macos-malware-variant-hijacks-cryptocurrency-transactions/))
-- UK to roll out mandatory digital ID for right to work by 2029 ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2025/09/26/uk_digital_id_confirmed/))
+- UK to roll out mandatory digital ID for right to work by 2029 ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2025/09/26/uk_digital_id_confirmed/))
 - Fortra GoAnywhere CVSS 10 Flaw Exploited as 0-Day a Week Before Public Disclosure ([2 days ago](https://thehackernews.com/2025/09/fortra-goanywhere-cvss-10-flaw.html))
 - New macOS XCSSET Variant Targets Firefox with Clipper and Persistence Module ([2 days ago](https://thehackernews.com/2025/09/new-macos-xcsset-variant-targets.html))
 - Recent Fortra GoAnywhere MFT Vulnerability Exploited as Zero-Day ([2 days ago](https://www.securityweek.com/recent-fortra-goanywhere-mft-vulnerability-exploited-as-zero-day/))
@@ -195,7 +195,7 @@ description: SecOps News
 - Loading avatars might fail for a 0.5% of total users and 100% users around the Arabian Peninsula. We are investigating. ([25 days ago](https://www.githubstatus.com/incidents/mj067hg9slb4))
 - The AI Fix #66: OpenAI and Anthropic test each other, and everyone fails the apocalypse test ([25 days ago](https://grahamcluley.com/the-ai-fix-66/))
 - The Ongoing Fallout from a Breach at AI Chatbot Maker Salesloft ([26 days ago](https://krebsonsecurity.com/2025/09/the-ongoing-fallout-from-a-breach-at-ai-chatbot-maker-salesloft/))
-- Giglio - 1,026,468 breached accounts ([26 days ago](https://haveibeenpwned.com/Breach/Giglio))
+- Giglio - 1,026,468 breached accounts ([27 days ago](https://haveibeenpwned.com/Breach/Giglio))
 - Hacker suspected of trying to cheat his way into university is arrested in Spain ([27 days ago](https://www.bitdefender.com/en-us/blog/hotforsecurity/hacker-suspected-of-trying-to-cheat-his-way-into-university-is-arrested-in-spain))
 - Weekly Update 467 ([27 days ago](https://www.troyhunt.com/weekly-update-467/))
 
