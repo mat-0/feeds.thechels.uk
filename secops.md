@@ -8,8 +8,8 @@ description: SecOps News
 [Get this as an RSS feed](/secops.rss)
 
 <!-- news_marker starts -->
-- Akira ransomware breaching MFA-protected SonicWall VPN accounts ([1 hours ago](https://www.bleepingcomputer.com/news/security/akira-ransomware-breaching-mfa-protected-sonicwall-vpn-accounts/))
-- British Department Store Harrods Warns Customers That Some Personal Details Taken in Data Breach ([2 hours ago](https://www.securityweek.com/british-department-store-harrods-warns-customers-that-some-personal-details-taken-in-data-breach/))
+- Akira ransomware breaching MFA-protected SonicWall VPN accounts ([2 hours ago](https://www.bleepingcomputer.com/news/security/akira-ransomware-breaching-mfa-protected-sonicwall-vpn-accounts/))
+- British Department Store Harrods Warns Customers That Some Personal Details Taken in Data Breach ([3 hours ago](https://www.securityweek.com/british-department-store-harrods-warns-customers-that-some-personal-details-taken-in-data-breach/))
 - EU probes SAP over anti-competitive ERP support practices ([6 hours ago](https://www.bleepingcomputer.com/news/legal/eu-probes-sap-over-anti-competitive-erp-support-practices/))
 - Fake Microsoft Teams installers push Oyster malware via malvertising ([1 days ago](https://www.bleepingcomputer.com/news/security/fake-microsoft-teams-installers-push-oyster-malware-via-malvertising/))
 - Dutch teens arrested for trying to spy on Europol for Russia ([1 days ago](https://www.bleepingcomputer.com/news/security/dutch-teens-arrested-for-trying-to-spy-on-europol-for-russia/))
@@ -23,7 +23,7 @@ description: SecOps News
 - Alibaba unveils $53B global AI plan – but it will need GPUs to back it up ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2025/09/27/alibaba_ai_drive/))
 - Weekly Update 471 ([1 days ago](https://www.troyhunt.com/weekly-update-471/))
 - Many employees are using AI to create 'workslop,' Stanford study says ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2025/09/26/ai_workslop_productivity/))
-- Cyber threat-sharing law set to shut down, along with US government ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2025/09/26/government_shutdown_cisa_law/))
+- Cyber threat-sharing law set to shut down, along with US government ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2025/09/26/government_shutdown_cisa_law/))
 - Archer Health was leaking protected health information. Criminals appear to have found it. ([2 days ago](https://databreaches.net/2025/09/26/archer-health-was-leaking-protected-health-information-criminals-appear-to-have-found-it/?pk_campaign=feed&pk_kwd=archer-health-was-leaking-protected-health-information-criminals-appear-to-have-found-it))
 - If you can't use AI then it's bye bye, Accenture tells staff ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2025/09/26/accenture_ai_jobs/))
 - Microsoft’s new AI feature will organize your photos automatically ([2 days ago](https://www.bleepingcomputer.com/news/microsoft/microsofts-new-ai-feature-will-organize-your-photos-automatically/))
@@ -168,7 +168,7 @@ description: SecOps News
 - APPLE-SA-09-15-2025-11 Safari 26 ([12 days ago](https://seclists.org/fulldisclosure/2025/Sep/59))
 - APPLE-SA-09-15-2025-10 visionOS 26 ([12 days ago](https://seclists.org/fulldisclosure/2025/Sep/58))
 - Miljödata - 870,108 breached accounts ([12 days ago](https://haveibeenpwned.com/Breach/Miljodata))
-- Repository search is degraded ([12 days ago](https://www.githubstatus.com/incidents/n3vgjzqv7d18))
+- Repository search is degraded ([13 days ago](https://www.githubstatus.com/incidents/n3vgjzqv7d18))
 - Disruption with some GitHub services ([13 days ago](https://www.githubstatus.com/incidents/ffh1r1w0hj6h))
 - 3 ISO 27001:2022 Controls That Help Secure Your Cloud Services ([13 days ago](https://www.itgovernance.co.uk/blog/top-5-cloud-security-challenges-risks-and-threats))
 - How ISO 27001 Helps You Comply With DORA ([13 days ago](https://www.itgovernance.co.uk/blog/how-iso-27001-helps-you-comply-with-dora))
