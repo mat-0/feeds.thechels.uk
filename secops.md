@@ -10,7 +10,7 @@ description: SecOps News
 <!-- news_marker starts -->
 - Akira ransomware breaching MFA-protected SonicWall VPN accounts ([1 hours ago](https://www.bleepingcomputer.com/news/security/akira-ransomware-breaching-mfa-protected-sonicwall-vpn-accounts/))
 - British Department Store Harrods Warns Customers That Some Personal Details Taken in Data Breach ([2 hours ago](https://www.securityweek.com/british-department-store-harrods-warns-customers-that-some-personal-details-taken-in-data-breach/))
-- EU probes SAP over anti-competitive ERP support practices ([5 hours ago](https://www.bleepingcomputer.com/news/legal/eu-probes-sap-over-anti-competitive-erp-support-practices/))
+- EU probes SAP over anti-competitive ERP support practices ([6 hours ago](https://www.bleepingcomputer.com/news/legal/eu-probes-sap-over-anti-competitive-erp-support-practices/))
 - Fake Microsoft Teams installers push Oyster malware via malvertising ([1 days ago](https://www.bleepingcomputer.com/news/security/fake-microsoft-teams-installers-push-oyster-malware-via-malvertising/))
 - Dutch teens arrested for trying to spy on Europol for Russia ([1 days ago](https://www.bleepingcomputer.com/news/security/dutch-teens-arrested-for-trying-to-spy-on-europol-for-russia/))
 - Company that sells software for monitoring sex offenders, terrorists, and hackers was hacked ([1 days ago](https://databreaches.net/2025/09/27/company-that-sells-software-for-monitoring-sex-offenders-terrorists-and-hackers-was-hacked/?pk_campaign=feed&pk_kwd=company-that-sells-software-for-monitoring-sex-offenders-terrorists-and-hackers-was-hacked))
@@ -189,7 +189,7 @@ description: SecOps News
 - GOP Cries Censorship Over Spam Filters That Work ([22 days ago](https://krebsonsecurity.com/2025/09/gop-cries-censorship-over-spam-filters-that-work/))
 - Germany charges hacker with Rosneft cyberattack in latest wake-up call for critical infrastructure ([23 days ago](https://www.exponential-e.com/blog/germany-charges-hacker-with-rosneft-cyberattack-in-latest-wake-up-call-for-critical-infrastructure))
 - Parents warned that robot toys spied on children’s location without consent ([23 days ago](https://www.bitdefender.com/en-us/blog/hotforsecurity/parents-warned-that-robot-toys-spied-on-childrens-location-without-consent))
-- Degraded REST API success rates for some customers ([23 days ago](https://www.githubstatus.com/incidents/mdj41rgqwjx5))
+- Degraded REST API success rates for some customers ([24 days ago](https://www.githubstatus.com/incidents/mdj41rgqwjx5))
 - Smashing Security podcast #433: How hackers turned AI into their new henchman ([24 days ago](https://grahamcluley.com/smashing-security-podcast-433/))
 - FBI warns seniors are being targeted in three-phase Phantom Hacker scams ([25 days ago](https://www.fortra.com/blog/fbi-warns-seniors-targeted-three-phase-phantom-hacker-scams))
 - Loading avatars might fail for a 0.5% of total users and 100% users around the Arabian Peninsula. We are investigating. ([26 days ago](https://www.githubstatus.com/incidents/mj067hg9slb4))

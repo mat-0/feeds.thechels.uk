@@ -8,8 +8,8 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Allianz Commercial finds cyber risk claims severity has declined 50% in 2025 ([7 minutes ago](https://www.dig-in.com/news/allianz-commercial-cyber-risk-claims-severity-declined-50))
-- Life insurance actuarial data needs scrubbing to apply AI ([12 minutes ago](https://www.dig-in.com/news/life-insurance-actuarial-data-needs-scrubbing-to-apply-ai))
+- Allianz Commercial finds cyber risk claims severity has declined 50% in 2025 ([35 minutes ago](https://www.dig-in.com/news/allianz-commercial-cyber-risk-claims-severity-declined-50))
+- Life insurance actuarial data needs scrubbing to apply AI ([40 minutes ago](https://www.dig-in.com/news/life-insurance-actuarial-data-needs-scrubbing-to-apply-ai))
 - Fire Fund Helps Raise PG&E to Investment Grade Six Years After Bankruptcy ([2 days ago](https://www.insurancejournal.com/news/west/2025/09/26/840790.htm))
 - Korean Insurer DB to Buy Fortegra for $1.65 Billion in US Foray ([2 days ago](https://www.insurancejournal.com/news/national/2025/09/26/840787.htm))
 - Howden Opens New Office in Burgess Hill ([2 days ago](https://insurance-edge.net/2025/09/26/howden-opens-new-office-in-burgess-hill/))
@@ -74,8 +74,8 @@ description: Insurance Updates
 - UK's bulk annuity market sees very significant slowdown, Fitch reports ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/uks-bulk-annuity-market-sees-very-significant-slowdown-fitch-reports-551018.aspx))
 - Covéa UK announces CEO transition ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/covea-uk-announces-ceo-transition-551017.aspx))
 - Insurers to take on more risk as investment capital rises — study ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/insurers-to-take-on-more-risk-as-investment-capital-rises--study-551015.aspx))
-- Geopolitics is rewriting the rules of insurance ([2 days ago](https://www.dig-in.com/opinion/geopolitics-is-rewriting-the-rules-of-insurance))
-- Allianz Partners Adds Proactive Travel Delay Benefit with Alaska Airlines ([2 days ago](https://www.insurtechinsights.com/allianz-partners-adds-proactive-travel-delay-benefit-with-alaska-airlines/))
+- Geopolitics is rewriting the rules of insurance ([3 days ago](https://www.dig-in.com/opinion/geopolitics-is-rewriting-the-rules-of-insurance))
+- Allianz Partners Adds Proactive Travel Delay Benefit with Alaska Airlines ([3 days ago](https://www.insurtechinsights.com/allianz-partners-adds-proactive-travel-delay-benefit-with-alaska-airlines/))
 - Data governance is an insurance growth engine ([3 days ago](https://www.dig-in.com/opinion/data-governance-is-an-insurance-growth-engine))
 - Formula 1 bosses to target motor insurance ([3 days ago](https://www.insurancebusinessmag.com/uk/news/auto-motor/formula-1-bosses-to-target-motor-insurance-550991.aspx))
 - Datavant to Acquire DigitalOwl, Powering Faster, Smarter Medical Data Reviews ([3 days ago](https://www.insurtechinsights.com/datavant-to-acquire-digitalowl-powering-faster-smarter-medical-data-reviews/))
