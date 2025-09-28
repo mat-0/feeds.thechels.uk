@@ -25,7 +25,7 @@ description: Insurance Updates
 - Aon strengthens commercial risk sales in India with new Regional Heads ([1 days ago](https://www.reinsurancene.ws/aon-strengthens-commercial-risk-sales-in-india-with-new-regional-heads/))
 - Income Protection Action Week: building resilience in uncertain times ([1 days ago](https://ifamagazine.com/income-protection-action-week-building-resilience-in-uncertain-times/))
 - Pay us or we’ll release more children's details on the web, say hackers ([1 days ago](https://www.insurancebusinessmag.com/uk/news/cyber/pay-us-or-well-release-more-childrens-details-on-the-web-say-hackers-551180.aspx))
-- Newman Named CEO of ACORD Solutions Group ([1 days ago](https://www.insurancejournal.com/news/national/2025/09/26/840748.htm))
+- Newman Named CEO of ACORD Solutions Group ([2 days ago](https://www.insurancejournal.com/news/national/2025/09/26/840748.htm))
 - BCC calls on Reeves for IPT Relief as insurance costs spiral ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/bcc-calls-on-reeves-for-ipt-relief-as-insurance-costs-spiral-551134.aspx))
 - Ardian becomes lead shareholder in Diot-Siaci ([2 days ago](https://www.reinsurancene.ws/ardian-becomes-lead-shareholder-in-diot-siaci/))
 - One in Three Adults Could Lose Their Home if a Partner Died ([2 days ago](https://insurance-edge.net/2025/09/26/one-in-three-adults-could-lose-their-home-if-a-partner-died/))
@@ -81,7 +81,7 @@ description: Insurance Updates
 - Insurer that owns UK's largest secondary intermediary FCA network bought in massive deal ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/insurer-that-owns-uks-largest-secondary-intermediary-fca-network-bought-in-massive-deal-550970.aspx))
 - "Meet the Insurtech" database ([2 days ago](https://www.dig-in.com/news/digital-insurances-meet-the-insurtech-database))
 - Covéa Insurance UK CEO Macedo to step down ([2 days ago](https://www.postonline.co.uk/news/7959100/cov%C3%A9a-insurance-uk-ceo-macedo-to-step-down))
-- Income Protection Action Week: highlighting the value of holistic support ([2 days ago](https://ifamagazine.com/income-protection-action-week-highlighting-the-value-of-holistic-support-as-day-four-draws-to-a-close/))
+- Income Protection Action Week: highlighting the value of holistic support ([3 days ago](https://ifamagazine.com/income-protection-action-week-highlighting-the-value-of-holistic-support-as-day-four-draws-to-a-close/))
 - Insurers should turn to YouTube to demonstrate value ([3 days ago](https://www.postonline.co.uk/personal/7959097/insurers-should-turn-to-youtube-to-demonstrate-value))
 - The AI edge: businesses harness new tech to combat cyber threats ([3 days ago](https://www.insurancebusinessmag.com/uk/news/cyber/the-ai-edge-businesses-harness-new-tech-to-combat-cyber-threats-550909.aspx))
 - Co-op takes hit from cyber assault ([3 days ago](https://www.insurancebusinessmag.com/uk/news/cyber/coop-takes-hit-from-cyber-assault-550905.aspx))
@@ -130,6 +130,6 @@ description: Insurance Updates
 - Thomas Carroll expands Bristol office ([5 days ago](https://www.postonline.co.uk/broker/7959080/thomas-carroll-expands-bristol-office))
 - Aon Introduces Specialist Claims Solutions to Support Insurers in Complex Market ([5 days ago](https://www.insurtechinsights.com/aon-introduces-specialist-claims-solutions-to-support-insurers-in-complex-market/))
 - Zego Aims to Shift UK Telematics Insurance From Black Box to App-Based Model ([10 days ago](https://thefintechtimes.com/zego-aims-to-shift-uk-telematics-insurance-from-black-box-to-app-based-model/))
-- 180 Seguros Raises $9million to Expand AI Initiatives And Boost Regulatory Capital ([15 days ago](https://thefintechtimes.com/180-seguros-raises-9m-to-expand-ai-initiatives-and-boost-regulatory-capital/))
+- 180 Seguros Raises $9million to Expand AI Initiatives And Boost Regulatory Capital ([16 days ago](https://thefintechtimes.com/180-seguros-raises-9m-to-expand-ai-initiatives-and-boost-regulatory-capital/))
 
 <!-- news_marker ends -->
