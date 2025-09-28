@@ -69,7 +69,7 @@ description: Insurance Updates
 - Should insurers fear Which? super complaint? ([1 days ago](https://www.postonline.co.uk/personal/7959088/should-insurers-fear-which-super-complaint))
 - Penny Black’s Social Diary: HFG's hands; SEC Newgate's treats ([1 days ago](https://www.postonline.co.uk/people/7958919/penny-black%E2%80%99s-social-diary-hfgs-hands-sec-newgates-treats))
 - Senior leadership changes at QBE and Aon ([1 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/senior-leadership-changes-at-qbe-and-aon-551019.aspx))
-- UK's bulk annuity market sees very significant slowdown, Fitch reports ([1 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/uks-bulk-annuity-market-sees-very-significant-slowdown-fitch-reports-551018.aspx))
+- UK's bulk annuity market sees very significant slowdown, Fitch reports ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/uks-bulk-annuity-market-sees-very-significant-slowdown-fitch-reports-551018.aspx))
 - Covéa UK announces CEO transition ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/covea-uk-announces-ceo-transition-551017.aspx))
 - Insurers to take on more risk as investment capital rises — study ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/insurers-to-take-on-more-risk-as-investment-capital-rises--study-551015.aspx))
 - Geopolitics is rewriting the rules of insurance ([2 days ago](https://www.dig-in.com/opinion/geopolitics-is-rewriting-the-rules-of-insurance))
