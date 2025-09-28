@@ -10,7 +10,7 @@ description: SecOps News
 <!-- news_marker starts -->
 - Akira ransomware breaching MFA-protected SonicWall VPN accounts ([3 hours ago](https://www.bleepingcomputer.com/news/security/akira-ransomware-breaching-mfa-protected-sonicwall-vpn-accounts/))
 - British Department Store Harrods Warns Customers That Some Personal Details Taken in Data Breach ([4 hours ago](https://www.securityweek.com/british-department-store-harrods-warns-customers-that-some-personal-details-taken-in-data-breach/))
-- EU probes SAP over anti-competitive ERP support practices ([7 hours ago](https://www.bleepingcomputer.com/news/legal/eu-probes-sap-over-anti-competitive-erp-support-practices/))
+- EU probes SAP over anti-competitive ERP support practices ([8 hours ago](https://www.bleepingcomputer.com/news/legal/eu-probes-sap-over-anti-competitive-erp-support-practices/))
 - Fake Microsoft Teams installers push Oyster malware via malvertising ([1 days ago](https://www.bleepingcomputer.com/news/security/fake-microsoft-teams-installers-push-oyster-malware-via-malvertising/))
 - Dutch teens arrested for trying to spy on Europol for Russia ([1 days ago](https://www.bleepingcomputer.com/news/security/dutch-teens-arrested-for-trying-to-spy-on-europol-for-russia/))
 - Company that sells software for monitoring sex offenders, terrorists, and hackers was hacked ([1 days ago](https://databreaches.net/2025/09/27/company-that-sells-software-for-monitoring-sex-offenders-terrorists-and-hackers-was-hacked/?pk_campaign=feed&pk_kwd=company-that-sells-software-for-monitoring-sex-offenders-terrorists-and-hackers-was-hacked))
