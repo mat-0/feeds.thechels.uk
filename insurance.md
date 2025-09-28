@@ -105,7 +105,7 @@ description: Insurance Updates
 - California legislature signs off on FAIR Plan financing ([3 days ago](https://www.dig-in.com/news/california-legislature-signs-off-on-fair-plan-financing))
 - Modernizing mutuals without losing the mutual ([3 days ago](https://www.dig-in.com/opinion/modernizing-mutuals-without-losing-the-mutual))
 - Threats against executives surge as companies grapple with global instability ([3 days ago](https://www.insurancebusinessmag.com/uk/business-strategy/threats-against-executives-surge-as-companies-grapple-with-global-instability-550828.aspx))
-- IIHS: 2025 EV crash performance results ([3 days ago](https://www.dig-in.com/news/iihs-2025-ev-crash-performance-results))
+- IIHS: 2025 EV crash performance results ([4 days ago](https://www.dig-in.com/news/iihs-2025-ev-crash-performance-results))
 - Gallagher Acquires Bremer Insurance to Expand Midwest Presence ([4 days ago](https://www.insurtechinsights.com/gallagher-acquires-bremer-insurance-to-expand-midwest-presence/))
 - Title insurers report rising volumes in 2025 ([4 days ago](https://www.dig-in.com/news/title-insurers-see-increased-volumes-in-2025))
 - Prudential and LPL Collaborate to Expand Access to Retirement Security ([4 days ago](https://www.insurtechinsights.com/prudential-and-lpl-collaborate-to-expand-access-to-retirement-security/))
