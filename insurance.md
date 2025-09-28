@@ -58,7 +58,7 @@ description: Insurance Updates
 - Why more large UK corporates are switching from PMI to healthcare trusts – Healix Health ([1 days ago](https://ifamagazine.com/why-more-large-uk-corporates-are-switching-from-pmi-to-healthcare-trusts-healix-health/))
 - Income Protection Action Week: helping advisers put income at the heart of client conversations ([1 days ago](https://ifamagazine.com/income-protection-action-week-helping-advisers-put-income-at-the-heart-of-client-conversations/))
 - Davies bolsters tech portfolio with AI Underwriting Workbench launch ([1 days ago](https://www.insurancebusinessmag.com/uk/news/technology/davies-bolsters-tech-portfolio-with-ai-underwriting-workbench-launch-551065.aspx))
-- Insurers grapple with data centre risks as AI drives soaring demand — report ([1 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/insurers-grapple-with-data-centre-risks-as-ai-drives-soaring-demand--report-551046.aspx))
+- Insurers grapple with data centre risks as AI drives soaring demand — report ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/insurers-grapple-with-data-centre-risks-as-ai-drives-soaring-demand--report-551046.aspx))
 - People Moves: MSIG Holdings USA Names Sullivan Board Chair; Chubb Promotes Gaspero to Oversee Excess Casualty Major Accounts ([2 days ago](https://www.insurancejournal.com/news/national/2025/09/26/840593.htm))
 - Britain Wants Social Mobility But Private Schools Still Dominate ([2 days ago](https://www.insurancejournal.com/news/international/2025/09/26/840648.htm))
 - Meta Set to Face EU Finding it Failed to Police Illegal Posts ([2 days ago](https://www.insurancejournal.com/news/international/2025/09/26/840627.htm))
