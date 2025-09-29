@@ -10,9 +10,9 @@ description: Insurance Updates
 <!-- news_marker starts -->
 - Marsh McLennan’s Lay announced as new LMG chair ([5 hours ago](https://www.postonline.co.uk/news/7959110/marsh-mclennan%E2%80%99s-lay-announced-as-new-lmg-chair))
 - Consumer group calls for crackdown on home and travel insurers over low claims payouts ([7 hours ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/consumer-group-calls-for-crackdown-on-home-and-travel-insurers-over-low-claims-payouts-551202.aspx))
-- CII roundtable flags challenges in Consumer Duty compliance ([7 hours ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/cii-roundtable-flags-challenges-in-consumer-duty-compliance-551201.aspx))
-- Chris Lay to become next chair of the London Market Group ([7 hours ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/chris-lay-to-become-next-chair-of-the-london-market-group-551200.aspx))
-- Lloyd & Whyte partners with MESO Energy to help clients manage overheads ([7 hours ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/lloyd-and-whyte-partners-with-meso-energy-to-help-clients-manage-overheads-551199.aspx))
+- CII roundtable flags challenges in Consumer Duty compliance ([8 hours ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/cii-roundtable-flags-challenges-in-consumer-duty-compliance-551201.aspx))
+- Chris Lay to become next chair of the London Market Group ([8 hours ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/chris-lay-to-become-next-chair-of-the-london-market-group-551200.aspx))
+- Lloyd & Whyte partners with MESO Energy to help clients manage overheads ([8 hours ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/lloyd-and-whyte-partners-with-meso-energy-to-help-clients-manage-overheads-551199.aspx))
 - Allianz Commercial finds cyber risk claims severity has declined 50% in 2025 ([8 hours ago](https://www.dig-in.com/news/allianz-commercial-cyber-risk-claims-severity-declined-50))
 - Life insurance actuarial data needs scrubbing to apply AI ([8 hours ago](https://www.dig-in.com/news/life-insurance-actuarial-data-needs-scrubbing-to-apply-ai))
 - Fire Fund Helps Raise PG&E to Investment Grade Six Years After Bankruptcy ([2 days ago](https://www.insurancejournal.com/news/west/2025/09/26/840790.htm))
