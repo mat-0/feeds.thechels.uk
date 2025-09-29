@@ -9,10 +9,10 @@ description: SecOps News
 
 <!-- news_marker starts -->
 - Trump demands Microsoft fire its head of global affairs ([1 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/09/29/trump_wants_microsoft_exec_fired/))
-- Dutch teen duo arrested over alleged 'Wi-Fi sniffing' for Russia ([3 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/09/29/infosec_in_brief/))
-- Datacenter fire takes 647 South Korean government services offline ([5 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/09/28/asia_tech_news_roundup/))
-- Akira ransomware breaching MFA-protected SonicWall VPN accounts ([9 hours ago](https://www.bleepingcomputer.com/news/security/akira-ransomware-breaching-mfa-protected-sonicwall-vpn-accounts/))
-- British Department Store Harrods Warns Customers That Some Personal Details Taken in Data Breach ([10 hours ago](https://www.securityweek.com/british-department-store-harrods-warns-customers-that-some-personal-details-taken-in-data-breach/))
+- Dutch teen duo arrested over alleged 'Wi-Fi sniffing' for Russia ([4 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/09/29/infosec_in_brief/))
+- Datacenter fire takes 647 South Korean government services offline ([6 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/09/28/asia_tech_news_roundup/))
+- Akira ransomware breaching MFA-protected SonicWall VPN accounts ([10 hours ago](https://www.bleepingcomputer.com/news/security/akira-ransomware-breaching-mfa-protected-sonicwall-vpn-accounts/))
+- British Department Store Harrods Warns Customers That Some Personal Details Taken in Data Breach ([11 hours ago](https://www.securityweek.com/british-department-store-harrods-warns-customers-that-some-personal-details-taken-in-data-breach/))
 - EU probes SAP over anti-competitive ERP support practices ([14 hours ago](https://www.bleepingcomputer.com/news/legal/eu-probes-sap-over-anti-competitive-erp-support-practices/))
 - Fake Microsoft Teams installers push Oyster malware via malvertising ([1 days ago](https://www.bleepingcomputer.com/news/security/fake-microsoft-teams-installers-push-oyster-malware-via-malvertising/))
 - Dutch teens arrested for trying to spy on Europol for Russia ([1 days ago](https://www.bleepingcomputer.com/news/security/dutch-teens-arrested-for-trying-to-spy-on-europol-for-russia/))
