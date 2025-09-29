@@ -8,8 +8,8 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Last Sprint to Wolverine 5.0 ([11 hours ago](https://dotnetkicks.com/r/731139?url=https://jeremydmiller.com/2025/09/28/last-sprint-to-wolverine-5-0/))
-- Boost Your .NET Projects: Simplify Unique Key Generation with KeyGenerator in Spargine ([23 hours ago](https://dotnettips.wordpress.com/2025/09/28/boost-your-net-projects-simplify-unique-key-generation-with-keygenerator-in-spargine/))
+- Last Sprint to Wolverine 5.0 ([12 hours ago](https://dotnetkicks.com/r/731139?url=https://jeremydmiller.com/2025/09/28/last-sprint-to-wolverine-5-0/))
+- Boost Your .NET Projects: Simplify Unique Key Generation with KeyGenerator in Spargine ([1 days ago](https://dotnettips.wordpress.com/2025/09/28/boost-your-net-projects-simplify-unique-key-generation-with-keygenerator-in-spargine/))
 - F# Weekly #39, 2025 - amplifyingfsharp.io ([1 days ago](https://dotnetkicks.com/r/731133?url=https://sergeytihon.com/2025/09/27/f-weekly-39-2025-amplifyingfsharp-io/))
 - Ardalis Fall 2025 Speaking Tour ([1 days ago](https://dotnetkicks.com/r/731118?url=https://ardalis.com/ardalis-fall-2025-speaking-tour/))
 - Preparing Your .NET MAUI Apps for Google Play's 16 KB Page Size Requirement - .NET Blog ([2 days ago](https://dotnetkicks.com/r/731067?url=https://devblogs.microsoft.com/dotnet/maui-google-play-16-kb-page-size-support/))
@@ -36,7 +36,7 @@ description: DotNet Updates
 - New Trusted Publishing enhances security on NuGet.org - .NET Blog ([6 days ago](https://dotnetkicks.com/r/730496?url=https://devblogs.microsoft.com/dotnet/enhanced-security-is-here-with-the-new-trust-publishing-on-nuget-org/))
 - New Trusted Publishing enhances security on NuGet.org ([6 days ago](https://devblogs.microsoft.com/dotnet/enhanced-security-is-here-with-the-new-trust-publishing-on-nuget-org/))
 - F# Weekly #38, 2025 - .NET STS releases supported for 24 months ([7 days ago](https://dotnetkicks.com/r/730440?url=https://sergeytihon.com/2025/09/21/f-weekly-38-2025-net-sts-releases-supported-for-24-months/))
-- Boost Your .NET Projects: Mastering ObservableList in Spargine ([7 days ago](https://dotnettips.wordpress.com/2025/09/21/boost-your-net-projects-mastering-observablelist-in-spargine/))
+- Boost Your .NET Projects: Mastering ObservableList in Spargine ([8 days ago](https://dotnettips.wordpress.com/2025/09/21/boost-your-net-projects-mastering-observablelist-in-spargine/))
 - What a fortnight! VS2026 and iOS26 ([9 days ago](https://dotnetkicks.com/r/730393?url=https://jesseliberty.com/2025/09/19/what-a-fortnight-vs2026-and-ios26/))
 - Announcing: JetBrains .NET Days Online 2025 ([10 days ago](https://blog.jetbrains.com/dotnet/2025/09/18/announcing-jetbrains-net-days-online-2025/))
 - Update on Wolverine 5 and CritterWatch ([10 days ago](https://dotnetkicks.com/r/730317?url=https://jeremydmiller.com/2025/09/18/update-on-wolverine-5-and-critterwatch/))
@@ -50,15 +50,15 @@ description: DotNet Updates
 - Supporting platform-specific .NET tools on old .NET SDKs: Exploring the .NET 10 preview - Part 8 ([12 days ago](https://andrewlock.net/exploring-dotnet-10-preview-features-8-supporting-platform-specific-dotnet-tools-on-old-sdks/))
 - Application Insights Code Optimizations for .NET Apps ([13 days ago](https://devblogs.microsoft.com/dotnet/application-insights-code-optimizations/))
 - GameDev Day 2025 Is Back in October! ([14 days ago](https://blog.jetbrains.com/dotnet/2025/09/15/gamedev-day-2025-is-back-in-october/))
-- Boost Your .NET Projects: Ensure Thread-Safe Uniqueness with DistinctConcurrentBag in Spargine ([14 days ago](https://dotnettips.wordpress.com/2025/09/14/boost-your-net-projects-ensure-thread-safe-uniqueness-with-distinctconcurrentbag-in-spargine/))
+- Boost Your .NET Projects: Ensure Thread-Safe Uniqueness with DistinctConcurrentBag in Spargine ([15 days ago](https://dotnettips.wordpress.com/2025/09/14/boost-your-net-projects-ensure-thread-safe-uniqueness-with-distinctconcurrentbag-in-spargine/))
 - Performance Improvements in .NET 10 ([18 days ago](https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-10/))
 - Announcing .NET 10 Release Candidate 1 ([19 days ago](https://devblogs.microsoft.com/dotnet/dotnet-10-rc-1/))
 - .NET and .NET Framework September 2025 servicing releases updates ([19 days ago](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-september-2025-servicing-updates/))
 - Packaging self-contained and native AOT .NET tools for NuGet: Exploring the .NET 10 preview - Part 7 ([19 days ago](https://andrewlock.net/exploring-dotnet-10-preview-features-7-packaging-self-contained-and-native-aot-dotnet-tools-for-nuget/))
-- Boost Your .NET Projects: Efficient Byte Array Conversions ([21 days ago](https://dotnettips.wordpress.com/2025/09/07/boost-your-net-projects-efficient-byte-array-conversions/))
+- Boost Your .NET Projects: Efficient Byte Array Conversions ([22 days ago](https://dotnettips.wordpress.com/2025/09/07/boost-your-net-projects-efficient-byte-array-conversions/))
 - The First Set of Updates and Fixes for ReSharper and Rider 2025.2 Is Out! ([24 days ago](https://blog.jetbrains.com/dotnet/2025/09/04/resharper-and-rider-2025-2-1-is-out/))
 - dotInsights  -  September 2025 ([26 days ago](https://blog.jetbrains.com/dotnet/2025/09/02/dotinsights-september-2025/))
 - Using and authoring .NET tools ([26 days ago](https://andrewlock.net/using-and-authoring-dotnet-tools/))
-- Boost Your .NET Projects: Find the Fastest Way to Get an Item’s Index in Arrays ([28 days ago](https://dotnettips.wordpress.com/2025/08/31/boost-your-net-projects-find-the-fastest-way-to-get-an-items-index-in-arrays/))
+- Boost Your .NET Projects: Find the Fastest Way to Get an Item’s Index in Arrays ([29 days ago](https://dotnettips.wordpress.com/2025/08/31/boost-your-net-projects-find-the-fastest-way-to-get-an-items-index-in-arrays/))
 
 <!-- news_marker ends -->
