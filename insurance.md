@@ -9,6 +9,7 @@ description: Insurance Updates
 
 <!-- news_marker starts -->
 - Marsh McLennan’s Lay announced as new LMG chair ([4 hours ago](https://www.postonline.co.uk/news/7959110/marsh-mclennan%E2%80%99s-lay-announced-as-new-lmg-chair))
+- CII roundtable flags challenges in Consumer Duty compliance ([7 hours ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/cii-roundtable-flags-challenges-in-consumer-duty-compliance-551201.aspx))
 - Chris Lay to become next chair of the London Market Group ([7 hours ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/chris-lay-to-become-next-chair-of-the-london-market-group-551200.aspx))
 - Lloyd & Whyte partners with MESO Energy to help clients manage overheads ([7 hours ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/lloyd-and-whyte-partners-with-meso-energy-to-help-clients-manage-overheads-551199.aspx))
 - Allianz Commercial finds cyber risk claims severity has declined 50% in 2025 ([7 hours ago](https://www.dig-in.com/news/allianz-commercial-cyber-risk-claims-severity-declined-50))
@@ -74,7 +75,7 @@ description: Insurance Updates
 - Should insurers fear Which? super complaint? ([2 days ago](https://www.postonline.co.uk/personal/7959088/should-insurers-fear-which-super-complaint))
 - Penny Black’s Social Diary: HFG's hands; SEC Newgate's treats ([2 days ago](https://www.postonline.co.uk/people/7958919/penny-black%E2%80%99s-social-diary-hfgs-hands-sec-newgates-treats))
 - Senior leadership changes at QBE and Aon ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/senior-leadership-changes-at-qbe-and-aon-551019.aspx))
-- UK's bulk annuity market sees very significant slowdown, Fitch reports ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/uks-bulk-annuity-market-sees-very-significant-slowdown-fitch-reports-551018.aspx))
+- UK's bulk annuity market sees very significant slowdown, Fitch reports ([3 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/uks-bulk-annuity-market-sees-very-significant-slowdown-fitch-reports-551018.aspx))
 - Covéa UK announces CEO transition ([3 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/covea-uk-announces-ceo-transition-551017.aspx))
 - Insurers to take on more risk as investment capital rises — study ([3 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/insurers-to-take-on-more-risk-as-investment-capital-rises--study-551015.aspx))
 - Geopolitics is rewriting the rules of insurance ([3 days ago](https://www.dig-in.com/opinion/geopolitics-is-rewriting-the-rules-of-insurance))
@@ -104,7 +105,6 @@ description: Insurance Updates
 - Oil, gas firms brace for downturn as capital budgets tighten: Wood Mackenzie ([3 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/oil-gas-firms-brace-for-downturn-as-capital-budgets-tighten-wood-mackenzie-550881.aspx))
 - Throwback Thursday: Insurers returning from war look for work ([3 days ago](https://www.postonline.co.uk/broker/7956767/throwback-thursday-insurers-returning-from-war-look-for-work))
 - McGill and Partners backs GB Snowsport ahead of Olympic season ([3 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/mcgill-and-partners-backs-gb-snowsport-ahead-of-olympic-season-550851.aspx))
-- Remittance senders face protection gaps despite high trust: Chubb ([3 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/remittance-senders-face-protection-gaps-despite-high-trust-chubb-550919.aspx))
 - Acrisure Re Unveils AcrisureIQ PRO to Expand Analytics Platform ([4 days ago](https://www.insurtechinsights.com/acrisure-re-unveils-acrisureiq-pro-to-expand-analytics-platform/))
 - California legislature signs off on FAIR Plan financing ([4 days ago](https://www.dig-in.com/news/california-legislature-signs-off-on-fair-plan-financing))
 - Modernizing mutuals without losing the mutual ([4 days ago](https://www.dig-in.com/opinion/modernizing-mutuals-without-losing-the-mutual))
