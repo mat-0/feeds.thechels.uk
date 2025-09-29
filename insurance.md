@@ -8,9 +8,9 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Marsh McLennan’s Lay announced as new LMG chair ([1 hours ago](https://www.postonline.co.uk/news/7959110/marsh-mclennan%E2%80%99s-lay-announced-as-new-lmg-chair))
-- Allianz Commercial finds cyber risk claims severity has declined 50% in 2025 ([4 hours ago](https://www.dig-in.com/news/allianz-commercial-cyber-risk-claims-severity-declined-50))
-- Life insurance actuarial data needs scrubbing to apply AI ([4 hours ago](https://www.dig-in.com/news/life-insurance-actuarial-data-needs-scrubbing-to-apply-ai))
+- Marsh McLennan’s Lay announced as new LMG chair ([2 hours ago](https://www.postonline.co.uk/news/7959110/marsh-mclennan%E2%80%99s-lay-announced-as-new-lmg-chair))
+- Allianz Commercial finds cyber risk claims severity has declined 50% in 2025 ([5 hours ago](https://www.dig-in.com/news/allianz-commercial-cyber-risk-claims-severity-declined-50))
+- Life insurance actuarial data needs scrubbing to apply AI ([5 hours ago](https://www.dig-in.com/news/life-insurance-actuarial-data-needs-scrubbing-to-apply-ai))
 - Fire Fund Helps Raise PG&E to Investment Grade Six Years After Bankruptcy ([2 days ago](https://www.insurancejournal.com/news/west/2025/09/26/840790.htm))
 - Korean Insurer DB to Buy Fortegra for $1.65 Billion in US Foray ([2 days ago](https://www.insurancejournal.com/news/national/2025/09/26/840787.htm))
 - Howden Opens New Office in Burgess Hill ([2 days ago](https://insurance-edge.net/2025/09/26/howden-opens-new-office-in-burgess-hill/))
