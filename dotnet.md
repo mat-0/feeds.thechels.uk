@@ -8,11 +8,11 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Celebrating Marten's 10th Birthday! ([4 hours ago](https://dotnetkicks.com/r/731355?url=https://jeremydmiller.com/2025/09/30/celebrating-martens-10th-birthday/))
-- Visual Studio September Update - profiler agent, app modernization, and more - Visual Studio Blog ([11 hours ago](https://dotnetkicks.com/r/731343?url=https://devblogs.microsoft.com/visualstudio/visual-studio-september-update/))
-- Visual Studio September Update - profiler agent, app modernization, and more - Visual Studio Blog ([11 hours ago](https://dotnetkicks.com/r/731326?url=https://devblogs.microsoft.com/visualstudio/visual-studio-september-update/))
-- Publishing NuGet packages from GitHub actions the easy way with Trusted Publishing ([15 hours ago](https://dotnetkicks.com/r/731280?url=https://andrewlock.net/easily-publishing-nuget-packages-from-github-actions-with-trusted-publishing/))
-- Publishing NuGet packages from GitHub actions the easy way with Trusted Publishing ([15 hours ago](https://andrewlock.net/easily-publishing-nuget-packages-from-github-actions-with-trusted-publishing/))
+- Celebrating Marten's 10th Birthday! ([5 hours ago](https://dotnetkicks.com/r/731355?url=https://jeremydmiller.com/2025/09/30/celebrating-martens-10th-birthday/))
+- Visual Studio September Update - profiler agent, app modernization, and more - Visual Studio Blog ([12 hours ago](https://dotnetkicks.com/r/731343?url=https://devblogs.microsoft.com/visualstudio/visual-studio-september-update/))
+- Visual Studio September Update - profiler agent, app modernization, and more - Visual Studio Blog ([12 hours ago](https://dotnetkicks.com/r/731326?url=https://devblogs.microsoft.com/visualstudio/visual-studio-september-update/))
+- Publishing NuGet packages from GitHub actions the easy way with Trusted Publishing ([16 hours ago](https://dotnetkicks.com/r/731280?url=https://andrewlock.net/easily-publishing-nuget-packages-from-github-actions-with-trusted-publishing/))
+- Publishing NuGet packages from GitHub actions the easy way with Trusted Publishing ([16 hours ago](https://andrewlock.net/easily-publishing-nuget-packages-from-github-actions-with-trusted-publishing/))
 - Leader Election and Virtual Actors in Wolverine ([1 days ago](https://dotnetkicks.com/r/731225?url=https://jeremydmiller.com/2025/09/29/leader-election-and-virtual-actors-in-wolverine/))
 - Last Sprint to Wolverine 5.0 ([2 days ago](https://dotnetkicks.com/r/731139?url=https://jeremydmiller.com/2025/09/28/last-sprint-to-wolverine-5-0/))
 - Boost Your .NET Projects: Simplify Unique Key Generation with KeyGenerator in Spargine ([2 days ago](https://dotnettips.wordpress.com/2025/09/28/boost-your-net-projects-simplify-unique-key-generation-with-keygenerator-in-spargine/))
