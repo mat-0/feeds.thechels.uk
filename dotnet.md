@@ -8,7 +8,8 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Introducing Microsoft Agent Framework (Preview): Making AI Agents Simple for Every Developer - .NET Blog ([1 hours ago](https://dotnetkicks.com/r/731385?url=https://devblogs.microsoft.com/dotnet/introducing-microsoft-agent-framework-preview/))
+- The $150 Secret Hiding in Plain Sight - Visual Studio Blog ([7 minutes ago](https://dotnetkicks.com/r/731409?url=https://devblogs.microsoft.com/visualstudio/unlock-vss-benefits-myvisualstudio/))
+- Introducing Microsoft Agent Framework (Preview): Making AI Agents Simple for Every Developer - .NET Blog ([2 hours ago](https://dotnetkicks.com/r/731385?url=https://devblogs.microsoft.com/dotnet/introducing-microsoft-agent-framework-preview/))
 - Introducing Microsoft Agent Framework (Preview): Making AI Agents Simple for Every Developer ([2 hours ago](https://devblogs.microsoft.com/dotnet/introducing-microsoft-agent-framework-preview/))
 - Rock Your Code: Coding Standards for Microsoft .NET (20th Anniversary Edition) ([4 hours ago](https://dotnettips.wordpress.com/2025/10/01/rock-your-code-coding-standards-for-microsoft-net-20th-anniversary-edition/))
 - Optimizing Array Performance in .NET: Getting the Most from ArrayPool ([10 hours ago](https://dotnettips.wordpress.com/2025/10/01/optimizing-array-performance-in-net-getting-the-most-from-arraypool/))
@@ -42,7 +43,6 @@ description: DotNet Updates
 - sleep-pc: a .NET Native AOT tool to make Windows sleep after a timeout ([8 days ago](https://dotnetkicks.com/r/730559?url=https://andrewlock.net/sleep-pc-a-dotnet-tool-to-make-windows-sleep-after-a-timeout/))
 - sleep-pc: a .NET Native AOT tool to make Windows sleep after a timeout ([8 days ago](https://andrewlock.net/sleep-pc-a-dotnet-tool-to-make-windows-sleep-after-a-timeout/))
 - Enhancements to XAML Live Preview in Visual Studio for .NET MAUI - Visual Studio Blog ([8 days ago](https://dotnetkicks.com/r/730527?url=https://devblogs.microsoft.com/visualstudio/enhancements-to-xaml-live-preview-in-visual-studio-for-net-maui/))
-- Enhancements to XAML Live Preview in Visual Studio for .NET MAUI - Visual Studio Blog ([8 days ago](https://dotnetkicks.com/r/730508?url=https://devblogs.microsoft.com/visualstudio/enhancements-to-xaml-live-preview-in-visual-studio-for-net-maui/))
 - New Trusted Publishing enhances security on NuGet.org ([9 days ago](https://devblogs.microsoft.com/dotnet/enhanced-security-is-here-with-the-new-trust-publishing-on-nuget-org/))
 - Boost Your .NET Projects: Mastering ObservableList in Spargine ([10 days ago](https://dotnettips.wordpress.com/2025/09/21/boost-your-net-projects-mastering-observablelist-in-spargine/))
 - Announcing: JetBrains .NET Days Online 2025 ([12 days ago](https://blog.jetbrains.com/dotnet/2025/09/18/announcing-jetbrains-net-days-online-2025/))
