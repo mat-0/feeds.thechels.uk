@@ -8,10 +8,11 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Optimizing Array Performance in .NET: Getting the Most from ArrayPool ([5 hours ago](https://dotnettips.wordpress.com/2025/10/01/optimizing-array-performance-in-net-getting-the-most-from-arraypool/))
-- Celebrating Marten's 10th Birthday! ([14 hours ago](https://dotnetkicks.com/r/731355?url=https://jeremydmiller.com/2025/09/30/celebrating-martens-10th-birthday/))
-- Visual Studio September Update - profiler agent, app modernization, and more - Visual Studio Blog ([21 hours ago](https://dotnetkicks.com/r/731343?url=https://devblogs.microsoft.com/visualstudio/visual-studio-september-update/))
-- Visual Studio September Update - profiler agent, app modernization, and more - Visual Studio Blog ([21 hours ago](https://dotnetkicks.com/r/731326?url=https://devblogs.microsoft.com/visualstudio/visual-studio-september-update/))
+- Rock Your Code: Coding Standards for Microsoft .NET (20th Anniversary Edition) ([13 minutes ago](https://dotnettips.wordpress.com/2025/10/01/rock-your-code-coding-standards-for-microsoft-net-20th-anniversary-edition/))
+- Optimizing Array Performance in .NET: Getting the Most from ArrayPool ([6 hours ago](https://dotnettips.wordpress.com/2025/10/01/optimizing-array-performance-in-net-getting-the-most-from-arraypool/))
+- Celebrating Marten's 10th Birthday! ([15 hours ago](https://dotnetkicks.com/r/731355?url=https://jeremydmiller.com/2025/09/30/celebrating-martens-10th-birthday/))
+- Visual Studio September Update - profiler agent, app modernization, and more - Visual Studio Blog ([22 hours ago](https://dotnetkicks.com/r/731343?url=https://devblogs.microsoft.com/visualstudio/visual-studio-september-update/))
+- Visual Studio September Update - profiler agent, app modernization, and more - Visual Studio Blog ([22 hours ago](https://dotnetkicks.com/r/731326?url=https://devblogs.microsoft.com/visualstudio/visual-studio-september-update/))
 - Publishing NuGet packages from GitHub actions the easy way with Trusted Publishing ([1 days ago](https://dotnetkicks.com/r/731280?url=https://andrewlock.net/easily-publishing-nuget-packages-from-github-actions-with-trusted-publishing/))
 - Publishing NuGet packages from GitHub actions the easy way with Trusted Publishing ([1 days ago](https://andrewlock.net/easily-publishing-nuget-packages-from-github-actions-with-trusted-publishing/))
 - Leader Election and Virtual Actors in Wolverine ([1 days ago](https://dotnetkicks.com/r/731225?url=https://jeremydmiller.com/2025/09/29/leader-election-and-virtual-actors-in-wolverine/))
@@ -59,7 +60,7 @@ description: DotNet Updates
 - Packaging self-contained and native AOT .NET tools for NuGet: Exploring the .NET 10 preview - Part 7 ([22 days ago](https://andrewlock.net/exploring-dotnet-10-preview-features-7-packaging-self-contained-and-native-aot-dotnet-tools-for-nuget/))
 - Boost Your .NET Projects: Efficient Byte Array Conversions ([24 days ago](https://dotnettips.wordpress.com/2025/09/07/boost-your-net-projects-efficient-byte-array-conversions/))
 - The First Set of Updates and Fixes for ReSharper and Rider 2025.2 Is Out! ([26 days ago](https://blog.jetbrains.com/dotnet/2025/09/04/resharper-and-rider-2025-2-1-is-out/))
-- dotInsights  -  September 2025 ([28 days ago](https://blog.jetbrains.com/dotnet/2025/09/02/dotinsights-september-2025/))
+- dotInsights  -  September 2025 ([29 days ago](https://blog.jetbrains.com/dotnet/2025/09/02/dotinsights-september-2025/))
 - Using and authoring .NET tools ([29 days ago](https://andrewlock.net/using-and-authoring-dotnet-tools/))
 
 <!-- news_marker ends -->
