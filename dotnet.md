@@ -10,8 +10,8 @@ description: DotNet Updates
 <!-- news_marker starts -->
 - The $150 Secret Hiding in Plain Sight - Visual Studio Blog ([15 hours ago](https://dotnetkicks.com/r/731409?url=https://devblogs.microsoft.com/visualstudio/unlock-vss-benefits-myvisualstudio/))
 - Introducing Microsoft Agent Framework (Preview): Making AI Agents Simple for Every Developer - .NET Blog ([17 hours ago](https://dotnetkicks.com/r/731385?url=https://devblogs.microsoft.com/dotnet/introducing-microsoft-agent-framework-preview/))
-- Introducing Microsoft Agent Framework (Preview): Making AI Agents Simple for Every Developer ([17 hours ago](https://devblogs.microsoft.com/dotnet/introducing-microsoft-agent-framework-preview/))
-- Rock Your Code: Coding Standards for Microsoft .NET (20th Anniversary Edition) ([19 hours ago](https://dotnettips.wordpress.com/2025/10/01/rock-your-code-coding-standards-for-microsoft-net-20th-anniversary-edition/))
+- Introducing Microsoft Agent Framework (Preview): Making AI Agents Simple for Every Developer ([18 hours ago](https://devblogs.microsoft.com/dotnet/introducing-microsoft-agent-framework-preview/))
+- Rock Your Code: Coding Standards for Microsoft .NET (20th Anniversary Edition) ([20 hours ago](https://dotnettips.wordpress.com/2025/10/01/rock-your-code-coding-standards-for-microsoft-net-20th-anniversary-edition/))
 - Optimizing Array Performance in .NET: Getting the Most from ArrayPool ([1 days ago](https://dotnettips.wordpress.com/2025/10/01/optimizing-array-performance-in-net-getting-the-most-from-arraypool/))
 - Celebrating Marten's 10th Birthday! ([1 days ago](https://dotnetkicks.com/r/731355?url=https://jeremydmiller.com/2025/09/30/celebrating-martens-10th-birthday/))
 - Visual Studio September Update - profiler agent, app modernization, and more - Visual Studio Blog ([1 days ago](https://dotnetkicks.com/r/731343?url=https://devblogs.microsoft.com/visualstudio/visual-studio-september-update/))
