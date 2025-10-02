@@ -9,7 +9,7 @@ description: DotNet Updates
 
 <!-- news_marker starts -->
 - VS Live! Orlando - Your Ultimate Learning Adventure - Visual Studio Blog ([6 hours ago](https://dotnetkicks.com/r/731543?url=https://devblogs.microsoft.com/visualstudio/visual-studio-live-orlando-2025/))
-- ReSharper and Visual Studio 2026: Day-One Compatibility, Migration Steps, and Performance Gains ([8 hours ago](https://blog.jetbrains.com/dotnet/2025/10/02/resharper-and-visual-studio-2026/))
+- ReSharper and Visual Studio 2026: Day-One Compatibility, Migration Steps, and Performance Gains ([9 hours ago](https://blog.jetbrains.com/dotnet/2025/10/02/resharper-and-visual-studio-2026/))
 - The $150 Secret Hiding in Plain Sight - Visual Studio Blog ([1 days ago](https://dotnetkicks.com/r/731409?url=https://devblogs.microsoft.com/visualstudio/unlock-vss-benefits-myvisualstudio/))
 - Introducing Microsoft Agent Framework (Preview): Making AI Agents Simple for Every Developer - .NET Blog ([1 days ago](https://dotnetkicks.com/r/731385?url=https://devblogs.microsoft.com/dotnet/introducing-microsoft-agent-framework-preview/))
 - Introducing Microsoft Agent Framework (Preview): Making AI Agents Simple for Every Developer ([1 days ago](https://devblogs.microsoft.com/dotnet/introducing-microsoft-agent-framework-preview/))
@@ -54,7 +54,7 @@ description: DotNet Updates
 - .NET STS releases supported for 24 months ([16 days ago](https://devblogs.microsoft.com/dotnet/dotnet-sts-releases-supported-for-24-months/))
 - Supporting platform-specific .NET tools on old .NET SDKs: Exploring the .NET 10 preview - Part 8 ([16 days ago](https://andrewlock.net/exploring-dotnet-10-preview-features-8-supporting-platform-specific-dotnet-tools-on-old-sdks/))
 - Application Insights Code Optimizations for .NET Apps ([17 days ago](https://devblogs.microsoft.com/dotnet/application-insights-code-optimizations/))
-- GameDev Day 2025 Is Back in October! ([17 days ago](https://blog.jetbrains.com/dotnet/2025/09/15/gamedev-day-2025-is-back-in-october/))
+- GameDev Day 2025 Is Back in October! ([18 days ago](https://blog.jetbrains.com/dotnet/2025/09/15/gamedev-day-2025-is-back-in-october/))
 - Boost Your .NET Projects: Ensure Thread-Safe Uniqueness with DistinctConcurrentBag in Spargine ([18 days ago](https://dotnettips.wordpress.com/2025/09/14/boost-your-net-projects-ensure-thread-safe-uniqueness-with-distinctconcurrentbag-in-spargine/))
 - Performance Improvements in .NET 10 ([22 days ago](https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-10/))
 - Announcing .NET 10 Release Candidate 1 ([23 days ago](https://devblogs.microsoft.com/dotnet/dotnet-10-rc-1/))
