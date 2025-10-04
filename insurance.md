@@ -8,7 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Marine: Stronger Safeguarding Needed For Crew on HIV & Hepatitis ([12 hours ago](https://insurance-edge.net/2025/10/04/marine-stronger-safeguarding-needed-for-crew-on-hiv-hepatitis/))
+- Marine: Stronger Safeguarding Needed For Crew on HIV & Hepatitis ([13 hours ago](https://insurance-edge.net/2025/10/04/marine-stronger-safeguarding-needed-for-crew-on-hiv-hepatitis/))
 - California State University Targeted by EEOC Antisemitism Inquiry ([1 days ago](https://www.insurancejournal.com/news/west/2025/10/03/842541.htm))
 - Drone disruption: are aviation insurers ready for the risks? ([1 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/drone-disruption-are-aviation-insurers-ready-for-the-risks-551921.aspx))
 - Nudo becomes US casualty segment leader of Aon Reinsurance Solutions ([1 days ago](https://www.reinsurancene.ws/nudo-becomes-us-casualty-segment-leader-of-aon-reinsurance-solutions/))
@@ -69,7 +69,7 @@ description: Insurance Updates
 - Beer cyberattack leaves shelves empty ([1 days ago](https://www.insurancebusinessmag.com/uk/news/cyber/beer-cyberattack-leaves-shelves-empty-551817.aspx))
 - Zurich and Liberty back DUAL UK's new regional commercial combined product ([1 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/zurich-and-liberty-back-dual-uks-new-regional-commercial-combined-product-551812.aspx))
 - QBE shifts cyber lead to US ([1 days ago](https://www.insurancebusinessmag.com/uk/news/cyber/qbe-shifts-cyber-lead-to-us-551807.aspx))
-- Winners of Insurance Post Claims and Fraud Awards 2025 revealed ([1 days ago](https://www.postonline.co.uk/claims/7959102/winners-of-insurance-post-claims-and-fraud-awards-2025-revealed))
+- Winners of Insurance Post Claims and Fraud Awards 2025 revealed ([2 days ago](https://www.postonline.co.uk/claims/7959102/winners-of-insurance-post-claims-and-fraud-awards-2025-revealed))
 - 6 essentials for strengthening insurance cybersecurity ([2 days ago](https://www.dig-in.com/opinion/6-essentials-for-strengthening-insurance-cybersecurity))
 - Progressive and GEICO tied for first overall in mobile: Keynova ([2 days ago](https://www.dig-in.com/news/progressive-geico-tied-for-first-overall-in-mobile-keynova))
 - Glyn Hughes named Managing Director of Allianz Personal Broker ([2 days ago](https://www.insurtechinsights.com/glyn-hughes-named-managing-director-of-allianz-personal-broker/))
