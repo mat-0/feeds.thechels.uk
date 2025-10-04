@@ -9,7 +9,7 @@ description: Insurance Updates
 
 <!-- news_marker starts -->
 - Marine: Stronger Safeguarding Needed For Crew on HIV & Hepatitis ([6 hours ago](https://insurance-edge.net/2025/10/04/marine-stronger-safeguarding-needed-for-crew-on-hiv-hepatitis/))
-- California State University Targeted by EEOC Antisemitism Inquiry ([21 hours ago](https://www.insurancejournal.com/news/west/2025/10/03/842541.htm))
+- California State University Targeted by EEOC Antisemitism Inquiry ([22 hours ago](https://www.insurancejournal.com/news/west/2025/10/03/842541.htm))
 - Drone disruption: are aviation insurers ready for the risks? ([22 hours ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/drone-disruption-are-aviation-insurers-ready-for-the-risks-551921.aspx))
 - Nudo becomes US casualty segment leader of Aon Reinsurance Solutions ([1 days ago](https://www.reinsurancene.ws/nudo-becomes-us-casualty-segment-leader-of-aon-reinsurance-solutions/))
 - OpenAI Says Musk’s xAI Filed Secrets Suit to ‘Bully’ Ex-Workers ([1 days ago](https://www.insurancejournal.com/news/national/2025/10/03/842529.htm))
@@ -72,7 +72,7 @@ description: Insurance Updates
 - Winners of Insurance Post Claims and Fraud Awards 2025 revealed ([1 days ago](https://www.postonline.co.uk/claims/7959102/winners-of-insurance-post-claims-and-fraud-awards-2025-revealed))
 - 6 essentials for strengthening insurance cybersecurity ([1 days ago](https://www.dig-in.com/opinion/6-essentials-for-strengthening-insurance-cybersecurity))
 - Progressive and GEICO tied for first overall in mobile: Keynova ([1 days ago](https://www.dig-in.com/news/progressive-geico-tied-for-first-overall-in-mobile-keynova))
-- Glyn Hughes named Managing Director of Allianz Personal Broker ([1 days ago](https://www.insurtechinsights.com/glyn-hughes-named-managing-director-of-allianz-personal-broker/))
+- Glyn Hughes named Managing Director of Allianz Personal Broker ([2 days ago](https://www.insurtechinsights.com/glyn-hughes-named-managing-director-of-allianz-personal-broker/))
 - Nearmap and Zurich Advance Property Underwriting with AI Integration ([2 days ago](https://www.insurtechinsights.com/nearmap-and-zurich-advance-property-underwriting-with-ai-integration/))
 - Terror attack leaves two worshippers dead – what this means for insurance ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/terror-attack-leaves-two-worshippers-dead--what-this-means-for-insurance-551771.aspx))
 - Long-term participants have an edge in ‘challenging’ PI market ([2 days ago](https://www.postonline.co.uk/commercial/7959162/long-term-participants-have-an-edge-in-%E2%80%98challenging%E2%80%99-pi-market))
@@ -117,8 +117,8 @@ description: Insurance Updates
 - Meet the Insurtech: Solvrays ([3 days ago](https://www.dig-in.com/news/meet-the-insurtech-solvrays))
 - Insurers brace for higher CAT burdens as FEMA steps back ([3 days ago](https://www.dig-in.com/opinion/insurers-brace-for-higher-cat-burdens-as-fema-steps-back))
 - USAA Names Rob Arena President of Life Insurance Company ([3 days ago](https://www.insurtechinsights.com/usaa-names-rob-arena-president-of-life-insurance-company/))
-- Ambac Financial Group to Acquire ArmadaCare for $250 Million ([3 days ago](https://www.insurtechinsights.com/ambac-financial-group-to-acquire-armadacare-for-250-million/))
-- Large orgs represent only 2% of cyber claims, but 51% of costs ([3 days ago](https://www.dig-in.com/news/large-orgs-are-only-2-of-cyber-claims-but-51-of-costs))
+- Ambac Financial Group to Acquire ArmadaCare for $250 Million ([4 days ago](https://www.insurtechinsights.com/ambac-financial-group-to-acquire-armadacare-for-250-million/))
+- Large orgs represent only 2% of cyber claims, but 51% of costs ([4 days ago](https://www.dig-in.com/news/large-orgs-are-only-2-of-cyber-claims-but-51-of-costs))
 - Ageas Completes £1.3 Billion Acquisition of esure ([4 days ago](https://www.insurtechinsights.com/ageas-completes-1-3-billion-acquisition-of-esure/))
 - The critical role of employee benefits in facilitating financial security ([4 days ago](https://www.dig-in.com/opinion/the-critical-role-of-employee-benefits-in-facilitating-financial-security))
 - £447m life insurance boom as families prepare for pensions to face 40% IHT ([5 days ago](https://ifamagazine.com/447m-life-insurance-boom-as-families-prepare-for-pensions-to-face-40-iht/))
