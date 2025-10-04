@@ -9,13 +9,13 @@ description: Insurance Updates
 
 <!-- news_marker starts -->
 - Marine: Stronger Safeguarding Needed For Crew on HIV & Hepatitis ([5 hours ago](https://insurance-edge.net/2025/10/04/marine-stronger-safeguarding-needed-for-crew-on-hiv-hepatitis/))
-- California State University Targeted by EEOC Antisemitism Inquiry ([20 hours ago](https://www.insurancejournal.com/news/west/2025/10/03/842541.htm))
+- California State University Targeted by EEOC Antisemitism Inquiry ([21 hours ago](https://www.insurancejournal.com/news/west/2025/10/03/842541.htm))
 - Drone disruption: are aviation insurers ready for the risks? ([21 hours ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/drone-disruption-are-aviation-insurers-ready-for-the-risks-551921.aspx))
 - Nudo becomes US casualty segment leader of Aon Reinsurance Solutions ([23 hours ago](https://www.reinsurancene.ws/nudo-becomes-us-casualty-segment-leader-of-aon-reinsurance-solutions/))
 - OpenAI Says Musk’s xAI Filed Secrets Suit to ‘Bully’ Ex-Workers ([23 hours ago](https://www.insurancejournal.com/news/national/2025/10/03/842529.htm))
 - White Mountains Insurance to Sell Unit to CVC in $1.75 Billion Deal ([23 hours ago](https://www.insurancejournal.com/news/national/2025/10/03/842524.htm))
-- Blackstone appoints Kimberly Kim as Head of APAC Insurance Institutional Client Solutions ([23 hours ago](https://www.reinsurancene.ws/blackstone-appoints-kimberly-kim-as-head-of-apac-insurance-institutional-client-solutions/))
-- New Report From Zurich Looks at Cyber Challenges ([23 hours ago](https://insurance-edge.net/2025/10/03/new-report-from-zurich-looks-at-cyber-challenges/))
+- Blackstone appoints Kimberly Kim as Head of APAC Insurance Institutional Client Solutions ([1 days ago](https://www.reinsurancene.ws/blackstone-appoints-kimberly-kim-as-head-of-apac-insurance-institutional-client-solutions/))
+- New Report From Zurich Looks at Cyber Challenges ([1 days ago](https://insurance-edge.net/2025/10/03/new-report-from-zurich-looks-at-cyber-challenges/))
 - More NC Outer Banks Homes Collapse into Surf as Hurricanes Stay Far Offshore ([1 days ago](https://www.insurancejournal.com/news/southeast/2025/10/03/842509.htm))
 - American Integrity Insurance introduces commercial residential property programme in Florida ([1 days ago](https://www.reinsurancene.ws/american-integrity-insurance-introduces-commercial-residential-property-programme-in-florida/))
 - Howden Acquires Insurance Broker Gott & Wynne in North Wales ([1 days ago](https://www.insurancejournal.com/news/international/2025/10/03/842506.htm))
