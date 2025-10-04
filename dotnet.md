@@ -8,7 +8,7 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Roadmap for AI in Visual Studio (October) - Visual Studio Blog ([14 hours ago](https://dotnetkicks.com/r/731595?url=https://devblogs.microsoft.com/visualstudio/roadmap-for-ai-in-visual-studio-october/))
+- Roadmap for AI in Visual Studio (October) - Visual Studio Blog ([15 hours ago](https://dotnetkicks.com/r/731595?url=https://devblogs.microsoft.com/visualstudio/roadmap-for-ai-in-visual-studio-october/))
 - VS Live! Orlando - Your Ultimate Learning Adventure - Visual Studio Blog ([1 days ago](https://dotnetkicks.com/r/731543?url=https://devblogs.microsoft.com/visualstudio/visual-studio-live-orlando-2025/))
 - ReSharper and Visual Studio 2026: Day-One Compatibility, Migration Steps, and Performance Gains ([1 days ago](https://blog.jetbrains.com/dotnet/2025/10/02/resharper-and-visual-studio-2026/))
 - The $150 Secret Hiding in Plain Sight - Visual Studio Blog ([2 days ago](https://dotnetkicks.com/r/731409?url=https://devblogs.microsoft.com/visualstudio/unlock-vss-benefits-myvisualstudio/))
@@ -19,7 +19,7 @@ description: DotNet Updates
 - Celebrating Marten's 10th Birthday! ([3 days ago](https://dotnetkicks.com/r/731355?url=https://jeremydmiller.com/2025/09/30/celebrating-martens-10th-birthday/))
 - Visual Studio September Update - profiler agent, app modernization, and more - Visual Studio Blog ([3 days ago](https://dotnetkicks.com/r/731343?url=https://devblogs.microsoft.com/visualstudio/visual-studio-september-update/))
 - Visual Studio September Update - profiler agent, app modernization, and more - Visual Studio Blog ([3 days ago](https://dotnetkicks.com/r/731326?url=https://devblogs.microsoft.com/visualstudio/visual-studio-september-update/))
-- Publishing NuGet packages from GitHub actions the easy way with Trusted Publishing ([3 days ago](https://dotnetkicks.com/r/731280?url=https://andrewlock.net/easily-publishing-nuget-packages-from-github-actions-with-trusted-publishing/))
+- Publishing NuGet packages from GitHub actions the easy way with Trusted Publishing ([4 days ago](https://dotnetkicks.com/r/731280?url=https://andrewlock.net/easily-publishing-nuget-packages-from-github-actions-with-trusted-publishing/))
 - Publishing NuGet packages from GitHub actions the easy way with Trusted Publishing ([4 days ago](https://andrewlock.net/easily-publishing-nuget-packages-from-github-actions-with-trusted-publishing/))
 - Leader Election and Virtual Actors in Wolverine ([4 days ago](https://dotnetkicks.com/r/731225?url=https://jeremydmiller.com/2025/09/29/leader-election-and-virtual-actors-in-wolverine/))
 - Last Sprint to Wolverine 5.0 ([5 days ago](https://dotnetkicks.com/r/731139?url=https://jeremydmiller.com/2025/09/28/last-sprint-to-wolverine-5-0/))
