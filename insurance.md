@@ -9,7 +9,7 @@ description: Insurance Updates
 
 <!-- news_marker starts -->
 - Marine: Stronger Safeguarding Needed For Crew on HIV & Hepatitis ([7 hours ago](https://insurance-edge.net/2025/10/04/marine-stronger-safeguarding-needed-for-crew-on-hiv-hepatitis/))
-- California State University Targeted by EEOC Antisemitism Inquiry ([22 hours ago](https://www.insurancejournal.com/news/west/2025/10/03/842541.htm))
+- California State University Targeted by EEOC Antisemitism Inquiry ([23 hours ago](https://www.insurancejournal.com/news/west/2025/10/03/842541.htm))
 - Drone disruption: are aviation insurers ready for the risks? ([23 hours ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/drone-disruption-are-aviation-insurers-ready-for-the-risks-551921.aspx))
 - Nudo becomes US casualty segment leader of Aon Reinsurance Solutions ([1 days ago](https://www.reinsurancene.ws/nudo-becomes-us-casualty-segment-leader-of-aon-reinsurance-solutions/))
 - OpenAI Says Musk’s xAI Filed Secrets Suit to ‘Bully’ Ex-Workers ([1 days ago](https://www.insurancejournal.com/news/national/2025/10/03/842529.htm))
