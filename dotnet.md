@@ -8,6 +8,7 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
+- Cake v5.1.0 released ([32 minutes ago](https://dotnetkicks.com/r/731623?url=https://cakebuild.net/blog/2025/10/cake-v5.1.0-released))
 - Roadmap for AI in Visual Studio (October) - Visual Studio Blog ([1 days ago](https://dotnetkicks.com/r/731595?url=https://devblogs.microsoft.com/visualstudio/roadmap-for-ai-in-visual-studio-october/))
 - VS Live! Orlando - Your Ultimate Learning Adventure - Visual Studio Blog ([2 days ago](https://dotnetkicks.com/r/731543?url=https://devblogs.microsoft.com/visualstudio/visual-studio-live-orlando-2025/))
 - ReSharper and Visual Studio 2026: Day-One Compatibility, Migration Steps, and Performance Gains ([2 days ago](https://blog.jetbrains.com/dotnet/2025/10/02/resharper-and-visual-studio-2026/))
@@ -21,7 +22,7 @@ description: DotNet Updates
 - Visual Studio September Update - profiler agent, app modernization, and more - Visual Studio Blog ([4 days ago](https://dotnetkicks.com/r/731326?url=https://devblogs.microsoft.com/visualstudio/visual-studio-september-update/))
 - Publishing NuGet packages from GitHub actions the easy way with Trusted Publishing ([4 days ago](https://dotnetkicks.com/r/731280?url=https://andrewlock.net/easily-publishing-nuget-packages-from-github-actions-with-trusted-publishing/))
 - Publishing NuGet packages from GitHub actions the easy way with Trusted Publishing ([4 days ago](https://andrewlock.net/easily-publishing-nuget-packages-from-github-actions-with-trusted-publishing/))
-- Leader Election and Virtual Actors in Wolverine ([4 days ago](https://dotnetkicks.com/r/731225?url=https://jeremydmiller.com/2025/09/29/leader-election-and-virtual-actors-in-wolverine/))
+- Leader Election and Virtual Actors in Wolverine ([5 days ago](https://dotnetkicks.com/r/731225?url=https://jeremydmiller.com/2025/09/29/leader-election-and-virtual-actors-in-wolverine/))
 - Last Sprint to Wolverine 5.0 ([6 days ago](https://dotnetkicks.com/r/731139?url=https://jeremydmiller.com/2025/09/28/last-sprint-to-wolverine-5-0/))
 - Boost Your .NET Projects: Simplify Unique Key Generation with KeyGenerator in Spargine ([6 days ago](https://dotnettips.wordpress.com/2025/09/28/boost-your-net-projects-simplify-unique-key-generation-with-keygenerator-in-spargine/))
 - F# Weekly #39, 2025 - amplifyingfsharp.io ([6 days ago](https://dotnetkicks.com/r/731133?url=https://sergeytihon.com/2025/09/27/f-weekly-39-2025-amplifyingfsharp-io/))
@@ -29,7 +30,7 @@ description: DotNet Updates
 - Preparing Your .NET MAUI Apps for Google Play's 16 KB Page Size Requirement - .NET Blog ([8 days ago](https://dotnetkicks.com/r/731067?url=https://devblogs.microsoft.com/dotnet/maui-google-play-16-kb-page-size-support/))
 - Preparing Your .NET MAUI Apps for Google Play’s 16 KB Page Size Requirement ([8 days ago](https://devblogs.microsoft.com/dotnet/maui-google-play-16-kb-page-size-support/))
 - Some Thoughts on MS Pulling Back on their "Eventing Framework" ([8 days ago](https://dotnetkicks.com/r/731013?url=https://jeremydmiller.com/2025/09/25/some-thoughts-on-ms-pulling-back-on-their-eventing-framework/))
-- You Don't Need to Use Akka.HealthChecks Any More ([8 days ago](https://dotnetkicks.com/r/730996?url=https://petabridge.com/blog/you-dont-need-akka-healthchecks-anymore/))
+- You Don't Need to Use Akka.HealthChecks Any More ([9 days ago](https://dotnetkicks.com/r/730996?url=https://petabridge.com/blog/you-dont-need-akka-healthchecks-anymore/))
 - Announcing Aspire 9.5 - .NET Blog ([9 days ago](https://dotnetkicks.com/r/730976?url=https://devblogs.microsoft.com/dotnet/announcing-dotnet-aspire-95/))
 - Announcing Aspire 9.5 - .NET Blog ([9 days ago](https://dotnetkicks.com/r/730958?url=https://devblogs.microsoft.com/dotnet/announcing-dotnet-aspire-95/))
 - Announcing Aspire 9.5 ([9 days ago](https://devblogs.microsoft.com/dotnet/announcing-dotnet-aspire-95/))
@@ -42,7 +43,6 @@ description: DotNet Updates
 - CRUD-Sourcing is why Your Event Streams Are Bloated ([9 days ago](https://dotnetkicks.com/r/730758?url=https://codeopinion.com/crud-sourcing-is-why-your-event-streams-are-bloated/))
 - Little Diary of How JasperFx Helps Our Clients ([10 days ago](https://dotnetkicks.com/r/730658?url=https://jeremydmiller.com/2025/09/23/little-diary-of-how-jasperfx-helps-our-clients/))
 - Implement a secure MCP server using OAuth and Entra ID ([11 days ago](https://dotnetkicks.com/r/730635?url=https://damienbod.com/2025/09/23/implement-a-secure-mcp-server-using-oauth-and-entra-id/))
-- sleep-pc: a .NET Native AOT tool to make Windows sleep after a timeout ([11 days ago](https://dotnetkicks.com/r/730571?url=https://andrewlock.net/sleep-pc-a-dotnet-tool-to-make-windows-sleep-after-a-timeout/))
 - sleep-pc: a .NET Native AOT tool to make Windows sleep after a timeout ([11 days ago](https://andrewlock.net/sleep-pc-a-dotnet-tool-to-make-windows-sleep-after-a-timeout/))
 - New Trusted Publishing enhances security on NuGet.org ([12 days ago](https://devblogs.microsoft.com/dotnet/enhanced-security-is-here-with-the-new-trust-publishing-on-nuget-org/))
 - Boost Your .NET Projects: Mastering ObservableList in Spargine ([13 days ago](https://dotnettips.wordpress.com/2025/09/21/boost-your-net-projects-mastering-observablelist-in-spargine/))
