@@ -114,7 +114,7 @@ description: Insurance Updates
 - How to fix the broker/insurer data gap ([3 days ago](https://www.postonline.co.uk/technology/7958263/how-to-fix-the-brokerinsurer-data-gap))
 - Are we ready for cyber catastrophes? ([3 days ago](https://www.postonline.co.uk/commercial/7959014/are-we-ready-for-cyber-catastrophes))
 - Insurance Post’s Top 80 MGAs of 2025 revealed ([3 days ago](https://www.postonline.co.uk/news/7958877/insurance-post%E2%80%99s-top-80-mgas-of-2025-revealed))
-- Meet the Insurtech: Solvrays ([3 days ago](https://www.dig-in.com/news/meet-the-insurtech-solvrays))
+- Meet the Insurtech: Solvrays ([4 days ago](https://www.dig-in.com/news/meet-the-insurtech-solvrays))
 - Insurers brace for higher CAT burdens as FEMA steps back ([4 days ago](https://www.dig-in.com/opinion/insurers-brace-for-higher-cat-burdens-as-fema-steps-back))
 - USAA Names Rob Arena President of Life Insurance Company ([4 days ago](https://www.insurtechinsights.com/usaa-names-rob-arena-president-of-life-insurance-company/))
 - Ambac Financial Group to Acquire ArmadaCare for $250 Million ([4 days ago](https://www.insurtechinsights.com/ambac-financial-group-to-acquire-armadacare-for-250-million/))
