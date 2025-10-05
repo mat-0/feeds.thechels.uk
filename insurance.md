@@ -8,7 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Marine: Stronger Safeguarding Needed For Crew on HIV & Hepatitis ([19 hours ago](https://insurance-edge.net/2025/10/04/marine-stronger-safeguarding-needed-for-crew-on-hiv-hepatitis/))
+- Marine: Stronger Safeguarding Needed For Crew on HIV & Hepatitis ([20 hours ago](https://insurance-edge.net/2025/10/04/marine-stronger-safeguarding-needed-for-crew-on-hiv-hepatitis/))
 - California State University Targeted by EEOC Antisemitism Inquiry ([1 days ago](https://www.insurancejournal.com/news/west/2025/10/03/842541.htm))
 - Drone disruption: are aviation insurers ready for the risks? ([1 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/drone-disruption-are-aviation-insurers-ready-for-the-risks-551921.aspx))
 - Nudo becomes US casualty segment leader of Aon Reinsurance Solutions ([1 days ago](https://www.reinsurancene.ws/nudo-becomes-us-casualty-segment-leader-of-aon-reinsurance-solutions/))
@@ -58,7 +58,7 @@ description: Insurance Updates
 - Louisiana Farm Bureau Approved for Double-Digit Auto Rate Decrease ([1 days ago](https://www.insurancejournal.com/news/southcentral/2025/10/03/842270.htm))
 - Transport sector faces rising reputational risks as cyber and environmental pressures mount ([1 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/transport-sector-faces-rising-reputational-risks-as-cyber-and-environmental-pressures-mount-551842.aspx))
 - Viewpoint: Avoid Data Indigestion With Harmonization ([1 days ago](https://www.insurancejournal.com/news/national/2025/10/03/840469.htm))
-- Brown & Brown Announces Roles Related to Risk Strategies Integration ([1 days ago](https://www.insurancejournal.com/news/national/2025/10/03/842297.htm))
+- Brown & Brown Announces Roles Related to Risk Strategies Integration ([2 days ago](https://www.insurancejournal.com/news/national/2025/10/03/842297.htm))
 - Florida Reforms Are Truly Making a Difference, Gallagher Re Report Finds ([2 days ago](https://www.insurancejournal.com/news/southeast/2025/10/03/842330.htm))
 - Georgia High Court Sides with Slave Descendants on Island Zoning Changes ([2 days ago](https://www.insurancejournal.com/news/southeast/2025/10/03/842309.htm))
 - Penny Black’s Social Diary: Meshed’s cut-out; S&P’s sliders ([2 days ago](https://www.postonline.co.uk/people/7958967/penny-black%E2%80%99s-social-diary-meshed%E2%80%99s-cut-out-sp%E2%80%99s-sliders))
