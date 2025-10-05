@@ -8,7 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Old tech makes it harder for life insurers to deploy AI ([6 minutes ago](https://www.dig-in.com/news/old-tech-makes-it-harder-for-life-insurers-to-deploy-ai))
+- Old tech makes it harder for life insurers to deploy AI ([34 minutes ago](https://www.dig-in.com/news/old-tech-makes-it-harder-for-life-insurers-to-deploy-ai))
 - A Lost Art: The Submission Letter ([10 hours ago](https://www.insurancejournal.com/blogs/old-republic-surety/2025/10/05/830865.htm))
 - Marine: Stronger Safeguarding Needed For Crew on HIV & Hepatitis ([1 days ago](https://insurance-edge.net/2025/10/04/marine-stronger-safeguarding-needed-for-crew-on-hiv-hepatitis/))
 - California State University Targeted by EEOC Antisemitism Inquiry ([2 days ago](https://www.insurancejournal.com/news/west/2025/10/03/842541.htm))
@@ -100,7 +100,7 @@ description: Insurance Updates
 - Insurance moves: Insurwave, HDI, AXIS, Aegis London and Lazard ([3 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/insurance-moves-insurwave-hdi-axis-aegis-london-and-lazard-551676.aspx))
 - Brunel PI Brokers launches specialist tech brokerage ([3 days ago](https://www.insurancebusinessmag.com/uk/news/technology/brunel-pi-brokers-launches-specialist-tech-brokerage-551673.aspx))
 - Hippo appoints new chief data officer; insurtech partnerships: Insurance news ([3 days ago](https://www.dig-in.com/news/hippo-appoints-new-chief-data-officer-insurance-news))
-- GHSA and CMT: Predictive data to reduce crash risks ([3 days ago](https://www.dig-in.com/news/ghsa-and-cmt-predictive-data-to-reduce-crash-risks))
+- GHSA and CMT: Predictive data to reduce crash risks ([4 days ago](https://www.dig-in.com/news/ghsa-and-cmt-predictive-data-to-reduce-crash-risks))
 - Quandri Unveils AI-Powered Requoting in the US, Revolutionizing Personal Lines Insurance Renewals ([4 days ago](https://www.insurtechinsights.com/quandri-unveils-ai-powered-requoting-in-the-us-revolutionizing-personal-lines-insurance-renewals/))
 - Newsom explores public insurance subsidy, litigation limits ([4 days ago](https://www.dig-in.com/news/newsom-explores-public-insurance-subsidy-litigation-limits))
 - Ryan Gill Appointed CEO of Bspoke Group as Business Enters New Chapter ([4 days ago](https://www.insurtechinsights.com/ryan-gill-appointed-ceo-of-bspoke-group-as-business-enters-new-chapter/))
@@ -116,7 +116,7 @@ description: Insurance Updates
 - Are we ready for cyber catastrophes? ([4 days ago](https://www.postonline.co.uk/commercial/7959014/are-we-ready-for-cyber-catastrophes))
 - Insurance Post’s Top 80 MGAs of 2025 revealed ([4 days ago](https://www.postonline.co.uk/news/7958877/insurance-post%E2%80%99s-top-80-mgas-of-2025-revealed))
 - Meet the Insurtech: Solvrays ([4 days ago](https://www.dig-in.com/news/meet-the-insurtech-solvrays))
-- Insurers brace for higher CAT burdens as FEMA steps back ([4 days ago](https://www.dig-in.com/opinion/insurers-brace-for-higher-cat-burdens-as-fema-steps-back))
+- Insurers brace for higher CAT burdens as FEMA steps back ([5 days ago](https://www.dig-in.com/opinion/insurers-brace-for-higher-cat-burdens-as-fema-steps-back))
 - USAA Names Rob Arena President of Life Insurance Company ([5 days ago](https://www.insurtechinsights.com/usaa-names-rob-arena-president-of-life-insurance-company/))
 - Ambac Financial Group to Acquire ArmadaCare for $250 Million ([5 days ago](https://www.insurtechinsights.com/ambac-financial-group-to-acquire-armadacare-for-250-million/))
 - Large orgs represent only 2% of cyber claims, but 51% of costs ([5 days ago](https://www.dig-in.com/news/large-orgs-are-only-2-of-cyber-claims-but-51-of-costs))
