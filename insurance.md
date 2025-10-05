@@ -8,9 +8,9 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Reconstructing demand discovery: A framework for human-machine collaboration ([55 minutes ago](https://www.dig-in.com/opinion/reconstructing-demand-discovery))
-- Old tech makes it harder for life insurers to deploy AI ([1 hours ago](https://www.dig-in.com/news/old-tech-makes-it-harder-for-life-insurers-to-deploy-ai))
-- A Lost Art: The Submission Letter ([11 hours ago](https://www.insurancejournal.com/blogs/old-republic-surety/2025/10/05/830865.htm))
+- Reconstructing demand discovery: A framework for human-machine collaboration ([1 hours ago](https://www.dig-in.com/opinion/reconstructing-demand-discovery))
+- Old tech makes it harder for life insurers to deploy AI ([2 hours ago](https://www.dig-in.com/news/old-tech-makes-it-harder-for-life-insurers-to-deploy-ai))
+- A Lost Art: The Submission Letter ([12 hours ago](https://www.insurancejournal.com/blogs/old-republic-surety/2025/10/05/830865.htm))
 - Marine: Stronger Safeguarding Needed For Crew on HIV & Hepatitis ([1 days ago](https://insurance-edge.net/2025/10/04/marine-stronger-safeguarding-needed-for-crew-on-hiv-hepatitis/))
 - California State University Targeted by EEOC Antisemitism Inquiry ([2 days ago](https://www.insurancejournal.com/news/west/2025/10/03/842541.htm))
 - Drone disruption: are aviation insurers ready for the risks? ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/drone-disruption-are-aviation-insurers-ready-for-the-risks-551921.aspx))
