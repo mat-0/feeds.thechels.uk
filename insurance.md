@@ -8,7 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- RSA ends and Intact era begins with specialty lines plan ([5 minutes ago](https://www.postonline.co.uk/commercial/7959168/rsa-ends-and-intact-era-begins-with-specialty-lines-plan))
+- RSA ends and Intact era begins with specialty lines plan ([33 minutes ago](https://www.postonline.co.uk/commercial/7959168/rsa-ends-and-intact-era-begins-with-specialty-lines-plan))
 - Reconstructing demand discovery: A framework for human-machine collaboration ([3 hours ago](https://www.dig-in.com/opinion/reconstructing-demand-discovery))
 - Old tech makes it harder for life insurers to deploy AI ([4 hours ago](https://www.dig-in.com/news/old-tech-makes-it-harder-for-life-insurers-to-deploy-ai))
 - A Lost Art: The Submission Letter ([14 hours ago](https://www.insurancejournal.com/blogs/old-republic-surety/2025/10/05/830865.htm))

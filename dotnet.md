@@ -40,7 +40,7 @@ description: DotNet Updates
 - Rider Roadmap: What to Expect From the Upcoming Updates and Releases ([10 days ago](https://blog.jetbrains.com/dotnet/2025/09/25/rider-rider-roadmap-2025-3/))
 - Exploring Text-to-Image capabilities in .NET - .NET Blog ([10 days ago](https://dotnetkicks.com/r/730800?url=https://devblogs.microsoft.com/dotnet/explore-text-to-image-dotnet/))
 - Exploring Text-to-Image capabilities in .NET - .NET Blog ([10 days ago](https://dotnetkicks.com/r/730799?url=https://devblogs.microsoft.com/dotnet/explore-text-to-image-dotnet/))
-- Exploring Text-to-Image capabilities in .NET ([10 days ago](https://devblogs.microsoft.com/dotnet/explore-text-to-image-dotnet/))
+- Exploring Text-to-Image capabilities in .NET ([11 days ago](https://devblogs.microsoft.com/dotnet/explore-text-to-image-dotnet/))
 - CRUD-Sourcing is why Your Event Streams Are Bloated ([11 days ago](https://dotnetkicks.com/r/730772?url=https://codeopinion.com/crud-sourcing-is-why-your-event-streams-are-bloated/))
 - CRUD-Sourcing is why Your Event Streams Are Bloated ([11 days ago](https://dotnetkicks.com/r/730758?url=https://codeopinion.com/crud-sourcing-is-why-your-event-streams-are-bloated/))
 - Little Diary of How JasperFx Helps Our Clients ([11 days ago](https://dotnetkicks.com/r/730658?url=https://jeremydmiller.com/2025/09/23/little-diary-of-how-jasperfx-helps-our-clients/))
