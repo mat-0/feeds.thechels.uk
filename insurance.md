@@ -8,7 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- A Lost Art: The Submission Letter ([3 hours ago](https://www.insurancejournal.com/blogs/old-republic-surety/2025/10/05/830865.htm))
+- A Lost Art: The Submission Letter ([4 hours ago](https://www.insurancejournal.com/blogs/old-republic-surety/2025/10/05/830865.htm))
 - Marine: Stronger Safeguarding Needed For Crew on HIV & Hepatitis ([1 days ago](https://insurance-edge.net/2025/10/04/marine-stronger-safeguarding-needed-for-crew-on-hiv-hepatitis/))
 - California State University Targeted by EEOC Antisemitism Inquiry ([1 days ago](https://www.insurancejournal.com/news/west/2025/10/03/842541.htm))
 - Drone disruption: are aviation insurers ready for the risks? ([1 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/drone-disruption-are-aviation-insurers-ready-for-the-risks-551921.aspx))
@@ -28,8 +28,8 @@ description: Insurance Updates
 - AI must automate required tasks to win underwriter adoption ([1 days ago](https://www.postonline.co.uk/technology/7959172/ai-must-automate-required-tasks-to-win-underwriter-adoption))
 - IFB Launches New Five Year Strategy on Counter Fraud ([1 days ago](https://insurance-edge.net/2025/10/03/ifb-launches-new-five-year-strategy-on-counter-fraud/))
 - Trump Halts $2 Billion for Chicago Transit in Shutdown Play ([1 days ago](https://www.insurancejournal.com/news/midwest/2025/10/03/842401.htm))
-- TWIA’s 2026 reinsurance requirement could decline significantly as Texas eases funding rules ([1 days ago](https://www.reinsurancene.ws/twias-2026-reinsurance-requirement-could-decline-significantly-as-texas-eases-funding-rules/))
-- Large Fire Erupts in Jet Fuel Unit at Chevron’s LA Refinery ([1 days ago](https://www.insurancejournal.com/news/west/2025/10/03/842398.htm))
+- TWIA’s 2026 reinsurance requirement could decline significantly as Texas eases funding rules ([2 days ago](https://www.reinsurancene.ws/twias-2026-reinsurance-requirement-could-decline-significantly-as-texas-eases-funding-rules/))
+- Large Fire Erupts in Jet Fuel Unit at Chevron’s LA Refinery ([2 days ago](https://www.insurancejournal.com/news/west/2025/10/03/842398.htm))
 - Coface expands leadership and presence in Latin America with new hires ([2 days ago](https://www.reinsurancene.ws/coface-expands-leadership-and-presence-in-latin-america-with-new-hires/))
 - Blast Blew 20-Story Chunk Out of Bronx Apartment Building ([2 days ago](https://www.insurancejournal.com/news/east/2025/10/03/842385.htm))
 - Two Delta Jets Collide While Taxiing at New York’s LaGuardia Airport ([2 days ago](https://www.insurancejournal.com/news/east/2025/10/03/842373.htm))
@@ -104,7 +104,7 @@ description: Insurance Updates
 - Newsom explores public insurance subsidy, litigation limits ([3 days ago](https://www.dig-in.com/news/newsom-explores-public-insurance-subsidy-litigation-limits))
 - Ryan Gill Appointed CEO of Bspoke Group as Business Enters New Chapter ([3 days ago](https://www.insurtechinsights.com/ryan-gill-appointed-ceo-of-bspoke-group-as-business-enters-new-chapter/))
 - Former Tempcover execs launch short-term motor insurtech ([3 days ago](https://www.postonline.co.uk/personal/7959152/former-tempcover-execs-launch-short-term-motor-insurtech))
-- Secrets to launching a successful insurtech ([3 days ago](https://www.dig-in.com/podcast/secrets-to-launching-a-successful-insurtech))
+- Secrets to launching a successful insurtech ([4 days ago](https://www.dig-in.com/podcast/secrets-to-launching-a-successful-insurtech))
 - Zurich reveals ‘puzzle pieces’ approach to AI is paying off ([4 days ago](https://www.postonline.co.uk/technology/7959150/zurich-reveals-%E2%80%98puzzle-pieces%E2%80%99-approach-to-ai-is-paying-off))
 - Cloud Lobsters Names Daniel Malmvärn as Chief Executive Officer ([4 days ago](https://www.insurtechinsights.com/cloud-lobsters-names-daniel-malmvarn-as-chief-executive-officer/))
 - Ageas CEO ‘realistic’ on redundancies as Esure and Saga integration begins ([4 days ago](https://www.postonline.co.uk/personal/7959149/ageas-ceo-%E2%80%98realistic%E2%80%99-on-redundancies-as-esure-and-saga-integration-begins))
