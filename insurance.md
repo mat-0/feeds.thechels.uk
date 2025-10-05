@@ -8,7 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Reconstructing demand discovery: A framework for human-machine collaboration ([27 minutes ago](https://www.dig-in.com/opinion/reconstructing-demand-discovery))
+- Reconstructing demand discovery: A framework for human-machine collaboration ([55 minutes ago](https://www.dig-in.com/opinion/reconstructing-demand-discovery))
 - Old tech makes it harder for life insurers to deploy AI ([1 hours ago](https://www.dig-in.com/news/old-tech-makes-it-harder-for-life-insurers-to-deploy-ai))
 - A Lost Art: The Submission Letter ([11 hours ago](https://www.insurancejournal.com/blogs/old-republic-surety/2025/10/05/830865.htm))
 - Marine: Stronger Safeguarding Needed For Crew on HIV & Hepatitis ([1 days ago](https://insurance-edge.net/2025/10/04/marine-stronger-safeguarding-needed-for-crew-on-hiv-hepatitis/))
