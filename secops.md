@@ -8,7 +8,7 @@ description: SecOps News
 [Get this as an RSS feed](/secops.rss)
 
 <!-- news_marker starts -->
-- Hackers exploited Zimbra flaw as zero-day using iCalendar files ([6 hours ago](https://www.bleepingcomputer.com/news/security/hackers-exploited-zimbra-flaw-as-zero-day-using-icalendar-files/))
+- Hackers exploited Zimbra flaw as zero-day using iCalendar files ([7 hours ago](https://www.bleepingcomputer.com/news/security/hackers-exploited-zimbra-flaw-as-zero-day-using-icalendar-files/))
 - ParkMobile pays... $1 each for 2021 data breach that hit 22 million ([9 hours ago](https://www.bleepingcomputer.com/news/security/parkmobile-pays-1-each-for-2021-data-breach-that-hit-22-million/))
 - AI chatbots that butter you up make you worse at conflict, study finds ([10 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/10/05/ai_models_flatter_users_worse_confilict/))
 - Leaked Apple iPad Pro M5 benchmark shows massive improvements ([1 days ago](https://www.bleepingcomputer.com/news/technology/leaked-apple-ipad-pro-m5-benchmark-shows-massive-improvements/))
