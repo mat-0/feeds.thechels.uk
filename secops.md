@@ -9,8 +9,8 @@ description: SecOps News
 
 <!-- news_marker starts -->
 - Leaked Apple iPad Pro M5 benchmark shows massive improvements ([7 hours ago](https://www.bleepingcomputer.com/news/technology/leaked-apple-ipad-pro-m5-benchmark-shows-massive-improvements/))
-- Just days before its data might be leaked, Qantas Airways obtained a permanent injunction ([7 hours ago](https://databreaches.net/2025/10/04/just-days-before-its-data-might-be-leaked-qantas-airways-obtained-a-permanent-injunction/?pk_campaign=feed&pk_kwd=just-days-before-its-data-might-be-leaked-qantas-airways-obtained-a-permanent-injunction))
-- ChatGPT social could be a thing, as leak shows direct messages support ([8 hours ago](https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-social-could-be-a-thing-as-leak-shows-direct-messages-support/))
+- Just days before its data might be leaked, Qantas Airways obtained a permanent injunction ([8 hours ago](https://databreaches.net/2025/10/04/just-days-before-its-data-might-be-leaked-qantas-airways-obtained-a-permanent-injunction/?pk_campaign=feed&pk_kwd=just-days-before-its-data-might-be-leaked-qantas-airways-obtained-a-permanent-injunction))
+- ChatGPT social could be a thing, as leak shows direct messages support ([9 hours ago](https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-social-could-be-a-thing-as-leak-shows-direct-messages-support/))
 - OpenAI rolls out GPT Codex Alpha with early access to new models ([10 hours ago](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-rolls-out-gpt-codex-alpha-with-early-access-to-new-models/))
 - OpenAI wants ChatGPT to be your emotional support ([11 hours ago](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-wants-chatgpt-to-be-your-emotional-support/))
 - OpenAI prepares $4 ChatGPT Go for several new countries ([12 hours ago](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-prepares-4-chatgpt-go-for-several-new-countries/))
@@ -19,7 +19,7 @@ description: SecOps News
 - PowerSchool hit by Salesloft Drift campaign, but hackers claim that there is no risk of harm or ransom ([15 hours ago](https://databreaches.net/2025/10/04/powerschool-hit-by-by-salesloft-drift-campaign-but-hackers-claim-that-there-is-no-risk-or-harm-or-ransom/?pk_campaign=feed&pk_kwd=powerschool-hit-by-by-salesloft-drift-campaign-but-hackers-claim-that-there-is-no-risk-or-harm-or-ransom))
 - Discord discloses data breach after hackers steal support tickets ([16 hours ago](https://www.bleepingcomputer.com/news/security/discord-discloses-data-breach-after-hackers-steal-support-tickets/))
 - Scanning Activity on Palo Alto Networks Portals Jump 500% in One Day ([17 hours ago](https://thehackernews.com/2025/10/scanning-activity-on-palo-alto-networks.html))
-- India's tech talent pipeline is sputtering ([19 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/10/04/india_tech_talent_pipeline/))
+- India's tech talent pipeline is sputtering ([20 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/10/04/india_tech_talent_pipeline/))
 - Artists&Clients - 95,351 breached accounts ([1 days ago](https://haveibeenpwned.com/Breach/ArtistsNClients))
 - Opera wants you to pay $19.90 per month for its new AI browser ([1 days ago](https://www.bleepingcomputer.com/news/artificial-intelligence/opera-wants-you-to-pay-1990-per-month-for-its-new-ai-browser/))
 - Google goes straight to shell with AI command line coding tool ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2025/10/03/google_ai_command_line/))

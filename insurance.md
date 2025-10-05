@@ -8,7 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Marine: Stronger Safeguarding Needed For Crew on HIV & Hepatitis ([17 hours ago](https://insurance-edge.net/2025/10/04/marine-stronger-safeguarding-needed-for-crew-on-hiv-hepatitis/))
+- Marine: Stronger Safeguarding Needed For Crew on HIV & Hepatitis ([18 hours ago](https://insurance-edge.net/2025/10/04/marine-stronger-safeguarding-needed-for-crew-on-hiv-hepatitis/))
 - California State University Targeted by EEOC Antisemitism Inquiry ([1 days ago](https://www.insurancejournal.com/news/west/2025/10/03/842541.htm))
 - Drone disruption: are aviation insurers ready for the risks? ([1 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/drone-disruption-are-aviation-insurers-ready-for-the-risks-551921.aspx))
 - Nudo becomes US casualty segment leader of Aon Reinsurance Solutions ([1 days ago](https://www.reinsurancene.ws/nudo-becomes-us-casualty-segment-leader-of-aon-reinsurance-solutions/))
@@ -64,7 +64,7 @@ description: Insurance Updates
 - Penny Black’s Social Diary: Meshed’s cut-out; S&P’s sliders ([1 days ago](https://www.postonline.co.uk/people/7958967/penny-black%E2%80%99s-social-diary-meshed%E2%80%99s-cut-out-sp%E2%80%99s-sliders))
 - Jaguar Land Rover cyber-attack shows need for state action ([1 days ago](https://www.postonline.co.uk/commercial/7959136/jaguar-land-rover-cyber-attack-shows-need-for-state-action))
 - Report: Businesses push for insurance cover as GenAI risks multiply ([1 days ago](https://www.insurancebusinessmag.com/uk/news/technology/report-businesses-push-for-insurance-cover-as-genai-risks-multiply-551820.aspx))
-- Willis launches market-first parametric policy ([1 days ago](https://www.insurancebusinessmag.com/uk/news/catastrophe/willis-launches-marketfirst-parametric-policy-551819.aspx))
+- Willis launches market-first parametric policy ([2 days ago](https://www.insurancebusinessmag.com/uk/news/catastrophe/willis-launches-marketfirst-parametric-policy-551819.aspx))
 - 'Third key' theft has a new form ([2 days ago](https://www.insurancebusinessmag.com/uk/news/auto-motor/third-key-theft-has-a-new-form-551818.aspx))
 - Beer cyberattack leaves shelves empty ([2 days ago](https://www.insurancebusinessmag.com/uk/news/cyber/beer-cyberattack-leaves-shelves-empty-551817.aspx))
 - Zurich and Liberty back DUAL UK's new regional commercial combined product ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/zurich-and-liberty-back-dual-uks-new-regional-commercial-combined-product-551812.aspx))
@@ -96,7 +96,7 @@ description: Insurance Updates
 - Q&A: Amrit Santhirasenan, Hyperexponential ([2 days ago](https://www.postonline.co.uk/technology/7958143/qa-amrit-santhirasenan-hyperexponential))
 - Aviva champions UK’s embrace of captives ([2 days ago](https://www.postonline.co.uk/commercial/7959147/aviva-champions-uk%E2%80%99s-embrace-of-captives))
 - Throwback Thursday: Willis merger; CII’s coffers concerns ([2 days ago](https://www.postonline.co.uk/people/7956770/throwback-thursday-willis-merger-cii%E2%80%99s-coffers-concerns))
-- Insurance moves: Insurwave, HDI, AXIS, Aegis London and Lazard ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/insurance-moves-insurwave-hdi-axis-aegis-london-and-lazard-551676.aspx))
+- Insurance moves: Insurwave, HDI, AXIS, Aegis London and Lazard ([3 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/insurance-moves-insurwave-hdi-axis-aegis-london-and-lazard-551676.aspx))
 - Brunel PI Brokers launches specialist tech brokerage ([3 days ago](https://www.insurancebusinessmag.com/uk/news/technology/brunel-pi-brokers-launches-specialist-tech-brokerage-551673.aspx))
 - Hippo appoints new chief data officer; insurtech partnerships: Insurance news ([3 days ago](https://www.dig-in.com/news/hippo-appoints-new-chief-data-officer-insurance-news))
 - GHSA and CMT: Predictive data to reduce crash risks ([3 days ago](https://www.dig-in.com/news/ghsa-and-cmt-predictive-data-to-reduce-crash-risks))
