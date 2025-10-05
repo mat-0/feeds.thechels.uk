@@ -8,7 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- A Lost Art: The Submission Letter ([4 hours ago](https://www.insurancejournal.com/blogs/old-republic-surety/2025/10/05/830865.htm))
+- A Lost Art: The Submission Letter ([5 hours ago](https://www.insurancejournal.com/blogs/old-republic-surety/2025/10/05/830865.htm))
 - Marine: Stronger Safeguarding Needed For Crew on HIV & Hepatitis ([1 days ago](https://insurance-edge.net/2025/10/04/marine-stronger-safeguarding-needed-for-crew-on-hiv-hepatitis/))
 - California State University Targeted by EEOC Antisemitism Inquiry ([1 days ago](https://www.insurancejournal.com/news/west/2025/10/03/842541.htm))
 - Drone disruption: are aviation insurers ready for the risks? ([1 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/drone-disruption-are-aviation-insurers-ready-for-the-risks-551921.aspx))
@@ -78,7 +78,7 @@ description: Insurance Updates
 - Long-term participants have an edge in ‘challenging’ PI market ([2 days ago](https://www.postonline.co.uk/commercial/7959162/long-term-participants-have-an-edge-in-%E2%80%98challenging%E2%80%99-pi-market))
 - Novacore to Acquire Minglewood Risk, Expanding Real Estate Insurance Segment ([2 days ago](https://www.insurtechinsights.com/novacore-to-acquire-minglewood-risk-expanding-real-estate-insurance-segment/))
 - AI agents tackle abandonment in digital insurance sales ([2 days ago](https://www.postonline.co.uk/technology/7959134/ai-agents-tackle-abandonment-in-digital-insurance-sales))
-- Sixfold Launches Referral Agent to Transform Underwriting with AI-Driven Action ([2 days ago](https://www.insurtechinsights.com/sixfold-launches-referral-agent-to-transform-underwriting-with-ai-driven-action/))
+- Sixfold Launches Referral Agent to Transform Underwriting with AI-Driven Action ([3 days ago](https://www.insurtechinsights.com/sixfold-launches-referral-agent-to-transform-underwriting-with-ai-driven-action/))
 - IFB expanding into new lines with five-year strategy ([3 days ago](https://www.postonline.co.uk/news/7959109/ifb-to-delve-into-new-lines-with-new-five-year-strategy))
 - Beyond borders: Inside Aviva's unified Global Risk Management Solutions ([3 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/beyond-borders-inside-avivas-unified-global-risk-management-solutions-550526.aspx))
 - The hidden killer in our schools and hospitals: DOA Underwriting funds fight against asbestos ([3 days ago](https://www.insurancebusinessmag.com/uk/news/non-profits/the-hidden-killer-in-our-schools-and-hospitals-doa-underwriting-funds-fight-against-asbestos-551730.aspx))
