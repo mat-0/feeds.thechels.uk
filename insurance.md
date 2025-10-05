@@ -8,7 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Marine: Stronger Safeguarding Needed For Crew on HIV & Hepatitis ([20 hours ago](https://insurance-edge.net/2025/10/04/marine-stronger-safeguarding-needed-for-crew-on-hiv-hepatitis/))
+- Marine: Stronger Safeguarding Needed For Crew on HIV & Hepatitis ([21 hours ago](https://insurance-edge.net/2025/10/04/marine-stronger-safeguarding-needed-for-crew-on-hiv-hepatitis/))
 - California State University Targeted by EEOC Antisemitism Inquiry ([1 days ago](https://www.insurancejournal.com/news/west/2025/10/03/842541.htm))
 - Drone disruption: are aviation insurers ready for the risks? ([1 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/drone-disruption-are-aviation-insurers-ready-for-the-risks-551921.aspx))
 - Nudo becomes US casualty segment leader of Aon Reinsurance Solutions ([1 days ago](https://www.reinsurancene.ws/nudo-becomes-us-casualty-segment-leader-of-aon-reinsurance-solutions/))
@@ -53,10 +53,10 @@ description: Insurance Updates
 - Yemen’s Houthi Rebels Claim Missile Attack on Dutch-Flagged Ship in Gulf of Aden ([1 days ago](https://www.insurancejournal.com/news/international/2025/10/03/842347.htm))
 - Update: Munich Airport Disruptions Ease After Drones Halt Flights ([1 days ago](https://www.insurancejournal.com/news/international/2025/10/03/842338.htm))
 - Brokerslink welcomes Afkoma as first Icelandic member, expanding Nordic reach ([1 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/brokerslink-welcomes-afkoma-as-first-icelandic-member-expanding-nordic-reach-551859.aspx))
-- Kansas Sues Snapchat for Deceptive Practices ([1 days ago](https://www.insurancejournal.com/news/midwest/2025/10/03/842278.htm))
-- People Moves: USG Names Hernandez as Underwriter in Texas Office ([1 days ago](https://www.insurancejournal.com/news/southcentral/2025/10/03/842266.htm))
-- Louisiana Farm Bureau Approved for Double-Digit Auto Rate Decrease ([1 days ago](https://www.insurancejournal.com/news/southcentral/2025/10/03/842270.htm))
-- Transport sector faces rising reputational risks as cyber and environmental pressures mount ([1 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/transport-sector-faces-rising-reputational-risks-as-cyber-and-environmental-pressures-mount-551842.aspx))
+- Kansas Sues Snapchat for Deceptive Practices ([2 days ago](https://www.insurancejournal.com/news/midwest/2025/10/03/842278.htm))
+- People Moves: USG Names Hernandez as Underwriter in Texas Office ([2 days ago](https://www.insurancejournal.com/news/southcentral/2025/10/03/842266.htm))
+- Louisiana Farm Bureau Approved for Double-Digit Auto Rate Decrease ([2 days ago](https://www.insurancejournal.com/news/southcentral/2025/10/03/842270.htm))
+- Transport sector faces rising reputational risks as cyber and environmental pressures mount ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/transport-sector-faces-rising-reputational-risks-as-cyber-and-environmental-pressures-mount-551842.aspx))
 - Viewpoint: Avoid Data Indigestion With Harmonization ([2 days ago](https://www.insurancejournal.com/news/national/2025/10/03/840469.htm))
 - Brown & Brown Announces Roles Related to Risk Strategies Integration ([2 days ago](https://www.insurancejournal.com/news/national/2025/10/03/842297.htm))
 - Florida Reforms Are Truly Making a Difference, Gallagher Re Report Finds ([2 days ago](https://www.insurancejournal.com/news/southeast/2025/10/03/842330.htm))
