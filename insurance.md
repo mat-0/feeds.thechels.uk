@@ -8,7 +8,8 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- A Lost Art: The Submission Letter ([9 hours ago](https://www.insurancejournal.com/blogs/old-republic-surety/2025/10/05/830865.htm))
+- Old tech makes it harder for life insurers to deploy AI ([6 minutes ago](https://www.dig-in.com/news/old-tech-makes-it-harder-for-life-insurers-to-deploy-ai))
+- A Lost Art: The Submission Letter ([10 hours ago](https://www.insurancejournal.com/blogs/old-republic-surety/2025/10/05/830865.htm))
 - Marine: Stronger Safeguarding Needed For Crew on HIV & Hepatitis ([1 days ago](https://insurance-edge.net/2025/10/04/marine-stronger-safeguarding-needed-for-crew-on-hiv-hepatitis/))
 - California State University Targeted by EEOC Antisemitism Inquiry ([2 days ago](https://www.insurancejournal.com/news/west/2025/10/03/842541.htm))
 - Drone disruption: are aviation insurers ready for the risks? ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/drone-disruption-are-aviation-insurers-ready-for-the-risks-551921.aspx))
@@ -120,7 +121,6 @@ description: Insurance Updates
 - Ambac Financial Group to Acquire ArmadaCare for $250 Million ([5 days ago](https://www.insurtechinsights.com/ambac-financial-group-to-acquire-armadacare-for-250-million/))
 - Large orgs represent only 2% of cyber claims, but 51% of costs ([5 days ago](https://www.dig-in.com/news/large-orgs-are-only-2-of-cyber-claims-but-51-of-costs))
 - Ageas Completes £1.3 Billion Acquisition of esure ([5 days ago](https://www.insurtechinsights.com/ageas-completes-1-3-billion-acquisition-of-esure/))
-- The critical role of employee benefits in facilitating financial security ([5 days ago](https://www.dig-in.com/opinion/the-critical-role-of-employee-benefits-in-facilitating-financial-security))
 - £447m life insurance boom as families prepare for pensions to face 40% IHT ([6 days ago](https://ifamagazine.com/447m-life-insurance-boom-as-families-prepare-for-pensions-to-face-40-iht/))
 - Income Protection Action Week: building resilience in uncertain times ([9 days ago](https://ifamagazine.com/income-protection-action-week-building-resilience-in-uncertain-times/))
 - Income Protection Action Week: growing the protection market ([9 days ago](https://ifamagazine.com/income-protection-action-week-growing-the-protection-market/))
