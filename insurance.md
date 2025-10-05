@@ -8,10 +8,10 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- A Lost Art: The Submission Letter ([8 hours ago](https://www.insurancejournal.com/blogs/old-republic-surety/2025/10/05/830865.htm))
+- A Lost Art: The Submission Letter ([9 hours ago](https://www.insurancejournal.com/blogs/old-republic-surety/2025/10/05/830865.htm))
 - Marine: Stronger Safeguarding Needed For Crew on HIV & Hepatitis ([1 days ago](https://insurance-edge.net/2025/10/04/marine-stronger-safeguarding-needed-for-crew-on-hiv-hepatitis/))
-- California State University Targeted by EEOC Antisemitism Inquiry ([1 days ago](https://www.insurancejournal.com/news/west/2025/10/03/842541.htm))
-- Drone disruption: are aviation insurers ready for the risks? ([1 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/drone-disruption-are-aviation-insurers-ready-for-the-risks-551921.aspx))
+- California State University Targeted by EEOC Antisemitism Inquiry ([2 days ago](https://www.insurancejournal.com/news/west/2025/10/03/842541.htm))
+- Drone disruption: are aviation insurers ready for the risks? ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/drone-disruption-are-aviation-insurers-ready-for-the-risks-551921.aspx))
 - Nudo becomes US casualty segment leader of Aon Reinsurance Solutions ([2 days ago](https://www.reinsurancene.ws/nudo-becomes-us-casualty-segment-leader-of-aon-reinsurance-solutions/))
 - OpenAI Says Musk’s xAI Filed Secrets Suit to ‘Bully’ Ex-Workers ([2 days ago](https://www.insurancejournal.com/news/national/2025/10/03/842529.htm))
 - White Mountains Insurance to Sell Unit to CVC in $1.75 Billion Deal ([2 days ago](https://www.insurancejournal.com/news/national/2025/10/03/842524.htm))
