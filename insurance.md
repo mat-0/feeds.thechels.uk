@@ -63,7 +63,7 @@ description: Insurance Updates
 - Georgia High Court Sides with Slave Descendants on Island Zoning Changes ([1 days ago](https://www.insurancejournal.com/news/southeast/2025/10/03/842309.htm))
 - Penny Black’s Social Diary: Meshed’s cut-out; S&P’s sliders ([1 days ago](https://www.postonline.co.uk/people/7958967/penny-black%E2%80%99s-social-diary-meshed%E2%80%99s-cut-out-sp%E2%80%99s-sliders))
 - Jaguar Land Rover cyber-attack shows need for state action ([1 days ago](https://www.postonline.co.uk/commercial/7959136/jaguar-land-rover-cyber-attack-shows-need-for-state-action))
-- Report: Businesses push for insurance cover as GenAI risks multiply ([1 days ago](https://www.insurancebusinessmag.com/uk/news/technology/report-businesses-push-for-insurance-cover-as-genai-risks-multiply-551820.aspx))
+- Report: Businesses push for insurance cover as GenAI risks multiply ([2 days ago](https://www.insurancebusinessmag.com/uk/news/technology/report-businesses-push-for-insurance-cover-as-genai-risks-multiply-551820.aspx))
 - Willis launches market-first parametric policy ([2 days ago](https://www.insurancebusinessmag.com/uk/news/catastrophe/willis-launches-marketfirst-parametric-policy-551819.aspx))
 - 'Third key' theft has a new form ([2 days ago](https://www.insurancebusinessmag.com/uk/news/auto-motor/third-key-theft-has-a-new-form-551818.aspx))
 - Beer cyberattack leaves shelves empty ([2 days ago](https://www.insurancebusinessmag.com/uk/news/cyber/beer-cyberattack-leaves-shelves-empty-551817.aspx))
