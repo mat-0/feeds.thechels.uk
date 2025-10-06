@@ -8,10 +8,10 @@ description: SecOps News
 [Get this as an RSS feed](/secops.rss)
 
 <!-- news_marker starts -->
-- Oracle patches EBS zero-day exploited in Clop data theft attacks ([2 hours ago](https://www.bleepingcomputer.com/news/security/oracle-patches-ebs-zero-day-exploited-in-clop-data-theft-attacks/))
+- Oracle patches EBS zero-day exploited in Clop data theft attacks ([3 hours ago](https://www.bleepingcomputer.com/news/security/oracle-patches-ebs-zero-day-exploited-in-clop-data-theft-attacks/))
 - Hackers exploited Zimbra flaw as zero-day using iCalendar files ([13 hours ago](https://www.bleepingcomputer.com/news/security/hackers-exploited-zimbra-flaw-as-zero-day-using-icalendar-files/))
-- ParkMobile pays... $1 each for 2021 data breach that hit 22 million ([15 hours ago](https://www.bleepingcomputer.com/news/security/parkmobile-pays-1-each-for-2021-data-breach-that-hit-22-million/))
-- AI chatbots that butter you up make you worse at conflict, study finds ([16 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/10/05/ai_models_flatter_users_worse_confilict/))
+- ParkMobile pays... $1 each for 2021 data breach that hit 22 million ([16 hours ago](https://www.bleepingcomputer.com/news/security/parkmobile-pays-1-each-for-2021-data-breach-that-hit-22-million/))
+- AI chatbots that butter you up make you worse at conflict, study finds ([17 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/10/05/ai_models_flatter_users_worse_confilict/))
 - Leaked Apple iPad Pro M5 benchmark shows massive improvements ([1 days ago](https://www.bleepingcomputer.com/news/technology/leaked-apple-ipad-pro-m5-benchmark-shows-massive-improvements/))
 - Just days before its data might be leaked, Qantas Airways obtained a permanent injunction ([1 days ago](https://databreaches.net/2025/10/04/just-days-before-its-data-might-be-leaked-qantas-airways-obtained-a-permanent-injunction/?pk_campaign=feed&pk_kwd=just-days-before-its-data-might-be-leaked-qantas-airways-obtained-a-permanent-injunction))
 - ChatGPT social could be a thing, as leak shows direct messages support ([1 days ago](https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-social-could-be-a-thing-as-leak-shows-direct-messages-support/))

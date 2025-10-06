@@ -8,10 +8,10 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- LIIBA warns failure to back brokers could widen $2.5T protection gap ([2 hours ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/liiba-warns-failure-to-back-brokers-could-widen-2-5t-protection-gap-551957.aspx))
+- LIIBA warns failure to back brokers could widen $2.5T protection gap ([3 hours ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/liiba-warns-failure-to-back-brokers-could-widen-2-5t-protection-gap-551957.aspx))
 - Allianz Commercial names new UK regional head of liability ([3 hours ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/allianz-commercial-names-new-uk-regional-head-of-liability-551955.aspx))
 - RSA and NIG rebrand to Intact Insurance ([3 hours ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/rsa-and-nig-rebrand-to-intact-insurance-551954.aspx))
-- UK insurance broking M&A activity rises in September ([3 hours ago](https://www.insurancebusinessmag.com/uk/news/mergers-acquisitions/uk-insurance-broking-manda-activity-rises-in-september-551953.aspx))
+- UK insurance broking M&A activity rises in September ([4 hours ago](https://www.insurancebusinessmag.com/uk/news/mergers-acquisitions/uk-insurance-broking-manda-activity-rises-in-september-551953.aspx))
 - Mutual Growth Strategy: Northern Neck Insurance to Acquire Frederick Mutual ([4 hours ago](https://www.insurancejournal.com/magazines/mag-features/2025/10/06/842449.htm))
 - Two High-Profile Personal Injury Law Firms Sue… Each Other ([4 hours ago](https://www.insurancejournal.com/magazines/mag-features/2025/10/06/842448.htm))
 - Exclusive Member of Reinsurance Class of 2025: Duperreault’s Cedar Trace ([4 hours ago](https://www.insurancejournal.com/magazines/mag-features/2025/10/06/842446.htm))
@@ -70,7 +70,7 @@ description: Insurance Updates
 - Transport sector faces rising reputational risks as cyber and environmental pressures mount ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/transport-sector-faces-rising-reputational-risks-as-cyber-and-environmental-pressures-mount-551842.aspx))
 - Penny Black’s Social Diary: Meshed’s cut-out; S&P’s sliders ([2 days ago](https://www.postonline.co.uk/people/7958967/penny-black%E2%80%99s-social-diary-meshed%E2%80%99s-cut-out-sp%E2%80%99s-sliders))
 - Jaguar Land Rover cyber-attack shows need for state action ([2 days ago](https://www.postonline.co.uk/commercial/7959136/jaguar-land-rover-cyber-attack-shows-need-for-state-action))
-- Report: Businesses push for insurance cover as GenAI risks multiply ([2 days ago](https://www.insurancebusinessmag.com/uk/news/technology/report-businesses-push-for-insurance-cover-as-genai-risks-multiply-551820.aspx))
+- Report: Businesses push for insurance cover as GenAI risks multiply ([3 days ago](https://www.insurancebusinessmag.com/uk/news/technology/report-businesses-push-for-insurance-cover-as-genai-risks-multiply-551820.aspx))
 - Willis launches market-first parametric policy ([3 days ago](https://www.insurancebusinessmag.com/uk/news/catastrophe/willis-launches-marketfirst-parametric-policy-551819.aspx))
 - 'Third key' theft has a new form ([3 days ago](https://www.insurancebusinessmag.com/uk/news/auto-motor/third-key-theft-has-a-new-form-551818.aspx))
 - Beer cyberattack leaves shelves empty ([3 days ago](https://www.insurancebusinessmag.com/uk/news/cyber/beer-cyberattack-leaves-shelves-empty-551817.aspx))
