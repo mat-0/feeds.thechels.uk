@@ -8,9 +8,9 @@ description: SecOps News
 [Get this as an RSS feed](/secops.rss)
 
 <!-- news_marker starts -->
-- Hackers exploited Zimbra flaw as zero-day using iCalendar files ([9 hours ago](https://www.bleepingcomputer.com/news/security/hackers-exploited-zimbra-flaw-as-zero-day-using-icalendar-files/))
+- Hackers exploited Zimbra flaw as zero-day using iCalendar files ([10 hours ago](https://www.bleepingcomputer.com/news/security/hackers-exploited-zimbra-flaw-as-zero-day-using-icalendar-files/))
 - ParkMobile pays... $1 each for 2021 data breach that hit 22 million ([12 hours ago](https://www.bleepingcomputer.com/news/security/parkmobile-pays-1-each-for-2021-data-breach-that-hit-22-million/))
-- AI chatbots that butter you up make you worse at conflict, study finds ([12 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/10/05/ai_models_flatter_users_worse_confilict/))
+- AI chatbots that butter you up make you worse at conflict, study finds ([13 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/10/05/ai_models_flatter_users_worse_confilict/))
 - Leaked Apple iPad Pro M5 benchmark shows massive improvements ([1 days ago](https://www.bleepingcomputer.com/news/technology/leaked-apple-ipad-pro-m5-benchmark-shows-massive-improvements/))
 - Just days before its data might be leaked, Qantas Airways obtained a permanent injunction ([1 days ago](https://databreaches.net/2025/10/04/just-days-before-its-data-might-be-leaked-qantas-airways-obtained-a-permanent-injunction/?pk_campaign=feed&pk_kwd=just-days-before-its-data-might-be-leaked-qantas-airways-obtained-a-permanent-injunction))
 - ChatGPT social could be a thing, as leak shows direct messages support ([1 days ago](https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-social-could-be-a-thing-as-leak-shows-direct-messages-support/))
@@ -60,7 +60,7 @@ description: SecOps News
 - HomeRefill - 187,457 breached accounts ([2 days ago](https://haveibeenpwned.com/Breach/HomeRefill))
 - Incident with Copilot ([2 days ago](https://www.githubstatus.com/incidents/34wtrn4nngwk))
 - Latest Pilot Jobs - 118,864 breached accounts ([2 days ago](https://haveibeenpwned.com/Breach/LatestPilotJobs))
-- Flagstar Agrees to $31.5 Million Deal in Accellion-Breach Suit ([2 days ago](https://databreaches.net/2025/10/02/flagstar-agrees-to-31-5-million-deal-in-accellion-breach-suit/?pk_campaign=feed&pk_kwd=flagstar-agrees-to-31-5-million-deal-in-accellion-breach-suit))
+- Flagstar Agrees to $31.5 Million Deal in Accellion-Breach Suit ([3 days ago](https://databreaches.net/2025/10/02/flagstar-agrees-to-31-5-million-deal-in-accellion-breach-suit/?pk_campaign=feed&pk_kwd=flagstar-agrees-to-31-5-million-deal-in-accellion-breach-suit))
 - The Identity Theft Resource Center Remains Open to Victims Amid Government Shutdown ([3 days ago](https://databreaches.net/2025/10/02/the-identity-theft-resource-center-remains-open-to-victims-amid-government-shutdown/?pk_campaign=feed&pk_kwd=the-identity-theft-resource-center-remains-open-to-victims-amid-government-shutdown))
 - Clop extortion emails claim theft of Oracle E-Business Suite data ([3 days ago](https://databreaches.net/2025/10/02/clop-extortion-emails-claim-theft-of-oracle-e-business-suite-data/?pk_campaign=feed&pk_kwd=clop-extortion-emails-claim-theft-of-oracle-e-business-suite-data))
 - Legal Practice Board of Western Australia begins notifying data breach victims ([3 days ago](https://databreaches.net/2025/10/02/legal-practice-board-of-western-australia-begins-notifying-data-breach-victims/?pk_campaign=feed&pk_kwd=legal-practice-board-of-western-australia-begins-notifying-data-breach-victims))
