@@ -8,10 +8,9 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- 9 ReSharper Features Every .NET Developer Should Know ([32 minutes ago](https://blog.jetbrains.com/dotnet/2025/10/06/9-resharper-features-every-dotnet-developer-should-know/))
-- dotInsights  -  October 2025 ([4 hours ago](https://blog.jetbrains.com/dotnet/2025/10/06/dotinsights-october-2025/))
+- dotInsights  -  October 2025 ([5 hours ago](https://blog.jetbrains.com/dotnet/2025/10/06/dotinsights-october-2025/))
 - ReSharper and Rider 2025.2.3: The Third Set of Updates Released ([5 hours ago](https://blog.jetbrains.com/dotnet/2025/10/06/resharper-and-rider-2025-2-3/))
-- F# Weekly #40, 2025 - Microsoft Agent Framework (Preview) ([20 hours ago](https://dotnetkicks.com/r/731636?url=https://sergeytihon.com/2025/10/04/f-weekly-40-2025-microsoft-agent-framework-preview/))
+- F# Weekly #40, 2025 - Microsoft Agent Framework (Preview) ([21 hours ago](https://dotnetkicks.com/r/731636?url=https://sergeytihon.com/2025/10/04/f-weekly-40-2025-microsoft-agent-framework-preview/))
 - Boost Your .NET Projects: Secure Passwords with PBKDF2PasswordHasher in Spargine ([1 days ago](https://dotnettips.wordpress.com/2025/10/05/boost-your-net-projects-secure-passwords-with-pbkdf2passwordhasher-in-spargine/))
 - Cake v5.1.0 released ([1 days ago](https://dotnetkicks.com/r/731623?url=https://cakebuild.net/blog/2025/10/cake-v5.1.0-released))
 - Roadmap for AI in Visual Studio (October) - Visual Studio Blog ([2 days ago](https://dotnetkicks.com/r/731595?url=https://devblogs.microsoft.com/visualstudio/roadmap-for-ai-in-visual-studio-october/))
@@ -39,7 +38,7 @@ description: DotNet Updates
 - Announcing Aspire 9.5 - .NET Blog ([10 days ago](https://dotnetkicks.com/r/730976?url=https://devblogs.microsoft.com/dotnet/announcing-dotnet-aspire-95/))
 - Announcing Aspire 9.5 - .NET Blog ([10 days ago](https://dotnetkicks.com/r/730958?url=https://devblogs.microsoft.com/dotnet/announcing-dotnet-aspire-95/))
 - Announcing Aspire 9.5 ([10 days ago](https://devblogs.microsoft.com/dotnet/announcing-dotnet-aspire-95/))
-- Lance McCarthy on CoPilot & MCP Servers ([10 days ago](https://dotnetkicks.com/r/730936?url=https://jesseliberty.com/2025/09/25/lance-mccarthy-on-copilot-mcp-servers/))
+- Lance McCarthy on CoPilot & MCP Servers ([11 days ago](https://dotnetkicks.com/r/730936?url=https://jesseliberty.com/2025/09/25/lance-mccarthy-on-copilot-mcp-servers/))
 - Rider Roadmap: What to Expect From the Upcoming Updates and Releases ([11 days ago](https://blog.jetbrains.com/dotnet/2025/09/25/rider-rider-roadmap-2025-3/))
 - Exploring Text-to-Image capabilities in .NET - .NET Blog ([11 days ago](https://dotnetkicks.com/r/730800?url=https://devblogs.microsoft.com/dotnet/explore-text-to-image-dotnet/))
 - Exploring Text-to-Image capabilities in .NET - .NET Blog ([11 days ago](https://dotnetkicks.com/r/730799?url=https://devblogs.microsoft.com/dotnet/explore-text-to-image-dotnet/))
