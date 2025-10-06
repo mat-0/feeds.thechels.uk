@@ -9,7 +9,7 @@ description: DotNet Updates
 
 <!-- news_marker starts -->
 - dotInsights  -  October 2025 ([2 hours ago](https://blog.jetbrains.com/dotnet/2025/10/06/dotinsights-october-2025/))
-- ReSharper and Rider 2025.2.3: The Third Set of Updates Released ([2 hours ago](https://blog.jetbrains.com/dotnet/2025/10/06/resharper-and-rider-2025-2-3/))
+- ReSharper and Rider 2025.2.3: The Third Set of Updates Released ([3 hours ago](https://blog.jetbrains.com/dotnet/2025/10/06/resharper-and-rider-2025-2-3/))
 - F# Weekly #40, 2025 - Microsoft Agent Framework (Preview) ([18 hours ago](https://dotnetkicks.com/r/731636?url=https://sergeytihon.com/2025/10/04/f-weekly-40-2025-microsoft-agent-framework-preview/))
 - Boost Your .NET Projects: Secure Passwords with PBKDF2PasswordHasher in Spargine ([1 days ago](https://dotnettips.wordpress.com/2025/10/05/boost-your-net-projects-secure-passwords-with-pbkdf2passwordhasher-in-spargine/))
 - Cake v5.1.0 released ([1 days ago](https://dotnetkicks.com/r/731623?url=https://cakebuild.net/blog/2025/10/cake-v5.1.0-released))
@@ -59,7 +59,7 @@ description: DotNet Updates
 - Application Insights Code Optimizations for .NET Apps ([20 days ago](https://devblogs.microsoft.com/dotnet/application-insights-code-optimizations/))
 - GameDev Day 2025 Is Back in October! ([21 days ago](https://blog.jetbrains.com/dotnet/2025/09/15/gamedev-day-2025-is-back-in-october/))
 - Boost Your .NET Projects: Ensure Thread-Safe Uniqueness with DistinctConcurrentBag in Spargine ([22 days ago](https://dotnettips.wordpress.com/2025/09/14/boost-your-net-projects-ensure-thread-safe-uniqueness-with-distinctconcurrentbag-in-spargine/))
-- Performance Improvements in .NET 10 ([25 days ago](https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-10/))
+- Performance Improvements in .NET 10 ([26 days ago](https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-10/))
 - Announcing .NET 10 Release Candidate 1 ([26 days ago](https://devblogs.microsoft.com/dotnet/dotnet-10-rc-1/))
 - Packaging self-contained and native AOT .NET tools for NuGet: Exploring the .NET 10 preview - Part 7 ([27 days ago](https://andrewlock.net/exploring-dotnet-10-preview-features-7-packaging-self-contained-and-native-aot-dotnet-tools-for-nuget/))
 - Boost Your .NET Projects: Efficient Byte Array Conversions ([29 days ago](https://dotnettips.wordpress.com/2025/09/07/boost-your-net-projects-efficient-byte-array-conversions/))
