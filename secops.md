@@ -8,10 +8,10 @@ description: SecOps News
 [Get this as an RSS feed](/secops.rss)
 
 <!-- news_marker starts -->
-- Oracle patches EBS zero-day exploited in Clop data theft attacks ([1 hours ago](https://www.bleepingcomputer.com/news/security/oracle-patches-ebs-zero-day-exploited-in-clop-data-theft-attacks/))
-- Hackers exploited Zimbra flaw as zero-day using iCalendar files ([12 hours ago](https://www.bleepingcomputer.com/news/security/hackers-exploited-zimbra-flaw-as-zero-day-using-icalendar-files/))
+- Oracle patches EBS zero-day exploited in Clop data theft attacks ([2 hours ago](https://www.bleepingcomputer.com/news/security/oracle-patches-ebs-zero-day-exploited-in-clop-data-theft-attacks/))
+- Hackers exploited Zimbra flaw as zero-day using iCalendar files ([13 hours ago](https://www.bleepingcomputer.com/news/security/hackers-exploited-zimbra-flaw-as-zero-day-using-icalendar-files/))
 - ParkMobile pays... $1 each for 2021 data breach that hit 22 million ([15 hours ago](https://www.bleepingcomputer.com/news/security/parkmobile-pays-1-each-for-2021-data-breach-that-hit-22-million/))
-- AI chatbots that butter you up make you worse at conflict, study finds ([15 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/10/05/ai_models_flatter_users_worse_confilict/))
+- AI chatbots that butter you up make you worse at conflict, study finds ([16 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/10/05/ai_models_flatter_users_worse_confilict/))
 - Leaked Apple iPad Pro M5 benchmark shows massive improvements ([1 days ago](https://www.bleepingcomputer.com/news/technology/leaked-apple-ipad-pro-m5-benchmark-shows-massive-improvements/))
 - Just days before its data might be leaked, Qantas Airways obtained a permanent injunction ([1 days ago](https://databreaches.net/2025/10/04/just-days-before-its-data-might-be-leaked-qantas-airways-obtained-a-permanent-injunction/?pk_campaign=feed&pk_kwd=just-days-before-its-data-might-be-leaked-qantas-airways-obtained-a-permanent-injunction))
 - ChatGPT social could be a thing, as leak shows direct messages support ([1 days ago](https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-social-could-be-a-thing-as-leak-shows-direct-messages-support/))
@@ -58,7 +58,7 @@ description: SecOps News
 - Red Hat Confirms GitLab Instance Hack, Data Theft ([2 days ago](https://www.securityweek.com/red-hat-confirms-gitlab-instance-hack-data-theft/))
 - Energy drink company punished ERP graybeard for going too fast ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2025/10/03/on_call/))
 - HomeRefill - 187,457 breached accounts ([2 days ago](https://haveibeenpwned.com/Breach/HomeRefill))
-- Incident with Copilot ([2 days ago](https://www.githubstatus.com/incidents/34wtrn4nngwk))
+- Incident with Copilot ([3 days ago](https://www.githubstatus.com/incidents/34wtrn4nngwk))
 - Latest Pilot Jobs - 118,864 breached accounts ([3 days ago](https://haveibeenpwned.com/Breach/LatestPilotJobs))
 - Flagstar Agrees to $31.5 Million Deal in Accellion-Breach Suit ([3 days ago](https://databreaches.net/2025/10/02/flagstar-agrees-to-31-5-million-deal-in-accellion-breach-suit/?pk_campaign=feed&pk_kwd=flagstar-agrees-to-31-5-million-deal-in-accellion-breach-suit))
 - The Identity Theft Resource Center Remains Open to Victims Amid Government Shutdown ([3 days ago](https://databreaches.net/2025/10/02/the-identity-theft-resource-center-remains-open-to-victims-amid-government-shutdown/?pk_campaign=feed&pk_kwd=the-identity-theft-resource-center-remains-open-to-victims-amid-government-shutdown))

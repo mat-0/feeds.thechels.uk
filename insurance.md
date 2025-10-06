@@ -8,7 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- LIIBA warns failure to back brokers could widen $2.5T protection gap ([1 hours ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/liiba-warns-failure-to-back-brokers-could-widen-2-5t-protection-gap-551957.aspx))
+- LIIBA warns failure to back brokers could widen $2.5T protection gap ([2 hours ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/liiba-warns-failure-to-back-brokers-could-widen-2-5t-protection-gap-551957.aspx))
 - Allianz Commercial names new UK regional head of liability ([2 hours ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/allianz-commercial-names-new-uk-regional-head-of-liability-551955.aspx))
 - RSA and NIG rebrand to Intact Insurance ([2 hours ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/rsa-and-nig-rebrand-to-intact-insurance-551954.aspx))
 - UK insurance broking M&A activity rises in September ([3 hours ago](https://www.insurancebusinessmag.com/uk/news/mergers-acquisitions/uk-insurance-broking-manda-activity-rises-in-september-551953.aspx))
@@ -38,7 +38,7 @@ description: Insurance Updates
 - Cleary Insurance: Supportive, Family Atmosphere That Puts Employees and Clients First ([3 hours ago](https://www.insurancejournal.com/magazines/mag-features/2025/10/06/842421.htm))
 - Texas Insurer New Century Placed in Receivership and Liquidation ([3 hours ago](https://www.insurancejournal.com/magazines/mag-features/2025/10/06/842420.htm))
 - RSA ends and Intact era begins with specialty lines plan ([4 hours ago](https://www.postonline.co.uk/commercial/7959168/rsa-ends-and-intact-era-begins-with-specialty-lines-plan))
-- Reconstructing demand discovery: A framework for human-machine collaboration ([7 hours ago](https://www.dig-in.com/opinion/reconstructing-demand-discovery))
+- Reconstructing demand discovery: A framework for human-machine collaboration ([8 hours ago](https://www.dig-in.com/opinion/reconstructing-demand-discovery))
 - Old tech makes it harder for life insurers to deploy AI ([8 hours ago](https://www.dig-in.com/news/old-tech-makes-it-harder-for-life-insurers-to-deploy-ai))
 - Marine: Stronger Safeguarding Needed For Crew on HIV & Hepatitis ([1 days ago](https://insurance-edge.net/2025/10/04/marine-stronger-safeguarding-needed-for-crew-on-hiv-hepatitis/))
 - Drone disruption: are aviation insurers ready for the risks? ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/drone-disruption-are-aviation-insurers-ready-for-the-risks-551921.aspx))
@@ -72,8 +72,8 @@ description: Insurance Updates
 - Jaguar Land Rover cyber-attack shows need for state action ([2 days ago](https://www.postonline.co.uk/commercial/7959136/jaguar-land-rover-cyber-attack-shows-need-for-state-action))
 - Report: Businesses push for insurance cover as GenAI risks multiply ([2 days ago](https://www.insurancebusinessmag.com/uk/news/technology/report-businesses-push-for-insurance-cover-as-genai-risks-multiply-551820.aspx))
 - Willis launches market-first parametric policy ([2 days ago](https://www.insurancebusinessmag.com/uk/news/catastrophe/willis-launches-marketfirst-parametric-policy-551819.aspx))
-- 'Third key' theft has a new form ([2 days ago](https://www.insurancebusinessmag.com/uk/news/auto-motor/third-key-theft-has-a-new-form-551818.aspx))
-- Beer cyberattack leaves shelves empty ([2 days ago](https://www.insurancebusinessmag.com/uk/news/cyber/beer-cyberattack-leaves-shelves-empty-551817.aspx))
+- 'Third key' theft has a new form ([3 days ago](https://www.insurancebusinessmag.com/uk/news/auto-motor/third-key-theft-has-a-new-form-551818.aspx))
+- Beer cyberattack leaves shelves empty ([3 days ago](https://www.insurancebusinessmag.com/uk/news/cyber/beer-cyberattack-leaves-shelves-empty-551817.aspx))
 - Zurich and Liberty back DUAL UK's new regional commercial combined product ([3 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/zurich-and-liberty-back-dual-uks-new-regional-commercial-combined-product-551812.aspx))
 - QBE shifts cyber lead to US ([3 days ago](https://www.insurancebusinessmag.com/uk/news/cyber/qbe-shifts-cyber-lead-to-us-551807.aspx))
 - Winners of Insurance Post Claims and Fraud Awards 2025 revealed ([3 days ago](https://www.postonline.co.uk/claims/7959102/winners-of-insurance-post-claims-and-fraud-awards-2025-revealed))
