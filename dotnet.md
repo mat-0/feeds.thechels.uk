@@ -9,8 +9,8 @@ description: DotNet Updates
 
 <!-- news_marker starts -->
 - dotInsights  -  October 2025 ([1 hours ago](https://blog.jetbrains.com/dotnet/2025/10/06/dotinsights-october-2025/))
-- ReSharper and Rider 2025.2.3: The Third Set of Updates Released ([1 hours ago](https://blog.jetbrains.com/dotnet/2025/10/06/resharper-and-rider-2025-2-3/))
-- F# Weekly #40, 2025 - Microsoft Agent Framework (Preview) ([16 hours ago](https://dotnetkicks.com/r/731636?url=https://sergeytihon.com/2025/10/04/f-weekly-40-2025-microsoft-agent-framework-preview/))
+- ReSharper and Rider 2025.2.3: The Third Set of Updates Released ([2 hours ago](https://blog.jetbrains.com/dotnet/2025/10/06/resharper-and-rider-2025-2-3/))
+- F# Weekly #40, 2025 - Microsoft Agent Framework (Preview) ([17 hours ago](https://dotnetkicks.com/r/731636?url=https://sergeytihon.com/2025/10/04/f-weekly-40-2025-microsoft-agent-framework-preview/))
 - Boost Your .NET Projects: Secure Passwords with PBKDF2PasswordHasher in Spargine ([1 days ago](https://dotnettips.wordpress.com/2025/10/05/boost-your-net-projects-secure-passwords-with-pbkdf2passwordhasher-in-spargine/))
 - Cake v5.1.0 released ([1 days ago](https://dotnetkicks.com/r/731623?url=https://cakebuild.net/blog/2025/10/cake-v5.1.0-released))
 - Roadmap for AI in Visual Studio (October) - Visual Studio Blog ([2 days ago](https://dotnetkicks.com/r/731595?url=https://devblogs.microsoft.com/visualstudio/roadmap-for-ai-in-visual-studio-october/))
@@ -19,7 +19,7 @@ description: DotNet Updates
 - The $150 Secret Hiding in Plain Sight - Visual Studio Blog ([4 days ago](https://dotnetkicks.com/r/731409?url=https://devblogs.microsoft.com/visualstudio/unlock-vss-benefits-myvisualstudio/))
 - Introducing Microsoft Agent Framework (Preview): Making AI Agents Simple for Every Developer - .NET Blog ([4 days ago](https://dotnetkicks.com/r/731385?url=https://devblogs.microsoft.com/dotnet/introducing-microsoft-agent-framework-preview/))
 - Introducing Microsoft Agent Framework (Preview): Making AI Agents Simple for Every Developer ([4 days ago](https://devblogs.microsoft.com/dotnet/introducing-microsoft-agent-framework-preview/))
-- Rock Your Code: Coding Standards for Microsoft .NET (20th Anniversary Edition) ([4 days ago](https://dotnettips.wordpress.com/2025/10/01/rock-your-code-coding-standards-for-microsoft-net-20th-anniversary-edition/))
+- Rock Your Code: Coding Standards for Microsoft .NET (20th Anniversary Edition) ([5 days ago](https://dotnettips.wordpress.com/2025/10/01/rock-your-code-coding-standards-for-microsoft-net-20th-anniversary-edition/))
 - Optimizing Array Performance in .NET: Getting the Most from ArrayPool ([5 days ago](https://dotnettips.wordpress.com/2025/10/01/optimizing-array-performance-in-net-getting-the-most-from-arraypool/))
 - Celebrating Marten's 10th Birthday! ([5 days ago](https://dotnetkicks.com/r/731355?url=https://jeremydmiller.com/2025/09/30/celebrating-martens-10th-birthday/))
 - Visual Studio September Update - profiler agent, app modernization, and more - Visual Studio Blog ([5 days ago](https://dotnetkicks.com/r/731343?url=https://devblogs.microsoft.com/visualstudio/visual-studio-september-update/))
