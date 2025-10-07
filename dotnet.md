@@ -8,8 +8,8 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Developer and AI Code Reviewer: Reviewing AI-Generated Code in .NET - .NET Blog ([20 minutes ago](https://dotnetkicks.com/r/731942?url=https://devblogs.microsoft.com/dotnet/developer-and-ai-code-reviewer-reviewing-ai-generated-code-in-dotnet/))
-- Developer and AI Code Reviewer: Reviewing AI-Generated Code in .NET ([31 minutes ago](https://devblogs.microsoft.com/dotnet/developer-and-ai-code-reviewer-reviewing-ai-generated-code-in-dotnet/))
+- Developer and AI Code Reviewer: Reviewing AI-Generated Code in .NET - .NET Blog ([53 minutes ago](https://dotnetkicks.com/r/731942?url=https://devblogs.microsoft.com/dotnet/developer-and-ai-code-reviewer-reviewing-ai-generated-code-in-dotnet/))
+- Developer and AI Code Reviewer: Reviewing AI-Generated Code in .NET ([1 hours ago](https://devblogs.microsoft.com/dotnet/developer-and-ai-code-reviewer-reviewing-ai-generated-code-in-dotnet/))
 - Interesting new C# 14 features coming with .NET 10 ([7 hours ago](https://dotnetkicks.com/r/731858?url=https://thomaslevesque.com/2025/04/11/interesting-new-csharp-14-features-coming-with-net-10/))
 - Visual Studio Dev/Test Benefit Explained - Visual Studio Blog ([1 days ago](https://dotnetkicks.com/r/731713?url=https://devblogs.microsoft.com/visualstudio/visual-studio-dev-test-benefit-explained/))
 - 9 ReSharper Features Every .NET Developer Should Know ([1 days ago](https://blog.jetbrains.com/dotnet/2025/10/06/9-resharper-features-every-dotnet-developer-should-know/))
@@ -32,7 +32,7 @@ description: DotNet Updates
 - Publishing NuGet packages from GitHub actions the easy way with Trusted Publishing ([7 days ago](https://dotnetkicks.com/r/731280?url=https://andrewlock.net/easily-publishing-nuget-packages-from-github-actions-with-trusted-publishing/))
 - Publishing NuGet packages from GitHub actions the easy way with Trusted Publishing ([7 days ago](https://andrewlock.net/easily-publishing-nuget-packages-from-github-actions-with-trusted-publishing/))
 - Leader Election and Virtual Actors in Wolverine ([7 days ago](https://dotnetkicks.com/r/731225?url=https://jeremydmiller.com/2025/09/29/leader-election-and-virtual-actors-in-wolverine/))
-- Last Sprint to Wolverine 5.0 ([8 days ago](https://dotnetkicks.com/r/731139?url=https://jeremydmiller.com/2025/09/28/last-sprint-to-wolverine-5-0/))
+- Last Sprint to Wolverine 5.0 ([9 days ago](https://dotnetkicks.com/r/731139?url=https://jeremydmiller.com/2025/09/28/last-sprint-to-wolverine-5-0/))
 - Boost Your .NET Projects: Simplify Unique Key Generation with KeyGenerator in Spargine ([9 days ago](https://dotnettips.wordpress.com/2025/09/28/boost-your-net-projects-simplify-unique-key-generation-with-keygenerator-in-spargine/))
 - F# Weekly #39, 2025 - amplifyingfsharp.io ([9 days ago](https://dotnetkicks.com/r/731133?url=https://sergeytihon.com/2025/09/27/f-weekly-39-2025-amplifyingfsharp-io/))
 - Ardalis Fall 2025 Speaking Tour ([9 days ago](https://dotnetkicks.com/r/731118?url=https://ardalis.com/ardalis-fall-2025-speaking-tour/))
