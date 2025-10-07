@@ -8,6 +8,7 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
+- Developer and AI Code Reviewer: Reviewing AI-Generated Code in .NET ([1 minutes ago](https://devblogs.microsoft.com/dotnet/developer-and-ai-code-reviewer-reviewing-ai-generated-code-in-dotnet/))
 - Interesting new C# 14 features coming with .NET 10 ([6 hours ago](https://dotnetkicks.com/r/731858?url=https://thomaslevesque.com/2025/04/11/interesting-new-csharp-14-features-coming-with-net-10/))
 - Visual Studio Dev/Test Benefit Explained - Visual Studio Blog ([1 days ago](https://dotnetkicks.com/r/731713?url=https://devblogs.microsoft.com/visualstudio/visual-studio-dev-test-benefit-explained/))
 - 9 ReSharper Features Every .NET Developer Should Know ([1 days ago](https://blog.jetbrains.com/dotnet/2025/10/06/9-resharper-features-every-dotnet-developer-should-know/))
@@ -35,7 +36,7 @@ description: DotNet Updates
 - F# Weekly #39, 2025 - amplifyingfsharp.io ([9 days ago](https://dotnetkicks.com/r/731133?url=https://sergeytihon.com/2025/09/27/f-weekly-39-2025-amplifyingfsharp-io/))
 - Ardalis Fall 2025 Speaking Tour ([9 days ago](https://dotnetkicks.com/r/731118?url=https://ardalis.com/ardalis-fall-2025-speaking-tour/))
 - Preparing Your .NET MAUI Apps for Google Play's 16 KB Page Size Requirement - .NET Blog ([10 days ago](https://dotnetkicks.com/r/731067?url=https://devblogs.microsoft.com/dotnet/maui-google-play-16-kb-page-size-support/))
-- Preparing Your .NET MAUI Apps for Google Play’s 16 KB Page Size Requirement ([10 days ago](https://devblogs.microsoft.com/dotnet/maui-google-play-16-kb-page-size-support/))
+- Preparing Your .NET MAUI Apps for Google Play’s 16 KB Page Size Requirement ([11 days ago](https://devblogs.microsoft.com/dotnet/maui-google-play-16-kb-page-size-support/))
 - Some Thoughts on MS Pulling Back on their "Eventing Framework" ([11 days ago](https://dotnetkicks.com/r/731013?url=https://jeremydmiller.com/2025/09/25/some-thoughts-on-ms-pulling-back-on-their-eventing-framework/))
 - You Don't Need to Use Akka.HealthChecks Any More ([11 days ago](https://dotnetkicks.com/r/730996?url=https://petabridge.com/blog/you-dont-need-akka-healthchecks-anymore/))
 - Announcing Aspire 9.5 - .NET Blog ([11 days ago](https://dotnetkicks.com/r/730976?url=https://devblogs.microsoft.com/dotnet/announcing-dotnet-aspire-95/))
@@ -52,16 +53,15 @@ description: DotNet Updates
 - Boost Your .NET Projects: Mastering ObservableList in Spargine ([16 days ago](https://dotnettips.wordpress.com/2025/09/21/boost-your-net-projects-mastering-observablelist-in-spargine/))
 - Announcing: JetBrains .NET Days Online 2025 ([18 days ago](https://blog.jetbrains.com/dotnet/2025/09/18/announcing-jetbrains-net-days-online-2025/))
 - More Updates and Fixes for ReSharper and Rider 2025.2 ([19 days ago](https://blog.jetbrains.com/dotnet/2025/09/18/resharper-rider-2025-2-2/))
-- Prompt Files and Instructions Files Explained ([19 days ago](https://devblogs.microsoft.com/dotnet/prompt-files-and-instructions-files-explained/))
+- Prompt Files and Instructions Files Explained ([20 days ago](https://devblogs.microsoft.com/dotnet/prompt-files-and-instructions-files-explained/))
 - The Early Access Program for Rider 2025.3 Is Now Open! ([20 days ago](https://blog.jetbrains.com/dotnet/2025/09/17/the-early-access-program-for-rider-2025-3/))
 - The Early Access Program for ReSharper and .NET Tools 2025.3 Is Here! ([20 days ago](https://blog.jetbrains.com/dotnet/2025/09/17/the-early-access-program-for-resharper-and-net-tools-2025-3/))
-- .NET STS releases supported for 24 months ([20 days ago](https://devblogs.microsoft.com/dotnet/dotnet-sts-releases-supported-for-24-months/))
+- .NET STS releases supported for 24 months ([21 days ago](https://devblogs.microsoft.com/dotnet/dotnet-sts-releases-supported-for-24-months/))
 - Supporting platform-specific .NET tools on old .NET SDKs: Exploring the .NET 10 preview - Part 8 ([21 days ago](https://andrewlock.net/exploring-dotnet-10-preview-features-8-supporting-platform-specific-dotnet-tools-on-old-sdks/))
-- Application Insights Code Optimizations for .NET Apps ([21 days ago](https://devblogs.microsoft.com/dotnet/application-insights-code-optimizations/))
+- Application Insights Code Optimizations for .NET Apps ([22 days ago](https://devblogs.microsoft.com/dotnet/application-insights-code-optimizations/))
 - GameDev Day 2025 Is Back in October! ([22 days ago](https://blog.jetbrains.com/dotnet/2025/09/15/gamedev-day-2025-is-back-in-october/))
 - Boost Your .NET Projects: Ensure Thread-Safe Uniqueness with DistinctConcurrentBag in Spargine ([23 days ago](https://dotnettips.wordpress.com/2025/09/14/boost-your-net-projects-ensure-thread-safe-uniqueness-with-distinctconcurrentbag-in-spargine/))
 - Performance Improvements in .NET 10 ([27 days ago](https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-10/))
-- Announcing .NET 10 Release Candidate 1 ([27 days ago](https://devblogs.microsoft.com/dotnet/dotnet-10-rc-1/))
 - Packaging self-contained and native AOT .NET tools for NuGet: Exploring the .NET 10 preview - Part 7 ([28 days ago](https://andrewlock.net/exploring-dotnet-10-preview-features-7-packaging-self-contained-and-native-aot-dotnet-tools-for-nuget/))
 
 <!-- news_marker ends -->
