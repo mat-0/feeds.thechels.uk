@@ -9,10 +9,10 @@ description: DotNet Updates
 
 <!-- news_marker starts -->
 - Your API Errors Suck ([2 hours ago](https://dotnetkicks.com/r/732016?url=https://codeopinion.com/your-api-errors-suck-heres-how-to-fix-them/))
-- Meet JetBrains at Azure Dev Summit 2025 (Lisbon, Oct 13–16) ([6 hours ago](https://blog.jetbrains.com/dotnet/2025/10/07/meet-jetbrains-at-azure-dev-summit-2025/))
-- Developer and AI Code Reviewer: Reviewing AI-Generated Code in .NET - .NET Blog ([9 hours ago](https://dotnetkicks.com/r/731942?url=https://devblogs.microsoft.com/dotnet/developer-and-ai-code-reviewer-reviewing-ai-generated-code-in-dotnet/))
-- Developer and AI Code Reviewer: Reviewing AI-Generated Code in .NET ([9 hours ago](https://devblogs.microsoft.com/dotnet/developer-and-ai-code-reviewer-reviewing-ai-generated-code-in-dotnet/))
-- Interesting new C# 14 features coming with .NET 10 ([16 hours ago](https://dotnetkicks.com/r/731858?url=https://thomaslevesque.com/2025/04/11/interesting-new-csharp-14-features-coming-with-net-10/))
+- Meet JetBrains at Azure Dev Summit 2025 (Lisbon, Oct 13–16) ([7 hours ago](https://blog.jetbrains.com/dotnet/2025/10/07/meet-jetbrains-at-azure-dev-summit-2025/))
+- Developer and AI Code Reviewer: Reviewing AI-Generated Code in .NET - .NET Blog ([10 hours ago](https://dotnetkicks.com/r/731942?url=https://devblogs.microsoft.com/dotnet/developer-and-ai-code-reviewer-reviewing-ai-generated-code-in-dotnet/))
+- Developer and AI Code Reviewer: Reviewing AI-Generated Code in .NET ([10 hours ago](https://devblogs.microsoft.com/dotnet/developer-and-ai-code-reviewer-reviewing-ai-generated-code-in-dotnet/))
+- Interesting new C# 14 features coming with .NET 10 ([17 hours ago](https://dotnetkicks.com/r/731858?url=https://thomaslevesque.com/2025/04/11/interesting-new-csharp-14-features-coming-with-net-10/))
 - Visual Studio Dev/Test Benefit Explained - Visual Studio Blog ([1 days ago](https://dotnetkicks.com/r/731713?url=https://devblogs.microsoft.com/visualstudio/visual-studio-dev-test-benefit-explained/))
 - 9 ReSharper Features Every .NET Developer Should Know ([1 days ago](https://blog.jetbrains.com/dotnet/2025/10/06/9-resharper-features-every-dotnet-developer-should-know/))
 - dotInsights  -  October 2025 ([1 days ago](https://blog.jetbrains.com/dotnet/2025/10/06/dotinsights-october-2025/))
@@ -36,7 +36,7 @@ description: DotNet Updates
 - Leader Election and Virtual Actors in Wolverine ([8 days ago](https://dotnetkicks.com/r/731225?url=https://jeremydmiller.com/2025/09/29/leader-election-and-virtual-actors-in-wolverine/))
 - Last Sprint to Wolverine 5.0 ([9 days ago](https://dotnetkicks.com/r/731139?url=https://jeremydmiller.com/2025/09/28/last-sprint-to-wolverine-5-0/))
 - Boost Your .NET Projects: Simplify Unique Key Generation with KeyGenerator in Spargine ([9 days ago](https://dotnettips.wordpress.com/2025/09/28/boost-your-net-projects-simplify-unique-key-generation-with-keygenerator-in-spargine/))
-- F# Weekly #39, 2025 - amplifyingfsharp.io ([9 days ago](https://dotnetkicks.com/r/731133?url=https://sergeytihon.com/2025/09/27/f-weekly-39-2025-amplifyingfsharp-io/))
+- F# Weekly #39, 2025 - amplifyingfsharp.io ([10 days ago](https://dotnetkicks.com/r/731133?url=https://sergeytihon.com/2025/09/27/f-weekly-39-2025-amplifyingfsharp-io/))
 - Ardalis Fall 2025 Speaking Tour ([10 days ago](https://dotnetkicks.com/r/731118?url=https://ardalis.com/ardalis-fall-2025-speaking-tour/))
 - Preparing Your .NET MAUI Apps for Google Play's 16 KB Page Size Requirement - .NET Blog ([11 days ago](https://dotnetkicks.com/r/731067?url=https://devblogs.microsoft.com/dotnet/maui-google-play-16-kb-page-size-support/))
 - Preparing Your .NET MAUI Apps for Google Play’s 16 KB Page Size Requirement ([11 days ago](https://devblogs.microsoft.com/dotnet/maui-google-play-16-kb-page-size-support/))
