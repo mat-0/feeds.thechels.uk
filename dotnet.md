@@ -8,7 +8,7 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Marten 8.12 with New Plumbing ([20 hours ago](https://dotnetkicks.com/r/732154?url=https://jeremydmiller.com/2025/10/08/marten-8-12-with-new-plumbing/))
+- Marten 8.12 with New Plumbing ([21 hours ago](https://dotnetkicks.com/r/732154?url=https://jeremydmiller.com/2025/10/08/marten-8-12-with-new-plumbing/))
 - Preparing for the .NET 10 GC (DATAS) - .NET Blog ([1 days ago](https://dotnetkicks.com/r/732105?url=https://devblogs.microsoft.com/dotnet/preparing-for-dotnet-10-gc/))
 - Preparing for the .NET 10 GC (DATAS) ([1 days ago](https://devblogs.microsoft.com/dotnet/preparing-for-dotnet-10-gc/))
 - Calling All Non-Commercial JetBrains Rider Users: Tell Us Your Stories! ([1 days ago](https://blog.jetbrains.com/dotnet/2025/10/08/calling-all-non-commercial-rider-users/))
@@ -34,7 +34,7 @@ description: DotNet Updates
 - Introducing Microsoft Agent Framework (Preview): Making AI Agents Simple for Every Developer ([8 days ago](https://devblogs.microsoft.com/dotnet/introducing-microsoft-agent-framework-preview/))
 - Rock Your Code: Coding Standards for Microsoft .NET (20th Anniversary Edition) ([8 days ago](https://dotnettips.wordpress.com/2025/10/01/rock-your-code-coding-standards-for-microsoft-net-20th-anniversary-edition/))
 - Optimizing Array Performance in .NET: Getting the Most from ArrayPool ([8 days ago](https://dotnettips.wordpress.com/2025/10/01/optimizing-array-performance-in-net-getting-the-most-from-arraypool/))
-- Celebrating Marten's 10th Birthday! ([8 days ago](https://dotnetkicks.com/r/731355?url=https://jeremydmiller.com/2025/09/30/celebrating-martens-10th-birthday/))
+- Celebrating Marten's 10th Birthday! ([9 days ago](https://dotnetkicks.com/r/731355?url=https://jeremydmiller.com/2025/09/30/celebrating-martens-10th-birthday/))
 - Visual Studio September Update - profiler agent, app modernization, and more - Visual Studio Blog ([9 days ago](https://dotnetkicks.com/r/731343?url=https://devblogs.microsoft.com/visualstudio/visual-studio-september-update/))
 - Visual Studio September Update - profiler agent, app modernization, and more - Visual Studio Blog ([9 days ago](https://dotnetkicks.com/r/731326?url=https://devblogs.microsoft.com/visualstudio/visual-studio-september-update/))
 - Publishing NuGet packages from GitHub actions the easy way with Trusted Publishing ([9 days ago](https://dotnetkicks.com/r/731280?url=https://andrewlock.net/easily-publishing-nuget-packages-from-github-actions-with-trusted-publishing/))
