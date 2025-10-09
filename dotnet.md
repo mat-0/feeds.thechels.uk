@@ -8,7 +8,7 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Marten 8.12 with New Plumbing ([15 hours ago](https://dotnetkicks.com/r/732154?url=https://jeremydmiller.com/2025/10/08/marten-8-12-with-new-plumbing/))
+- Marten 8.12 with New Plumbing ([16 hours ago](https://dotnetkicks.com/r/732154?url=https://jeremydmiller.com/2025/10/08/marten-8-12-with-new-plumbing/))
 - Preparing for the .NET 10 GC (DATAS) - .NET Blog ([22 hours ago](https://dotnetkicks.com/r/732105?url=https://devblogs.microsoft.com/dotnet/preparing-for-dotnet-10-gc/))
 - Preparing for the .NET 10 GC (DATAS) ([22 hours ago](https://devblogs.microsoft.com/dotnet/preparing-for-dotnet-10-gc/))
 - Calling All Non-Commercial JetBrains Rider Users: Tell Us Your Stories! ([1 days ago](https://blog.jetbrains.com/dotnet/2025/10/08/calling-all-non-commercial-rider-users/))
@@ -53,7 +53,7 @@ description: DotNet Updates
 - Rider Roadmap: What to Expect From the Upcoming Updates and Releases ([14 days ago](https://blog.jetbrains.com/dotnet/2025/09/25/rider-rider-roadmap-2025-3/))
 - Exploring Text-to-Image capabilities in .NET ([14 days ago](https://devblogs.microsoft.com/dotnet/explore-text-to-image-dotnet/))
 - sleep-pc: a .NET Native AOT tool to make Windows sleep after a timeout ([16 days ago](https://andrewlock.net/sleep-pc-a-dotnet-tool-to-make-windows-sleep-after-a-timeout/))
-- New Trusted Publishing enhances security on NuGet.org ([16 days ago](https://devblogs.microsoft.com/dotnet/enhanced-security-is-here-with-the-new-trust-publishing-on-nuget-org/))
+- New Trusted Publishing enhances security on NuGet.org ([17 days ago](https://devblogs.microsoft.com/dotnet/enhanced-security-is-here-with-the-new-trust-publishing-on-nuget-org/))
 - Boost Your .NET Projects: Mastering ObservableList in Spargine ([18 days ago](https://dotnettips.wordpress.com/2025/09/21/boost-your-net-projects-mastering-observablelist-in-spargine/))
 - Announcing: JetBrains .NET Days Online 2025 ([20 days ago](https://blog.jetbrains.com/dotnet/2025/09/18/announcing-jetbrains-net-days-online-2025/))
 - More Updates and Fixes for ReSharper and Rider 2025.2 ([21 days ago](https://blog.jetbrains.com/dotnet/2025/09/18/resharper-rider-2025-2-2/))
