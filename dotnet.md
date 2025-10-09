@@ -9,8 +9,8 @@ description: DotNet Updates
 
 <!-- news_marker starts -->
 - Marten 8.12 with New Plumbing ([9 hours ago](https://dotnetkicks.com/r/732154?url=https://jeremydmiller.com/2025/10/08/marten-8-12-with-new-plumbing/))
-- Preparing for the .NET 10 GC (DATAS) - .NET Blog ([15 hours ago](https://dotnetkicks.com/r/732105?url=https://devblogs.microsoft.com/dotnet/preparing-for-dotnet-10-gc/))
-- Preparing for the .NET 10 GC (DATAS) ([15 hours ago](https://devblogs.microsoft.com/dotnet/preparing-for-dotnet-10-gc/))
+- Preparing for the .NET 10 GC (DATAS) - .NET Blog ([16 hours ago](https://dotnetkicks.com/r/732105?url=https://devblogs.microsoft.com/dotnet/preparing-for-dotnet-10-gc/))
+- Preparing for the .NET 10 GC (DATAS) ([16 hours ago](https://devblogs.microsoft.com/dotnet/preparing-for-dotnet-10-gc/))
 - Calling All Non-Commercial JetBrains Rider Users: Tell Us Your Stories! ([20 hours ago](https://blog.jetbrains.com/dotnet/2025/10/08/calling-all-non-commercial-rider-users/))
 - .NET 10: The Deathblow to Python’s AI Dominance? 💀 ([1 days ago](https://dotnetkicks.com/r/732018?url=https://www.gapvelocity.ai/blog/dotnet10-smacks-down-python-ai))
 - Defensive Programming with Microsoft .NET: Anticipate Errors and Eliminate Bugs ([1 days ago](https://dotnettips.wordpress.com/2025/10/08/defensive-programming-with-microsoft-net-anticipate-errors-and-eliminate-bugs/))
@@ -58,8 +58,8 @@ description: DotNet Updates
 - Announcing: JetBrains .NET Days Online 2025 ([20 days ago](https://blog.jetbrains.com/dotnet/2025/09/18/announcing-jetbrains-net-days-online-2025/))
 - More Updates and Fixes for ReSharper and Rider 2025.2 ([20 days ago](https://blog.jetbrains.com/dotnet/2025/09/18/resharper-rider-2025-2-2/))
 - Prompt Files and Instructions Files Explained ([21 days ago](https://devblogs.microsoft.com/dotnet/prompt-files-and-instructions-files-explained/))
-- The Early Access Program for Rider 2025.3 Is Now Open! ([21 days ago](https://blog.jetbrains.com/dotnet/2025/09/17/the-early-access-program-for-rider-2025-3/))
-- The Early Access Program for ReSharper and .NET Tools 2025.3 Is Here! ([21 days ago](https://blog.jetbrains.com/dotnet/2025/09/17/the-early-access-program-for-resharper-and-net-tools-2025-3/))
+- The Early Access Program for Rider 2025.3 Is Now Open! ([22 days ago](https://blog.jetbrains.com/dotnet/2025/09/17/the-early-access-program-for-rider-2025-3/))
+- The Early Access Program for ReSharper and .NET Tools 2025.3 Is Here! ([22 days ago](https://blog.jetbrains.com/dotnet/2025/09/17/the-early-access-program-for-resharper-and-net-tools-2025-3/))
 - .NET STS releases supported for 24 months ([22 days ago](https://devblogs.microsoft.com/dotnet/dotnet-sts-releases-supported-for-24-months/))
 - Supporting platform-specific .NET tools on old .NET SDKs: Exploring the .NET 10 preview - Part 8 ([22 days ago](https://andrewlock.net/exploring-dotnet-10-preview-features-8-supporting-platform-specific-dotnet-tools-on-old-sdks/))
 - Application Insights Code Optimizations for .NET Apps ([23 days ago](https://devblogs.microsoft.com/dotnet/application-insights-code-optimizations/))
