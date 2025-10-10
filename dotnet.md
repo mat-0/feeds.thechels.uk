@@ -8,6 +8,7 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
+- James Montemagno on Vibe Coding ([just now](https://dotnetkicks.com/r/732297?url=https://jesseliberty.com/2025/10/10/james-montemagno-on-vibe-coding/))
 - Marten 8.12 with New Plumbing ([1 days ago](https://dotnetkicks.com/r/732154?url=https://jeremydmiller.com/2025/10/08/marten-8-12-with-new-plumbing/))
 - Preparing for the .NET 10 GC (DATAS) - .NET Blog ([1 days ago](https://dotnetkicks.com/r/732105?url=https://devblogs.microsoft.com/dotnet/preparing-for-dotnet-10-gc/))
 - Preparing for the .NET 10 GC (DATAS) ([1 days ago](https://devblogs.microsoft.com/dotnet/preparing-for-dotnet-10-gc/))
@@ -20,7 +21,7 @@ description: DotNet Updates
 - Developer and AI Code Reviewer: Reviewing AI-Generated Code in .NET ([2 days ago](https://devblogs.microsoft.com/dotnet/developer-and-ai-code-reviewer-reviewing-ai-generated-code-in-dotnet/))
 - Interesting new C# 14 features coming with .NET 10 ([3 days ago](https://dotnetkicks.com/r/731858?url=https://thomaslevesque.com/2025/04/11/interesting-new-csharp-14-features-coming-with-net-10/))
 - Visual Studio Dev/Test Benefit Explained - Visual Studio Blog ([3 days ago](https://dotnetkicks.com/r/731713?url=https://devblogs.microsoft.com/visualstudio/visual-studio-dev-test-benefit-explained/))
-- 9 ReSharper Features Every .NET Developer Should Know ([3 days ago](https://blog.jetbrains.com/dotnet/2025/10/06/9-resharper-features-every-dotnet-developer-should-know/))
+- 9 ReSharper Features Every .NET Developer Should Know ([4 days ago](https://blog.jetbrains.com/dotnet/2025/10/06/9-resharper-features-every-dotnet-developer-should-know/))
 - dotInsights  -  October 2025 ([4 days ago](https://blog.jetbrains.com/dotnet/2025/10/06/dotinsights-october-2025/))
 - ReSharper and Rider 2025.2.3: The Third Set of Updates Released ([4 days ago](https://blog.jetbrains.com/dotnet/2025/10/06/resharper-and-rider-2025-2-3/))
 - F# Weekly #40, 2025 - Microsoft Agent Framework (Preview) ([4 days ago](https://dotnetkicks.com/r/731636?url=https://sergeytihon.com/2025/10/04/f-weekly-40-2025-microsoft-agent-framework-preview/))
@@ -30,7 +31,7 @@ description: DotNet Updates
 - VS Live! Orlando - Your Ultimate Learning Adventure - Visual Studio Blog ([7 days ago](https://dotnetkicks.com/r/731543?url=https://devblogs.microsoft.com/visualstudio/visual-studio-live-orlando-2025/))
 - ReSharper and Visual Studio 2026: Day-One Compatibility, Migration Steps, and Performance Gains ([8 days ago](https://blog.jetbrains.com/dotnet/2025/10/02/resharper-and-visual-studio-2026/))
 - The $150 Secret Hiding in Plain Sight - Visual Studio Blog ([8 days ago](https://dotnetkicks.com/r/731409?url=https://devblogs.microsoft.com/visualstudio/unlock-vss-benefits-myvisualstudio/))
-- Introducing Microsoft Agent Framework (Preview): Making AI Agents Simple for Every Developer - .NET Blog ([8 days ago](https://dotnetkicks.com/r/731385?url=https://devblogs.microsoft.com/dotnet/introducing-microsoft-agent-framework-preview/))
+- Introducing Microsoft Agent Framework (Preview): Making AI Agents Simple for Every Developer - .NET Blog ([9 days ago](https://dotnetkicks.com/r/731385?url=https://devblogs.microsoft.com/dotnet/introducing-microsoft-agent-framework-preview/))
 - Introducing Microsoft Agent Framework (Preview): Making AI Agents Simple for Every Developer ([9 days ago](https://devblogs.microsoft.com/dotnet/introducing-microsoft-agent-framework-preview/))
 - Rock Your Code: Coding Standards for Microsoft .NET (20th Anniversary Edition) ([9 days ago](https://dotnettips.wordpress.com/2025/10/01/rock-your-code-coding-standards-for-microsoft-net-20th-anniversary-edition/))
 - Optimizing Array Performance in .NET: Getting the Most from ArrayPool ([9 days ago](https://dotnettips.wordpress.com/2025/10/01/optimizing-array-performance-in-net-getting-the-most-from-arraypool/))
@@ -48,7 +49,6 @@ description: DotNet Updates
 - Preparing Your .NET MAUI Apps for Google Play’s 16 KB Page Size Requirement ([13 days ago](https://devblogs.microsoft.com/dotnet/maui-google-play-16-kb-page-size-support/))
 - Some Thoughts on MS Pulling Back on their "Eventing Framework" ([14 days ago](https://dotnetkicks.com/r/731013?url=https://jeremydmiller.com/2025/09/25/some-thoughts-on-ms-pulling-back-on-their-eventing-framework/))
 - You Don't Need to Use Akka.HealthChecks Any More ([14 days ago](https://dotnetkicks.com/r/730996?url=https://petabridge.com/blog/you-dont-need-akka-healthchecks-anymore/))
-- Announcing Aspire 9.5 - .NET Blog ([14 days ago](https://dotnetkicks.com/r/730976?url=https://devblogs.microsoft.com/dotnet/announcing-dotnet-aspire-95/))
 - Announcing Aspire 9.5 ([14 days ago](https://devblogs.microsoft.com/dotnet/announcing-dotnet-aspire-95/))
 - Rider Roadmap: What to Expect From the Upcoming Updates and Releases ([15 days ago](https://blog.jetbrains.com/dotnet/2025/09/25/rider-rider-roadmap-2025-3/))
 - Exploring Text-to-Image capabilities in .NET ([15 days ago](https://devblogs.microsoft.com/dotnet/explore-text-to-image-dotnet/))
