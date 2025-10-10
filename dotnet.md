@@ -8,7 +8,7 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- James Montemagno on Vibe Coding ([just now](https://dotnetkicks.com/r/732297?url=https://jesseliberty.com/2025/10/10/james-montemagno-on-vibe-coding/))
+- James Montemagno on Vibe Coding ([30 minutes ago](https://dotnetkicks.com/r/732297?url=https://jesseliberty.com/2025/10/10/james-montemagno-on-vibe-coding/))
 - Marten 8.12 with New Plumbing ([1 days ago](https://dotnetkicks.com/r/732154?url=https://jeremydmiller.com/2025/10/08/marten-8-12-with-new-plumbing/))
 - Preparing for the .NET 10 GC (DATAS) - .NET Blog ([1 days ago](https://dotnetkicks.com/r/732105?url=https://devblogs.microsoft.com/dotnet/preparing-for-dotnet-10-gc/))
 - Preparing for the .NET 10 GC (DATAS) ([1 days ago](https://devblogs.microsoft.com/dotnet/preparing-for-dotnet-10-gc/))
@@ -56,7 +56,7 @@ description: DotNet Updates
 - New Trusted Publishing enhances security on NuGet.org ([17 days ago](https://devblogs.microsoft.com/dotnet/enhanced-security-is-here-with-the-new-trust-publishing-on-nuget-org/))
 - Boost Your .NET Projects: Mastering ObservableList in Spargine ([19 days ago](https://dotnettips.wordpress.com/2025/09/21/boost-your-net-projects-mastering-observablelist-in-spargine/))
 - Announcing: JetBrains .NET Days Online 2025 ([21 days ago](https://blog.jetbrains.com/dotnet/2025/09/18/announcing-jetbrains-dotnet-days-online-2025/))
-- More Updates and Fixes for ReSharper and Rider 2025.2 ([21 days ago](https://blog.jetbrains.com/dotnet/2025/09/18/resharper-rider-2025-2-2/))
+- More Updates and Fixes for ReSharper and Rider 2025.2 ([22 days ago](https://blog.jetbrains.com/dotnet/2025/09/18/resharper-rider-2025-2-2/))
 - Prompt Files and Instructions Files Explained ([22 days ago](https://devblogs.microsoft.com/dotnet/prompt-files-and-instructions-files-explained/))
 - The Early Access Program for Rider 2025.3 Is Now Open! ([23 days ago](https://blog.jetbrains.com/dotnet/2025/09/17/the-early-access-program-for-rider-2025-3/))
 - The Early Access Program for ReSharper and .NET Tools 2025.3 Is Here! ([23 days ago](https://blog.jetbrains.com/dotnet/2025/09/17/the-early-access-program-for-resharper-and-net-tools-2025-3/))
