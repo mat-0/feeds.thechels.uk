@@ -50,7 +50,7 @@ description: DotNet Updates
 - Some Thoughts on MS Pulling Back on their "Eventing Framework" ([15 days ago](https://dotnetkicks.com/r/731013?url=https://jeremydmiller.com/2025/09/25/some-thoughts-on-ms-pulling-back-on-their-eventing-framework/))
 - You Don't Need to Use Akka.HealthChecks Any More ([15 days ago](https://dotnetkicks.com/r/730996?url=https://petabridge.com/blog/you-dont-need-akka-healthchecks-anymore/))
 - Announcing Aspire 9.5 ([15 days ago](https://devblogs.microsoft.com/dotnet/announcing-dotnet-aspire-95/))
-- Rider Roadmap: What to Expect From the Upcoming Updates and Releases ([15 days ago](https://blog.jetbrains.com/dotnet/2025/09/25/rider-rider-roadmap-2025-3/))
+- Rider Roadmap: What to Expect From the Upcoming Updates and Releases ([16 days ago](https://blog.jetbrains.com/dotnet/2025/09/25/rider-rider-roadmap-2025-3/))
 - Exploring Text-to-Image capabilities in .NET ([16 days ago](https://devblogs.microsoft.com/dotnet/explore-text-to-image-dotnet/))
 - sleep-pc: a .NET Native AOT tool to make Windows sleep after a timeout ([18 days ago](https://andrewlock.net/sleep-pc-a-dotnet-tool-to-make-windows-sleep-after-a-timeout/))
 - New Trusted Publishing enhances security on NuGet.org ([18 days ago](https://devblogs.microsoft.com/dotnet/enhanced-security-is-here-with-the-new-trust-publishing-on-nuget-org/))
