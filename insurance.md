@@ -8,10 +8,10 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Gradient AI Teams Up With Connexure ([11 hours ago](https://insurance-edge.net/2025/10/11/gradient-ai-teams-up-with-connexure/))
-- New Consumer Protections For California Wildfire Victims ([11 hours ago](https://insurance-edge.net/2025/10/11/new-consumer-protections-for-california-wildfire-victims/))
+- Gradient AI Teams Up With Connexure ([12 hours ago](https://insurance-edge.net/2025/10/11/gradient-ai-teams-up-with-connexure/))
+- New Consumer Protections For California Wildfire Victims ([12 hours ago](https://insurance-edge.net/2025/10/11/new-consumer-protections-for-california-wildfire-victims/))
 - Why Ethics CE Matters: Strengthening Professional Standards in Insurance ([23 hours ago](https://www.insurancejournal.com/blogs/risk-insurance-education-alliance/2025/10/10/842545.htm))
-- Research by L&G Discovers People Think Life Cover Costs £79 a Month ([23 hours ago](https://insurance-edge.net/2025/10/10/research-by-lg-discovers-people-think-life-cover-costs-79-a-month/))
+- Research by L&G Discovers People Think Life Cover Costs £79 a Month ([1 days ago](https://insurance-edge.net/2025/10/10/research-by-lg-discovers-people-think-life-cover-costs-79-a-month/))
 - MAPFRE Goes Big on Tech, With 100 New Hires ([1 days ago](https://insurance-edge.net/2025/10/10/mapfre-goes-big-on-tech-with-100-new-hires/))
 - Fraud Detection Techniques: Lessons from Online Gaming That Insurers Can Adopt ([1 days ago](https://insurance-edge.net/2025/10/10/fraud-detection-techniques-lessons-from-online-gaming-that-insurers-can-adopt/))
 - Using Odds Analysis to Detect Risky Behaviour ([1 days ago](https://insurance-edge.net/2025/10/10/using-odds-analysis-to-detect-risky-behaviour/))
@@ -91,7 +91,7 @@ description: Insurance Updates
 - Insurance moves: Broadstone, MAXIS, Blenheim and SRG ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/insurance-moves-broadstone-maxis-blenheim-and-srg-552419.aspx))
 - Mortality in England and Wales falls to record low in 2025, CMI reports ([2 days ago](https://www.insurancebusinessmag.com/uk/news/life-insurance/mortality-in-england-and-wales-falls-to-record-low-in-2025-cmi-reports-552418.aspx))
 - Ransomware threats escalate as AI and cloud vulnerabilities grow, QBE warns ([2 days ago](https://www.insurancebusinessmag.com/uk/news/cyber/ransomware-threats-escalate-as-ai-and-cloud-vulnerabilities-grow-qbe-warns-552416.aspx))
-- Insurers bring climate science pros in-house ([2 days ago](https://www.dig-in.com/news/insurers-bring-climate-science-pros-in-house))
+- Insurers bring climate science pros in-house ([3 days ago](https://www.dig-in.com/news/insurers-bring-climate-science-pros-in-house))
 - Autonomous vehicles and the future of auto insurance ([3 days ago](https://www.dig-in.com/news/autonomous-vehicles-and-the-future-of-auto-insurance))
 - Top insurtech funding rounds, September 2025 ([3 days ago](https://www.dig-in.com/list/top-insurtech-funding-rounds-september-2025))
 - 'Technostress' driving employees to quit jobs, new report finds ([3 days ago](https://www.insurancebusinessmag.com/uk/business-strategy/technostress-driving-employees-to-quit-jobs-new-report-finds-552392.aspx))
