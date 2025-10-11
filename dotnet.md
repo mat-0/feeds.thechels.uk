@@ -63,7 +63,7 @@ description: DotNet Updates
 - .NET STS releases supported for 24 months ([25 days ago](https://devblogs.microsoft.com/dotnet/dotnet-sts-releases-supported-for-24-months/))
 - Supporting platform-specific .NET tools on old .NET SDKs: Exploring the .NET 10 preview - Part 8 ([25 days ago](https://andrewlock.net/exploring-dotnet-10-preview-features-8-supporting-platform-specific-dotnet-tools-on-old-sdks/))
 - Application Insights Code Optimizations for .NET Apps ([26 days ago](https://devblogs.microsoft.com/dotnet/application-insights-code-optimizations/))
-- GameDev Day 2025 Is Back in October! ([26 days ago](https://blog.jetbrains.com/dotnet/2025/09/15/gamedev-day-2025-is-back-in-october/))
+- GameDev Day 2025 Is Back in October! ([27 days ago](https://blog.jetbrains.com/dotnet/2025/09/15/gamedev-day-2025-is-back-in-october/))
 - Boost Your .NET Projects: Ensure Thread-Safe Uniqueness with DistinctConcurrentBag in Spargine ([27 days ago](https://dotnettips.wordpress.com/2025/09/14/boost-your-net-projects-ensure-thread-safe-uniqueness-with-distinctconcurrentbag-in-spargine/))
 
 <!-- news_marker ends -->
