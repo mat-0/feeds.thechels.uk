@@ -10,7 +10,7 @@ description: Insurance Updates
 <!-- news_marker starts -->
 - Gradient AI Teams Up With Connexure ([12 hours ago](https://insurance-edge.net/2025/10/11/gradient-ai-teams-up-with-connexure/))
 - New Consumer Protections For California Wildfire Victims ([12 hours ago](https://insurance-edge.net/2025/10/11/new-consumer-protections-for-california-wildfire-victims/))
-- Why Ethics CE Matters: Strengthening Professional Standards in Insurance ([23 hours ago](https://www.insurancejournal.com/blogs/risk-insurance-education-alliance/2025/10/10/842545.htm))
+- Why Ethics CE Matters: Strengthening Professional Standards in Insurance ([1 days ago](https://www.insurancejournal.com/blogs/risk-insurance-education-alliance/2025/10/10/842545.htm))
 - Research by L&G Discovers People Think Life Cover Costs £79 a Month ([1 days ago](https://insurance-edge.net/2025/10/10/research-by-lg-discovers-people-think-life-cover-costs-79-a-month/))
 - MAPFRE Goes Big on Tech, With 100 New Hires ([1 days ago](https://insurance-edge.net/2025/10/10/mapfre-goes-big-on-tech-with-100-new-hires/))
 - Fraud Detection Techniques: Lessons from Online Gaming That Insurers Can Adopt ([1 days ago](https://insurance-edge.net/2025/10/10/fraud-detection-techniques-lessons-from-online-gaming-that-insurers-can-adopt/))
@@ -112,7 +112,7 @@ description: Insurance Updates
 - Key drivers shaping the future of motor insurance ([3 days ago](https://www.postonline.co.uk/personal/7958989/key-drivers-shaping-the-future-of-motor-insurance))
 - Can non-standard motor find growth in a soft market? ([3 days ago](https://www.postonline.co.uk/broker/7958948/can-non-standard-motor-find-growth-in-a-soft-market))
 - Igloo Boosts Climate Resilience Across Southeast Asia with Data-Driven Insurance Solutions ([3 days ago](https://thefintechtimes.com/igloo-boosts-climate-resilience-across-southeast-asia-with-data-driven-insurance-solutions/))
-- New York Life hires Soni ([3 days ago](https://www.dig-in.com/news/new-york-life-hires-soni))
+- New York Life hires Soni ([4 days ago](https://www.dig-in.com/news/new-york-life-hires-soni))
 - Climate risk mitigation measures need support, PwC expert says ([4 days ago](https://www.dig-in.com/news/pwc-expert-climate-risk-mitigation-needs-more-support))
 - From automation to intelligence: When AI becomes a strategic partner ([4 days ago](https://www.dig-in.com/opinion/when-ai-becomes-a-strategic-partner))
 - Life insurer Meanwhile raises $82M ([4 days ago](https://www.dig-in.com/articles/life-insurer-meanwhile-raises-82m))
