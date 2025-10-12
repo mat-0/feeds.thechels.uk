@@ -29,8 +29,8 @@ description: Insurance Updates
 - Constellation Energy to Spend $340M to Improve Water Quality at Maryland Dam ([1 days ago](https://www.insurancejournal.com/news/east/2025/10/10/843385.htm))
 - People Moves: Aon Names Chisholm as Chairman of Asia Reinsurance Solutions; Markel Appoints Luxford as Head of Distribution and MGA Strategy, Australia ([1 days ago](https://www.insurancejournal.com/news/international/2025/10/10/843376.htm))
 - Ben & Jerry’s Co-Founder Expects Conflict to Continue Under New Ownership ([1 days ago](https://www.insurancejournal.com/news/east/2025/10/10/843377.htm))
-- New York City And Northeast Brace for Flooding Rains From Weekend Storm ([1 days ago](https://www.insurancejournal.com/news/east/2025/10/10/843373.htm))
-- Most insurance leaders say industry isn’t adapting fast enough to climate risk: ZestyAI ([1 days ago](https://www.reinsurancene.ws/most-insurance-leaders-say-industry-isnt-adapting-fast-enough-to-climate-risk-zestyai/))
+- New York City And Northeast Brace for Flooding Rains From Weekend Storm ([2 days ago](https://www.insurancejournal.com/news/east/2025/10/10/843373.htm))
+- Most insurance leaders say industry isn’t adapting fast enough to climate risk: ZestyAI ([2 days ago](https://www.reinsurancene.ws/most-insurance-leaders-say-industry-isnt-adapting-fast-enough-to-climate-risk-zestyai/))
 - Weak Governance of Artificial Intelligence Raises Risks of Cyberattacks: Moody’s ([2 days ago](https://www.insurancejournal.com/news/international/2025/10/10/843354.htm))
 - SIGNAL IDUNA to boost efficiency and optimise job functions with Gemini Enterprise ([2 days ago](https://www.reinsurancene.ws/signal-iduna-to-boost-efficiency-and-optimise-job-functions-with-gemini-enterprise/))
 - Ex-Insurance Agent Avoids Prison for Being ‘Model Cooperator’ in Menendez Case ([2 days ago](https://www.insurancejournal.com/news/east/2025/10/10/843316.htm))
@@ -130,7 +130,7 @@ description: Insurance Updates
 - Novacore to Acquire Minglewood Risk, Expanding Real Estate Insurance Segment ([9 days ago](https://www.insurtechinsights.com/novacore-to-acquire-minglewood-risk-expanding-real-estate-insurance-segment/))
 - New research reveals what dental professionals value most – as Bupa Dental Care launches new campaign ([11 days ago](https://ifamagazine.com/new-research-reveals-what-dental-professionals-value-most-as-bupa-dental-care-launches-new-campaign/))
 - £447m life insurance boom as families prepare for pensions to face 40% IHT ([13 days ago](https://ifamagazine.com/447m-life-insurance-boom-as-families-prepare-for-pensions-to-face-40-iht/))
-- Income Protection Action Week: building resilience in uncertain times ([15 days ago](https://ifamagazine.com/income-protection-action-week-building-resilience-in-uncertain-times/))
+- Income Protection Action Week: building resilience in uncertain times ([16 days ago](https://ifamagazine.com/income-protection-action-week-building-resilience-in-uncertain-times/))
 - Zego Aims to Shift UK Telematics Insurance From Black Box to App-Based Model ([24 days ago](https://thefintechtimes.com/zego-aims-to-shift-uk-telematics-insurance-from-black-box-to-app-based-model/))
 
 <!-- news_marker ends -->
