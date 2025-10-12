@@ -8,8 +8,8 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Boost Your .NET Projects: Simplify Windows Service and Process Management with Spargine’s Services Helper ([5 hours ago](https://dotnettips.wordpress.com/2025/10/12/boost-your-net-projects-simplify-windows-service-and-process-management-with-spargines-services-helper/))
-- F# Weekly #41, 2025 - JetBrains .NET Days Online 2025 ([5 hours ago](https://dotnetkicks.com/r/732324?url=https://sergeytihon.com/2025/10/11/f-weekly-41-2025-jetbrains-net-days-online-2025/))
+- Boost Your .NET Projects: Simplify Windows Service and Process Management with Spargine’s Services Helper ([6 hours ago](https://dotnettips.wordpress.com/2025/10/12/boost-your-net-projects-simplify-windows-service-and-process-management-with-spargines-services-helper/))
+- F# Weekly #41, 2025 - JetBrains .NET Days Online 2025 ([6 hours ago](https://dotnetkicks.com/r/732324?url=https://sergeytihon.com/2025/10/11/f-weekly-41-2025-jetbrains-net-days-online-2025/))
 - James Montemagno on Vibe Coding ([1 days ago](https://dotnetkicks.com/r/732297?url=https://jesseliberty.com/2025/10/10/james-montemagno-on-vibe-coding/))
 - Marten 8.12 with New Plumbing ([3 days ago](https://dotnetkicks.com/r/732154?url=https://jeremydmiller.com/2025/10/08/marten-8-12-with-new-plumbing/))
 - Preparing for the .NET 10 GC (DATAS) - .NET Blog ([3 days ago](https://dotnetkicks.com/r/732105?url=https://devblogs.microsoft.com/dotnet/preparing-for-dotnet-10-gc/))
@@ -35,7 +35,7 @@ description: DotNet Updates
 - The $150 Secret Hiding in Plain Sight - Visual Studio Blog ([10 days ago](https://dotnetkicks.com/r/731409?url=https://devblogs.microsoft.com/visualstudio/unlock-vss-benefits-myvisualstudio/))
 - Introducing Microsoft Agent Framework (Preview): Making AI Agents Simple for Every Developer - .NET Blog ([10 days ago](https://dotnetkicks.com/r/731385?url=https://devblogs.microsoft.com/dotnet/introducing-microsoft-agent-framework-preview/))
 - Introducing Microsoft Agent Framework (Preview): Making AI Agents Simple for Every Developer ([10 days ago](https://devblogs.microsoft.com/dotnet/introducing-microsoft-agent-framework-preview/))
-- Rock Your Code: Coding Standards for Microsoft .NET (20th Anniversary Edition) ([10 days ago](https://dotnettips.wordpress.com/2025/10/01/rock-your-code-coding-standards-for-microsoft-net-20th-anniversary-edition/))
+- Rock Your Code: Coding Standards for Microsoft .NET (20th Anniversary Edition) ([11 days ago](https://dotnettips.wordpress.com/2025/10/01/rock-your-code-coding-standards-for-microsoft-net-20th-anniversary-edition/))
 - Optimizing Array Performance in .NET: Getting the Most from ArrayPool ([11 days ago](https://dotnettips.wordpress.com/2025/10/01/optimizing-array-performance-in-net-getting-the-most-from-arraypool/))
 - Celebrating Marten's 10th Birthday! ([11 days ago](https://dotnetkicks.com/r/731355?url=https://jeremydmiller.com/2025/09/30/celebrating-martens-10th-birthday/))
 - Visual Studio September Update - profiler agent, app modernization, and more - Visual Studio Blog ([11 days ago](https://dotnetkicks.com/r/731343?url=https://devblogs.microsoft.com/visualstudio/visual-studio-september-update/))
