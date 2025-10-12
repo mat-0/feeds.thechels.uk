@@ -118,7 +118,7 @@ description: Insurance Updates
 - Life insurer Meanwhile raises $82M ([4 days ago](https://www.dig-in.com/articles/life-insurer-meanwhile-raises-82m))
 - Insurance Office of America Secures Strategic Investment from Madison Dearborn Partners and Navacord ([5 days ago](https://www.insurtechinsights.com/insurance-office-of-america-secures-strategic-investment-from-madison-dearborn-partners-and-navacord/))
 - Abacus Global Management Acquires AccuQuote to Expand Financial Services Platform ([5 days ago](https://www.insurtechinsights.com/abacus-global-management-acquires-accuquote-to-expand-financial-services-platform/))
-- SiriusPoint to Sell 49% Stake in Arcadian Risk Capital for $139 Million ([5 days ago](https://www.insurtechinsights.com/siriuspoint-to-sell-49-stake-in-arcadian-risk-capital-for-139-million/))
+- SiriusPoint to Sell 49% Stake in Arcadian Risk Capital for $139 Million ([6 days ago](https://www.insurtechinsights.com/siriuspoint-to-sell-49-stake-in-arcadian-risk-capital-for-139-million/))
 - TMHCC Partners with The Acheson Group to Strengthen Product Recall Services ([6 days ago](https://www.insurtechinsights.com/tmhcc-partners-with-the-acheson-group-to-strengthen-product-recall-services/))
 - Global Indemnity’s Penn-America Launches Reinsurance MGA Led by George Dragonetti ([6 days ago](https://www.insurtechinsights.com/global-indemnitys-penn-america-launches-reinsurance-mga-led-by-george-dragonetti/))
 - NI&P Podcast #17: Are advisers missing the trick when it comes to insurance & protection? With The Exeter’s Jamie Page ([6 days ago](https://ifamagazine.com/nip-podcast-17-are-advisers-missing-the-trick-when-it-comes-to-insurance-protection-with-the-exeters-jamie-page/))
