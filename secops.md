@@ -8,10 +8,11 @@ description: SecOps News
 [Get this as an RSS feed](/secops.rss)
 
 <!-- news_marker starts -->
-- In a few days, the PowerSchool hacker will learn his sentence, and his life as he has known it will end. ([8 hours ago](https://databreaches.net/2025/10/11/in-a-few-days-the-powerschool-hacker-will-learn-his-sentence-and-his-life-as-he-has-known-it-will-end/?pk_campaign=feed&pk_kwd=in-a-few-days-the-powerschool-hacker-will-learn-his-sentence-and-his-life-as-he-has-known-it-will-end))
+- Weekly Update 473 ([42 minutes ago](https://www.troyhunt.com/weekly-update-473/))
+- In a few days, the PowerSchool hacker will learn his sentence, and his life as he has known it will end. ([9 hours ago](https://databreaches.net/2025/10/11/in-a-few-days-the-powerschool-hacker-will-learn-his-sentence-and-his-life-as-he-has-known-it-will-end/?pk_campaign=feed&pk_kwd=in-a-few-days-the-powerschool-hacker-will-learn-his-sentence-and-his-life-as-he-has-known-it-will-end))
 - They were victims of a massive data breach in 2009. Interior Health denied it for a decade. ([10 hours ago](https://databreaches.net/2025/10/11/they-were-victims-of-a-massive-data-breach-in-2009-interior-health-denied-it-for-a-decade/?pk_campaign=feed&pk_kwd=they-were-victims-of-a-massive-data-breach-in-2009-interior-health-denied-it-for-a-decade))
 - Experts Warn of Widespread SonicWall VPN Compromise Impacting Over 100 Accounts ([14 hours ago](https://thehackernews.com/2025/10/experts-warn-of-widespread-sonicwall.html))
-- Hackers Turn Velociraptor DFIR Tool Into Weapon in LockBit Ransomware Attacks ([14 hours ago](https://thehackernews.com/2025/10/hackers-turn-velociraptor-dfir-tool.html))
+- Hackers Turn Velociraptor DFIR Tool Into Weapon in LockBit Ransomware Attacks ([15 hours ago](https://thehackernews.com/2025/10/hackers-turn-velociraptor-dfir-tool.html))
 - Vietnam Airlines - 7,316,915 breached accounts ([18 hours ago](https://haveibeenpwned.com/Breach/VietnamAirlines))
 - Watsonville Community Hospital had a data breach — or two. It would be helpful to know which. ([1 days ago](https://databreaches.net/2025/10/10/watsonville-community-hospital-had-a-data-breach-or-two-it-would-be-helpful-to-know-which/?pk_campaign=feed&pk_kwd=watsonville-community-hospital-had-a-data-breach-or-two-it-would-be-helpful-to-know-which))
 - Telstra Denies Scattered Spider Data Breach Claims Amid Ransom Threats ([1 days ago](https://databreaches.net/2025/10/10/telstra-denies-scattered-spider-data-breach-claims-amid-ransom-threats/?pk_campaign=feed&pk_kwd=telstra-denies-scattered-spider-data-breach-claims-amid-ransom-threats))
@@ -143,7 +144,7 @@ description: SecOps News
 - Oracle tells Clop-targeted EBS users to apply July patch, problem solved ([8 days ago](https://go.theregister.com/feed/www.theregister.com/2025/10/03/oracle_ebs_clop_extortion/))
 - 5 Reasons ISO 27001 Implementations Fail (and How to Avoid Them) ([8 days ago](https://www.itgovernance.co.uk/blog/5-reasons-iso-27001-implementations-fail-and-how-to-avoid-them))
 - HomeRefill - 187,457 breached accounts ([8 days ago](https://haveibeenpwned.com/Breach/HomeRefill))
-- Incident with Copilot ([8 days ago](https://www.githubstatus.com/incidents/34wtrn4nngwk))
+- Incident with Copilot ([9 days ago](https://www.githubstatus.com/incidents/34wtrn4nngwk))
 - Latest Pilot Jobs - 118,864 breached accounts ([9 days ago](https://haveibeenpwned.com/Breach/LatestPilotJobs))
 - Degraded Gemini 2.5 Pro experience in Copilot ([9 days ago](https://www.githubstatus.com/incidents/l94jr9wnhs4r))
 - Re: [FD]	: "Glass Cage" – Zero-Click iMessage → Persistent iOS Compromise + Bricking (CVE-2025-24085 / 24201, CNVD-2025-07885) ([9 days ago](https://seclists.org/fulldisclosure/2025/Oct/1))

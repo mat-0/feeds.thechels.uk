@@ -87,7 +87,7 @@ description: Insurance Updates
 - Throwback Thursday: Food safety; Swiss Re’s promise ([2 days ago](https://www.postonline.co.uk/claims/7956771/throwback-thursday-food-safety-swiss-re%E2%80%99s-promise))
 - Motor market softening puts spotlight on service ([2 days ago](https://www.postonline.co.uk/commercial/7959008/motor-market-softening-puts-spotlight-on-service))
 - Sky-high car insurance premiums driving customers to break the law ([2 days ago](https://www.postonline.co.uk/news/7959174/sky-high-car-insurance-premiums-driving-customers-to-break-the-law))
-- Insurers warn of rising climate exposure as cities struggle to finance resilience ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/insurers-warn-of-rising-climate-exposure-as-cities-struggle-to-finance-resilience-552421.aspx))
+- Insurers warn of rising climate exposure as cities struggle to finance resilience ([3 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/insurers-warn-of-rising-climate-exposure-as-cities-struggle-to-finance-resilience-552421.aspx))
 - Insurance moves: Broadstone, MAXIS, Blenheim and SRG ([3 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/insurance-moves-broadstone-maxis-blenheim-and-srg-552419.aspx))
 - Mortality in England and Wales falls to record low in 2025, CMI reports ([3 days ago](https://www.insurancebusinessmag.com/uk/news/life-insurance/mortality-in-england-and-wales-falls-to-record-low-in-2025-cmi-reports-552418.aspx))
 - Ransomware threats escalate as AI and cloud vulnerabilities grow, QBE warns ([3 days ago](https://www.insurancebusinessmag.com/uk/news/cyber/ransomware-threats-escalate-as-ai-and-cloud-vulnerabilities-grow-qbe-warns-552416.aspx))
