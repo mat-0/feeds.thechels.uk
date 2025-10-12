@@ -31,7 +31,7 @@ description: Insurance Updates
 - Ben & Jerry’s Co-Founder Expects Conflict to Continue Under New Ownership ([1 days ago](https://www.insurancejournal.com/news/east/2025/10/10/843377.htm))
 - New York City And Northeast Brace for Flooding Rains From Weekend Storm ([1 days ago](https://www.insurancejournal.com/news/east/2025/10/10/843373.htm))
 - Most insurance leaders say industry isn’t adapting fast enough to climate risk: ZestyAI ([1 days ago](https://www.reinsurancene.ws/most-insurance-leaders-say-industry-isnt-adapting-fast-enough-to-climate-risk-zestyai/))
-- Weak Governance of Artificial Intelligence Raises Risks of Cyberattacks: Moody’s ([1 days ago](https://www.insurancejournal.com/news/international/2025/10/10/843354.htm))
+- Weak Governance of Artificial Intelligence Raises Risks of Cyberattacks: Moody’s ([2 days ago](https://www.insurancejournal.com/news/international/2025/10/10/843354.htm))
 - SIGNAL IDUNA to boost efficiency and optimise job functions with Gemini Enterprise ([2 days ago](https://www.reinsurancene.ws/signal-iduna-to-boost-efficiency-and-optimise-job-functions-with-gemini-enterprise/))
 - Ex-Insurance Agent Avoids Prison for Being ‘Model Cooperator’ in Menendez Case ([2 days ago](https://www.insurancejournal.com/news/east/2025/10/10/843316.htm))
 - Wyoming Library Director Fired in Book Dispute Wins $700K Settlement ([2 days ago](https://www.insurancejournal.com/news/west/2025/10/10/843344.htm))
@@ -129,9 +129,8 @@ description: Insurance Updates
 - Nearmap and Zurich Advance Property Underwriting with AI Integration ([9 days ago](https://www.insurtechinsights.com/nearmap-and-zurich-advance-property-underwriting-with-ai-integration/))
 - Novacore to Acquire Minglewood Risk, Expanding Real Estate Insurance Segment ([9 days ago](https://www.insurtechinsights.com/novacore-to-acquire-minglewood-risk-expanding-real-estate-insurance-segment/))
 - New research reveals what dental professionals value most – as Bupa Dental Care launches new campaign ([11 days ago](https://ifamagazine.com/new-research-reveals-what-dental-professionals-value-most-as-bupa-dental-care-launches-new-campaign/))
-- £447m life insurance boom as families prepare for pensions to face 40% IHT ([12 days ago](https://ifamagazine.com/447m-life-insurance-boom-as-families-prepare-for-pensions-to-face-40-iht/))
+- £447m life insurance boom as families prepare for pensions to face 40% IHT ([13 days ago](https://ifamagazine.com/447m-life-insurance-boom-as-families-prepare-for-pensions-to-face-40-iht/))
 - Income Protection Action Week: building resilience in uncertain times ([15 days ago](https://ifamagazine.com/income-protection-action-week-building-resilience-in-uncertain-times/))
 - Zego Aims to Shift UK Telematics Insurance From Black Box to App-Based Model ([24 days ago](https://thefintechtimes.com/zego-aims-to-shift-uk-telematics-insurance-from-black-box-to-app-based-model/))
-- 180 Seguros Raises $9million to Expand AI Initiatives And Boost Regulatory Capital ([29 days ago](https://thefintechtimes.com/180-seguros-raises-9m-to-expand-ai-initiatives-and-boost-regulatory-capital/))
 
 <!-- news_marker ends -->
