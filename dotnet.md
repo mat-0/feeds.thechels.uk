@@ -52,7 +52,7 @@ description: DotNet Updates
 - Some Thoughts on MS Pulling Back on their "Eventing Framework" ([16 days ago](https://dotnetkicks.com/r/731013?url=https://jeremydmiller.com/2025/09/25/some-thoughts-on-ms-pulling-back-on-their-eventing-framework/))
 - Announcing Aspire 9.5 ([17 days ago](https://devblogs.microsoft.com/dotnet/announcing-dotnet-aspire-95/))
 - Rider Roadmap: What to Expect From the Upcoming Updates and Releases ([17 days ago](https://blog.jetbrains.com/dotnet/2025/09/25/rider-rider-roadmap-2025-3/))
-- Exploring Text-to-Image capabilities in .NET ([17 days ago](https://devblogs.microsoft.com/dotnet/explore-text-to-image-dotnet/))
+- Exploring Text-to-Image capabilities in .NET ([18 days ago](https://devblogs.microsoft.com/dotnet/explore-text-to-image-dotnet/))
 - sleep-pc: a .NET Native AOT tool to make Windows sleep after a timeout ([19 days ago](https://andrewlock.net/sleep-pc-a-dotnet-tool-to-make-windows-sleep-after-a-timeout/))
 - New Trusted Publishing enhances security on NuGet.org ([20 days ago](https://devblogs.microsoft.com/dotnet/enhanced-security-is-here-with-the-new-trust-publishing-on-nuget-org/))
 - Boost Your .NET Projects: Mastering ObservableList in Spargine ([21 days ago](https://dotnettips.wordpress.com/2025/09/21/boost-your-net-projects-mastering-observablelist-in-spargine/))
