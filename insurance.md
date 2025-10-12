@@ -81,7 +81,7 @@ description: Insurance Updates
 - Munich Re Specialty gains approval to launch commercial insurance in Germany ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/munich-re-specialty-gains-approval-to-launch-commercial-insurance-in-germany-552469.aspx))
 - How insurance can realise the personalised motor policy dream ([2 days ago](https://www.postonline.co.uk/personal/7959025/how-insurance-can-realise-the-personalised-motor-policy-dream))
 - This big insurer has $10 billion to spend on acquisitions ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/this-big-insurer-has-10-billion-to-spend-on-acquisitions-552452.aspx))
-- Majority of UK businesses express concern over rising sick leave, new report warns ([2 days ago](https://ifamagazine.com/majority-of-uk-businesses-express-concern-over-rising-sick-leave-new-report-warns/))
+- Majority of UK businesses express concern over rising sick leave, new report warns ([3 days ago](https://ifamagazine.com/majority-of-uk-businesses-express-concern-over-rising-sick-leave-new-report-warns/))
 - Q&A: Jemma Ashley, LexisNexis Risk Solutions ([3 days ago](https://www.postonline.co.uk/people/7958988/qa-jemma-ashley-lexisnexis-risk-solutions))
 - The camper van and motorhome insurance risks we never saw coming ([3 days ago](https://www.postonline.co.uk/risk-management/7958990/the-camper-van-and-motorhome-insurance-risks-we-never-saw-coming))
 - Throwback Thursday: Food safety; Swiss Re’s promise ([3 days ago](https://www.postonline.co.uk/claims/7956771/throwback-thursday-food-safety-swiss-re%E2%80%99s-promise))
