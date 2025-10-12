@@ -8,11 +8,11 @@ description: SecOps News
 [Get this as an RSS feed](/secops.rss)
 
 <!-- news_marker starts -->
-- In a few days, the PowerSchool hacker will learn his sentence, and his life as he has known it will end. ([7 hours ago](https://databreaches.net/2025/10/11/in-a-few-days-the-powerschool-hacker-will-learn-his-sentence-and-his-life-as-he-has-known-it-will-end/?pk_campaign=feed&pk_kwd=in-a-few-days-the-powerschool-hacker-will-learn-his-sentence-and-his-life-as-he-has-known-it-will-end))
+- In a few days, the PowerSchool hacker will learn his sentence, and his life as he has known it will end. ([8 hours ago](https://databreaches.net/2025/10/11/in-a-few-days-the-powerschool-hacker-will-learn-his-sentence-and-his-life-as-he-has-known-it-will-end/?pk_campaign=feed&pk_kwd=in-a-few-days-the-powerschool-hacker-will-learn-his-sentence-and-his-life-as-he-has-known-it-will-end))
 - They were victims of a massive data breach in 2009. Interior Health denied it for a decade. ([9 hours ago](https://databreaches.net/2025/10/11/they-were-victims-of-a-massive-data-breach-in-2009-interior-health-denied-it-for-a-decade/?pk_campaign=feed&pk_kwd=they-were-victims-of-a-massive-data-breach-in-2009-interior-health-denied-it-for-a-decade))
 - Experts Warn of Widespread SonicWall VPN Compromise Impacting Over 100 Accounts ([13 hours ago](https://thehackernews.com/2025/10/experts-warn-of-widespread-sonicwall.html))
-- Hackers Turn Velociraptor DFIR Tool Into Weapon in LockBit Ransomware Attacks ([13 hours ago](https://thehackernews.com/2025/10/hackers-turn-velociraptor-dfir-tool.html))
-- Vietnam Airlines - 7,316,915 breached accounts ([17 hours ago](https://haveibeenpwned.com/Breach/VietnamAirlines))
+- Hackers Turn Velociraptor DFIR Tool Into Weapon in LockBit Ransomware Attacks ([14 hours ago](https://thehackernews.com/2025/10/hackers-turn-velociraptor-dfir-tool.html))
+- Vietnam Airlines - 7,316,915 breached accounts ([18 hours ago](https://haveibeenpwned.com/Breach/VietnamAirlines))
 - Watsonville Community Hospital had a data breach — or two. It would be helpful to know which. ([1 days ago](https://databreaches.net/2025/10/10/watsonville-community-hospital-had-a-data-breach-or-two-it-would-be-helpful-to-know-which/?pk_campaign=feed&pk_kwd=watsonville-community-hospital-had-a-data-breach-or-two-it-would-be-helpful-to-know-which))
 - Telstra Denies Scattered Spider Data Breach Claims Amid Ransom Threats ([1 days ago](https://databreaches.net/2025/10/10/telstra-denies-scattered-spider-data-breach-claims-amid-ransom-threats/?pk_campaign=feed&pk_kwd=telstra-denies-scattered-spider-data-breach-claims-amid-ransom-threats))
 - OpenAI GPT-5: great taste, less filling, now with 30% less bias ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2025/10/10/openai_gpt5_bias/))
@@ -196,7 +196,7 @@ description: SecOps News
 - Vastaamo psychotherapy hack: US citizen charged in latest twist of notorious data breach ([22 days ago](https://www.bitdefender.com/en-us/blog/hotforsecurity/vastaamo-psychotherapy-hack-us-citizen-charged-in-latest-twist-of-notorious-data-breach))
 - Have I Been Pwned Demos Are Now Live! ([22 days ago](https://www.troyhunt.com/have-i-been-pwned-demos-are-now-live/))
 - “Pompompurin” resentenced: BreachForums creator heads back behind bars ([23 days ago](https://www.bitdefender.com/en-us/blog/hotforsecurity/pompompurin-resentenced-breachforums-creator-heads-back-behind-bars))
-- FreeOnes - 960,213 breached accounts ([23 days ago](https://haveibeenpwned.com/Breach/FreeOnes))
+- FreeOnes - 960,213 breached accounts ([24 days ago](https://haveibeenpwned.com/Breach/FreeOnes))
 - Smashing Security podcast #435: Lights! Camera! Hacktion! ([24 days ago](https://grahamcluley.com/smashing-security-podcast-435/))
 - Incident with Codespaces ([24 days ago](https://www.githubstatus.com/incidents/rdzg3x1qwtb3))
 - External attack surface management (EASM) buyer's guide ([24 days ago](https://www.ncsc.gov.uk/guidance/external-attack-surface-management-buyers-guide))
