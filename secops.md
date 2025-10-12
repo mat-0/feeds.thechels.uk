@@ -9,10 +9,10 @@ description: SecOps News
 
 <!-- news_marker starts -->
 - Weekly Update 473 ([1 hours ago](https://www.troyhunt.com/weekly-update-473/))
-- In a few days, the PowerSchool hacker will learn his sentence, and his life as he has known it will end. ([9 hours ago](https://databreaches.net/2025/10/11/in-a-few-days-the-powerschool-hacker-will-learn-his-sentence-and-his-life-as-he-has-known-it-will-end/?pk_campaign=feed&pk_kwd=in-a-few-days-the-powerschool-hacker-will-learn-his-sentence-and-his-life-as-he-has-known-it-will-end))
+- In a few days, the PowerSchool hacker will learn his sentence, and his life as he has known it will end. ([10 hours ago](https://databreaches.net/2025/10/11/in-a-few-days-the-powerschool-hacker-will-learn-his-sentence-and-his-life-as-he-has-known-it-will-end/?pk_campaign=feed&pk_kwd=in-a-few-days-the-powerschool-hacker-will-learn-his-sentence-and-his-life-as-he-has-known-it-will-end))
 - They were victims of a massive data breach in 2009. Interior Health denied it for a decade. ([11 hours ago](https://databreaches.net/2025/10/11/they-were-victims-of-a-massive-data-breach-in-2009-interior-health-denied-it-for-a-decade/?pk_campaign=feed&pk_kwd=they-were-victims-of-a-massive-data-breach-in-2009-interior-health-denied-it-for-a-decade))
 - Experts Warn of Widespread SonicWall VPN Compromise Impacting Over 100 Accounts ([15 hours ago](https://thehackernews.com/2025/10/experts-warn-of-widespread-sonicwall.html))
-- Hackers Turn Velociraptor DFIR Tool Into Weapon in LockBit Ransomware Attacks ([15 hours ago](https://thehackernews.com/2025/10/hackers-turn-velociraptor-dfir-tool.html))
+- Hackers Turn Velociraptor DFIR Tool Into Weapon in LockBit Ransomware Attacks ([16 hours ago](https://thehackernews.com/2025/10/hackers-turn-velociraptor-dfir-tool.html))
 - Vietnam Airlines - 7,316,915 breached accounts ([19 hours ago](https://haveibeenpwned.com/Breach/VietnamAirlines))
 - Watsonville Community Hospital had a data breach — or two. It would be helpful to know which. ([1 days ago](https://databreaches.net/2025/10/10/watsonville-community-hospital-had-a-data-breach-or-two-it-would-be-helpful-to-know-which/?pk_campaign=feed&pk_kwd=watsonville-community-hospital-had-a-data-breach-or-two-it-would-be-helpful-to-know-which))
 - Telstra Denies Scattered Spider Data Breach Claims Amid Ransom Threats ([1 days ago](https://databreaches.net/2025/10/10/telstra-denies-scattered-spider-data-breach-claims-amid-ransom-threats/?pk_campaign=feed&pk_kwd=telstra-denies-scattered-spider-data-breach-claims-amid-ransom-threats))
