@@ -36,7 +36,7 @@ description: Insurance Updates
 - Ex-Insurance Agent Avoids Prison for Being ‘Model Cooperator’ in Menendez Case ([1 days ago](https://www.insurancejournal.com/news/east/2025/10/10/843316.htm))
 - Wyoming Library Director Fired in Book Dispute Wins $700K Settlement ([1 days ago](https://www.insurancejournal.com/news/west/2025/10/10/843344.htm))
 - Hannover Re expects price pressure at 1/1 but doubles down on nat cat appetite ([1 days ago](https://www.reinsurancene.ws/hannover-re-expects-price-pressure-at-1-1-but-doubles-down-on-nat-cat-appetite/))
-- Markel appoints Scott Luxford as Head of Distribution & MGA Strategy ([1 days ago](https://www.reinsurancene.ws/markel-appoints-scott-luxford-as-head-of-distribution-mga-strategy/))
+- Markel appoints Scott Luxford as Head of Distribution & MGA Strategy ([2 days ago](https://www.reinsurancene.ws/markel-appoints-scott-luxford-as-head-of-distribution-mga-strategy/))
 - AM Best raises AXA’s credit ratings on steady profitability & diversified business ([2 days ago](https://www.reinsurancene.ws/am-best-raises-axas-credit-ratings-on-steady-profitability-diversified-business/))
 - Global Financial Watchdogs to Ramp Up Monitoring of Artificial Intelligence ([2 days ago](https://www.insurancejournal.com/news/international/2025/10/10/843340.htm))
 - Meanwhile secures $82m to meet growing demand of bitcoin-denominated life insurance ([2 days ago](https://www.reinsurancene.ws/meanwhile-secures-82m-to-meet-growing-demand-of-bitcoin-denominated-life-insurance/))
