@@ -8,8 +8,8 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Gradient AI Teams Up With Connexure ([18 hours ago](https://insurance-edge.net/2025/10/11/gradient-ai-teams-up-with-connexure/))
-- New Consumer Protections For California Wildfire Victims ([18 hours ago](https://insurance-edge.net/2025/10/11/new-consumer-protections-for-california-wildfire-victims/))
+- Gradient AI Teams Up With Connexure ([19 hours ago](https://insurance-edge.net/2025/10/11/gradient-ai-teams-up-with-connexure/))
+- New Consumer Protections For California Wildfire Victims ([19 hours ago](https://insurance-edge.net/2025/10/11/new-consumer-protections-for-california-wildfire-victims/))
 - Why Ethics CE Matters: Strengthening Professional Standards in Insurance ([1 days ago](https://www.insurancejournal.com/blogs/risk-insurance-education-alliance/2025/10/10/842545.htm))
 - Research by L&G Discovers People Think Life Cover Costs £79 a Month ([1 days ago](https://insurance-edge.net/2025/10/10/research-by-lg-discovers-people-think-life-cover-costs-79-a-month/))
 - MAPFRE Goes Big on Tech, With 100 New Hires ([1 days ago](https://insurance-edge.net/2025/10/10/mapfre-goes-big-on-tech-with-100-new-hires/))
@@ -88,7 +88,7 @@ description: Insurance Updates
 - Motor market softening puts spotlight on service ([2 days ago](https://www.postonline.co.uk/commercial/7959008/motor-market-softening-puts-spotlight-on-service))
 - Sky-high car insurance premiums driving customers to break the law ([2 days ago](https://www.postonline.co.uk/news/7959174/sky-high-car-insurance-premiums-driving-customers-to-break-the-law))
 - Insurers warn of rising climate exposure as cities struggle to finance resilience ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/insurers-warn-of-rising-climate-exposure-as-cities-struggle-to-finance-resilience-552421.aspx))
-- Insurance moves: Broadstone, MAXIS, Blenheim and SRG ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/insurance-moves-broadstone-maxis-blenheim-and-srg-552419.aspx))
+- Insurance moves: Broadstone, MAXIS, Blenheim and SRG ([3 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/insurance-moves-broadstone-maxis-blenheim-and-srg-552419.aspx))
 - Mortality in England and Wales falls to record low in 2025, CMI reports ([3 days ago](https://www.insurancebusinessmag.com/uk/news/life-insurance/mortality-in-england-and-wales-falls-to-record-low-in-2025-cmi-reports-552418.aspx))
 - Ransomware threats escalate as AI and cloud vulnerabilities grow, QBE warns ([3 days ago](https://www.insurancebusinessmag.com/uk/news/cyber/ransomware-threats-escalate-as-ai-and-cloud-vulnerabilities-grow-qbe-warns-552416.aspx))
 - Insurers bring climate science pros in-house ([3 days ago](https://www.dig-in.com/news/insurers-bring-climate-science-pros-in-house))
@@ -111,7 +111,7 @@ description: Insurance Updates
 - EV value and talent worries dominate automotive sector ([3 days ago](https://www.postonline.co.uk/news/7959159/ev-value-and-talent-worries-dominate-automotive-sector))
 - Key drivers shaping the future of motor insurance ([3 days ago](https://www.postonline.co.uk/personal/7958989/key-drivers-shaping-the-future-of-motor-insurance))
 - Can non-standard motor find growth in a soft market? ([3 days ago](https://www.postonline.co.uk/broker/7958948/can-non-standard-motor-find-growth-in-a-soft-market))
-- Igloo Boosts Climate Resilience Across Southeast Asia with Data-Driven Insurance Solutions ([3 days ago](https://thefintechtimes.com/igloo-boosts-climate-resilience-across-southeast-asia-with-data-driven-insurance-solutions/))
+- Igloo Boosts Climate Resilience Across Southeast Asia with Data-Driven Insurance Solutions ([4 days ago](https://thefintechtimes.com/igloo-boosts-climate-resilience-across-southeast-asia-with-data-driven-insurance-solutions/))
 - New York Life hires Soni ([4 days ago](https://www.dig-in.com/news/new-york-life-hires-soni))
 - Climate risk mitigation measures need support, PwC expert says ([4 days ago](https://www.dig-in.com/news/pwc-expert-climate-risk-mitigation-needs-more-support))
 - From automation to intelligence: When AI becomes a strategic partner ([4 days ago](https://www.dig-in.com/opinion/when-ai-becomes-a-strategic-partner))
