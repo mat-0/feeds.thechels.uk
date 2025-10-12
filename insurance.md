@@ -8,8 +8,8 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Gradient AI Teams Up With Connexure ([20 hours ago](https://insurance-edge.net/2025/10/11/gradient-ai-teams-up-with-connexure/))
-- New Consumer Protections For California Wildfire Victims ([20 hours ago](https://insurance-edge.net/2025/10/11/new-consumer-protections-for-california-wildfire-victims/))
+- Gradient AI Teams Up With Connexure ([21 hours ago](https://insurance-edge.net/2025/10/11/gradient-ai-teams-up-with-connexure/))
+- New Consumer Protections For California Wildfire Victims ([21 hours ago](https://insurance-edge.net/2025/10/11/new-consumer-protections-for-california-wildfire-victims/))
 - Why Ethics CE Matters: Strengthening Professional Standards in Insurance ([1 days ago](https://www.insurancejournal.com/blogs/risk-insurance-education-alliance/2025/10/10/842545.htm))
 - Research by L&G Discovers People Think Life Cover Costs £79 a Month ([1 days ago](https://insurance-edge.net/2025/10/10/research-by-lg-discovers-people-think-life-cover-costs-79-a-month/))
 - MAPFRE Goes Big on Tech, With 100 New Hires ([1 days ago](https://insurance-edge.net/2025/10/10/mapfre-goes-big-on-tech-with-100-new-hires/))
@@ -55,8 +55,8 @@ description: Insurance Updates
 - Liberty Specialty Markets promotes Henry Nelson to active underwriter ([1 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/liberty-specialty-markets-promotes-henry-nelson-to-active-underwriter-552597.aspx))
 - Towergate calls for shared mental health responsibility ([1 days ago](https://www.insurancebusinessmag.com/uk/news/life-insurance/towergate-calls-for-shared-mental-health-responsibility-552596.aspx))
 - Tony Scott named head of claims for AmTrust Specialty ([1 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/tony-scott-named-head-of-claims-for-amtrust-specialty-552595.aspx))
-- Survey Shows Homeowners Warming to DIY Digital Claims, Insurance Processes ([1 days ago](https://www.insurancejournal.com/news/national/2025/10/10/843244.htm))
-- High Demand for Gen AI Insurance; Buyers Say They’ll Pay More: Report ([1 days ago](https://www.insurancejournal.com/news/national/2025/10/10/843301.htm))
+- Survey Shows Homeowners Warming to DIY Digital Claims, Insurance Processes ([2 days ago](https://www.insurancejournal.com/news/national/2025/10/10/843244.htm))
+- High Demand for Gen AI Insurance; Buyers Say They’ll Pay More: Report ([2 days ago](https://www.insurancejournal.com/news/national/2025/10/10/843301.htm))
 - Microsoft Forecasts Show Data Center Crunch Persisting Into 2026 ([2 days ago](https://www.insurancejournal.com/news/national/2025/10/10/843307.htm))
 - Florida County Hit by 2024 Hurricanes Takes on Beach Restoration Without Fed Help ([2 days ago](https://www.insurancejournal.com/news/southeast/2025/10/10/843237.htm))
 - Dogs Kill Toddler at Unlicensed Georgia Daycare Center ([2 days ago](https://www.insurancejournal.com/news/southeast/2025/10/10/843246.htm))
