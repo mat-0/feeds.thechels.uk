@@ -8,8 +8,8 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- E&S insurance poised for growth due to climate risks ([2 hours ago](https://www.dig-in.com/news/e-s-insurance-poised-for-growth-due-to-climate-risks))
-- Last-resort insurer's unpaid claims arbitration is called biased ([2 hours ago](https://www.dig-in.com/news/florida-last-resort-insurers-arbitrations-are-called-biased))
+- E&S insurance poised for growth due to climate risks ([3 hours ago](https://www.dig-in.com/news/e-s-insurance-poised-for-growth-due-to-climate-risks))
+- Last-resort insurer's unpaid claims arbitration is called biased ([3 hours ago](https://www.dig-in.com/news/florida-last-resort-insurers-arbitrations-are-called-biased))
 - Gradient AI Teams Up With Connexure ([1 days ago](https://insurance-edge.net/2025/10/11/gradient-ai-teams-up-with-connexure/))
 - New Consumer Protections For California Wildfire Victims ([1 days ago](https://insurance-edge.net/2025/10/11/new-consumer-protections-for-california-wildfire-victims/))
 - Why Ethics CE Matters: Strengthening Professional Standards in Insurance ([2 days ago](https://www.insurancejournal.com/blogs/risk-insurance-education-alliance/2025/10/10/842545.htm))
