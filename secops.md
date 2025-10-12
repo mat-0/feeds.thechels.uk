@@ -9,7 +9,7 @@ description: SecOps News
 
 <!-- news_marker starts -->
 - New Oracle E-Business Suite Bug Could Let Hackers Access Data Without Login ([3 hours ago](https://thehackernews.com/2025/10/new-oracle-e-business-suite-bug-could.html))
-- From sizzle to drizzle to fizzle: The massive data leak that wasn’t ([4 hours ago](https://databreaches.net/2025/10/12/from-sizzle-to-drizzle-to-fizzle-the-massive-data-leak-that-wasnt/?pk_campaign=feed&pk_kwd=from-sizzle-to-drizzle-to-fizzle-the-massive-data-leak-that-wasnt))
+- From sizzle to drizzle to fizzle: The massive data leak that wasn’t ([5 hours ago](https://databreaches.net/2025/10/12/from-sizzle-to-drizzle-to-fizzle-the-massive-data-leak-that-wasnt/?pk_campaign=feed&pk_kwd=from-sizzle-to-drizzle-to-fizzle-the-massive-data-leak-that-wasnt))
 - Fake 'Inflation Refund' texts target New Yorkers in new scam ([6 hours ago](https://www.bleepingcomputer.com/news/security/fake-inflation-refund-texts-target-new-yorkers-in-new-scam/))
 - Weekly Update 473 ([17 hours ago](https://www.troyhunt.com/weekly-update-473/))
 - In a few days, the PowerSchool hacker will learn his sentence, and his life as he has known it will end. ([1 days ago](https://databreaches.net/2025/10/11/in-a-few-days-the-powerschool-hacker-will-learn-his-sentence-and-his-life-as-he-has-known-it-will-end/?pk_campaign=feed&pk_kwd=in-a-few-days-the-powerschool-hacker-will-learn-his-sentence-and-his-life-as-he-has-known-it-will-end))
@@ -58,9 +58,9 @@ description: SecOps News
 - CL0P-Linked Hackers Breach Dozens of Organizations Through Oracle Software Flaw ([2 days ago](https://thehackernews.com/2025/10/cl0p-linked-hackers-breach-dozens-of.html))
 - BreachForums Seized — Again! ([2 days ago](https://databreaches.net/2025/10/09/breachforums-seized-again/?pk_campaign=feed&pk_kwd=breachforums-seized-again))
 - SonicWall Says All Firewall Backups Were Accessed by Hackers ([2 days ago](https://databreaches.net/2025/10/09/sonicwall-says-all-firewall-backups-were-accessed-by-hackers/?pk_campaign=feed&pk_kwd=sonicwall-says-all-firewall-backups-were-accessed-by-hackers))
-- New Android spyware ClayRat imitates WhatsApp, TikTok, YouTube ([2 days ago](https://www.bleepingcomputer.com/news/security/new-android-spyware-clayrat-imitates-whatsapp-tiktok-youtube/))
-- It's trivially easy to poison LLMs into spitting out gibberish, says Anthropic ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2025/10/09/its_trivially_easy_to_poison/))
-- It's trivially easy to poison LLMs into spitting out gibberish, says Anthropic ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2025/10/09/its_trivially_easy_to_poison/))
+- New Android spyware ClayRat imitates WhatsApp, TikTok, YouTube ([3 days ago](https://www.bleepingcomputer.com/news/security/new-android-spyware-clayrat-imitates-whatsapp-tiktok-youtube/))
+- It's trivially easy to poison LLMs into spitting out gibberish, says Anthropic ([3 days ago](https://go.theregister.com/feed/www.theregister.com/2025/10/09/its_trivially_easy_to_poison/))
+- It's trivially easy to poison LLMs into spitting out gibberish, says Anthropic ([3 days ago](https://go.theregister.com/feed/www.theregister.com/2025/10/09/its_trivially_easy_to_poison/))
 - Amazon's Quick Suite is like agentic AI training wheels for enterprises ([3 days ago](https://go.theregister.com/feed/www.theregister.com/2025/10/09/amazons_quick_suite/))
 - Google rearranges Agentspace into Gemini Enterprise ([3 days ago](https://go.theregister.com/feed/www.theregister.com/2025/10/09/google_rearranges_agentspace_into_gemini/))
 - Microsoft: Hackers target universities in “payroll pirate” attacks ([3 days ago](https://www.bleepingcomputer.com/news/security/hackers-target-university-hr-employees-in-payroll-pirate-attacks/))
@@ -207,7 +207,7 @@ description: SecOps News
 - Luxury fashion brands Gucci, Balenciaga and Alexander McQueen hacked – customer data stolen ([26 days ago](https://www.bitdefender.com/en-us/blog/hotforsecurity/luxury-fashion-brands-gucci-balenciaga-and-alexander-mcqueen-hacked-customer-data-stolen))
 - The AI Fix #68: AI telepathy, and rights for robots ([26 days ago](https://grahamcluley.com/the-ai-fix-68/))
 - Miljödata - 870,108 breached accounts ([26 days ago](https://haveibeenpwned.com/Breach/Miljodata))
-- Repository search is degraded ([26 days ago](https://www.githubstatus.com/incidents/n3vgjzqv7d18))
+- Repository search is degraded ([27 days ago](https://www.githubstatus.com/incidents/n3vgjzqv7d18))
 - Disruption with some GitHub services ([27 days ago](https://www.githubstatus.com/incidents/ffh1r1w0hj6h))
 - Weekly Update 469 ([29 days ago](https://www.troyhunt.com/weekly-update-469/))
 
