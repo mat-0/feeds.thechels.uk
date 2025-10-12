@@ -9,7 +9,7 @@ description: SecOps News
 
 <!-- news_marker starts -->
 - New Oracle E-Business Suite Bug Could Let Hackers Access Data Without Login ([4 hours ago](https://thehackernews.com/2025/10/new-oracle-e-business-suite-bug-could.html))
-- From sizzle to drizzle to fizzle: The massive data leak that wasn’t ([5 hours ago](https://databreaches.net/2025/10/12/from-sizzle-to-drizzle-to-fizzle-the-massive-data-leak-that-wasnt/?pk_campaign=feed&pk_kwd=from-sizzle-to-drizzle-to-fizzle-the-massive-data-leak-that-wasnt))
+- From sizzle to drizzle to fizzle: The massive data leak that wasn’t (1) ([6 hours ago](https://databreaches.net/2025/10/12/from-sizzle-to-drizzle-to-fizzle-the-massive-data-leak-that-wasnt/?pk_campaign=feed&pk_kwd=from-sizzle-to-drizzle-to-fizzle-the-massive-data-leak-that-wasnt))
 - Fake 'Inflation Refund' texts target New Yorkers in new scam ([7 hours ago](https://www.bleepingcomputer.com/news/security/fake-inflation-refund-texts-target-new-yorkers-in-new-scam/))
 - Weekly Update 473 ([18 hours ago](https://www.troyhunt.com/weekly-update-473/))
 - In a few days, the PowerSchool hacker will learn his sentence, and his life as he has known it will end. ([1 days ago](https://databreaches.net/2025/10/11/in-a-few-days-the-powerschool-hacker-will-learn-his-sentence-and-his-life-as-he-has-known-it-will-end/?pk_campaign=feed&pk_kwd=in-a-few-days-the-powerschool-hacker-will-learn-his-sentence-and-his-life-as-he-has-known-it-will-end))
@@ -18,7 +18,7 @@ description: SecOps News
 - Experts Warn of Widespread SonicWall VPN Compromise Impacting Over 100 Accounts ([1 days ago](https://thehackernews.com/2025/10/experts-warn-of-widespread-sonicwall.html))
 - Hackers Turn Velociraptor DFIR Tool Into Weapon in LockBit Ransomware Attacks ([1 days ago](https://thehackernews.com/2025/10/hackers-turn-velociraptor-dfir-tool.html))
 - Vietnam Airlines - 7,316,915 breached accounts ([1 days ago](https://haveibeenpwned.com/Breach/VietnamAirlines))
-- Watsonville Community Hospital had a data breach — or two. It would be helpful to know which. ([1 days ago](https://databreaches.net/2025/10/10/watsonville-community-hospital-had-a-data-breach-or-two-it-would-be-helpful-to-know-which/?pk_campaign=feed&pk_kwd=watsonville-community-hospital-had-a-data-breach-or-two-it-would-be-helpful-to-know-which))
+- Watsonville Community Hospital had a data breach — or two. It would be helpful to know which. ([2 days ago](https://databreaches.net/2025/10/10/watsonville-community-hospital-had-a-data-breach-or-two-it-would-be-helpful-to-know-which/?pk_campaign=feed&pk_kwd=watsonville-community-hospital-had-a-data-breach-or-two-it-would-be-helpful-to-know-which))
 - Telstra Denies Scattered Spider Data Breach Claims Amid Ransom Threats ([2 days ago](https://databreaches.net/2025/10/10/telstra-denies-scattered-spider-data-breach-claims-amid-ransom-threats/?pk_campaign=feed&pk_kwd=telstra-denies-scattered-spider-data-breach-claims-amid-ransom-threats))
 - OpenAI GPT-5: great taste, less filling, now with 30% less bias ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2025/10/10/openai_gpt5_bias/))
 - Managers are throwing entry-level workers under the bus in race to adopt AI ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2025/10/10/ai_is_displacing_entrylevel_professionals/))
@@ -57,7 +57,7 @@ description: SecOps News
 - Microsoft hypes PCs with NPUs, still can't offer a good reason to buy one ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2025/10/10/microsoft_npu_windows_opinion/))
 - CL0P-Linked Hackers Breach Dozens of Organizations Through Oracle Software Flaw ([2 days ago](https://thehackernews.com/2025/10/cl0p-linked-hackers-breach-dozens-of.html))
 - BreachForums Seized — Again! ([2 days ago](https://databreaches.net/2025/10/09/breachforums-seized-again/?pk_campaign=feed&pk_kwd=breachforums-seized-again))
-- SonicWall Says All Firewall Backups Were Accessed by Hackers ([2 days ago](https://databreaches.net/2025/10/09/sonicwall-says-all-firewall-backups-were-accessed-by-hackers/?pk_campaign=feed&pk_kwd=sonicwall-says-all-firewall-backups-were-accessed-by-hackers))
+- SonicWall Says All Firewall Backups Were Accessed by Hackers ([3 days ago](https://databreaches.net/2025/10/09/sonicwall-says-all-firewall-backups-were-accessed-by-hackers/?pk_campaign=feed&pk_kwd=sonicwall-says-all-firewall-backups-were-accessed-by-hackers))
 - New Android spyware ClayRat imitates WhatsApp, TikTok, YouTube ([3 days ago](https://www.bleepingcomputer.com/news/security/new-android-spyware-clayrat-imitates-whatsapp-tiktok-youtube/))
 - It's trivially easy to poison LLMs into spitting out gibberish, says Anthropic ([3 days ago](https://go.theregister.com/feed/www.theregister.com/2025/10/09/its_trivially_easy_to_poison/))
 - It's trivially easy to poison LLMs into spitting out gibberish, says Anthropic ([3 days ago](https://go.theregister.com/feed/www.theregister.com/2025/10/09/its_trivially_easy_to_poison/))
