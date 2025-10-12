@@ -8,8 +8,8 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Gradient AI Teams Up With Connexure ([22 hours ago](https://insurance-edge.net/2025/10/11/gradient-ai-teams-up-with-connexure/))
-- New Consumer Protections For California Wildfire Victims ([22 hours ago](https://insurance-edge.net/2025/10/11/new-consumer-protections-for-california-wildfire-victims/))
+- Gradient AI Teams Up With Connexure ([23 hours ago](https://insurance-edge.net/2025/10/11/gradient-ai-teams-up-with-connexure/))
+- New Consumer Protections For California Wildfire Victims ([23 hours ago](https://insurance-edge.net/2025/10/11/new-consumer-protections-for-california-wildfire-victims/))
 - Why Ethics CE Matters: Strengthening Professional Standards in Insurance ([1 days ago](https://www.insurancejournal.com/blogs/risk-insurance-education-alliance/2025/10/10/842545.htm))
 - Research by L&G Discovers People Think Life Cover Costs £79 a Month ([1 days ago](https://insurance-edge.net/2025/10/10/research-by-lg-discovers-people-think-life-cover-costs-79-a-month/))
 - MAPFRE Goes Big on Tech, With 100 New Hires ([1 days ago](https://insurance-edge.net/2025/10/10/mapfre-goes-big-on-tech-with-100-new-hires/))
@@ -48,8 +48,8 @@ description: Insurance Updates
 - Reinsurance prices set to decline further at Jan 1 as market softens: J.P. Morgan ([1 days ago](https://www.reinsurancene.ws/reinsurance-prices-set-to-decline-further-at-jan-1-as-market-softens-j-p-morgan/))
 - Explosion at Orange Site in Paris Injures Workers, Affects 80,000 Users ([1 days ago](https://www.insurancejournal.com/news/international/2025/10/10/843321.htm))
 - Athora announces CEO succession for 2026 ([1 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/athora-announces-ceo-succession-for-2026-552609.aspx))
-- People Moves: Boxx Hires Leads for Distribution, Claims and Tech; XPT Specialty Hires Staver, Luceno to Personal Lines Team ([1 days ago](https://www.insurancejournal.com/news/national/2025/10/10/843257.htm))
-- AXA’s new documentary uses comedy to tackle mental health stigma ([1 days ago](https://www.insurancebusinessmag.com/uk/news/life-insurance/axas-new-documentary-uses-comedy-to-tackle-mental-health-stigma-552601.aspx))
+- People Moves: Boxx Hires Leads for Distribution, Claims and Tech; XPT Specialty Hires Staver, Luceno to Personal Lines Team ([2 days ago](https://www.insurancejournal.com/news/national/2025/10/10/843257.htm))
+- AXA’s new documentary uses comedy to tackle mental health stigma ([2 days ago](https://www.insurancebusinessmag.com/uk/news/life-insurance/axas-new-documentary-uses-comedy-to-tackle-mental-health-stigma-552601.aspx))
 - Gauntlet highlights pathway for struggling brokers ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/gauntlet-highlights-pathway-for-struggling-brokers-552599.aspx))
 - Broker stress hits six-year high ([2 days ago](https://www.insurancebusinessmag.com/uk/news/life-insurance/broker-stress-hits-sixyear-high-552598.aspx))
 - Liberty Specialty Markets promotes Henry Nelson to active underwriter ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/liberty-specialty-markets-promotes-henry-nelson-to-active-underwriter-552597.aspx))
