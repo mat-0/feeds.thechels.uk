@@ -8,8 +8,8 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Gradient AI Teams Up With Connexure ([21 hours ago](https://insurance-edge.net/2025/10/11/gradient-ai-teams-up-with-connexure/))
-- New Consumer Protections For California Wildfire Victims ([21 hours ago](https://insurance-edge.net/2025/10/11/new-consumer-protections-for-california-wildfire-victims/))
+- Gradient AI Teams Up With Connexure ([22 hours ago](https://insurance-edge.net/2025/10/11/gradient-ai-teams-up-with-connexure/))
+- New Consumer Protections For California Wildfire Victims ([22 hours ago](https://insurance-edge.net/2025/10/11/new-consumer-protections-for-california-wildfire-victims/))
 - Why Ethics CE Matters: Strengthening Professional Standards in Insurance ([1 days ago](https://www.insurancejournal.com/blogs/risk-insurance-education-alliance/2025/10/10/842545.htm))
 - Research by L&G Discovers People Think Life Cover Costs £79 a Month ([1 days ago](https://insurance-edge.net/2025/10/10/research-by-lg-discovers-people-think-life-cover-costs-79-a-month/))
 - MAPFRE Goes Big on Tech, With 100 New Hires ([1 days ago](https://insurance-edge.net/2025/10/10/mapfre-goes-big-on-tech-with-100-new-hires/))
@@ -80,7 +80,7 @@ description: Insurance Updates
 - BG Insurance unveils expansion plans to boost motor sector presence ([2 days ago](https://www.insurancebusinessmag.com/uk/news/auto-motor/bg-insurance-unveils-expansion-plans-to-boost-motor-sector-presence-552472.aspx))
 - Munich Re Specialty gains approval to launch commercial insurance in Germany ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/munich-re-specialty-gains-approval-to-launch-commercial-insurance-in-germany-552469.aspx))
 - How insurance can realise the personalised motor policy dream ([2 days ago](https://www.postonline.co.uk/personal/7959025/how-insurance-can-realise-the-personalised-motor-policy-dream))
-- This big insurer has $10 billion to spend on acquisitions ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/this-big-insurer-has-10-billion-to-spend-on-acquisitions-552452.aspx))
+- This big insurer has $10 billion to spend on acquisitions ([3 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/this-big-insurer-has-10-billion-to-spend-on-acquisitions-552452.aspx))
 - Majority of UK businesses express concern over rising sick leave, new report warns ([3 days ago](https://ifamagazine.com/majority-of-uk-businesses-express-concern-over-rising-sick-leave-new-report-warns/))
 - Q&A: Jemma Ashley, LexisNexis Risk Solutions ([3 days ago](https://www.postonline.co.uk/people/7958988/qa-jemma-ashley-lexisnexis-risk-solutions))
 - The camper van and motorhome insurance risks we never saw coming ([3 days ago](https://www.postonline.co.uk/risk-management/7958990/the-camper-van-and-motorhome-insurance-risks-we-never-saw-coming))
