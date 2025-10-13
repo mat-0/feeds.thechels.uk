@@ -8,6 +8,9 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
+- FYAI: Why developers will lead AI transformation across the enterprise  -  The Microsoft Cloud Blog ([26 minutes ago](https://dotnetkicks.com/r/732384?url=https://www.microsoft.com/en-us/microsoft-cloud/blog/2025/10/13/fyai-why-developers-will-lead-ai-transformation-across-the-enterprise/))
+- FYAI: Why developers will lead AI transformation across the enterprise  -  The Microsoft Cloud Blog ([26 minutes ago](https://dotnetkicks.com/r/732383?url=https://www.microsoft.com/en-us/microsoft-cloud/blog/2025/10/13/fyai-why-developers-will-lead-ai-transformation-across-the-enterprise/))
+- FYAI: Why developers will lead AI transformation across the enterprise  -  The Microsoft Cloud Blog ([26 minutes ago](https://dotnetkicks.com/r/732382?url=https://www.microsoft.com/en-us/microsoft-cloud/blog/2025/10/13/fyai-why-developers-will-lead-ai-transformation-across-the-enterprise/))
 - Boost Your .NET Projects: Simplify Windows Service and Process Management with Spargine’s Services Helper ([1 days ago](https://dotnettips.wordpress.com/2025/10/12/boost-your-net-projects-simplify-windows-service-and-process-management-with-spargines-services-helper/))
 - F# Weekly #41, 2025 - JetBrains .NET Days Online 2025 ([1 days ago](https://dotnetkicks.com/r/732324?url=https://sergeytihon.com/2025/10/11/f-weekly-41-2025-jetbrains-net-days-online-2025/))
 - James Montemagno on Vibe Coding ([3 days ago](https://dotnetkicks.com/r/732297?url=https://jesseliberty.com/2025/10/10/james-montemagno-on-vibe-coding/))
@@ -46,10 +49,7 @@ description: DotNet Updates
 - Last Sprint to Wolverine 5.0 ([15 days ago](https://dotnetkicks.com/r/731139?url=https://jeremydmiller.com/2025/09/28/last-sprint-to-wolverine-5-0/))
 - Boost Your .NET Projects: Simplify Unique Key Generation with KeyGenerator in Spargine ([15 days ago](https://dotnettips.wordpress.com/2025/09/28/boost-your-net-projects-simplify-unique-key-generation-with-keygenerator-in-spargine/))
 - F# Weekly #39, 2025 - amplifyingfsharp.io ([15 days ago](https://dotnetkicks.com/r/731133?url=https://sergeytihon.com/2025/09/27/f-weekly-39-2025-amplifyingfsharp-io/))
-- Ardalis Fall 2025 Speaking Tour ([16 days ago](https://dotnetkicks.com/r/731118?url=https://ardalis.com/ardalis-fall-2025-speaking-tour/))
-- Preparing Your .NET MAUI Apps for Google Play's 16 KB Page Size Requirement - .NET Blog ([17 days ago](https://dotnetkicks.com/r/731067?url=https://devblogs.microsoft.com/dotnet/maui-google-play-16-kb-page-size-support/))
 - Preparing Your .NET MAUI Apps for Google Play’s 16 KB Page Size Requirement ([17 days ago](https://devblogs.microsoft.com/dotnet/maui-google-play-16-kb-page-size-support/))
-- Some Thoughts on MS Pulling Back on their "Eventing Framework" ([17 days ago](https://dotnetkicks.com/r/731013?url=https://jeremydmiller.com/2025/09/25/some-thoughts-on-ms-pulling-back-on-their-eventing-framework/))
 - Announcing Aspire 9.5 ([18 days ago](https://devblogs.microsoft.com/dotnet/announcing-dotnet-aspire-95/))
 - Rider Roadmap: What to Expect From the Upcoming Updates and Releases ([18 days ago](https://blog.jetbrains.com/dotnet/2025/09/25/rider-rider-roadmap-2025-3/))
 - Exploring Text-to-Image capabilities in .NET ([18 days ago](https://devblogs.microsoft.com/dotnet/explore-text-to-image-dotnet/))
@@ -64,7 +64,7 @@ description: DotNet Updates
 - .NET STS releases supported for 24 months ([27 days ago](https://devblogs.microsoft.com/dotnet/dotnet-sts-releases-supported-for-24-months/))
 - Supporting platform-specific .NET tools on old .NET SDKs: Exploring the .NET 10 preview - Part 8 ([27 days ago](https://andrewlock.net/exploring-dotnet-10-preview-features-8-supporting-platform-specific-dotnet-tools-on-old-sdks/))
 - Application Insights Code Optimizations for .NET Apps ([28 days ago](https://devblogs.microsoft.com/dotnet/application-insights-code-optimizations/))
-- GameDev Day 2025 Is Back in October! ([28 days ago](https://blog.jetbrains.com/dotnet/2025/09/15/gamedev-day-2025-is-back-in-october/))
+- GameDev Day 2025 Is Back in October! ([29 days ago](https://blog.jetbrains.com/dotnet/2025/09/15/gamedev-day-2025-is-back-in-october/))
 - Boost Your .NET Projects: Ensure Thread-Safe Uniqueness with DistinctConcurrentBag in Spargine ([29 days ago](https://dotnettips.wordpress.com/2025/09/14/boost-your-net-projects-ensure-thread-safe-uniqueness-with-distinctconcurrentbag-in-spargine/))
 
 <!-- news_marker ends -->
