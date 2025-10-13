@@ -8,9 +8,9 @@ description: SecOps News
 [Get this as an RSS feed](/secops.rss)
 
 <!-- news_marker starts -->
-- ZTE hosts Global Summit &amp; User Congress 2025 in Milan under the theme "Expanding Intelligence, Creating Possibilities" ([2 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/10/13/zte_hosts_global_summit/))
+- ZTE hosts Global Summit &amp; User Congress 2025 in Milan under the theme "Expanding Intelligence, Creating Possibilities" ([3 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/10/13/zte_hosts_global_summit/))
 - New Oracle E-Business Suite Bug Could Let Hackers Access Data Without Login ([11 hours ago](https://thehackernews.com/2025/10/new-oracle-e-business-suite-bug-could.html))
-- From sizzle to drizzle to fizzle: The massive data leak that wasn’t (1) ([12 hours ago](https://databreaches.net/2025/10/12/from-sizzle-to-drizzle-to-fizzle-the-massive-data-leak-that-wasnt/?pk_campaign=feed&pk_kwd=from-sizzle-to-drizzle-to-fizzle-the-massive-data-leak-that-wasnt))
+- From sizzle to drizzle to fizzle: The massive data leak that wasn’t (1) ([13 hours ago](https://databreaches.net/2025/10/12/from-sizzle-to-drizzle-to-fizzle-the-massive-data-leak-that-wasnt/?pk_campaign=feed&pk_kwd=from-sizzle-to-drizzle-to-fizzle-the-massive-data-leak-that-wasnt))
 - Fake 'Inflation Refund' texts target New Yorkers in new scam ([14 hours ago](https://www.bleepingcomputer.com/news/security/fake-inflation-refund-texts-target-new-yorkers-in-new-scam/))
 - Weekly Update 473 ([1 days ago](https://www.troyhunt.com/weekly-update-473/))
 - In a few days, the PowerSchool hacker will learn his sentence, and his life as he has known it will end. ([1 days ago](https://databreaches.net/2025/10/11/in-a-few-days-the-powerschool-hacker-will-learn-his-sentence-and-his-life-as-he-has-known-it-will-end/?pk_campaign=feed&pk_kwd=in-a-few-days-the-powerschool-hacker-will-learn-his-sentence-and-his-life-as-he-has-known-it-will-end))
