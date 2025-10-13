@@ -8,8 +8,8 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Boost Your .NET Projects: Simplify Windows Service and Process Management with Spargine’s Services Helper ([20 hours ago](https://dotnettips.wordpress.com/2025/10/12/boost-your-net-projects-simplify-windows-service-and-process-management-with-spargines-services-helper/))
-- F# Weekly #41, 2025 - JetBrains .NET Days Online 2025 ([20 hours ago](https://dotnetkicks.com/r/732324?url=https://sergeytihon.com/2025/10/11/f-weekly-41-2025-jetbrains-net-days-online-2025/))
+- Boost Your .NET Projects: Simplify Windows Service and Process Management with Spargine’s Services Helper ([21 hours ago](https://dotnettips.wordpress.com/2025/10/12/boost-your-net-projects-simplify-windows-service-and-process-management-with-spargines-services-helper/))
+- F# Weekly #41, 2025 - JetBrains .NET Days Online 2025 ([21 hours ago](https://dotnetkicks.com/r/732324?url=https://sergeytihon.com/2025/10/11/f-weekly-41-2025-jetbrains-net-days-online-2025/))
 - James Montemagno on Vibe Coding ([2 days ago](https://dotnetkicks.com/r/732297?url=https://jesseliberty.com/2025/10/10/james-montemagno-on-vibe-coding/))
 - Marten 8.12 with New Plumbing ([4 days ago](https://dotnetkicks.com/r/732154?url=https://jeremydmiller.com/2025/10/08/marten-8-12-with-new-plumbing/))
 - Preparing for the .NET 10 GC (DATAS) - .NET Blog ([4 days ago](https://dotnetkicks.com/r/732105?url=https://devblogs.microsoft.com/dotnet/preparing-for-dotnet-10-gc/))
@@ -45,7 +45,7 @@ description: DotNet Updates
 - Leader Election and Virtual Actors in Wolverine ([13 days ago](https://dotnetkicks.com/r/731225?url=https://jeremydmiller.com/2025/09/29/leader-election-and-virtual-actors-in-wolverine/))
 - Last Sprint to Wolverine 5.0 ([14 days ago](https://dotnetkicks.com/r/731139?url=https://jeremydmiller.com/2025/09/28/last-sprint-to-wolverine-5-0/))
 - Boost Your .NET Projects: Simplify Unique Key Generation with KeyGenerator in Spargine ([14 days ago](https://dotnettips.wordpress.com/2025/09/28/boost-your-net-projects-simplify-unique-key-generation-with-keygenerator-in-spargine/))
-- F# Weekly #39, 2025 - amplifyingfsharp.io ([14 days ago](https://dotnetkicks.com/r/731133?url=https://sergeytihon.com/2025/09/27/f-weekly-39-2025-amplifyingfsharp-io/))
+- F# Weekly #39, 2025 - amplifyingfsharp.io ([15 days ago](https://dotnetkicks.com/r/731133?url=https://sergeytihon.com/2025/09/27/f-weekly-39-2025-amplifyingfsharp-io/))
 - Ardalis Fall 2025 Speaking Tour ([15 days ago](https://dotnetkicks.com/r/731118?url=https://ardalis.com/ardalis-fall-2025-speaking-tour/))
 - Preparing Your .NET MAUI Apps for Google Play's 16 KB Page Size Requirement - .NET Blog ([16 days ago](https://dotnetkicks.com/r/731067?url=https://devblogs.microsoft.com/dotnet/maui-google-play-16-kb-page-size-support/))
 - Preparing Your .NET MAUI Apps for Google Play’s 16 KB Page Size Requirement ([16 days ago](https://devblogs.microsoft.com/dotnet/maui-google-play-16-kb-page-size-support/))
