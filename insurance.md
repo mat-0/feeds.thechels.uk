@@ -9,11 +9,11 @@ description: Insurance Updates
 
 <!-- news_marker starts -->
 - Insurance moves at Brokerslink, Fenchurch Law, Allianz Commercial, iFarm ([3 hours ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/insurance-moves-at-brokerslink-fenchurch-law-allianz-commercial-ifarm-552731.aspx))
-- Nearly half of UK drivers still let car insurance renew automatically: Report ([3 hours ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/nearly-half-of-uk-drivers-still-let-car-insurance-renew-automatically-report-552730.aspx))
+- Nearly half of UK drivers still let car insurance renew automatically: Report ([4 hours ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/nearly-half-of-uk-drivers-still-let-car-insurance-renew-automatically-report-552730.aspx))
 - West Midlands police officer faces misconduct hearing over alleged insurance claim: report ([4 hours ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/west-midlands-police-officer-faces-misconduct-hearing-over-alleged-insurance-claim-report-552728.aspx))
-- Fogarty's Insurance marks 20 years in an evolving market ([4 hours ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/fogartys-insurance-marks-20-years-in-an-evolving-market-552726.aspx))
-- E&S insurance poised for growth due to climate risks ([8 hours ago](https://www.dig-in.com/news/e-s-insurance-poised-for-growth-due-to-climate-risks))
-- Last-resort insurer's unpaid claims arbitration is called biased ([8 hours ago](https://www.dig-in.com/news/florida-last-resort-insurers-arbitrations-are-called-biased))
+- Fogarty's Insurance marks 20 years in an evolving market ([5 hours ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/fogartys-insurance-marks-20-years-in-an-evolving-market-552726.aspx))
+- E&S insurance poised for growth due to climate risks ([9 hours ago](https://www.dig-in.com/news/e-s-insurance-poised-for-growth-due-to-climate-risks))
+- Last-resort insurer's unpaid claims arbitration is called biased ([9 hours ago](https://www.dig-in.com/news/florida-last-resort-insurers-arbitrations-are-called-biased))
 - Gradient AI Teams Up With Connexure ([1 days ago](https://insurance-edge.net/2025/10/11/gradient-ai-teams-up-with-connexure/))
 - New Consumer Protections For California Wildfire Victims ([1 days ago](https://insurance-edge.net/2025/10/11/new-consumer-protections-for-california-wildfire-victims/))
 - Why Ethics CE Matters: Strengthening Professional Standards in Insurance ([2 days ago](https://www.insurancejournal.com/blogs/risk-insurance-education-alliance/2025/10/10/842545.htm))
