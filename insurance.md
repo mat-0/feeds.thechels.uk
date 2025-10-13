@@ -8,9 +8,11 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Fogarty's Insurance marks 20 years in an evolving market ([4 minutes ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/fogartys-insurance-marks-20-years-in-an-evolving-market-552726.aspx))
+- Nearly half of UK drivers still let car insurance renew automatically: Report ([8 minutes ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/nearly-half-of-uk-drivers-still-let-car-insurance-renew-automatically-report-552730.aspx))
+- West Midlands police officer faces misconduct hearing over alleged insurance claim: report ([39 minutes ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/west-midlands-police-officer-faces-misconduct-hearing-over-alleged-insurance-claim-report-552728.aspx))
+- Fogarty's Insurance marks 20 years in an evolving market ([1 hours ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/fogartys-insurance-marks-20-years-in-an-evolving-market-552726.aspx))
 - E&S insurance poised for growth due to climate risks ([4 hours ago](https://www.dig-in.com/news/e-s-insurance-poised-for-growth-due-to-climate-risks))
-- Last-resort insurer's unpaid claims arbitration is called biased ([4 hours ago](https://www.dig-in.com/news/florida-last-resort-insurers-arbitrations-are-called-biased))
+- Last-resort insurer's unpaid claims arbitration is called biased ([5 hours ago](https://www.dig-in.com/news/florida-last-resort-insurers-arbitrations-are-called-biased))
 - Gradient AI Teams Up With Connexure ([1 days ago](https://insurance-edge.net/2025/10/11/gradient-ai-teams-up-with-connexure/))
 - New Consumer Protections For California Wildfire Victims ([1 days ago](https://insurance-edge.net/2025/10/11/new-consumer-protections-for-california-wildfire-victims/))
 - Why Ethics CE Matters: Strengthening Professional Standards in Insurance ([2 days ago](https://www.insurancejournal.com/blogs/risk-insurance-education-alliance/2025/10/10/842545.htm))
@@ -102,9 +104,7 @@ description: Insurance Updates
 - Geico Appoints Arianna Orpello as Chief Marketing Officer ([4 days ago](https://www.insurtechinsights.com/geico-appoints-arianna-orpello-as-chief-marketing-officer/))
 - Esure warns AV market must learn from EV repair struggles ([4 days ago](https://www.postonline.co.uk/market-access/motor/7959108/esure-warns-av-market-must-learn-from-ev-repair-struggles))
 - M&A market rebounds sharply in Q3 – WTW ([4 days ago](https://www.insurancebusinessmag.com/uk/news/mergers-acquisitions/manda-market-rebounds-sharply-in-q3--wtw-552333.aspx))
-- Innovation leadership rebooted in UK insurtech ([4 days ago](https://www.insurancebusinessmag.com/uk/news/technology/innovation-leadership-rebooted-in-uk-insurtech-552330.aspx))
 - Broker commission not ‘on the radar’ as motor finance redress scheme announced ([4 days ago](https://www.postonline.co.uk/news/7959192/broker-commission-not-%E2%80%98on-the-radar%E2%80%99-as-motor-finance-redress-scheme-announced))
-- How has the current economic environment impacted underwriting appetite? ([4 days ago](https://www.insurancebusinessmag.com/uk/tv/how-has-the-current-economic-environment-impacted-underwriting-appetite-552328.aspx))
 - Commercial motor pricing stabilised but capacity constraints remain ([4 days ago](https://www.postonline.co.uk/commercial/7959083/commercial-motor-pricing-stabilised-but-capacity-constraints-remain))
 - Classic car insurance keeps vintage motors running ([4 days ago](https://www.postonline.co.uk/personal/7958293/classic-car-insurance-keeps-vintage-motors-running))
 - Healix Health partners with Further to launch Precision Cancer Service, transforming workplace cancer care and helping employers cut costs ([4 days ago](https://ifamagazine.com/healix-health-partners-with-further-to-launch-precision-cancer-service-transforming-workplace-cancer-care-and-helping-employers-cut-costs/))
