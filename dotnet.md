@@ -51,7 +51,7 @@ description: DotNet Updates
 - Preparing Your .NET MAUI Apps for Google Play’s 16 KB Page Size Requirement ([16 days ago](https://devblogs.microsoft.com/dotnet/maui-google-play-16-kb-page-size-support/))
 - Some Thoughts on MS Pulling Back on their "Eventing Framework" ([17 days ago](https://dotnetkicks.com/r/731013?url=https://jeremydmiller.com/2025/09/25/some-thoughts-on-ms-pulling-back-on-their-eventing-framework/))
 - Announcing Aspire 9.5 ([17 days ago](https://devblogs.microsoft.com/dotnet/announcing-dotnet-aspire-95/))
-- Rider Roadmap: What to Expect From the Upcoming Updates and Releases ([17 days ago](https://blog.jetbrains.com/dotnet/2025/09/25/rider-rider-roadmap-2025-3/))
+- Rider Roadmap: What to Expect From the Upcoming Updates and Releases ([18 days ago](https://blog.jetbrains.com/dotnet/2025/09/25/rider-rider-roadmap-2025-3/))
 - Exploring Text-to-Image capabilities in .NET ([18 days ago](https://devblogs.microsoft.com/dotnet/explore-text-to-image-dotnet/))
 - sleep-pc: a .NET Native AOT tool to make Windows sleep after a timeout ([20 days ago](https://andrewlock.net/sleep-pc-a-dotnet-tool-to-make-windows-sleep-after-a-timeout/))
 - New Trusted Publishing enhances security on NuGet.org ([20 days ago](https://devblogs.microsoft.com/dotnet/enhanced-security-is-here-with-the-new-trust-publishing-on-nuget-org/))
