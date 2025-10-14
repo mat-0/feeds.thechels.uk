@@ -8,6 +8,7 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
+- ReSharper Is Now on the Open VSX Registry ([1 hours ago](https://blog.jetbrains.com/dotnet/2025/10/14/resharper-open-vsx/))
 - FYAI: Why developers will lead AI transformation across the enterprise  -  The Microsoft Cloud Blog ([16 hours ago](https://dotnetkicks.com/r/732384?url=https://www.microsoft.com/en-us/microsoft-cloud/blog/2025/10/13/fyai-why-developers-will-lead-ai-transformation-across-the-enterprise/))
 - FYAI: Why developers will lead AI transformation across the enterprise  -  The Microsoft Cloud Blog ([16 hours ago](https://dotnetkicks.com/r/732383?url=https://www.microsoft.com/en-us/microsoft-cloud/blog/2025/10/13/fyai-why-developers-will-lead-ai-transformation-across-the-enterprise/))
 - FYAI: Why developers will lead AI transformation across the enterprise  -  The Microsoft Cloud Blog ([16 hours ago](https://dotnetkicks.com/r/732382?url=https://www.microsoft.com/en-us/microsoft-cloud/blog/2025/10/13/fyai-why-developers-will-lead-ai-transformation-across-the-enterprise/))
@@ -64,6 +65,5 @@ description: DotNet Updates
 - .NET STS releases supported for 24 months ([27 days ago](https://devblogs.microsoft.com/dotnet/dotnet-sts-releases-supported-for-24-months/))
 - Supporting platform-specific .NET tools on old .NET SDKs: Exploring the .NET 10 preview - Part 8 ([28 days ago](https://andrewlock.net/exploring-dotnet-10-preview-features-8-supporting-platform-specific-dotnet-tools-on-old-sdks/))
 - Application Insights Code Optimizations for .NET Apps ([28 days ago](https://devblogs.microsoft.com/dotnet/application-insights-code-optimizations/))
-- GameDev Day 2025 Is Back in October! ([29 days ago](https://blog.jetbrains.com/dotnet/2025/09/15/gamedev-day-2025-is-back-in-october/))
 
 <!-- news_marker ends -->
