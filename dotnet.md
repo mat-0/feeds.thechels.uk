@@ -8,9 +8,9 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Announcing the .NET Security Group - .NET Blog ([2 hours ago](https://dotnetkicks.com/r/732449?url=https://devblogs.microsoft.com/dotnet/announcing-dotnet-security-group/))
+- Announcing the .NET Security Group - .NET Blog ([3 hours ago](https://dotnetkicks.com/r/732449?url=https://devblogs.microsoft.com/dotnet/announcing-dotnet-security-group/))
 - Announcing the .NET Security Group ([3 hours ago](https://devblogs.microsoft.com/dotnet/announcing-dotnet-security-group/))
-- ReSharper Is Now on the Open VSX Registry ([5 hours ago](https://blog.jetbrains.com/dotnet/2025/10/14/resharper-open-vsx/))
+- ReSharper Is Now on the Open VSX Registry ([6 hours ago](https://blog.jetbrains.com/dotnet/2025/10/14/resharper-open-vsx/))
 - FYAI: Why developers will lead AI transformation across the enterprise  -  The Microsoft Cloud Blog ([21 hours ago](https://dotnetkicks.com/r/732384?url=https://www.microsoft.com/en-us/microsoft-cloud/blog/2025/10/13/fyai-why-developers-will-lead-ai-transformation-across-the-enterprise/))
 - FYAI: Why developers will lead AI transformation across the enterprise  -  The Microsoft Cloud Blog ([21 hours ago](https://dotnetkicks.com/r/732383?url=https://www.microsoft.com/en-us/microsoft-cloud/blog/2025/10/13/fyai-why-developers-will-lead-ai-transformation-across-the-enterprise/))
 - FYAI: Why developers will lead AI transformation across the enterprise  -  The Microsoft Cloud Blog ([21 hours ago](https://dotnetkicks.com/r/732382?url=https://www.microsoft.com/en-us/microsoft-cloud/blog/2025/10/13/fyai-why-developers-will-lead-ai-transformation-across-the-enterprise/))
