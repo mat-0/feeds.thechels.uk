@@ -8,9 +8,9 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- FYAI: Why developers will lead AI transformation across the enterprise  -  The Microsoft Cloud Blog ([4 hours ago](https://dotnetkicks.com/r/732384?url=https://www.microsoft.com/en-us/microsoft-cloud/blog/2025/10/13/fyai-why-developers-will-lead-ai-transformation-across-the-enterprise/))
-- FYAI: Why developers will lead AI transformation across the enterprise  -  The Microsoft Cloud Blog ([4 hours ago](https://dotnetkicks.com/r/732383?url=https://www.microsoft.com/en-us/microsoft-cloud/blog/2025/10/13/fyai-why-developers-will-lead-ai-transformation-across-the-enterprise/))
-- FYAI: Why developers will lead AI transformation across the enterprise  -  The Microsoft Cloud Blog ([4 hours ago](https://dotnetkicks.com/r/732382?url=https://www.microsoft.com/en-us/microsoft-cloud/blog/2025/10/13/fyai-why-developers-will-lead-ai-transformation-across-the-enterprise/))
+- FYAI: Why developers will lead AI transformation across the enterprise  -  The Microsoft Cloud Blog ([5 hours ago](https://dotnetkicks.com/r/732384?url=https://www.microsoft.com/en-us/microsoft-cloud/blog/2025/10/13/fyai-why-developers-will-lead-ai-transformation-across-the-enterprise/))
+- FYAI: Why developers will lead AI transformation across the enterprise  -  The Microsoft Cloud Blog ([5 hours ago](https://dotnetkicks.com/r/732383?url=https://www.microsoft.com/en-us/microsoft-cloud/blog/2025/10/13/fyai-why-developers-will-lead-ai-transformation-across-the-enterprise/))
+- FYAI: Why developers will lead AI transformation across the enterprise  -  The Microsoft Cloud Blog ([5 hours ago](https://dotnetkicks.com/r/732382?url=https://www.microsoft.com/en-us/microsoft-cloud/blog/2025/10/13/fyai-why-developers-will-lead-ai-transformation-across-the-enterprise/))
 - Boost Your .NET Projects: Simplify Windows Service and Process Management with Spargine’s Services Helper ([1 days ago](https://dotnettips.wordpress.com/2025/10/12/boost-your-net-projects-simplify-windows-service-and-process-management-with-spargines-services-helper/))
 - F# Weekly #41, 2025 - JetBrains .NET Days Online 2025 ([1 days ago](https://dotnetkicks.com/r/732324?url=https://sergeytihon.com/2025/10/11/f-weekly-41-2025-jetbrains-net-days-online-2025/))
 - James Montemagno on Vibe Coding ([3 days ago](https://dotnetkicks.com/r/732297?url=https://jesseliberty.com/2025/10/10/james-montemagno-on-vibe-coding/))
