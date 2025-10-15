@@ -8,9 +8,9 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Tech Prediction: The Data Kings Will Rule the World ([13 hours ago](https://dotnettips.wordpress.com/2025/10/15/tech-prediction-the-data-kings-will-rule-the-world/))
-- .NET and .NET Framework October 2025 servicing releases updates - .NET Blog ([20 hours ago](https://dotnetkicks.com/r/732496?url=https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-october-2025-servicing-updates/))
-- .NET and .NET Framework October 2025 servicing releases updates ([20 hours ago](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-october-2025-servicing-updates/))
+- Tech Prediction: The Data Kings Will Rule the World ([14 hours ago](https://dotnettips.wordpress.com/2025/10/15/tech-prediction-the-data-kings-will-rule-the-world/))
+- .NET and .NET Framework October 2025 servicing releases updates - .NET Blog ([21 hours ago](https://dotnetkicks.com/r/732496?url=https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-october-2025-servicing-updates/))
+- .NET and .NET Framework October 2025 servicing releases updates ([21 hours ago](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-october-2025-servicing-updates/))
 - Announcing .NET 10 Release Candidate 2 - .NET Blog ([21 hours ago](https://dotnetkicks.com/r/732482?url=https://devblogs.microsoft.com/dotnet/dotnet-10-rc-2/))
 - Announcing .NET 10 Release Candidate 2 ([21 hours ago](https://devblogs.microsoft.com/dotnet/dotnet-10-rc-2/))
 - Announcing the .NET Security Group - .NET Blog ([1 days ago](https://dotnetkicks.com/r/732449?url=https://devblogs.microsoft.com/dotnet/announcing-dotnet-security-group/))
@@ -29,7 +29,7 @@ description: DotNet Updates
 - .NET 10: The Deathblow to Python’s AI Dominance? 💀 ([7 days ago](https://dotnetkicks.com/r/732018?url=https://www.gapvelocity.ai/blog/dotnet10-smacks-down-python-ai))
 - Defensive Programming with Microsoft .NET: Anticipate Errors and Eliminate Bugs ([7 days ago](https://dotnettips.wordpress.com/2025/10/08/defensive-programming-with-microsoft-net-anticipate-errors-and-eliminate-bugs/))
 - Your API Errors Suck ([7 days ago](https://dotnetkicks.com/r/732016?url=https://codeopinion.com/your-api-errors-suck-heres-how-to-fix-them/))
-- Meet JetBrains at Azure Dev Summit 2025 (Lisbon, Oct 13–16) ([7 days ago](https://blog.jetbrains.com/dotnet/2025/10/07/meet-jetbrains-at-azure-dev-summit-2025/))
+- Meet JetBrains at Azure Dev Summit 2025 (Lisbon, Oct 13–16) ([8 days ago](https://blog.jetbrains.com/dotnet/2025/10/07/meet-jetbrains-at-azure-dev-summit-2025/))
 - Developer and AI Code Reviewer: Reviewing AI-Generated Code in .NET - .NET Blog ([8 days ago](https://dotnetkicks.com/r/731942?url=https://devblogs.microsoft.com/dotnet/developer-and-ai-code-reviewer-reviewing-ai-generated-code-in-dotnet/))
 - Developer and AI Code Reviewer: Reviewing AI-Generated Code in .NET ([8 days ago](https://devblogs.microsoft.com/dotnet/developer-and-ai-code-reviewer-reviewing-ai-generated-code-in-dotnet/))
 - Interesting new C# 14 features coming with .NET 10 ([8 days ago](https://dotnetkicks.com/r/731858?url=https://thomaslevesque.com/2025/04/11/interesting-new-csharp-14-features-coming-with-net-10/))
