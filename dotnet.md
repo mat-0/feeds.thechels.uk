@@ -8,9 +8,9 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Tech Prediction: The Data Kings Will Rule the World ([12 hours ago](https://dotnettips.wordpress.com/2025/10/15/tech-prediction-the-data-kings-will-rule-the-world/))
-- .NET and .NET Framework October 2025 servicing releases updates - .NET Blog ([19 hours ago](https://dotnetkicks.com/r/732496?url=https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-october-2025-servicing-updates/))
-- .NET and .NET Framework October 2025 servicing releases updates ([19 hours ago](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-october-2025-servicing-updates/))
+- Tech Prediction: The Data Kings Will Rule the World ([13 hours ago](https://dotnettips.wordpress.com/2025/10/15/tech-prediction-the-data-kings-will-rule-the-world/))
+- .NET and .NET Framework October 2025 servicing releases updates - .NET Blog ([20 hours ago](https://dotnetkicks.com/r/732496?url=https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-october-2025-servicing-updates/))
+- .NET and .NET Framework October 2025 servicing releases updates ([20 hours ago](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-october-2025-servicing-updates/))
 - Announcing .NET 10 Release Candidate 2 - .NET Blog ([20 hours ago](https://dotnetkicks.com/r/732482?url=https://devblogs.microsoft.com/dotnet/dotnet-10-rc-2/))
 - Announcing .NET 10 Release Candidate 2 ([20 hours ago](https://devblogs.microsoft.com/dotnet/dotnet-10-rc-2/))
 - Announcing the .NET Security Group - .NET Blog ([1 days ago](https://dotnetkicks.com/r/732449?url=https://devblogs.microsoft.com/dotnet/announcing-dotnet-security-group/))
@@ -61,7 +61,7 @@ description: DotNet Updates
 - sleep-pc: a .NET Native AOT tool to make Windows sleep after a timeout ([22 days ago](https://andrewlock.net/sleep-pc-a-dotnet-tool-to-make-windows-sleep-after-a-timeout/))
 - New Trusted Publishing enhances security on NuGet.org ([23 days ago](https://devblogs.microsoft.com/dotnet/enhanced-security-is-here-with-the-new-trust-publishing-on-nuget-org/))
 - Boost Your .NET Projects: Mastering ObservableList in Spargine ([24 days ago](https://dotnettips.wordpress.com/2025/09/21/boost-your-net-projects-mastering-observablelist-in-spargine/))
-- Announcing: JetBrains .NET Days Online 2025 ([26 days ago](https://blog.jetbrains.com/dotnet/2025/09/18/announcing-jetbrains-dotnet-days-online-2025/))
+- Announcing: JetBrains .NET Days Online 2025 ([27 days ago](https://blog.jetbrains.com/dotnet/2025/09/18/announcing-jetbrains-dotnet-days-online-2025/))
 - More Updates and Fixes for ReSharper and Rider 2025.2 ([27 days ago](https://blog.jetbrains.com/dotnet/2025/09/18/resharper-rider-2025-2-2/))
 - The Early Access Program for Rider 2025.3 Is Now Open! ([28 days ago](https://blog.jetbrains.com/dotnet/2025/09/17/the-early-access-program-for-rider-2025-3/))
 - The Early Access Program for ReSharper and .NET Tools 2025.3 Is Here! ([28 days ago](https://blog.jetbrains.com/dotnet/2025/09/17/the-early-access-program-for-resharper-and-net-tools-2025-3/))
