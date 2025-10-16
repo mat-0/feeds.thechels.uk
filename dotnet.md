@@ -63,8 +63,8 @@ description: DotNet Updates
 - Boost Your .NET Projects: Mastering ObservableList in Spargine ([25 days ago](https://dotnettips.wordpress.com/2025/09/21/boost-your-net-projects-mastering-observablelist-in-spargine/))
 - Announcing: JetBrains .NET Days Online 2025 ([27 days ago](https://blog.jetbrains.com/dotnet/2025/09/18/announcing-jetbrains-dotnet-days-online-2025/))
 - More Updates and Fixes for ReSharper and Rider 2025.2 ([27 days ago](https://blog.jetbrains.com/dotnet/2025/09/18/resharper-rider-2025-2-2/))
-- The Early Access Program for Rider 2025.3 Is Now Open! ([28 days ago](https://blog.jetbrains.com/dotnet/2025/09/17/the-early-access-program-for-rider-2025-3/))
-- The Early Access Program for ReSharper and .NET Tools 2025.3 Is Here! ([28 days ago](https://blog.jetbrains.com/dotnet/2025/09/17/the-early-access-program-for-resharper-and-net-tools-2025-3/))
+- The Early Access Program for Rider 2025.3 Is Now Open! ([29 days ago](https://blog.jetbrains.com/dotnet/2025/09/17/the-early-access-program-for-rider-2025-3/))
+- The Early Access Program for ReSharper and .NET Tools 2025.3 Is Here! ([29 days ago](https://blog.jetbrains.com/dotnet/2025/09/17/the-early-access-program-for-resharper-and-net-tools-2025-3/))
 - Supporting platform-specific .NET tools on old .NET SDKs: Exploring the .NET 10 preview - Part 8 ([29 days ago](https://andrewlock.net/exploring-dotnet-10-preview-features-8-supporting-platform-specific-dotnet-tools-on-old-sdks/))
 
 <!-- news_marker ends -->
