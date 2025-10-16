@@ -8,7 +8,7 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Tech Prediction: The Data Kings Will Rule the World ([18 hours ago](https://dotnettips.wordpress.com/2025/10/15/tech-prediction-the-data-kings-will-rule-the-world/))
+- Tech Prediction: The Data Kings Will Rule the World ([19 hours ago](https://dotnettips.wordpress.com/2025/10/15/tech-prediction-the-data-kings-will-rule-the-world/))
 - .NET and .NET Framework October 2025 servicing releases updates - .NET Blog ([1 days ago](https://dotnetkicks.com/r/732496?url=https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-october-2025-servicing-updates/))
 - .NET and .NET Framework October 2025 servicing releases updates ([1 days ago](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-october-2025-servicing-updates/))
 - Announcing .NET 10 Release Candidate 2 - .NET Blog ([1 days ago](https://dotnetkicks.com/r/732482?url=https://devblogs.microsoft.com/dotnet/dotnet-10-rc-2/))
