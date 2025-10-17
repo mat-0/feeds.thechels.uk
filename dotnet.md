@@ -8,8 +8,8 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Implement a secure MCP OAuth desktop client using OAuth and Entra ID ([7 hours ago](https://dotnetkicks.com/r/732629?url=https://damienbod.com/2025/10/16/implement-a-secure-mcp-oauth-desktop-client-using-oauth-and-entra-id/))
-- Migrations the "Critter Stack" Way ([18 hours ago](https://dotnetkicks.com/r/732627?url=https://jeremydmiller.com/2025/10/16/migrationsthe-critter-stack-way/))
+- Implement a secure MCP OAuth desktop client using OAuth and Entra ID ([8 hours ago](https://dotnetkicks.com/r/732629?url=https://damienbod.com/2025/10/16/implement-a-secure-mcp-oauth-desktop-client-using-oauth-and-entra-id/))
+- Migrations the "Critter Stack" Way ([19 hours ago](https://dotnetkicks.com/r/732627?url=https://jeremydmiller.com/2025/10/16/migrationsthe-critter-stack-way/))
 - Tech Prediction: The Data Kings Will Rule the World ([2 days ago](https://dotnettips.wordpress.com/2025/10/15/tech-prediction-the-data-kings-will-rule-the-world/))
 - .NET and .NET Framework October 2025 servicing releases updates - .NET Blog ([2 days ago](https://dotnetkicks.com/r/732496?url=https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-october-2025-servicing-updates/))
 - .NET and .NET Framework October 2025 servicing releases updates ([2 days ago](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-october-2025-servicing-updates/))
@@ -61,7 +61,7 @@ description: DotNet Updates
 - sleep-pc: a .NET Native AOT tool to make Windows sleep after a timeout ([24 days ago](https://andrewlock.net/sleep-pc-a-dotnet-tool-to-make-windows-sleep-after-a-timeout/))
 - New Trusted Publishing enhances security on NuGet.org ([25 days ago](https://devblogs.microsoft.com/dotnet/enhanced-security-is-here-with-the-new-trust-publishing-on-nuget-org/))
 - Boost Your .NET Projects: Mastering ObservableList in Spargine ([26 days ago](https://dotnettips.wordpress.com/2025/09/21/boost-your-net-projects-mastering-observablelist-in-spargine/))
-- Announcing: JetBrains .NET Days Online 2025 ([28 days ago](https://blog.jetbrains.com/dotnet/2025/09/18/announcing-jetbrains-dotnet-days-online-2025/))
+- Announcing: JetBrains .NET Days Online 2025 ([29 days ago](https://blog.jetbrains.com/dotnet/2025/09/18/announcing-jetbrains-dotnet-days-online-2025/))
 - More Updates and Fixes for ReSharper and Rider 2025.2 ([29 days ago](https://blog.jetbrains.com/dotnet/2025/09/18/resharper-rider-2025-2-2/))
 
 <!-- news_marker ends -->
