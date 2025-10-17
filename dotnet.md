@@ -8,8 +8,8 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Implement a secure MCP OAuth desktop client using OAuth and Entra ID ([1 hours ago](https://dotnetkicks.com/r/732629?url=https://damienbod.com/2025/10/16/implement-a-secure-mcp-oauth-desktop-client-using-oauth-and-entra-id/))
-- Migrations the "Critter Stack" Way ([12 hours ago](https://dotnetkicks.com/r/732627?url=https://jeremydmiller.com/2025/10/16/migrationsthe-critter-stack-way/))
+- Implement a secure MCP OAuth desktop client using OAuth and Entra ID ([2 hours ago](https://dotnetkicks.com/r/732629?url=https://damienbod.com/2025/10/16/implement-a-secure-mcp-oauth-desktop-client-using-oauth-and-entra-id/))
+- Migrations the "Critter Stack" Way ([13 hours ago](https://dotnetkicks.com/r/732627?url=https://jeremydmiller.com/2025/10/16/migrationsthe-critter-stack-way/))
 - Tech Prediction: The Data Kings Will Rule the World ([2 days ago](https://dotnettips.wordpress.com/2025/10/15/tech-prediction-the-data-kings-will-rule-the-world/))
 - .NET and .NET Framework October 2025 servicing releases updates - .NET Blog ([2 days ago](https://dotnetkicks.com/r/732496?url=https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-october-2025-servicing-updates/))
 - .NET and .NET Framework October 2025 servicing releases updates ([2 days ago](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-october-2025-servicing-updates/))
