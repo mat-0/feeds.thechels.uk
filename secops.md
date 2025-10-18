@@ -8,11 +8,11 @@ description: SecOps News
 [Get this as an RSS feed](/secops.rss)
 
 <!-- news_marker starts -->
-- Scenes from a “No Kings” Protest, 10-18-25 ([51 minutes ago](https://databreaches.net/2025/10/18/scenes-from-a-no-kings-protest-10-18-25/?pk_campaign=feed&pk_kwd=scenes-from-a-no-kings-protest-10-18-25))
+- Scenes from a “No Kings” Protest, 10-18-25 ([1 hours ago](https://databreaches.net/2025/10/18/scenes-from-a-no-kings-protest-10-18-25/?pk_campaign=feed&pk_kwd=scenes-from-a-no-kings-protest-10-18-25))
 - Google ads for fake Homebrew, LogMeIn sites push infostealers ([5 hours ago](https://www.bleepingcomputer.com/news/security/google-ads-for-fake-homebrew-logmein-sites-push-infostealers/))
 - No Kings. Not Today. Not Ever. ([7 hours ago](https://databreaches.net/2025/10/18/no-kings-not-today-not-ever/?pk_campaign=feed&pk_kwd=no-kings-not-today-not-ever))
 - New .NET CAPI Backdoor Targets Russian Auto and E-Commerce Firms via Phishing ZIPs ([8 hours ago](https://thehackernews.com/2025/10/new-net-capi-backdoor-targets-russian.html))
-- Ruby Central tries to make peace after 'hostile takeover' ([8 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/10/18/ruby_central_taps_ruby_core/))
+- Ruby Central tries to make peace after 'hostile takeover' ([9 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/10/18/ruby_central_taps_ruby_core/))
 - Silver Fox Expands Winos 4.0 Attacks to Japan and Malaysia via HoldingHands RAT ([13 hours ago](https://thehackernews.com/2025/10/silver-fox-expands-winos-40-attacks-to.html))
 - Massachusetts hospitals Heywood, Athol say outage was a cybersecurity incident ([18 hours ago](https://databreaches.net/2025/10/17/massachusetts-hospitals-heywood-athol-say-outage-was-a-cybersecurity-incident/?pk_campaign=feed&pk_kwd=massachusetts-hospitals-heywood-athol-say-outage-was-a-cybersecurity-incident))
 - Data BreachesProsper Data Breach Impacts 17.6 Million Accounts ([20 hours ago](https://databreaches.net/2025/10/17/data-breachesprosper-data-breach-impacts-17-6-million-accounts/?pk_campaign=feed&pk_kwd=data-breachesprosper-data-breach-impacts-17-6-million-accounts))
@@ -172,7 +172,7 @@ description: SecOps News
 - Re: [FD]	: "Glass Cage" – Zero-Click iMessage → Persistent iOS Compromise + Bricking (CVE-2025-24085 / 24201, CNVD-2025-07885) ([15 days ago](https://seclists.org/fulldisclosure/2025/Oct/1))
 - Re: [FD]	Full Disclosure: CVE-2025-31200 & CVE-2025-31201 – 0-Click iMessage Chain → Secure Enclave Key Theft, Wormable RCE, Crypto Theft ([15 days ago](https://seclists.org/fulldisclosure/2025/Oct/0))
 - Smashing Security podcast #437: Salesforce’s trusted domain of doom ([16 days ago](https://grahamcluley.com/smashing-security-podcast-437/))
-- Your favourite phone apps might be leaking your company’s secrets ([16 days ago](https://www.fortra.com/blog/favourite-phone-apps-might-leaking-companys-secrets))
+- Your favourite phone apps might be leaking your company’s secrets ([17 days ago](https://www.fortra.com/blog/favourite-phone-apps-might-leaking-companys-secrets))
 - Degraded Performance for GitHub Actions MacOS Runners ([17 days ago](https://www.githubstatus.com/incidents/071h21gptcp0))
 - Moving your business from the physical to the digital ([17 days ago](https://www.ncsc.gov.uk/guidance/moving-business-from-physical-to-digital))
 - From fake lovers to sextortionists: 260 scammers arrested across Africa ([18 days ago](https://www.bitdefender.com/en-us/blog/hotforsecurity/fake-lovers-sextortionists-scammers-africa))
