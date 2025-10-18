@@ -132,6 +132,6 @@ description: Insurance Updates
 - Majority of UK businesses express concern over rising sick leave, new report warns ([9 days ago](https://ifamagazine.com/majority-of-uk-businesses-express-concern-over-rising-sick-leave-new-report-warns/))
 - Healix Health partners with Further to launch Precision Cancer Service, transforming workplace cancer care and helping employers cut costs ([10 days ago](https://ifamagazine.com/healix-health-partners-with-further-to-launch-precision-cancer-service-transforming-workplace-cancer-care-and-helping-employers-cut-costs/))
 - Igloo Boosts Climate Resilience Across Southeast Asia with Data-Driven Insurance Solutions ([10 days ago](https://thefintechtimes.com/igloo-boosts-climate-resilience-across-southeast-asia-with-data-driven-insurance-solutions/))
-- Concirrus and Applied Win ‘AI Implementation of the Year’ at US Insurance Awards ([15 days ago](https://thefintechtimes.com/concirrus-ai-cuts-aviation-underwriting-time-from-36-hours-to-minutes-for-applied-aviation/))
+- Concirrus and Applied Win ‘AI Implementation of the Year’ at US Insurance Awards ([16 days ago](https://thefintechtimes.com/concirrus-ai-cuts-aviation-underwriting-time-from-36-hours-to-minutes-for-applied-aviation/))
 
 <!-- news_marker ends -->
