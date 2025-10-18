@@ -120,7 +120,7 @@ description: Insurance Updates
 - Top 100 UK Insurers 2025: Aviva ([3 days ago](https://www.postonline.co.uk/personal/7959012/top-100-uk-insurers-2025-aviva))
 - Top 100 UK Insurers 2025: Allianz ([3 days ago](https://www.postonline.co.uk/personal/7959023/top-100-uk-insurers-2025-allianz))
 - Top 100 UK Insurers 2025: Bupa ([3 days ago](https://www.postonline.co.uk/personal/7958996/top-100-uk-insurers-2025-bupa))
-- Allianz UK Appoints Mansoor Reehan as Head of Artificial Intelligence to Drive Innovation and Growth ([3 days ago](https://www.insurtechinsights.com/allianz-uk-appoints-mansoor-reehan-as-head-of-artificial-intelligence-to-drive-innovation-and-growth/))
+- Allianz UK Appoints Mansoor Reehan as Head of Artificial Intelligence to Drive Innovation and Growth ([4 days ago](https://www.insurtechinsights.com/allianz-uk-appoints-mansoor-reehan-as-head-of-artificial-intelligence-to-drive-innovation-and-growth/))
 - Irys Raises 12.5 Million to Rebuild Insurance Infrastructure ([4 days ago](https://www.insurtechinsights.com/irys-raises-12-5-million-to-rebuild-insurance-infrastructure/))
 - Aspire General Insurance Partners with Kyber to Modernize Claims Correspondence ([4 days ago](https://www.insurtechinsights.com/aspire-general-insurance-partners-with-kyber-to-modernize-claims-correspondence/))
 - Divorcing couples risk being left high and dry if future maintenance isn’t insured against job loss, death or default ([4 days ago](https://ifamagazine.com/divorcing-couples-risk-being-left-high-and-dry-if-future-maintenance-isnt-insured-against-job-loss-death-or-default/))
