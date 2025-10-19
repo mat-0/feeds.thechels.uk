@@ -8,7 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- LPG-Laden Tanker on Fire off Yemen, EU’s Naval Force Says ([1 hours ago](https://www.insurancejournal.com/news/international/2025/10/19/844234.htm))
+- LPG-Laden Tanker on Fire off Yemen, EU’s Naval Force Says ([2 hours ago](https://www.insurancejournal.com/news/international/2025/10/19/844234.htm))
 - Capital flexibility drives competitive advantage among US insurers: Morningstar DBRS ([1 days ago](https://www.reinsurancene.ws/capital-flexibility-drives-competitive-advantage-among-us-insurers-morningstar-dbrs/))
 - Alphabet’s Waymo to Launch Autonomous Ride-Hailing Service in London in 2026 ([1 days ago](https://www.insurancejournal.com/news/international/2025/10/17/844200.htm))
 - RegTech Sector: Cube Buys Kodex AI ([1 days ago](https://insurance-edge.net/2025/10/17/regtech-sector-cube-buys-kodex-ai/))
@@ -23,7 +23,7 @@ description: Insurance Updates
 - Chamber of Commerce Sues Over Trump’s $100,000 H-1B Visa Fee ([1 days ago](https://www.insurancejournal.com/news/national/2025/10/17/844154.htm))
 - An Unsustainable Trend – Declining P/C Rates and Rising Cost of Risk: Marsh’s Doyle ([1 days ago](https://www.insurancejournal.com/news/international/2025/10/17/844140.htm))
 - Closing cyber protection gap a critical societal responsibility: Munich Re ([1 days ago](https://www.reinsurancene.ws/closing-cyber-protection-gap-a-critical-societal-responsibility-munich-re/))
-- Europe’s big four performed better than expected in the last soft cycle: J.P. Morgan ([1 days ago](https://www.reinsurancene.ws/europes-big-four-performed-better-than-expected-in-the-last-soft-cycle-j-p-morgan/))
+- Europe’s big four performed better than expected in the last soft cycle: J.P. Morgan ([2 days ago](https://www.reinsurancene.ws/europes-big-four-performed-better-than-expected-in-the-last-soft-cycle-j-p-morgan/))
 - How Agentic AI Can Cut Routine Admin Tasks on Claims, Pricing and Renewals ([2 days ago](https://insurance-edge.net/2025/10/17/how-agentic-ai-can-cut-routine-admin-tasks-on-claims-pricing-and-renewals/))
 - Balanced reinsurance environment to persist into 2026: Active Re ([2 days ago](https://www.reinsurancene.ws/balanced-reinsurance-environment-to-persist-into-2026-active-re/))
 - AXA announces a number of leadership changes ahead of next strategic cycle ([2 days ago](https://www.reinsurancene.ws/axa-announces-a-number-of-leadership-changes-ahead-of-next-strategic-cycle/))
@@ -102,7 +102,7 @@ description: Insurance Updates
 - AXA Partners and bolttech Announce Strategic Partnership to Drive Embedded Insurance Solutions Across Europe ([3 days ago](https://www.insurtechinsights.com/axa-partners-and-bolttech-announce-strategic-partnership-to-drive-embedded-insurance-solutions-across-europe/))
 - For true disaster preparedness, estate planning conversations are crucial ([3 days ago](https://www.dig-in.com/opinion/disaster-preparedness-starts-with-insurance-estate-planning))
 - The changing role of AI in Insurance ([3 days ago](https://www.dig-in.com/podcast/the-changing-role-of-ai-in-insurance))
-- AI video tech three times better than telematics at predicting risk ([3 days ago](https://www.postonline.co.uk/technology/7959219/ai-video-tech-three-times-better-than-telematics-at-predicting-risk))
+- AI video tech three times better than telematics at predicting risk ([4 days ago](https://www.postonline.co.uk/technology/7959219/ai-video-tech-three-times-better-than-telematics-at-predicting-risk))
 - FSCS intervenes as Premier Insurance enters administration ([4 days ago](https://www.postonline.co.uk/news/7959221/16000-customers-to-be-protected-by-fscs-as-premier-enters-administration))
 - Aviva acts to close business interruption protection gap ([4 days ago](https://www.postonline.co.uk/commercial/7959220/aviva-acts-to-close-business-interruption-protection-gap))
 - Watchdog outlines vet reforms that could cut pet insurance costs ([4 days ago](https://www.postonline.co.uk/news/7959218/watchdog-outlines-vet-reforms-that-could-cut-pet-insurance-costs))
