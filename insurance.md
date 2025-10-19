@@ -8,6 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
+- 10 essential tips for AI risk ([21 minutes ago](https://www.dig-in.com/opinion/10-essential-tips-for-ai-risk))
 - LPG-Laden Tanker on Fire off Yemen, EU’s Naval Force Says ([8 hours ago](https://www.insurancejournal.com/news/international/2025/10/19/844234.htm))
 - Capital flexibility drives competitive advantage among US insurers: Morningstar DBRS ([2 days ago](https://www.reinsurancene.ws/capital-flexibility-drives-competitive-advantage-among-us-insurers-morningstar-dbrs/))
 - Alphabet’s Waymo to Launch Autonomous Ride-Hailing Service in London in 2026 ([2 days ago](https://www.insurancejournal.com/news/international/2025/10/17/844200.htm))
@@ -101,7 +102,6 @@ description: Insurance Updates
 - HSB Canada Launches Comprehensive Cyber Insurance Solution HSB CyberPro for Canadian Businesses ([4 days ago](https://www.insurtechinsights.com/hsb-canada-launches-comprehensive-cyber-insurance-solution-hsb-cyberpro-for-canadian-businesses/))
 - AXA Partners and bolttech Announce Strategic Partnership to Drive Embedded Insurance Solutions Across Europe ([4 days ago](https://www.insurtechinsights.com/axa-partners-and-bolttech-announce-strategic-partnership-to-drive-embedded-insurance-solutions-across-europe/))
 - For true disaster preparedness, estate planning conversations are crucial ([4 days ago](https://www.dig-in.com/opinion/disaster-preparedness-starts-with-insurance-estate-planning))
-- The changing role of AI in Insurance ([4 days ago](https://www.dig-in.com/podcast/the-changing-role-of-ai-in-insurance))
 - AI video tech three times better than telematics at predicting risk ([4 days ago](https://www.postonline.co.uk/technology/7959219/ai-video-tech-three-times-better-than-telematics-at-predicting-risk))
 - FSCS intervenes as Premier Insurance enters administration ([4 days ago](https://www.postonline.co.uk/news/7959221/16000-customers-to-be-protected-by-fscs-as-premier-enters-administration))
 - Aviva acts to close business interruption protection gap ([4 days ago](https://www.postonline.co.uk/commercial/7959220/aviva-acts-to-close-business-interruption-protection-gap))
