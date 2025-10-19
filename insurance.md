@@ -92,7 +92,7 @@ description: Insurance Updates
 - Redefining loss adjusters role in fraud prevention ([2 days ago](https://www.postonline.co.uk/claims/7959117/redefining-loss-adjusters-role-in-fraud-prevention))
 - Throwback Thursday: EU shapes insurance & Allied Dunbar’s ambition ([2 days ago](https://www.postonline.co.uk/regulation/7956772/throwback-thursday-eu-shapes-insurance-allied-dunbar%E2%80%99s-ambition))
 - Q&A: Nick Pomeroy, QRG Specialty ([2 days ago](https://www.postonline.co.uk/lloyd%E2%80%99slondon/7958289/qa-nick-pomeroy-qrg-specialty))
-- Claims could decide MGA winners amid a softening market ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/claims-could-decide-mga-winners-amid-a-softening-market-553125.aspx))
+- Claims could decide MGA winners amid a softening market ([3 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/claims-could-decide-mga-winners-amid-a-softening-market-553125.aspx))
 - How artificial intelligence is accelerating digital transformation in the insurance industry ([3 days ago](https://www.dig-in.com/opinion/ai-is-accelerating-digital-transformation))
 - Disaster insured losses top $100B for sixth year in a row ([3 days ago](https://www.dig-in.com/articles/disaster-insured-losses-top-100b-for-sixth-year-in-a-row))
 - State Farm sued by Illinois amid probe of homeowner premiums ([3 days ago](https://www.dig-in.com/articles/state-farm-sued-by-illinois-amid-probe-of-homeowner-premiums))
