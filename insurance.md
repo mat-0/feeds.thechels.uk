@@ -8,8 +8,8 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Portfolio underwriters apply AI to manage risks ([7 minutes ago](https://www.dig-in.com/news/portfolio-underwriters-apply-ai-to-manage-risks))
-- 10 essential tips for AI risk ([53 minutes ago](https://www.dig-in.com/opinion/10-essential-tips-for-ai-risk))
+- Portfolio underwriters apply AI to manage risks ([36 minutes ago](https://www.dig-in.com/news/portfolio-underwriters-apply-ai-to-manage-risks))
+- 10 essential tips for AI risk ([1 hours ago](https://www.dig-in.com/opinion/10-essential-tips-for-ai-risk))
 - LPG-Laden Tanker on Fire off Yemen, EU’s Naval Force Says ([9 hours ago](https://www.insurancejournal.com/news/international/2025/10/19/844234.htm))
 - Capital flexibility drives competitive advantage among US insurers: Morningstar DBRS ([2 days ago](https://www.reinsurancene.ws/capital-flexibility-drives-competitive-advantage-among-us-insurers-morningstar-dbrs/))
 - Alphabet’s Waymo to Launch Autonomous Ride-Hailing Service in London in 2026 ([2 days ago](https://www.insurancejournal.com/news/international/2025/10/17/844200.htm))
@@ -69,8 +69,8 @@ description: Insurance Updates
 - Commission clarity shouldn’t stop at motor finance ([2 days ago](https://www.postonline.co.uk/regulation/7959217/commission-clarity-shouldn%E2%80%99t-stop-at-motor-finance))
 - Penny Black’s Social Diary: MS Amlin’s stunt; CyberCube’s biscuits ([2 days ago](https://www.postonline.co.uk/people/7959018/penny-black%E2%80%99s-social-diary-ms-amlin%E2%80%99s-stunt-cybercube%E2%80%99s-biscuits))
 - Former Aviva CEO David Barral dies in West Yorkshire crash ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/former-aviva-ceo-david-barral-dies-in-west-yorkshire-crash-553311.aspx))
-- Life insurance 2.0: Innovations and digital strategies fuel growth ([3 days ago](https://www.dig-in.com/opinion/innovations-and-digital-strategies-fuel-growth))
 - Predict, prevent, personalize: AI's growing impact on the insurance industry ([3 days ago](https://www.dig-in.com/opinion/ais-growing-impact-on-the-insurance-industry))
+- Life insurance 2.0: Innovations and digital strategies fuel growth ([3 days ago](https://www.dig-in.com/opinion/innovations-and-digital-strategies-fuel-growth))
 - LA County Officials Approved Emergency Declaration Over Immigration Raids ([3 days ago](https://www.insurancejournal.com/news/west/2025/10/16/844076.htm))
 - Commodity traders confront rising political, economic risks – WTW ([3 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/commodity-traders-confront-rising-political-economic-risks--wtw-553288.aspx))
 - AI-powered home insurance startup expands ([3 days ago](https://www.dig-in.com/articles/ai-powered-home-insurance-startup-expands))
