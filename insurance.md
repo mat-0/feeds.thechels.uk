@@ -126,12 +126,12 @@ description: Insurance Updates
 - Divorcing couples risk being left high and dry if future maintenance isn’t insured against job loss, death or default ([4 days ago](https://ifamagazine.com/divorcing-couples-risk-being-left-high-and-dry-if-future-maintenance-isnt-insured-against-job-loss-death-or-default/))
 - National Friendly launches Friendly Health ([4 days ago](https://ifamagazine.com/national-friendly-launches-friendly-health/))
 - Access FS Launches Equality Council ([4 days ago](https://ifamagazine.com/access-fs-launches-equality-council/))
-- Asia Insurance Goes Live with CoverGo Platform to Digitise Health Insurance ([8 days ago](https://thefintechtimes.com/asia-insurance-goes-live-with-covergo-platform-to-digitise-health-insurance/))
+- Asia Insurance Goes Live with CoverGo Platform to Digitise Health Insurance ([9 days ago](https://thefintechtimes.com/asia-insurance-goes-live-with-covergo-platform-to-digitise-health-insurance/))
 - Guardian widens who can apply for its cover to improve inclusivity and access ([9 days ago](https://ifamagazine.com/guardian-widens-who-can-apply-for-its-cover-to-improve-inclusivity-and-access/))
 - Vitality releases its 2024 health claims insights for cancer ([9 days ago](https://ifamagazine.com/vitality-releases-its-2024-health-claims-insights-for-cancer/))
 - Majority of UK businesses express concern over rising sick leave, new report warns ([9 days ago](https://ifamagazine.com/majority-of-uk-businesses-express-concern-over-rising-sick-leave-new-report-warns/))
 - Healix Health partners with Further to launch Precision Cancer Service, transforming workplace cancer care and helping employers cut costs ([10 days ago](https://ifamagazine.com/healix-health-partners-with-further-to-launch-precision-cancer-service-transforming-workplace-cancer-care-and-helping-employers-cut-costs/))
-- Igloo Boosts Climate Resilience Across Southeast Asia with Data-Driven Insurance Solutions ([10 days ago](https://thefintechtimes.com/igloo-boosts-climate-resilience-across-southeast-asia-with-data-driven-insurance-solutions/))
+- Igloo Boosts Climate Resilience Across Southeast Asia with Data-Driven Insurance Solutions ([11 days ago](https://thefintechtimes.com/igloo-boosts-climate-resilience-across-southeast-asia-with-data-driven-insurance-solutions/))
 - Concirrus and Applied Win ‘AI Implementation of the Year’ at US Insurance Awards ([16 days ago](https://thefintechtimes.com/concirrus-ai-cuts-aviation-underwriting-time-from-36-hours-to-minutes-for-applied-aviation/))
 
 <!-- news_marker ends -->
