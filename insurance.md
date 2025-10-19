@@ -8,7 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- LPG-Laden Tanker on Fire off Yemen, EU’s Naval Force Says ([38 minutes ago](https://www.insurancejournal.com/news/international/2025/10/19/844234.htm))
+- LPG-Laden Tanker on Fire off Yemen, EU’s Naval Force Says ([1 hours ago](https://www.insurancejournal.com/news/international/2025/10/19/844234.htm))
 - Capital flexibility drives competitive advantage among US insurers: Morningstar DBRS ([1 days ago](https://www.reinsurancene.ws/capital-flexibility-drives-competitive-advantage-among-us-insurers-morningstar-dbrs/))
 - Alphabet’s Waymo to Launch Autonomous Ride-Hailing Service in London in 2026 ([1 days ago](https://www.insurancejournal.com/news/international/2025/10/17/844200.htm))
 - RegTech Sector: Cube Buys Kodex AI ([1 days ago](https://insurance-edge.net/2025/10/17/regtech-sector-cube-buys-kodex-ai/))
@@ -25,7 +25,7 @@ description: Insurance Updates
 - Closing cyber protection gap a critical societal responsibility: Munich Re ([1 days ago](https://www.reinsurancene.ws/closing-cyber-protection-gap-a-critical-societal-responsibility-munich-re/))
 - Europe’s big four performed better than expected in the last soft cycle: J.P. Morgan ([1 days ago](https://www.reinsurancene.ws/europes-big-four-performed-better-than-expected-in-the-last-soft-cycle-j-p-morgan/))
 - How Agentic AI Can Cut Routine Admin Tasks on Claims, Pricing and Renewals ([1 days ago](https://insurance-edge.net/2025/10/17/how-agentic-ai-can-cut-routine-admin-tasks-on-claims-pricing-and-renewals/))
-- Balanced reinsurance environment to persist into 2026: Active Re ([1 days ago](https://www.reinsurancene.ws/balanced-reinsurance-environment-to-persist-into-2026-active-re/))
+- Balanced reinsurance environment to persist into 2026: Active Re ([2 days ago](https://www.reinsurancene.ws/balanced-reinsurance-environment-to-persist-into-2026-active-re/))
 - AXA announces a number of leadership changes ahead of next strategic cycle ([2 days ago](https://www.reinsurancene.ws/axa-announces-a-number-of-leadership-changes-ahead-of-next-strategic-cycle/))
 - Hiscox eyes e-sports and escape rooms as leisure insurance shifts ([2 days ago](https://www.insurancebusinessmag.com/uk/news/professional-liability/hiscox-eyes-esports-and-escape-rooms-as-leisure-insurance-shifts-553249.aspx))
 - FCA reveals pendulum swing in Gap payouts ([2 days ago](https://www.postonline.co.uk/news/7959226/fca-reveals-pendulum-swing-in-gap-payouts))
@@ -67,8 +67,8 @@ description: Insurance Updates
 - Commission clarity shouldn’t stop at motor finance ([2 days ago](https://www.postonline.co.uk/regulation/7959217/commission-clarity-shouldn%E2%80%99t-stop-at-motor-finance))
 - Penny Black’s Social Diary: MS Amlin’s stunt; CyberCube’s biscuits ([2 days ago](https://www.postonline.co.uk/people/7959018/penny-black%E2%80%99s-social-diary-ms-amlin%E2%80%99s-stunt-cybercube%E2%80%99s-biscuits))
 - Former Aviva CEO David Barral dies in West Yorkshire crash ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/former-aviva-ceo-david-barral-dies-in-west-yorkshire-crash-553311.aspx))
-- Predict, prevent, personalize: AI's growing impact on the insurance industry ([2 days ago](https://www.dig-in.com/opinion/ais-growing-impact-on-the-insurance-industry))
 - Life insurance 2.0: Innovations and digital strategies fuel growth ([2 days ago](https://www.dig-in.com/opinion/innovations-and-digital-strategies-fuel-growth))
+- Predict, prevent, personalize: AI's growing impact on the insurance industry ([2 days ago](https://www.dig-in.com/opinion/ais-growing-impact-on-the-insurance-industry))
 - LA County Officials Approved Emergency Declaration Over Immigration Raids ([2 days ago](https://www.insurancejournal.com/news/west/2025/10/16/844076.htm))
 - Commodity traders confront rising political, economic risks – WTW ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/commodity-traders-confront-rising-political-economic-risks--wtw-553288.aspx))
 - AI-powered home insurance startup expands ([2 days ago](https://www.dig-in.com/articles/ai-powered-home-insurance-startup-expands))
