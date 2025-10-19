@@ -8,7 +8,7 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Mastering the Art of Public Speaking: Lessons from a Lifetime of Teaching and Sharing ([9 hours ago](https://dotnettips.wordpress.com/2025/10/19/mastering-the-art-of-public-speaking-lessons-from-a-lifetime-of-teaching-and-sharing/))
+- Mastering the Art of Public Speaking: Lessons from a Lifetime of Teaching and Sharing ([10 hours ago](https://dotnettips.wordpress.com/2025/10/19/mastering-the-art-of-public-speaking-lessons-from-a-lifetime-of-teaching-and-sharing/))
 - F# Weekly #42, 2025 - Hi, Victor &amp; .NET 10 RC2 ([1 days ago](https://dotnetkicks.com/r/732696?url=https://sergeytihon.com/2025/10/18/f-weekly-42-2025-hi-victor-net-10-rc2/))
 - Implement a secure MCP OAuth desktop client using OAuth and Entra ID ([2 days ago](https://dotnetkicks.com/r/732629?url=https://damienbod.com/2025/10/16/implement-a-secure-mcp-oauth-desktop-client-using-oauth-and-entra-id/))
 - Migrations the "Critter Stack" Way ([2 days ago](https://dotnetkicks.com/r/732627?url=https://jeremydmiller.com/2025/10/16/migrationsthe-critter-stack-way/))
@@ -37,7 +37,7 @@ description: DotNet Updates
 - Developer and AI Code Reviewer: Reviewing AI-Generated Code in .NET - .NET Blog ([11 days ago](https://dotnetkicks.com/r/731942?url=https://devblogs.microsoft.com/dotnet/developer-and-ai-code-reviewer-reviewing-ai-generated-code-in-dotnet/))
 - Developer and AI Code Reviewer: Reviewing AI-Generated Code in .NET ([11 days ago](https://devblogs.microsoft.com/dotnet/developer-and-ai-code-reviewer-reviewing-ai-generated-code-in-dotnet/))
 - Interesting new C# 14 features coming with .NET 10 ([12 days ago](https://dotnetkicks.com/r/731858?url=https://thomaslevesque.com/2025/04/11/interesting-new-csharp-14-features-coming-with-net-10/))
-- Visual Studio Dev/Test Benefit Explained - Visual Studio Blog ([12 days ago](https://dotnetkicks.com/r/731713?url=https://devblogs.microsoft.com/visualstudio/visual-studio-dev-test-benefit-explained/))
+- Visual Studio Dev/Test Benefit Explained - Visual Studio Blog ([13 days ago](https://dotnetkicks.com/r/731713?url=https://devblogs.microsoft.com/visualstudio/visual-studio-dev-test-benefit-explained/))
 - 9 ReSharper Features Every .NET Developer Should Know ([13 days ago](https://blog.jetbrains.com/dotnet/2025/10/06/9-resharper-features-every-dotnet-developer-should-know/))
 - dotInsights  -  October 2025 ([13 days ago](https://blog.jetbrains.com/dotnet/2025/10/06/dotinsights-october-2025/))
 - ReSharper and Rider 2025.2.3: The Third Set of Updates Released ([13 days ago](https://blog.jetbrains.com/dotnet/2025/10/06/resharper-and-rider-2025-2-3/))
@@ -60,7 +60,7 @@ description: DotNet Updates
 - Rider Roadmap: What to Expect From the Upcoming Updates and Releases ([24 days ago](https://blog.jetbrains.com/dotnet/2025/09/25/rider-rider-roadmap-2025-3/))
 - Exploring Text-to-Image capabilities in .NET ([24 days ago](https://devblogs.microsoft.com/dotnet/explore-text-to-image-dotnet/))
 - sleep-pc: a .NET Native AOT tool to make Windows sleep after a timeout ([26 days ago](https://andrewlock.net/sleep-pc-a-dotnet-tool-to-make-windows-sleep-after-a-timeout/))
-- New Trusted Publishing enhances security on NuGet.org ([26 days ago](https://devblogs.microsoft.com/dotnet/enhanced-security-is-here-with-the-new-trust-publishing-on-nuget-org/))
+- New Trusted Publishing enhances security on NuGet.org ([27 days ago](https://devblogs.microsoft.com/dotnet/enhanced-security-is-here-with-the-new-trust-publishing-on-nuget-org/))
 - Boost Your .NET Projects: Mastering ObservableList in Spargine ([28 days ago](https://dotnettips.wordpress.com/2025/09/21/boost-your-net-projects-mastering-observablelist-in-spargine/))
 
 <!-- news_marker ends -->
