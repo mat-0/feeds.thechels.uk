@@ -8,9 +8,9 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Portfolio underwriters apply AI to manage risks ([2 hours ago](https://www.dig-in.com/news/portfolio-underwriters-apply-ai-to-manage-risks))
+- Portfolio underwriters apply AI to manage risks ([3 hours ago](https://www.dig-in.com/news/portfolio-underwriters-apply-ai-to-manage-risks))
 - 10 essential tips for AI risk ([3 hours ago](https://www.dig-in.com/opinion/10-essential-tips-for-ai-risk))
-- LPG-Laden Tanker on Fire off Yemen, EU’s Naval Force Says ([11 hours ago](https://www.insurancejournal.com/news/international/2025/10/19/844234.htm))
+- LPG-Laden Tanker on Fire off Yemen, EU’s Naval Force Says ([12 hours ago](https://www.insurancejournal.com/news/international/2025/10/19/844234.htm))
 - Capital flexibility drives competitive advantage among US insurers: Morningstar DBRS ([2 days ago](https://www.reinsurancene.ws/capital-flexibility-drives-competitive-advantage-among-us-insurers-morningstar-dbrs/))
 - Alphabet’s Waymo to Launch Autonomous Ride-Hailing Service in London in 2026 ([2 days ago](https://www.insurancejournal.com/news/international/2025/10/17/844200.htm))
 - RegTech Sector: Cube Buys Kodex AI ([2 days ago](https://insurance-edge.net/2025/10/17/regtech-sector-cube-buys-kodex-ai/))
