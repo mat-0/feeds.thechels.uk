@@ -8,10 +8,10 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Bringing People and Artificial Intelligence Together to Mitigate Risk ([11 minutes ago](https://www.insurancejournal.com/magazines/mag-features/2025/10/20/844004.htm))
-- Zurich backs next wave of insurtech talent in global innovation drive ([1 hours ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/zurich-backs-next-wave-of-insurtech-talent-in-global-innovation-drive-553495.aspx))
-- AXA reshuffles leadership team ([2 hours ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/axa-reshuffles-leadership-team-553494.aspx))
-- Insurers highlight fire risks linked to solar panels ([2 hours ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/insurers-highlight-fire-risks-linked-to-solar-panels-553493.aspx))
+- Bringing People and Artificial Intelligence Together to Mitigate Risk ([39 minutes ago](https://www.insurancejournal.com/magazines/mag-features/2025/10/20/844004.htm))
+- Zurich backs next wave of insurtech talent in global innovation drive ([2 hours ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/zurich-backs-next-wave-of-insurtech-talent-in-global-innovation-drive-553495.aspx))
+- AXA reshuffles leadership team ([3 hours ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/axa-reshuffles-leadership-team-553494.aspx))
+- Insurers highlight fire risks linked to solar panels ([3 hours ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/insurers-highlight-fire-risks-linked-to-solar-panels-553493.aspx))
 - JMG Group acquires Glasgow-based broker ([3 hours ago](https://www.insurancebusinessmag.com/uk/news/mergers-acquisitions/jmg-group-acquires-glasgowbased-broker-553489.aspx))
 - J&J Must Pay $966M After Jury Finds Company Liable in Talc Cancer Case ([4 hours ago](https://www.insurancejournal.com/magazines/mag-features/2025/10/20/843985.htm))
 - California Police Pulled Over A Waymo for An Illegal U-Turn, But They Couldn’t Cite ([4 hours ago](https://www.insurancejournal.com/magazines/mag-features/2025/10/20/843984.htm))
@@ -37,7 +37,7 @@ description: Insurance Updates
 - The Government Action Exclusion ([4 hours ago](https://www.insurancejournal.com/magazines/mag-features/2025/10/20/843959.htm))
 - The Future of the Agency in a World of AI ([4 hours ago](https://www.insurancejournal.com/magazines/mag-features/2025/10/20/843957.htm))
 - Portfolio underwriters apply AI to manage risks ([8 hours ago](https://www.dig-in.com/news/portfolio-underwriters-apply-ai-to-manage-risks))
-- 10 essential tips for AI risk ([8 hours ago](https://www.dig-in.com/opinion/10-essential-tips-for-ai-risk))
+- 10 essential tips for AI risk ([9 hours ago](https://www.dig-in.com/opinion/10-essential-tips-for-ai-risk))
 - LPG-Laden Tanker on Fire off Yemen, EU’s Naval Force Says ([17 hours ago](https://www.insurancejournal.com/news/international/2025/10/19/844234.htm))
 - Capital flexibility drives competitive advantage among US insurers: Morningstar DBRS ([2 days ago](https://www.reinsurancene.ws/capital-flexibility-drives-competitive-advantage-among-us-insurers-morningstar-dbrs/))
 - RegTech Sector: Cube Buys Kodex AI ([2 days ago](https://insurance-edge.net/2025/10/17/regtech-sector-cube-buys-kodex-ai/))
