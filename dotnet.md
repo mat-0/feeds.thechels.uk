@@ -8,7 +8,7 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Coming to Rider 2025.3: ASP.NET and Database Issue Detection In The Monitoring Tool Window ([13 minutes ago](https://blog.jetbrains.com/dotnet/2025/10/20/rider-2025-3-asp-dotnet-and-database-issue-monitoring/))
+- Coming to Rider 2025.3: ASP.NET and Database Issue Detection In The Monitoring Tool Window ([39 minutes ago](https://blog.jetbrains.com/dotnet/2025/10/20/rider-2025-3-asp-dotnet-and-database-issue-monitoring/))
 - Mastering the Art of Public Speaking: Lessons from a Lifetime of Teaching and Sharing ([1 days ago](https://dotnettips.wordpress.com/2025/10/19/mastering-the-art-of-public-speaking-lessons-from-a-lifetime-of-teaching-and-sharing/))
 - F# Weekly #42, 2025 - Hi, Victor &amp; .NET 10 RC2 ([2 days ago](https://dotnetkicks.com/r/732696?url=https://sergeytihon.com/2025/10/18/f-weekly-42-2025-hi-victor-net-10-rc2/))
 - Implement a secure MCP OAuth desktop client using OAuth and Entra ID ([3 days ago](https://dotnetkicks.com/r/732629?url=https://damienbod.com/2025/10/16/implement-a-secure-mcp-oauth-desktop-client-using-oauth-and-entra-id/))
@@ -58,7 +58,7 @@ description: DotNet Updates
 - Boost Your .NET Projects: Simplify Unique Key Generation with KeyGenerator in Spargine ([22 days ago](https://dotnettips.wordpress.com/2025/09/28/boost-your-net-projects-simplify-unique-key-generation-with-keygenerator-in-spargine/))
 - Preparing Your .NET MAUI Apps for Google Play’s 16 KB Page Size Requirement ([23 days ago](https://devblogs.microsoft.com/dotnet/maui-google-play-16-kb-page-size-support/))
 - Announcing Aspire 9.5 ([24 days ago](https://devblogs.microsoft.com/dotnet/announcing-dotnet-aspire-95/))
-- Rider Roadmap: What to Expect From the Upcoming Updates and Releases ([24 days ago](https://blog.jetbrains.com/dotnet/2025/09/25/rider-rider-roadmap-2025-3/))
+- Rider Roadmap: What to Expect From the Upcoming Updates and Releases ([25 days ago](https://blog.jetbrains.com/dotnet/2025/09/25/rider-rider-roadmap-2025-3/))
 - Exploring Text-to-Image capabilities in .NET ([25 days ago](https://devblogs.microsoft.com/dotnet/explore-text-to-image-dotnet/))
 - sleep-pc: a .NET Native AOT tool to make Windows sleep after a timeout ([27 days ago](https://andrewlock.net/sleep-pc-a-dotnet-tool-to-make-windows-sleep-after-a-timeout/))
 - New Trusted Publishing enhances security on NuGet.org ([27 days ago](https://devblogs.microsoft.com/dotnet/enhanced-security-is-here-with-the-new-trust-publishing-on-nuget-org/))
