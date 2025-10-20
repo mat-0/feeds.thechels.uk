@@ -9,12 +9,12 @@ description: SecOps News
 
 <!-- news_marker starts -->
 - Online Network Forensics Class ([23 hours ago](https://www.netresec.com/?page=Blog&month=2025-10&post=Online-Network-Forensics-Class))
-- Huawei's ACT pathway powers scalable AI adoption across industries ([3 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/10/20/huaweis_act_pathway_powers/))
-- China Accuses US of Cyberattack on National Time Center ([3 hours ago](https://www.securityweek.com/china-accuses-us-of-cyberattack-on-national-time-center/))
+- Huawei's ACT pathway powers scalable AI adoption across industries ([4 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/10/20/huaweis_act_pathway_powers/))
+- China Accuses US of Cyberattack on National Time Center ([4 hours ago](https://www.securityweek.com/china-accuses-us-of-cyberattack-on-national-time-center/))
 - TikTok videos continue to push infostealers in ClickFix attacks ([10 hours ago](https://www.bleepingcomputer.com/news/security/tiktok-videos-continue-to-push-infostealers-in-clickfix-attacks/))
-- UK: ‘Catastrophic’ attack as Russians hack files on EIGHT MoD bases and post them on the dark web ([12 hours ago](https://databreaches.net/2025/10/19/uk-catastrophic-attack-as-russians-hack-files-on-eight-mod-bases-and-post-them-on-the-dark-web/?pk_campaign=feed&pk_kwd=uk-catastrophic-attack-as-russians-hack-files-on-eight-mod-bases-and-post-them-on-the-dark-web))
+- UK: ‘Catastrophic’ attack as Russians hack files on EIGHT MoD bases and post them on the dark web ([13 hours ago](https://databreaches.net/2025/10/19/uk-catastrophic-attack-as-russians-hack-files-on-eight-mod-bases-and-post-them-on-the-dark-web/?pk_campaign=feed&pk_kwd=uk-catastrophic-attack-as-russians-hack-files-on-eight-mod-bases-and-post-them-on-the-dark-web))
 - Experian fined $3.2 million for mass-collecting personal data ([14 hours ago](https://www.bleepingcomputer.com/news/legal/experian-fined-32-million-for-mass-collecting-personal-data/))
-- A business’s cyber insurance policy included ransom coverage, but when they needed it, the insurer refused to pay. Why? ([14 hours ago](https://databreaches.net/2025/10/19/a-businesss-cyber-insurance-policy-included-ransom-coverage-but-when-they-needed-it-the-insurer-refused-to-pay-why/?pk_campaign=feed&pk_kwd=a-businesss-cyber-insurance-policy-included-ransom-coverage-but-when-they-needed-it-the-insurer-refused-to-pay-why))
+- A business’s cyber insurance policy included ransom coverage, but when they needed it, the insurer refused to pay. Why? ([15 hours ago](https://databreaches.net/2025/10/19/a-businesss-cyber-insurance-policy-included-ransom-coverage-but-when-they-needed-it-the-insurer-refused-to-pay-why/?pk_campaign=feed&pk_kwd=a-businesss-cyber-insurance-policy-included-ransom-coverage-but-when-they-needed-it-the-insurer-refused-to-pay-why))
 - Europol Dismantles SIM Farm Network Powering 49 Million Fake Accounts Worldwide ([22 hours ago](https://thehackernews.com/2025/10/europol-dismantles-sim-farm-network.html))
 - CyberDanube Security Research 20251014-0  -  Multiple Vulnerabilities in Phoenix Contact QUINT4 UPS ([1 days ago](https://seclists.org/fulldisclosure/2025/Oct/12))
 - apis.google.com - Insecure redirect via __lu parameter	(exploited in the wild) ([1 days ago](https://seclists.org/fulldisclosure/2025/Oct/11))
