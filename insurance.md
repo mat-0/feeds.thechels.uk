@@ -9,7 +9,7 @@ description: Insurance Updates
 
 <!-- news_marker starts -->
 - Zurich backs next wave of insurtech talent in global innovation drive ([1 hours ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/zurich-backs-next-wave-of-insurtech-talent-in-global-innovation-drive-553495.aspx))
-- AXA reshuffles leadership team ([1 hours ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/axa-reshuffles-leadership-team-553494.aspx))
+- AXA reshuffles leadership team ([2 hours ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/axa-reshuffles-leadership-team-553494.aspx))
 - Insurers highlight fire risks linked to solar panels ([2 hours ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/insurers-highlight-fire-risks-linked-to-solar-panels-553493.aspx))
 - JMG Group acquires Glasgow-based broker ([2 hours ago](https://www.insurancebusinessmag.com/uk/news/mergers-acquisitions/jmg-group-acquires-glasgowbased-broker-553489.aspx))
 - J&J Must Pay $966M After Jury Finds Company Liable in Talc Cancer Case ([3 hours ago](https://www.insurancejournal.com/magazines/mag-features/2025/10/20/843985.htm))
@@ -74,8 +74,8 @@ description: Insurance Updates
 - Commission clarity shouldn’t stop at motor finance ([2 days ago](https://www.postonline.co.uk/regulation/7959217/commission-clarity-shouldn%E2%80%99t-stop-at-motor-finance))
 - Penny Black’s Social Diary: MS Amlin’s stunt; CyberCube’s biscuits ([2 days ago](https://www.postonline.co.uk/people/7959018/penny-black%E2%80%99s-social-diary-ms-amlin%E2%80%99s-stunt-cybercube%E2%80%99s-biscuits))
 - Former Aviva CEO David Barral dies in West Yorkshire crash ([3 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/former-aviva-ceo-david-barral-dies-in-west-yorkshire-crash-553311.aspx))
-- Predict, prevent, personalize: AI's growing impact on the insurance industry ([3 days ago](https://www.dig-in.com/opinion/ais-growing-impact-on-the-insurance-industry))
 - Life insurance 2.0: Innovations and digital strategies fuel growth ([3 days ago](https://www.dig-in.com/opinion/innovations-and-digital-strategies-fuel-growth))
+- Predict, prevent, personalize: AI's growing impact on the insurance industry ([3 days ago](https://www.dig-in.com/opinion/ais-growing-impact-on-the-insurance-industry))
 - Commodity traders confront rising political, economic risks – WTW ([3 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/commodity-traders-confront-rising-political-economic-risks--wtw-553288.aspx))
 - AI-powered home insurance startup expands ([3 days ago](https://www.dig-in.com/articles/ai-powered-home-insurance-startup-expands))
 - The private equity veteran going all out on extreme weather bets ([3 days ago](https://www.dig-in.com/articles/the-private-equity-veteran-going-all-out-on-extreme-weather-bets))
@@ -126,12 +126,12 @@ description: Insurance Updates
 - Divorcing couples risk being left high and dry if future maintenance isn’t insured against job loss, death or default ([5 days ago](https://ifamagazine.com/divorcing-couples-risk-being-left-high-and-dry-if-future-maintenance-isnt-insured-against-job-loss-death-or-default/))
 - National Friendly launches Friendly Health ([5 days ago](https://ifamagazine.com/national-friendly-launches-friendly-health/))
 - Access FS Launches Equality Council ([5 days ago](https://ifamagazine.com/access-fs-launches-equality-council/))
-- Asia Insurance Goes Live with CoverGo Platform to Digitise Health Insurance ([9 days ago](https://thefintechtimes.com/asia-insurance-goes-live-with-covergo-platform-to-digitise-health-insurance/))
+- Asia Insurance Goes Live with CoverGo Platform to Digitise Health Insurance ([10 days ago](https://thefintechtimes.com/asia-insurance-goes-live-with-covergo-platform-to-digitise-health-insurance/))
 - Guardian widens who can apply for its cover to improve inclusivity and access ([10 days ago](https://ifamagazine.com/guardian-widens-who-can-apply-for-its-cover-to-improve-inclusivity-and-access/))
 - Vitality releases its 2024 health claims insights for cancer ([10 days ago](https://ifamagazine.com/vitality-releases-its-2024-health-claims-insights-for-cancer/))
 - Majority of UK businesses express concern over rising sick leave, new report warns ([10 days ago](https://ifamagazine.com/majority-of-uk-businesses-express-concern-over-rising-sick-leave-new-report-warns/))
 - Healix Health partners with Further to launch Precision Cancer Service, transforming workplace cancer care and helping employers cut costs ([11 days ago](https://ifamagazine.com/healix-health-partners-with-further-to-launch-precision-cancer-service-transforming-workplace-cancer-care-and-helping-employers-cut-costs/))
-- Igloo Boosts Climate Resilience Across Southeast Asia with Data-Driven Insurance Solutions ([11 days ago](https://thefintechtimes.com/igloo-boosts-climate-resilience-across-southeast-asia-with-data-driven-insurance-solutions/))
+- Igloo Boosts Climate Resilience Across Southeast Asia with Data-Driven Insurance Solutions ([12 days ago](https://thefintechtimes.com/igloo-boosts-climate-resilience-across-southeast-asia-with-data-driven-insurance-solutions/))
 - Concirrus and Applied Win ‘AI Implementation of the Year’ at US Insurance Awards ([17 days ago](https://thefintechtimes.com/concirrus-ai-cuts-aviation-underwriting-time-from-36-hours-to-minutes-for-applied-aviation/))
 
 <!-- news_marker ends -->

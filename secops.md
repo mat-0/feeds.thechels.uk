@@ -8,12 +8,13 @@ description: SecOps News
 [Get this as an RSS feed](/secops.rss)
 
 <!-- news_marker starts -->
+- Online Network Forensics Class ([22 hours ago](https://www.netresec.com/?page=Blog&month=2025-10&post=Online-Network-Forensics-Class))
 - Huawei's ACT pathway powers scalable AI adoption across industries ([2 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/10/20/huaweis_act_pathway_powers/))
 - China Accuses US of Cyberattack on National Time Center ([2 hours ago](https://www.securityweek.com/china-accuses-us-of-cyberattack-on-national-time-center/))
 - TikTok videos continue to push infostealers in ClickFix attacks ([9 hours ago](https://www.bleepingcomputer.com/news/security/tiktok-videos-continue-to-push-infostealers-in-clickfix-attacks/))
 - UK: ‘Catastrophic’ attack as Russians hack files on EIGHT MoD bases and post them on the dark web ([11 hours ago](https://databreaches.net/2025/10/19/uk-catastrophic-attack-as-russians-hack-files-on-eight-mod-bases-and-post-them-on-the-dark-web/?pk_campaign=feed&pk_kwd=uk-catastrophic-attack-as-russians-hack-files-on-eight-mod-bases-and-post-them-on-the-dark-web))
 - Experian fined $3.2 million for mass-collecting personal data ([13 hours ago](https://www.bleepingcomputer.com/news/legal/experian-fined-32-million-for-mass-collecting-personal-data/))
-- A business’s cyber insurance policy included ransom coverage, but when they needed it, the insurer refused to pay. Why? ([13 hours ago](https://databreaches.net/2025/10/19/a-businesss-cyber-insurance-policy-included-ransom-coverage-but-when-they-needed-it-the-insurer-refused-to-pay-why/?pk_campaign=feed&pk_kwd=a-businesss-cyber-insurance-policy-included-ransom-coverage-but-when-they-needed-it-the-insurer-refused-to-pay-why))
+- A business’s cyber insurance policy included ransom coverage, but when they needed it, the insurer refused to pay. Why? ([14 hours ago](https://databreaches.net/2025/10/19/a-businesss-cyber-insurance-policy-included-ransom-coverage-but-when-they-needed-it-the-insurer-refused-to-pay-why/?pk_campaign=feed&pk_kwd=a-businesss-cyber-insurance-policy-included-ransom-coverage-but-when-they-needed-it-the-insurer-refused-to-pay-why))
 - Europol Dismantles SIM Farm Network Powering 49 Million Fake Accounts Worldwide ([21 hours ago](https://thehackernews.com/2025/10/europol-dismantles-sim-farm-network.html))
 - CyberDanube Security Research 20251014-0  -  Multiple Vulnerabilities in Phoenix Contact QUINT4 UPS ([1 days ago](https://seclists.org/fulldisclosure/2025/Oct/12))
 - apis.google.com - Insecure redirect via __lu parameter	(exploited in the wild) ([1 days ago](https://seclists.org/fulldisclosure/2025/Oct/11))
@@ -168,7 +169,7 @@ description: SecOps News
 - Japan running dry: Ransomware attack leaves nation days away from Asahi beer shortage ([16 days ago](https://www.bitdefender.com/en-us/blog/hotforsecurity/japan-running-dry-ransomware-attack-leaves-nation-days-away-from-asahi-beer-shortage))
 - 5 Reasons ISO 27001 Implementations Fail (and How to Avoid Them) ([16 days ago](https://www.itgovernance.co.uk/blog/5-reasons-iso-27001-implementations-fail-and-how-to-avoid-them))
 - HomeRefill - 187,457 breached accounts ([16 days ago](https://haveibeenpwned.com/Breach/HomeRefill))
-- Incident with Copilot ([16 days ago](https://www.githubstatus.com/incidents/34wtrn4nngwk))
+- Incident with Copilot ([17 days ago](https://www.githubstatus.com/incidents/34wtrn4nngwk))
 - Latest Pilot Jobs - 118,864 breached accounts ([17 days ago](https://haveibeenpwned.com/Breach/LatestPilotJobs))
 - Degraded Gemini 2.5 Pro experience in Copilot ([17 days ago](https://www.githubstatus.com/incidents/l94jr9wnhs4r))
 - Re: [FD]	: "Glass Cage" – Zero-Click iMessage → Persistent iOS Compromise + Bricking (CVE-2025-24085 / 24201, CNVD-2025-07885) ([17 days ago](https://seclists.org/fulldisclosure/2025/Oct/1))
