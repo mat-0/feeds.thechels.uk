@@ -8,7 +8,7 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Modernizing Visual Studio Extension Compatibility: Effortless Migration for Extension Developers and Users - Visual Studio Blog ([5 hours ago](https://dotnetkicks.com/r/732859?url=https://devblogs.microsoft.com/visualstudio/modernizing-visual-studio-extension-compatibility-effortless-migration-for-extension-developers-and-users/))
+- Modernizing Visual Studio Extension Compatibility: Effortless Migration for Extension Developers and Users - Visual Studio Blog ([6 hours ago](https://dotnetkicks.com/r/732859?url=https://devblogs.microsoft.com/visualstudio/modernizing-visual-studio-extension-compatibility-effortless-migration-for-extension-developers-and-users/))
 - Innovation spotlight: How 3 customers are driving change with migration to Azure SQL - Microsoft SQL Server Blog ([11 hours ago](https://dotnetkicks.com/r/732814?url=https://www.microsoft.com/en-us/sql-server/blog/2025/10/20/innovation-spotlight-how-3-customers-are-driving-change-with-migration-to-azure-sql/))
 - Windows Shell Previews ([19 hours ago](https://dotnetkicks.com/r/732795?url=https://textslashplain.com/2025/10/20/windows-shell-previews/))
 - Coming to Rider 2025.3: ASP.NET and Database Issue Detection In The Monitoring Tool Window ([1 days ago](https://blog.jetbrains.com/dotnet/2025/10/20/rider-2025-3-asp-dotnet-and-database-issue-monitoring/))
@@ -37,7 +37,7 @@ description: DotNet Updates
 - .NET 10: The Deathblow to Python’s AI Dominance? 💀 ([13 days ago](https://dotnetkicks.com/r/732018?url=https://www.gapvelocity.ai/blog/dotnet10-smacks-down-python-ai))
 - Defensive Programming with Microsoft .NET: Anticipate Errors and Eliminate Bugs ([13 days ago](https://dotnettips.wordpress.com/2025/10/08/defensive-programming-with-microsoft-net-anticipate-errors-and-eliminate-bugs/))
 - Your API Errors Suck ([13 days ago](https://dotnetkicks.com/r/732016?url=https://codeopinion.com/your-api-errors-suck-heres-how-to-fix-them/))
-- Meet JetBrains at Azure Dev Summit 2025 (Lisbon, Oct 13–16) ([13 days ago](https://blog.jetbrains.com/dotnet/2025/10/07/meet-jetbrains-at-azure-dev-summit-2025/))
+- Meet JetBrains at Azure Dev Summit 2025 (Lisbon, Oct 13–16) ([14 days ago](https://blog.jetbrains.com/dotnet/2025/10/07/meet-jetbrains-at-azure-dev-summit-2025/))
 - Developer and AI Code Reviewer: Reviewing AI-Generated Code in .NET - .NET Blog ([14 days ago](https://dotnetkicks.com/r/731942?url=https://devblogs.microsoft.com/dotnet/developer-and-ai-code-reviewer-reviewing-ai-generated-code-in-dotnet/))
 - Developer and AI Code Reviewer: Reviewing AI-Generated Code in .NET ([14 days ago](https://devblogs.microsoft.com/dotnet/developer-and-ai-code-reviewer-reviewing-ai-generated-code-in-dotnet/))
 - Interesting new C# 14 features coming with .NET 10 ([14 days ago](https://dotnetkicks.com/r/731858?url=https://thomaslevesque.com/2025/04/11/interesting-new-csharp-14-features-coming-with-net-10/))
