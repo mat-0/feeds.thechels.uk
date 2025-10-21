@@ -8,7 +8,7 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Modernizing Visual Studio Extension Compatibility: Effortless Migration for Extension Developers and Users - Visual Studio Blog ([1 hours ago](https://dotnetkicks.com/r/732859?url=https://devblogs.microsoft.com/visualstudio/modernizing-visual-studio-extension-compatibility-effortless-migration-for-extension-developers-and-users/))
+- Modernizing Visual Studio Extension Compatibility: Effortless Migration for Extension Developers and Users - Visual Studio Blog ([2 hours ago](https://dotnetkicks.com/r/732859?url=https://devblogs.microsoft.com/visualstudio/modernizing-visual-studio-extension-compatibility-effortless-migration-for-extension-developers-and-users/))
 - Innovation spotlight: How 3 customers are driving change with migration to Azure SQL - Microsoft SQL Server Blog ([7 hours ago](https://dotnetkicks.com/r/732814?url=https://www.microsoft.com/en-us/sql-server/blog/2025/10/20/innovation-spotlight-how-3-customers-are-driving-change-with-migration-to-azure-sql/))
 - Windows Shell Previews ([15 hours ago](https://dotnetkicks.com/r/732795?url=https://textslashplain.com/2025/10/20/windows-shell-previews/))
 - Coming to Rider 2025.3: ASP.NET and Database Issue Detection In The Monitoring Tool Window ([1 days ago](https://blog.jetbrains.com/dotnet/2025/10/20/rider-2025-3-asp-dotnet-and-database-issue-monitoring/))
@@ -41,7 +41,7 @@ description: DotNet Updates
 - Developer and AI Code Reviewer: Reviewing AI-Generated Code in .NET - .NET Blog ([13 days ago](https://dotnetkicks.com/r/731942?url=https://devblogs.microsoft.com/dotnet/developer-and-ai-code-reviewer-reviewing-ai-generated-code-in-dotnet/))
 - Developer and AI Code Reviewer: Reviewing AI-Generated Code in .NET ([13 days ago](https://devblogs.microsoft.com/dotnet/developer-and-ai-code-reviewer-reviewing-ai-generated-code-in-dotnet/))
 - Interesting new C# 14 features coming with .NET 10 ([14 days ago](https://dotnetkicks.com/r/731858?url=https://thomaslevesque.com/2025/04/11/interesting-new-csharp-14-features-coming-with-net-10/))
-- Visual Studio Dev/Test Benefit Explained - Visual Studio Blog ([14 days ago](https://dotnetkicks.com/r/731713?url=https://devblogs.microsoft.com/visualstudio/visual-studio-dev-test-benefit-explained/))
+- Visual Studio Dev/Test Benefit Explained - Visual Studio Blog ([15 days ago](https://dotnetkicks.com/r/731713?url=https://devblogs.microsoft.com/visualstudio/visual-studio-dev-test-benefit-explained/))
 - 9 ReSharper Features Every .NET Developer Should Know ([15 days ago](https://blog.jetbrains.com/dotnet/2025/10/06/9-resharper-features-every-dotnet-developer-should-know/))
 - dotInsights  -  October 2025 ([15 days ago](https://blog.jetbrains.com/dotnet/2025/10/06/dotinsights-october-2025/))
 - ReSharper and Rider 2025.2.3: The Third Set of Updates Released ([15 days ago](https://blog.jetbrains.com/dotnet/2025/10/06/resharper-and-rider-2025-2-3/))
