@@ -8,8 +8,10 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Adding metadata to fallback endpoints in ASP.NET Core ([3 hours ago](https://dotnetkicks.com/r/732914?url=https://andrewlock.net/adding-metadata-to-fallback-endpoints-in-aspnetcore/))
-- Adding metadata to fallback endpoints in ASP.NET Core ([5 hours ago](https://andrewlock.net/adding-metadata-to-fallback-endpoints-in-aspnetcore/))
+- Introducing Planning in Visual Studio (Public Preview) - Visual Studio Blog ([11 minutes ago](https://dotnetkicks.com/r/732943?url=https://devblogs.microsoft.com/visualstudio/introducing-planning-in-visual-studio-public-preview/))
+- Authorization: Domain or Application Layer? ([12 minutes ago](https://dotnetkicks.com/r/732935?url=https://codeopinion.com/authorization-domain-or-application-layer/))
+- Adding metadata to fallback endpoints in ASP.NET Core ([4 hours ago](https://dotnetkicks.com/r/732914?url=https://andrewlock.net/adding-metadata-to-fallback-endpoints-in-aspnetcore/))
+- Adding metadata to fallback endpoints in ASP.NET Core ([6 hours ago](https://andrewlock.net/adding-metadata-to-fallback-endpoints-in-aspnetcore/))
 - Modernizing Visual Studio Extension Compatibility: Effortless Migration for Extension Developers and Users - Visual Studio Blog ([1 days ago](https://dotnetkicks.com/r/732859?url=https://devblogs.microsoft.com/visualstudio/modernizing-visual-studio-extension-compatibility-effortless-migration-for-extension-developers-and-users/))
 - Innovation spotlight: How 3 customers are driving change with migration to Azure SQL - Microsoft SQL Server Blog ([1 days ago](https://dotnetkicks.com/r/732814?url=https://www.microsoft.com/en-us/sql-server/blog/2025/10/20/innovation-spotlight-how-3-customers-are-driving-change-with-migration-to-azure-sql/))
 - Windows Shell Previews ([1 days ago](https://dotnetkicks.com/r/732795?url=https://textslashplain.com/2025/10/20/windows-shell-previews/))
@@ -43,14 +45,12 @@ description: DotNet Updates
 - Developer and AI Code Reviewer: Reviewing AI-Generated Code in .NET - .NET Blog ([14 days ago](https://dotnetkicks.com/r/731942?url=https://devblogs.microsoft.com/dotnet/developer-and-ai-code-reviewer-reviewing-ai-generated-code-in-dotnet/))
 - Developer and AI Code Reviewer: Reviewing AI-Generated Code in .NET ([14 days ago](https://devblogs.microsoft.com/dotnet/developer-and-ai-code-reviewer-reviewing-ai-generated-code-in-dotnet/))
 - Interesting new C# 14 features coming with .NET 10 ([15 days ago](https://dotnetkicks.com/r/731858?url=https://thomaslevesque.com/2025/04/11/interesting-new-csharp-14-features-coming-with-net-10/))
-- Visual Studio Dev/Test Benefit Explained - Visual Studio Blog ([15 days ago](https://dotnetkicks.com/r/731713?url=https://devblogs.microsoft.com/visualstudio/visual-studio-dev-test-benefit-explained/))
+- Visual Studio Dev/Test Benefit Explained - Visual Studio Blog ([16 days ago](https://dotnetkicks.com/r/731713?url=https://devblogs.microsoft.com/visualstudio/visual-studio-dev-test-benefit-explained/))
 - 9 ReSharper Features Every .NET Developer Should Know ([16 days ago](https://blog.jetbrains.com/dotnet/2025/10/06/9-resharper-features-every-dotnet-developer-should-know/))
 - dotInsights  -  October 2025 ([16 days ago](https://blog.jetbrains.com/dotnet/2025/10/06/dotinsights-october-2025/))
 - ReSharper and Rider 2025.2.3: The Third Set of Updates Released ([16 days ago](https://blog.jetbrains.com/dotnet/2025/10/06/resharper-and-rider-2025-2-3/))
 - F# Weekly #40, 2025 - Microsoft Agent Framework (Preview) ([16 days ago](https://dotnetkicks.com/r/731636?url=https://sergeytihon.com/2025/10/04/f-weekly-40-2025-microsoft-agent-framework-preview/))
 - Boost Your .NET Projects: Secure Passwords with PBKDF2PasswordHasher in Spargine ([17 days ago](https://dotnettips.wordpress.com/2025/10/05/boost-your-net-projects-secure-passwords-with-pbkdf2passwordhasher-in-spargine/))
-- Cake v5.1.0 released ([17 days ago](https://dotnetkicks.com/r/731623?url=https://cakebuild.net/blog/2025/10/cake-v5.1.0-released))
-- Roadmap for AI in Visual Studio (October) - Visual Studio Blog ([18 days ago](https://dotnetkicks.com/r/731595?url=https://devblogs.microsoft.com/visualstudio/roadmap-for-ai-in-visual-studio-october/))
 - ReSharper and Visual Studio 2026: Day-One Compatibility, Migration Steps, and Performance Gains ([20 days ago](https://blog.jetbrains.com/dotnet/2025/10/02/resharper-and-visual-studio-2026/))
 - Introducing Microsoft Agent Framework (Preview): Making AI Agents Simple for Every Developer ([21 days ago](https://devblogs.microsoft.com/dotnet/introducing-microsoft-agent-framework-preview/))
 - Rock Your Code: Coding Standards for Microsoft .NET (20th Anniversary Edition) ([21 days ago](https://dotnettips.wordpress.com/2025/10/01/rock-your-code-coding-standards-for-microsoft-net-20th-anniversary-edition/))
@@ -62,6 +62,5 @@ description: DotNet Updates
 - Rider Roadmap: What to Expect From the Upcoming Updates and Releases ([27 days ago](https://blog.jetbrains.com/dotnet/2025/09/25/rider-rider-roadmap-2025-3/))
 - Exploring Text-to-Image capabilities in .NET ([27 days ago](https://devblogs.microsoft.com/dotnet/explore-text-to-image-dotnet/))
 - sleep-pc: a .NET Native AOT tool to make Windows sleep after a timeout ([29 days ago](https://andrewlock.net/sleep-pc-a-dotnet-tool-to-make-windows-sleep-after-a-timeout/))
-- New Trusted Publishing enhances security on NuGet.org ([29 days ago](https://devblogs.microsoft.com/dotnet/enhanced-security-is-here-with-the-new-trust-publishing-on-nuget-org/))
 
 <!-- news_marker ends -->
