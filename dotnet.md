@@ -8,10 +8,10 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Wolverine 5.0 is Here! ([27 minutes ago](https://dotnetkicks.com/r/733104?url=https://jeremydmiller.com/2025/10/23/wolverine-5-0-is-here/))
-- Upgrading to Microsoft Agent Framework in Your .NET AI Chat App - .NET Blog ([2 hours ago](https://dotnetkicks.com/r/733085?url=https://devblogs.microsoft.com/dotnet/upgrading-to-microsoft-agent-framework-in-your-dotnet-ai-chat-app/))
-- Upgrading to Microsoft Agent Framework in Your .NET AI Chat App - .NET Blog ([2 hours ago](https://dotnetkicks.com/r/733075?url=https://devblogs.microsoft.com/dotnet/upgrading-to-microsoft-agent-framework-in-your-dotnet-ai-chat-app/))
-- Upgrading to Microsoft Agent Framework in Your .NET AI Chat App ([2 hours ago](https://devblogs.microsoft.com/dotnet/upgrading-to-microsoft-agent-framework-in-your-dotnet-ai-chat-app/))
+- Wolverine 5.0 is Here! ([1 hours ago](https://dotnetkicks.com/r/733104?url=https://jeremydmiller.com/2025/10/23/wolverine-5-0-is-here/))
+- Upgrading to Microsoft Agent Framework in Your .NET AI Chat App - .NET Blog ([3 hours ago](https://dotnetkicks.com/r/733085?url=https://devblogs.microsoft.com/dotnet/upgrading-to-microsoft-agent-framework-in-your-dotnet-ai-chat-app/))
+- Upgrading to Microsoft Agent Framework in Your .NET AI Chat App - .NET Blog ([3 hours ago](https://dotnetkicks.com/r/733075?url=https://devblogs.microsoft.com/dotnet/upgrading-to-microsoft-agent-framework-in-your-dotnet-ai-chat-app/))
+- Upgrading to Microsoft Agent Framework in Your .NET AI Chat App ([3 hours ago](https://devblogs.microsoft.com/dotnet/upgrading-to-microsoft-agent-framework-in-your-dotnet-ai-chat-app/))
 - Introducing Planning in Visual Studio (Public Preview) - Visual Studio Blog ([1 days ago](https://dotnetkicks.com/r/732943?url=https://devblogs.microsoft.com/visualstudio/introducing-planning-in-visual-studio-public-preview/))
 - Authorization: Domain or Application Layer? ([1 days ago](https://dotnetkicks.com/r/732935?url=https://codeopinion.com/authorization-domain-or-application-layer/))
 - Adding metadata to fallback endpoints in ASP.NET Core ([1 days ago](https://dotnetkicks.com/r/732914?url=https://andrewlock.net/adding-metadata-to-fallback-endpoints-in-aspnetcore/))
@@ -45,7 +45,7 @@ description: DotNet Updates
 - .NET 10: The Deathblow to Python’s AI Dominance? 💀 ([15 days ago](https://dotnetkicks.com/r/732018?url=https://www.gapvelocity.ai/blog/dotnet10-smacks-down-python-ai))
 - Defensive Programming with Microsoft .NET: Anticipate Errors and Eliminate Bugs ([15 days ago](https://dotnettips.wordpress.com/2025/10/08/defensive-programming-with-microsoft-net-anticipate-errors-and-eliminate-bugs/))
 - Your API Errors Suck ([15 days ago](https://dotnetkicks.com/r/732016?url=https://codeopinion.com/your-api-errors-suck-heres-how-to-fix-them/))
-- Meet JetBrains at Azure Dev Summit 2025 (Lisbon, Oct 13–16) ([15 days ago](https://blog.jetbrains.com/dotnet/2025/10/07/meet-jetbrains-at-azure-dev-summit-2025/))
+- Meet JetBrains at Azure Dev Summit 2025 (Lisbon, Oct 13–16) ([16 days ago](https://blog.jetbrains.com/dotnet/2025/10/07/meet-jetbrains-at-azure-dev-summit-2025/))
 - Developer and AI Code Reviewer: Reviewing AI-Generated Code in .NET - .NET Blog ([16 days ago](https://dotnetkicks.com/r/731942?url=https://devblogs.microsoft.com/dotnet/developer-and-ai-code-reviewer-reviewing-ai-generated-code-in-dotnet/))
 - Developer and AI Code Reviewer: Reviewing AI-Generated Code in .NET ([16 days ago](https://devblogs.microsoft.com/dotnet/developer-and-ai-code-reviewer-reviewing-ai-generated-code-in-dotnet/))
 - 9 ReSharper Features Every .NET Developer Should Know ([17 days ago](https://blog.jetbrains.com/dotnet/2025/10/06/9-resharper-features-every-dotnet-developer-should-know/))
