@@ -8,9 +8,9 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Upgrading to Microsoft Agent Framework in Your .NET AI Chat App - .NET Blog ([29 minutes ago](https://dotnetkicks.com/r/733085?url=https://devblogs.microsoft.com/dotnet/upgrading-to-microsoft-agent-framework-in-your-dotnet-ai-chat-app/))
-- Upgrading to Microsoft Agent Framework in Your .NET AI Chat App - .NET Blog ([30 minutes ago](https://dotnetkicks.com/r/733075?url=https://devblogs.microsoft.com/dotnet/upgrading-to-microsoft-agent-framework-in-your-dotnet-ai-chat-app/))
-- Upgrading to Microsoft Agent Framework in Your .NET AI Chat App ([36 minutes ago](https://devblogs.microsoft.com/dotnet/upgrading-to-microsoft-agent-framework-in-your-dotnet-ai-chat-app/))
+- Upgrading to Microsoft Agent Framework in Your .NET AI Chat App - .NET Blog ([1 hours ago](https://dotnetkicks.com/r/733085?url=https://devblogs.microsoft.com/dotnet/upgrading-to-microsoft-agent-framework-in-your-dotnet-ai-chat-app/))
+- Upgrading to Microsoft Agent Framework in Your .NET AI Chat App - .NET Blog ([1 hours ago](https://dotnetkicks.com/r/733075?url=https://devblogs.microsoft.com/dotnet/upgrading-to-microsoft-agent-framework-in-your-dotnet-ai-chat-app/))
+- Upgrading to Microsoft Agent Framework in Your .NET AI Chat App ([1 hours ago](https://devblogs.microsoft.com/dotnet/upgrading-to-microsoft-agent-framework-in-your-dotnet-ai-chat-app/))
 - Introducing Planning in Visual Studio (Public Preview) - Visual Studio Blog ([1 days ago](https://dotnetkicks.com/r/732943?url=https://devblogs.microsoft.com/visualstudio/introducing-planning-in-visual-studio-public-preview/))
 - Authorization: Domain or Application Layer? ([1 days ago](https://dotnetkicks.com/r/732935?url=https://codeopinion.com/authorization-domain-or-application-layer/))
 - Adding metadata to fallback endpoints in ASP.NET Core ([1 days ago](https://dotnetkicks.com/r/732914?url=https://andrewlock.net/adding-metadata-to-fallback-endpoints-in-aspnetcore/))
