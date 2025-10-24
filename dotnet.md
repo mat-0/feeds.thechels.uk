@@ -9,8 +9,8 @@ description: DotNet Updates
 
 <!-- news_marker starts -->
 - Incremental Optimization in Apache Flink ... with AI ([4 hours ago](https://dotnetkicks.com/r/733166?url=https://rion.io/2025/10/24/incremental-optimization-in-apache-flink-with-ai/))
-- Announcing Sponsorship on NuGet.org - .NET Blog ([23 hours ago](https://dotnetkicks.com/r/733122?url=https://devblogs.microsoft.com/dotnet/announcing-sponsorship-on-nugetdotorg-for-maintainer-appreciation/))
-- Announcing Sponsorship on NuGet.org ([23 hours ago](https://devblogs.microsoft.com/dotnet/announcing-sponsorship-on-nugetdotorg-for-maintainer-appreciation/))
+- Announcing Sponsorship on NuGet.org - .NET Blog ([1 days ago](https://dotnetkicks.com/r/733122?url=https://devblogs.microsoft.com/dotnet/announcing-sponsorship-on-nugetdotorg-for-maintainer-appreciation/))
+- Announcing Sponsorship on NuGet.org ([1 days ago](https://devblogs.microsoft.com/dotnet/announcing-sponsorship-on-nugetdotorg-for-maintainer-appreciation/))
 - How BoldSign Modernized Development at Scale With JetBrains dotUltimate ([1 days ago](https://blog.jetbrains.com/dotnet/2025/10/23/how-boldsign-modernized-development-at-scale-with-jetbrains-dotultimate/))
 - Wolverine 5.0 is Here! ([1 days ago](https://dotnetkicks.com/r/733104?url=https://jeremydmiller.com/2025/10/23/wolverine-5-0-is-here/))
 - Upgrading to Microsoft Agent Framework in Your .NET AI Chat App - .NET Blog ([1 days ago](https://dotnetkicks.com/r/733085?url=https://devblogs.microsoft.com/dotnet/upgrading-to-microsoft-agent-framework-in-your-dotnet-ai-chat-app/))
@@ -31,8 +31,8 @@ description: DotNet Updates
 - Tech Prediction: The Data Kings Will Rule the World ([9 days ago](https://dotnettips.wordpress.com/2025/10/15/tech-prediction-the-data-kings-will-rule-the-world/))
 - .NET and .NET Framework October 2025 servicing releases updates - .NET Blog ([9 days ago](https://dotnetkicks.com/r/732496?url=https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-october-2025-servicing-updates/))
 - .NET and .NET Framework October 2025 servicing releases updates ([9 days ago](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-october-2025-servicing-updates/))
-- Announcing .NET 10 Release Candidate 2 - .NET Blog ([9 days ago](https://dotnetkicks.com/r/732482?url=https://devblogs.microsoft.com/dotnet/dotnet-10-rc-2/))
-- Announcing .NET 10 Release Candidate 2 ([9 days ago](https://devblogs.microsoft.com/dotnet/dotnet-10-rc-2/))
+- Announcing .NET 10 Release Candidate 2 - .NET Blog ([10 days ago](https://dotnetkicks.com/r/732482?url=https://devblogs.microsoft.com/dotnet/dotnet-10-rc-2/))
+- Announcing .NET 10 Release Candidate 2 ([10 days ago](https://devblogs.microsoft.com/dotnet/dotnet-10-rc-2/))
 - Announcing the .NET Security Group - .NET Blog ([10 days ago](https://dotnetkicks.com/r/732449?url=https://devblogs.microsoft.com/dotnet/announcing-dotnet-security-group/))
 - Announcing the .NET Security Group ([10 days ago](https://devblogs.microsoft.com/dotnet/announcing-dotnet-security-group/))
 - ReSharper Is Now on the Open VSX Registry ([10 days ago](https://blog.jetbrains.com/dotnet/2025/10/14/resharper-open-vsx/))
