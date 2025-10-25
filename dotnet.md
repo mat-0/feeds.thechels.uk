@@ -8,7 +8,7 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Incremental Optimization in Apache Flink ... with AI ([21 hours ago](https://dotnetkicks.com/r/733166?url=https://rion.io/2025/10/24/incremental-optimization-in-apache-flink-with-ai/))
+- Incremental Optimization in Apache Flink ... with AI ([22 hours ago](https://dotnetkicks.com/r/733166?url=https://rion.io/2025/10/24/incremental-optimization-in-apache-flink-with-ai/))
 - Announcing Sponsorship on NuGet.org - .NET Blog ([1 days ago](https://dotnetkicks.com/r/733122?url=https://devblogs.microsoft.com/dotnet/announcing-sponsorship-on-nugetdotorg-for-maintainer-appreciation/))
 - Announcing Sponsorship on NuGet.org ([1 days ago](https://devblogs.microsoft.com/dotnet/announcing-sponsorship-on-nugetdotorg-for-maintainer-appreciation/))
 - How BoldSign Modernized Development at Scale With JetBrains dotUltimate ([1 days ago](https://blog.jetbrains.com/dotnet/2025/10/23/how-boldsign-modernized-development-at-scale-with-jetbrains-dotultimate/))
@@ -16,8 +16,8 @@ description: DotNet Updates
 - Upgrading to Microsoft Agent Framework in Your .NET AI Chat App - .NET Blog ([1 days ago](https://dotnetkicks.com/r/733085?url=https://devblogs.microsoft.com/dotnet/upgrading-to-microsoft-agent-framework-in-your-dotnet-ai-chat-app/))
 - Upgrading to Microsoft Agent Framework in Your .NET AI Chat App - .NET Blog ([1 days ago](https://dotnetkicks.com/r/733075?url=https://devblogs.microsoft.com/dotnet/upgrading-to-microsoft-agent-framework-in-your-dotnet-ai-chat-app/))
 - Upgrading to Microsoft Agent Framework in Your .NET AI Chat App ([1 days ago](https://devblogs.microsoft.com/dotnet/upgrading-to-microsoft-agent-framework-in-your-dotnet-ai-chat-app/))
-- Introducing Planning in Visual Studio (Public Preview) - Visual Studio Blog ([2 days ago](https://dotnetkicks.com/r/732943?url=https://devblogs.microsoft.com/visualstudio/introducing-planning-in-visual-studio-public-preview/))
-- Authorization: Domain or Application Layer? ([2 days ago](https://dotnetkicks.com/r/732935?url=https://codeopinion.com/authorization-domain-or-application-layer/))
+- Introducing Planning in Visual Studio (Public Preview) - Visual Studio Blog ([3 days ago](https://dotnetkicks.com/r/732943?url=https://devblogs.microsoft.com/visualstudio/introducing-planning-in-visual-studio-public-preview/))
+- Authorization: Domain or Application Layer? ([3 days ago](https://dotnetkicks.com/r/732935?url=https://codeopinion.com/authorization-domain-or-application-layer/))
 - Adding metadata to fallback endpoints in ASP.NET Core ([3 days ago](https://dotnetkicks.com/r/732914?url=https://andrewlock.net/adding-metadata-to-fallback-endpoints-in-aspnetcore/))
 - Adding metadata to fallback endpoints in ASP.NET Core ([3 days ago](https://andrewlock.net/adding-metadata-to-fallback-endpoints-in-aspnetcore/))
 - Modernizing Visual Studio Extension Compatibility: Effortless Migration for Extension Developers and Users - Visual Studio Blog ([4 days ago](https://dotnetkicks.com/r/732859?url=https://devblogs.microsoft.com/visualstudio/modernizing-visual-studio-extension-compatibility-effortless-migration-for-extension-developers-and-users/))

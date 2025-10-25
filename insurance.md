@@ -12,7 +12,7 @@ description: Insurance Updates
 - Bishop Street Underwriters Launches MGA Incubator ([23 hours ago](https://www.insurancejournal.com/news/national/2025/10/24/845102.htm))
 - Delaware Workers’ Compensation Rates Dropping Again ([23 hours ago](https://www.insurancejournal.com/news/east/2025/10/24/845108.htm))
 - Business Moves: MNK International Acquires Broker in Turkey; Specialist Risk Group Buys Healthcare Consultancy, Specializing in UK Professional Sports ([23 hours ago](https://www.insurancejournal.com/news/international/2025/10/24/845106.htm))
-- Triple-I calls for mitigation measures amid misconceptions about risk-based insurance pricing ([23 hours ago](https://www.reinsurancene.ws/triple-i-calls-for-mitigation-measures-amid-misconceptions-about-risk-based-insurance-pricing/))
+- Triple-I calls for mitigation measures amid misconceptions about risk-based insurance pricing ([1 days ago](https://www.reinsurancene.ws/triple-i-calls-for-mitigation-measures-amid-misconceptions-about-risk-based-insurance-pricing/))
 - Addresscloud and Artificial partner to deliver ‘hyper-accurate’ US property risk data ([1 days ago](https://www.reinsurancene.ws/addresscloud-and-artificial-partner-to-deliver-hyper-accurate-us-property-risk-data/))
 - People Moves: The Baldwin Group Names Campo Construction Practice Partner ([1 days ago](https://www.insurancejournal.com/news/midwest/2025/10/24/844937.htm))
 - Driving in The Dark Requires More Concentration ([1 days ago](https://insurance-edge.net/2025/10/24/driving-in-the-dark-requires-more-concentration/))
