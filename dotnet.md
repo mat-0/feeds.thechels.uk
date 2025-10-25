@@ -8,7 +8,7 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Incremental Optimization in Apache Flink ... with AI ([23 hours ago](https://dotnetkicks.com/r/733166?url=https://rion.io/2025/10/24/incremental-optimization-in-apache-flink-with-ai/))
+- Incremental Optimization in Apache Flink ... with AI ([1 days ago](https://dotnetkicks.com/r/733166?url=https://rion.io/2025/10/24/incremental-optimization-in-apache-flink-with-ai/))
 - Announcing Sponsorship on NuGet.org - .NET Blog ([1 days ago](https://dotnetkicks.com/r/733122?url=https://devblogs.microsoft.com/dotnet/announcing-sponsorship-on-nugetdotorg-for-maintainer-appreciation/))
 - Announcing Sponsorship on NuGet.org ([1 days ago](https://devblogs.microsoft.com/dotnet/announcing-sponsorship-on-nugetdotorg-for-maintainer-appreciation/))
 - How BoldSign Modernized Development at Scale With JetBrains dotUltimate ([1 days ago](https://blog.jetbrains.com/dotnet/2025/10/23/how-boldsign-modernized-development-at-scale-with-jetbrains-dotultimate/))

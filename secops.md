@@ -9,12 +9,12 @@ description: SecOps News
 
 <!-- news_marker starts -->
 - New CoPhish attack steals OAuth tokens via Copilot Studio agents ([1 hours ago](https://www.bleepingcomputer.com/news/security/new-cophish-attack-steals-oauth-tokens-via-copilot-studio-agents/))
-- $1M WhatsApp Hack Flops: Only Low-Risk Bugs Disclosed to Meta After Pwn2Own Withdrawal ([5 hours ago](https://www.securityweek.com/1m-whatsapp-hack-flops-only-low-risk-bugs-disclosed-to-meta-after-pwn2own-withdrawal/))
-- OpenAI Atlas Omnibox Is Vulnerable to Jailbreaks ([5 hours ago](https://www.securityweek.com/chatgpt-atlas-omnibox-is-vulnerable-to-jailbreaks/))
+- $1M WhatsApp Hack Flops: Only Low-Risk Bugs Disclosed to Meta After Pwn2Own Withdrawal ([6 hours ago](https://www.securityweek.com/1m-whatsapp-hack-flops-only-low-risk-bugs-disclosed-to-meta-after-pwn2own-withdrawal/))
+- OpenAI Atlas Omnibox Is Vulnerable to Jailbreaks ([6 hours ago](https://www.securityweek.com/chatgpt-atlas-omnibox-is-vulnerable-to-jailbreaks/))
 - MPs urge government to stop Britain's phone theft wave through tech ([9 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/10/25/uk_committee_phone_theft/))
-- Berkeley boffins build better load balancing algo with AI ([17 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/10/25/openevolve_ai_better_algorithms/))
+- Berkeley boffins build better load balancing algo with AI ([18 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/10/25/openevolve_ai_better_algorithms/))
 - Hackers launch mass attacks exploiting outdated WordPress plugins ([22 hours ago](https://www.bleepingcomputer.com/news/security/hackers-launch-mass-attacks-exploiting-outdated-wordpress-plugins/))
-- Sneaky Mermaid attack in Microsoft 365 Copilot steals data ([22 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/10/24/m365_copilot_mermaid_indirect_prompt_injection/))
+- Sneaky Mermaid attack in Microsoft 365 Copilot steals data ([23 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/10/24/m365_copilot_mermaid_indirect_prompt_injection/))
 - Smishing Triad Linked to 194,000 Malicious Domains in Global Phishing Operation ([23 hours ago](https://thehackernews.com/2025/10/smishing-triad-linked-to-194000.html))
 - Sora makes slurfect deepfakes of celebs spewing racial epithets ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2025/10/24/sora_celebrities_racist_videos/))
 - Newly Patched Critical Microsoft WSUS Flaw Comes Under Active Exploitation ([1 days ago](https://thehackernews.com/2025/10/microsoft-issues-emergency-patch-for.html))
@@ -115,7 +115,7 @@ description: SecOps News
 - [SYSS-2025-015]: Verbatim Keypad Secure (security update v1.0.0.6) - Offline brute-force attack ([3 days ago](https://seclists.org/fulldisclosure/2025/Oct/16))
 - Malvuln - MISP compatible malware vulnerability intelligence	feed now live ([3 days ago](https://seclists.org/fulldisclosure/2025/Oct/15))
 - BSidesSF 2026 CFP still open until October 28th ([3 days ago](https://seclists.org/fulldisclosure/2025/Oct/14))
-- Disruption with some GitHub services ([3 days ago](https://www.githubstatus.com/incidents/v61nk2fpysnq))
+- Disruption with some GitHub services ([4 days ago](https://www.githubstatus.com/incidents/v61nk2fpysnq))
 - AWS Outage: A Supply-Chain Security Lesson ([4 days ago](https://www.itgovernance.co.uk/blog/aws-outage-a-supply-chain-security-lesson))
 - Meta Rolls Out New Tools to Protect WhatsApp and Messenger Users from Scams ([4 days ago](https://thehackernews.com/2025/10/meta-rolls-out-new-tools-to-protect.html))
 - Restructuring risk operations: building a business-aligned cyber strategy ([4 days ago](https://go.theregister.com/feed/www.theregister.com/2025/10/21/restructuring_risk_operations_building/))
@@ -207,6 +207,5 @@ description: SecOps News
 - Welcoming CERN to Have I Been Pwned ([26 days ago](https://www.troyhunt.com/welcoming-cern-to-have-i-been-pwned/))
 - Weekly Update 471 ([28 days ago](https://www.troyhunt.com/weekly-update-471/))
 - Early Years practitioners: using cyber security to protect your settings ([29 days ago](https://www.ncsc.gov.uk/guidance/early-years-practitioners-using-cyber-security-to-protect-your-settings))
-- Disruption with some GitHub services ([29 days ago](https://www.githubstatus.com/incidents/xcn454p4wqtz))
 
 <!-- news_marker ends -->
