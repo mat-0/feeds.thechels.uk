@@ -8,7 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Acrisure Announces Three Key Appointments ([7 hours ago](https://insurance-edge.net/2025/10/25/acrisure-announces-three-key-appointments/))
+- Acrisure Announces Three Key Appointments ([8 hours ago](https://insurance-edge.net/2025/10/25/acrisure-announces-three-key-appointments/))
 - Bishop Street Underwriters Launches MGA Incubator ([1 days ago](https://www.insurancejournal.com/news/national/2025/10/24/845102.htm))
 - Delaware Workers’ Compensation Rates Dropping Again ([1 days ago](https://www.insurancejournal.com/news/east/2025/10/24/845108.htm))
 - Business Moves: MNK International Acquires Broker in Turkey; Specialist Risk Group Buys Healthcare Consultancy, Specializing in UK Professional Sports ([1 days ago](https://www.insurancejournal.com/news/international/2025/10/24/845106.htm))
@@ -69,7 +69,7 @@ description: Insurance Updates
 - Sharp rise in care worker pay drives higher PPO costs for UK insurers ([1 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/sharp-rise-in-care-worker-pay-drives-higher-ppo-costs-for-uk-insurers-554133.aspx))
 - Old Republic to acquire major farm owners insurer ([1 days ago](https://www.dig-in.com/news/old-republic-to-acquire-everett-cash-mutual))
 - AI redefines underwriting and risk assessment in insurance ([1 days ago](https://www.dig-in.com/opinion/ai-redefines-underwriting-and-risk-assessment-in-insurance))
-- Road rage, speeding common bad driving habits: U.S. News & World Report ([1 days ago](https://www.dig-in.com/news/road-rage-speeding-bad-driving-habits-u-s-news-world-report))
+- Road rage, speeding common bad driving habits: U.S. News & World Report ([2 days ago](https://www.dig-in.com/news/road-rage-speeding-bad-driving-habits-u-s-news-world-report))
 - Why this soft market could be the most dangerous yet for cyber ([2 days ago](https://www.insurancebusinessmag.com/uk/news/cyber/why-this-soft-market-could-be-the-most-dangerous-yet-for-cyber-554099.aspx))
 - Kelly Ogley departs Howden ([2 days ago](https://www.postonline.co.uk/broker/7959269/kelly-ogley-departs-howden))
 - Solera and Insurtech Insights: Expanding Global Impact Through AI, Sustainability, and Gender Diversity ([2 days ago](https://www.insurtechinsights.com/solera-and-insurtech-insights-expanding-global-impact-through-ai-sustainability-and-gender-diversity/))
@@ -114,8 +114,8 @@ description: Insurance Updates
 - Culture clash: Tackling non-financial misconduct in insurance ([3 days ago](https://www.postonline.co.uk/regulation/7958979/culture-clash-tackling-non-financial-misconduct-in-insurance))
 - Is home insurance fit for the future? ([3 days ago](https://www.postonline.co.uk/personal/7959041/is-home-insurance-fit-for-the-future))
 - Insurance provider Kin starts Florida mortgage business ([3 days ago](https://www.dig-in.com/news/insurance-provider-kin-starts-florida-mortgage-business))
-- Mental health is a workplace safety concern: Pie Insurance ([3 days ago](https://www.dig-in.com/news/mental-health-is-a-workplace-safety-concern-pie-insurance))
-- AI governance demands a new era of board oversight ([3 days ago](https://www.dig-in.com/opinion/ai-governance-demands-a-new-era-of-oversight))
+- Mental health is a workplace safety concern: Pie Insurance ([4 days ago](https://www.dig-in.com/news/mental-health-is-a-workplace-safety-concern-pie-insurance))
+- AI governance demands a new era of board oversight ([4 days ago](https://www.dig-in.com/opinion/ai-governance-demands-a-new-era-of-oversight))
 - UnitedHealth's 'Optum Real' uses AI to speed up medical claims ([4 days ago](https://www.dig-in.com/articles/unitedhealth-uses-ai-to-speed-up-medical-claims))
 - Catastrophe bonds' huge market gains put reinsurers on backfoot ([4 days ago](https://www.dig-in.com/articles/catastrophe-bonds-huge-market-gains-reinsurers-on-backfoot))
 - Chariot Re Appoints Andrew Preston as Chief Financial Officer ([4 days ago](https://www.insurtechinsights.com/chariot-re-appoints-andrew-preston-as-chief-financial-officer/))
