@@ -9,10 +9,10 @@ description: SecOps News
 
 <!-- news_marker starts -->
 - New CoPhish attack steals OAuth tokens via Copilot Studio agents ([4 hours ago](https://www.bleepingcomputer.com/news/security/new-cophish-attack-steals-oauth-tokens-via-copilot-studio-agents/))
-- $1M WhatsApp Hack Flops: Only Low-Risk Bugs Disclosed to Meta After Pwn2Own Withdrawal ([8 hours ago](https://www.securityweek.com/1m-whatsapp-hack-flops-only-low-risk-bugs-disclosed-to-meta-after-pwn2own-withdrawal/))
+- $1M WhatsApp Hack Flops: Only Low-Risk Bugs Disclosed to Meta After Pwn2Own Withdrawal ([9 hours ago](https://www.securityweek.com/1m-whatsapp-hack-flops-only-low-risk-bugs-disclosed-to-meta-after-pwn2own-withdrawal/))
 - OpenAI Atlas Omnibox Is Vulnerable to Jailbreaks ([9 hours ago](https://www.securityweek.com/chatgpt-atlas-omnibox-is-vulnerable-to-jailbreaks/))
 - MPs urge government to stop Britain's phone theft wave through tech ([12 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/10/25/uk_committee_phone_theft/))
-- Berkeley boffins build better load balancing algo with AI ([20 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/10/25/openevolve_ai_better_algorithms/))
+- Berkeley boffins build better load balancing algo with AI ([21 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/10/25/openevolve_ai_better_algorithms/))
 - Hackers launch mass attacks exploiting outdated WordPress plugins ([1 days ago](https://www.bleepingcomputer.com/news/security/hackers-launch-mass-attacks-exploiting-outdated-wordpress-plugins/))
 - Sneaky Mermaid attack in Microsoft 365 Copilot steals data ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2025/10/24/m365_copilot_mermaid_indirect_prompt_injection/))
 - Smishing Triad Linked to 194,000 Malicious Domains in Global Phishing Operation ([1 days ago](https://thehackernews.com/2025/10/smishing-triad-linked-to-194000.html))
@@ -81,7 +81,7 @@ description: SecOps News
 - IBM is just not into the 'spend megabucks on cloudy GPUs' thing, rents them instead ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2025/10/23/ibm_q3_2025/))
 - Hacking Formula 1: Accessing Max Verstappen’s passport and PII through FIA bugs ([2 days ago](https://databreaches.net/2025/10/22/hacking-formula-1-accessing-max-verstappens-passport-and-pii-through-fia-bugs/?pk_campaign=feed&pk_kwd=hacking-formula-1-accessing-max-verstappens-passport-and-pii-through-fia-bugs))
 - Smashing Security podcast #440: How to hack a prison, and the hidden threat of online checkouts ([2 days ago](https://grahamcluley.com/smashing-security-podcast-440/))
-- Protected health information of 462,000 members of Blue Cross Blue Shield of Montana involved in Conduent data breach ([2 days ago](https://databreaches.net/2025/10/22/protected-health-information-of-462000-members-of-blue-cross-blue-shield-of-montana-involved-in-conduent-data-breach/?pk_campaign=feed&pk_kwd=protected-health-information-of-462000-members-of-blue-cross-blue-shield-of-montana-involved-in-conduent-data-breach))
+- Protected health information of 462,000 members of Blue Cross Blue Shield of Montana involved in Conduent data breach ([3 days ago](https://databreaches.net/2025/10/22/protected-health-information-of-462000-members-of-blue-cross-blue-shield-of-montana-involved-in-conduent-data-breach/?pk_campaign=feed&pk_kwd=protected-health-information-of-462000-members-of-blue-cross-blue-shield-of-montana-involved-in-conduent-data-breach))
 - Reddit to Perplexity: Get your filthy hands off our forums ([3 days ago](https://go.theregister.com/feed/www.theregister.com/2025/10/22/reddit_sues_perplexity/))
 - Canada Fines Cybercrime Friendly Cryptomus $176M ([3 days ago](https://krebsonsecurity.com/2025/10/canada-fines-cybercrime-friendly-cryptomus-176m/))
 - Iran-Linked MuddyWater Targets 100+ Organisations in Global Espionage Campaign ([3 days ago](https://thehackernews.com/2025/10/iran-linked-muddywater-targets-100.html))

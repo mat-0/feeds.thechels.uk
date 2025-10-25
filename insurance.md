@@ -113,7 +113,7 @@ description: Insurance Updates
 - Could the Trocadero ruling threaten broker commission arrangements? ([3 days ago](https://www.postonline.co.uk/broker/7958897/could-the-trocadero-ruling-threaten-broker-commission-arrangements))
 - Culture clash: Tackling non-financial misconduct in insurance ([3 days ago](https://www.postonline.co.uk/regulation/7958979/culture-clash-tackling-non-financial-misconduct-in-insurance))
 - Is home insurance fit for the future? ([3 days ago](https://www.postonline.co.uk/personal/7959041/is-home-insurance-fit-for-the-future))
-- Insurance provider Kin starts Florida mortgage business ([3 days ago](https://www.dig-in.com/news/insurance-provider-kin-starts-florida-mortgage-business))
+- Insurance provider Kin starts Florida mortgage business ([4 days ago](https://www.dig-in.com/news/insurance-provider-kin-starts-florida-mortgage-business))
 - Mental health is a workplace safety concern: Pie Insurance ([4 days ago](https://www.dig-in.com/news/mental-health-is-a-workplace-safety-concern-pie-insurance))
 - AI governance demands a new era of board oversight ([4 days ago](https://www.dig-in.com/opinion/ai-governance-demands-a-new-era-of-oversight))
 - UnitedHealth's 'Optum Real' uses AI to speed up medical claims ([4 days ago](https://www.dig-in.com/articles/unitedhealth-uses-ai-to-speed-up-medical-claims))
