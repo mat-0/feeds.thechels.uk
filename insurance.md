@@ -8,7 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Acrisure Announces Three Key Appointments ([6 hours ago](https://insurance-edge.net/2025/10/25/acrisure-announces-three-key-appointments/))
+- Acrisure Announces Three Key Appointments ([7 hours ago](https://insurance-edge.net/2025/10/25/acrisure-announces-three-key-appointments/))
 - Bishop Street Underwriters Launches MGA Incubator ([1 days ago](https://www.insurancejournal.com/news/national/2025/10/24/845102.htm))
 - Delaware Workers’ Compensation Rates Dropping Again ([1 days ago](https://www.insurancejournal.com/news/east/2025/10/24/845108.htm))
 - Business Moves: MNK International Acquires Broker in Turkey; Specialist Risk Group Buys Healthcare Consultancy, Specializing in UK Professional Sports ([1 days ago](https://www.insurancejournal.com/news/international/2025/10/24/845106.htm))
@@ -98,7 +98,7 @@ description: Insurance Updates
 - FCA CEO warns UK ‘massively under-insuring’ against cyber threats ([2 days ago](https://www.postonline.co.uk/regulation/7959264/fca-ceo-warns-uk-%E2%80%98massively-under-insuring%E2%80%99-against-cyber-threats))
 - Insurers apply AI to evaluate plaintiff lawsuits ([2 days ago](https://www.dig-in.com/news/insurers-apply-ai-to-evaluate-plaintiff-lawsuits))
 - The evolution of AI in workers' compensation ([2 days ago](https://www.dig-in.com/opinion/the-evolution-of-ai-in-workers-compensation))
-- Recruiters under pressure to build AI-ready workforce amid skills gap ([2 days ago](https://www.insurancebusinessmag.com/uk/business-strategy/recruiters-under-pressure-to-build-aiready-workforce-amid-skills-gap-553936.aspx))
+- Recruiters under pressure to build AI-ready workforce amid skills gap ([3 days ago](https://www.insurancebusinessmag.com/uk/business-strategy/recruiters-under-pressure-to-build-aiready-workforce-amid-skills-gap-553936.aspx))
 - Brown & Brown Agrees to Acquire MGA Pardus Underwriting Limited ([3 days ago](https://www.insurtechinsights.com/brown-brown-agrees-to-acquire-mga-pardus-underwriting-limited/))
 - Federato Launches the First Enterprise-Grade Agentic AI for the Insurance Industry ([3 days ago](https://www.insurtechinsights.com/federato-launches-the-first-enterprise-grade-agentic-ai-for-the-insurance-industry/))
 - From payout to prevention: how insurers can change the cancer story ([3 days ago](https://ifamagazine.com/from-payout-to-prevention-how-insurers-can-change-the-cancer-story/))
@@ -132,6 +132,6 @@ description: Insurance Updates
 - National Friendly launches Friendly Health ([11 days ago](https://ifamagazine.com/national-friendly-launches-friendly-health/))
 - Asia Insurance Goes Live with CoverGo Platform to Digitise Health Insurance ([15 days ago](https://thefintechtimes.com/asia-insurance-goes-live-with-covergo-platform-to-digitise-health-insurance/))
 - Igloo Boosts Climate Resilience Across Southeast Asia with Data-Driven Insurance Solutions ([17 days ago](https://thefintechtimes.com/igloo-boosts-climate-resilience-across-southeast-asia-with-data-driven-insurance-solutions/))
-- Concirrus and Applied Win ‘AI Implementation of the Year’ at US Insurance Awards ([22 days ago](https://thefintechtimes.com/concirrus-ai-cuts-aviation-underwriting-time-from-36-hours-to-minutes-for-applied-aviation/))
+- Concirrus and Applied Win ‘AI Implementation of the Year’ at US Insurance Awards ([23 days ago](https://thefintechtimes.com/concirrus-ai-cuts-aviation-underwriting-time-from-36-hours-to-minutes-for-applied-aviation/))
 
 <!-- news_marker ends -->
