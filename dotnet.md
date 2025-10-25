@@ -62,6 +62,5 @@ description: DotNet Updates
 - Boost Your .NET Projects: Simplify Unique Key Generation with KeyGenerator in Spargine ([27 days ago](https://dotnettips.wordpress.com/2025/09/28/boost-your-net-projects-simplify-unique-key-generation-with-keygenerator-in-spargine/))
 - Preparing Your .NET MAUI Apps for Google Play’s 16 KB Page Size Requirement ([28 days ago](https://devblogs.microsoft.com/dotnet/maui-google-play-16-kb-page-size-support/))
 - Announcing Aspire 9.5 ([29 days ago](https://devblogs.microsoft.com/dotnet/announcing-dotnet-aspire-95/))
-- Rider Roadmap: What to Expect From the Upcoming Updates and Releases ([29 days ago](https://blog.jetbrains.com/dotnet/2025/09/25/rider-rider-roadmap-2025-3/))
 
 <!-- news_marker ends -->
