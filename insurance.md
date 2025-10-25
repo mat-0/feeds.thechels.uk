@@ -8,7 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Acrisure Announces Three Key Appointments ([5 hours ago](https://insurance-edge.net/2025/10/25/acrisure-announces-three-key-appointments/))
+- Acrisure Announces Three Key Appointments ([6 hours ago](https://insurance-edge.net/2025/10/25/acrisure-announces-three-key-appointments/))
 - Bishop Street Underwriters Launches MGA Incubator ([1 days ago](https://www.insurancejournal.com/news/national/2025/10/24/845102.htm))
 - Delaware Workers’ Compensation Rates Dropping Again ([1 days ago](https://www.insurancejournal.com/news/east/2025/10/24/845108.htm))
 - Business Moves: MNK International Acquires Broker in Turkey; Specialist Risk Group Buys Healthcare Consultancy, Specializing in UK Professional Sports ([1 days ago](https://www.insurancejournal.com/news/international/2025/10/24/845106.htm))
@@ -118,8 +118,8 @@ description: Insurance Updates
 - AI governance demands a new era of board oversight ([3 days ago](https://www.dig-in.com/opinion/ai-governance-demands-a-new-era-of-oversight))
 - UnitedHealth's 'Optum Real' uses AI to speed up medical claims ([3 days ago](https://www.dig-in.com/articles/unitedhealth-uses-ai-to-speed-up-medical-claims))
 - Catastrophe bonds' huge market gains put reinsurers on backfoot ([3 days ago](https://www.dig-in.com/articles/catastrophe-bonds-huge-market-gains-reinsurers-on-backfoot))
-- Chariot Re Appoints Andrew Preston as Chief Financial Officer ([3 days ago](https://www.insurtechinsights.com/chariot-re-appoints-andrew-preston-as-chief-financial-officer/))
-- Simply Business Launches New AI Solution to Transform Small Business Insurance Buying ([3 days ago](https://www.insurtechinsights.com/simply-business-launches-new-ai-solution-to-transform-small-business-insurance-buying/))
+- Chariot Re Appoints Andrew Preston as Chief Financial Officer ([4 days ago](https://www.insurtechinsights.com/chariot-re-appoints-andrew-preston-as-chief-financial-officer/))
+- Simply Business Launches New AI Solution to Transform Small Business Insurance Buying ([4 days ago](https://www.insurtechinsights.com/simply-business-launches-new-ai-solution-to-transform-small-business-insurance-buying/))
 - Gallagher Adds Strategic Services Group in Midwest Expansion Drive ([4 days ago](https://www.insurtechinsights.com/gallagher-adds-strategic-services-group-in-midwest-expansion-drive/))
 - Biba survey finds improvements in insurer service ([4 days ago](https://www.postonline.co.uk/news/7959244/biba-survey-finds-improvements-in-insurer-service))
 - Are employers missing a key benefit? Two in three employees call for dental cover ([5 days ago](https://ifamagazine.com/are-employers-missing-a-key-benefit-two-in-three-employees-call-for-dental-cover/))
