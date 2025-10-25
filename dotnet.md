@@ -8,7 +8,7 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Incremental Optimization in Apache Flink ... with AI ([16 hours ago](https://dotnetkicks.com/r/733166?url=https://rion.io/2025/10/24/incremental-optimization-in-apache-flink-with-ai/))
+- Incremental Optimization in Apache Flink ... with AI ([17 hours ago](https://dotnetkicks.com/r/733166?url=https://rion.io/2025/10/24/incremental-optimization-in-apache-flink-with-ai/))
 - Announcing Sponsorship on NuGet.org - .NET Blog ([1 days ago](https://dotnetkicks.com/r/733122?url=https://devblogs.microsoft.com/dotnet/announcing-sponsorship-on-nugetdotorg-for-maintainer-appreciation/))
 - Announcing Sponsorship on NuGet.org ([1 days ago](https://devblogs.microsoft.com/dotnet/announcing-sponsorship-on-nugetdotorg-for-maintainer-appreciation/))
 - How BoldSign Modernized Development at Scale With JetBrains dotUltimate ([1 days ago](https://blog.jetbrains.com/dotnet/2025/10/23/how-boldsign-modernized-development-at-scale-with-jetbrains-dotultimate/))
@@ -25,8 +25,8 @@ description: DotNet Updates
 - Windows Shell Previews ([4 days ago](https://dotnetkicks.com/r/732795?url=https://textslashplain.com/2025/10/20/windows-shell-previews/))
 - Coming to Rider 2025.3: ASP.NET and Database Issue Detection In The Monitoring Tool Window ([4 days ago](https://blog.jetbrains.com/dotnet/2025/10/20/rider-2025-3-asp-dotnet-and-database-issue-monitoring/))
 - Mastering the Art of Public Speaking: Lessons from a Lifetime of Teaching and Sharing ([6 days ago](https://dotnettips.wordpress.com/2025/10/19/mastering-the-art-of-public-speaking-lessons-from-a-lifetime-of-teaching-and-sharing/))
-- F# Weekly #42, 2025 - Hi, Victor &amp; .NET 10 RC2 ([6 days ago](https://dotnetkicks.com/r/732696?url=https://sergeytihon.com/2025/10/18/f-weekly-42-2025-hi-victor-net-10-rc2/))
-- Implement a secure MCP OAuth desktop client using OAuth and Entra ID ([7 days ago](https://dotnetkicks.com/r/732629?url=https://damienbod.com/2025/10/16/implement-a-secure-mcp-oauth-desktop-client-using-oauth-and-entra-id/))
+- F# Weekly #42, 2025 - Hi, Victor &amp; .NET 10 RC2 ([7 days ago](https://dotnetkicks.com/r/732696?url=https://sergeytihon.com/2025/10/18/f-weekly-42-2025-hi-victor-net-10-rc2/))
+- Implement a secure MCP OAuth desktop client using OAuth and Entra ID ([8 days ago](https://dotnetkicks.com/r/732629?url=https://damienbod.com/2025/10/16/implement-a-secure-mcp-oauth-desktop-client-using-oauth-and-entra-id/))
 - Migrations the "Critter Stack" Way ([8 days ago](https://dotnetkicks.com/r/732627?url=https://jeremydmiller.com/2025/10/16/migrationsthe-critter-stack-way/))
 - Tech Prediction: The Data Kings Will Rule the World ([10 days ago](https://dotnettips.wordpress.com/2025/10/15/tech-prediction-the-data-kings-will-rule-the-world/))
 - .NET and .NET Framework October 2025 servicing releases updates - .NET Blog ([10 days ago](https://dotnetkicks.com/r/732496?url=https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-october-2025-servicing-updates/))
