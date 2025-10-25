@@ -8,7 +8,7 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Incremental Optimization in Apache Flink ... with AI ([20 hours ago](https://dotnetkicks.com/r/733166?url=https://rion.io/2025/10/24/incremental-optimization-in-apache-flink-with-ai/))
+- Incremental Optimization in Apache Flink ... with AI ([21 hours ago](https://dotnetkicks.com/r/733166?url=https://rion.io/2025/10/24/incremental-optimization-in-apache-flink-with-ai/))
 - Announcing Sponsorship on NuGet.org - .NET Blog ([1 days ago](https://dotnetkicks.com/r/733122?url=https://devblogs.microsoft.com/dotnet/announcing-sponsorship-on-nugetdotorg-for-maintainer-appreciation/))
 - Announcing Sponsorship on NuGet.org ([1 days ago](https://devblogs.microsoft.com/dotnet/announcing-sponsorship-on-nugetdotorg-for-maintainer-appreciation/))
 - How BoldSign Modernized Development at Scale With JetBrains dotUltimate ([1 days ago](https://blog.jetbrains.com/dotnet/2025/10/23/how-boldsign-modernized-development-at-scale-with-jetbrains-dotultimate/))
@@ -41,7 +41,7 @@ description: DotNet Updates
 - FYAI: Why developers will lead AI transformation across the enterprise  -  The Microsoft Cloud Blog ([11 days ago](https://dotnetkicks.com/r/732382?url=https://www.microsoft.com/en-us/microsoft-cloud/blog/2025/10/13/fyai-why-developers-will-lead-ai-transformation-across-the-enterprise/))
 - Boost Your .NET Projects: Simplify Windows Service and Process Management with Spargine’s Services Helper ([13 days ago](https://dotnettips.wordpress.com/2025/10/12/boost-your-net-projects-simplify-windows-service-and-process-management-with-spargines-services-helper/))
 - F# Weekly #41, 2025 - JetBrains .NET Days Online 2025 ([13 days ago](https://dotnetkicks.com/r/732324?url=https://sergeytihon.com/2025/10/11/f-weekly-41-2025-jetbrains-net-days-online-2025/))
-- James Montemagno on Vibe Coding ([14 days ago](https://dotnetkicks.com/r/732297?url=https://jesseliberty.com/2025/10/10/james-montemagno-on-vibe-coding/))
+- James Montemagno on Vibe Coding ([15 days ago](https://dotnetkicks.com/r/732297?url=https://jesseliberty.com/2025/10/10/james-montemagno-on-vibe-coding/))
 - Marten 8.12 with New Plumbing ([16 days ago](https://dotnetkicks.com/r/732154?url=https://jeremydmiller.com/2025/10/08/marten-8-12-with-new-plumbing/))
 - Preparing for the .NET 10 GC (DATAS) - .NET Blog ([16 days ago](https://dotnetkicks.com/r/732105?url=https://devblogs.microsoft.com/dotnet/preparing-for-dotnet-10-gc/))
 - Preparing for the .NET 10 GC (DATAS) ([16 days ago](https://devblogs.microsoft.com/dotnet/preparing-for-dotnet-10-gc/))
