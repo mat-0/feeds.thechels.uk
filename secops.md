@@ -8,8 +8,8 @@ description: SecOps News
 [Get this as an RSS feed](/secops.rss)
 
 <!-- news_marker starts -->
-- [REVIVE-SA-2025-002] Revive Adserver Vulnerability ([49 minutes ago](https://seclists.org/fulldisclosure/2025/Oct/21))
-- [REVIVE-SA-2025-001] Revive Adserver Vulnerability ([49 minutes ago](https://seclists.org/fulldisclosure/2025/Oct/20))
+- [REVIVE-SA-2025-002] Revive Adserver Vulnerability ([1 hours ago](https://seclists.org/fulldisclosure/2025/Oct/21))
+- [REVIVE-SA-2025-001] Revive Adserver Vulnerability ([1 hours ago](https://seclists.org/fulldisclosure/2025/Oct/20))
 - Weekly Update 475 ([7 hours ago](https://www.troyhunt.com/weekly-update-475/))
 - New CoPhish attack steals OAuth tokens via Copilot Studio agents ([12 hours ago](https://www.bleepingcomputer.com/news/security/new-cophish-attack-steals-oauth-tokens-via-copilot-studio-agents/))
 - $1M WhatsApp Hack Flops: Only Low-Risk Bugs Disclosed to Meta After Pwn2Own Withdrawal ([17 hours ago](https://www.securityweek.com/1m-whatsapp-hack-flops-only-low-risk-bugs-disclosed-to-meta-after-pwn2own-withdrawal/))
