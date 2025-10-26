@@ -63,7 +63,7 @@ description: Insurance Updates
 - Illinois Department of Insurance Asks Insurers for Policyholder Relief During Shutdown ([1 days ago](https://www.insurancejournal.com/news/midwest/2025/10/24/844997.htm))
 - Could Applied be lining up a bid to buy a UK software house? ([1 days ago](https://www.postonline.co.uk/technology/7959222/could-applied-be-lining-up-a-bid-to-buy-a-uk-software-house))
 - Penny Black’s Social Diary: Clyde & Co’s biscuits; Canopius’ sauce ([1 days ago](https://www.postonline.co.uk/people/7959068/penny-black%E2%80%99s-social-diary-clyde-co%E2%80%99s-biscuits-canopius%E2%80%99-sauce))
-- Insurance moves at Howden and Tide Insurance ([1 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/insurance-moves-at-howden-and-tide-insurance-554138.aspx))
+- Insurance moves at Howden and Tide Insurance ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/insurance-moves-at-howden-and-tide-insurance-554138.aspx))
 - Aviva urges policy checks as rodent damage claims climb ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/aviva-urges-policy-checks-as-rodent-damage-claims-climb-554137.aspx))
 - Allianz strengthens UK leadership ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/allianz-strengthens-uk-leadership-554135.aspx))
 - Sharp rise in care worker pay drives higher PPO costs for UK insurers ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/sharp-rise-in-care-worker-pay-drives-higher-ppo-costs-for-uk-insurers-554133.aspx))
@@ -130,8 +130,8 @@ description: Insurance Updates
 - Vitality’s medicated weight management pathway: early success and its impact on health insurance ([10 days ago](https://ifamagazine.com/vitalitys-medicated-weight-management-pathway-early-success-and-its-impact-on-health-insurance/))
 - Divorcing couples risk being left high and dry if future maintenance isn’t insured against job loss, death or default ([11 days ago](https://ifamagazine.com/divorcing-couples-risk-being-left-high-and-dry-if-future-maintenance-isnt-insured-against-job-loss-death-or-default/))
 - National Friendly launches Friendly Health ([11 days ago](https://ifamagazine.com/national-friendly-launches-friendly-health/))
-- Asia Insurance Goes Live with CoverGo Platform to Digitise Health Insurance ([15 days ago](https://thefintechtimes.com/asia-insurance-goes-live-with-covergo-platform-to-digitise-health-insurance/))
-- Igloo Boosts Climate Resilience Across Southeast Asia with Data-Driven Insurance Solutions ([17 days ago](https://thefintechtimes.com/igloo-boosts-climate-resilience-across-southeast-asia-with-data-driven-insurance-solutions/))
+- Asia Insurance Goes Live with CoverGo Platform to Digitise Health Insurance ([16 days ago](https://thefintechtimes.com/asia-insurance-goes-live-with-covergo-platform-to-digitise-health-insurance/))
+- Igloo Boosts Climate Resilience Across Southeast Asia with Data-Driven Insurance Solutions ([18 days ago](https://thefintechtimes.com/igloo-boosts-climate-resilience-across-southeast-asia-with-data-driven-insurance-solutions/))
 - Concirrus and Applied Win ‘AI Implementation of the Year’ at US Insurance Awards ([23 days ago](https://thefintechtimes.com/concirrus-ai-cuts-aviation-underwriting-time-from-36-hours-to-minutes-for-applied-aviation/))
 
 <!-- news_marker ends -->
