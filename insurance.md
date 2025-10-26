@@ -8,7 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Acrisure Announces Three Key Appointments ([21 hours ago](https://insurance-edge.net/2025/10/25/acrisure-announces-three-key-appointments/))
+- Acrisure Announces Three Key Appointments ([22 hours ago](https://insurance-edge.net/2025/10/25/acrisure-announces-three-key-appointments/))
 - Bishop Street Underwriters Launches MGA Incubator ([1 days ago](https://www.insurancejournal.com/news/national/2025/10/24/845102.htm))
 - Delaware Workers’ Compensation Rates Dropping Again ([1 days ago](https://www.insurancejournal.com/news/east/2025/10/24/845108.htm))
 - Business Moves: MNK International Acquires Broker in Turkey; Specialist Risk Group Buys Healthcare Consultancy, Specializing in UK Professional Sports ([1 days ago](https://www.insurancejournal.com/news/international/2025/10/24/845106.htm))
@@ -46,7 +46,7 @@ description: Insurance Updates
 - How evolving formats and digital risk are rewriting insurance for media ([1 days ago](https://www.insurancebusinessmag.com/uk/news/technology/how-evolving-formats-and-digital-risk-are-rewriting-insurance-for-media-554201.aspx))
 - CyberCube expects AWS outage to have ‘moderate’ insurance impact ([1 days ago](https://www.postonline.co.uk/commercial/7959270/cybercube-expects-aws-outage-to-have-%E2%80%98moderate%E2%80%99-insurance-impact))
 - AXA Partners Are Working With bolttech ([1 days ago](https://insurance-edge.net/2025/10/24/axa-partners-are-working-with-bolttech/))
-- Apple Loses Landmark UK Lawsuit Over App Store Commissions ([1 days ago](https://www.insurancejournal.com/news/international/2025/10/24/844905.htm))
+- Apple Loses Landmark UK Lawsuit Over App Store Commissions ([2 days ago](https://www.insurancejournal.com/news/international/2025/10/24/844905.htm))
 - Applied Acquires Cytora: Supercharging the Digital Roundtrip of Insurance with AI ([2 days ago](https://www.insurancejournal.com/blogs/ezlynx/2025/10/24/844802.htm))
 - IUAD aims to shape dementia data and NHS plans ([2 days ago](https://www.postonline.co.uk/people/7959113/iuad-aims-to-shape-dementia-data-and-nhs-plans))
 - Gretel launches e-trace to help insurers shift from reactive tracing to proactive reconnection ([2 days ago](https://ifamagazine.com/gretel-launches-e-trace-to-help-insurers-shift-from-reactive-tracing-to-proactive-customer-reconnection/))
@@ -108,7 +108,7 @@ description: Insurance Updates
 - Leading the way for insurance claims ([3 days ago](https://www.insurancebusinessmag.com/uk/tv/leading-the-way-for-insurance-claims-553875.aspx))
 - Brokers as the drivers of growth ([3 days ago](https://www.insurancebusinessmag.com/uk/news/columns/brokers-as-the-drivers-of-growth-553874.aspx))
 - Prima aims for UK scale after rapid rise in Italy ([3 days ago](https://www.postonline.co.uk/news/7959238/prima-aims-for-uk-scale-after-rapid-rise-in-italy))
-- Vitality finds Mental Health claims rates are still on the rise ([3 days ago](https://ifamagazine.com/vitality-finds-mental-health-claims-rates-are-still-on-the-rise/))
+- Vitality finds Mental Health claims rates are still on the rise ([4 days ago](https://ifamagazine.com/vitality-finds-mental-health-claims-rates-are-still-on-the-rise/))
 - Clyde and Co sees rapid rise in work-related stress claims ([4 days ago](https://www.postonline.co.uk/commercial/7959240/clyde-and-co-sees-rapid-rise-in-work-related-stress-claims))
 - Could the Trocadero ruling threaten broker commission arrangements? ([4 days ago](https://www.postonline.co.uk/broker/7958897/could-the-trocadero-ruling-threaten-broker-commission-arrangements))
 - Culture clash: Tackling non-financial misconduct in insurance ([4 days ago](https://www.postonline.co.uk/regulation/7958979/culture-clash-tackling-non-financial-misconduct-in-insurance))
