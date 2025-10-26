@@ -8,8 +8,8 @@ description: SecOps News
 [Get this as an RSS feed](/secops.rss)
 
 <!-- news_marker starts -->
-- [REVIVE-SA-2025-002] Revive Adserver Vulnerability ([13 hours ago](https://seclists.org/fulldisclosure/2025/Oct/21))
-- [REVIVE-SA-2025-001] Revive Adserver Vulnerability ([13 hours ago](https://seclists.org/fulldisclosure/2025/Oct/20))
+- [REVIVE-SA-2025-002] Revive Adserver Vulnerability ([14 hours ago](https://seclists.org/fulldisclosure/2025/Oct/21))
+- [REVIVE-SA-2025-001] Revive Adserver Vulnerability ([14 hours ago](https://seclists.org/fulldisclosure/2025/Oct/20))
 - Weekly Update 475 ([20 hours ago](https://www.troyhunt.com/weekly-update-475/))
 - New CoPhish attack steals OAuth tokens via Copilot Studio agents ([1 days ago](https://www.bleepingcomputer.com/news/security/new-cophish-attack-steals-oauth-tokens-via-copilot-studio-agents/))
 - $1M WhatsApp Hack Flops: Only Low-Risk Bugs Disclosed to Meta After Pwn2Own Withdrawal ([1 days ago](https://www.securityweek.com/1m-whatsapp-hack-flops-only-low-risk-bugs-disclosed-to-meta-after-pwn2own-withdrawal/))
@@ -118,7 +118,7 @@ description: SecOps News
 - [SYSS-2025-015]: Verbatim Keypad Secure (security update v1.0.0.6) - Offline brute-force attack ([4 days ago](https://seclists.org/fulldisclosure/2025/Oct/16))
 - Malvuln - MISP compatible malware vulnerability intelligence	feed now live ([4 days ago](https://seclists.org/fulldisclosure/2025/Oct/15))
 - BSidesSF 2026 CFP still open until October 28th ([4 days ago](https://seclists.org/fulldisclosure/2025/Oct/14))
-- Disruption with some GitHub services ([4 days ago](https://www.githubstatus.com/incidents/v61nk2fpysnq))
+- Disruption with some GitHub services ([5 days ago](https://www.githubstatus.com/incidents/v61nk2fpysnq))
 - AWS Outage: A Supply-Chain Security Lesson ([5 days ago](https://www.itgovernance.co.uk/blog/aws-outage-a-supply-chain-security-lesson))
 - Meta Rolls Out New Tools to Protect WhatsApp and Messenger Users from Scams ([5 days ago](https://thehackernews.com/2025/10/meta-rolls-out-new-tools-to-protect.html))
 - Restructuring risk operations: building a business-aligned cyber strategy ([5 days ago](https://go.theregister.com/feed/www.theregister.com/2025/10/21/restructuring_risk_operations_building/))

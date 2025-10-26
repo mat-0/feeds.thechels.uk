@@ -70,7 +70,7 @@ description: Insurance Updates
 - Old Republic to acquire major farm owners insurer ([2 days ago](https://www.dig-in.com/news/old-republic-to-acquire-everett-cash-mutual))
 - AI redefines underwriting and risk assessment in insurance ([2 days ago](https://www.dig-in.com/opinion/ai-redefines-underwriting-and-risk-assessment-in-insurance))
 - Road rage, speeding common bad driving habits: U.S. News & World Report ([2 days ago](https://www.dig-in.com/news/road-rage-speeding-bad-driving-habits-u-s-news-world-report))
-- Why this soft market could be the most dangerous yet for cyber ([2 days ago](https://www.insurancebusinessmag.com/uk/news/cyber/why-this-soft-market-could-be-the-most-dangerous-yet-for-cyber-554099.aspx))
+- Why this soft market could be the most dangerous yet for cyber ([3 days ago](https://www.insurancebusinessmag.com/uk/news/cyber/why-this-soft-market-could-be-the-most-dangerous-yet-for-cyber-554099.aspx))
 - Kelly Ogley departs Howden ([3 days ago](https://www.postonline.co.uk/broker/7959269/kelly-ogley-departs-howden))
 - Solera and Insurtech Insights: Expanding Global Impact Through AI, Sustainability, and Gender Diversity ([3 days ago](https://www.insurtechinsights.com/solera-and-insurtech-insights-expanding-global-impact-through-ai-sustainability-and-gender-diversity/))
 - Brown & Brown, Inc. Appoints Chief Operating Officer Steve Hearn as President of Retail Segment ([3 days ago](https://www.insurtechinsights.com/brown-brown-inc-appoints-chief-operating-officer-steve-hearn-as-president-of-retail-segment/))
