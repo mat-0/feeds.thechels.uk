@@ -8,8 +8,8 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- So…you want to launch an insurtech ([30 minutes ago](https://www.dig-in.com/news/keys-to-launching-an-insurtech))
-- Nationwide: 85% of independent agents recommend smart tech for homeowners ([37 minutes ago](https://www.dig-in.com/news/most-independent-agents-recommend-smart-home-tech))
+- So…you want to launch an insurtech ([58 minutes ago](https://www.dig-in.com/news/keys-to-launching-an-insurtech))
+- Nationwide: 85% of independent agents recommend smart tech for homeowners ([1 hours ago](https://www.dig-in.com/news/most-independent-agents-recommend-smart-home-tech))
 - Acrisure Announces Three Key Appointments ([1 days ago](https://insurance-edge.net/2025/10/25/acrisure-announces-three-key-appointments/))
 - Bishop Street Underwriters Launches MGA Incubator ([2 days ago](https://www.insurancejournal.com/news/national/2025/10/24/845102.htm))
 - Delaware Workers’ Compensation Rates Dropping Again ([2 days ago](https://www.insurancejournal.com/news/east/2025/10/24/845108.htm))
