@@ -8,8 +8,8 @@ description: SecOps News
 [Get this as an RSS feed](/secops.rss)
 
 <!-- news_marker starts -->
-- [REVIVE-SA-2025-002] Revive Adserver Vulnerability ([16 hours ago](https://seclists.org/fulldisclosure/2025/Oct/21))
-- [REVIVE-SA-2025-001] Revive Adserver Vulnerability ([16 hours ago](https://seclists.org/fulldisclosure/2025/Oct/20))
+- [REVIVE-SA-2025-002] Revive Adserver Vulnerability ([17 hours ago](https://seclists.org/fulldisclosure/2025/Oct/21))
+- [REVIVE-SA-2025-001] Revive Adserver Vulnerability ([17 hours ago](https://seclists.org/fulldisclosure/2025/Oct/20))
 - Weekly Update 475 ([23 hours ago](https://www.troyhunt.com/weekly-update-475/))
 - New CoPhish attack steals OAuth tokens via Copilot Studio agents ([1 days ago](https://www.bleepingcomputer.com/news/security/new-cophish-attack-steals-oauth-tokens-via-copilot-studio-agents/))
 - $1M WhatsApp Hack Flops: Only Low-Risk Bugs Disclosed to Meta After Pwn2Own Withdrawal ([1 days ago](https://www.securityweek.com/1m-whatsapp-hack-flops-only-low-risk-bugs-disclosed-to-meta-after-pwn2own-withdrawal/))
@@ -84,7 +84,7 @@ description: SecOps News
 - IBM is just not into the 'spend megabucks on cloudy GPUs' thing, rents them instead ([3 days ago](https://go.theregister.com/feed/www.theregister.com/2025/10/23/ibm_q3_2025/))
 - Hacking Formula 1: Accessing Max Verstappen’s passport and PII through FIA bugs ([3 days ago](https://databreaches.net/2025/10/22/hacking-formula-1-accessing-max-verstappens-passport-and-pii-through-fia-bugs/?pk_campaign=feed&pk_kwd=hacking-formula-1-accessing-max-verstappens-passport-and-pii-through-fia-bugs))
 - Smashing Security podcast #440: How to hack a prison, and the hidden threat of online checkouts ([3 days ago](https://grahamcluley.com/smashing-security-podcast-440/))
-- Protected health information of 462,000 members of Blue Cross Blue Shield of Montana involved in Conduent data breach ([3 days ago](https://databreaches.net/2025/10/22/protected-health-information-of-462000-members-of-blue-cross-blue-shield-of-montana-involved-in-conduent-data-breach/?pk_campaign=feed&pk_kwd=protected-health-information-of-462000-members-of-blue-cross-blue-shield-of-montana-involved-in-conduent-data-breach))
+- Protected health information of 462,000 members of Blue Cross Blue Shield of Montana involved in Conduent data breach ([4 days ago](https://databreaches.net/2025/10/22/protected-health-information-of-462000-members-of-blue-cross-blue-shield-of-montana-involved-in-conduent-data-breach/?pk_campaign=feed&pk_kwd=protected-health-information-of-462000-members-of-blue-cross-blue-shield-of-montana-involved-in-conduent-data-breach))
 - Reddit to Perplexity: Get your filthy hands off our forums ([4 days ago](https://go.theregister.com/feed/www.theregister.com/2025/10/22/reddit_sues_perplexity/))
 - Canada Fines Cybercrime Friendly Cryptomus $176M ([4 days ago](https://krebsonsecurity.com/2025/10/canada-fines-cybercrime-friendly-cryptomus-176m/))
 - Iran-Linked MuddyWater Targets 100+ Organisations in Global Espionage Campaign ([4 days ago](https://thehackernews.com/2025/10/iran-linked-muddywater-targets-100.html))

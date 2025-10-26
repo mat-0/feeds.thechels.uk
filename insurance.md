@@ -8,7 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- So…you want to launch an insurtech ([58 minutes ago](https://www.dig-in.com/news/keys-to-launching-an-insurtech))
+- So…you want to launch an insurtech ([1 hours ago](https://www.dig-in.com/news/keys-to-launching-an-insurtech))
 - Nationwide: 85% of independent agents recommend smart tech for homeowners ([1 hours ago](https://www.dig-in.com/news/most-independent-agents-recommend-smart-home-tech))
 - Acrisure Announces Three Key Appointments ([1 days ago](https://insurance-edge.net/2025/10/25/acrisure-announces-three-key-appointments/))
 - Bishop Street Underwriters Launches MGA Incubator ([2 days ago](https://www.insurancejournal.com/news/national/2025/10/24/845102.htm))
@@ -115,7 +115,7 @@ description: Insurance Updates
 - Could the Trocadero ruling threaten broker commission arrangements? ([4 days ago](https://www.postonline.co.uk/broker/7958897/could-the-trocadero-ruling-threaten-broker-commission-arrangements))
 - Culture clash: Tackling non-financial misconduct in insurance ([4 days ago](https://www.postonline.co.uk/regulation/7958979/culture-clash-tackling-non-financial-misconduct-in-insurance))
 - Is home insurance fit for the future? ([4 days ago](https://www.postonline.co.uk/personal/7959041/is-home-insurance-fit-for-the-future))
-- Insurance provider Kin starts Florida mortgage business ([4 days ago](https://www.dig-in.com/news/insurance-provider-kin-starts-florida-mortgage-business))
+- Insurance provider Kin starts Florida mortgage business ([5 days ago](https://www.dig-in.com/news/insurance-provider-kin-starts-florida-mortgage-business))
 - Mental health is a workplace safety concern: Pie Insurance ([5 days ago](https://www.dig-in.com/news/mental-health-is-a-workplace-safety-concern-pie-insurance))
 - AI governance demands a new era of board oversight ([5 days ago](https://www.dig-in.com/opinion/ai-governance-demands-a-new-era-of-oversight))
 - Chariot Re Appoints Andrew Preston as Chief Financial Officer ([5 days ago](https://www.insurtechinsights.com/chariot-re-appoints-andrew-preston-as-chief-financial-officer/))
