@@ -98,7 +98,7 @@ description: Insurance Updates
 - FCA CEO warns UK ‘massively under-insuring’ against cyber threats ([3 days ago](https://www.postonline.co.uk/regulation/7959264/fca-ceo-warns-uk-%E2%80%98massively-under-insuring%E2%80%99-against-cyber-threats))
 - Insurers apply AI to evaluate plaintiff lawsuits ([3 days ago](https://www.dig-in.com/news/insurers-apply-ai-to-evaluate-plaintiff-lawsuits))
 - The evolution of AI in workers' compensation ([3 days ago](https://www.dig-in.com/opinion/the-evolution-of-ai-in-workers-compensation))
-- Recruiters under pressure to build AI-ready workforce amid skills gap ([3 days ago](https://www.insurancebusinessmag.com/uk/business-strategy/recruiters-under-pressure-to-build-aiready-workforce-amid-skills-gap-553936.aspx))
+- Recruiters under pressure to build AI-ready workforce amid skills gap ([4 days ago](https://www.insurancebusinessmag.com/uk/business-strategy/recruiters-under-pressure-to-build-aiready-workforce-amid-skills-gap-553936.aspx))
 - Brown & Brown Agrees to Acquire MGA Pardus Underwriting Limited ([4 days ago](https://www.insurtechinsights.com/brown-brown-agrees-to-acquire-mga-pardus-underwriting-limited/))
 - Federato Launches the First Enterprise-Grade Agentic AI for the Insurance Industry ([4 days ago](https://www.insurtechinsights.com/federato-launches-the-first-enterprise-grade-agentic-ai-for-the-insurance-industry/))
 - From payout to prevention: how insurers can change the cancer story ([4 days ago](https://ifamagazine.com/from-payout-to-prevention-how-insurers-can-change-the-cancer-story/))
@@ -132,6 +132,6 @@ description: Insurance Updates
 - National Friendly launches Friendly Health ([12 days ago](https://ifamagazine.com/national-friendly-launches-friendly-health/))
 - Asia Insurance Goes Live with CoverGo Platform to Digitise Health Insurance ([16 days ago](https://thefintechtimes.com/asia-insurance-goes-live-with-covergo-platform-to-digitise-health-insurance/))
 - Igloo Boosts Climate Resilience Across Southeast Asia with Data-Driven Insurance Solutions ([18 days ago](https://thefintechtimes.com/igloo-boosts-climate-resilience-across-southeast-asia-with-data-driven-insurance-solutions/))
-- Concirrus and Applied Win ‘AI Implementation of the Year’ at US Insurance Awards ([23 days ago](https://thefintechtimes.com/concirrus-ai-cuts-aviation-underwriting-time-from-36-hours-to-minutes-for-applied-aviation/))
+- Concirrus and Applied Win ‘AI Implementation of the Year’ at US Insurance Awards ([24 days ago](https://thefintechtimes.com/concirrus-ai-cuts-aviation-underwriting-time-from-36-hours-to-minutes-for-applied-aviation/))
 
 <!-- news_marker ends -->
