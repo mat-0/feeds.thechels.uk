@@ -8,8 +8,8 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- F# Weekly #43, 2025 - Sponsorship on NuGet.org &amp; TinyHM ([7 hours ago](https://dotnetkicks.com/r/733220?url=https://sergeytihon.com/2025/10/25/f-weekly-43-2025-sponsorship-on-nuget-org-tinyhm/))
-- Defensive Programming Rule #1: Anticipate Errors and Eliminate Bugs ([9 hours ago](https://dotnettips.wordpress.com/2025/10/26/defensive-programming-rule-1-anticipate-errors-and-eliminate-bugs/))
+- F# Weekly #43, 2025 - Sponsorship on NuGet.org &amp; TinyHM ([8 hours ago](https://dotnetkicks.com/r/733220?url=https://sergeytihon.com/2025/10/25/f-weekly-43-2025-sponsorship-on-nuget-org-tinyhm/))
+- Defensive Programming Rule #1: Anticipate Errors and Eliminate Bugs ([10 hours ago](https://dotnettips.wordpress.com/2025/10/26/defensive-programming-rule-1-anticipate-errors-and-eliminate-bugs/))
 - Incremental Optimization in Apache Flink ... with AI ([1 days ago](https://dotnetkicks.com/r/733166?url=https://rion.io/2025/10/24/incremental-optimization-in-apache-flink-with-ai/))
 - Announcing Sponsorship on NuGet.org - .NET Blog ([2 days ago](https://dotnetkicks.com/r/733122?url=https://devblogs.microsoft.com/dotnet/announcing-sponsorship-on-nugetdotorg-for-maintainer-appreciation/))
 - Announcing Sponsorship on NuGet.org ([2 days ago](https://devblogs.microsoft.com/dotnet/announcing-sponsorship-on-nugetdotorg-for-maintainer-appreciation/))
@@ -18,8 +18,8 @@ description: DotNet Updates
 - Upgrading to Microsoft Agent Framework in Your .NET AI Chat App - .NET Blog ([2 days ago](https://dotnetkicks.com/r/733085?url=https://devblogs.microsoft.com/dotnet/upgrading-to-microsoft-agent-framework-in-your-dotnet-ai-chat-app/))
 - Upgrading to Microsoft Agent Framework in Your .NET AI Chat App - .NET Blog ([2 days ago](https://dotnetkicks.com/r/733075?url=https://devblogs.microsoft.com/dotnet/upgrading-to-microsoft-agent-framework-in-your-dotnet-ai-chat-app/))
 - Upgrading to Microsoft Agent Framework in Your .NET AI Chat App ([2 days ago](https://devblogs.microsoft.com/dotnet/upgrading-to-microsoft-agent-framework-in-your-dotnet-ai-chat-app/))
-- Introducing Planning in Visual Studio (Public Preview) - Visual Studio Blog ([3 days ago](https://dotnetkicks.com/r/732943?url=https://devblogs.microsoft.com/visualstudio/introducing-planning-in-visual-studio-public-preview/))
-- Authorization: Domain or Application Layer? ([3 days ago](https://dotnetkicks.com/r/732935?url=https://codeopinion.com/authorization-domain-or-application-layer/))
+- Introducing Planning in Visual Studio (Public Preview) - Visual Studio Blog ([4 days ago](https://dotnetkicks.com/r/732943?url=https://devblogs.microsoft.com/visualstudio/introducing-planning-in-visual-studio-public-preview/))
+- Authorization: Domain or Application Layer? ([4 days ago](https://dotnetkicks.com/r/732935?url=https://codeopinion.com/authorization-domain-or-application-layer/))
 - Adding metadata to fallback endpoints in ASP.NET Core ([4 days ago](https://dotnetkicks.com/r/732914?url=https://andrewlock.net/adding-metadata-to-fallback-endpoints-in-aspnetcore/))
 - Adding metadata to fallback endpoints in ASP.NET Core ([4 days ago](https://andrewlock.net/adding-metadata-to-fallback-endpoints-in-aspnetcore/))
 - Modernizing Visual Studio Extension Compatibility: Effortless Migration for Extension Developers and Users - Visual Studio Blog ([5 days ago](https://dotnetkicks.com/r/732859?url=https://devblogs.microsoft.com/visualstudio/modernizing-visual-studio-extension-compatibility-effortless-migration-for-extension-developers-and-users/))
