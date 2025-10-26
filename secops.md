@@ -8,8 +8,8 @@ description: SecOps News
 [Get this as an RSS feed](/secops.rss)
 
 <!-- news_marker starts -->
-- [REVIVE-SA-2025-002] Revive Adserver Vulnerability ([17 hours ago](https://seclists.org/fulldisclosure/2025/Oct/21))
-- [REVIVE-SA-2025-001] Revive Adserver Vulnerability ([17 hours ago](https://seclists.org/fulldisclosure/2025/Oct/20))
+- [REVIVE-SA-2025-002] Revive Adserver Vulnerability ([18 hours ago](https://seclists.org/fulldisclosure/2025/Oct/21))
+- [REVIVE-SA-2025-001] Revive Adserver Vulnerability ([18 hours ago](https://seclists.org/fulldisclosure/2025/Oct/20))
 - Weekly Update 475 ([1 days ago](https://www.troyhunt.com/weekly-update-475/))
 - New CoPhish attack steals OAuth tokens via Copilot Studio agents ([1 days ago](https://www.bleepingcomputer.com/news/security/new-cophish-attack-steals-oauth-tokens-via-copilot-studio-agents/))
 - $1M WhatsApp Hack Flops: Only Low-Risk Bugs Disclosed to Meta After Pwn2Own Withdrawal ([1 days ago](https://www.securityweek.com/1m-whatsapp-hack-flops-only-low-risk-bugs-disclosed-to-meta-after-pwn2own-withdrawal/))
@@ -58,8 +58,8 @@ description: SecOps News
 - Google and Anthropic wave hands about mega TPU deal worth 'tens of billions' ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2025/10/23/google_anthropic_deal/))
 - Don't take AI to Thanksgiving: Bots have hidden biases ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2025/10/23/ai_model_bias_inevitable/))
 - Toys “R” Us Canada warns customers' info leaked in data breach ([2 days ago](https://www.bleepingcomputer.com/news/security/toys-r-us-canada-warns-customers-info-leaked-in-data-breach/))
-- Playtime’s over: Crooks swipe Toys R Us Canada customer data and dump it online ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2025/10/23/toysrus_canada_data_leak/))
-- HP pulls update that broke Microsoft Entra ID auth on some AI PCs ([2 days ago](https://www.bleepingcomputer.com/news/microsoft/hp-pulls-update-that-broke-microsoft-entra-id-auth-on-some-ai-pcs/))
+- Playtime’s over: Crooks swipe Toys R Us Canada customer data and dump it online ([3 days ago](https://go.theregister.com/feed/www.theregister.com/2025/10/23/toysrus_canada_data_leak/))
+- HP pulls update that broke Microsoft Entra ID auth on some AI PCs ([3 days ago](https://www.bleepingcomputer.com/news/microsoft/hp-pulls-update-that-broke-microsoft-entra-id-auth-on-some-ai-pcs/))
 - Incident with Actions - Larger hosted runners ([3 days ago](https://www.githubstatus.com/incidents/8vql81b3xcgq))
 - Excel is three sheets to the window on iOS as update borks everything ([3 days ago](https://go.theregister.com/feed/www.theregister.com/2025/10/23/microsoft_excel_for_ios/))
 - Meet the new Clippy: Microsoft unveils Copilot's "Mico" avatar ([3 days ago](https://www.bleepingcomputer.com/news/microsoft/meet-the-new-clippy-microsoft-unveils-copilots-mico-avatar/))
