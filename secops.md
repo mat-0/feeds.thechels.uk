@@ -8,8 +8,8 @@ description: SecOps News
 [Get this as an RSS feed](/secops.rss)
 
 <!-- news_marker starts -->
-- [REVIVE-SA-2025-002] Revive Adserver Vulnerability ([14 hours ago](https://seclists.org/fulldisclosure/2025/Oct/21))
-- [REVIVE-SA-2025-001] Revive Adserver Vulnerability ([14 hours ago](https://seclists.org/fulldisclosure/2025/Oct/20))
+- [REVIVE-SA-2025-002] Revive Adserver Vulnerability ([15 hours ago](https://seclists.org/fulldisclosure/2025/Oct/21))
+- [REVIVE-SA-2025-001] Revive Adserver Vulnerability ([15 hours ago](https://seclists.org/fulldisclosure/2025/Oct/20))
 - Weekly Update 475 ([21 hours ago](https://www.troyhunt.com/weekly-update-475/))
 - New CoPhish attack steals OAuth tokens via Copilot Studio agents ([1 days ago](https://www.bleepingcomputer.com/news/security/new-cophish-attack-steals-oauth-tokens-via-copilot-studio-agents/))
 - $1M WhatsApp Hack Flops: Only Low-Risk Bugs Disclosed to Meta After Pwn2Own Withdrawal ([1 days ago](https://www.securityweek.com/1m-whatsapp-hack-flops-only-low-risk-bugs-disclosed-to-meta-after-pwn2own-withdrawal/))
@@ -17,7 +17,7 @@ description: SecOps News
 - MPs urge government to stop Britain's phone theft wave through tech ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2025/10/25/uk_committee_phone_theft/))
 - Berkeley boffins build better load balancing algo with AI ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2025/10/25/openevolve_ai_better_algorithms/))
 - Hackers launch mass attacks exploiting outdated WordPress plugins ([1 days ago](https://www.bleepingcomputer.com/news/security/hackers-launch-mass-attacks-exploiting-outdated-wordpress-plugins/))
-- Sneaky Mermaid attack in Microsoft 365 Copilot steals data ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2025/10/24/m365_copilot_mermaid_indirect_prompt_injection/))
+- Sneaky Mermaid attack in Microsoft 365 Copilot steals data ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2025/10/24/m365_copilot_mermaid_indirect_prompt_injection/))
 - Smishing Triad Linked to 194,000 Malicious Domains in Global Phishing Operation ([2 days ago](https://thehackernews.com/2025/10/smishing-triad-linked-to-194000.html))
 - Sora makes slurfect deepfakes of celebs spewing racial epithets ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2025/10/24/sora_celebrities_racist_videos/))
 - Newly Patched Critical Microsoft WSUS Flaw Comes Under Active Exploitation ([2 days ago](https://thehackernews.com/2025/10/microsoft-issues-emergency-patch-for.html))
@@ -164,7 +164,7 @@ description: SecOps News
 - ISO 27001 for Non-IT Roles: A Beginner’s Guide ([11 days ago](https://www.itgovernance.co.uk/blog/iso-27001-for-non-it-roles-a-beginners-guide))
 - Hello Cake - 22,907 breached accounts ([11 days ago](https://haveibeenpwned.com/Breach/HelloCake))
 - Patch Tuesday, October 2025 ‘End of 10’ Edition ([11 days ago](https://krebsonsecurity.com/2025/10/patch-tuesday-october-2025-end-of-10-edition/))
-- Disruption with some GitHub services ([11 days ago](https://www.githubstatus.com/incidents/g8rmr5p85tzv))
+- Disruption with some GitHub services ([12 days ago](https://www.githubstatus.com/incidents/g8rmr5p85tzv))
 - Disruption with GPT-5-mini in Copilot ([12 days ago](https://www.githubstatus.com/incidents/fpbpfb33dw5s))
 - The AI Fix #72: The AI hype train, space data centers, and lifelike robot heads ([12 days ago](https://grahamcluley.com/the-ai-fix-72/))
 - CVE-2025-49844 - The Redis CVSS 10.0 vulnerability and how we responded ([12 days ago](https://scotthelme.ghost.io/cve-2025-49844-the-redis-cvss-10-0-vulnerability-and-how-we-responded/))
