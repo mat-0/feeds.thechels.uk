@@ -8,7 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Acrisure Announces Three Key Appointments ([14 hours ago](https://insurance-edge.net/2025/10/25/acrisure-announces-three-key-appointments/))
+- Acrisure Announces Three Key Appointments ([15 hours ago](https://insurance-edge.net/2025/10/25/acrisure-announces-three-key-appointments/))
 - Bishop Street Underwriters Launches MGA Incubator ([1 days ago](https://www.insurancejournal.com/news/national/2025/10/24/845102.htm))
 - Delaware Workers’ Compensation Rates Dropping Again ([1 days ago](https://www.insurancejournal.com/news/east/2025/10/24/845108.htm))
 - Business Moves: MNK International Acquires Broker in Turkey; Specialist Risk Group Buys Healthcare Consultancy, Specializing in UK Professional Sports ([1 days ago](https://www.insurancejournal.com/news/international/2025/10/24/845106.htm))
@@ -66,7 +66,7 @@ description: Insurance Updates
 - Insurance moves at Howden and Tide Insurance ([1 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/insurance-moves-at-howden-and-tide-insurance-554138.aspx))
 - Aviva urges policy checks as rodent damage claims climb ([1 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/aviva-urges-policy-checks-as-rodent-damage-claims-climb-554137.aspx))
 - Allianz strengthens UK leadership ([1 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/allianz-strengthens-uk-leadership-554135.aspx))
-- Sharp rise in care worker pay drives higher PPO costs for UK insurers ([1 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/sharp-rise-in-care-worker-pay-drives-higher-ppo-costs-for-uk-insurers-554133.aspx))
+- Sharp rise in care worker pay drives higher PPO costs for UK insurers ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/sharp-rise-in-care-worker-pay-drives-higher-ppo-costs-for-uk-insurers-554133.aspx))
 - Old Republic to acquire major farm owners insurer ([2 days ago](https://www.dig-in.com/news/old-republic-to-acquire-everett-cash-mutual))
 - AI redefines underwriting and risk assessment in insurance ([2 days ago](https://www.dig-in.com/opinion/ai-redefines-underwriting-and-risk-assessment-in-insurance))
 - Road rage, speeding common bad driving habits: U.S. News & World Report ([2 days ago](https://www.dig-in.com/news/road-rage-speeding-bad-driving-habits-u-s-news-world-report))
@@ -88,8 +88,8 @@ description: Insurance Updates
 - Insurance careers: Opportunity in the financial literacy debate ([2 days ago](https://www.postonline.co.uk/people/7959118/insurance-careers-opportunity-in-the-financial-literacy-debate))
 - Throwback Thursday: Yesterday’s CEOs share future vision ([2 days ago](https://www.postonline.co.uk/people/7956773/throwback-thursday-yesterday%E2%80%99s-ceos-share-future-vision))
 - IICF CEO Bill Ross to step down ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/iicf-ceo-bill-ross-to-step-down-554008.aspx))
-- Genworth responds to Santander's Court of Appeal win in £680 million PPI dispute ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/genworth-responds-to-santanders-court-of-appeal-win-in-680-million-ppi-dispute-553972.aspx))
-- UK talc lawsuits test insurers on coverage, causation and reputation ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/uk-talc-lawsuits-test-insurers-on-coverage-causation-and-reputation-553971.aspx))
+- Genworth responds to Santander's Court of Appeal win in £680 million PPI dispute ([3 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/genworth-responds-to-santanders-court-of-appeal-win-in-680-million-ppi-dispute-553972.aspx))
+- UK talc lawsuits test insurers on coverage, causation and reputation ([3 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/uk-talc-lawsuits-test-insurers-on-coverage-causation-and-reputation-553971.aspx))
 - Vitality data highlights shift in health insurance towards mental well-being ([3 days ago](https://www.insurancebusinessmag.com/uk/news/life-insurance/vitality-data-highlights-shift-in-health-insurance-towards-mental-wellbeing-553967.aspx))
 - Gallagher announces latest partnership with Premiership Women's Rugby ([3 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/gallagher-announces-latest-partnership-with-premiership-womens-rugby-553966.aspx))
 - Globee Awards for Innovation Recognize Vertafore for Making Insurance Distribution Simpler, Smarter and More Human ([3 days ago](https://www.insurtechinsights.com/globee-awards-for-innovation-recognize-vertafore-for-making-insurance-distribution-simpler-smarter-and-more-human/))

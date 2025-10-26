@@ -8,11 +8,11 @@ description: SecOps News
 [Get this as an RSS feed](/secops.rss)
 
 <!-- news_marker starts -->
-- Weekly Update 475 ([4 hours ago](https://www.troyhunt.com/weekly-update-475/))
-- New CoPhish attack steals OAuth tokens via Copilot Studio agents ([9 hours ago](https://www.bleepingcomputer.com/news/security/new-cophish-attack-steals-oauth-tokens-via-copilot-studio-agents/))
-- $1M WhatsApp Hack Flops: Only Low-Risk Bugs Disclosed to Meta After Pwn2Own Withdrawal ([13 hours ago](https://www.securityweek.com/1m-whatsapp-hack-flops-only-low-risk-bugs-disclosed-to-meta-after-pwn2own-withdrawal/))
-- OpenAI Atlas Omnibox Is Vulnerable to Jailbreaks ([13 hours ago](https://www.securityweek.com/chatgpt-atlas-omnibox-is-vulnerable-to-jailbreaks/))
-- MPs urge government to stop Britain's phone theft wave through tech ([17 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/10/25/uk_committee_phone_theft/))
+- Weekly Update 475 ([5 hours ago](https://www.troyhunt.com/weekly-update-475/))
+- New CoPhish attack steals OAuth tokens via Copilot Studio agents ([10 hours ago](https://www.bleepingcomputer.com/news/security/new-cophish-attack-steals-oauth-tokens-via-copilot-studio-agents/))
+- $1M WhatsApp Hack Flops: Only Low-Risk Bugs Disclosed to Meta After Pwn2Own Withdrawal ([15 hours ago](https://www.securityweek.com/1m-whatsapp-hack-flops-only-low-risk-bugs-disclosed-to-meta-after-pwn2own-withdrawal/))
+- OpenAI Atlas Omnibox Is Vulnerable to Jailbreaks ([15 hours ago](https://www.securityweek.com/chatgpt-atlas-omnibox-is-vulnerable-to-jailbreaks/))
+- MPs urge government to stop Britain's phone theft wave through tech ([18 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/10/25/uk_committee_phone_theft/))
 - Berkeley boffins build better load balancing algo with AI ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2025/10/25/openevolve_ai_better_algorithms/))
 - Hackers launch mass attacks exploiting outdated WordPress plugins ([1 days ago](https://www.bleepingcomputer.com/news/security/hackers-launch-mass-attacks-exploiting-outdated-wordpress-plugins/))
 - Sneaky Mermaid attack in Microsoft 365 Copilot steals data ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2025/10/24/m365_copilot_mermaid_indirect_prompt_injection/))
