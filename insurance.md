@@ -8,7 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Acrisure Announces Three Key Appointments ([13 hours ago](https://insurance-edge.net/2025/10/25/acrisure-announces-three-key-appointments/))
+- Acrisure Announces Three Key Appointments ([14 hours ago](https://insurance-edge.net/2025/10/25/acrisure-announces-three-key-appointments/))
 - Bishop Street Underwriters Launches MGA Incubator ([1 days ago](https://www.insurancejournal.com/news/national/2025/10/24/845102.htm))
 - Delaware Workers’ Compensation Rates Dropping Again ([1 days ago](https://www.insurancejournal.com/news/east/2025/10/24/845108.htm))
 - Business Moves: MNK International Acquires Broker in Turkey; Specialist Risk Group Buys Healthcare Consultancy, Specializing in UK Professional Sports ([1 days ago](https://www.insurancejournal.com/news/international/2025/10/24/845106.htm))
@@ -90,8 +90,8 @@ description: Insurance Updates
 - IICF CEO Bill Ross to step down ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/iicf-ceo-bill-ross-to-step-down-554008.aspx))
 - Genworth responds to Santander's Court of Appeal win in £680 million PPI dispute ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/genworth-responds-to-santanders-court-of-appeal-win-in-680-million-ppi-dispute-553972.aspx))
 - UK talc lawsuits test insurers on coverage, causation and reputation ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/uk-talc-lawsuits-test-insurers-on-coverage-causation-and-reputation-553971.aspx))
-- Vitality data highlights shift in health insurance towards mental well-being ([2 days ago](https://www.insurancebusinessmag.com/uk/news/life-insurance/vitality-data-highlights-shift-in-health-insurance-towards-mental-wellbeing-553967.aspx))
-- Gallagher announces latest partnership with Premiership Women's Rugby ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/gallagher-announces-latest-partnership-with-premiership-womens-rugby-553966.aspx))
+- Vitality data highlights shift in health insurance towards mental well-being ([3 days ago](https://www.insurancebusinessmag.com/uk/news/life-insurance/vitality-data-highlights-shift-in-health-insurance-towards-mental-wellbeing-553967.aspx))
+- Gallagher announces latest partnership with Premiership Women's Rugby ([3 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/gallagher-announces-latest-partnership-with-premiership-womens-rugby-553966.aspx))
 - Globee Awards for Innovation Recognize Vertafore for Making Insurance Distribution Simpler, Smarter and More Human ([3 days ago](https://www.insurtechinsights.com/globee-awards-for-innovation-recognize-vertafore-for-making-insurance-distribution-simpler-smarter-and-more-human/))
 - Honeycomb Partners with Neptune Flood to Extend Its Coverage Portfolio on One Platform ([3 days ago](https://www.insurtechinsights.com/honeycomb-partners-with-neptune-flood-to-extend-its-coverage-portfolio-on-one-platform/))
 - Amica Insurance Kicks Off Multi-Year Partnership With Penn State Athletics ([3 days ago](https://www.insurtechinsights.com/amica-insurance-kicks-off-multi-year-partnership-with-penn-state-athletics/))
