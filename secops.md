@@ -8,6 +8,8 @@ description: SecOps News
 [Get this as an RSS feed](/secops.rss)
 
 <!-- news_marker starts -->
+- [REVIVE-SA-2025-002] Revive Adserver Vulnerability ([20 minutes ago](https://seclists.org/fulldisclosure/2025/Oct/21))
+- [REVIVE-SA-2025-001] Revive Adserver Vulnerability ([21 minutes ago](https://seclists.org/fulldisclosure/2025/Oct/20))
 - Weekly Update 475 ([6 hours ago](https://www.troyhunt.com/weekly-update-475/))
 - New CoPhish attack steals OAuth tokens via Copilot Studio agents ([11 hours ago](https://www.bleepingcomputer.com/news/security/new-cophish-attack-steals-oauth-tokens-via-copilot-studio-agents/))
 - $1M WhatsApp Hack Flops: Only Low-Risk Bugs Disclosed to Meta After Pwn2Own Withdrawal ([16 hours ago](https://www.securityweek.com/1m-whatsapp-hack-flops-only-low-risk-bugs-disclosed-to-meta-after-pwn2own-withdrawal/))
@@ -168,7 +170,6 @@ description: SecOps News
 - CVE-2025-49844 - The Redis CVSS 10.0 vulnerability and how we responded ([11 days ago](https://scotthelme.ghost.io/cve-2025-49844-the-redis-cvss-10-0-vulnerability-and-how-we-responded/))
 - Security Advisory: Multiple High-Severity Vulnerabilities in Suno.com (JWT Leakage, IDOR, DoS) ([12 days ago](https://seclists.org/fulldisclosure/2025/Oct/8))
 - [SBA-ADV-20250730-01] CVE-2025-39664: Checkmk Path Traversal ([12 days ago](https://seclists.org/fulldisclosure/2025/Oct/7))
-- [SBA-ADV-20250724-01] CVE-2025-32919: Checkmk Agent Privilege Escalation via Insecure Temporary Files ([12 days ago](https://seclists.org/fulldisclosure/2025/Oct/6))
 - Maintaining a sustainable strengthened cyber security posture ([12 days ago](https://www.ncsc.gov.uk/guidance/maintaining-a-sustainable-strengthened-cyber-security-posture))
 - Phishing attacks: defending your organisation ([12 days ago](https://www.ncsc.gov.uk/guidance/phishing))
 - Weekly Update 473 ([14 days ago](https://www.troyhunt.com/weekly-update-473/))
@@ -178,7 +179,6 @@ description: SecOps News
 - CRISC Salary & Career in the UK: What to Expect in 2025 ([15 days ago](https://www.itgovernance.co.uk/blog/crisc-salary-career-in-the-uk-what-to-expect-in-2025))
 - Incident with Webhooks ([16 days ago](https://www.githubstatus.com/incidents/k7bhmjkblcwp))
 - Multiple GitHub API endpoints are experiencing errors ([16 days ago](https://www.githubstatus.com/incidents/kk58nfytx0c7))
-- CVE-2025-59397 - Open Web Analytics SQL Injection ([16 days ago](https://seclists.org/fulldisclosure/2025/Oct/5))
 - Court Injunctions are the Thoughts and Prayers of Data Breach Response ([17 days ago](https://www.troyhunt.com/court-injunctions-are-the-thoughts-and-prayers-of-data-breach-response/))
 - Smashing Security podcast #438: When your mouse turns snitch, and hackers grow a conscience ([17 days ago](https://grahamcluley.com/smashing-security-podcast-438/))
 - Salesforce data breach: what you need to know ([17 days ago](https://www.fortra.com/blog/salesforce-data-breach-what-need-know))
@@ -191,7 +191,7 @@ description: SecOps News
 - Artists&Clients - 95,351 breached accounts ([22 days ago](https://haveibeenpwned.com/Breach/ArtistsNClients))
 - Japan running dry: Ransomware attack leaves nation days away from Asahi beer shortage ([22 days ago](https://www.bitdefender.com/en-us/blog/hotforsecurity/japan-running-dry-ransomware-attack-leaves-nation-days-away-from-asahi-beer-shortage))
 - HomeRefill - 187,457 breached accounts ([22 days ago](https://haveibeenpwned.com/Breach/HomeRefill))
-- Incident with Copilot ([22 days ago](https://www.githubstatus.com/incidents/34wtrn4nngwk))
+- Incident with Copilot ([23 days ago](https://www.githubstatus.com/incidents/34wtrn4nngwk))
 - Latest Pilot Jobs - 118,864 breached accounts ([23 days ago](https://haveibeenpwned.com/Breach/LatestPilotJobs))
 - Degraded Gemini 2.5 Pro experience in Copilot ([23 days ago](https://www.githubstatus.com/incidents/l94jr9wnhs4r))
 - Smashing Security podcast #437: Salesforce’s trusted domain of doom ([24 days ago](https://grahamcluley.com/smashing-security-podcast-437/))
