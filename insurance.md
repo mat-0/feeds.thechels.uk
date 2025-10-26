@@ -8,7 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Acrisure Announces Three Key Appointments ([15 hours ago](https://insurance-edge.net/2025/10/25/acrisure-announces-three-key-appointments/))
+- Acrisure Announces Three Key Appointments ([16 hours ago](https://insurance-edge.net/2025/10/25/acrisure-announces-three-key-appointments/))
 - Bishop Street Underwriters Launches MGA Incubator ([1 days ago](https://www.insurancejournal.com/news/national/2025/10/24/845102.htm))
 - Delaware Workers’ Compensation Rates Dropping Again ([1 days ago](https://www.insurancejournal.com/news/east/2025/10/24/845108.htm))
 - Business Moves: MNK International Acquires Broker in Turkey; Specialist Risk Group Buys Healthcare Consultancy, Specializing in UK Professional Sports ([1 days ago](https://www.insurancejournal.com/news/international/2025/10/24/845106.htm))
@@ -64,8 +64,8 @@ description: Insurance Updates
 - Could Applied be lining up a bid to buy a UK software house? ([1 days ago](https://www.postonline.co.uk/technology/7959222/could-applied-be-lining-up-a-bid-to-buy-a-uk-software-house))
 - Penny Black’s Social Diary: Clyde & Co’s biscuits; Canopius’ sauce ([1 days ago](https://www.postonline.co.uk/people/7959068/penny-black%E2%80%99s-social-diary-clyde-co%E2%80%99s-biscuits-canopius%E2%80%99-sauce))
 - Insurance moves at Howden and Tide Insurance ([1 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/insurance-moves-at-howden-and-tide-insurance-554138.aspx))
-- Aviva urges policy checks as rodent damage claims climb ([1 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/aviva-urges-policy-checks-as-rodent-damage-claims-climb-554137.aspx))
-- Allianz strengthens UK leadership ([1 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/allianz-strengthens-uk-leadership-554135.aspx))
+- Aviva urges policy checks as rodent damage claims climb ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/aviva-urges-policy-checks-as-rodent-damage-claims-climb-554137.aspx))
+- Allianz strengthens UK leadership ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/allianz-strengthens-uk-leadership-554135.aspx))
 - Sharp rise in care worker pay drives higher PPO costs for UK insurers ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/sharp-rise-in-care-worker-pay-drives-higher-ppo-costs-for-uk-insurers-554133.aspx))
 - Old Republic to acquire major farm owners insurer ([2 days ago](https://www.dig-in.com/news/old-republic-to-acquire-everett-cash-mutual))
 - AI redefines underwriting and risk assessment in insurance ([2 days ago](https://www.dig-in.com/opinion/ai-redefines-underwriting-and-risk-assessment-in-insurance))
