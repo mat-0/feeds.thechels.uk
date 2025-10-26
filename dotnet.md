@@ -8,8 +8,8 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- F# Weekly #43, 2025 - Sponsorship on NuGet.org &amp; TinyHM ([3 hours ago](https://dotnetkicks.com/r/733220?url=https://sergeytihon.com/2025/10/25/f-weekly-43-2025-sponsorship-on-nuget-org-tinyhm/))
-- Defensive Programming Rule #1: Anticipate Errors and Eliminate Bugs ([5 hours ago](https://dotnettips.wordpress.com/2025/10/26/defensive-programming-rule-1-anticipate-errors-and-eliminate-bugs/))
+- F# Weekly #43, 2025 - Sponsorship on NuGet.org &amp; TinyHM ([4 hours ago](https://dotnetkicks.com/r/733220?url=https://sergeytihon.com/2025/10/25/f-weekly-43-2025-sponsorship-on-nuget-org-tinyhm/))
+- Defensive Programming Rule #1: Anticipate Errors and Eliminate Bugs ([6 hours ago](https://dotnettips.wordpress.com/2025/10/26/defensive-programming-rule-1-anticipate-errors-and-eliminate-bugs/))
 - Incremental Optimization in Apache Flink ... with AI ([1 days ago](https://dotnetkicks.com/r/733166?url=https://rion.io/2025/10/24/incremental-optimization-in-apache-flink-with-ai/))
 - Announcing Sponsorship on NuGet.org - .NET Blog ([2 days ago](https://dotnetkicks.com/r/733122?url=https://devblogs.microsoft.com/dotnet/announcing-sponsorship-on-nugetdotorg-for-maintainer-appreciation/))
 - Announcing Sponsorship on NuGet.org ([2 days ago](https://devblogs.microsoft.com/dotnet/announcing-sponsorship-on-nugetdotorg-for-maintainer-appreciation/))
@@ -20,7 +20,7 @@ description: DotNet Updates
 - Upgrading to Microsoft Agent Framework in Your .NET AI Chat App ([2 days ago](https://devblogs.microsoft.com/dotnet/upgrading-to-microsoft-agent-framework-in-your-dotnet-ai-chat-app/))
 - Introducing Planning in Visual Studio (Public Preview) - Visual Studio Blog ([3 days ago](https://dotnetkicks.com/r/732943?url=https://devblogs.microsoft.com/visualstudio/introducing-planning-in-visual-studio-public-preview/))
 - Authorization: Domain or Application Layer? ([3 days ago](https://dotnetkicks.com/r/732935?url=https://codeopinion.com/authorization-domain-or-application-layer/))
-- Adding metadata to fallback endpoints in ASP.NET Core ([3 days ago](https://dotnetkicks.com/r/732914?url=https://andrewlock.net/adding-metadata-to-fallback-endpoints-in-aspnetcore/))
+- Adding metadata to fallback endpoints in ASP.NET Core ([4 days ago](https://dotnetkicks.com/r/732914?url=https://andrewlock.net/adding-metadata-to-fallback-endpoints-in-aspnetcore/))
 - Adding metadata to fallback endpoints in ASP.NET Core ([4 days ago](https://andrewlock.net/adding-metadata-to-fallback-endpoints-in-aspnetcore/))
 - Modernizing Visual Studio Extension Compatibility: Effortless Migration for Extension Developers and Users - Visual Studio Blog ([4 days ago](https://dotnetkicks.com/r/732859?url=https://devblogs.microsoft.com/visualstudio/modernizing-visual-studio-extension-compatibility-effortless-migration-for-extension-developers-and-users/))
 - Innovation spotlight: How 3 customers are driving change with migration to Azure SQL - Microsoft SQL Server Blog ([5 days ago](https://dotnetkicks.com/r/732814?url=https://www.microsoft.com/en-us/sql-server/blog/2025/10/20/innovation-spotlight-how-3-customers-are-driving-change-with-migration-to-azure-sql/))
@@ -57,7 +57,7 @@ description: DotNet Updates
 - Boost Your .NET Projects: Secure Passwords with PBKDF2PasswordHasher in Spargine ([21 days ago](https://dotnettips.wordpress.com/2025/10/05/boost-your-net-projects-secure-passwords-with-pbkdf2passwordhasher-in-spargine/))
 - ReSharper and Visual Studio 2026: Day-One Compatibility, Migration Steps, and Performance Gains ([23 days ago](https://blog.jetbrains.com/dotnet/2025/10/02/resharper-and-visual-studio-2026/))
 - Introducing Microsoft Agent Framework (Preview): Making AI Agents Simple for Every Developer ([24 days ago](https://devblogs.microsoft.com/dotnet/introducing-microsoft-agent-framework-preview/))
-- Rock Your Code: Coding Standards for Microsoft .NET (20th Anniversary Edition) ([24 days ago](https://dotnettips.wordpress.com/2025/10/01/rock-your-code-coding-standards-for-microsoft-net-20th-anniversary-edition/))
+- Rock Your Code: Coding Standards for Microsoft .NET (20th Anniversary Edition) ([25 days ago](https://dotnettips.wordpress.com/2025/10/01/rock-your-code-coding-standards-for-microsoft-net-20th-anniversary-edition/))
 - Optimizing Array Performance in .NET: Getting the Most from ArrayPool ([25 days ago](https://dotnettips.wordpress.com/2025/10/01/optimizing-array-performance-in-net-getting-the-most-from-arraypool/))
 - Publishing NuGet packages from GitHub actions the easy way with Trusted Publishing ([26 days ago](https://andrewlock.net/easily-publishing-nuget-packages-from-github-actions-with-trusted-publishing/))
 - Boost Your .NET Projects: Simplify Unique Key Generation with KeyGenerator in Spargine ([28 days ago](https://dotnettips.wordpress.com/2025/09/28/boost-your-net-projects-simplify-unique-key-generation-with-keygenerator-in-spargine/))
