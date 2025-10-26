@@ -8,7 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Acrisure Announces Three Key Appointments ([17 hours ago](https://insurance-edge.net/2025/10/25/acrisure-announces-three-key-appointments/))
+- Acrisure Announces Three Key Appointments ([18 hours ago](https://insurance-edge.net/2025/10/25/acrisure-announces-three-key-appointments/))
 - Bishop Street Underwriters Launches MGA Incubator ([1 days ago](https://www.insurancejournal.com/news/national/2025/10/24/845102.htm))
 - Delaware Workers’ Compensation Rates Dropping Again ([1 days ago](https://www.insurancejournal.com/news/east/2025/10/24/845108.htm))
 - Business Moves: MNK International Acquires Broker in Turkey; Specialist Risk Group Buys Healthcare Consultancy, Specializing in UK Professional Sports ([1 days ago](https://www.insurancejournal.com/news/international/2025/10/24/845106.htm))
@@ -56,8 +56,8 @@ description: Insurance Updates
 - UK financial complaints rise in first half: FCA ([1 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/uk-financial-complaints-rise-in-first-half-fca-554177.aspx))
 - People Moves: CRC Group Names New Team Members in Specialty Division; Howden US Appoints Hanback EVP ([1 days ago](https://www.insurancejournal.com/news/national/2025/10/24/844942.htm))
 - Growth Momentum Continues for Program Business: TMPAA ([1 days ago](https://www.insurancejournal.com/news/national/2025/10/24/844982.htm))
-- Waymo to Manually Test Autonomous Vehicles at Newark Airport ([1 days ago](https://www.insurancejournal.com/news/east/2025/10/24/845006.htm))
-- Trucking App Trucker Path Launches Retail Insurance Agency ([1 days ago](https://www.insurancejournal.com/news/national/2025/10/24/844976.htm))
+- Waymo to Manually Test Autonomous Vehicles at Newark Airport ([2 days ago](https://www.insurancejournal.com/news/east/2025/10/24/845006.htm))
+- Trucking App Trucker Path Launches Retail Insurance Agency ([2 days ago](https://www.insurancejournal.com/news/national/2025/10/24/844976.htm))
 - Conservative Activist Sues Google Over AI-Generated Statements ([2 days ago](https://www.insurancejournal.com/news/national/2025/10/24/844973.htm))
 - University of Virginia Strikes Deal to Avoid Trump Investigations, Protect Funding ([2 days ago](https://www.insurancejournal.com/news/east/2025/10/24/845002.htm))
 - Illinois Department of Insurance Asks Insurers for Policyholder Relief During Shutdown ([2 days ago](https://www.insurancejournal.com/news/midwest/2025/10/24/844997.htm))
@@ -126,7 +126,7 @@ description: Insurance Updates
 - National Friendly launches new study – three in four consumers expect advisers to discuss accident cover ([5 days ago](https://ifamagazine.com/national-friendly-launches-new-study-three-in-four-consumers-expect-advisers-to-discuss-accident-cover/))
 - Reframe Cancer strengthens senior team with appointment of Denise Wond as marketing director ([9 days ago](https://ifamagazine.com/reframe-cancer-strengthens-senior-team-with-appointment-of-denise-wond-as-marketing-director/))
 - LifeSearch and All in Place partnership puts protection at heart of SME financial planning ([9 days ago](https://ifamagazine.com/lifesearch-and-all-in-place-partnership-puts-protection-at-heart-of-sme-financial-planning/))
-- Behind the Idea: Policybazaar ([9 days ago](https://thefintechtimes.com/behind-the-idea-policybazaar/))
+- Behind the Idea: Policybazaar ([10 days ago](https://thefintechtimes.com/behind-the-idea-policybazaar/))
 - Vitality’s medicated weight management pathway: early success and its impact on health insurance ([10 days ago](https://ifamagazine.com/vitalitys-medicated-weight-management-pathway-early-success-and-its-impact-on-health-insurance/))
 - Divorcing couples risk being left high and dry if future maintenance isn’t insured against job loss, death or default ([11 days ago](https://ifamagazine.com/divorcing-couples-risk-being-left-high-and-dry-if-future-maintenance-isnt-insured-against-job-loss-death-or-default/))
 - National Friendly launches Friendly Health ([11 days ago](https://ifamagazine.com/national-friendly-launches-friendly-health/))
