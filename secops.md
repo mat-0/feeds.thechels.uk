@@ -8,8 +8,8 @@ description: SecOps News
 [Get this as an RSS feed](/secops.rss)
 
 <!-- news_marker starts -->
-- [REVIVE-SA-2025-002] Revive Adserver Vulnerability ([1 hours ago](https://seclists.org/fulldisclosure/2025/Oct/21))
-- [REVIVE-SA-2025-001] Revive Adserver Vulnerability ([1 hours ago](https://seclists.org/fulldisclosure/2025/Oct/20))
+- [REVIVE-SA-2025-002] Revive Adserver Vulnerability ([2 hours ago](https://seclists.org/fulldisclosure/2025/Oct/21))
+- [REVIVE-SA-2025-001] Revive Adserver Vulnerability ([2 hours ago](https://seclists.org/fulldisclosure/2025/Oct/20))
 - Weekly Update 475 ([8 hours ago](https://www.troyhunt.com/weekly-update-475/))
 - New CoPhish attack steals OAuth tokens via Copilot Studio agents ([13 hours ago](https://www.bleepingcomputer.com/news/security/new-cophish-attack-steals-oauth-tokens-via-copilot-studio-agents/))
 - $1M WhatsApp Hack Flops: Only Low-Risk Bugs Disclosed to Meta After Pwn2Own Withdrawal ([18 hours ago](https://www.securityweek.com/1m-whatsapp-hack-flops-only-low-risk-bugs-disclosed-to-meta-after-pwn2own-withdrawal/))
@@ -50,7 +50,7 @@ description: SecOps News
 - Britain's Ministry of Justice just signed up to ChatGPT Enterprise ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2025/10/24/ministry_of_justice_chatgpt/))
 - Self-Spreading 'GlassWorm' Infects VS Code Extensions in Widespread Supply Chain Attack ([1 days ago](https://thehackernews.com/2025/10/self-spreading-glassworm-infects-vs.html))
 - Hackers earn $1,024,750 for 73 zero-days at Pwn2Own Ireland ([1 days ago](https://www.bleepingcomputer.com/news/security/hackers-earn-1-024-750-for-73-zero-days-at-pwn2own-ireland/))
-- Iran's MuddyWater wades into 100+ government networks in latest spying spree ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2025/10/24/iran_muddywater_campaign/))
+- Iran's MuddyWater wades into 100+ government networks in latest spying spree ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2025/10/24/iran_muddywater_campaign/))
 - Supermicro warns it will miss revenue forecast by a lazy billion bucks or more ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2025/10/24/supermicro_revenue_warning/))
 - Intel says server CPUs will be hot again – in a good way, to power AI workloads – any year now ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2025/10/24/intel_q3_2025/))
 - Cyber exec with lavish lifestyle charged with selling secrets to Russia ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2025/10/24/former_l3harris_cyber_director_charged/))
@@ -79,7 +79,7 @@ description: SecOps News
 - OpenBSD 7.8 out now, and you're not seeing double, 9front releases 'Release' ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2025/10/23/openbsd_78_and_9front_release/))
 - 'Jingle Thief' Hackers Exploit Cloud Infrastructure to Steal Millions in Gift Cards ([2 days ago](https://thehackernews.com/2025/10/jingle-thief-hackers-exploit-cloud.html))
 - UK.gov vows to hack through regulation to get benefit from AI ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2025/10/23/uk_ai_regulations/))
-- Over 250 Magento Stores Hit Overnight as Hackers Exploit New Adobe Commerce Flaw ([2 days ago](https://thehackernews.com/2025/10/over-250-magento-stores-hit-overnight.html))
+- Over 250 Magento Stores Hit Overnight as Hackers Exploit New Adobe Commerce Flaw ([3 days ago](https://thehackernews.com/2025/10/over-250-magento-stores-hit-overnight.html))
 - Critical Lanscope Endpoint Manager Bug Exploited in Ongoing Cyberattacks, CISA Confirms ([3 days ago](https://thehackernews.com/2025/10/critical-lanscope-endpoint-manager-bug.html))
 - IBM is just not into the 'spend megabucks on cloudy GPUs' thing, rents them instead ([3 days ago](https://go.theregister.com/feed/www.theregister.com/2025/10/23/ibm_q3_2025/))
 - Hacking Formula 1: Accessing Max Verstappen’s passport and PII through FIA bugs ([3 days ago](https://databreaches.net/2025/10/22/hacking-formula-1-accessing-max-verstappens-passport-and-pii-through-fia-bugs/?pk_campaign=feed&pk_kwd=hacking-formula-1-accessing-max-verstappens-passport-and-pii-through-fia-bugs))
