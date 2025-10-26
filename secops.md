@@ -8,8 +8,8 @@ description: SecOps News
 [Get this as an RSS feed](/secops.rss)
 
 <!-- news_marker starts -->
-- [REVIVE-SA-2025-002] Revive Adserver Vulnerability ([2 hours ago](https://seclists.org/fulldisclosure/2025/Oct/21))
-- [REVIVE-SA-2025-001] Revive Adserver Vulnerability ([2 hours ago](https://seclists.org/fulldisclosure/2025/Oct/20))
+- [REVIVE-SA-2025-002] Revive Adserver Vulnerability ([3 hours ago](https://seclists.org/fulldisclosure/2025/Oct/21))
+- [REVIVE-SA-2025-001] Revive Adserver Vulnerability ([3 hours ago](https://seclists.org/fulldisclosure/2025/Oct/20))
 - Weekly Update 475 ([9 hours ago](https://www.troyhunt.com/weekly-update-475/))
 - New CoPhish attack steals OAuth tokens via Copilot Studio agents ([14 hours ago](https://www.bleepingcomputer.com/news/security/new-cophish-attack-steals-oauth-tokens-via-copilot-studio-agents/))
 - $1M WhatsApp Hack Flops: Only Low-Risk Bugs Disclosed to Meta After Pwn2Own Withdrawal ([19 hours ago](https://www.securityweek.com/1m-whatsapp-hack-flops-only-low-risk-bugs-disclosed-to-meta-after-pwn2own-withdrawal/))
@@ -48,7 +48,7 @@ description: SecOps News
 - Pwn2Own WhatsApp Hacker Says Exploit Privately Disclosed to Meta ([1 days ago](https://www.securityweek.com/pwn2own-whatsapp-hacker-says-exploit-privately-reported-to-meta/))
 - Windows Server emergency patches fix WSUS bug with PoC exploit ([1 days ago](https://www.bleepingcomputer.com/news/security/microsoft-releases-windows-server-emergency-updates-for-critical-wsus-rce-flaw/))
 - Britain's Ministry of Justice just signed up to ChatGPT Enterprise ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2025/10/24/ministry_of_justice_chatgpt/))
-- Self-Spreading 'GlassWorm' Infects VS Code Extensions in Widespread Supply Chain Attack ([1 days ago](https://thehackernews.com/2025/10/self-spreading-glassworm-infects-vs.html))
+- Self-Spreading 'GlassWorm' Infects VS Code Extensions in Widespread Supply Chain Attack ([2 days ago](https://thehackernews.com/2025/10/self-spreading-glassworm-infects-vs.html))
 - Hackers earn $1,024,750 for 73 zero-days at Pwn2Own Ireland ([2 days ago](https://www.bleepingcomputer.com/news/security/hackers-earn-1-024-750-for-73-zero-days-at-pwn2own-ireland/))
 - Iran's MuddyWater wades into 100+ government networks in latest spying spree ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2025/10/24/iran_muddywater_campaign/))
 - Supermicro warns it will miss revenue forecast by a lazy billion bucks or more ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2025/10/24/supermicro_revenue_warning/))
@@ -108,7 +108,7 @@ description: SecOps News
 - Why You Should Swap Passwords for Passphrases ([3 days ago](https://thehackernews.com/2025/10/why-you-should-swap-passwords-for.html))
 - Researchers Identify PassiveNeuron APT Using Neursite and NeuralExecutor Malware ([3 days ago](https://thehackernews.com/2025/10/researchers-identify-passiveneuron-apt.html))
 - UK data regulator defends decision not to investigate MoD Afghan data breach ([3 days ago](https://go.theregister.com/feed/www.theregister.com/2025/10/22/ico_afghan_leak_probe/))
-- TARmageddon Flaw in Async-Tar Rust Library Could Enable Remote Code Execution ([3 days ago](https://thehackernews.com/2025/10/tarmageddon-flaw-in-async-tar-rust.html))
+- TARmageddon Flaw in Async-Tar Rust Library Could Enable Remote Code Execution ([4 days ago](https://thehackernews.com/2025/10/tarmageddon-flaw-in-async-tar-rust.html))
 - TP-Link Patches Four Omada Gateway Flaws, Two Allow Remote Code Execution ([4 days ago](https://thehackernews.com/2025/10/tp-link-patches-four-omada-gateway.html))
 - Inside the Synthient Threat Data ([4 days ago](https://www.troyhunt.com/inside-the-synthient-threat-data/))
 - Synthient Stealer Log Threat Data - 182,962,095 breached accounts ([4 days ago](https://haveibeenpwned.com/Breach/SynthientStealerLogThreatData))
@@ -205,8 +205,8 @@ description: SecOps News
 - Disruption with Gemini 2.5 Pro and Gemini 2.0 Flash in Copilot ([26 days ago](https://www.githubstatus.com/incidents/0s5rb1l03m76))
 - Disruption with some GitHub services ([26 days ago](https://www.githubstatus.com/incidents/t291vx7m731z))
 - Capture JavaScript Integrity Metadata using CSP! ([26 days ago](https://scotthelme.ghost.io/capture-javascript-integrity-metadata-using-csp/))
-- Welcoming CERN to Have I Been Pwned ([26 days ago](https://www.troyhunt.com/welcoming-cern-to-have-i-been-pwned/))
-- Weekly Update 471 ([28 days ago](https://www.troyhunt.com/weekly-update-471/))
+- Welcoming CERN to Have I Been Pwned ([27 days ago](https://www.troyhunt.com/welcoming-cern-to-have-i-been-pwned/))
+- Weekly Update 471 ([29 days ago](https://www.troyhunt.com/weekly-update-471/))
 - Early Years practitioners: using cyber security to protect your settings ([29 days ago](https://www.ncsc.gov.uk/guidance/early-years-practitioners-using-cyber-security-to-protect-your-settings))
 
 <!-- news_marker ends -->

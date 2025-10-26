@@ -54,7 +54,7 @@ description: Insurance Updates
 - The Great Office Reckoning: How AI could reshape the future of work in insurance ([1 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/the-great-office-reckoning-how-ai-could-reshape-the-future-of-work-in-insurance-554182.aspx))
 - FERMA on the expanding role of risk managers in complex world ([1 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/ferma-on-the-expanding-role-of-risk-managers-in-complex-world-554179.aspx))
 - UK financial complaints rise in first half: FCA ([1 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/uk-financial-complaints-rise-in-first-half-fca-554177.aspx))
-- People Moves: CRC Group Names New Team Members in Specialty Division; Howden US Appoints Hanback EVP ([1 days ago](https://www.insurancejournal.com/news/national/2025/10/24/844942.htm))
+- People Moves: CRC Group Names New Team Members in Specialty Division; Howden US Appoints Hanback EVP ([2 days ago](https://www.insurancejournal.com/news/national/2025/10/24/844942.htm))
 - Growth Momentum Continues for Program Business: TMPAA ([2 days ago](https://www.insurancejournal.com/news/national/2025/10/24/844982.htm))
 - Waymo to Manually Test Autonomous Vehicles at Newark Airport ([2 days ago](https://www.insurancejournal.com/news/east/2025/10/24/845006.htm))
 - Trucking App Trucker Path Launches Retail Insurance Agency ([2 days ago](https://www.insurancejournal.com/news/national/2025/10/24/844976.htm))
