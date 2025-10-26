@@ -8,7 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Acrisure Announces Three Key Appointments ([18 hours ago](https://insurance-edge.net/2025/10/25/acrisure-announces-three-key-appointments/))
+- Acrisure Announces Three Key Appointments ([19 hours ago](https://insurance-edge.net/2025/10/25/acrisure-announces-three-key-appointments/))
 - Bishop Street Underwriters Launches MGA Incubator ([1 days ago](https://www.insurancejournal.com/news/national/2025/10/24/845102.htm))
 - Delaware Workers’ Compensation Rates Dropping Again ([1 days ago](https://www.insurancejournal.com/news/east/2025/10/24/845108.htm))
 - Business Moves: MNK International Acquires Broker in Turkey; Specialist Risk Group Buys Healthcare Consultancy, Specializing in UK Professional Sports ([1 days ago](https://www.insurancejournal.com/news/international/2025/10/24/845106.htm))
@@ -83,7 +83,7 @@ description: Insurance Updates
 - Burglaries in the UK peak in October – insurer research ([2 days ago](https://www.insurancebusinessmag.com/uk/news/property-insurance/burglaries-in-the-uk-peak-in-october--insurer-research-554019.aspx))
 - Lockerbie Memorial restoration saved as BLW and Aviva step in ([2 days ago](https://www.postonline.co.uk/broker/7959263/lockerbie-memorial-restoration-saved-as-blw-and-aviva-step-in))
 - McLarens urges ‘broader look’ at subsidence solution sustainability ([2 days ago](https://www.postonline.co.uk/claims/7959239/mclarens-urges-%E2%80%98broader-look%E2%80%99-at-subsidence-solution-sustainability))
-- RSA wins some, loses some in major reinsurance case against Equitas ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/rsa-wins-some-loses-some-in-major-reinsurance-case-against-equitas-553999.aspx))
+- RSA wins some, loses some in major reinsurance case against Equitas ([3 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/rsa-wins-some-loses-some-in-major-reinsurance-case-against-equitas-553999.aspx))
 - Q&A: Haris Khan, Novee ([3 days ago](https://www.postonline.co.uk/technology/7958878/qa-haris-khan-novee))
 - Insurance careers: Opportunity in the financial literacy debate ([3 days ago](https://www.postonline.co.uk/people/7959118/insurance-careers-opportunity-in-the-financial-literacy-debate))
 - Throwback Thursday: Yesterday’s CEOs share future vision ([3 days ago](https://www.postonline.co.uk/people/7956773/throwback-thursday-yesterday%E2%80%99s-ceos-share-future-vision))
