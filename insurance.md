@@ -8,10 +8,11 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Philippe Cotelle takes over as FERMA president ([35 minutes ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/philippe-cotelle-takes-over-as-ferma-president-554332.aspx))
+- Moody's backs improved outlook for German insurers amid profit recovery ([32 minutes ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/moodys-backs-improved-outlook-for-german-insurers-amid-profit-recovery-554334.aspx))
+- Philippe Cotelle takes over as FERMA president ([1 hours ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/philippe-cotelle-takes-over-as-ferma-president-554332.aspx))
 - Funeral insurance cancellations leave Glasgow pensioners without cover ([1 hours ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/funeral-insurance-cancellations-leave-glasgow-pensioners-without-cover-554331.aspx))
-- Moped 'crash for cash' scams spark warning for insurers and motorists ([1 hours ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/moped-crash-for-cash-scams-spark-warning-for-insurers-and-motorists-554330.aspx))
-- So…you want to launch an insurtech ([7 hours ago](https://www.dig-in.com/news/keys-to-launching-an-insurtech))
+- Moped 'crash for cash' scams spark warning for insurers and motorists ([2 hours ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/moped-crash-for-cash-scams-spark-warning-for-insurers-and-motorists-554330.aspx))
+- So…you want to launch an insurtech ([8 hours ago](https://www.dig-in.com/news/keys-to-launching-an-insurtech))
 - Nationwide: 85% of independent agents recommend smart tech for homeowners ([8 hours ago](https://www.dig-in.com/news/most-independent-agents-recommend-smart-home-tech))
 - Acrisure Announces Three Key Appointments ([1 days ago](https://insurance-edge.net/2025/10/25/acrisure-announces-three-key-appointments/))
 - Bishop Street Underwriters Launches MGA Incubator ([2 days ago](https://www.insurancejournal.com/news/national/2025/10/24/845102.htm))
@@ -96,7 +97,6 @@ description: Insurance Updates
 - Genworth responds to Santander's Court of Appeal win in £680 million PPI dispute ([4 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/genworth-responds-to-santanders-court-of-appeal-win-in-680-million-ppi-dispute-553972.aspx))
 - UK talc lawsuits test insurers on coverage, causation and reputation ([4 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/uk-talc-lawsuits-test-insurers-on-coverage-causation-and-reputation-553971.aspx))
 - Vitality data highlights shift in health insurance towards mental well-being ([4 days ago](https://www.insurancebusinessmag.com/uk/news/life-insurance/vitality-data-highlights-shift-in-health-insurance-towards-mental-wellbeing-553967.aspx))
-- Gallagher announces latest partnership with Premiership Women's Rugby ([4 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/gallagher-announces-latest-partnership-with-premiership-womens-rugby-553966.aspx))
 - Globee Awards for Innovation Recognize Vertafore for Making Insurance Distribution Simpler, Smarter and More Human ([4 days ago](https://www.insurtechinsights.com/globee-awards-for-innovation-recognize-vertafore-for-making-insurance-distribution-simpler-smarter-and-more-human/))
 - Honeycomb Partners with Neptune Flood to Extend Its Coverage Portfolio on One Platform ([4 days ago](https://www.insurtechinsights.com/honeycomb-partners-with-neptune-flood-to-extend-its-coverage-portfolio-on-one-platform/))
 - Amica Insurance Kicks Off Multi-Year Partnership With Penn State Athletics ([4 days ago](https://www.insurtechinsights.com/amica-insurance-kicks-off-multi-year-partnership-with-penn-state-athletics/))
