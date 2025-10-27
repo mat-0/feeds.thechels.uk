@@ -8,9 +8,9 @@ description: SecOps News
 [Get this as an RSS feed](/secops.rss)
 
 <!-- news_marker starts -->
-- UN Cybercrime Treaty wins dozens of signatories, to go with its many critics ([22 minutes ago](https://go.theregister.com/feed/www.theregister.com/2025/10/27/un_cybercrime_convention_signed/))
-- MyVidster (2025) - 3,864,364 breached accounts ([1 hours ago](https://haveibeenpwned.com/Breach/MyVidster2025))
-- Australia sues Microsoft for misleading Microsoft 365 users about Copilot subscription options ([4 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/10/27/asia_tech_news_roundup/))
+- UN Cybercrime Treaty wins dozens of signatories, to go with its many critics ([51 minutes ago](https://go.theregister.com/feed/www.theregister.com/2025/10/27/un_cybercrime_convention_signed/))
+- MyVidster (2025) - 3,864,364 breached accounts ([2 hours ago](https://haveibeenpwned.com/Breach/MyVidster2025))
+- Australia sues Microsoft for misleading M365 users about Copilot subscription options ([4 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/10/27/asia_tech_news_roundup/))
 - Shaq's new ride gets jaq'ed in haq attaq ([5 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/10/26/shaq_haq_attaq/))
 - [REVIVE-SA-2025-002] Revive Adserver Vulnerability ([1 days ago](https://seclists.org/fulldisclosure/2025/Oct/21))
 - [REVIVE-SA-2025-001] Revive Adserver Vulnerability ([1 days ago](https://seclists.org/fulldisclosure/2025/Oct/20))
@@ -112,7 +112,7 @@ description: SecOps News
 - Researchers Identify PassiveNeuron APT Using Neursite and NeuralExecutor Malware ([4 days ago](https://thehackernews.com/2025/10/researchers-identify-passiveneuron-apt.html))
 - UK data regulator defends decision not to investigate MoD Afghan data breach ([4 days ago](https://go.theregister.com/feed/www.theregister.com/2025/10/22/ico_afghan_leak_probe/))
 - TARmageddon Flaw in Async-Tar Rust Library Could Enable Remote Code Execution ([4 days ago](https://thehackernews.com/2025/10/tarmageddon-flaw-in-async-tar-rust.html))
-- TP-Link Patches Four Omada Gateway Flaws, Two Allow Remote Code Execution ([4 days ago](https://thehackernews.com/2025/10/tp-link-patches-four-omada-gateway.html))
+- TP-Link Patches Four Omada Gateway Flaws, Two Allow Remote Code Execution ([5 days ago](https://thehackernews.com/2025/10/tp-link-patches-four-omada-gateway.html))
 - Inside the Synthient Threat Data ([5 days ago](https://www.troyhunt.com/inside-the-synthient-threat-data/))
 - Synthient Stealer Log Threat Data - 182,962,095 breached accounts ([5 days ago](https://haveibeenpwned.com/Breach/SynthientStealerLogThreatData))
 - SEC Consult SA-20251021-0 :: Multiple Vulnerabilities in EfficientLab WorkExaminer Professional (CVE-2025-10639, CVE-2025-10640, CVE-2025-10641) ([5 days ago](https://seclists.org/fulldisclosure/2025/Oct/19))
