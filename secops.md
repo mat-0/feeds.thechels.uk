@@ -8,10 +8,10 @@ description: SecOps News
 [Get this as an RSS feed](/secops.rss)
 
 <!-- news_marker starts -->
-- UN Cybercrime Treaty wins dozens of signatories, to go with its many critics ([51 minutes ago](https://go.theregister.com/feed/www.theregister.com/2025/10/27/un_cybercrime_convention_signed/))
+- UN Cybercrime Treaty wins dozens of signatories, to go with its many critics ([1 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/10/27/un_cybercrime_convention_signed/))
 - MyVidster (2025) - 3,864,364 breached accounts ([2 hours ago](https://haveibeenpwned.com/Breach/MyVidster2025))
 - Australia sues Microsoft for misleading M365 users about Copilot subscription options ([4 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/10/27/asia_tech_news_roundup/))
-- Shaq's new ride gets jaq'ed in haq attaq ([5 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/10/26/shaq_haq_attaq/))
+- Shaq's new ride gets jaq'ed in haq attaq ([6 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/10/26/shaq_haq_attaq/))
 - [REVIVE-SA-2025-002] Revive Adserver Vulnerability ([1 days ago](https://seclists.org/fulldisclosure/2025/Oct/21))
 - [REVIVE-SA-2025-001] Revive Adserver Vulnerability ([1 days ago](https://seclists.org/fulldisclosure/2025/Oct/20))
 - Weekly Update 475 ([1 days ago](https://www.troyhunt.com/weekly-update-475/))
