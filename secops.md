@@ -8,8 +8,8 @@ description: SecOps News
 [Get this as an RSS feed](/secops.rss)
 
 <!-- news_marker starts -->
-- Automattic accuses rival WordPress outfit WP Engine of ‘false advertising, and deceptive business practices’ ([39 minutes ago](https://go.theregister.com/feed/www.theregister.com/2025/10/27/automattic_wp_engine_counterclaim/))
-- UN Cybercrime Treaty wins dozens of signatories, to go with its many critics ([2 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/10/27/un_cybercrime_convention_signed/))
+- Automattic accuses rival WordPress outfit WP Engine of ‘false advertising, and deceptive business practices’ ([1 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/10/27/automattic_wp_engine_counterclaim/))
+- UN Cybercrime Treaty wins dozens of signatories, to go with its many critics ([3 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/10/27/un_cybercrime_convention_signed/))
 - MyVidster (2025) - 3,864,364 breached accounts ([4 hours ago](https://haveibeenpwned.com/Breach/MyVidster2025))
 - Australia sues Microsoft for misleading M365 users about Copilot subscription options ([6 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/10/27/asia_tech_news_roundup/))
 - Shaq's new ride gets jaq'ed in haq attaq ([8 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/10/26/shaq_haq_attaq/))
@@ -53,7 +53,7 @@ description: SecOps News
 - Pwn2Own WhatsApp Hacker Says Exploit Privately Disclosed to Meta ([2 days ago](https://www.securityweek.com/pwn2own-whatsapp-hacker-says-exploit-privately-reported-to-meta/))
 - Windows Server emergency patches fix WSUS bug with PoC exploit ([2 days ago](https://www.bleepingcomputer.com/news/security/microsoft-releases-windows-server-emergency-updates-for-critical-wsus-rce-flaw/))
 - Britain's Ministry of Justice just signed up to ChatGPT Enterprise ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2025/10/24/ministry_of_justice_chatgpt/))
-- Self-Spreading 'GlassWorm' Infects VS Code Extensions in Widespread Supply Chain Attack ([2 days ago](https://thehackernews.com/2025/10/self-spreading-glassworm-infects-vs.html))
+- Self-Spreading 'GlassWorm' Infects VS Code Extensions in Widespread Supply Chain Attack ([3 days ago](https://thehackernews.com/2025/10/self-spreading-glassworm-infects-vs.html))
 - Hackers earn $1,024,750 for 73 zero-days at Pwn2Own Ireland ([3 days ago](https://www.bleepingcomputer.com/news/security/hackers-earn-1-024-750-for-73-zero-days-at-pwn2own-ireland/))
 - Iran's MuddyWater wades into 100+ government networks in latest spying spree ([3 days ago](https://go.theregister.com/feed/www.theregister.com/2025/10/24/iran_muddywater_campaign/))
 - Supermicro warns it will miss revenue forecast by a lazy billion bucks or more ([3 days ago](https://go.theregister.com/feed/www.theregister.com/2025/10/24/supermicro_revenue_warning/))
@@ -111,7 +111,7 @@ description: SecOps News
 - Why You Should Swap Passwords for Passphrases ([4 days ago](https://thehackernews.com/2025/10/why-you-should-swap-passwords-for.html))
 - Researchers Identify PassiveNeuron APT Using Neursite and NeuralExecutor Malware ([4 days ago](https://thehackernews.com/2025/10/researchers-identify-passiveneuron-apt.html))
 - UK data regulator defends decision not to investigate MoD Afghan data breach ([4 days ago](https://go.theregister.com/feed/www.theregister.com/2025/10/22/ico_afghan_leak_probe/))
-- TARmageddon Flaw in Async-Tar Rust Library Could Enable Remote Code Execution ([4 days ago](https://thehackernews.com/2025/10/tarmageddon-flaw-in-async-tar-rust.html))
+- TARmageddon Flaw in Async-Tar Rust Library Could Enable Remote Code Execution ([5 days ago](https://thehackernews.com/2025/10/tarmageddon-flaw-in-async-tar-rust.html))
 - TP-Link Patches Four Omada Gateway Flaws, Two Allow Remote Code Execution ([5 days ago](https://thehackernews.com/2025/10/tp-link-patches-four-omada-gateway.html))
 - Inside the Synthient Threat Data ([5 days ago](https://www.troyhunt.com/inside-the-synthient-threat-data/))
 - Synthient Stealer Log Threat Data - 182,962,095 breached accounts ([5 days ago](https://haveibeenpwned.com/Breach/SynthientStealerLogThreatData))
@@ -206,7 +206,6 @@ description: SecOps News
 - Disruption with Gemini 2.5 Pro and Gemini 2.0 Flash in Copilot ([27 days ago](https://www.githubstatus.com/incidents/0s5rb1l03m76))
 - Disruption with some GitHub services ([27 days ago](https://www.githubstatus.com/incidents/t291vx7m731z))
 - Capture JavaScript Integrity Metadata using CSP! ([27 days ago](https://scotthelme.ghost.io/capture-javascript-integrity-metadata-using-csp/))
-- Welcoming CERN to Have I Been Pwned ([27 days ago](https://www.troyhunt.com/welcoming-cern-to-have-i-been-pwned/))
-- Weekly Update 471 ([29 days ago](https://www.troyhunt.com/weekly-update-471/))
+- Welcoming CERN to Have I Been Pwned ([28 days ago](https://www.troyhunt.com/welcoming-cern-to-have-i-been-pwned/))
 
 <!-- news_marker ends -->
