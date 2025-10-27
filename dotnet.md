@@ -8,10 +8,10 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Akka.NET + Kubernetes: Everything You Need to Know ([1 hours ago](https://dotnetkicks.com/r/733280?url=https://petabridge.com/blog/akkadotnet-guide-to-kubernetes/))
-- Akka.NET + Kubernetes: Everything You Need to Know ([1 hours ago](https://dotnetkicks.com/r/733275?url=https://petabridge.com/blog/akkadotnet-guide-to-kubernetes/))
-- Use swiyu, the Swiss E-ID to authenticate users with Duende and .NET Aspire ([9 hours ago](https://dotnetkicks.com/r/733251?url=https://damienbod.com/2025/10/27/use-swiyu-the-swiss-e-id-to-authenticate-users-with-duende-and-net-aspire/))
-- Use swiyu, the Swiss E-ID to authenticate users with Duende and .NET Aspire ([9 hours ago](https://dotnetkicks.com/r/733244?url=https://damienbod.com/2025/10/27/use-swiyu-the-swiss-e-id-to-authenticate-users-with-duende-and-net-aspire/))
+- Akka.NET + Kubernetes: Everything You Need to Know ([2 hours ago](https://dotnetkicks.com/r/733280?url=https://petabridge.com/blog/akkadotnet-guide-to-kubernetes/))
+- Akka.NET + Kubernetes: Everything You Need to Know ([2 hours ago](https://dotnetkicks.com/r/733275?url=https://petabridge.com/blog/akkadotnet-guide-to-kubernetes/))
+- Use swiyu, the Swiss E-ID to authenticate users with Duende and .NET Aspire ([10 hours ago](https://dotnetkicks.com/r/733251?url=https://damienbod.com/2025/10/27/use-swiyu-the-swiss-e-id-to-authenticate-users-with-duende-and-net-aspire/))
+- Use swiyu, the Swiss E-ID to authenticate users with Duende and .NET Aspire ([10 hours ago](https://dotnetkicks.com/r/733244?url=https://damienbod.com/2025/10/27/use-swiyu-the-swiss-e-id-to-authenticate-users-with-duende-and-net-aspire/))
 - Using SignalR with Wolverine 5.0 ([15 hours ago](https://dotnetkicks.com/r/733223?url=https://jeremydmiller.com/2025/10/26/using-signalr-with-wolverine-5-0/))
 - F# Weekly #43, 2025 - Sponsorship on NuGet.org &amp; TinyHM ([1 days ago](https://dotnetkicks.com/r/733220?url=https://sergeytihon.com/2025/10/25/f-weekly-43-2025-sponsorship-on-nuget-org-tinyhm/))
 - Defensive Programming Rule #1: Anticipate Errors and Eliminate Bugs ([1 days ago](https://dotnettips.wordpress.com/2025/10/26/defensive-programming-rule-1-anticipate-errors-and-eliminate-bugs/))
@@ -40,7 +40,7 @@ description: DotNet Updates
 - .NET and .NET Framework October 2025 servicing releases updates ([12 days ago](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-october-2025-servicing-updates/))
 - Announcing .NET 10 Release Candidate 2 - .NET Blog ([12 days ago](https://dotnetkicks.com/r/732482?url=https://devblogs.microsoft.com/dotnet/dotnet-10-rc-2/))
 - Announcing .NET 10 Release Candidate 2 ([12 days ago](https://devblogs.microsoft.com/dotnet/dotnet-10-rc-2/))
-- Announcing the .NET Security Group - .NET Blog ([12 days ago](https://dotnetkicks.com/r/732449?url=https://devblogs.microsoft.com/dotnet/announcing-dotnet-security-group/))
+- Announcing the .NET Security Group - .NET Blog ([13 days ago](https://dotnetkicks.com/r/732449?url=https://devblogs.microsoft.com/dotnet/announcing-dotnet-security-group/))
 - Announcing the .NET Security Group ([13 days ago](https://devblogs.microsoft.com/dotnet/announcing-dotnet-security-group/))
 - ReSharper Is Now on the Open VSX Registry ([13 days ago](https://blog.jetbrains.com/dotnet/2025/10/14/resharper-open-vsx/))
 - FYAI: Why developers will lead AI transformation across the enterprise  -  The Microsoft Cloud Blog ([13 days ago](https://dotnetkicks.com/r/732384?url=https://www.microsoft.com/en-us/microsoft-cloud/blog/2025/10/13/fyai-why-developers-will-lead-ai-transformation-across-the-enterprise/))
