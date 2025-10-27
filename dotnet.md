@@ -8,9 +8,9 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Use swiyu, the Swiss E-ID to authenticate users with Duende and .NET Aspire ([41 minutes ago](https://dotnetkicks.com/r/733251?url=https://damienbod.com/2025/10/27/use-swiyu-the-swiss-e-id-to-authenticate-users-with-duende-and-net-aspire/))
-- Use swiyu, the Swiss E-ID to authenticate users with Duende and .NET Aspire ([41 minutes ago](https://dotnetkicks.com/r/733244?url=https://damienbod.com/2025/10/27/use-swiyu-the-swiss-e-id-to-authenticate-users-with-duende-and-net-aspire/))
-- Using SignalR with Wolverine 5.0 ([6 hours ago](https://dotnetkicks.com/r/733223?url=https://jeremydmiller.com/2025/10/26/using-signalr-with-wolverine-5-0/))
+- Use swiyu, the Swiss E-ID to authenticate users with Duende and .NET Aspire ([1 hours ago](https://dotnetkicks.com/r/733251?url=https://damienbod.com/2025/10/27/use-swiyu-the-swiss-e-id-to-authenticate-users-with-duende-and-net-aspire/))
+- Use swiyu, the Swiss E-ID to authenticate users with Duende and .NET Aspire ([1 hours ago](https://dotnetkicks.com/r/733244?url=https://damienbod.com/2025/10/27/use-swiyu-the-swiss-e-id-to-authenticate-users-with-duende-and-net-aspire/))
+- Using SignalR with Wolverine 5.0 ([7 hours ago](https://dotnetkicks.com/r/733223?url=https://jeremydmiller.com/2025/10/26/using-signalr-with-wolverine-5-0/))
 - F# Weekly #43, 2025 - Sponsorship on NuGet.org &amp; TinyHM ([1 days ago](https://dotnetkicks.com/r/733220?url=https://sergeytihon.com/2025/10/25/f-weekly-43-2025-sponsorship-on-nuget-org-tinyhm/))
 - Defensive Programming Rule #1: Anticipate Errors and Eliminate Bugs ([1 days ago](https://dotnettips.wordpress.com/2025/10/26/defensive-programming-rule-1-anticipate-errors-and-eliminate-bugs/))
 - Incremental Optimization in Apache Flink ... with AI ([2 days ago](https://dotnetkicks.com/r/733166?url=https://rion.io/2025/10/24/incremental-optimization-in-apache-flink-with-ai/))
@@ -26,7 +26,7 @@ description: DotNet Updates
 - Adding metadata to fallback endpoints in ASP.NET Core ([4 days ago](https://dotnetkicks.com/r/732914?url=https://andrewlock.net/adding-metadata-to-fallback-endpoints-in-aspnetcore/))
 - Adding metadata to fallback endpoints in ASP.NET Core ([4 days ago](https://andrewlock.net/adding-metadata-to-fallback-endpoints-in-aspnetcore/))
 - Modernizing Visual Studio Extension Compatibility: Effortless Migration for Extension Developers and Users - Visual Studio Blog ([5 days ago](https://dotnetkicks.com/r/732859?url=https://devblogs.microsoft.com/visualstudio/modernizing-visual-studio-extension-compatibility-effortless-migration-for-extension-developers-and-users/))
-- Innovation spotlight: How 3 customers are driving change with migration to Azure SQL - Microsoft SQL Server Blog ([5 days ago](https://dotnetkicks.com/r/732814?url=https://www.microsoft.com/en-us/sql-server/blog/2025/10/20/innovation-spotlight-how-3-customers-are-driving-change-with-migration-to-azure-sql/))
+- Innovation spotlight: How 3 customers are driving change with migration to Azure SQL - Microsoft SQL Server Blog ([6 days ago](https://dotnetkicks.com/r/732814?url=https://www.microsoft.com/en-us/sql-server/blog/2025/10/20/innovation-spotlight-how-3-customers-are-driving-change-with-migration-to-azure-sql/))
 - Windows Shell Previews ([6 days ago](https://dotnetkicks.com/r/732795?url=https://textslashplain.com/2025/10/20/windows-shell-previews/))
 - Coming to Rider 2025.3: ASP.NET and Database Issue Detection In The Monitoring Tool Window ([6 days ago](https://blog.jetbrains.com/dotnet/2025/10/20/rider-2025-3-asp-dotnet-and-database-issue-monitoring/))
 - Mastering the Art of Public Speaking: Lessons from a Lifetime of Teaching and Sharing ([8 days ago](https://dotnettips.wordpress.com/2025/10/19/mastering-the-art-of-public-speaking-lessons-from-a-lifetime-of-teaching-and-sharing/))
