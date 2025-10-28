@@ -8,7 +8,8 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Understanding the worst .NET vulnerability ever: request smuggling and CVE-2025-55315 ([40 minutes ago](https://andrewlock.net/understanding-the-worst-dotnet-vulnerability-request-smuggling-and-cve-2025-55315/))
+- Understanding the worst .NET vulnerability ever: request smuggling and CVE-2025-55315 ([26 minutes ago](https://dotnetkicks.com/r/733349?url=https://andrewlock.net/understanding-the-worst-dotnet-vulnerability-request-smuggling-and-cve-2025-55315/))
+- Understanding the worst .NET vulnerability ever: request smuggling and CVE-2025-55315 ([1 hours ago](https://andrewlock.net/understanding-the-worst-dotnet-vulnerability-request-smuggling-and-cve-2025-55315/))
 - ReSharper and Rider 2025.2.4: Another Set of Updates Released ([1 hours ago](https://blog.jetbrains.com/dotnet/2025/10/28/resharper-and-rider-2025-1-4-2/))
 - Wolverine 5 and Modular Monoliths ([7 hours ago](https://dotnetkicks.com/r/733335?url=https://jeremydmiller.com/2025/10/27/wolverine-5-and-modular-monoliths/))
 - Akka.NET + Kubernetes: Everything You Need to Know ([19 hours ago](https://dotnetkicks.com/r/733280?url=https://petabridge.com/blog/akkadotnet-guide-to-kubernetes/))
@@ -35,8 +36,8 @@ description: DotNet Updates
 - Windows Shell Previews ([7 days ago](https://dotnetkicks.com/r/732795?url=https://textslashplain.com/2025/10/20/windows-shell-previews/))
 - Coming to Rider 2025.3: ASP.NET and Database Issue Detection In The Monitoring Tool Window ([7 days ago](https://blog.jetbrains.com/dotnet/2025/10/20/rider-2025-3-asp-dotnet-and-database-issue-monitoring/))
 - Mastering the Art of Public Speaking: Lessons from a Lifetime of Teaching and Sharing ([9 days ago](https://dotnettips.wordpress.com/2025/10/19/mastering-the-art-of-public-speaking-lessons-from-a-lifetime-of-teaching-and-sharing/))
-- F# Weekly #42, 2025 - Hi, Victor &amp; .NET 10 RC2 ([9 days ago](https://dotnetkicks.com/r/732696?url=https://sergeytihon.com/2025/10/18/f-weekly-42-2025-hi-victor-net-10-rc2/))
-- Implement a secure MCP OAuth desktop client using OAuth and Entra ID ([10 days ago](https://dotnetkicks.com/r/732629?url=https://damienbod.com/2025/10/16/implement-a-secure-mcp-oauth-desktop-client-using-oauth-and-entra-id/))
+- F# Weekly #42, 2025 - Hi, Victor &amp; .NET 10 RC2 ([10 days ago](https://dotnetkicks.com/r/732696?url=https://sergeytihon.com/2025/10/18/f-weekly-42-2025-hi-victor-net-10-rc2/))
+- Implement a secure MCP OAuth desktop client using OAuth and Entra ID ([11 days ago](https://dotnetkicks.com/r/732629?url=https://damienbod.com/2025/10/16/implement-a-secure-mcp-oauth-desktop-client-using-oauth-and-entra-id/))
 - Migrations the "Critter Stack" Way ([11 days ago](https://dotnetkicks.com/r/732627?url=https://jeremydmiller.com/2025/10/16/migrationsthe-critter-stack-way/))
 - Tech Prediction: The Data Kings Will Rule the World ([13 days ago](https://dotnettips.wordpress.com/2025/10/15/tech-prediction-the-data-kings-will-rule-the-world/))
 - .NET and .NET Framework October 2025 servicing releases updates - .NET Blog ([13 days ago](https://dotnetkicks.com/r/732496?url=https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-october-2025-servicing-updates/))
@@ -46,7 +47,6 @@ description: DotNet Updates
 - Announcing the .NET Security Group - .NET Blog ([13 days ago](https://dotnetkicks.com/r/732449?url=https://devblogs.microsoft.com/dotnet/announcing-dotnet-security-group/))
 - Announcing the .NET Security Group ([13 days ago](https://devblogs.microsoft.com/dotnet/announcing-dotnet-security-group/))
 - ReSharper Is Now on the Open VSX Registry ([13 days ago](https://blog.jetbrains.com/dotnet/2025/10/14/resharper-open-vsx/))
-- FYAI: Why developers will lead AI transformation across the enterprise  -  The Microsoft Cloud Blog ([14 days ago](https://dotnetkicks.com/r/732384?url=https://www.microsoft.com/en-us/microsoft-cloud/blog/2025/10/13/fyai-why-developers-will-lead-ai-transformation-across-the-enterprise/))
 - Boost Your .NET Projects: Simplify Windows Service and Process Management with Spargine’s Services Helper ([16 days ago](https://dotnettips.wordpress.com/2025/10/12/boost-your-net-projects-simplify-windows-service-and-process-management-with-spargines-services-helper/))
 - Preparing for the .NET 10 GC (DATAS) ([19 days ago](https://devblogs.microsoft.com/dotnet/preparing-for-dotnet-10-gc/))
 - Calling All Non-Commercial JetBrains Rider Users: Tell Us Your Stories! ([19 days ago](https://blog.jetbrains.com/dotnet/2025/10/08/calling-all-non-commercial-rider-users/))
