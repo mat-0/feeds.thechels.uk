@@ -8,8 +8,9 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Akka.NET + Kubernetes: Everything You Need to Know ([11 hours ago](https://dotnetkicks.com/r/733280?url=https://petabridge.com/blog/akkadotnet-guide-to-kubernetes/))
-- Akka.NET + Kubernetes: Everything You Need to Know ([11 hours ago](https://dotnetkicks.com/r/733275?url=https://petabridge.com/blog/akkadotnet-guide-to-kubernetes/))
+- Wolverine 5 and Modular Monoliths ([14 minutes ago](https://dotnetkicks.com/r/733335?url=https://jeremydmiller.com/2025/10/27/wolverine-5-and-modular-monoliths/))
+- Akka.NET + Kubernetes: Everything You Need to Know ([12 hours ago](https://dotnetkicks.com/r/733280?url=https://petabridge.com/blog/akkadotnet-guide-to-kubernetes/))
+- Akka.NET + Kubernetes: Everything You Need to Know ([12 hours ago](https://dotnetkicks.com/r/733275?url=https://petabridge.com/blog/akkadotnet-guide-to-kubernetes/))
 - Use swiyu, the Swiss E-ID to authenticate users with Duende and .NET Aspire ([19 hours ago](https://dotnetkicks.com/r/733251?url=https://damienbod.com/2025/10/27/use-swiyu-the-swiss-e-id-to-authenticate-users-with-duende-and-net-aspire/))
 - Use swiyu, the Swiss E-ID to authenticate users with Duende and .NET Aspire ([19 hours ago](https://dotnetkicks.com/r/733244?url=https://damienbod.com/2025/10/27/use-swiyu-the-swiss-e-id-to-authenticate-users-with-duende-and-net-aspire/))
 - Using SignalR with Wolverine 5.0 ([1 days ago](https://dotnetkicks.com/r/733223?url=https://jeremydmiller.com/2025/10/26/using-signalr-with-wolverine-5-0/))
@@ -44,7 +45,6 @@ description: DotNet Updates
 - Announcing the .NET Security Group ([13 days ago](https://devblogs.microsoft.com/dotnet/announcing-dotnet-security-group/))
 - ReSharper Is Now on the Open VSX Registry ([13 days ago](https://blog.jetbrains.com/dotnet/2025/10/14/resharper-open-vsx/))
 - FYAI: Why developers will lead AI transformation across the enterprise  -  The Microsoft Cloud Blog ([14 days ago](https://dotnetkicks.com/r/732384?url=https://www.microsoft.com/en-us/microsoft-cloud/blog/2025/10/13/fyai-why-developers-will-lead-ai-transformation-across-the-enterprise/))
-- FYAI: Why developers will lead AI transformation across the enterprise  -  The Microsoft Cloud Blog ([14 days ago](https://dotnetkicks.com/r/732383?url=https://www.microsoft.com/en-us/microsoft-cloud/blog/2025/10/13/fyai-why-developers-will-lead-ai-transformation-across-the-enterprise/))
 - Boost Your .NET Projects: Simplify Windows Service and Process Management with Spargine’s Services Helper ([15 days ago](https://dotnettips.wordpress.com/2025/10/12/boost-your-net-projects-simplify-windows-service-and-process-management-with-spargines-services-helper/))
 - Preparing for the .NET 10 GC (DATAS) ([19 days ago](https://devblogs.microsoft.com/dotnet/preparing-for-dotnet-10-gc/))
 - Calling All Non-Commercial JetBrains Rider Users: Tell Us Your Stories! ([19 days ago](https://blog.jetbrains.com/dotnet/2025/10/08/calling-all-non-commercial-rider-users/))
