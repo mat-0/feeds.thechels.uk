@@ -8,10 +8,10 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Wolverine Does More to Simplify Server Side Code ([10 hours ago](https://dotnetkicks.com/r/733412?url=https://jeremydmiller.com/2025/10/28/wolverine-does-more-to-simplify-server-side-code/))
-- Introducing Custom Agents for .NET Developers: C# Expert & WinForms Expert - .NET Blog ([13 hours ago](https://dotnetkicks.com/r/733409?url=https://devblogs.microsoft.com/dotnet/introducing-custom-agents-for-dotnet-developers-csharp-expert-winforms-expert/))
-- Introducing Custom Agents for .NET Developers: C# Expert & WinForms Expert - .NET Blog ([13 hours ago](https://dotnetkicks.com/r/733405?url=https://devblogs.microsoft.com/dotnet/introducing-custom-agents-for-dotnet-developers-csharp-expert-winforms-expert/))
-- Introducing Custom Agents for .NET Developers: C# Expert & WinForms Expert ([13 hours ago](https://devblogs.microsoft.com/dotnet/introducing-custom-agents-for-dotnet-developers-csharp-expert-winforms-expert/))
+- Wolverine Does More to Simplify Server Side Code ([11 hours ago](https://dotnetkicks.com/r/733412?url=https://jeremydmiller.com/2025/10/28/wolverine-does-more-to-simplify-server-side-code/))
+- Introducing Custom Agents for .NET Developers: C# Expert & WinForms Expert - .NET Blog ([14 hours ago](https://dotnetkicks.com/r/733409?url=https://devblogs.microsoft.com/dotnet/introducing-custom-agents-for-dotnet-developers-csharp-expert-winforms-expert/))
+- Introducing Custom Agents for .NET Developers: C# Expert & WinForms Expert - .NET Blog ([14 hours ago](https://dotnetkicks.com/r/733405?url=https://devblogs.microsoft.com/dotnet/introducing-custom-agents-for-dotnet-developers-csharp-expert-winforms-expert/))
+- Introducing Custom Agents for .NET Developers: C# Expert & WinForms Expert ([14 hours ago](https://devblogs.microsoft.com/dotnet/introducing-custom-agents-for-dotnet-developers-csharp-expert-winforms-expert/))
 - Understanding the worst .NET vulnerability ever: request smuggling and CVE-2025-55315 ([1 days ago](https://dotnetkicks.com/r/733349?url=https://andrewlock.net/understanding-the-worst-dotnet-vulnerability-request-smuggling-and-cve-2025-55315/))
 - Understanding the worst .NET vulnerability ever: request smuggling and CVE-2025-55315 ([1 days ago](https://andrewlock.net/understanding-the-worst-dotnet-vulnerability-request-smuggling-and-cve-2025-55315/))
 - ReSharper and Rider 2025.2.4: Another Set of Updates Released ([1 days ago](https://blog.jetbrains.com/dotnet/2025/10/28/resharper-and-rider-2025-1-4-2/))
@@ -33,7 +33,7 @@ description: DotNet Updates
 - Upgrading to Microsoft Agent Framework in Your .NET AI Chat App ([5 days ago](https://devblogs.microsoft.com/dotnet/upgrading-to-microsoft-agent-framework-in-your-dotnet-ai-chat-app/))
 - Introducing Planning in Visual Studio (Public Preview) - Visual Studio Blog ([6 days ago](https://dotnetkicks.com/r/732943?url=https://devblogs.microsoft.com/visualstudio/introducing-planning-in-visual-studio-public-preview/))
 - Authorization: Domain or Application Layer? ([6 days ago](https://dotnetkicks.com/r/732935?url=https://codeopinion.com/authorization-domain-or-application-layer/))
-- Adding metadata to fallback endpoints in ASP.NET Core ([6 days ago](https://dotnetkicks.com/r/732914?url=https://andrewlock.net/adding-metadata-to-fallback-endpoints-in-aspnetcore/))
+- Adding metadata to fallback endpoints in ASP.NET Core ([7 days ago](https://dotnetkicks.com/r/732914?url=https://andrewlock.net/adding-metadata-to-fallback-endpoints-in-aspnetcore/))
 - Adding metadata to fallback endpoints in ASP.NET Core ([7 days ago](https://andrewlock.net/adding-metadata-to-fallback-endpoints-in-aspnetcore/))
 - Modernizing Visual Studio Extension Compatibility: Effortless Migration for Extension Developers and Users - Visual Studio Blog ([7 days ago](https://dotnetkicks.com/r/732859?url=https://devblogs.microsoft.com/visualstudio/modernizing-visual-studio-extension-compatibility-effortless-migration-for-extension-developers-and-users/))
 - Innovation spotlight: How 3 customers are driving change with migration to Azure SQL - Microsoft SQL Server Blog ([8 days ago](https://dotnetkicks.com/r/732814?url=https://www.microsoft.com/en-us/sql-server/blog/2025/10/20/innovation-spotlight-how-3-customers-are-driving-change-with-migration-to-azure-sql/))
@@ -60,7 +60,7 @@ description: DotNet Updates
 - Boost Your .NET Projects: Secure Passwords with PBKDF2PasswordHasher in Spargine ([24 days ago](https://dotnettips.wordpress.com/2025/10/05/boost-your-net-projects-secure-passwords-with-pbkdf2passwordhasher-in-spargine/))
 - ReSharper and Visual Studio 2026: Day-One Compatibility, Migration Steps, and Performance Gains ([26 days ago](https://blog.jetbrains.com/dotnet/2025/10/02/resharper-and-visual-studio-2026/))
 - Introducing Microsoft Agent Framework (Preview): Making AI Agents Simple for Every Developer ([27 days ago](https://devblogs.microsoft.com/dotnet/introducing-microsoft-agent-framework-preview/))
-- Rock Your Code: Coding Standards for Microsoft .NET (20th Anniversary Edition) ([27 days ago](https://dotnettips.wordpress.com/2025/10/01/rock-your-code-coding-standards-for-microsoft-net-20th-anniversary-edition/))
+- Rock Your Code: Coding Standards for Microsoft .NET (20th Anniversary Edition) ([28 days ago](https://dotnettips.wordpress.com/2025/10/01/rock-your-code-coding-standards-for-microsoft-net-20th-anniversary-edition/))
 - Optimizing Array Performance in .NET: Getting the Most from ArrayPool ([28 days ago](https://dotnettips.wordpress.com/2025/10/01/optimizing-array-performance-in-net-getting-the-most-from-arraypool/))
 - Publishing NuGet packages from GitHub actions the easy way with Trusted Publishing ([29 days ago](https://andrewlock.net/easily-publishing-nuget-packages-from-github-actions-with-trusted-publishing/))
 
