@@ -58,7 +58,7 @@ description: DotNet Updates
 - dotInsights  -  October 2025 ([23 days ago](https://blog.jetbrains.com/dotnet/2025/10/06/dotinsights-october-2025/))
 - ReSharper and Rider 2025.2.3: The Third Set of Updates Released ([23 days ago](https://blog.jetbrains.com/dotnet/2025/10/06/resharper-and-rider-2025-2-3/))
 - Boost Your .NET Projects: Secure Passwords with PBKDF2PasswordHasher in Spargine ([24 days ago](https://dotnettips.wordpress.com/2025/10/05/boost-your-net-projects-secure-passwords-with-pbkdf2passwordhasher-in-spargine/))
-- ReSharper and Visual Studio 2026: Day-One Compatibility, Migration Steps, and Performance Gains ([26 days ago](https://blog.jetbrains.com/dotnet/2025/10/02/resharper-and-visual-studio-2026/))
+- ReSharper and Visual Studio 2026: Day-One Compatibility, Migration Steps, and Performance Gains ([27 days ago](https://blog.jetbrains.com/dotnet/2025/10/02/resharper-and-visual-studio-2026/))
 - Introducing Microsoft Agent Framework (Preview): Making AI Agents Simple for Every Developer ([27 days ago](https://devblogs.microsoft.com/dotnet/introducing-microsoft-agent-framework-preview/))
 - Rock Your Code: Coding Standards for Microsoft .NET (20th Anniversary Edition) ([28 days ago](https://dotnettips.wordpress.com/2025/10/01/rock-your-code-coding-standards-for-microsoft-net-20th-anniversary-edition/))
 - Optimizing Array Performance in .NET: Getting the Most from ArrayPool ([28 days ago](https://dotnettips.wordpress.com/2025/10/01/optimizing-array-performance-in-net-getting-the-most-from-arraypool/))
