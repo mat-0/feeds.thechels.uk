@@ -8,11 +8,11 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Double Dispatch in DDD ([37 minutes ago](https://dotnetkicks.com/r/733460?url=https://codeopinion.com/double-dispatch-in-ddd/))
-- Simplifying Distributed Systems: Jason Taylor Shows How .NET Aspire Makes the Complex Feel Effortless ([1 hours ago](https://blog.jetbrains.com/dotnet/2025/10/29/simplifying-distributed-systems-dotnet-aspire-jason-taylor/))
+- Double Dispatch in DDD ([1 hours ago](https://dotnetkicks.com/r/733460?url=https://codeopinion.com/double-dispatch-in-ddd/))
+- Simplifying Distributed Systems: Jason Taylor Shows How .NET Aspire Makes the Complex Feel Effortless ([2 hours ago](https://blog.jetbrains.com/dotnet/2025/10/29/simplifying-distributed-systems-dotnet-aspire-jason-taylor/))
 - Wolverine Does More to Simplify Server Side Code ([15 hours ago](https://dotnetkicks.com/r/733412?url=https://jeremydmiller.com/2025/10/28/wolverine-does-more-to-simplify-server-side-code/))
-- Introducing Custom Agents for .NET Developers: C# Expert & WinForms Expert - .NET Blog ([17 hours ago](https://dotnetkicks.com/r/733409?url=https://devblogs.microsoft.com/dotnet/introducing-custom-agents-for-dotnet-developers-csharp-expert-winforms-expert/))
-- Introducing Custom Agents for .NET Developers: C# Expert & WinForms Expert - .NET Blog ([17 hours ago](https://dotnetkicks.com/r/733405?url=https://devblogs.microsoft.com/dotnet/introducing-custom-agents-for-dotnet-developers-csharp-expert-winforms-expert/))
+- Introducing Custom Agents for .NET Developers: C# Expert & WinForms Expert - .NET Blog ([18 hours ago](https://dotnetkicks.com/r/733409?url=https://devblogs.microsoft.com/dotnet/introducing-custom-agents-for-dotnet-developers-csharp-expert-winforms-expert/))
+- Introducing Custom Agents for .NET Developers: C# Expert & WinForms Expert - .NET Blog ([18 hours ago](https://dotnetkicks.com/r/733405?url=https://devblogs.microsoft.com/dotnet/introducing-custom-agents-for-dotnet-developers-csharp-expert-winforms-expert/))
 - Introducing Custom Agents for .NET Developers: C# Expert & WinForms Expert ([18 hours ago](https://devblogs.microsoft.com/dotnet/introducing-custom-agents-for-dotnet-developers-csharp-expert-winforms-expert/))
 - Understanding the worst .NET vulnerability ever: request smuggling and CVE-2025-55315 ([1 days ago](https://dotnetkicks.com/r/733349?url=https://andrewlock.net/understanding-the-worst-dotnet-vulnerability-request-smuggling-and-cve-2025-55315/))
 - Understanding the worst .NET vulnerability ever: request smuggling and CVE-2025-55315 ([1 days ago](https://andrewlock.net/understanding-the-worst-dotnet-vulnerability-request-smuggling-and-cve-2025-55315/))
