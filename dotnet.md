@@ -8,8 +8,8 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Visual Studio October Update - new models, memories, planning, and more - Visual Studio Blog ([13 hours ago](https://dotnetkicks.com/r/733591?url=https://devblogs.microsoft.com/visualstudio/visual-studio-october-update/))
-- Visual Studio October Update - new models, memories, planning, and more - Visual Studio Blog ([13 hours ago](https://dotnetkicks.com/r/733572?url=https://devblogs.microsoft.com/visualstudio/visual-studio-october-update/))
+- Visual Studio October Update - new models, memories, planning, and more - Visual Studio Blog ([14 hours ago](https://dotnetkicks.com/r/733591?url=https://devblogs.microsoft.com/visualstudio/visual-studio-october-update/))
+- Visual Studio October Update - new models, memories, planning, and more - Visual Studio Blog ([14 hours ago](https://dotnetkicks.com/r/733572?url=https://devblogs.microsoft.com/visualstudio/visual-studio-october-update/))
 - Major Azure Front Door Outage Causing Widespread Service Disruptions Across Microsoft 365, Microsoft Azure, And The Azure Portal (October 29, 2025)  -  Build5Nines ([1 days ago](https://dotnetkicks.com/r/733474?url=https://build5nines.com/major-azure-front-door-outage-causing-widespread-service-disruptions-across-microsoft-365-microsoft-azure-and-the-azure-portal-october-29-2025/))
 - Double Dispatch in DDD ([1 days ago](https://dotnetkicks.com/r/733460?url=https://codeopinion.com/double-dispatch-in-ddd/))
 - Simplifying Distributed Systems: Jason Taylor Shows How .NET Aspire Makes the Complex Feel Effortless ([1 days ago](https://blog.jetbrains.com/dotnet/2025/10/29/simplifying-distributed-systems-dotnet-aspire-jason-taylor/))
@@ -25,7 +25,7 @@ description: DotNet Updates
 - Akka.NET + Kubernetes: Everything You Need to Know ([3 days ago](https://dotnetkicks.com/r/733275?url=https://petabridge.com/blog/akkadotnet-guide-to-kubernetes/))
 - Use swiyu, the Swiss E-ID to authenticate users with Duende and .NET Aspire ([3 days ago](https://dotnetkicks.com/r/733251?url=https://damienbod.com/2025/10/27/use-swiyu-the-swiss-e-id-to-authenticate-users-with-duende-and-net-aspire/))
 - Use swiyu, the Swiss E-ID to authenticate users with Duende and .NET Aspire ([3 days ago](https://dotnetkicks.com/r/733244?url=https://damienbod.com/2025/10/27/use-swiyu-the-swiss-e-id-to-authenticate-users-with-duende-and-net-aspire/))
-- Using SignalR with Wolverine 5.0 ([3 days ago](https://dotnetkicks.com/r/733223?url=https://jeremydmiller.com/2025/10/26/using-signalr-with-wolverine-5-0/))
+- Using SignalR with Wolverine 5.0 ([4 days ago](https://dotnetkicks.com/r/733223?url=https://jeremydmiller.com/2025/10/26/using-signalr-with-wolverine-5-0/))
 - F# Weekly #43, 2025 - Sponsorship on NuGet.org &amp; TinyHM ([4 days ago](https://dotnetkicks.com/r/733220?url=https://sergeytihon.com/2025/10/25/f-weekly-43-2025-sponsorship-on-nuget-org-tinyhm/))
 - Defensive Programming Rule #1: Anticipate Errors and Eliminate Bugs ([4 days ago](https://dotnettips.wordpress.com/2025/10/26/defensive-programming-rule-1-anticipate-errors-and-eliminate-bugs/))
 - Incremental Optimization in Apache Flink ... with AI ([6 days ago](https://dotnetkicks.com/r/733166?url=https://rion.io/2025/10/24/incremental-optimization-in-apache-flink-with-ai/))
