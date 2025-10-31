@@ -51,7 +51,7 @@ description: DotNet Updates
 - ReSharper Is Now on the Open VSX Registry ([16 days ago](https://blog.jetbrains.com/dotnet/2025/10/14/resharper-open-vsx/))
 - Boost Your .NET Projects: Simplify Windows Service and Process Management with Spargine’s Services Helper ([19 days ago](https://dotnettips.wordpress.com/2025/10/12/boost-your-net-projects-simplify-windows-service-and-process-management-with-spargines-services-helper/))
 - Preparing for the .NET 10 GC (DATAS) ([22 days ago](https://devblogs.microsoft.com/dotnet/preparing-for-dotnet-10-gc/))
-- Calling All Non-Commercial JetBrains Rider Users: Tell Us Your Stories! ([22 days ago](https://blog.jetbrains.com/dotnet/2025/10/08/calling-all-non-commercial-rider-users/))
+- Calling All Non-Commercial JetBrains Rider Users: Tell Us Your Stories! ([23 days ago](https://blog.jetbrains.com/dotnet/2025/10/08/calling-all-non-commercial-rider-users/))
 - Defensive Programming with Microsoft .NET: Anticipate Errors and Eliminate Bugs ([23 days ago](https://dotnettips.wordpress.com/2025/10/08/defensive-programming-with-microsoft-net-anticipate-errors-and-eliminate-bugs/))
 - Meet JetBrains at Azure Dev Summit 2025 (Lisbon, Oct 13–16) ([23 days ago](https://blog.jetbrains.com/dotnet/2025/10/07/meet-jetbrains-at-azure-dev-summit-2025/))
 - Developer and AI Code Reviewer: Reviewing AI-Generated Code in .NET ([23 days ago](https://devblogs.microsoft.com/dotnet/developer-and-ai-code-reviewer-reviewing-ai-generated-code-in-dotnet/))
