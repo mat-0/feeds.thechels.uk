@@ -17,7 +17,7 @@ description: DotNet Updates
 - Wolverine Does More to Simplify Server Side Code ([2 days ago](https://dotnetkicks.com/r/733412?url=https://jeremydmiller.com/2025/10/28/wolverine-does-more-to-simplify-server-side-code/))
 - Introducing Custom Agents for .NET Developers: C# Expert & WinForms Expert - .NET Blog ([2 days ago](https://dotnetkicks.com/r/733409?url=https://devblogs.microsoft.com/dotnet/introducing-custom-agents-for-dotnet-developers-csharp-expert-winforms-expert/))
 - Introducing Custom Agents for .NET Developers: C# Expert & WinForms Expert - .NET Blog ([2 days ago](https://dotnetkicks.com/r/733405?url=https://devblogs.microsoft.com/dotnet/introducing-custom-agents-for-dotnet-developers-csharp-expert-winforms-expert/))
-- Introducing Custom Agents for .NET Developers: C# Expert & WinForms Expert ([2 days ago](https://devblogs.microsoft.com/dotnet/introducing-custom-agents-for-dotnet-developers-csharp-expert-winforms-expert/))
+- Introducing Custom Agents for .NET Developers: C# Expert & WinForms Expert ([3 days ago](https://devblogs.microsoft.com/dotnet/introducing-custom-agents-for-dotnet-developers-csharp-expert-winforms-expert/))
 - Understanding the worst .NET vulnerability ever: request smuggling and CVE-2025-55315 ([3 days ago](https://dotnetkicks.com/r/733349?url=https://andrewlock.net/understanding-the-worst-dotnet-vulnerability-request-smuggling-and-cve-2025-55315/))
 - Understanding the worst .NET vulnerability ever: request smuggling and CVE-2025-55315 ([3 days ago](https://andrewlock.net/understanding-the-worst-dotnet-vulnerability-request-smuggling-and-cve-2025-55315/))
 - ReSharper and Rider 2025.2.4: Another Set of Updates Released ([3 days ago](https://blog.jetbrains.com/dotnet/2025/10/28/resharper-and-rider-2025-1-4-2/))
