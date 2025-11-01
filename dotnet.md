@@ -41,7 +41,7 @@ description: DotNet Updates
 - Authorization: Domain or Application Layer? ([9 days ago](https://dotnetkicks.com/r/732935?url=https://codeopinion.com/authorization-domain-or-application-layer/))
 - Adding metadata to fallback endpoints in ASP.NET Core ([10 days ago](https://dotnetkicks.com/r/732914?url=https://andrewlock.net/adding-metadata-to-fallback-endpoints-in-aspnetcore/))
 - Adding metadata to fallback endpoints in ASP.NET Core ([10 days ago](https://andrewlock.net/adding-metadata-to-fallback-endpoints-in-aspnetcore/))
-- Modernizing Visual Studio Extension Compatibility: Effortless Migration for Extension Developers and Users - Visual Studio Blog ([10 days ago](https://dotnetkicks.com/r/732859?url=https://devblogs.microsoft.com/visualstudio/modernizing-visual-studio-extension-compatibility-effortless-migration-for-extension-developers-and-users/))
+- Modernizing Visual Studio Extension Compatibility: Effortless Migration for Extension Developers and Users - Visual Studio Blog ([11 days ago](https://dotnetkicks.com/r/732859?url=https://devblogs.microsoft.com/visualstudio/modernizing-visual-studio-extension-compatibility-effortless-migration-for-extension-developers-and-users/))
 - Coming to Rider 2025.3: ASP.NET and Database Issue Detection In The Monitoring Tool Window ([12 days ago](https://blog.jetbrains.com/dotnet/2025/10/20/rider-2025-3-asp-dotnet-and-database-issue-monitoring/))
 - Mastering the Art of Public Speaking: Lessons from a Lifetime of Teaching and Sharing ([13 days ago](https://dotnettips.wordpress.com/2025/10/19/mastering-the-art-of-public-speaking-lessons-from-a-lifetime-of-teaching-and-sharing/))
 - Tech Prediction: The Data Kings Will Rule the World ([17 days ago](https://dotnettips.wordpress.com/2025/10/15/tech-prediction-the-data-kings-will-rule-the-world/))
@@ -59,6 +59,5 @@ description: DotNet Updates
 - dotInsights  -  October 2025 ([26 days ago](https://blog.jetbrains.com/dotnet/2025/10/06/dotinsights-october-2025/))
 - ReSharper and Rider 2025.2.3: The Third Set of Updates Released ([26 days ago](https://blog.jetbrains.com/dotnet/2025/10/06/resharper-and-rider-2025-2-3/))
 - Boost Your .NET Projects: Secure Passwords with PBKDF2PasswordHasher in Spargine ([27 days ago](https://dotnettips.wordpress.com/2025/10/05/boost-your-net-projects-secure-passwords-with-pbkdf2passwordhasher-in-spargine/))
-- ReSharper and Visual Studio 2026: Day-One Compatibility, Migration Steps, and Performance Gains ([29 days ago](https://blog.jetbrains.com/dotnet/2025/10/02/resharper-and-visual-studio-2026/))
 
 <!-- news_marker ends -->
