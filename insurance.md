@@ -10,8 +10,8 @@ description: Insurance Updates
 <!-- news_marker starts -->
 - Berkshire Hathaway posts $2.4bn Q3’25 underwriting earnings amid strong P&C reinsurance result ([7 hours ago](https://www.reinsurancene.ws/berkshire-hathaway-posts-2-4bn-q325-underwriting-earnings-amid-strong-pc-reinsurance-result/))
 - Latest Results From SCOR: Steady As She Goes ([10 hours ago](https://insurance-edge.net/2025/11/01/latest-results-from-scor-steady-as-she-goes/))
-- Melissa Jamaica Damage Seen Costing Insurers Up to $3 Billion ([20 hours ago](https://www.insurancejournal.com/news/international/2025/10/31/846065.htm))
-- PHLY Makes Largest Acquisition in Its History With Collector Car Business Expansion ([23 hours ago](https://www.insurancejournal.com/news/national/2025/10/31/846041.htm))
+- Melissa Jamaica Damage Seen Costing Insurers Up to $3 Billion ([21 hours ago](https://www.insurancejournal.com/news/international/2025/10/31/846065.htm))
+- PHLY Makes Largest Acquisition in Its History With Collector Car Business Expansion ([1 days ago](https://www.insurancejournal.com/news/national/2025/10/31/846041.htm))
 - Insurers in California Must Cough Up More For Climate Change ([1 days ago](https://insurance-edge.net/2025/10/31/insurers-in-california-must-cough-up-more-for-climate-change/))
 - PGM Solutions Expands Home Factors with New Roof and Electrical Insights to Strengthen Carrier Risk Models ([1 days ago](https://www.insurancejournal.com/services/newswire/2025/10/31/845781.htm))
 - AccuWeather estimates up to $52bn in economic losses from Hurricane Melissa ([1 days ago](https://www.reinsurancene.ws/accuweather-estimates-up-to-52bn-in-economic-losses-from-hurricane-melissa/))
