@@ -8,10 +8,10 @@ description: SecOps News
 [Get this as an RSS feed](/secops.rss)
 
 <!-- news_marker starts -->
-- Google confirms AI search will have ads, but they may look different ([4 hours ago](https://www.bleepingcomputer.com/news/google/google-confirms-ai-search-will-have-ads-but-they-may-look-different/))
+- Google confirms AI search will have ads, but they may look different ([5 hours ago](https://www.bleepingcomputer.com/news/google/google-confirms-ai-search-will-have-ads-but-they-may-look-different/))
 - Windows 11 Build 26220.7051 released with “Ask Copilot” feature ([5 hours ago](https://www.bleepingcomputer.com/news/microsoft/windows-11-build-262207051-released-with-ask-copilot-feature/))
 - China-linked hackers exploited Lanscope flaw as a zero-day in attacks ([7 hours ago](https://www.bleepingcomputer.com/news/security/china-linked-hackers-exploited-lanscope-flaw-as-a-zero-day-in-attacks/))
-- ASD Warns of Ongoing BADCANDY Attacks Exploiting Cisco IOS XE Vulnerability ([7 hours ago](https://thehackernews.com/2025/11/asd-warns-of-ongoing-badcandy-attacks.html))
+- ASD Warns of Ongoing BADCANDY Attacks Exploiting Cisco IOS XE Vulnerability ([8 hours ago](https://thehackernews.com/2025/11/asd-warns-of-ongoing-badcandy-attacks.html))
 - Robotic lawnmower uses AI to dodge cats, toys ([13 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/11/01/robotic_lawnmower_ai/))
 - Incident with using workflow_dispatch for Actions ([15 hours ago](https://www.githubstatus.com/incidents/xkvk1yhmqfdl))
 - Windows 11 tests shared Bluetooth audio support, but only for AI PCs ([1 days ago](https://www.bleepingcomputer.com/news/microsoft/windows-11-tests-shared-bluetooth-audio-support-but-only-for-ai-pcs/))
@@ -96,7 +96,7 @@ description: SecOps News
 - Microsoft gives Windows 11 a fresh Start – here's how to get it ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2025/10/29/microsofts_new_windows_start_menu/))
 - Microsoft just revealed that OpenAI lost more than $11.5B last quarter ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2025/10/29/microsoft_earnings_q1_26_openai_loss/))
 - Experiencing connection issues across Actions, Codespaces, and possibly other services ([2 days ago](https://www.githubstatus.com/incidents/4jxdz4m769gy))
-- Disruption with Copilot Bing search tool ([2 days ago](https://www.githubstatus.com/incidents/pch0flk719dj))
+- Disruption with Copilot Bing search tool ([3 days ago](https://www.githubstatus.com/incidents/pch0flk719dj))
 - This security hole can crash billions of Chromium browsers, and Google hasn't patched it yet ([3 days ago](https://go.theregister.com/feed/www.theregister.com/2025/10/29/brash_dos_attack_crashes_chromium/))
 - EY exposes 4TB+ SQL database to open internet for who knows how long ([3 days ago](https://go.theregister.com/feed/www.theregister.com/2025/10/29/ey_exposes_4tb_sql_database/))
 - Experts Reports Sharp Increase in Automated Botnet Attacks Targeting PHP Servers and IoT Devices ([3 days ago](https://thehackernews.com/2025/10/experts-reports-sharp-increase-in.html))
