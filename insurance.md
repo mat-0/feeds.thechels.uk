@@ -10,7 +10,7 @@ description: Insurance Updates
 <!-- news_marker starts -->
 - Berkshire Hathaway posts $2.4bn Q3’25 underwriting earnings amid strong P&C reinsurance result ([9 hours ago](https://www.reinsurancene.ws/berkshire-hathaway-posts-2-4bn-q325-underwriting-earnings-amid-strong-pc-reinsurance-result/))
 - Latest Results From SCOR: Steady As She Goes ([12 hours ago](https://insurance-edge.net/2025/11/01/latest-results-from-scor-steady-as-she-goes/))
-- Melissa Jamaica Damage Seen Costing Insurers Up to $3 Billion ([22 hours ago](https://www.insurancejournal.com/news/international/2025/10/31/846065.htm))
+- Melissa Jamaica Damage Seen Costing Insurers Up to $3 Billion ([23 hours ago](https://www.insurancejournal.com/news/international/2025/10/31/846065.htm))
 - PHLY Makes Largest Acquisition in Its History With Collector Car Business Expansion ([1 days ago](https://www.insurancejournal.com/news/national/2025/10/31/846041.htm))
 - Insurers in California Must Cough Up More For Climate Change ([1 days ago](https://insurance-edge.net/2025/10/31/insurers-in-california-must-cough-up-more-for-climate-change/))
 - PGM Solutions Expands Home Factors with New Roof and Electrical Insights to Strengthen Carrier Risk Models ([1 days ago](https://www.insurancejournal.com/services/newswire/2025/10/31/845781.htm))
@@ -67,7 +67,7 @@ description: Insurance Updates
 - Gallagher sees 20% Q3 revenue jump ([1 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/gallagher-sees-20-q3-revenue-jump-554956.aspx))
 - AXA L&H revenue grows 7% in 2025 ([1 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/axa-landh-revenue-grows-7-in-2025-554955.aspx))
 - Following acquisitions, Acrisure and MPS announce new appointments ([1 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/following-acquisitions-acrisure-and-mps-announce-new-appointments-554954.aspx))
-- Robert Kelly Steadfast Group CEO “stands aside” as complaint investigated ([1 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/robert-kelly-steadfast-group-ceo-stands-aside-as-complaint-investigated-554942.aspx))
+- Robert Kelly Steadfast Group CEO “stands aside” as complaint investigated ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/robert-kelly-steadfast-group-ceo-stands-aside-as-complaint-investigated-554942.aspx))
 - 70% of fleets don't share telematics data with insurers, SambaSafety ([2 days ago](https://www.dig-in.com/news/sambasafety-most-fleets-dont-share-telematics-data))
 - Empathy and digital efficiency in 2026 ([2 days ago](https://www.dig-in.com/opinion/empathy-and-digital-efficiency-in-2026))
 - Auto insurance customer satisfaction impacted by higher deductibles, J.D. Power ([2 days ago](https://www.dig-in.com/news/auto-customer-satisfaction-impacted-by-higher-deductibles))
