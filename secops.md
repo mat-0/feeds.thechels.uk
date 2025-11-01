@@ -9,11 +9,11 @@ description: SecOps News
 
 <!-- news_marker starts -->
 - Google confirms AI search will have ads, but they may look different ([5 hours ago](https://www.bleepingcomputer.com/news/google/google-confirms-ai-search-will-have-ads-but-they-may-look-different/))
-- Windows 11 Build 26220.7051 released with “Ask Copilot” feature ([5 hours ago](https://www.bleepingcomputer.com/news/microsoft/windows-11-build-262207051-released-with-ask-copilot-feature/))
-- China-linked hackers exploited Lanscope flaw as a zero-day in attacks ([7 hours ago](https://www.bleepingcomputer.com/news/security/china-linked-hackers-exploited-lanscope-flaw-as-a-zero-day-in-attacks/))
+- Windows 11 Build 26220.7051 released with “Ask Copilot” feature ([6 hours ago](https://www.bleepingcomputer.com/news/microsoft/windows-11-build-262207051-released-with-ask-copilot-feature/))
+- China-linked hackers exploited Lanscope flaw as a zero-day in attacks ([8 hours ago](https://www.bleepingcomputer.com/news/security/china-linked-hackers-exploited-lanscope-flaw-as-a-zero-day-in-attacks/))
 - ASD Warns of Ongoing BADCANDY Attacks Exploiting Cisco IOS XE Vulnerability ([8 hours ago](https://thehackernews.com/2025/11/asd-warns-of-ongoing-badcandy-attacks.html))
-- Robotic lawnmower uses AI to dodge cats, toys ([13 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/11/01/robotic_lawnmower_ai/))
-- Incident with using workflow_dispatch for Actions ([15 hours ago](https://www.githubstatus.com/incidents/xkvk1yhmqfdl))
+- Robotic lawnmower uses AI to dodge cats, toys ([14 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/11/01/robotic_lawnmower_ai/))
+- Incident with using workflow_dispatch for Actions ([16 hours ago](https://www.githubstatus.com/incidents/xkvk1yhmqfdl))
 - Windows 11 tests shared Bluetooth audio support, but only for AI PCs ([1 days ago](https://www.bleepingcomputer.com/news/microsoft/windows-11-tests-shared-bluetooth-audio-support-but-only-for-ai-pcs/))
 - AI blew open software security, now OpenAI wants to fix it with an agent called Aardvark ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2025/10/31/openai_aardvark_agentic_security/))
 - Datacenter biz and nuke startup join forces for Texas AI ranch ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2025/10/31/datacenter_biz_and_nuke_startup/))
@@ -188,8 +188,8 @@ description: SecOps News
 - Disruption with GPT-5-mini in Copilot ([18 days ago](https://www.githubstatus.com/incidents/fpbpfb33dw5s))
 - The AI Fix #72: The AI hype train, space data centers, and lifelike robot heads ([18 days ago](https://grahamcluley.com/the-ai-fix-72/))
 - CVE-2025-49844 - The Redis CVSS 10.0 vulnerability and how we responded ([18 days ago](https://scotthelme.ghost.io/cve-2025-49844-the-redis-cvss-10-0-vulnerability-and-how-we-responded/))
-- Maintaining a sustainable strengthened cyber security posture ([18 days ago](https://www.ncsc.gov.uk/guidance/maintaining-a-sustainable-strengthened-cyber-security-posture))
-- Phishing attacks: defending your organisation ([18 days ago](https://www.ncsc.gov.uk/guidance/phishing))
+- Maintaining a sustainable strengthened cyber security posture ([19 days ago](https://www.ncsc.gov.uk/guidance/maintaining-a-sustainable-strengthened-cyber-security-posture))
+- Phishing attacks: defending your organisation ([19 days ago](https://www.ncsc.gov.uk/guidance/phishing))
 - Weekly Update 473 ([20 days ago](https://www.troyhunt.com/weekly-update-473/))
 - Vietnam Airlines - 7,316,915 breached accounts ([21 days ago](https://haveibeenpwned.com/Breach/VietnamAirlines))
 - BreachForums seized, but hackers say they will still leak Salesforce data ([22 days ago](https://www.bitdefender.com/en-us/blog/hotforsecurity/breachforums-seized-hackers-will-leak-salesforce-data))
@@ -209,6 +209,5 @@ description: SecOps News
 - HomeRefill - 187,457 breached accounts ([29 days ago](https://haveibeenpwned.com/Breach/HomeRefill))
 - Incident with Copilot ([29 days ago](https://www.githubstatus.com/incidents/34wtrn4nngwk))
 - Latest Pilot Jobs - 118,864 breached accounts ([29 days ago](https://haveibeenpwned.com/Breach/LatestPilotJobs))
-- Degraded Gemini 2.5 Pro experience in Copilot ([29 days ago](https://www.githubstatus.com/incidents/l94jr9wnhs4r))
 
 <!-- news_marker ends -->
