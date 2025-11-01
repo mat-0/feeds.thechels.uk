@@ -8,8 +8,8 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Berkshire Hathaway posts $2.4bn Q3’25 underwriting earnings amid strong P&C reinsurance result ([3 hours ago](https://www.reinsurancene.ws/berkshire-hathaway-posts-2-4bn-q325-underwriting-earnings-amid-strong-pc-reinsurance-result/))
-- Latest Results From SCOR: Steady As She Goes ([6 hours ago](https://insurance-edge.net/2025/11/01/latest-results-from-scor-steady-as-she-goes/))
+- Berkshire Hathaway posts $2.4bn Q3’25 underwriting earnings amid strong P&C reinsurance result ([4 hours ago](https://www.reinsurancene.ws/berkshire-hathaway-posts-2-4bn-q325-underwriting-earnings-amid-strong-pc-reinsurance-result/))
+- Latest Results From SCOR: Steady As She Goes ([7 hours ago](https://insurance-edge.net/2025/11/01/latest-results-from-scor-steady-as-she-goes/))
 - Melissa Jamaica Damage Seen Costing Insurers Up to $3 Billion ([17 hours ago](https://www.insurancejournal.com/news/international/2025/10/31/846065.htm))
 - PHLY Makes Largest Acquisition in Its History With Collector Car Business Expansion ([20 hours ago](https://www.insurancejournal.com/news/national/2025/10/31/846041.htm))
 - Insurers in California Must Cough Up More For Climate Change ([22 hours ago](https://insurance-edge.net/2025/10/31/insurers-in-california-must-cough-up-more-for-climate-change/))
