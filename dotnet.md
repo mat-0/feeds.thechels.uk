@@ -8,7 +8,7 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Join us at .NET Conf: Dive into the future of development with Visual Studio 2026 - Visual Studio Blog ([18 hours ago](https://dotnetkicks.com/r/733805?url=https://devblogs.microsoft.com/visualstudio/join-us-at-net-conf-dive-into-the-future-of-development-with-visual-studio-2026/))
+- Join us at .NET Conf: Dive into the future of development with Visual Studio 2026 - Visual Studio Blog ([19 hours ago](https://dotnetkicks.com/r/733805?url=https://devblogs.microsoft.com/visualstudio/join-us-at-net-conf-dive-into-the-future-of-development-with-visual-studio-2026/))
 - Visual Studio October Update - new models, memories, planning, and more - Visual Studio Blog ([1 days ago](https://dotnetkicks.com/r/733591?url=https://devblogs.microsoft.com/visualstudio/visual-studio-october-update/))
 - Visual Studio October Update - new models, memories, planning, and more - Visual Studio Blog ([1 days ago](https://dotnetkicks.com/r/733572?url=https://devblogs.microsoft.com/visualstudio/visual-studio-october-update/))
 - Major Azure Front Door Outage Causing Widespread Service Disruptions Across Microsoft 365, Microsoft Azure, And The Azure Portal (October 29, 2025)  -  Build5Nines ([2 days ago](https://dotnetkicks.com/r/733474?url=https://build5nines.com/major-azure-front-door-outage-causing-widespread-service-disruptions-across-microsoft-365-microsoft-azure-and-the-azure-portal-october-29-2025/))
@@ -20,7 +20,7 @@ description: DotNet Updates
 - Introducing Custom Agents for .NET Developers: C# Expert & WinForms Expert ([3 days ago](https://devblogs.microsoft.com/dotnet/introducing-custom-agents-for-dotnet-developers-csharp-expert-winforms-expert/))
 - Understanding the worst .NET vulnerability ever: request smuggling and CVE-2025-55315 ([3 days ago](https://dotnetkicks.com/r/733349?url=https://andrewlock.net/understanding-the-worst-dotnet-vulnerability-request-smuggling-and-cve-2025-55315/))
 - Understanding the worst .NET vulnerability ever: request smuggling and CVE-2025-55315 ([3 days ago](https://andrewlock.net/understanding-the-worst-dotnet-vulnerability-request-smuggling-and-cve-2025-55315/))
-- ReSharper and Rider 2025.2.4: Another Set of Updates Released ([3 days ago](https://blog.jetbrains.com/dotnet/2025/10/28/resharper-and-rider-2025-1-4-2/))
+- ReSharper and Rider 2025.2.4: Another Set of Updates Released ([4 days ago](https://blog.jetbrains.com/dotnet/2025/10/28/resharper-and-rider-2025-1-4-2/))
 - Wolverine 5 and Modular Monoliths ([4 days ago](https://dotnetkicks.com/r/733335?url=https://jeremydmiller.com/2025/10/27/wolverine-5-and-modular-monoliths/))
 - Akka.NET + Kubernetes: Everything You Need to Know ([4 days ago](https://dotnetkicks.com/r/733280?url=https://petabridge.com/blog/akkadotnet-guide-to-kubernetes/))
 - Akka.NET + Kubernetes: Everything You Need to Know ([4 days ago](https://dotnetkicks.com/r/733275?url=https://petabridge.com/blog/akkadotnet-guide-to-kubernetes/))
