@@ -8,8 +8,8 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Berkshire Hathaway posts $2.4bn Q3’25 underwriting earnings amid strong P&C reinsurance result ([5 hours ago](https://www.reinsurancene.ws/berkshire-hathaway-posts-2-4bn-q325-underwriting-earnings-amid-strong-pc-reinsurance-result/))
-- Latest Results From SCOR: Steady As She Goes ([8 hours ago](https://insurance-edge.net/2025/11/01/latest-results-from-scor-steady-as-she-goes/))
+- Berkshire Hathaway posts $2.4bn Q3’25 underwriting earnings amid strong P&C reinsurance result ([6 hours ago](https://www.reinsurancene.ws/berkshire-hathaway-posts-2-4bn-q325-underwriting-earnings-amid-strong-pc-reinsurance-result/))
+- Latest Results From SCOR: Steady As She Goes ([9 hours ago](https://insurance-edge.net/2025/11/01/latest-results-from-scor-steady-as-she-goes/))
 - Melissa Jamaica Damage Seen Costing Insurers Up to $3 Billion ([19 hours ago](https://www.insurancejournal.com/news/international/2025/10/31/846065.htm))
 - PHLY Makes Largest Acquisition in Its History With Collector Car Business Expansion ([22 hours ago](https://www.insurancejournal.com/news/national/2025/10/31/846041.htm))
 - Insurers in California Must Cough Up More For Climate Change ([1 days ago](https://insurance-edge.net/2025/10/31/insurers-in-california-must-cough-up-more-for-climate-change/))
@@ -101,7 +101,7 @@ description: Insurance Updates
 - JLR cyberattack reinforces urgent need for stronger cyber safeguards - report ([2 days ago](https://www.insurancebusinessmag.com/uk/news/cyber/jlr-cyberattack-reinforces-urgent-need-for-stronger-cyber-safeguards--report-554807.aspx))
 - AA Ireland and Abry Partners form alliance to drive growth and innovation ([2 days ago](https://www.insurancebusinessmag.com/uk/news/auto-motor/aa-ireland-and-abry-partners-form-alliance-to-drive-growth-and-innovation-554800.aspx))
 - Home insurers drop California, Florida policies at high rate ([2 days ago](https://www.dig-in.com/news/home-insurance-crisis-deepens-in-florida-california))
-- Insurers embrace AI but try to keep humans in the risk loop ([2 days ago](https://www.dig-in.com/news/insurers-embrace-ai-but-try-to-keep-humans-in-the-risk-loop))
+- Insurers embrace AI but try to keep humans in the risk loop ([3 days ago](https://www.dig-in.com/news/insurers-embrace-ai-but-try-to-keep-humans-in-the-risk-loop))
 - Pyq Launches ‘Mulligan’ Platform to Automate Commercial Insurance Operations ([3 days ago](https://thefintechtimes.com/pyq-launches-mulligan-platform-to-automate-commercial-insurance-operations/))
 - Risk of offering 'best and final' pay deals to candidates ([3 days ago](https://www.insurancebusinessmag.com/uk/business-strategy/risk-of-offering-best-and-final-pay-deals-to-candidates-554768.aspx))
 - Cybersecurity risks and protecting your digital assets ([3 days ago](https://www.dig-in.com/podcast/cybersecurity-risks-and-protecting-your-digital-assets))
