@@ -8,8 +8,8 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Berkshire Hathaway posts $2.4bn Q3’25 underwriting earnings amid strong P&C reinsurance result ([4 hours ago](https://www.reinsurancene.ws/berkshire-hathaway-posts-2-4bn-q325-underwriting-earnings-amid-strong-pc-reinsurance-result/))
-- Latest Results From SCOR: Steady As She Goes ([7 hours ago](https://insurance-edge.net/2025/11/01/latest-results-from-scor-steady-as-she-goes/))
+- Berkshire Hathaway posts $2.4bn Q3’25 underwriting earnings amid strong P&C reinsurance result ([5 hours ago](https://www.reinsurancene.ws/berkshire-hathaway-posts-2-4bn-q325-underwriting-earnings-amid-strong-pc-reinsurance-result/))
+- Latest Results From SCOR: Steady As She Goes ([8 hours ago](https://insurance-edge.net/2025/11/01/latest-results-from-scor-steady-as-she-goes/))
 - Melissa Jamaica Damage Seen Costing Insurers Up to $3 Billion ([18 hours ago](https://www.insurancejournal.com/news/international/2025/10/31/846065.htm))
 - PHLY Makes Largest Acquisition in Its History With Collector Car Business Expansion ([21 hours ago](https://www.insurancejournal.com/news/national/2025/10/31/846041.htm))
 - Insurers in California Must Cough Up More For Climate Change ([23 hours ago](https://insurance-edge.net/2025/10/31/insurers-in-california-must-cough-up-more-for-climate-change/))
@@ -70,8 +70,8 @@ description: Insurance Updates
 - Robert Kelly Steadfast Group CEO “stands aside” as complaint investigated ([1 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/robert-kelly-steadfast-group-ceo-stands-aside-as-complaint-investigated-554942.aspx))
 - 70% of fleets don't share telematics data with insurers, SambaSafety ([1 days ago](https://www.dig-in.com/news/sambasafety-most-fleets-dont-share-telematics-data))
 - Empathy and digital efficiency in 2026 ([1 days ago](https://www.dig-in.com/opinion/empathy-and-digital-efficiency-in-2026))
-- Auto insurance customer satisfaction impacted by higher deductibles, J.D. Power ([1 days ago](https://www.dig-in.com/news/auto-customer-satisfaction-impacted-by-higher-deductibles))
-- Insurers likely to exclude gen AI, startups wait in wings ([1 days ago](https://www.dig-in.com/news/insurers-likely-to-exclude-gen-ai-startups-wait-in-wings))
+- Auto insurance customer satisfaction impacted by higher deductibles, J.D. Power ([2 days ago](https://www.dig-in.com/news/auto-customer-satisfaction-impacted-by-higher-deductibles))
+- Insurers likely to exclude gen AI, startups wait in wings ([2 days ago](https://www.dig-in.com/news/insurers-likely-to-exclude-gen-ai-startups-wait-in-wings))
 - AIG invests in Convex Group ([2 days ago](https://www.postonline.co.uk/news/7959298/aig-invests-in-convex-group))
 - Government launches review into whiplash reforms ([2 days ago](https://www.postonline.co.uk/news/7959297/government-launches-review-into-whiplash-reforms))
 - UK businesses scanned 4000 times a day by hackers ([2 days ago](https://www.postonline.co.uk/commercial/7959296/uk-businesses-scanned-4000-times-a-day-by-hackers))
