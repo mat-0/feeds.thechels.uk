@@ -8,8 +8,8 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Meet the Insurtech: Ocean Ledger ([36 minutes ago](https://www.dig-in.com/news/the-insurtechs-proprietary-algorithms-generate-historical-coastal-data-and-provide-a-current-view-of-coastal-flood-risk-impact-drivers-and-resilience-solutions))
-- How to help consumers understand life insurance ([1 hours ago](https://www.dig-in.com/opinion/how-to-help-consumers-understand-life-insurance))
+- Meet the Insurtech: Ocean Ledger ([1 hours ago](https://www.dig-in.com/news/the-insurtechs-proprietary-algorithms-generate-historical-coastal-data-and-provide-a-current-view-of-coastal-flood-risk-impact-drivers-and-resilience-solutions))
+- How to help consumers understand life insurance ([2 hours ago](https://www.dig-in.com/opinion/how-to-help-consumers-understand-life-insurance))
 - Berkshire Hathaway posts $2.4bn Q3’25 underwriting earnings amid strong P&C reinsurance result ([1 days ago](https://www.reinsurancene.ws/berkshire-hathaway-posts-2-4bn-q325-underwriting-earnings-amid-strong-pc-reinsurance-result/))
 - Latest Results From SCOR: Steady As She Goes ([1 days ago](https://insurance-edge.net/2025/11/01/latest-results-from-scor-steady-as-she-goes/))
 - Melissa Jamaica Damage Seen Costing Insurers Up to $3 Billion ([1 days ago](https://www.insurancejournal.com/news/international/2025/10/31/846065.htm))
