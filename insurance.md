@@ -8,8 +8,8 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Berkshire Hathaway posts $2.4bn Q3’25 underwriting earnings amid strong P&C reinsurance result ([12 hours ago](https://www.reinsurancene.ws/berkshire-hathaway-posts-2-4bn-q325-underwriting-earnings-amid-strong-pc-reinsurance-result/))
-- Latest Results From SCOR: Steady As She Goes ([15 hours ago](https://insurance-edge.net/2025/11/01/latest-results-from-scor-steady-as-she-goes/))
+- Berkshire Hathaway posts $2.4bn Q3’25 underwriting earnings amid strong P&C reinsurance result ([13 hours ago](https://www.reinsurancene.ws/berkshire-hathaway-posts-2-4bn-q325-underwriting-earnings-amid-strong-pc-reinsurance-result/))
+- Latest Results From SCOR: Steady As She Goes ([16 hours ago](https://insurance-edge.net/2025/11/01/latest-results-from-scor-steady-as-she-goes/))
 - Melissa Jamaica Damage Seen Costing Insurers Up to $3 Billion ([1 days ago](https://www.insurancejournal.com/news/international/2025/10/31/846065.htm))
 - PHLY Makes Largest Acquisition in Its History With Collector Car Business Expansion ([1 days ago](https://www.insurancejournal.com/news/national/2025/10/31/846041.htm))
 - Insurers in California Must Cough Up More For Climate Change ([1 days ago](https://insurance-edge.net/2025/10/31/insurers-in-california-must-cough-up-more-for-climate-change/))
@@ -99,7 +99,7 @@ description: Insurance Updates
 - Starr Insurance agrees to acquire IQUW Group ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/starr-insurance-agrees-to-acquire-iquw-group-554811.aspx))
 - Insurance moves: Allianz and AutoRek ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/insurance-moves-allianz-and-autorek-554808.aspx))
 - JLR cyberattack reinforces urgent need for stronger cyber safeguards - report ([2 days ago](https://www.insurancebusinessmag.com/uk/news/cyber/jlr-cyberattack-reinforces-urgent-need-for-stronger-cyber-safeguards--report-554807.aspx))
-- AA Ireland and Abry Partners form alliance to drive growth and innovation ([2 days ago](https://www.insurancebusinessmag.com/uk/news/auto-motor/aa-ireland-and-abry-partners-form-alliance-to-drive-growth-and-innovation-554800.aspx))
+- AA Ireland and Abry Partners form alliance to drive growth and innovation ([3 days ago](https://www.insurancebusinessmag.com/uk/news/auto-motor/aa-ireland-and-abry-partners-form-alliance-to-drive-growth-and-innovation-554800.aspx))
 - Home insurers drop California, Florida policies at high rate ([3 days ago](https://www.dig-in.com/news/home-insurance-crisis-deepens-in-florida-california))
 - Insurers embrace AI but try to keep humans in the risk loop ([3 days ago](https://www.dig-in.com/news/insurers-embrace-ai-but-try-to-keep-humans-in-the-risk-loop))
 - Pyq Launches ‘Mulligan’ Platform to Automate Commercial Insurance Operations ([3 days ago](https://thefintechtimes.com/pyq-launches-mulligan-platform-to-automate-commercial-insurance-operations/))
