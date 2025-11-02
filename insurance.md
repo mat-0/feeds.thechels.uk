@@ -101,7 +101,7 @@ description: Insurance Updates
 - JLR cyberattack reinforces urgent need for stronger cyber safeguards - report ([3 days ago](https://www.insurancebusinessmag.com/uk/news/cyber/jlr-cyberattack-reinforces-urgent-need-for-stronger-cyber-safeguards--report-554807.aspx))
 - AA Ireland and Abry Partners form alliance to drive growth and innovation ([3 days ago](https://www.insurancebusinessmag.com/uk/news/auto-motor/aa-ireland-and-abry-partners-form-alliance-to-drive-growth-and-innovation-554800.aspx))
 - Home insurers drop California, Florida policies at high rate ([3 days ago](https://www.dig-in.com/news/home-insurance-crisis-deepens-in-florida-california))
-- Insurers embrace AI but try to keep humans in the risk loop ([3 days ago](https://www.dig-in.com/news/insurers-embrace-ai-but-try-to-keep-humans-in-the-risk-loop))
+- Insurers embrace AI but try to keep humans in the risk loop ([4 days ago](https://www.dig-in.com/news/insurers-embrace-ai-but-try-to-keep-humans-in-the-risk-loop))
 - Pyq Launches ‘Mulligan’ Platform to Automate Commercial Insurance Operations ([4 days ago](https://thefintechtimes.com/pyq-launches-mulligan-platform-to-automate-commercial-insurance-operations/))
 - Risk of offering 'best and final' pay deals to candidates ([4 days ago](https://www.insurancebusinessmag.com/uk/business-strategy/risk-of-offering-best-and-final-pay-deals-to-candidates-554768.aspx))
 - Cybersecurity risks and protecting your digital assets ([4 days ago](https://www.dig-in.com/podcast/cybersecurity-risks-and-protecting-your-digital-assets))

@@ -97,7 +97,7 @@ description: SecOps News
 - Microsoft gives Windows 11 a fresh Start – here's how to get it ([3 days ago](https://go.theregister.com/feed/www.theregister.com/2025/10/29/microsofts_new_windows_start_menu/))
 - Experiencing connection issues across Actions, Codespaces, and possibly other services ([3 days ago](https://www.githubstatus.com/incidents/4jxdz4m769gy))
 - Disruption with Copilot Bing search tool ([3 days ago](https://www.githubstatus.com/incidents/pch0flk719dj))
-- This security hole can crash billions of Chromium browsers, and Google hasn't patched it yet ([3 days ago](https://go.theregister.com/feed/www.theregister.com/2025/10/29/brash_dos_attack_crashes_chromium/))
+- This security hole can crash billions of Chromium browsers, and Google hasn't patched it yet ([4 days ago](https://go.theregister.com/feed/www.theregister.com/2025/10/29/brash_dos_attack_crashes_chromium/))
 - EY exposes 4TB+ SQL database to open internet for who knows how long ([4 days ago](https://go.theregister.com/feed/www.theregister.com/2025/10/29/ey_exposes_4tb_sql_database/))
 - Experts Reports Sharp Increase in Automated Botnet Attacks Targeting PHP Servers and IoT Devices ([4 days ago](https://thehackernews.com/2025/10/experts-reports-sharp-increase-in.html))
 - New AI-Targeted Cloaking Attack Tricks AI Crawlers Into Citing Fake Info as Verified Facts ([4 days ago](https://thehackernews.com/2025/10/new-ai-targeted-cloaking-attack-tricks.html))
