@@ -9,11 +9,11 @@ description: SecOps News
 
 <!-- news_marker starts -->
 - Google confirms AI search will have ads, but they may look different ([12 hours ago](https://www.bleepingcomputer.com/news/google/google-confirms-ai-search-will-have-ads-but-they-may-look-different/))
-- Windows 11 Build 26220.7051 released with “Ask Copilot” feature ([12 hours ago](https://www.bleepingcomputer.com/news/microsoft/windows-11-build-262207051-released-with-ask-copilot-feature/))
-- China-linked hackers exploited Lanscope flaw as a zero-day in attacks ([14 hours ago](https://www.bleepingcomputer.com/news/security/china-linked-hackers-exploited-lanscope-flaw-as-a-zero-day-in-attacks/))
+- Windows 11 Build 26220.7051 released with “Ask Copilot” feature ([13 hours ago](https://www.bleepingcomputer.com/news/microsoft/windows-11-build-262207051-released-with-ask-copilot-feature/))
+- China-linked hackers exploited Lanscope flaw as a zero-day in attacks ([15 hours ago](https://www.bleepingcomputer.com/news/security/china-linked-hackers-exploited-lanscope-flaw-as-a-zero-day-in-attacks/))
 - ASD Warns of Ongoing BADCANDY Attacks Exploiting Cisco IOS XE Vulnerability ([15 hours ago](https://thehackernews.com/2025/11/asd-warns-of-ongoing-badcandy-attacks.html))
-- Robotic lawnmower uses AI to dodge cats, toys ([20 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/11/01/robotic_lawnmower_ai/))
-- Incident with using workflow_dispatch for Actions ([22 hours ago](https://www.githubstatus.com/incidents/xkvk1yhmqfdl))
+- Robotic lawnmower uses AI to dodge cats, toys ([21 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/11/01/robotic_lawnmower_ai/))
+- Incident with using workflow_dispatch for Actions ([23 hours ago](https://www.githubstatus.com/incidents/xkvk1yhmqfdl))
 - Windows 11 tests shared Bluetooth audio support, but only for AI PCs ([1 days ago](https://www.bleepingcomputer.com/news/microsoft/windows-11-tests-shared-bluetooth-audio-support-but-only-for-ai-pcs/))
 - AI blew open software security, now OpenAI wants to fix it with an agent called Aardvark ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2025/10/31/openai_aardvark_agentic_security/))
 - Datacenter biz and nuke startup join forces for Texas AI ranch ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2025/10/31/datacenter_biz_and_nuke_startup/))
@@ -56,7 +56,7 @@ description: SecOps News
 - NHS left with sick PCs as suppliers resist Windows 11 treatment ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2025/10/31/nhs_windows_11_issues/))
 - NHS left with sick PCs as suppliers resist Windows 11 treatment ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2025/10/31/nhs_windows_11_issues/))
 - CISA Flags VMware Zero-Day Exploited by China-Linked Hackers in Active Attacks ([1 days ago](https://thehackernews.com/2025/10/cisa-flags-vmware-zero-day-exploited-by.html))
-- Europe preps Digital Euro to enter circulation in 2029 ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2025/10/31/digital_euro_approved/))
+- Europe preps Digital Euro to enter circulation in 2029 ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2025/10/31/digital_euro_approved/))
 - A New Security Layer for macOS Takes Aim at Admin Errors Before Hackers Do ([2 days ago](https://thehackernews.com/2025/10/a-new-security-layer-for-macos-takes.html))
 - Disruption with some GitHub services ([2 days ago](https://www.githubstatus.com/incidents/6hygvwpw2vr3))
 - Claude code will send your data to crims ... if they ask it nicely ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2025/10/30/anthropics_claude_private_data/))
@@ -172,7 +172,7 @@ description: SecOps News
 - Codespaces creation failling ([12 days ago](https://www.githubstatus.com/incidents/krd9y2m82fbn))
 - Hundreds of masked ICE agents doxxed by hackers, as personal details posted on Telegram ([12 days ago](https://www.bitdefender.com/en-us/blog/hotforsecurity/hundreds-masked-ice-agents-doxxed-hackers-personal-details-posted-telegram))
 - Weekly Update 474 ([12 days ago](https://www.troyhunt.com/weekly-update-474/))
-- Online Network Forensics Class ([12 days ago](https://www.netresec.com/?page=Blog&month=2025-10&post=Online-Network-Forensics-Class))
+- Online Network Forensics Class ([13 days ago](https://www.netresec.com/?page=Blog&month=2025-10&post=Online-Network-Forensics-Class))
 - CISM vs CISSP: Which Certification is Right for You in 2025 ([15 days ago](https://www.itgovernance.co.uk/blog/cism-vs-cissp-which-certification-is-right-for-you-in-2025))
 - Disruption with push notifications ([15 days ago](https://www.githubstatus.com/incidents/vs7qnzbydz2p))
 - Email Bombs Exploit Lax Authentication in Zendesk ([15 days ago](https://krebsonsecurity.com/2025/10/email-bombs-exploit-lax-authentication-in-zendesk/))
@@ -206,6 +206,5 @@ description: SecOps News
 - Discord users’ data stolen by hackers in third-party data breach ([26 days ago](https://www.bitdefender.com/en-us/blog/hotforsecurity/discord-users-data-stolen-by-hackers-in-third-party-data-breach))
 - Weekly Update 472 ([26 days ago](https://www.troyhunt.com/weekly-update-472/))
 - Artists&Clients - 95,351 breached accounts ([29 days ago](https://haveibeenpwned.com/Breach/ArtistsNClients))
-- HomeRefill - 187,457 breached accounts ([29 days ago](https://haveibeenpwned.com/Breach/HomeRefill))
 
 <!-- news_marker ends -->
