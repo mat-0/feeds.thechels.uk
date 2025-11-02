@@ -8,8 +8,8 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Berkshire Hathaway posts $2.4bn Q3’25 underwriting earnings amid strong P&C reinsurance result ([16 hours ago](https://www.reinsurancene.ws/berkshire-hathaway-posts-2-4bn-q325-underwriting-earnings-amid-strong-pc-reinsurance-result/))
-- Latest Results From SCOR: Steady As She Goes ([19 hours ago](https://insurance-edge.net/2025/11/01/latest-results-from-scor-steady-as-she-goes/))
+- Berkshire Hathaway posts $2.4bn Q3’25 underwriting earnings amid strong P&C reinsurance result ([17 hours ago](https://www.reinsurancene.ws/berkshire-hathaway-posts-2-4bn-q325-underwriting-earnings-amid-strong-pc-reinsurance-result/))
+- Latest Results From SCOR: Steady As She Goes ([20 hours ago](https://insurance-edge.net/2025/11/01/latest-results-from-scor-steady-as-she-goes/))
 - Melissa Jamaica Damage Seen Costing Insurers Up to $3 Billion ([1 days ago](https://www.insurancejournal.com/news/international/2025/10/31/846065.htm))
 - PHLY Makes Largest Acquisition in Its History With Collector Car Business Expansion ([1 days ago](https://www.insurancejournal.com/news/national/2025/10/31/846041.htm))
 - Insurers in California Must Cough Up More For Climate Change ([1 days ago](https://insurance-edge.net/2025/10/31/insurers-in-california-must-cough-up-more-for-climate-change/))
@@ -86,7 +86,7 @@ description: Insurance Updates
 - Amwins Launches Cyber+ to Address SME Cyber Insurance Gaps ([2 days ago](https://www.insurtechinsights.com/amwins-launches-cyber-to-address-sme-cyber-insurance-gaps/))
 - Zurich Launches AI Lab ([2 days ago](https://www.insurtechinsights.com/zurich-launches-ai-lab/))
 - Acrisure Appoints Benjamin Funk as Chief Technology and Chief AI Officer ([2 days ago](https://www.insurtechinsights.com/acrisure-appoints-benjamin-funk-as-chief-technology-and-chief-ai-officer/))
-- AXIS sees combined ratio drop below 90% ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/axis-sees-combined-ratio-drop-below-90-251472.aspx))
+- AXIS sees combined ratio drop below 90% ([3 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/axis-sees-combined-ratio-drop-below-90-251472.aspx))
 - Allianz’s brand director on what’s in a name ([3 days ago](https://www.postonline.co.uk/personal/7959246/allianzs-brand-director-on-whats-in-a-name))
 - Q&A: Mark Miller, Insurevision ([3 days ago](https://www.postonline.co.uk/technology/7958896/qa-mark-miller-insurevision))
 - Throwback Thursday: Axa’s size boast ([3 days ago](https://www.postonline.co.uk/commercial/7956774/throwback-thursday-axas-size-boast))
