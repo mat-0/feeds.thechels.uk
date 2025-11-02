@@ -55,7 +55,7 @@ description: Insurance Updates
 - Satellite Data Reveals Hurricane Melissa Damage in Jamaica ([1 days ago](https://www.insurancejournal.com/news/international/2025/10/31/845893.htm))
 - HW Kaufman plans to establish Lloyd’s vehicle within two years ([1 days ago](https://www.postonline.co.uk/lloydslondon/7959189/hw-kaufman-plans-to-establish-lloyds-vehicle-within-two-years))
 - Swiss Re CEO urges ‘prevention over cure’ for climate risk ([1 days ago](https://www.postonline.co.uk/news/7959300/swiss-re-ceo-urges-prevention-over-cure-for-climate-risk))
-- Hot Weather Is Killing More Than Half a Million People a Year ([1 days ago](https://www.insurancejournal.com/news/international/2025/10/31/845889.htm))
+- Hot Weather Is Killing More Than Half a Million People a Year ([2 days ago](https://www.insurancejournal.com/news/international/2025/10/31/845889.htm))
 - Halloween horror stories haunting insurers ([2 days ago](https://www.postonline.co.uk/regulation/7959179/halloween-horror-stories-haunting-insurers))
 - Penny Black’s Social Diary: Lycetts’ cycling; Aviva’s arancini ([2 days ago](https://www.postonline.co.uk/people/7959105/penny-blacks-social-diary-lycetts-cycling-avivas-arancini))
 - People Moves: Tiesi Joins Canopius as US Head of Financial Lines ([2 days ago](https://www.insurancejournal.com/news/national/2025/10/31/845589.htm))
