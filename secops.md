@@ -8,8 +8,8 @@ description: SecOps News
 [Get this as an RSS feed](/secops.rss)
 
 <!-- news_marker starts -->
-- Alleged Jabber Zeus Coder ‘MrICQ’ in U.S. Custody ([29 minutes ago](https://krebsonsecurity.com/2025/11/alleged-jabber-zeus-coder-mricq-in-u-s-custody/))
-- Fortytwo's decentralized AI has the answer to life, the universe, and everything ([12 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/11/02/fortytwo_dcentralized_ai/))
+- Alleged Jabber Zeus Coder ‘MrICQ’ in U.S. Custody ([57 minutes ago](https://krebsonsecurity.com/2025/11/alleged-jabber-zeus-coder-mricq-in-u-s-custody/))
+- Fortytwo's decentralized AI has the answer to life, the universe, and everything ([13 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/11/02/fortytwo_dcentralized_ai/))
 - Google confirms AI search will have ads, but they may look different ([1 days ago](https://www.bleepingcomputer.com/news/google/google-confirms-ai-search-will-have-ads-but-they-may-look-different/))
 - Windows 11 Build 26220.7051 released with “Ask Copilot” feature ([1 days ago](https://www.bleepingcomputer.com/news/microsoft/windows-11-build-262207051-released-with-ask-copilot-feature/))
 - China-linked hackers exploited Lanscope flaw as a zero-day in attacks ([1 days ago](https://www.bleepingcomputer.com/news/security/china-linked-hackers-exploited-lanscope-flaw-as-a-zero-day-in-attacks/))
@@ -137,7 +137,7 @@ description: SecOps News
 - MyVidster (2025) - 3,864,364 breached accounts ([6 days ago](https://haveibeenpwned.com/Breach/MyVidster2025))
 - [REVIVE-SA-2025-002] Revive Adserver Vulnerability ([7 days ago](https://seclists.org/fulldisclosure/2025/Oct/21))
 - [REVIVE-SA-2025-001] Revive Adserver Vulnerability ([7 days ago](https://seclists.org/fulldisclosure/2025/Oct/20))
-- Weekly Update 475 ([7 days ago](https://www.troyhunt.com/weekly-update-475/))
+- Weekly Update 475 ([8 days ago](https://www.troyhunt.com/weekly-update-475/))
 - githubstatus.com was unavailable UTC 2025 Oct 24 02:55 to 03:13 ([9 days ago](https://www.githubstatus.com/incidents/jkll48jj78zv))
 - git operations over ssh seeing increased latency on github.com ([9 days ago](https://www.githubstatus.com/incidents/n7hf73qtpz2l))
 - Incident with Actions - Larger hosted runners ([10 days ago](https://www.githubstatus.com/incidents/8vql81b3xcgq))

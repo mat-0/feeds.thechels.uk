@@ -8,11 +8,12 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- How to help consumers understand life insurance ([57 minutes ago](https://www.dig-in.com/opinion/how-to-help-consumers-understand-life-insurance))
+- Meet the Insurtech: Ocean Ledger ([5 minutes ago](https://www.dig-in.com/news/the-insurtechs-proprietary-algorithms-generate-historical-coastal-data-and-provide-a-current-view-of-coastal-flood-risk-impact-drivers-and-resilience-solutions))
+- How to help consumers understand life insurance ([1 hours ago](https://www.dig-in.com/opinion/how-to-help-consumers-understand-life-insurance))
 - Berkshire Hathaway posts $2.4bn Q3’25 underwriting earnings amid strong P&C reinsurance result ([1 days ago](https://www.reinsurancene.ws/berkshire-hathaway-posts-2-4bn-q325-underwriting-earnings-amid-strong-pc-reinsurance-result/))
 - Latest Results From SCOR: Steady As She Goes ([1 days ago](https://insurance-edge.net/2025/11/01/latest-results-from-scor-steady-as-she-goes/))
 - Melissa Jamaica Damage Seen Costing Insurers Up to $3 Billion ([1 days ago](https://www.insurancejournal.com/news/international/2025/10/31/846065.htm))
-- PHLY Makes Largest Acquisition in Its History With Collector Car Business Expansion ([1 days ago](https://www.insurancejournal.com/news/national/2025/10/31/846041.htm))
+- PHLY Makes Largest Acquisition in Its History With Collector Car Business Expansion ([2 days ago](https://www.insurancejournal.com/news/national/2025/10/31/846041.htm))
 - Insurers in California Must Cough Up More For Climate Change ([2 days ago](https://insurance-edge.net/2025/10/31/insurers-in-california-must-cough-up-more-for-climate-change/))
 - PGM Solutions Expands Home Factors with New Roof and Electrical Insights to Strengthen Carrier Risk Models ([2 days ago](https://www.insurancejournal.com/services/newswire/2025/10/31/845781.htm))
 - AccuWeather estimates up to $52bn in economic losses from Hurricane Melissa ([2 days ago](https://www.reinsurancene.ws/accuweather-estimates-up-to-52bn-in-economic-losses-from-hurricane-melissa/))
@@ -107,7 +108,6 @@ description: Insurance Updates
 - Risk of offering 'best and final' pay deals to candidates ([4 days ago](https://www.insurancebusinessmag.com/uk/business-strategy/risk-of-offering-best-and-final-pay-deals-to-candidates-554768.aspx))
 - Cybersecurity risks and protecting your digital assets ([4 days ago](https://www.dig-in.com/podcast/cybersecurity-risks-and-protecting-your-digital-assets))
 - Edison's equipment 'likely' to be deemed cause of LA fire, CEO says ([4 days ago](https://www.dig-in.com/articles/edisons-equipment-likely-to-be-deemed-cause-of-la-fire))
-- Hurricane Melissa makes Cuba landfall after lashing Jamaica ([4 days ago](https://www.dig-in.com/articles/hurricane-melissa-makes-cuba-landfall-after-lashing-jamaica))
 - Vitality launches full serious illness cover range on UnderwriteMe ([4 days ago](https://ifamagazine.com/vitality-launches-full-serious-illness-cover-range-on-underwriteme/))
 - Verisk puts Ignite on the market ([4 days ago](https://www.postonline.co.uk/news/7959286/verisk-puts-ignite-on-the-market))
 - From aircraft fuselages to compost toilets: When property risk gets weird ([4 days ago](https://www.insurancebusinessmag.com/uk/news/property-insurance/from-aircraft-fuselages-to-compost-toilets-when-property-risk-gets-weird-554699.aspx))
