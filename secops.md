@@ -8,7 +8,7 @@ description: SecOps News
 [Get this as an RSS feed](/secops.rss)
 
 <!-- news_marker starts -->
-- Google confirms AI search will have ads, but they may look different ([10 hours ago](https://www.bleepingcomputer.com/news/google/google-confirms-ai-search-will-have-ads-but-they-may-look-different/))
+- Google confirms AI search will have ads, but they may look different ([11 hours ago](https://www.bleepingcomputer.com/news/google/google-confirms-ai-search-will-have-ads-but-they-may-look-different/))
 - Windows 11 Build 26220.7051 released with “Ask Copilot” feature ([11 hours ago](https://www.bleepingcomputer.com/news/microsoft/windows-11-build-262207051-released-with-ask-copilot-feature/))
 - China-linked hackers exploited Lanscope flaw as a zero-day in attacks ([13 hours ago](https://www.bleepingcomputer.com/news/security/china-linked-hackers-exploited-lanscope-flaw-as-a-zero-day-in-attacks/))
 - ASD Warns of Ongoing BADCANDY Attacks Exploiting Cisco IOS XE Vulnerability ([14 hours ago](https://thehackernews.com/2025/11/asd-warns-of-ongoing-badcandy-attacks.html))
