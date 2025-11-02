@@ -25,7 +25,7 @@ description: Insurance Updates
 - AM Best Keeps Credit Ratings of NASW Insurance Co. Under Review ([1 days ago](https://www.insurancejournal.com/news/east/2025/10/31/845972.htm))
 - Aon’s Q3 Organic Growth of 7% Outperforms Expectations ([1 days ago](https://www.insurancejournal.com/news/international/2025/10/31/845962.htm))
 - Nippon Life completes acquisition of Resolution Life ([1 days ago](https://www.reinsurancene.ws/nippon-life-completes-acquisition-of-resolution-life/))
-- Hyperscalers a level of opportunity we haven’t seen before: Aon CEO Greg Case ([1 days ago](https://www.reinsurancene.ws/hyperscalers-a-level-of-opportunity-we-havent-seen-before-aon-ceo-greg-case/))
+- Hyperscalers a level of opportunity we haven’t seen before: Aon CEO Greg Case ([2 days ago](https://www.reinsurancene.ws/hyperscalers-a-level-of-opportunity-we-havent-seen-before-aon-ceo-greg-case/))
 - Deal for Nuclear Reactors Raises Safety Concerns ([2 days ago](https://www.insurancejournal.com/news/national/2025/10/31/845968.htm))
 - AM Best places IQUW Re credit ratings under review with positive implications ([2 days ago](https://www.reinsurancene.ws/am-best-places-iquw-re-credit-ratings-under-review-with-positive-implications/))
 - North Carolina Public Adjuster Charged With Embezzling $130,000 Insurance Payment ([2 days ago](https://www.insurancejournal.com/news/southeast/2025/10/31/845970.htm))
