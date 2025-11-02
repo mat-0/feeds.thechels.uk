@@ -8,7 +8,7 @@ description: SecOps News
 [Get this as an RSS feed](/secops.rss)
 
 <!-- news_marker starts -->
-- Fortytwo's decentralized AI has the answer to life, the universe, and everything ([9 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/11/02/fortytwo_dcentralized_ai/))
+- Fortytwo's decentralized AI has the answer to life, the universe, and everything ([10 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/11/02/fortytwo_dcentralized_ai/))
 - Google confirms AI search will have ads, but they may look different ([1 days ago](https://www.bleepingcomputer.com/news/google/google-confirms-ai-search-will-have-ads-but-they-may-look-different/))
 - Windows 11 Build 26220.7051 released with “Ask Copilot” feature ([1 days ago](https://www.bleepingcomputer.com/news/microsoft/windows-11-build-262207051-released-with-ask-copilot-feature/))
 - China-linked hackers exploited Lanscope flaw as a zero-day in attacks ([1 days ago](https://www.bleepingcomputer.com/news/security/china-linked-hackers-exploited-lanscope-flaw-as-a-zero-day-in-attacks/))
@@ -18,7 +18,7 @@ description: SecOps News
 - Windows 11 tests shared Bluetooth audio support, but only for AI PCs ([1 days ago](https://www.bleepingcomputer.com/news/microsoft/windows-11-tests-shared-bluetooth-audio-support-but-only-for-ai-pcs/))
 - AI blew open software security, now OpenAI wants to fix it with an agent called Aardvark ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2025/10/31/openai_aardvark_agentic_security/))
 - Datacenter biz and nuke startup join forces for Texas AI ranch ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2025/10/31/datacenter_biz_and_nuke_startup/))
-- ‘We got hacked’ emails threaten to leak University of Pennsylvania data ([1 days ago](https://www.bleepingcomputer.com/news/security/offensive-we-got-hacked-emails-sent-in-penn-security-incident/))
+- ‘We got hacked’ emails threaten to leak University of Pennsylvania data ([2 days ago](https://www.bleepingcomputer.com/news/security/offensive-we-got-hacked-emails-sent-in-penn-security-incident/))
 - OpenAI Unveils Aardvark: GPT-5 Agent That Finds and Fixes Code Flaws Automatically ([2 days ago](https://thehackernews.com/2025/10/openai-unveils-aardvark-gpt-5-agent.html))
 - Microsoft Edge gets scareware sensor for faster scam detection ([2 days ago](https://www.bleepingcomputer.com/news/microsoft/microsoft-edge-gets-scareware-sensor-for-faster-scam-detection/))
 - YouTube's AI moderator pulls Windows 11 workaround videos, calls them dangerous ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2025/10/31/ai_moderation_youtube_windows11_workaround/))
@@ -154,8 +154,8 @@ description: SecOps News
 - Bombay High Court Orders Department of Telecommunications to Block Medusa Accounts After Generali Insurance Data Breach ([11 days ago](https://databreaches.net/2025/10/22/bombay-high-court-orders-department-of-telecommunications-to-block-medusa-accounts-after-generali-insurance-data-breach/?pk_campaign=feed&pk_kwd=bombay-high-court-orders-department-of-telecommunications-to-block-medusa-accounts-after-generali-insurance-data-breach))
 - Inside the Synthient Threat Data ([11 days ago](https://www.troyhunt.com/inside-the-synthient-threat-data/))
 - Synthient Stealer Log Threat Data - 182,962,095 breached accounts ([11 days ago](https://haveibeenpwned.com/Breach/SynthientStealerLogThreatData))
-- SEC Consult SA-20251021-0 :: Multiple Vulnerabilities in EfficientLab WorkExaminer Professional (CVE-2025-10639, CVE-2025-10640, CVE-2025-10641) ([11 days ago](https://seclists.org/fulldisclosure/2025/Oct/19))
-- [SYSS-2025-017]: Verbatim Store 'n' Go Secure Portable HDD (security update v1.0.0.6) - Offline brute-force attack ([11 days ago](https://seclists.org/fulldisclosure/2025/Oct/18))
+- SEC Consult SA-20251021-0 :: Multiple Vulnerabilities in EfficientLab WorkExaminer Professional (CVE-2025-10639, CVE-2025-10640, CVE-2025-10641) ([12 days ago](https://seclists.org/fulldisclosure/2025/Oct/19))
+- [SYSS-2025-017]: Verbatim Store 'n' Go Secure Portable HDD (security update v1.0.0.6) - Offline brute-force attack ([12 days ago](https://seclists.org/fulldisclosure/2025/Oct/18))
 - Disruption with some GitHub services ([12 days ago](https://www.githubstatus.com/incidents/v61nk2fpysnq))
 - AWS Outage: A Supply-Chain Security Lesson ([12 days ago](https://www.itgovernance.co.uk/blog/aws-outage-a-supply-chain-security-lesson))
 - The AI Fix #73: Google Gemini is a gambling addict, and how to poison an AI ([12 days ago](https://grahamcluley.com/the-ai-fix-73/))
