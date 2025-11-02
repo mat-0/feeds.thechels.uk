@@ -13,7 +13,7 @@ description: Insurance Updates
 - Melissa Jamaica Damage Seen Costing Insurers Up to $3 Billion ([1 days ago](https://www.insurancejournal.com/news/international/2025/10/31/846065.htm))
 - PHLY Makes Largest Acquisition in Its History With Collector Car Business Expansion ([1 days ago](https://www.insurancejournal.com/news/national/2025/10/31/846041.htm))
 - Insurers in California Must Cough Up More For Climate Change ([1 days ago](https://insurance-edge.net/2025/10/31/insurers-in-california-must-cough-up-more-for-climate-change/))
-- PGM Solutions Expands Home Factors with New Roof and Electrical Insights to Strengthen Carrier Risk Models ([1 days ago](https://www.insurancejournal.com/services/newswire/2025/10/31/845781.htm))
+- PGM Solutions Expands Home Factors with New Roof and Electrical Insights to Strengthen Carrier Risk Models ([2 days ago](https://www.insurancejournal.com/services/newswire/2025/10/31/845781.htm))
 - AccuWeather estimates up to $52bn in economic losses from Hurricane Melissa ([2 days ago](https://www.reinsurancene.ws/accuweather-estimates-up-to-52bn-in-economic-losses-from-hurricane-melissa/))
 - Detroit to Pay Nearly $6M in Death Connected to Bus Driver with Many Crashes ([2 days ago](https://www.insurancejournal.com/blogs/cincinnati-insurance-company/2025/10/31/846007.htm))
 - SCOR sees opportunities to grow in US cat at 1/1: Jean-Paul Conoscente ([2 days ago](https://www.reinsurancene.ws/scor-sees-opportunities-to-grow-in-us-cat-at-1-1-jean-paul-conoscente/))
