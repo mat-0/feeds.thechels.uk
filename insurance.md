@@ -8,7 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Berkshire Hathaway posts $2.4bn Q3’25 underwriting earnings amid strong P&C reinsurance result ([13 hours ago](https://www.reinsurancene.ws/berkshire-hathaway-posts-2-4bn-q325-underwriting-earnings-amid-strong-pc-reinsurance-result/))
+- Berkshire Hathaway posts $2.4bn Q3’25 underwriting earnings amid strong P&C reinsurance result ([14 hours ago](https://www.reinsurancene.ws/berkshire-hathaway-posts-2-4bn-q325-underwriting-earnings-amid-strong-pc-reinsurance-result/))
 - Latest Results From SCOR: Steady As She Goes ([16 hours ago](https://insurance-edge.net/2025/11/01/latest-results-from-scor-steady-as-she-goes/))
 - Melissa Jamaica Damage Seen Costing Insurers Up to $3 Billion ([1 days ago](https://www.insurancejournal.com/news/international/2025/10/31/846065.htm))
 - PHLY Makes Largest Acquisition in Its History With Collector Car Business Expansion ([1 days ago](https://www.insurancejournal.com/news/national/2025/10/31/846041.htm))
@@ -131,7 +131,7 @@ description: Insurance Updates
 - Gretel launches e-trace to help insurers shift from reactive tracing to proactive reconnection ([8 days ago](https://ifamagazine.com/gretel-launches-e-trace-to-help-insurers-shift-from-reactive-tracing-to-proactive-customer-reconnection/))
 - From payout to prevention: how insurers can change the cancer story ([10 days ago](https://ifamagazine.com/from-payout-to-prevention-how-insurers-can-change-the-cancer-story/))
 - Behind the Idea: Policybazaar ([16 days ago](https://thefintechtimes.com/behind-the-idea-policybazaar/))
-- Asia Insurance Goes Live with CoverGo Platform to Digitise Health Insurance ([22 days ago](https://thefintechtimes.com/asia-insurance-goes-live-with-covergo-platform-to-digitise-health-insurance/))
-- Igloo Boosts Climate Resilience Across Southeast Asia with Data-Driven Insurance Solutions ([24 days ago](https://thefintechtimes.com/igloo-boosts-climate-resilience-across-southeast-asia-with-data-driven-insurance-solutions/))
+- Asia Insurance Goes Live with CoverGo Platform to Digitise Health Insurance ([23 days ago](https://thefintechtimes.com/asia-insurance-goes-live-with-covergo-platform-to-digitise-health-insurance/))
+- Igloo Boosts Climate Resilience Across Southeast Asia with Data-Driven Insurance Solutions ([25 days ago](https://thefintechtimes.com/igloo-boosts-climate-resilience-across-southeast-asia-with-data-driven-insurance-solutions/))
 
 <!-- news_marker ends -->
