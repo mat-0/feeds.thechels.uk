@@ -8,7 +8,7 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Defensive Programming Rule #2: Always Validate Method Parameters ([9 minutes ago](https://dotnettips.wordpress.com/2025/11/02/defensive-programming-rule-2-always-validate-method-parameters/))
+- Defensive Programming Rule #2: Always Validate Method Parameters ([41 minutes ago](https://dotnettips.wordpress.com/2025/11/02/defensive-programming-rule-2-always-validate-method-parameters/))
 - Join us at .NET Conf: Dive into the future of development with Visual Studio 2026 - Visual Studio Blog ([1 days ago](https://dotnetkicks.com/r/733805?url=https://devblogs.microsoft.com/visualstudio/join-us-at-net-conf-dive-into-the-future-of-development-with-visual-studio-2026/))
 - Visual Studio October Update - new models, memories, planning, and more - Visual Studio Blog ([2 days ago](https://dotnetkicks.com/r/733591?url=https://devblogs.microsoft.com/visualstudio/visual-studio-october-update/))
 - Visual Studio October Update - new models, memories, planning, and more - Visual Studio Blog ([2 days ago](https://dotnetkicks.com/r/733572?url=https://devblogs.microsoft.com/visualstudio/visual-studio-october-update/))

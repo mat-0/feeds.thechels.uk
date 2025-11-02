@@ -9,11 +9,11 @@ description: SecOps News
 
 <!-- news_marker starts -->
 - Google confirms AI search will have ads, but they may look different ([13 hours ago](https://www.bleepingcomputer.com/news/google/google-confirms-ai-search-will-have-ads-but-they-may-look-different/))
-- Windows 11 Build 26220.7051 released with “Ask Copilot” feature ([13 hours ago](https://www.bleepingcomputer.com/news/microsoft/windows-11-build-262207051-released-with-ask-copilot-feature/))
-- China-linked hackers exploited Lanscope flaw as a zero-day in attacks ([15 hours ago](https://www.bleepingcomputer.com/news/security/china-linked-hackers-exploited-lanscope-flaw-as-a-zero-day-in-attacks/))
+- Windows 11 Build 26220.7051 released with “Ask Copilot” feature ([14 hours ago](https://www.bleepingcomputer.com/news/microsoft/windows-11-build-262207051-released-with-ask-copilot-feature/))
+- China-linked hackers exploited Lanscope flaw as a zero-day in attacks ([16 hours ago](https://www.bleepingcomputer.com/news/security/china-linked-hackers-exploited-lanscope-flaw-as-a-zero-day-in-attacks/))
 - ASD Warns of Ongoing BADCANDY Attacks Exploiting Cisco IOS XE Vulnerability ([16 hours ago](https://thehackernews.com/2025/11/asd-warns-of-ongoing-badcandy-attacks.html))
-- Robotic lawnmower uses AI to dodge cats, toys ([21 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/11/01/robotic_lawnmower_ai/))
-- Incident with using workflow_dispatch for Actions ([23 hours ago](https://www.githubstatus.com/incidents/xkvk1yhmqfdl))
+- Robotic lawnmower uses AI to dodge cats, toys ([22 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/11/01/robotic_lawnmower_ai/))
+- Incident with using workflow_dispatch for Actions ([1 days ago](https://www.githubstatus.com/incidents/xkvk1yhmqfdl))
 - Windows 11 tests shared Bluetooth audio support, but only for AI PCs ([1 days ago](https://www.bleepingcomputer.com/news/microsoft/windows-11-tests-shared-bluetooth-audio-support-but-only-for-ai-pcs/))
 - AI blew open software security, now OpenAI wants to fix it with an agent called Aardvark ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2025/10/31/openai_aardvark_agentic_security/))
 - Datacenter biz and nuke startup join forces for Texas AI ranch ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2025/10/31/datacenter_biz_and_nuke_startup/))
@@ -204,7 +204,7 @@ description: SecOps News
 - The AI Fix #71: Hacked robots and power-hungry AI ([25 days ago](https://grahamcluley.com/the-ai-fix-71/))
 - Adpost - 3,339,512 breached accounts ([26 days ago](https://haveibeenpwned.com/Breach/Adpost))
 - Discord users’ data stolen by hackers in third-party data breach ([26 days ago](https://www.bitdefender.com/en-us/blog/hotforsecurity/discord-users-data-stolen-by-hackers-in-third-party-data-breach))
-- Weekly Update 472 ([26 days ago](https://www.troyhunt.com/weekly-update-472/))
+- Weekly Update 472 ([27 days ago](https://www.troyhunt.com/weekly-update-472/))
 - Artists&Clients - 95,351 breached accounts ([29 days ago](https://haveibeenpwned.com/Breach/ArtistsNClients))
 
 <!-- news_marker ends -->
