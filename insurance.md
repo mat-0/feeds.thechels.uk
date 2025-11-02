@@ -8,6 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
+- How to help consumers understand life insurance ([26 minutes ago](https://www.dig-in.com/opinion/how-to-help-consumers-understand-life-insurance))
 - Berkshire Hathaway posts $2.4bn Q3’25 underwriting earnings amid strong P&C reinsurance result ([1 days ago](https://www.reinsurancene.ws/berkshire-hathaway-posts-2-4bn-q325-underwriting-earnings-amid-strong-pc-reinsurance-result/))
 - Latest Results From SCOR: Steady As She Goes ([1 days ago](https://insurance-edge.net/2025/11/01/latest-results-from-scor-steady-as-she-goes/))
 - Melissa Jamaica Damage Seen Costing Insurers Up to $3 Billion ([1 days ago](https://www.insurancejournal.com/news/international/2025/10/31/846065.htm))
@@ -68,7 +69,7 @@ description: Insurance Updates
 - AXA L&H revenue grows 7% in 2025 ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/axa-landh-revenue-grows-7-in-2025-554955.aspx))
 - Following acquisitions, Acrisure and MPS announce new appointments ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/following-acquisitions-acrisure-and-mps-announce-new-appointments-554954.aspx))
 - Robert Kelly Steadfast Group CEO “stands aside” as complaint investigated ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/robert-kelly-steadfast-group-ceo-stands-aside-as-complaint-investigated-554942.aspx))
-- 70% of fleets don't share telematics data with insurers, SambaSafety ([2 days ago](https://www.dig-in.com/news/sambasafety-most-fleets-dont-share-telematics-data))
+- 70% of fleets don't share telematics data with insurers, SambaSafety ([3 days ago](https://www.dig-in.com/news/sambasafety-most-fleets-dont-share-telematics-data))
 - Empathy and digital efficiency in 2026 ([3 days ago](https://www.dig-in.com/opinion/empathy-and-digital-efficiency-in-2026))
 - Auto insurance customer satisfaction impacted by higher deductibles, J.D. Power ([3 days ago](https://www.dig-in.com/news/auto-customer-satisfaction-impacted-by-higher-deductibles))
 - Insurers likely to exclude gen AI, startups wait in wings ([3 days ago](https://www.dig-in.com/news/insurers-likely-to-exclude-gen-ai-startups-wait-in-wings))
@@ -116,7 +117,6 @@ description: Insurance Updates
 - Space congestion pushes insurers towards a new frontier ([4 days ago](https://www.postonline.co.uk/commercial/7958974/space-congestion-pushes-insurers-towards-a-new-frontier))
 - Growing regulatory spotlight on model risk management ([4 days ago](https://www.postonline.co.uk/risk-management/7958994/growing-regulatory-spotlight-on-model-risk-management))
 - Providing cover for construction ([4 days ago](https://www.postonline.co.uk/commercial/7959042/providing-cover-for-construction))
-- Tech transition advice during M&A ([5 days ago](https://www.dig-in.com/news/tech-transition-advice-during-m-a))
 - Aviva Ventures Completes Strategic Investment in Indico Data to Accelerate AI-Driven Insurance Automation ([5 days ago](https://www.insurtechinsights.com/aviva-ventures-completes-strategic-investment-in-indico-data-to-accelerate-ai-driven-insurance-automation/))
 - Guidewire to Acquire ProNavigator ([5 days ago](https://www.insurtechinsights.com/guidewire-to-acquire-pronavigator/))
 - Ryan Specialty to Acquire Stewart Specialty Risk Underwriting ([5 days ago](https://www.insurtechinsights.com/ryan-specialty-to-acquire-stewart-specialty-risk-underwriting/))

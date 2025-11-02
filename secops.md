@@ -8,7 +8,7 @@ description: SecOps News
 [Get this as an RSS feed](/secops.rss)
 
 <!-- news_marker starts -->
-- Fortytwo's decentralized AI has the answer to life, the universe, and everything ([11 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/11/02/fortytwo_dcentralized_ai/))
+- Fortytwo's decentralized AI has the answer to life, the universe, and everything ([12 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/11/02/fortytwo_dcentralized_ai/))
 - Google confirms AI search will have ads, but they may look different ([1 days ago](https://www.bleepingcomputer.com/news/google/google-confirms-ai-search-will-have-ads-but-they-may-look-different/))
 - Windows 11 Build 26220.7051 released with “Ask Copilot” feature ([1 days ago](https://www.bleepingcomputer.com/news/microsoft/windows-11-build-262207051-released-with-ask-copilot-feature/))
 - China-linked hackers exploited Lanscope flaw as a zero-day in attacks ([1 days ago](https://www.bleepingcomputer.com/news/security/china-linked-hackers-exploited-lanscope-flaw-as-a-zero-day-in-attacks/))
@@ -139,7 +139,7 @@ description: SecOps News
 - Weekly Update 475 ([7 days ago](https://www.troyhunt.com/weekly-update-475/))
 - githubstatus.com was unavailable UTC 2025 Oct 24 02:55 to 03:13 ([9 days ago](https://www.githubstatus.com/incidents/jkll48jj78zv))
 - git operations over ssh seeing increased latency on github.com ([9 days ago](https://www.githubstatus.com/incidents/n7hf73qtpz2l))
-- Incident with Actions - Larger hosted runners ([9 days ago](https://www.githubstatus.com/incidents/8vql81b3xcgq))
+- Incident with Actions - Larger hosted runners ([10 days ago](https://www.githubstatus.com/incidents/8vql81b3xcgq))
 - Kaufman County’s data breach was their second one in three weeks ([10 days ago](https://databreaches.net/2025/10/23/kaufman-countys-data-breach-was-their-second-one-in-three-weeks/?pk_campaign=feed&pk_kwd=kaufman-countys-data-breach-was-their-second-one-in-three-weeks))
 - Hacking Formula 1: Accessing Max Verstappen’s passport and PII through FIA bugs ([10 days ago](https://databreaches.net/2025/10/22/hacking-formula-1-accessing-max-verstappens-passport-and-pii-through-fia-bugs/?pk_campaign=feed&pk_kwd=hacking-formula-1-accessing-max-verstappens-passport-and-pii-through-fia-bugs))
 - Smashing Security podcast #440: How to hack a prison, and the hidden threat of online checkouts ([10 days ago](https://grahamcluley.com/smashing-security-podcast-440/))
