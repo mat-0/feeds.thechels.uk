@@ -8,10 +8,10 @@ description: SecOps News
 [Get this as an RSS feed](/secops.rss)
 
 <!-- news_marker starts -->
-- Google confirms AI search will have ads, but they may look different ([11 hours ago](https://www.bleepingcomputer.com/news/google/google-confirms-ai-search-will-have-ads-but-they-may-look-different/))
+- Google confirms AI search will have ads, but they may look different ([12 hours ago](https://www.bleepingcomputer.com/news/google/google-confirms-ai-search-will-have-ads-but-they-may-look-different/))
 - Windows 11 Build 26220.7051 released with “Ask Copilot” feature ([12 hours ago](https://www.bleepingcomputer.com/news/microsoft/windows-11-build-262207051-released-with-ask-copilot-feature/))
 - China-linked hackers exploited Lanscope flaw as a zero-day in attacks ([14 hours ago](https://www.bleepingcomputer.com/news/security/china-linked-hackers-exploited-lanscope-flaw-as-a-zero-day-in-attacks/))
-- ASD Warns of Ongoing BADCANDY Attacks Exploiting Cisco IOS XE Vulnerability ([14 hours ago](https://thehackernews.com/2025/11/asd-warns-of-ongoing-badcandy-attacks.html))
+- ASD Warns of Ongoing BADCANDY Attacks Exploiting Cisco IOS XE Vulnerability ([15 hours ago](https://thehackernews.com/2025/11/asd-warns-of-ongoing-badcandy-attacks.html))
 - Robotic lawnmower uses AI to dodge cats, toys ([20 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/11/01/robotic_lawnmower_ai/))
 - Incident with using workflow_dispatch for Actions ([22 hours ago](https://www.githubstatus.com/incidents/xkvk1yhmqfdl))
 - Windows 11 tests shared Bluetooth audio support, but only for AI PCs ([1 days ago](https://www.bleepingcomputer.com/news/microsoft/windows-11-tests-shared-bluetooth-audio-support-but-only-for-ai-pcs/))
@@ -86,7 +86,7 @@ description: SecOps News
 - PhantomRaven Malware Found in 126 npm Packages Stealing GitHub Tokens From Devs ([2 days ago](https://thehackernews.com/2025/10/phantomraven-malware-found-in-126-npm.html))
 - France jacks into the Matrix for state messaging – and pays too ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2025/10/30/france_matrix/))
 - LinkedIn gives you until Monday to stop AI from training on your profile ([2 days ago](https://www.bitdefender.com/en-us/blog/hotforsecurity/linkedin-gives-you-until-monday-to-stop-ai-from-training-on-your-profile))
-- Samsung picks fights with Google and Qualcomm ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2025/10/30/samsung_q3_2025/))
+- Samsung picks fights with Google and Qualcomm ([3 days ago](https://go.theregister.com/feed/www.theregister.com/2025/10/30/samsung_q3_2025/))
 - AI is making Google and Meta even stronger and richer ([3 days ago](https://go.theregister.com/feed/www.theregister.com/2025/10/30/meta_alphabet_q3_2025/))
 - SEC Consult SA-20251029-0 :: Unprotected NFC card manipulation leading to free top-up in GiroWeb Cashless Catering Solutions (only legacy customer infrastructure) ([3 days ago](https://seclists.org/fulldisclosure/2025/Oct/32))
 - Re: [FD]	: "Glass Cage" – Zero-Click iMessage → Persistent iOS Compromise + Bricking (CVE-2025-24085 / 24201, CNVD-2025-07885) ([3 days ago](https://seclists.org/fulldisclosure/2025/Oct/31))

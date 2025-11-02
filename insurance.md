@@ -8,8 +8,8 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Berkshire Hathaway posts $2.4bn Q3’25 underwriting earnings amid strong P&C reinsurance result ([14 hours ago](https://www.reinsurancene.ws/berkshire-hathaway-posts-2-4bn-q325-underwriting-earnings-amid-strong-pc-reinsurance-result/))
-- Latest Results From SCOR: Steady As She Goes ([17 hours ago](https://insurance-edge.net/2025/11/01/latest-results-from-scor-steady-as-she-goes/))
+- Berkshire Hathaway posts $2.4bn Q3’25 underwriting earnings amid strong P&C reinsurance result ([15 hours ago](https://www.reinsurancene.ws/berkshire-hathaway-posts-2-4bn-q325-underwriting-earnings-amid-strong-pc-reinsurance-result/))
+- Latest Results From SCOR: Steady As She Goes ([18 hours ago](https://insurance-edge.net/2025/11/01/latest-results-from-scor-steady-as-she-goes/))
 - Melissa Jamaica Damage Seen Costing Insurers Up to $3 Billion ([1 days ago](https://www.insurancejournal.com/news/international/2025/10/31/846065.htm))
 - PHLY Makes Largest Acquisition in Its History With Collector Car Business Expansion ([1 days ago](https://www.insurancejournal.com/news/national/2025/10/31/846041.htm))
 - Insurers in California Must Cough Up More For Climate Change ([1 days ago](https://insurance-edge.net/2025/10/31/insurers-in-california-must-cough-up-more-for-climate-change/))
@@ -93,9 +93,9 @@ description: Insurance Updates
 - Rise in complex stress claims puts UK employers and insurers on alert ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/rise-in-complex-stress-claims-puts-uk-employers-and-insurers-on-alert-554746.aspx))
 - MAIN Mortgage & Insurance Needs celebrates 20 years of growth, grit, and community roots ([2 days ago](https://www.insurancebusinessmag.com/uk/news/property-insurance/main-mortgage-and-insurance-needs-celebrates-20-years-of-growth-grit-and-community-roots-554862.aspx))
 - Tokio Marine and Northcourt launch fusion insurance facility ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/tokio-marine-and-northcourt-launch-fusion-insurance-facility-554861.aspx))
-- Report shows new era of everyday healthcare access ([2 days ago](https://www.insurancebusinessmag.com/uk/news/life-insurance/report-shows-new-era-of-everyday-healthcare-access-554860.aspx))
-- Markel Group's insurance segment posts strong Q3 underwriting gains ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/markel-groups-insurance-segment-posts-strong-q3-underwriting-gains-554852.aspx))
-- FCA data reveals deep divide in insurance product value ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/fca-data-reveals-deep-divide-in-insurance-product-value-554803.aspx))
+- Report shows new era of everyday healthcare access ([3 days ago](https://www.insurancebusinessmag.com/uk/news/life-insurance/report-shows-new-era-of-everyday-healthcare-access-554860.aspx))
+- Markel Group's insurance segment posts strong Q3 underwriting gains ([3 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/markel-groups-insurance-segment-posts-strong-q3-underwriting-gains-554852.aspx))
+- FCA data reveals deep divide in insurance product value ([3 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/fca-data-reveals-deep-divide-in-insurance-product-value-554803.aspx))
 - Starr Insurance agrees to acquire IQUW Group ([3 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/starr-insurance-agrees-to-acquire-iquw-group-554811.aspx))
 - Insurance moves: Allianz and AutoRek ([3 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/insurance-moves-allianz-and-autorek-554808.aspx))
 - JLR cyberattack reinforces urgent need for stronger cyber safeguards - report ([3 days ago](https://www.insurancebusinessmag.com/uk/news/cyber/jlr-cyberattack-reinforces-urgent-need-for-stronger-cyber-safeguards--report-554807.aspx))
