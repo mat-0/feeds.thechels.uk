@@ -8,10 +8,10 @@ description: SecOps News
 [Get this as an RSS feed](/secops.rss)
 
 <!-- news_marker starts -->
-- Google confirms AI search will have ads, but they may look different ([12 hours ago](https://www.bleepingcomputer.com/news/google/google-confirms-ai-search-will-have-ads-but-they-may-look-different/))
+- Google confirms AI search will have ads, but they may look different ([13 hours ago](https://www.bleepingcomputer.com/news/google/google-confirms-ai-search-will-have-ads-but-they-may-look-different/))
 - Windows 11 Build 26220.7051 released with “Ask Copilot” feature ([13 hours ago](https://www.bleepingcomputer.com/news/microsoft/windows-11-build-262207051-released-with-ask-copilot-feature/))
 - China-linked hackers exploited Lanscope flaw as a zero-day in attacks ([15 hours ago](https://www.bleepingcomputer.com/news/security/china-linked-hackers-exploited-lanscope-flaw-as-a-zero-day-in-attacks/))
-- ASD Warns of Ongoing BADCANDY Attacks Exploiting Cisco IOS XE Vulnerability ([15 hours ago](https://thehackernews.com/2025/11/asd-warns-of-ongoing-badcandy-attacks.html))
+- ASD Warns of Ongoing BADCANDY Attacks Exploiting Cisco IOS XE Vulnerability ([16 hours ago](https://thehackernews.com/2025/11/asd-warns-of-ongoing-badcandy-attacks.html))
 - Robotic lawnmower uses AI to dodge cats, toys ([21 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/11/01/robotic_lawnmower_ai/))
 - Incident with using workflow_dispatch for Actions ([23 hours ago](https://www.githubstatus.com/incidents/xkvk1yhmqfdl))
 - Windows 11 tests shared Bluetooth audio support, but only for AI PCs ([1 days ago](https://www.bleepingcomputer.com/news/microsoft/windows-11-tests-shared-bluetooth-audio-support-but-only-for-ai-pcs/))
