@@ -8,7 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- How to help consumers understand life insurance ([26 minutes ago](https://www.dig-in.com/opinion/how-to-help-consumers-understand-life-insurance))
+- How to help consumers understand life insurance ([57 minutes ago](https://www.dig-in.com/opinion/how-to-help-consumers-understand-life-insurance))
 - Berkshire Hathaway posts $2.4bn Q3’25 underwriting earnings amid strong P&C reinsurance result ([1 days ago](https://www.reinsurancene.ws/berkshire-hathaway-posts-2-4bn-q325-underwriting-earnings-amid-strong-pc-reinsurance-result/))
 - Latest Results From SCOR: Steady As She Goes ([1 days ago](https://insurance-edge.net/2025/11/01/latest-results-from-scor-steady-as-she-goes/))
 - Melissa Jamaica Damage Seen Costing Insurers Up to $3 Billion ([1 days ago](https://www.insurancejournal.com/news/international/2025/10/31/846065.htm))
@@ -101,7 +101,7 @@ description: Insurance Updates
 - Insurance moves: Allianz and AutoRek ([3 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/insurance-moves-allianz-and-autorek-554808.aspx))
 - JLR cyberattack reinforces urgent need for stronger cyber safeguards - report ([3 days ago](https://www.insurancebusinessmag.com/uk/news/cyber/jlr-cyberattack-reinforces-urgent-need-for-stronger-cyber-safeguards--report-554807.aspx))
 - AA Ireland and Abry Partners form alliance to drive growth and innovation ([3 days ago](https://www.insurancebusinessmag.com/uk/news/auto-motor/aa-ireland-and-abry-partners-form-alliance-to-drive-growth-and-innovation-554800.aspx))
-- Home insurers drop California, Florida policies at high rate ([3 days ago](https://www.dig-in.com/news/home-insurance-crisis-deepens-in-florida-california))
+- Home insurers drop California, Florida policies at high rate ([4 days ago](https://www.dig-in.com/news/home-insurance-crisis-deepens-in-florida-california))
 - Insurers embrace AI but try to keep humans in the risk loop ([4 days ago](https://www.dig-in.com/news/insurers-embrace-ai-but-try-to-keep-humans-in-the-risk-loop))
 - Pyq Launches ‘Mulligan’ Platform to Automate Commercial Insurance Operations ([4 days ago](https://thefintechtimes.com/pyq-launches-mulligan-platform-to-automate-commercial-insurance-operations/))
 - Risk of offering 'best and final' pay deals to candidates ([4 days ago](https://www.insurancebusinessmag.com/uk/business-strategy/risk-of-offering-best-and-final-pay-deals-to-candidates-554768.aspx))
