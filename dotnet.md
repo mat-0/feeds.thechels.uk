@@ -8,7 +8,7 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Defensive Programming Rule #2: Always Validate Method Parameters ([20 hours ago](https://dotnettips.wordpress.com/2025/11/02/defensive-programming-rule-2-always-validate-method-parameters/))
+- Defensive Programming Rule #2: Always Validate Method Parameters ([21 hours ago](https://dotnettips.wordpress.com/2025/11/02/defensive-programming-rule-2-always-validate-method-parameters/))
 - Join us at .NET Conf: Dive into the future of development with Visual Studio 2026 - Visual Studio Blog ([2 days ago](https://dotnetkicks.com/r/733805?url=https://devblogs.microsoft.com/visualstudio/join-us-at-net-conf-dive-into-the-future-of-development-with-visual-studio-2026/))
 - Visual Studio October Update - new models, memories, planning, and more - Visual Studio Blog ([3 days ago](https://dotnetkicks.com/r/733591?url=https://devblogs.microsoft.com/visualstudio/visual-studio-october-update/))
 - Visual Studio October Update - new models, memories, planning, and more - Visual Studio Blog ([3 days ago](https://dotnetkicks.com/r/733572?url=https://devblogs.microsoft.com/visualstudio/visual-studio-october-update/))
@@ -22,7 +22,7 @@ description: DotNet Updates
 - Understanding the worst .NET vulnerability ever: request smuggling and CVE-2025-55315 ([5 days ago](https://dotnetkicks.com/r/733349?url=https://andrewlock.net/understanding-the-worst-dotnet-vulnerability-request-smuggling-and-cve-2025-55315/))
 - Understanding the worst .NET vulnerability ever: request smuggling and CVE-2025-55315 ([5 days ago](https://andrewlock.net/understanding-the-worst-dotnet-vulnerability-request-smuggling-and-cve-2025-55315/))
 - ReSharper and Rider 2025.2.4: Another Set of Updates Released ([5 days ago](https://blog.jetbrains.com/dotnet/2025/10/28/resharper-and-rider-2025-1-4-2/))
-- Wolverine 5 and Modular Monoliths ([5 days ago](https://dotnetkicks.com/r/733335?url=https://jeremydmiller.com/2025/10/27/wolverine-5-and-modular-monoliths/))
+- Wolverine 5 and Modular Monoliths ([6 days ago](https://dotnetkicks.com/r/733335?url=https://jeremydmiller.com/2025/10/27/wolverine-5-and-modular-monoliths/))
 - Akka.NET + Kubernetes: Everything You Need to Know ([6 days ago](https://dotnetkicks.com/r/733280?url=https://petabridge.com/blog/akkadotnet-guide-to-kubernetes/))
 - Akka.NET + Kubernetes: Everything You Need to Know ([6 days ago](https://dotnetkicks.com/r/733275?url=https://petabridge.com/blog/akkadotnet-guide-to-kubernetes/))
 - Use swiyu, the Swiss E-ID to authenticate users with Duende and .NET Aspire ([6 days ago](https://dotnetkicks.com/r/733251?url=https://damienbod.com/2025/10/27/use-swiyu-the-swiss-e-id-to-authenticate-users-with-duende-and-net-aspire/))
