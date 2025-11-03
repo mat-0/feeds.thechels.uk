@@ -9,13 +9,13 @@ description: SecOps News
 
 <!-- news_marker starts -->
 - White House says China to lift rare earth export bans, stop probes into US tech companies ([4 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/11/03/asia_tech_news_roundup/))
-- Attackers targeting unpatched Cisco kit notice malware implant removal, install it again ([6 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/11/02/cyber_exec_pleads_guilty_to/))
+- Attackers targeting unpatched Cisco kit notice malware implant removal, install it again ([7 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/11/02/cyber_exec_pleads_guilty_to/))
 - Penn hacker claims to have stolen 1.2 million donor records in data breach ([8 hours ago](https://www.bleepingcomputer.com/news/security/university-of-pennsylvania-hacker-claims-1.2-million-donor-data-breach/))
-- Alleged Jabber Zeus Coder ‘MrICQ’ in U.S. Custody ([9 hours ago](https://krebsonsecurity.com/2025/11/alleged-jabber-zeus-coder-mricq-in-u-s-custody/))
+- Alleged Jabber Zeus Coder ‘MrICQ’ in U.S. Custody ([10 hours ago](https://krebsonsecurity.com/2025/11/alleged-jabber-zeus-coder-mricq-in-u-s-custody/))
 - Open VSX rotates access tokens used in supply-chain malware attack ([15 hours ago](https://www.bleepingcomputer.com/news/security/open-vsx-rotates-tokens-used-in-supply-chain-malware-attack/))
 - Two years after an audit highlighted significant concerns, North Salem Central School District leaves sensitive student data at risk ([17 hours ago](https://databreaches.net/2025/11/02/two-years-after-an-audit-highlighted-significant-concerns-north-salem-central-school-district-leaves-sensitive-student-data-at-risk/?pk_campaign=feed&pk_kwd=two-years-after-an-audit-highlighted-significant-concerns-north-salem-central-school-district-leaves-sensitive-student-data-at-risk))
 - University of Pennsylvania says it wasn’t hacked after a vulgar email was sent to campus community ([17 hours ago](https://databreaches.net/2025/11/02/university-of-pennsylvania-says-it-wasnt-hacked-after-a-vulgar-email-was-sent-to-campus-community/?pk_campaign=feed&pk_kwd=university-of-pennsylvania-says-it-wasnt-hacked-after-a-vulgar-email-was-sent-to-campus-community))
-- Fortytwo's decentralized AI has the answer to life, the universe, and everything ([21 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/11/02/fortytwo_dcentralized_ai/))
+- Fortytwo's decentralized AI has the answer to life, the universe, and everything ([22 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/11/02/fortytwo_dcentralized_ai/))
 - Veradigm’s Breach Claims Under Scrutiny After Dark Web Leak ([1 days ago](https://databreaches.net/2025/11/01/veradigms-breach-claims-under-scrutiny-after-dark-web-leak/?pk_campaign=feed&pk_kwd=veradigms-breach-claims-under-scrutiny-after-dark-web-leak))
 - OpenAI is going Meta route, as it considers memory-based ads on ChatGPT ([1 days ago](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-going-meta-route-as-it-considers-memory-based-ads-on-chatgpt/))
 - Google confirms AI search will have ads, but they may look different ([1 days ago](https://www.bleepingcomputer.com/news/google/google-confirms-ai-search-will-have-ads-but-they-may-look-different/))
@@ -26,7 +26,7 @@ description: SecOps News
 - Massive Great Firewall Leak Exposes 500GB of Censorship Data ([1 days ago](https://databreaches.net/2025/11/01/massive-great-firewall-leak-exposes-500gb-of-censorship-data/?pk_campaign=feed&pk_kwd=massive-great-firewall-leak-exposes-500gb-of-censorship-data))
 - UK: Woman charged after NHS patients’ records accessed in data breach ([1 days ago](https://databreaches.net/2025/11/01/uk-woman-charged-after-nhs-patients-records-accessed-in-data-breach/?pk_campaign=feed&pk_kwd=uk-woman-charged-after-nhs-patients-records-accessed-in-data-breach))
 - Robotic lawnmower uses AI to dodge cats, toys ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2025/11/01/robotic_lawnmower_ai/))
-- Incident with using workflow_dispatch for Actions ([1 days ago](https://www.githubstatus.com/incidents/xkvk1yhmqfdl))
+- Incident with using workflow_dispatch for Actions ([2 days ago](https://www.githubstatus.com/incidents/xkvk1yhmqfdl))
 - Windows 11 tests shared Bluetooth audio support, but only for AI PCs ([2 days ago](https://www.bleepingcomputer.com/news/microsoft/windows-11-tests-shared-bluetooth-audio-support-but-only-for-ai-pcs/))
 - AI blew open software security, now OpenAI wants to fix it with an agent called Aardvark ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2025/10/31/openai_aardvark_agentic_security/))
 - Datacenter biz and nuke startup join forces for Texas AI ranch ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2025/10/31/datacenter_biz_and_nuke_startup/))
@@ -205,6 +205,6 @@ description: SecOps News
 - The AI Fix #71: Hacked robots and power-hungry AI ([26 days ago](https://grahamcluley.com/the-ai-fix-71/))
 - Adpost - 3,339,512 breached accounts ([27 days ago](https://haveibeenpwned.com/Breach/Adpost))
 - Discord users’ data stolen by hackers in third-party data breach ([27 days ago](https://www.bitdefender.com/en-us/blog/hotforsecurity/discord-users-data-stolen-by-hackers-in-third-party-data-breach))
-- Weekly Update 472 ([27 days ago](https://www.troyhunt.com/weekly-update-472/))
+- Weekly Update 472 ([28 days ago](https://www.troyhunt.com/weekly-update-472/))
 
 <!-- news_marker ends -->
