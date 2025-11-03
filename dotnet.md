@@ -8,8 +8,8 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- F# Weekly #44, 2025 - .NET Conf - Nov 11-13 ([2 hours ago](https://dotnetkicks.com/r/733904?url=https://sergeytihon.com/2025/11/02/f-weekly-44-2025-net-conf-nov-11-13/))
-- F# Weekly #44, 2025 - .NET Conf - Nov 11-13 ([2 hours ago](https://dotnetkicks.com/r/733897?url=https://sergeytihon.com/2025/11/02/f-weekly-44-2025-net-conf-nov-11-13/))
+- F# Weekly #44, 2025 - .NET Conf - Nov 11-13 ([3 hours ago](https://dotnetkicks.com/r/733904?url=https://sergeytihon.com/2025/11/02/f-weekly-44-2025-net-conf-nov-11-13/))
+- F# Weekly #44, 2025 - .NET Conf - Nov 11-13 ([3 hours ago](https://dotnetkicks.com/r/733897?url=https://sergeytihon.com/2025/11/02/f-weekly-44-2025-net-conf-nov-11-13/))
 - Defensive Programming Rule #2: Always Validate Method Parameters ([1 days ago](https://dotnettips.wordpress.com/2025/11/02/defensive-programming-rule-2-always-validate-method-parameters/))
 - Join us at .NET Conf: Dive into the future of development with Visual Studio 2026 - Visual Studio Blog ([2 days ago](https://dotnetkicks.com/r/733805?url=https://devblogs.microsoft.com/visualstudio/join-us-at-net-conf-dive-into-the-future-of-development-with-visual-studio-2026/))
 - Visual Studio October Update - new models, memories, planning, and more - Visual Studio Blog ([3 days ago](https://dotnetkicks.com/r/733591?url=https://devblogs.microsoft.com/visualstudio/visual-studio-october-update/))
