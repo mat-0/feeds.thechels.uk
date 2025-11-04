@@ -8,11 +8,12 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
+- Easier reflection with [UnsafeAccessorType] in .NET 10: Exploring the .NET 10 preview - Part 9 ([41 minutes ago](https://andrewlock.net/exploring-dotnet-10-preview-features-9-easier-reflection-with-unsafeaccessortype/))
 - AutoMapper 15.1 and MediatR 13.1 Released ([11 hours ago](https://dotnetkicks.com/r/734032?url=https://www.jimmybogard.com/automapper-15-1-and-mediatr-13-1-released/))
 - AutoMapper 15.1 and MediatR 13.1 Released ([11 hours ago](https://dotnetkicks.com/r/734021?url=https://www.jimmybogard.com/automapper-15-1-and-mediatr-13-1-released/))
-- Interesting new C# 14 features coming with .NET 10 ([12 hours ago](https://dotnetkicks.com/r/734015?url=https://thomaslevesque.com/2025/10/07/interesting-new-csharp-14-features-coming-with-net-10/))
+- Interesting new C# 14 features coming with .NET 10 ([13 hours ago](https://dotnetkicks.com/r/734015?url=https://thomaslevesque.com/2025/10/07/interesting-new-csharp-14-features-coming-with-net-10/))
 - Reflections on Current 2025 -Streaming, AI, Beignets, and The Buffalo Bills? ([18 hours ago](https://dotnetkicks.com/r/733982?url=https://rion.io/2025/11/03/reflections-on-current-2025-streaming-ai-beignets-and-the-buffalo-bills/))
-- Implement a secure MCP server using OAuth DPoP and Duende identity provider ([18 hours ago](https://dotnetkicks.com/r/733972?url=https://damienbod.com/2025/11/03/implement-a-secure-mcp-server-using-oauth-dpop-and-duende-identity-provider/))
+- Implement a secure MCP server using OAuth DPoP and Duende identity provider ([19 hours ago](https://dotnetkicks.com/r/733972?url=https://damienbod.com/2025/11/03/implement-a-secure-mcp-server-using-oauth-dpop-and-duende-identity-provider/))
 - F# Weekly #44, 2025 - .NET Conf - Nov 11-13 ([1 days ago](https://dotnetkicks.com/r/733904?url=https://sergeytihon.com/2025/11/02/f-weekly-44-2025-net-conf-nov-11-13/))
 - F# Weekly #44, 2025 - .NET Conf - Nov 11-13 ([1 days ago](https://dotnetkicks.com/r/733897?url=https://sergeytihon.com/2025/11/02/f-weekly-44-2025-net-conf-nov-11-13/))
 - Defensive Programming Rule #2: Always Validate Method Parameters ([2 days ago](https://dotnettips.wordpress.com/2025/11/02/defensive-programming-rule-2-always-validate-method-parameters/))
@@ -26,7 +27,7 @@ description: DotNet Updates
 - Introducing Custom Agents for .NET Developers: C# Expert & WinForms Expert - .NET Blog ([6 days ago](https://dotnetkicks.com/r/733409?url=https://devblogs.microsoft.com/dotnet/introducing-custom-agents-for-dotnet-developers-csharp-expert-winforms-expert/))
 - Introducing Custom Agents for .NET Developers: C# Expert & WinForms Expert - .NET Blog ([6 days ago](https://dotnetkicks.com/r/733405?url=https://devblogs.microsoft.com/dotnet/introducing-custom-agents-for-dotnet-developers-csharp-expert-winforms-expert/))
 - Introducing Custom Agents for .NET Developers: C# Expert & WinForms Expert ([6 days ago](https://devblogs.microsoft.com/dotnet/introducing-custom-agents-for-dotnet-developers-csharp-expert-winforms-expert/))
-- Understanding the worst .NET vulnerability ever: request smuggling and CVE-2025-55315 ([6 days ago](https://dotnetkicks.com/r/733349?url=https://andrewlock.net/understanding-the-worst-dotnet-vulnerability-request-smuggling-and-cve-2025-55315/))
+- Understanding the worst .NET vulnerability ever: request smuggling and CVE-2025-55315 ([7 days ago](https://dotnetkicks.com/r/733349?url=https://andrewlock.net/understanding-the-worst-dotnet-vulnerability-request-smuggling-and-cve-2025-55315/))
 - Understanding the worst .NET vulnerability ever: request smuggling and CVE-2025-55315 ([7 days ago](https://andrewlock.net/understanding-the-worst-dotnet-vulnerability-request-smuggling-and-cve-2025-55315/))
 - ReSharper and Rider 2025.2.4: Another Set of Updates Released ([7 days ago](https://blog.jetbrains.com/dotnet/2025/10/28/resharper-and-rider-2025-1-4-2/))
 - Wolverine 5 and Modular Monoliths ([7 days ago](https://dotnetkicks.com/r/733335?url=https://jeremydmiller.com/2025/10/27/wolverine-5-and-modular-monoliths/))
@@ -57,7 +58,7 @@ description: DotNet Updates
 - Meet JetBrains at Azure Dev Summit 2025 (Lisbon, Oct 13–16) ([27 days ago](https://blog.jetbrains.com/dotnet/2025/10/07/meet-jetbrains-at-azure-dev-summit-2025/))
 - Developer and AI Code Reviewer: Reviewing AI-Generated Code in .NET ([27 days ago](https://devblogs.microsoft.com/dotnet/developer-and-ai-code-reviewer-reviewing-ai-generated-code-in-dotnet/))
 - 9 ReSharper Features Every .NET Developer Should Know ([28 days ago](https://blog.jetbrains.com/dotnet/2025/10/06/9-resharper-features-every-dotnet-developer-should-know/))
-- dotInsights  -  October 2025 ([28 days ago](https://blog.jetbrains.com/dotnet/2025/10/06/dotinsights-october-2025/))
+- dotInsights  -  October 2025 ([29 days ago](https://blog.jetbrains.com/dotnet/2025/10/06/dotinsights-october-2025/))
 - ReSharper and Rider 2025.2.3: The Third Set of Updates Released ([29 days ago](https://blog.jetbrains.com/dotnet/2025/10/06/resharper-and-rider-2025-2-3/))
 
 <!-- news_marker ends -->
