@@ -8,8 +8,8 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- AutoMapper 15.1 and MediatR 13.1 Released ([4 hours ago](https://dotnetkicks.com/r/734032?url=https://www.jimmybogard.com/automapper-15-1-and-mediatr-13-1-released/))
-- AutoMapper 15.1 and MediatR 13.1 Released ([4 hours ago](https://dotnetkicks.com/r/734021?url=https://www.jimmybogard.com/automapper-15-1-and-mediatr-13-1-released/))
+- AutoMapper 15.1 and MediatR 13.1 Released ([5 hours ago](https://dotnetkicks.com/r/734032?url=https://www.jimmybogard.com/automapper-15-1-and-mediatr-13-1-released/))
+- AutoMapper 15.1 and MediatR 13.1 Released ([5 hours ago](https://dotnetkicks.com/r/734021?url=https://www.jimmybogard.com/automapper-15-1-and-mediatr-13-1-released/))
 - Interesting new C# 14 features coming with .NET 10 ([6 hours ago](https://dotnetkicks.com/r/734015?url=https://thomaslevesque.com/2025/10/07/interesting-new-csharp-14-features-coming-with-net-10/))
 - Reflections on Current 2025 -Streaming, AI, Beignets, and The Buffalo Bills? ([11 hours ago](https://dotnetkicks.com/r/733982?url=https://rion.io/2025/11/03/reflections-on-current-2025-streaming-ai-beignets-and-the-buffalo-bills/))
 - Implement a secure MCP server using OAuth DPoP and Duende identity provider ([12 hours ago](https://dotnetkicks.com/r/733972?url=https://damienbod.com/2025/11/03/implement-a-secure-mcp-server-using-oauth-dpop-and-duende-identity-provider/))
