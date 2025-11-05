@@ -8,10 +8,10 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Exploring Dynamic Sink Routing in Apache Flink via DemultiplexingSink ([33 minutes ago](https://dotnetkicks.com/r/734253?url=https://rion.io/2025/11/05/exploring-dynamic-sink-routing-in-apache-flink-via-demultiplexingsink/))
+- Exploring Dynamic Sink Routing in Apache Flink via DemultiplexingSink ([1 hours ago](https://dotnetkicks.com/r/734253?url=https://rion.io/2025/11/05/exploring-dynamic-sink-routing-in-apache-flink-via-demultiplexingsink/))
 - Get Ready for .NET Conf 2025! - .NET Blog ([20 hours ago](https://dotnetkicks.com/r/734139?url=https://devblogs.microsoft.com/dotnet/get-ready-for-dotnet-conf-2025/))
 - Get Ready for .NET Conf 2025! - .NET Blog ([20 hours ago](https://dotnetkicks.com/r/734124?url=https://devblogs.microsoft.com/dotnet/get-ready-for-dotnet-conf-2025/))
-- Get Ready for .NET Conf 2025! ([20 hours ago](https://devblogs.microsoft.com/dotnet/get-ready-for-dotnet-conf-2025/))
+- Get Ready for .NET Conf 2025! ([21 hours ago](https://devblogs.microsoft.com/dotnet/get-ready-for-dotnet-conf-2025/))
 - Taming the Billion Dollar Mistake: Maarten Balliauw’s Guide to C# Nullable Reference Types ([1 days ago](https://blog.jetbrains.com/dotnet/2025/11/04/maarten-balliauws-guide-to-csharp-nullable-reference-types/))
 - F# Advent Calendar in English 2025 ([1 days ago](https://dotnetkicks.com/r/734090?url=https://sergeytihon.com/2025/11/03/f-advent-calendar-in-english-2025/))
 - Easier reflection with [UnsafeAccessorType] in .NET 10: Exploring the .NET 10 preview - Part 9 ([1 days ago](https://andrewlock.net/exploring-dotnet-10-preview-features-9-easier-reflection-with-unsafeaccessortype/))
