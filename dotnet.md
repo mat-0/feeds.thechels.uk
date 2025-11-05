@@ -10,10 +10,10 @@ description: DotNet Updates
 <!-- news_marker starts -->
 - Get Ready for .NET Conf 2025! - .NET Blog ([13 hours ago](https://dotnetkicks.com/r/734139?url=https://devblogs.microsoft.com/dotnet/get-ready-for-dotnet-conf-2025/))
 - Get Ready for .NET Conf 2025! - .NET Blog ([13 hours ago](https://dotnetkicks.com/r/734124?url=https://devblogs.microsoft.com/dotnet/get-ready-for-dotnet-conf-2025/))
-- Get Ready for .NET Conf 2025! ([13 hours ago](https://devblogs.microsoft.com/dotnet/get-ready-for-dotnet-conf-2025/))
-- Taming the Billion Dollar Mistake: Maarten Balliauw’s Guide to C# Nullable Reference Types ([17 hours ago](https://blog.jetbrains.com/dotnet/2025/11/04/maarten-balliauws-guide-to-csharp-nullable-reference-types/))
+- Get Ready for .NET Conf 2025! ([14 hours ago](https://devblogs.microsoft.com/dotnet/get-ready-for-dotnet-conf-2025/))
+- Taming the Billion Dollar Mistake: Maarten Balliauw’s Guide to C# Nullable Reference Types ([18 hours ago](https://blog.jetbrains.com/dotnet/2025/11/04/maarten-balliauws-guide-to-csharp-nullable-reference-types/))
 - F# Advent Calendar in English 2025 ([20 hours ago](https://dotnetkicks.com/r/734090?url=https://sergeytihon.com/2025/11/03/f-advent-calendar-in-english-2025/))
-- Easier reflection with [UnsafeAccessorType] in .NET 10: Exploring the .NET 10 preview - Part 9 ([21 hours ago](https://andrewlock.net/exploring-dotnet-10-preview-features-9-easier-reflection-with-unsafeaccessortype/))
+- Easier reflection with [UnsafeAccessorType] in .NET 10: Exploring the .NET 10 preview - Part 9 ([22 hours ago](https://andrewlock.net/exploring-dotnet-10-preview-features-9-easier-reflection-with-unsafeaccessortype/))
 - AutoMapper 15.1 and MediatR 13.1 Released ([1 days ago](https://dotnetkicks.com/r/734032?url=https://www.jimmybogard.com/automapper-15-1-and-mediatr-13-1-released/))
 - AutoMapper 15.1 and MediatR 13.1 Released ([1 days ago](https://dotnetkicks.com/r/734021?url=https://www.jimmybogard.com/automapper-15-1-and-mediatr-13-1-released/))
 - Interesting new C# 14 features coming with .NET 10 ([1 days ago](https://dotnetkicks.com/r/734015?url=https://thomaslevesque.com/2025/10/07/interesting-new-csharp-14-features-coming-with-net-10/))
