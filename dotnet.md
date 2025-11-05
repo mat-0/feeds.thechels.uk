@@ -9,12 +9,12 @@ description: DotNet Updates
 
 <!-- news_marker starts -->
 - How Copilot Studio uses .NET and WebAssembly for performance and innovation - .NET Blog ([1 hours ago](https://dotnetkicks.com/r/734333?url=https://devblogs.microsoft.com/dotnet/copilot-studio-dotnet-wasm/))
-- How Copilot Studio uses .NET and WebAssembly for performance and innovation ([1 hours ago](https://devblogs.microsoft.com/dotnet/copilot-studio-dotnet-wasm/))
+- How Copilot Studio uses .NET and WebAssembly for performance and innovation ([2 hours ago](https://devblogs.microsoft.com/dotnet/copilot-studio-dotnet-wasm/))
 - The Rider 2025.3 Release Candidate Is Now Available ([3 hours ago](https://blog.jetbrains.com/dotnet/2025/11/05/the-rider-2025-3-release-candidate/))
 - The ReSharper, .NET Tools, and ReSharper C++ 2025.3 Release Candidates Are Now Available ([3 hours ago](https://blog.jetbrains.com/dotnet/2025/11/05/the-resharper-dotnet-tools-2025-3-release-candidate/))
 - Introducing Agent HQ: Any agent, any way you work ([3 hours ago](https://dotnetkicks.com/r/734289?url=https://github.blog/news-insights/company-news/welcome-home-agents/))
-- Exploring Dynamic Sink Routing in Apache Flink via DemultiplexingSink ([5 hours ago](https://dotnetkicks.com/r/734253?url=https://rion.io/2025/11/05/exploring-dynamic-sink-routing-in-apache-flink-via-demultiplexingsink/))
-- dotInsights  -  November 2025 ([5 hours ago](https://blog.jetbrains.com/dotnet/2025/11/05/dotinsights-november-2025/))
+- Exploring Dynamic Sink Routing in Apache Flink via DemultiplexingSink ([6 hours ago](https://dotnetkicks.com/r/734253?url=https://rion.io/2025/11/05/exploring-dynamic-sink-routing-in-apache-flink-via-demultiplexingsink/))
+- dotInsights  -  November 2025 ([6 hours ago](https://blog.jetbrains.com/dotnet/2025/11/05/dotinsights-november-2025/))
 - Get Ready for .NET Conf 2025! - .NET Blog ([1 days ago](https://dotnetkicks.com/r/734139?url=https://devblogs.microsoft.com/dotnet/get-ready-for-dotnet-conf-2025/))
 - Get Ready for .NET Conf 2025! - .NET Blog ([1 days ago](https://dotnetkicks.com/r/734124?url=https://devblogs.microsoft.com/dotnet/get-ready-for-dotnet-conf-2025/))
 - Get Ready for .NET Conf 2025! ([1 days ago](https://devblogs.microsoft.com/dotnet/get-ready-for-dotnet-conf-2025/))
@@ -47,7 +47,7 @@ description: DotNet Updates
 - Akka.NET + Kubernetes: Everything You Need to Know ([9 days ago](https://dotnetkicks.com/r/733275?url=https://petabridge.com/blog/akkadotnet-guide-to-kubernetes/))
 - Defensive Programming Rule #1: Anticipate Errors and Eliminate Bugs ([10 days ago](https://dotnettips.wordpress.com/2025/10/26/defensive-programming-rule-1-anticipate-errors-and-eliminate-bugs/))
 - Announcing Sponsorship on NuGet.org ([12 days ago](https://devblogs.microsoft.com/dotnet/announcing-sponsorship-on-nugetdotorg-for-maintainer-appreciation/))
-- How BoldSign Modernized Development at Scale With JetBrains dotUltimate ([12 days ago](https://blog.jetbrains.com/dotnet/2025/10/23/how-boldsign-modernized-development-at-scale-with-jetbrains-dotultimate/))
+- How BoldSign Modernized Development at Scale With JetBrains dotUltimate ([13 days ago](https://blog.jetbrains.com/dotnet/2025/10/23/how-boldsign-modernized-development-at-scale-with-jetbrains-dotultimate/))
 - Upgrading to Microsoft Agent Framework in Your .NET AI Chat App ([13 days ago](https://devblogs.microsoft.com/dotnet/upgrading-to-microsoft-agent-framework-in-your-dotnet-ai-chat-app/))
 - Adding metadata to fallback endpoints in ASP.NET Core ([14 days ago](https://andrewlock.net/adding-metadata-to-fallback-endpoints-in-aspnetcore/))
 - Coming to Rider 2025.3: ASP.NET and Database Issue Detection In The Monitoring Tool Window ([16 days ago](https://blog.jetbrains.com/dotnet/2025/10/20/rider-2025-3-asp-dotnet-and-database-issue-monitoring/))
@@ -61,7 +61,7 @@ description: DotNet Updates
 - Preparing for the .NET 10 GC (DATAS) ([28 days ago](https://devblogs.microsoft.com/dotnet/preparing-for-dotnet-10-gc/))
 - Calling All Non-Commercial JetBrains Rider Users: Tell Us Your Stories! ([28 days ago](https://blog.jetbrains.com/dotnet/2025/10/08/calling-all-non-commercial-rider-users/))
 - Defensive Programming with Microsoft .NET: Anticipate Errors and Eliminate Bugs ([28 days ago](https://dotnettips.wordpress.com/2025/10/08/defensive-programming-with-microsoft-net-anticipate-errors-and-eliminate-bugs/))
-- Meet JetBrains at Azure Dev Summit 2025 (Lisbon, Oct 13–16) ([28 days ago](https://blog.jetbrains.com/dotnet/2025/10/07/meet-jetbrains-at-azure-dev-summit-2025/))
+- Meet JetBrains at Azure Dev Summit 2025 (Lisbon, Oct 13–16) ([29 days ago](https://blog.jetbrains.com/dotnet/2025/10/07/meet-jetbrains-at-azure-dev-summit-2025/))
 - Developer and AI Code Reviewer: Reviewing AI-Generated Code in .NET ([29 days ago](https://devblogs.microsoft.com/dotnet/developer-and-ai-code-reviewer-reviewing-ai-generated-code-in-dotnet/))
 
 <!-- news_marker ends -->
