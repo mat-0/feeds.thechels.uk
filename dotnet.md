@@ -8,10 +8,11 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
+- Introducing Agent HQ: Any agent, any way you work ([16 minutes ago](https://dotnetkicks.com/r/734289?url=https://github.blog/news-insights/company-news/welcome-home-agents/))
 - Exploring Dynamic Sink Routing in Apache Flink via DemultiplexingSink ([2 hours ago](https://dotnetkicks.com/r/734253?url=https://rion.io/2025/11/05/exploring-dynamic-sink-routing-in-apache-flink-via-demultiplexingsink/))
 - dotInsights  -  November 2025 ([2 hours ago](https://blog.jetbrains.com/dotnet/2025/11/05/dotinsights-november-2025/))
-- Get Ready for .NET Conf 2025! - .NET Blog ([21 hours ago](https://dotnetkicks.com/r/734139?url=https://devblogs.microsoft.com/dotnet/get-ready-for-dotnet-conf-2025/))
-- Get Ready for .NET Conf 2025! - .NET Blog ([21 hours ago](https://dotnetkicks.com/r/734124?url=https://devblogs.microsoft.com/dotnet/get-ready-for-dotnet-conf-2025/))
+- Get Ready for .NET Conf 2025! - .NET Blog ([22 hours ago](https://dotnetkicks.com/r/734139?url=https://devblogs.microsoft.com/dotnet/get-ready-for-dotnet-conf-2025/))
+- Get Ready for .NET Conf 2025! - .NET Blog ([22 hours ago](https://dotnetkicks.com/r/734124?url=https://devblogs.microsoft.com/dotnet/get-ready-for-dotnet-conf-2025/))
 - Get Ready for .NET Conf 2025! ([22 hours ago](https://devblogs.microsoft.com/dotnet/get-ready-for-dotnet-conf-2025/))
 - Taming the Billion Dollar Mistake: Maarten Balliauw’s Guide to C# Nullable Reference Types ([1 days ago](https://blog.jetbrains.com/dotnet/2025/11/04/maarten-balliauws-guide-to-csharp-nullable-reference-types/))
 - F# Advent Calendar in English 2025 ([1 days ago](https://dotnetkicks.com/r/734090?url=https://sergeytihon.com/2025/11/03/f-advent-calendar-in-english-2025/))
@@ -41,7 +42,6 @@ description: DotNet Updates
 - Akka.NET + Kubernetes: Everything You Need to Know ([9 days ago](https://dotnetkicks.com/r/733280?url=https://petabridge.com/blog/akkadotnet-guide-to-kubernetes/))
 - Akka.NET + Kubernetes: Everything You Need to Know ([9 days ago](https://dotnetkicks.com/r/733275?url=https://petabridge.com/blog/akkadotnet-guide-to-kubernetes/))
 - Use swiyu, the Swiss E-ID to authenticate users with Duende and .NET Aspire ([9 days ago](https://dotnetkicks.com/r/733251?url=https://damienbod.com/2025/10/27/use-swiyu-the-swiss-e-id-to-authenticate-users-with-duende-and-net-aspire/))
-- Use swiyu, the Swiss E-ID to authenticate users with Duende and .NET Aspire ([9 days ago](https://dotnetkicks.com/r/733244?url=https://damienbod.com/2025/10/27/use-swiyu-the-swiss-e-id-to-authenticate-users-with-duende-and-net-aspire/))
 - Defensive Programming Rule #1: Anticipate Errors and Eliminate Bugs ([10 days ago](https://dotnettips.wordpress.com/2025/10/26/defensive-programming-rule-1-anticipate-errors-and-eliminate-bugs/))
 - Announcing Sponsorship on NuGet.org ([12 days ago](https://devblogs.microsoft.com/dotnet/announcing-sponsorship-on-nugetdotorg-for-maintainer-appreciation/))
 - How BoldSign Modernized Development at Scale With JetBrains dotUltimate ([12 days ago](https://blog.jetbrains.com/dotnet/2025/10/23/how-boldsign-modernized-development-at-scale-with-jetbrains-dotultimate/))
