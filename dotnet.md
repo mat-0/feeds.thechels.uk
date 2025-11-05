@@ -8,11 +8,11 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- How Copilot Studio uses .NET and WebAssembly for performance and innovation - .NET Blog ([41 minutes ago](https://dotnetkicks.com/r/734333?url=https://devblogs.microsoft.com/dotnet/copilot-studio-dotnet-wasm/))
+- How Copilot Studio uses .NET and WebAssembly for performance and innovation - .NET Blog ([1 hours ago](https://dotnetkicks.com/r/734333?url=https://devblogs.microsoft.com/dotnet/copilot-studio-dotnet-wasm/))
 - How Copilot Studio uses .NET and WebAssembly for performance and innovation ([1 hours ago](https://devblogs.microsoft.com/dotnet/copilot-studio-dotnet-wasm/))
-- The Rider 2025.3 Release Candidate Is Now Available ([2 hours ago](https://blog.jetbrains.com/dotnet/2025/11/05/the-rider-2025-3-release-candidate/))
-- The ReSharper, .NET Tools, and ReSharper C++ 2025.3 Release Candidates Are Now Available ([2 hours ago](https://blog.jetbrains.com/dotnet/2025/11/05/the-resharper-dotnet-tools-2025-3-release-candidate/))
-- Introducing Agent HQ: Any agent, any way you work ([2 hours ago](https://dotnetkicks.com/r/734289?url=https://github.blog/news-insights/company-news/welcome-home-agents/))
+- The Rider 2025.3 Release Candidate Is Now Available ([3 hours ago](https://blog.jetbrains.com/dotnet/2025/11/05/the-rider-2025-3-release-candidate/))
+- The ReSharper, .NET Tools, and ReSharper C++ 2025.3 Release Candidates Are Now Available ([3 hours ago](https://blog.jetbrains.com/dotnet/2025/11/05/the-resharper-dotnet-tools-2025-3-release-candidate/))
+- Introducing Agent HQ: Any agent, any way you work ([3 hours ago](https://dotnetkicks.com/r/734289?url=https://github.blog/news-insights/company-news/welcome-home-agents/))
 - Exploring Dynamic Sink Routing in Apache Flink via DemultiplexingSink ([5 hours ago](https://dotnetkicks.com/r/734253?url=https://rion.io/2025/11/05/exploring-dynamic-sink-routing-in-apache-flink-via-demultiplexingsink/))
 - dotInsights  -  November 2025 ([5 hours ago](https://blog.jetbrains.com/dotnet/2025/11/05/dotinsights-november-2025/))
 - Get Ready for .NET Conf 2025! - .NET Blog ([1 days ago](https://dotnetkicks.com/r/734139?url=https://devblogs.microsoft.com/dotnet/get-ready-for-dotnet-conf-2025/))
