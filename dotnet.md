@@ -9,12 +9,12 @@ description: DotNet Updates
 
 <!-- news_marker starts -->
 - How Copilot Studio uses .NET and WebAssembly for performance and innovation - .NET Blog ([2 hours ago](https://dotnetkicks.com/r/734333?url=https://devblogs.microsoft.com/dotnet/copilot-studio-dotnet-wasm/))
-- How Copilot Studio uses .NET and WebAssembly for performance and innovation ([2 hours ago](https://devblogs.microsoft.com/dotnet/copilot-studio-dotnet-wasm/))
+- How Copilot Studio uses .NET and WebAssembly for performance and innovation ([3 hours ago](https://devblogs.microsoft.com/dotnet/copilot-studio-dotnet-wasm/))
 - The Rider 2025.3 Release Candidate Is Now Available ([4 hours ago](https://blog.jetbrains.com/dotnet/2025/11/05/the-rider-2025-3-release-candidate/))
 - The ReSharper, .NET Tools, and ReSharper C++ 2025.3 Release Candidates Are Now Available ([4 hours ago](https://blog.jetbrains.com/dotnet/2025/11/05/the-resharper-dotnet-tools-2025-3-release-candidate/))
 - Introducing Agent HQ: Any agent, any way you work ([4 hours ago](https://dotnetkicks.com/r/734289?url=https://github.blog/news-insights/company-news/welcome-home-agents/))
-- Exploring Dynamic Sink Routing in Apache Flink via DemultiplexingSink ([6 hours ago](https://dotnetkicks.com/r/734253?url=https://rion.io/2025/11/05/exploring-dynamic-sink-routing-in-apache-flink-via-demultiplexingsink/))
-- dotInsights  -  November 2025 ([6 hours ago](https://blog.jetbrains.com/dotnet/2025/11/05/dotinsights-november-2025/))
+- Exploring Dynamic Sink Routing in Apache Flink via DemultiplexingSink ([7 hours ago](https://dotnetkicks.com/r/734253?url=https://rion.io/2025/11/05/exploring-dynamic-sink-routing-in-apache-flink-via-demultiplexingsink/))
+- dotInsights  -  November 2025 ([7 hours ago](https://blog.jetbrains.com/dotnet/2025/11/05/dotinsights-november-2025/))
 - Get Ready for .NET Conf 2025! - .NET Blog ([1 days ago](https://dotnetkicks.com/r/734139?url=https://devblogs.microsoft.com/dotnet/get-ready-for-dotnet-conf-2025/))
 - Get Ready for .NET Conf 2025! - .NET Blog ([1 days ago](https://dotnetkicks.com/r/734124?url=https://devblogs.microsoft.com/dotnet/get-ready-for-dotnet-conf-2025/))
 - Get Ready for .NET Conf 2025! ([1 days ago](https://devblogs.microsoft.com/dotnet/get-ready-for-dotnet-conf-2025/))
