@@ -59,6 +59,5 @@ description: DotNet Updates
 - ReSharper Is Now on the Open VSX Registry ([23 days ago](https://blog.jetbrains.com/dotnet/2025/10/14/resharper-open-vsx/))
 - Boost Your .NET Projects: Simplify Windows Service and Process Management with Spargine’s Services Helper ([26 days ago](https://dotnettips.wordpress.com/2025/10/12/boost-your-net-projects-simplify-windows-service-and-process-management-with-spargines-services-helper/))
 - Preparing for the .NET 10 GC (DATAS) ([29 days ago](https://devblogs.microsoft.com/dotnet/preparing-for-dotnet-10-gc/))
-- Calling All Non-Commercial JetBrains Rider Users: Tell Us Your Stories! ([29 days ago](https://blog.jetbrains.com/dotnet/2025/10/08/calling-all-non-commercial-rider-users/))
 
 <!-- news_marker ends -->
