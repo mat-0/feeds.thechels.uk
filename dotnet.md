@@ -48,16 +48,15 @@ description: DotNet Updates
 - Defensive Programming Rule #1: Anticipate Errors and Eliminate Bugs ([12 days ago](https://dotnettips.wordpress.com/2025/10/26/defensive-programming-rule-1-anticipate-errors-and-eliminate-bugs/))
 - Announcing Sponsorship on NuGet.org ([14 days ago](https://devblogs.microsoft.com/dotnet/announcing-sponsorship-on-nugetdotorg-for-maintainer-appreciation/))
 - How BoldSign Modernized Development at Scale With JetBrains dotUltimate ([14 days ago](https://blog.jetbrains.com/dotnet/2025/10/23/how-boldsign-modernized-development-at-scale-with-jetbrains-dotultimate/))
-- Upgrading to Microsoft Agent Framework in Your .NET AI Chat App ([14 days ago](https://devblogs.microsoft.com/dotnet/upgrading-to-microsoft-agent-framework-in-your-dotnet-ai-chat-app/))
+- Upgrading to Microsoft Agent Framework in Your .NET AI Chat App ([15 days ago](https://devblogs.microsoft.com/dotnet/upgrading-to-microsoft-agent-framework-in-your-dotnet-ai-chat-app/))
 - Adding metadata to fallback endpoints in ASP.NET Core ([16 days ago](https://andrewlock.net/adding-metadata-to-fallback-endpoints-in-aspnetcore/))
 - Coming to Rider 2025.3: ASP.NET and Database Issue Detection In The Monitoring Tool Window ([18 days ago](https://blog.jetbrains.com/dotnet/2025/10/20/rider-2025-3-asp-dotnet-and-database-issue-monitoring/))
 - Mastering the Art of Public Speaking: Lessons from a Lifetime of Teaching and Sharing ([19 days ago](https://dotnettips.wordpress.com/2025/10/19/mastering-the-art-of-public-speaking-lessons-from-a-lifetime-of-teaching-and-sharing/))
 - Tech Prediction: The Data Kings Will Rule the World ([23 days ago](https://dotnettips.wordpress.com/2025/10/15/tech-prediction-the-data-kings-will-rule-the-world/))
 - .NET and .NET Framework October 2025 servicing releases updates ([23 days ago](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-october-2025-servicing-updates/))
 - Announcing .NET 10 Release Candidate 2 ([23 days ago](https://devblogs.microsoft.com/dotnet/dotnet-10-rc-2/))
-- Announcing the .NET Security Group ([23 days ago](https://devblogs.microsoft.com/dotnet/announcing-dotnet-security-group/))
+- Announcing the .NET Security Group ([24 days ago](https://devblogs.microsoft.com/dotnet/announcing-dotnet-security-group/))
 - ReSharper Is Now on the Open VSX Registry ([24 days ago](https://blog.jetbrains.com/dotnet/2025/10/14/resharper-open-vsx/))
 - Boost Your .NET Projects: Simplify Windows Service and Process Management with Spargine’s Services Helper ([26 days ago](https://dotnettips.wordpress.com/2025/10/12/boost-your-net-projects-simplify-windows-service-and-process-management-with-spargines-services-helper/))
-- Preparing for the .NET 10 GC (DATAS) ([29 days ago](https://devblogs.microsoft.com/dotnet/preparing-for-dotnet-10-gc/))
 
 <!-- news_marker ends -->
