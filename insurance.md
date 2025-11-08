@@ -129,7 +129,7 @@ description: Insurance Updates
 - Amwins Launches Cyber+ to Address SME Cyber Insurance Gaps ([9 days ago](https://www.insurtechinsights.com/amwins-launches-cyber-to-address-sme-cyber-insurance-gaps/))
 - Zurich Launches AI Lab ([9 days ago](https://www.insurtechinsights.com/zurich-launches-ai-lab/))
 - Acrisure Appoints Benjamin Funk as Chief Technology and Chief AI Officer ([9 days ago](https://www.insurtechinsights.com/acrisure-appoints-benjamin-funk-as-chief-technology-and-chief-ai-officer/))
-- Pyq Launches ‘Mulligan’ Platform to Automate Commercial Insurance Operations ([9 days ago](https://thefintechtimes.com/pyq-launches-mulligan-platform-to-automate-commercial-insurance-operations/))
+- Pyq Launches ‘Mulligan’ Platform to Automate Commercial Insurance Operations ([10 days ago](https://thefintechtimes.com/pyq-launches-mulligan-platform-to-automate-commercial-insurance-operations/))
 - Behind the Idea: Policybazaar ([23 days ago](https://thefintechtimes.com/behind-the-idea-policybazaar/))
 - Asia Insurance Goes Live with CoverGo Platform to Digitise Health Insurance ([29 days ago](https://thefintechtimes.com/asia-insurance-goes-live-with-covergo-platform-to-digitise-health-insurance/))
 
