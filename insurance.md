@@ -8,8 +8,8 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Does Your Travel Insurance Cover Winter Sports? ([21 hours ago](https://insurance-edge.net/2025/11/07/does-your-travel-insurance-cover-winter-sports/))
-- Canada Life Re reports 20% increase in base earnings to $265m for Q3’25 ([23 hours ago](https://www.reinsurancene.ws/canada-life-re-reports-20-increase-in-base-earnings-to-265m-for-q325/))
+- Does Your Travel Insurance Cover Winter Sports? ([22 hours ago](https://insurance-edge.net/2025/11/07/does-your-travel-insurance-cover-winter-sports/))
+- Canada Life Re reports 20% increase in base earnings to $265m for Q3’25 ([1 days ago](https://www.reinsurancene.ws/canada-life-re-reports-20-increase-in-base-earnings-to-265m-for-q325/))
 - Canadian P&C insurers seek ways to transfer rising cat risk: Morningstar DBRS ([1 days ago](https://www.reinsurancene.ws/canadian-pc-insurers-seek-ways-to-transfer-rising-cat-risk-morningstar-dbrs/))
 - Fitch Ratings warns of mild credit risk from proposed Solvency II capital reductions ([1 days ago](https://www.reinsurancene.ws/fitch-ratings-warns-of-mild-credit-risk-from-proposed-solvency-ii-capital-reductions/))
 - Jamaica Catastrophe Bond Headed for Full Payout After Hurricane, World Bank Says ([1 days ago](https://www.insurancejournal.com/news/international/2025/11/07/846866.htm))
@@ -72,7 +72,7 @@ description: Insurance Updates
 - Aviva demands protection for young drivers as ghost broking surges ([1 days ago](https://www.postonline.co.uk/news/7959339/aviva-demands-protection-for-young-drivers-as-ghost-broking-surges))
 - Insured loss estimates for Hurricane Melissa ([1 days ago](https://www.dig-in.com/news/insured-loss-estimates-for-hurricane-melissa))
 - Life insurers answer what now for customers ([1 days ago](https://www.dig-in.com/opinion/life-insurers-answer-what-now-for-customers))
-- Wildfire Victims Ask Gov. Newsom to Call for Insurance Commissioner’s Resignation ([1 days ago](https://www.insurancejournal.com/news/west/2025/11/06/846762.htm))
+- Wildfire Victims Ask Gov. Newsom to Call for Insurance Commissioner’s Resignation ([2 days ago](https://www.insurancejournal.com/news/west/2025/11/06/846762.htm))
 - Engine Detached From UPS Plane Before Fatal Kentucky Crash ([2 days ago](https://www.insurancejournal.com/news/southeast/2025/11/06/846736.htm))
 - AM Best warns protectionism is fragmenting insurance market ([2 days ago](https://www.postonline.co.uk/news/7959340/am-best-warns-protectionism-is-fragmenting-insurance-market))
 - It's not easy writing green, but insurance must evolve or fall behind ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/its-not-easy-writing-green-but-insurance-must-evolve-or-fall-behind-555667.aspx))
