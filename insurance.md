@@ -8,8 +8,8 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Does Your Travel Insurance Cover Winter Sports? ([19 hours ago](https://insurance-edge.net/2025/11/07/does-your-travel-insurance-cover-winter-sports/))
-- Canada Life Re reports 20% increase in base earnings to $265m for Q3’25 ([21 hours ago](https://www.reinsurancene.ws/canada-life-re-reports-20-increase-in-base-earnings-to-265m-for-q325/))
+- Does Your Travel Insurance Cover Winter Sports? ([20 hours ago](https://insurance-edge.net/2025/11/07/does-your-travel-insurance-cover-winter-sports/))
+- Canada Life Re reports 20% increase in base earnings to $265m for Q3’25 ([22 hours ago](https://www.reinsurancene.ws/canada-life-re-reports-20-increase-in-base-earnings-to-265m-for-q325/))
 - Canadian P&C insurers seek ways to transfer rising cat risk: Morningstar DBRS ([1 days ago](https://www.reinsurancene.ws/canadian-pc-insurers-seek-ways-to-transfer-rising-cat-risk-morningstar-dbrs/))
 - Fitch Ratings warns of mild credit risk from proposed Solvency II capital reductions ([1 days ago](https://www.reinsurancene.ws/fitch-ratings-warns-of-mild-credit-risk-from-proposed-solvency-ii-capital-reductions/))
 - Jamaica Catastrophe Bond Headed for Full Payout After Hurricane, World Bank Says ([1 days ago](https://www.insurancejournal.com/news/international/2025/11/07/846866.htm))
@@ -73,7 +73,7 @@ description: Insurance Updates
 - Insured loss estimates for Hurricane Melissa ([1 days ago](https://www.dig-in.com/news/insured-loss-estimates-for-hurricane-melissa))
 - Life insurers answer what now for customers ([1 days ago](https://www.dig-in.com/opinion/life-insurers-answer-what-now-for-customers))
 - Wildfire Victims Ask Gov. Newsom to Call for Insurance Commissioner’s Resignation ([1 days ago](https://www.insurancejournal.com/news/west/2025/11/06/846762.htm))
-- Engine Detached From UPS Plane Before Fatal Kentucky Crash ([1 days ago](https://www.insurancejournal.com/news/southeast/2025/11/06/846736.htm))
+- Engine Detached From UPS Plane Before Fatal Kentucky Crash ([2 days ago](https://www.insurancejournal.com/news/southeast/2025/11/06/846736.htm))
 - AM Best warns protectionism is fragmenting insurance market ([2 days ago](https://www.postonline.co.uk/news/7959340/am-best-warns-protectionism-is-fragmenting-insurance-market))
 - It's not easy writing green, but insurance must evolve or fall behind ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/its-not-easy-writing-green-but-insurance-must-evolve-or-fall-behind-555667.aspx))
 - Allianz to re-platform commercial products over next two years ([2 days ago](https://www.postonline.co.uk/news/7959332/allianz-to-re-platform-commercial-products-over-next-two-years))
@@ -112,7 +112,7 @@ description: Insurance Updates
 - FWD Group Reports Strong New Business Growth and Strengthened Financial Position ([3 days ago](https://www.insurtechinsights.com/fwd-group-reports-strong-new-business-growth-and-strengthened-financial-position/))
 - Top insurtech funding rounds, October 2025 ([3 days ago](https://www.dig-in.com/list/top-insurtech-funding-rounds-october-2025))
 - Commercial insurers continue to offer more online: Keynova ([3 days ago](https://www.dig-in.com/news/commercial-insurers-continue-to-offer-more-online-keynova))
-- Bond insurance meets market's evolving needs ([3 days ago](https://www.dig-in.com/news/bond-insurance-meets-markets-evolving-needs))
+- Bond insurance meets market's evolving needs ([4 days ago](https://www.dig-in.com/news/bond-insurance-meets-markets-evolving-needs))
 - Compare the Market CEO dismisses ChatGPT taking over PCWs ([4 days ago](https://www.postonline.co.uk/technology/7959321/compare-the-market-ceo-dismisses-chatgpt-taking-over-pcws))
 - Best Insurance launches proposition for military veterans ([4 days ago](https://www.postonline.co.uk/news/7959317/best-insurance-launches-proposition-for-military-veterans))
 - Pan-European MGA federation launches with MGAA backing ([4 days ago](https://www.postonline.co.uk/news/7959316/pan-european-mga-federation-launches-with-mgaa-backing))
