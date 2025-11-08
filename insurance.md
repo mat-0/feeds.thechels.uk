@@ -8,7 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Does Your Travel Insurance Cover Winter Sports? ([23 hours ago](https://insurance-edge.net/2025/11/07/does-your-travel-insurance-cover-winter-sports/))
+- Does Your Travel Insurance Cover Winter Sports? ([1 days ago](https://insurance-edge.net/2025/11/07/does-your-travel-insurance-cover-winter-sports/))
 - Canada Life Re reports 20% increase in base earnings to $265m for Q3’25 ([1 days ago](https://www.reinsurancene.ws/canada-life-re-reports-20-increase-in-base-earnings-to-265m-for-q325/))
 - Canadian P&C insurers seek ways to transfer rising cat risk: Morningstar DBRS ([1 days ago](https://www.reinsurancene.ws/canadian-pc-insurers-seek-ways-to-transfer-rising-cat-risk-morningstar-dbrs/))
 - Fitch Ratings warns of mild credit risk from proposed Solvency II capital reductions ([1 days ago](https://www.reinsurancene.ws/fitch-ratings-warns-of-mild-credit-risk-from-proposed-solvency-ii-capital-reductions/))
