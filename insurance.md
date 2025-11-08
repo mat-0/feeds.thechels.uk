@@ -119,7 +119,7 @@ description: Insurance Updates
 - Big Interview: Mike van der Straaten, Antares ([4 days ago](https://www.postonline.co.uk/lloydslondon/7959103/big-interview-mike-van-der-straaten-antares))
 - Cybersecurity reinsurers feel the strain of ransomware's rise ([4 days ago](https://www.dig-in.com/news/cybersecurity-reinsurers-feel-the-strain-of-ransomware-rise))
 - Insuring against tomorrow with climate risk assessments ([4 days ago](https://www.dig-in.com/opinion/insuring-against-tomorrow-with-climate-risk-assessments))
-- Insured hurricane losses in Jamaica seen as high as $4.2B ([4 days ago](https://www.dig-in.com/articles/insured-hurricane-losses-in-jamaica-seen-as-high-as-4-2b))
+- Insured hurricane losses in Jamaica seen as high as $4.2B ([5 days ago](https://www.dig-in.com/articles/insured-hurricane-losses-in-jamaica-seen-as-high-as-4-2b))
 - Reshaping trust and talent: how AI is redefining the insurance landscape in the UK ([5 days ago](https://ifamagazine.com/reshaping-trust-and-talent-how-ai-is-redefining-the-insurance-landscape-in-the-uk/))
 - Former Bravo boss Bennett resurfaces at JMG ([5 days ago](https://www.postonline.co.uk/news/7959308/former-bravo-boss-bennett-resurfaces-at-jmg))
 - Couples say financial conversations about ill health are crucial, but most haven’t had them ([9 days ago](https://ifamagazine.com/couples-say-financial-conversations-about-ill-health-are-crucial-but-most-havent-had-them/))
