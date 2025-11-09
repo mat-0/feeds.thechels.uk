@@ -100,7 +100,7 @@ description: Insurance Updates
 - Ex-Esure CEO warns of seismic shift from autonomous cars ([3 days ago](https://www.postonline.co.uk/news/7959333/ex-esure-ceo-warns-of-seismic-shift-from-autonomous-cars))
 - Reeves presses insurers to back Britain as London's rivals surge ([3 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/reeves-presses-insurers-to-back-britain-as-londons-rivals-surge-555538.aspx))
 - Huge Jeep recall over spontaneous combustion ([3 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/huge-jeep-recall-over-spontaneous-combustion-555536.aspx))
-- PRA promises to help build ‘internationally competitive’ captives regime ([3 days ago](https://www.postonline.co.uk/news/7959327/pra-promises-to-help-build-internationally-competitive-captives-regime))
+- PRA promises to help build ‘internationally competitive’ captives regime ([4 days ago](https://www.postonline.co.uk/news/7959327/pra-promises-to-help-build-internationally-competitive-captives-regime))
 - Lloyd's grows fossil fuel premiums ([4 days ago](https://www.postonline.co.uk/lloydslondon/7959325/lloyds-grows-fossil-fuel-premiums))
 - What helps after work setbacks? Not what researchers thought ([4 days ago](https://www.insurancebusinessmag.com/uk/business-strategy/what-helps-after-work-setbacks-not-what-researchers-thought-555495.aspx))
 - Admiral reveals progress on pet insurance ambitions ([4 days ago](https://www.postonline.co.uk/personal/7959315/admiral-reveals-progress-on-pet-insurance-ambitions))
