@@ -30,7 +30,7 @@ description: Insurance Updates
 - Jury Awards $10 Million to Virginia Teacher Shot by 6-Year Old Student ([1 days ago](https://www.insurancejournal.com/news/east/2025/11/07/846845.htm))
 - Renault Is Selling Off 100 Rare Vehicles From Its Collection ([1 days ago](https://insurance-edge.net/2025/11/07/renault-is-selling-off-100-rare-vehicles-from-its-collection/))
 - Boeing Avoids US Criminal Charge in 737 Max Jet Crash Case ([1 days ago](https://www.insurancejournal.com/news/national/2025/11/07/846841.htm))
-- “Speed drives growth” as Gen AI accelerates underwriting: AIG CEO ([1 days ago](https://www.reinsurancene.ws/speed-drives-growth-as-gen-ai-accelerates-underwriting-aig-ceo/))
+- “Speed drives growth” as Gen AI accelerates underwriting: AIG CEO ([2 days ago](https://www.reinsurancene.ws/speed-drives-growth-as-gen-ai-accelerates-underwriting-aig-ceo/))
 - People Moves: NFP Names Roberts; Falvey Appoints Blubaugh ([2 days ago](https://www.insurancejournal.com/news/east/2025/11/07/846684.htm))
 - Fraud: When It’s Sometimes Social Engineering ([2 days ago](https://insurance-edge.net/2025/11/07/fraud-when-its-sometimes-social-engineering/))
 - Bristol Myers Reaches $239 Million Settlement Over Psoriasis, MS Drugs ([2 days ago](https://www.insurancejournal.com/news/east/2025/11/07/846758.htm))
