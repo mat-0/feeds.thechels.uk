@@ -55,7 +55,7 @@ description: Insurance Updates
 - Irish Regulator Fines Coinbase Europe 21.5 Million Euros Over Monitoring Failures ([1 days ago](https://www.insurancejournal.com/news/international/2025/11/07/846814.htm))
 - Liberty Mutual posts strong Q3 results ([1 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/liberty-mutual-posts-strong-q3-results-555798.aspx))
 - Industry experts bring critical illness back into focus ([1 days ago](https://ifamagazine.com/industry-experts-bring-critical-illness-back-into-focus/))
-- Friday Focus: critical illness takes centre stage ([1 days ago](https://ifamagazine.com/friday-focus-critical-illness-takes-centre-stage/))
+- Friday Focus: critical illness takes centre stage ([2 days ago](https://ifamagazine.com/friday-focus-critical-illness-takes-centre-stage/))
 - Consumers Are the Front Line in Fighting Insurance Fraud ([2 days ago](https://www.insurancejournal.com/news/national/2025/11/07/846780.htm))
 - Baldwin Group Posts $30M Q3 Loss But Expects More Embedded Builders Growth ([2 days ago](https://www.insurancejournal.com/news/southeast/2025/11/07/846768.htm))
 - Washington Woman’s Fraud Conviction Saves System $1.3M in Lifetime Payments ([2 days ago](https://www.insurancejournal.com/news/west/2025/11/07/846748.htm))
