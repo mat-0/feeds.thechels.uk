@@ -69,7 +69,7 @@ description: Insurance Updates
 - Insurance moves: Pen Underwriting, Allianz Trade, BHSI and Antares ([1 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/insurance-moves-pen-underwriting-allianz-trade-bhsi-and-antares-555750.aspx))
 - AXA launches global initiatives to tackle domestic violence and reinvent education ([1 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/axa-launches-global-initiatives-to-tackle-domestic-violence-and-reinvent-education-555748.aspx))
 - Rising GAP insurance claims highlight depreciation and theft pressures on UK motorists ([1 days ago](https://www.insurancebusinessmag.com/uk/news/auto-motor/rising-gap-insurance-claims-highlight-depreciation-and-theft-pressures-on-uk-motorists-555743.aspx))
-- Aviva demands protection for young drivers as ghost broking surges ([1 days ago](https://www.postonline.co.uk/news/7959339/aviva-demands-protection-for-young-drivers-as-ghost-broking-surges))
+- Aviva demands protection for young drivers as ghost broking surges ([2 days ago](https://www.postonline.co.uk/news/7959339/aviva-demands-protection-for-young-drivers-as-ghost-broking-surges))
 - Insured loss estimates for Hurricane Melissa ([2 days ago](https://www.dig-in.com/news/insured-loss-estimates-for-hurricane-melissa))
 - Life insurers answer what now for customers ([2 days ago](https://www.dig-in.com/opinion/life-insurers-answer-what-now-for-customers))
 - Wildfire Victims Ask Gov. Newsom to Call for Insurance Commissioner’s Resignation ([2 days ago](https://www.insurancejournal.com/news/west/2025/11/06/846762.htm))
