@@ -8,11 +8,11 @@ description: SecOps News
 [Get this as an RSS feed](/secops.rss)
 
 <!-- news_marker starts -->
-- NAKIVO Introduces v11.1 with Upgraded Disaster Recovery and MSP Features ([37 minutes ago](https://www.bleepingcomputer.com/news/security/nakivo-introduces-v111-with-upgraded-disaster-recovery-and-msp-features/))
-- Lost iPhone? Don’t fall for phishing texts saying it was found ([55 minutes ago](https://www.bleepingcomputer.com/news/security/lost-iphone-dont-fall-for-phishing-texts-saying-it-was-found/))
-- Dangerous runC flaws could allow hackers to escape Docker containers ([56 minutes ago](https://www.bleepingcomputer.com/news/security/dangerous-runc-flaws-could-allow-hackers-to-escape-docker-containers/))
-- OpenAI plans to release GPT-5.1, GPT-5.1 Reasoning, and GPT-5.1 Pro ([17 hours ago](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-plans-to-release-gpt-51-gpt-51-reasoning-and-gpt-51-pro/))
-- GlassWorm malware returns on OpenVSX with 3 new VSCode extensions ([23 hours ago](https://www.bleepingcomputer.com/news/security/glassworm-malware-returns-on-openvsx-with-3-new-vscode-extensions/))
+- NAKIVO Introduces v11.1 with Upgraded Disaster Recovery and MSP Features ([1 hours ago](https://www.bleepingcomputer.com/news/security/nakivo-introduces-v111-with-upgraded-disaster-recovery-and-msp-features/))
+- Lost iPhone? Don’t fall for phishing texts saying it was found ([1 hours ago](https://www.bleepingcomputer.com/news/security/lost-iphone-dont-fall-for-phishing-texts-saying-it-was-found/))
+- Dangerous runC flaws could allow hackers to escape Docker containers ([1 hours ago](https://www.bleepingcomputer.com/news/security/dangerous-runc-flaws-could-allow-hackers-to-escape-docker-containers/))
+- OpenAI plans to release GPT-5.1, GPT-5.1 Reasoning, and GPT-5.1 Pro ([18 hours ago](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-plans-to-release-gpt-51-gpt-51-reasoning-and-gpt-51-pro/))
+- GlassWorm malware returns on OpenVSX with 3 new VSCode extensions ([1 days ago](https://www.bleepingcomputer.com/news/security/glassworm-malware-returns-on-openvsx-with-3-new-vscode-extensions/))
 - Still on Windows 10? Enroll in free ESU before next week’s Patch Tuesday ([1 days ago](https://www.bleepingcomputer.com/news/microsoft/still-on-windows-10-enroll-in-free-extended-security-updates/))
 - Microsoft Uncovers 'Whisper Leak' Attack That Identifies AI Chat Topics in Encrypted Traffic ([1 days ago](https://thehackernews.com/2025/11/microsoft-uncovers-whisper-leak-attack.html))
 - Who's watching the watchers? This Mozilla fellow, and her Surveillance Watch map ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2025/11/08/mozilla_fellow_al_shafei/))
@@ -29,7 +29,7 @@ description: SecOps News
 - New LandFall spyware exploited Samsung zero-day via WhatsApp messages ([1 days ago](https://www.bleepingcomputer.com/news/security/new-landfall-spyware-exploited-samsung-zero-day-via-whatsapp-messages/))
 - Samsung Mobile Flaw Exploited as Zero-Day to Deploy LANDFALL Android Spyware ([1 days ago](https://thehackernews.com/2025/11/samsung-zero-click-flaw-exploited-to.html))
 - Google's Gemini Deep Research can now read your Gmail and rummage through Google Drive ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2025/11/07/gemini_deep_research_can_now/))
-- In Other News: Controversial Ransomware Report, Gootloader Returns, More AN0M Arrests ([1 days ago](https://www.securityweek.com/in-other-news-controversial-ransomware-report-gootloader-returns-more-an0m-arrests/))
+- In Other News: Controversial Ransomware Report, Gootloader Returns, More AN0M Arrests ([2 days ago](https://www.securityweek.com/in-other-news-controversial-ransomware-report-gootloader-returns-more-an0m-arrests/))
 - From Log4j to IIS, China’s Hackers Turn Legacy Bugs into Global Espionage Tools ([2 days ago](https://thehackernews.com/2025/11/from-log4j-to-iis-chinas-hackers-turn.html))
 - Cisco: Actively exploited firewall flaws now abused for DoS attacks ([2 days ago](https://www.bleepingcomputer.com/news/security/cisco-actively-exploited-firewall-flaws-now-abused-for-dos-attacks/))
 - Landfall Android Spyware Targeted Samsung Phones via Zero-Day ([2 days ago](https://www.securityweek.com/landfall-android-spyware-targeted-samsung-phones-via-zero-day/))
@@ -153,7 +153,7 @@ description: SecOps News
 - Legal Aid Agency chief admits difficulties understanding impact of cyberattack ([9 days ago](https://databreaches.net/2025/10/31/legal-aid-agency-chief-admits-difficulties-understanding-impact-of-cyberattack/?pk_campaign=feed&pk_kwd=legal-aid-agency-chief-admits-difficulties-understanding-impact-of-cyberattack))
 - What DORA Means for ICT Suppliers: MSPs, SaaS and Cloud in Scope ([9 days ago](https://www.itgovernance.co.uk/blog/what-dora-means-for-ict-suppliers-msps-saas-and-cloud-in-scope))
 - Disruption with some GitHub services ([9 days ago](https://www.githubstatus.com/incidents/6hygvwpw2vr3))
-- Spam text scammer fined £200,000 for targeting people in debt, after sending nearly one million messages ([9 days ago](https://www.bitdefender.com/en-us/blog/hotforsecurity/spam-text-scammer-fined-200-000-for-targeting-people-in-debt-after-sending-nearly-one-million-messages))
+- Spam text scammer fined £200,000 for targeting people in debt, after sending nearly one million messages ([10 days ago](https://www.bitdefender.com/en-us/blog/hotforsecurity/spam-text-scammer-fined-200-000-for-targeting-people-in-debt-after-sending-nearly-one-million-messages))
 - The human cost of the UK Government’s Afghan data leak ([10 days ago](https://grahamcluley.com/the-human-cost-of-the-uk-governments-afghan-data-leak/))
 - LinkedIn gives you until Monday to stop AI from training on your profile ([10 days ago](https://www.bitdefender.com/en-us/blog/hotforsecurity/linkedin-gives-you-until-monday-to-stop-ai-from-training-on-your-profile))
 - Smashing Security podcast #441: Inside the mob’s million-dollar poker hack, and a Formula 1 fumble ([10 days ago](https://grahamcluley.com/smashing-security-podcast-441/))
@@ -206,7 +206,5 @@ description: SecOps News
 - Phishing attacks: defending your organisation ([26 days ago](https://www.ncsc.gov.uk/guidance/phishing))
 - Weekly Update 473 ([28 days ago](https://www.troyhunt.com/weekly-update-473/))
 - Vietnam Airlines - 7,316,915 breached accounts ([29 days ago](https://haveibeenpwned.com/Breach/VietnamAirlines))
-- BreachForums seized, but hackers say they will still leak Salesforce data ([29 days ago](https://www.bitdefender.com/en-us/blog/hotforsecurity/breachforums-seized-hackers-will-leak-salesforce-data))
-- DDoS Botnet Aisuru Blankets US ISPs in Record DDoS ([29 days ago](https://krebsonsecurity.com/2025/10/ddos-botnet-aisuru-blankets-us-isps-in-record-ddos/))
 
 <!-- news_marker ends -->
