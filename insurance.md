@@ -9,7 +9,7 @@ description: Insurance Updates
 
 <!-- news_marker starts -->
 - AI in life insurance: Shaping an industry in new ways ([2 hours ago](https://www.dig-in.com/news/ai-in-life-insurance))
-- Nationwide's $1.5B tech investment; Coalition acquires Wirespeed: Insurance news ([2 hours ago](https://www.dig-in.com/news/nationwides-1-5b-tech-investment-coalition-acquires-wirespeed-insurance-news))
+- Nationwide's $1.5B tech investment; Coalition acquires Wirespeed: Insurance news ([3 hours ago](https://www.dig-in.com/news/nationwides-1-5b-tech-investment-coalition-acquires-wirespeed-insurance-news))
 - Pay-Per-Mile is Bound to Increase the Cost of Everything ([6 hours ago](https://insurance-edge.net/2025/11/09/pay-per-mile-is-bound-to-increase-the-cost-of-everything/))
 - BoE Interest Rates: Comment and Analysis ([6 hours ago](https://insurance-edge.net/2025/11/09/boe-interest-rates-comment-and-analysis/))
 - Insurance Choice Awards Winners Announced ([6 hours ago](https://insurance-edge.net/2025/11/09/insurance-choice-awards-winners-announced/))
