@@ -8,8 +8,8 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- AI in life insurance: Shaping an industry in new ways ([17 minutes ago](https://www.dig-in.com/news/ai-in-life-insurance))
-- Nationwide's $1.5B tech investment; Coalition acquires Wirespeed: Insurance news ([57 minutes ago](https://www.dig-in.com/news/nationwides-1-5b-tech-investment-coalition-acquires-wirespeed-insurance-news))
+- AI in life insurance: Shaping an industry in new ways ([45 minutes ago](https://www.dig-in.com/news/ai-in-life-insurance))
+- Nationwide's $1.5B tech investment; Coalition acquires Wirespeed: Insurance news ([1 hours ago](https://www.dig-in.com/news/nationwides-1-5b-tech-investment-coalition-acquires-wirespeed-insurance-news))
 - Pay-Per-Mile is Bound to Increase the Cost of Everything ([4 hours ago](https://insurance-edge.net/2025/11/09/pay-per-mile-is-bound-to-increase-the-cost-of-everything/))
 - BoE Interest Rates: Comment and Analysis ([4 hours ago](https://insurance-edge.net/2025/11/09/boe-interest-rates-comment-and-analysis/))
 - Insurance Choice Awards Winners Announced ([4 hours ago](https://insurance-edge.net/2025/11/09/insurance-choice-awards-winners-announced/))
@@ -72,7 +72,7 @@ description: Insurance Updates
 - AXA launches global initiatives to tackle domestic violence and reinvent education ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/axa-launches-global-initiatives-to-tackle-domestic-violence-and-reinvent-education-555748.aspx))
 - Rising GAP insurance claims highlight depreciation and theft pressures on UK motorists ([2 days ago](https://www.insurancebusinessmag.com/uk/news/auto-motor/rising-gap-insurance-claims-highlight-depreciation-and-theft-pressures-on-uk-motorists-555743.aspx))
 - Aviva demands protection for young drivers as ghost broking surges ([2 days ago](https://www.postonline.co.uk/news/7959339/aviva-demands-protection-for-young-drivers-as-ghost-broking-surges))
-- Insured loss estimates for Hurricane Melissa ([2 days ago](https://www.dig-in.com/news/insured-loss-estimates-for-hurricane-melissa))
+- Insured loss estimates for Hurricane Melissa ([3 days ago](https://www.dig-in.com/news/insured-loss-estimates-for-hurricane-melissa))
 - Life insurers answer what now for customers ([3 days ago](https://www.dig-in.com/opinion/life-insurers-answer-what-now-for-customers))
 - Wildfire Victims Ask Gov. Newsom to Call for Insurance Commissioner’s Resignation ([3 days ago](https://www.insurancejournal.com/news/west/2025/11/06/846762.htm))
 - Engine Detached From UPS Plane Before Fatal Kentucky Crash ([3 days ago](https://www.insurancejournal.com/news/southeast/2025/11/06/846736.htm))
@@ -97,7 +97,7 @@ description: Insurance Updates
 - Intact Financial reports strong Q3 results despite UK slump ([3 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/intact-financial-reports-strong-q3-results-despite-uk-slump-555580.aspx))
 - Fitch: EU Solvency II reforms could push insurers toward higher investment risk ([3 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/fitch-eu-solvency-ii-reforms-could-push-insurers-toward-higher-investment-risk-555576.aspx))
 - UK pet insurance premiums edge upward as market stabilises - Pearson Ham ([3 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/uk-pet-insurance-premiums-edge-upward-as-market-stabilises--pearson-ham-555571.aspx))
-- Meet the insurtech: Roamly ([3 days ago](https://www.dig-in.com/news/meet-the-insurtech-roamly))
+- Meet the insurtech: Roamly ([4 days ago](https://www.dig-in.com/news/meet-the-insurtech-roamly))
 - AI: The silent killer for commercial insurers ([4 days ago](https://www.dig-in.com/news/ai-the-silent-killer-for-commercial-insurers))
 - Ex-Esure CEO warns of seismic shift from autonomous cars ([4 days ago](https://www.postonline.co.uk/news/7959333/ex-esure-ceo-warns-of-seismic-shift-from-autonomous-cars))
 - Reeves presses insurers to back Britain as London's rivals surge ([4 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/reeves-presses-insurers-to-back-britain-as-londons-rivals-surge-555538.aspx))
