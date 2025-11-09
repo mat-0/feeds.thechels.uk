@@ -8,10 +8,10 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Pay-Per-Mile is Bound to Increase the Cost of Everything ([1 hours ago](https://insurance-edge.net/2025/11/09/pay-per-mile-is-bound-to-increase-the-cost-of-everything/))
-- BoE Interest Rates: Comment and Analysis ([1 hours ago](https://insurance-edge.net/2025/11/09/boe-interest-rates-comment-and-analysis/))
-- Insurance Choice Awards Winners Announced ([1 hours ago](https://insurance-edge.net/2025/11/09/insurance-choice-awards-winners-announced/))
-- Cashwin Casino Australia Review – The Ultimate Online Gaming Destination ([1 hours ago](https://insurance-edge.net/2025/11/09/cashwin-casino-australia-review-the-ultimate-online-gaming-destination/))
+- Pay-Per-Mile is Bound to Increase the Cost of Everything ([2 hours ago](https://insurance-edge.net/2025/11/09/pay-per-mile-is-bound-to-increase-the-cost-of-everything/))
+- BoE Interest Rates: Comment and Analysis ([2 hours ago](https://insurance-edge.net/2025/11/09/boe-interest-rates-comment-and-analysis/))
+- Insurance Choice Awards Winners Announced ([2 hours ago](https://insurance-edge.net/2025/11/09/insurance-choice-awards-winners-announced/))
+- Cashwin Casino Australia Review – The Ultimate Online Gaming Destination ([2 hours ago](https://insurance-edge.net/2025/11/09/cashwin-casino-australia-review-the-ultimate-online-gaming-destination/))
 - Goodman Casino Review – Australia’s Reliable Online Gaming Destination ([2 hours ago](https://insurance-edge.net/2025/11/09/goodman-casino-review-australias-reliable-online-gaming-destination/))
 - Does Your Travel Insurance Cover Winter Sports? ([1 days ago](https://insurance-edge.net/2025/11/07/does-your-travel-insurance-cover-winter-sports/))
 - Canada Life Re reports 20% increase in base earnings to $265m for Q3’25 ([1 days ago](https://www.reinsurancene.ws/canada-life-re-reports-20-increase-in-base-earnings-to-265m-for-q325/))
