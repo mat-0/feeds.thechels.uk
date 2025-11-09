@@ -87,7 +87,7 @@ description: Insurance Updates
 - Data centre construction soars as AI drives demand – but so do the risks ([2 days ago](https://www.insurancebusinessmag.com/uk/news/technology/data-centre-construction-soars-as-ai-drives-demand--but-so-do-the-risks-555632.aspx))
 - Insurtech funding stabilising following ‘volatility’ ([2 days ago](https://www.postonline.co.uk/technology/7959337/insurtech-funding-stabilising-following-volatility))
 - Hiscox highlights major retail expansion in Q3 results ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/hiscox-highlights-major-retail-expansion-in-q3-results-555626.aspx))
-- Climate slips down the agenda, but insurers warn it's the "risk that amplifies all others" ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/climate-slips-down-the-agenda-but-insurers-warn-its-the-risk-that-amplifies-all-others-555617.aspx))
+- Climate slips down the agenda, but insurers warn it's the "risk that amplifies all others" ([3 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/climate-slips-down-the-agenda-but-insurers-warn-its-the-risk-that-amplifies-all-others-555617.aspx))
 - Motor insurers can’t tackle professional enablers of fraud alone ([3 days ago](https://www.postonline.co.uk/claims/7959248/motor-insurers-cant-tackle-professional-enablers-of-fraud-alone))
 - Q&A: Etienne Legangneux, Vet-AI ([3 days ago](https://www.postonline.co.uk/personal/7958925/qa-etienne-legangneux-vet-ai))
 - Throwback Thursday: RSA embraces colour and data ([3 days ago](https://www.postonline.co.uk/personal/7956775/throwback-thursday-rsa-embraces-colour-and-data))
