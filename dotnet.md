@@ -8,11 +8,11 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Defensive Programming Rule #3: Validate Your Enums (Every Time) ([10 hours ago](https://dotnettips.wordpress.com/2025/11/09/defensive-programming-rule-3-validate-your-enums-every-time/))
+- Defensive Programming Rule #3: Validate Your Enums (Every Time) ([11 hours ago](https://dotnettips.wordpress.com/2025/11/09/defensive-programming-rule-3-validate-your-enums-every-time/))
 - The Critter Stack Gets Even Better at Testing ([3 days ago](https://dotnetkicks.com/r/734378?url=https://jeremydmiller.com/2025/11/05/critter-stack-gets-better-for-testing/))
 - The Critter Stack Gets Even Better at Testing ([3 days ago](https://dotnetkicks.com/r/734367?url=https://jeremydmiller.com/2025/11/05/critter-stack-gets-better-for-testing/))
 - How Copilot Studio uses .NET and WebAssembly for performance and innovation - .NET Blog ([3 days ago](https://dotnetkicks.com/r/734333?url=https://devblogs.microsoft.com/dotnet/copilot-studio-dotnet-wasm/))
-- How Copilot Studio uses .NET and WebAssembly for performance and innovation ([3 days ago](https://devblogs.microsoft.com/dotnet/copilot-studio-dotnet-wasm/))
+- How Copilot Studio uses .NET and WebAssembly for performance and innovation ([4 days ago](https://devblogs.microsoft.com/dotnet/copilot-studio-dotnet-wasm/))
 - The Rider 2025.3 Release Candidate Is Now Available ([4 days ago](https://blog.jetbrains.com/dotnet/2025/11/05/the-rider-2025-3-release-candidate/))
 - The ReSharper, .NET Tools, and ReSharper C++ 2025.3 Release Candidates Are Now Available ([4 days ago](https://blog.jetbrains.com/dotnet/2025/11/05/the-resharper-dotnet-tools-2025-3-release-candidate/))
 - Introducing Agent HQ: Any agent, any way you work ([4 days ago](https://dotnetkicks.com/r/734289?url=https://github.blog/news-insights/company-news/welcome-home-agents/))
@@ -20,7 +20,7 @@ description: DotNet Updates
 - dotInsights  -  November 2025 ([4 days ago](https://blog.jetbrains.com/dotnet/2025/11/05/dotinsights-november-2025/))
 - Get Ready for .NET Conf 2025! - .NET Blog ([4 days ago](https://dotnetkicks.com/r/734139?url=https://devblogs.microsoft.com/dotnet/get-ready-for-dotnet-conf-2025/))
 - Get Ready for .NET Conf 2025! - .NET Blog ([4 days ago](https://dotnetkicks.com/r/734124?url=https://devblogs.microsoft.com/dotnet/get-ready-for-dotnet-conf-2025/))
-- Get Ready for .NET Conf 2025! ([4 days ago](https://devblogs.microsoft.com/dotnet/get-ready-for-dotnet-conf-2025/))
+- Get Ready for .NET Conf 2025! ([5 days ago](https://devblogs.microsoft.com/dotnet/get-ready-for-dotnet-conf-2025/))
 - Taming the Billion Dollar Mistake: Maarten Balliauw’s Guide to C# Nullable Reference Types ([5 days ago](https://blog.jetbrains.com/dotnet/2025/11/04/maarten-balliauws-guide-to-csharp-nullable-reference-types/))
 - F# Advent Calendar in English 2025 ([5 days ago](https://dotnetkicks.com/r/734090?url=https://sergeytihon.com/2025/11/03/f-advent-calendar-in-english-2025/))
 - Easier reflection with [UnsafeAccessorType] in .NET 10: Exploring the .NET 10 preview - Part 9 ([5 days ago](https://andrewlock.net/exploring-dotnet-10-preview-features-9-easier-reflection-with-unsafeaccessortype/))
