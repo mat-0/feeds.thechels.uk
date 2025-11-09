@@ -8,12 +8,12 @@ description: SecOps News
 [Get this as an RSS feed](/secops.rss)
 
 <!-- news_marker starts -->
-- OpenAI plans to release GPT-5.1, GPT-5.1 Reasoning, and GPT-5.1 Pro ([4 hours ago](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-plans-to-release-gpt-51-gpt-51-reasoning-and-gpt-51-pro/))
+- OpenAI plans to release GPT-5.1, GPT-5.1 Reasoning, and GPT-5.1 Pro ([5 hours ago](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-plans-to-release-gpt-51-gpt-51-reasoning-and-gpt-51-pro/))
 - GlassWorm malware returns on OpenVSX with 3 new VSCode extensions ([11 hours ago](https://www.bleepingcomputer.com/news/security/glassworm-malware-returns-on-openvsx-with-3-new-vscode-extensions/))
 - Still on Windows 10? Enroll in free ESU before next week’s Patch Tuesday ([12 hours ago](https://www.bleepingcomputer.com/news/microsoft/still-on-windows-10-enroll-in-free-extended-security-updates/))
-- Microsoft Uncovers 'Whisper Leak' Attack That Identifies AI Chat Topics in Encrypted Traffic ([12 hours ago](https://thehackernews.com/2025/11/microsoft-uncovers-whisper-leak-attack.html))
+- Microsoft Uncovers 'Whisper Leak' Attack That Identifies AI Chat Topics in Encrypted Traffic ([13 hours ago](https://thehackernews.com/2025/11/microsoft-uncovers-whisper-leak-attack.html))
 - Who's watching the watchers? This Mozilla fellow, and her Surveillance Watch map ([16 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/11/08/mozilla_fellow_al_shafei/))
-- TISZA Világ - 198,520 breached accounts ([17 hours ago](https://haveibeenpwned.com/Breach/Tisza))
+- TISZA Világ - 198,520 breached accounts ([18 hours ago](https://haveibeenpwned.com/Breach/Tisza))
 - Microsoft's lack of quality control is out of control ([19 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/11/08/microsoft_lacks_quality_control/))
 - ChatGPT, Claude, and Grok make very squishy jury members ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2025/11/08/chatgpt_claude_and_grok_vote/))
 - Previously unknown Landfall spyware used in 0-day attacks on Samsung phones ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2025/11/07/landfall_spyware_samsung_0days/))
