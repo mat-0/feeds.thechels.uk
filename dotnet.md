@@ -8,7 +8,7 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Defensive Programming Rule #3: Validate Your Enums (Every Time) ([3 hours ago](https://dotnettips.wordpress.com/2025/11/09/defensive-programming-rule-3-validate-your-enums-every-time/))
+- Defensive Programming Rule #3: Validate Your Enums (Every Time) ([4 hours ago](https://dotnettips.wordpress.com/2025/11/09/defensive-programming-rule-3-validate-your-enums-every-time/))
 - The Critter Stack Gets Even Better at Testing ([3 days ago](https://dotnetkicks.com/r/734378?url=https://jeremydmiller.com/2025/11/05/critter-stack-gets-better-for-testing/))
 - The Critter Stack Gets Even Better at Testing ([3 days ago](https://dotnetkicks.com/r/734367?url=https://jeremydmiller.com/2025/11/05/critter-stack-gets-better-for-testing/))
 - How Copilot Studio uses .NET and WebAssembly for performance and innovation - .NET Blog ([3 days ago](https://dotnetkicks.com/r/734333?url=https://devblogs.microsoft.com/dotnet/copilot-studio-dotnet-wasm/))
@@ -42,7 +42,7 @@ description: DotNet Updates
 - Introducing Custom Agents for .NET Developers: C# Expert & WinForms Expert - .NET Blog ([11 days ago](https://dotnetkicks.com/r/733409?url=https://devblogs.microsoft.com/dotnet/introducing-custom-agents-for-dotnet-developers-csharp-expert-winforms-expert/))
 - Introducing Custom Agents for .NET Developers: C# Expert & WinForms Expert - .NET Blog ([11 days ago](https://dotnetkicks.com/r/733405?url=https://devblogs.microsoft.com/dotnet/introducing-custom-agents-for-dotnet-developers-csharp-expert-winforms-expert/))
 - Introducing Custom Agents for .NET Developers: C# Expert & WinForms Expert ([11 days ago](https://devblogs.microsoft.com/dotnet/introducing-custom-agents-for-dotnet-developers-csharp-expert-winforms-expert/))
-- Understanding the worst .NET vulnerability ever: request smuggling and CVE-2025-55315 ([11 days ago](https://dotnetkicks.com/r/733349?url=https://andrewlock.net/understanding-the-worst-dotnet-vulnerability-request-smuggling-and-cve-2025-55315/))
+- Understanding the worst .NET vulnerability ever: request smuggling and CVE-2025-55315 ([12 days ago](https://dotnetkicks.com/r/733349?url=https://andrewlock.net/understanding-the-worst-dotnet-vulnerability-request-smuggling-and-cve-2025-55315/))
 - Understanding the worst .NET vulnerability ever: request smuggling and CVE-2025-55315 ([12 days ago](https://andrewlock.net/understanding-the-worst-dotnet-vulnerability-request-smuggling-and-cve-2025-55315/))
 - ReSharper and Rider 2025.2.4: Another Set of Updates Released ([12 days ago](https://blog.jetbrains.com/dotnet/2025/10/28/resharper-and-rider-2025-1-4-2/))
 - Wolverine 5 and Modular Monoliths ([12 days ago](https://dotnetkicks.com/r/733335?url=https://jeremydmiller.com/2025/10/27/wolverine-5-and-modular-monoliths/))
