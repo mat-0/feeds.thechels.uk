@@ -24,7 +24,7 @@ description: Insurance Updates
 - Chicago Jury is Picked in Boeing Trial Over Payouts Related to Ethiopia Crash ([1 days ago](https://www.insurancejournal.com/news/midwest/2025/11/07/846856.htm))
 - Trisura’s operating net income rises 3.6% in Q3’25 amid profitable underwriting ([1 days ago](https://www.reinsurancene.ws/trisuras-operating-net-income-rises-3-6-in-q325-amid-profitable-underwriting/))
 - Zurich Invests Heavily in Underwriting Talent to Boost Mid-Market, Specialty Growth ([1 days ago](https://www.insurancejournal.com/news/international/2025/11/07/846850.htm))
-- Jay Virdi appointed as Distribution Leader, NA at Relm US Insurance Solutions ([1 days ago](https://www.reinsurancene.ws/jay-virdi-appointed-as-distribution-leader-na-at-relm-us-insurance-solutions/))
+- Jay Virdi appointed as Distribution Leader, NA at Relm US Insurance Solutions ([2 days ago](https://www.reinsurancene.ws/jay-virdi-appointed-as-distribution-leader-na-at-relm-us-insurance-solutions/))
 - Mphasis Launches Campaign to Stress Importance of Truly Intelligent AI ([2 days ago](https://insurance-edge.net/2025/11/07/mphasis-launches-campaign-to-stress-importance-of-truly-intelligent-ai/))
 - Zurich Insurance Group names Megan Shao as Chief Claims Officer, APAC ([2 days ago](https://www.reinsurancene.ws/zurich-insurance-group-names-megan-shao-as-chief-claims-officer-apac/))
 - Jury Awards $10 Million to Virginia Teacher Shot by 6-Year Old Student ([2 days ago](https://www.insurancejournal.com/news/east/2025/11/07/846845.htm))
