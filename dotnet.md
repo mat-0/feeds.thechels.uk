@@ -8,7 +8,7 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- dotNetDave Rocks Austin .NET User Group November 2025 Meeting ([2 hours ago](https://dotnettips.wordpress.com/2025/11/10/dotnetdave-rocks-austin-net-user-group-november-2025-meeting/))
+- dotNetDave Rocks Austin .NET User Group November 2025 Meeting ([3 hours ago](https://dotnettips.wordpress.com/2025/11/10/dotnetdave-rocks-austin-net-user-group-november-2025-meeting/))
 - Defensive Programming Rule #3: Validate Your Enums (Every Time) ([1 days ago](https://dotnettips.wordpress.com/2025/11/09/defensive-programming-rule-3-validate-your-enums-every-time/))
 - The Critter Stack Gets Even Better at Testing ([4 days ago](https://dotnetkicks.com/r/734378?url=https://jeremydmiller.com/2025/11/05/critter-stack-gets-better-for-testing/))
 - The Critter Stack Gets Even Better at Testing ([4 days ago](https://dotnetkicks.com/r/734367?url=https://jeremydmiller.com/2025/11/05/critter-stack-gets-better-for-testing/))
@@ -25,8 +25,8 @@ description: DotNet Updates
 - Taming the Billion Dollar Mistake: Maarten Balliauw’s Guide to C# Nullable Reference Types ([6 days ago](https://blog.jetbrains.com/dotnet/2025/11/04/maarten-balliauws-guide-to-csharp-nullable-reference-types/))
 - F# Advent Calendar in English 2025 ([6 days ago](https://dotnetkicks.com/r/734090?url=https://sergeytihon.com/2025/11/03/f-advent-calendar-in-english-2025/))
 - Easier reflection with [UnsafeAccessorType] in .NET 10: Exploring the .NET 10 preview - Part 9 ([6 days ago](https://andrewlock.net/exploring-dotnet-10-preview-features-9-easier-reflection-with-unsafeaccessortype/))
-- AutoMapper 15.1 and MediatR 13.1 Released ([6 days ago](https://dotnetkicks.com/r/734032?url=https://www.jimmybogard.com/automapper-15-1-and-mediatr-13-1-released/))
-- AutoMapper 15.1 and MediatR 13.1 Released ([6 days ago](https://dotnetkicks.com/r/734021?url=https://www.jimmybogard.com/automapper-15-1-and-mediatr-13-1-released/))
+- AutoMapper 15.1 and MediatR 13.1 Released ([7 days ago](https://dotnetkicks.com/r/734032?url=https://www.jimmybogard.com/automapper-15-1-and-mediatr-13-1-released/))
+- AutoMapper 15.1 and MediatR 13.1 Released ([7 days ago](https://dotnetkicks.com/r/734021?url=https://www.jimmybogard.com/automapper-15-1-and-mediatr-13-1-released/))
 - Interesting new C# 14 features coming with .NET 10 ([7 days ago](https://dotnetkicks.com/r/734015?url=https://thomaslevesque.com/2025/10/07/interesting-new-csharp-14-features-coming-with-net-10/))
 - Reflections on Current 2025 -Streaming, AI, Beignets, and The Buffalo Bills? ([7 days ago](https://dotnetkicks.com/r/733982?url=https://rion.io/2025/11/03/reflections-on-current-2025-streaming-ai-beignets-and-the-buffalo-bills/))
 - Implement a secure MCP server using OAuth DPoP and Duende identity provider ([7 days ago](https://dotnetkicks.com/r/733972?url=https://damienbod.com/2025/11/03/implement-a-secure-mcp-server-using-oauth-dpop-and-duende-identity-provider/))
@@ -55,7 +55,7 @@ description: DotNet Updates
 - Coming to Rider 2025.3: ASP.NET and Database Issue Detection In The Monitoring Tool Window ([21 days ago](https://blog.jetbrains.com/dotnet/2025/10/20/rider-2025-3-asp-dotnet-and-database-issue-monitoring/))
 - Mastering the Art of Public Speaking: Lessons from a Lifetime of Teaching and Sharing ([22 days ago](https://dotnettips.wordpress.com/2025/10/19/mastering-the-art-of-public-speaking-lessons-from-a-lifetime-of-teaching-and-sharing/))
 - Tech Prediction: The Data Kings Will Rule the World ([26 days ago](https://dotnettips.wordpress.com/2025/10/15/tech-prediction-the-data-kings-will-rule-the-world/))
-- .NET and .NET Framework October 2025 servicing releases updates ([26 days ago](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-october-2025-servicing-updates/))
+- .NET and .NET Framework October 2025 servicing releases updates ([27 days ago](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-october-2025-servicing-updates/))
 - Announcing .NET 10 Release Candidate 2 ([27 days ago](https://devblogs.microsoft.com/dotnet/dotnet-10-rc-2/))
 - Announcing the .NET Security Group ([27 days ago](https://devblogs.microsoft.com/dotnet/announcing-dotnet-security-group/))
 - ReSharper Is Now on the Open VSX Registry ([27 days ago](https://blog.jetbrains.com/dotnet/2025/10/14/resharper-open-vsx/))
