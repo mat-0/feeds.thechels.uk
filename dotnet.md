@@ -8,7 +8,7 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Defensive Programming Rule #3: Validate Your Enums (Every Time) ([21 hours ago](https://dotnettips.wordpress.com/2025/11/09/defensive-programming-rule-3-validate-your-enums-every-time/))
+- Defensive Programming Rule #3: Validate Your Enums (Every Time) ([22 hours ago](https://dotnettips.wordpress.com/2025/11/09/defensive-programming-rule-3-validate-your-enums-every-time/))
 - How Copilot Studio uses .NET and WebAssembly for performance and innovation ([4 days ago](https://devblogs.microsoft.com/dotnet/copilot-studio-dotnet-wasm/))
 - The Rider 2025.3 Release Candidate Is Now Available ([4 days ago](https://blog.jetbrains.com/dotnet/2025/11/05/the-rider-2025-3-release-candidate/))
 - The ReSharper, .NET Tools, and ReSharper C++ 2025.3 Release Candidates Are Now Available ([4 days ago](https://blog.jetbrains.com/dotnet/2025/11/05/the-resharper-dotnet-tools-2025-3-release-candidate/))
