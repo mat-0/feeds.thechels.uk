@@ -15,7 +15,7 @@ description: Insurance Updates
 - BoE Interest Rates: Comment and Analysis ([12 hours ago](https://insurance-edge.net/2025/11/09/boe-interest-rates-comment-and-analysis/))
 - Insurance Choice Awards Winners Announced ([12 hours ago](https://insurance-edge.net/2025/11/09/insurance-choice-awards-winners-announced/))
 - Cashwin Casino Australia Review – The Ultimate Online Gaming Destination ([12 hours ago](https://insurance-edge.net/2025/11/09/cashwin-casino-australia-review-the-ultimate-online-gaming-destination/))
-- Goodman Casino Review – Australia’s Reliable Online Gaming Destination ([12 hours ago](https://insurance-edge.net/2025/11/09/goodman-casino-review-australias-reliable-online-gaming-destination/))
+- Goodman Casino Review – Australia’s Reliable Online Gaming Destination ([13 hours ago](https://insurance-edge.net/2025/11/09/goodman-casino-review-australias-reliable-online-gaming-destination/))
 - Does Your Travel Insurance Cover Winter Sports? ([2 days ago](https://insurance-edge.net/2025/11/07/does-your-travel-insurance-cover-winter-sports/))
 - Canada Life Re reports 20% increase in base earnings to $265m for Q3’25 ([2 days ago](https://www.reinsurancene.ws/canada-life-re-reports-20-increase-in-base-earnings-to-265m-for-q325/))
 - Canadian P&C insurers seek ways to transfer rising cat risk: Morningstar DBRS ([2 days ago](https://www.reinsurancene.ws/canadian-pc-insurers-seek-ways-to-transfer-rising-cat-risk-morningstar-dbrs/))
@@ -67,8 +67,8 @@ description: Insurance Updates
 - Landlord Gets Another Chance to Hold Broker Liable for Failed Lead Paint Disclosure ([2 days ago](https://www.insurancejournal.com/news/east/2025/11/07/846795.htm))
 - Penny Black’s Social Diary: Russell Scanlan’s retirement; CII’s cookies ([2 days ago](https://www.postonline.co.uk/people/7959170/penny-blacks-social-diary-russell-scanlans-retirement-ciis-cookies))
 - Ghost broking scams surge as Aviva calls for crackdown to protect young drivers ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/ghost-broking-scams-surge-as-aviva-calls-for-crackdown-to-protect-young-drivers-555746.aspx))
-- AM Best Revises Outlook to Positive for Michigan Millers Mutual ([2 days ago](https://www.insurancejournal.com/news/midwest/2025/11/07/846810.htm))
-- Texas Asks Court to Halt Kenvue Tylenol Marketing, Dividend ([2 days ago](https://www.insurancejournal.com/news/southcentral/2025/11/07/846804.htm))
+- AM Best Revises Outlook to Positive for Michigan Millers Mutual ([3 days ago](https://www.insurancejournal.com/news/midwest/2025/11/07/846810.htm))
+- Texas Asks Court to Halt Kenvue Tylenol Marketing, Dividend ([3 days ago](https://www.insurancejournal.com/news/southcentral/2025/11/07/846804.htm))
 - Insurance moves: Pen Underwriting, Allianz Trade, BHSI and Antares ([3 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/insurance-moves-pen-underwriting-allianz-trade-bhsi-and-antares-555750.aspx))
 - AXA launches global initiatives to tackle domestic violence and reinvent education ([3 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/axa-launches-global-initiatives-to-tackle-domestic-violence-and-reinvent-education-555748.aspx))
 - Rising GAP insurance claims highlight depreciation and theft pressures on UK motorists ([3 days ago](https://www.insurancebusinessmag.com/uk/news/auto-motor/rising-gap-insurance-claims-highlight-depreciation-and-theft-pressures-on-uk-motorists-555743.aspx))
@@ -130,6 +130,6 @@ description: Insurance Updates
 - Zurich Launches AI Lab ([10 days ago](https://www.insurtechinsights.com/zurich-launches-ai-lab/))
 - Acrisure Appoints Benjamin Funk as Chief Technology and Chief AI Officer ([10 days ago](https://www.insurtechinsights.com/acrisure-appoints-benjamin-funk-as-chief-technology-and-chief-ai-officer/))
 - Pyq Launches ‘Mulligan’ Platform to Automate Commercial Insurance Operations ([11 days ago](https://thefintechtimes.com/pyq-launches-mulligan-platform-to-automate-commercial-insurance-operations/))
-- Behind the Idea: Policybazaar ([24 days ago](https://thefintechtimes.com/behind-the-idea-policybazaar/))
+- Behind the Idea: Policybazaar ([25 days ago](https://thefintechtimes.com/behind-the-idea-policybazaar/))
 
 <!-- news_marker ends -->
