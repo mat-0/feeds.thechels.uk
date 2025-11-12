@@ -9,7 +9,7 @@ description: DotNet Updates
 
 <!-- news_marker starts -->
 - Introducing Copilot auto model selection (preview) - Visual Studio Blog ([5 hours ago](https://dotnetkicks.com/r/734911?url=https://devblogs.microsoft.com/visualstudio/introducing-copilot-auto-model-selection-preview/))
-- Cake v6.0.0 released ([23 hours ago](https://dotnetkicks.com/r/734797?url=https://cakebuild.net/blog/2025/11/cake-v6.0.0-released))
+- Cake v6.0.0 released ([1 days ago](https://dotnetkicks.com/r/734797?url=https://cakebuild.net/blog/2025/11/cake-v6.0.0-released))
 - Clean Up Bloated CQRS Handlers ([1 days ago](https://dotnetkicks.com/r/734785?url=https://codeopinion.com/clean-up-bloated-cqrs-handlers/))
 - Clean Up Bloated CQRS Handlers ([1 days ago](https://dotnetkicks.com/r/734772?url=https://codeopinion.com/clean-up-bloated-cqrs-handlers/))
 - Visual Studio 2026 is here: faster, smarter, and a hit with early adopters - Visual Studio Blog ([1 days ago](https://dotnetkicks.com/r/734754?url=https://devblogs.microsoft.com/visualstudio/visual-studio-2026-is-here-faster-smarter-and-a-hit-with-early-adopters/))
