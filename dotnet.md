@@ -9,9 +9,9 @@ description: DotNet Updates
 
 <!-- news_marker starts -->
 - Introducing Copilot auto model selection (preview) - Visual Studio Blog ([2 hours ago](https://dotnetkicks.com/r/734911?url=https://devblogs.microsoft.com/visualstudio/introducing-copilot-auto-model-selection-preview/))
-- Cake v6.0.0 released ([20 hours ago](https://dotnetkicks.com/r/734797?url=https://cakebuild.net/blog/2025/11/cake-v6.0.0-released))
-- Clean Up Bloated CQRS Handlers ([23 hours ago](https://dotnetkicks.com/r/734785?url=https://codeopinion.com/clean-up-bloated-cqrs-handlers/))
-- Clean Up Bloated CQRS Handlers ([23 hours ago](https://dotnetkicks.com/r/734772?url=https://codeopinion.com/clean-up-bloated-cqrs-handlers/))
+- Cake v6.0.0 released ([21 hours ago](https://dotnetkicks.com/r/734797?url=https://cakebuild.net/blog/2025/11/cake-v6.0.0-released))
+- Clean Up Bloated CQRS Handlers ([1 days ago](https://dotnetkicks.com/r/734785?url=https://codeopinion.com/clean-up-bloated-cqrs-handlers/))
+- Clean Up Bloated CQRS Handlers ([1 days ago](https://dotnetkicks.com/r/734772?url=https://codeopinion.com/clean-up-bloated-cqrs-handlers/))
 - Visual Studio 2026 is here: faster, smarter, and a hit with early adopters - Visual Studio Blog ([1 days ago](https://dotnetkicks.com/r/734754?url=https://devblogs.microsoft.com/visualstudio/visual-studio-2026-is-here-faster-smarter-and-a-hit-with-early-adopters/))
 - C# 14 Language Features in ReSharper and Rider 2025.3 ([1 days ago](https://blog.jetbrains.com/dotnet/2025/11/11/csharp-14-language-features-in-resharper-and-rider-2025-3/))
 - Announcing .NET 10 - .NET Blog ([1 days ago](https://dotnetkicks.com/r/734719?url=https://devblogs.microsoft.com/dotnet/announcing-dotnet-10/))
