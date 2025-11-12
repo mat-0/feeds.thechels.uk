@@ -8,10 +8,10 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Cake v6.0.0 released ([7 hours ago](https://dotnetkicks.com/r/734797?url=https://cakebuild.net/blog/2025/11/cake-v6.0.0-released))
-- Clean Up Bloated CQRS Handlers ([10 hours ago](https://dotnetkicks.com/r/734785?url=https://codeopinion.com/clean-up-bloated-cqrs-handlers/))
-- Clean Up Bloated CQRS Handlers ([10 hours ago](https://dotnetkicks.com/r/734772?url=https://codeopinion.com/clean-up-bloated-cqrs-handlers/))
-- Visual Studio 2026 is here: faster, smarter, and a hit with early adopters - Visual Studio Blog ([14 hours ago](https://dotnetkicks.com/r/734754?url=https://devblogs.microsoft.com/visualstudio/visual-studio-2026-is-here-faster-smarter-and-a-hit-with-early-adopters/))
+- Cake v6.0.0 released ([8 hours ago](https://dotnetkicks.com/r/734797?url=https://cakebuild.net/blog/2025/11/cake-v6.0.0-released))
+- Clean Up Bloated CQRS Handlers ([11 hours ago](https://dotnetkicks.com/r/734785?url=https://codeopinion.com/clean-up-bloated-cqrs-handlers/))
+- Clean Up Bloated CQRS Handlers ([11 hours ago](https://dotnetkicks.com/r/734772?url=https://codeopinion.com/clean-up-bloated-cqrs-handlers/))
+- Visual Studio 2026 is here: faster, smarter, and a hit with early adopters - Visual Studio Blog ([15 hours ago](https://dotnetkicks.com/r/734754?url=https://devblogs.microsoft.com/visualstudio/visual-studio-2026-is-here-faster-smarter-and-a-hit-with-early-adopters/))
 - C# 14 Language Features in ReSharper and Rider 2025.3 ([15 hours ago](https://blog.jetbrains.com/dotnet/2025/11/11/csharp-14-language-features-in-resharper-and-rider-2025-3/))
 - Announcing .NET 10 - .NET Blog ([15 hours ago](https://dotnetkicks.com/r/734719?url=https://devblogs.microsoft.com/dotnet/announcing-dotnet-10/))
 - What’s Been Fixed in Rider 2025.3 ([15 hours ago](https://blog.jetbrains.com/dotnet/2025/11/11/what-s-been-fixed-in-rider-2025-3/))
@@ -22,7 +22,7 @@ description: DotNet Updates
 - .NET and .NET Framework November 2025 servicing releases updates - .NET Blog ([15 hours ago](https://dotnetkicks.com/r/734707?url=https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-november-2025-servicing-updates/))
 - .NET and .NET Framework November 2025 servicing releases updates - .NET Blog ([15 hours ago](https://dotnetkicks.com/r/734693?url=https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-november-2025-servicing-updates/))
 - Announcing .NET 10 ([15 hours ago](https://devblogs.microsoft.com/dotnet/announcing-dotnet-10/))
-- .NET and .NET Framework November 2025 servicing releases updates ([15 hours ago](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-november-2025-servicing-updates/))
+- .NET and .NET Framework November 2025 servicing releases updates ([16 hours ago](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-november-2025-servicing-updates/))
 - Implement MFA using swiyu, the Swiss E-ID with Duende IdentityServer, ASP.NET Core Identity and .NET Aspire ([1 days ago](https://dotnetkicks.com/r/734650?url=https://damienbod.com/2025/11/10/implement-mfa-using-swiyu-the-swiss-e-id-with-duende-identityserver-asp-net-core-identity-and-net-aspire/))
 - dotNetDave Rocks Austin .NET User Group November 2025 Meeting ([1 days ago](https://dotnettips.wordpress.com/2025/11/10/dotnetdave-rocks-austin-net-user-group-november-2025-meeting/))
 - Defensive Programming Rule #3: Validate Your Enums (Every Time) ([3 days ago](https://dotnettips.wordpress.com/2025/11/09/defensive-programming-rule-3-validate-your-enums-every-time/))
