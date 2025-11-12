@@ -8,6 +8,7 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
+- Introducing Copilot auto model selection (preview) - Visual Studio Blog ([10 minutes ago](https://dotnetkicks.com/r/734911?url=https://devblogs.microsoft.com/visualstudio/introducing-copilot-auto-model-selection-preview/))
 - Cake v6.0.0 released ([18 hours ago](https://dotnetkicks.com/r/734797?url=https://cakebuild.net/blog/2025/11/cake-v6.0.0-released))
 - Clean Up Bloated CQRS Handlers ([21 hours ago](https://dotnetkicks.com/r/734785?url=https://codeopinion.com/clean-up-bloated-cqrs-handlers/))
 - Clean Up Bloated CQRS Handlers ([21 hours ago](https://dotnetkicks.com/r/734772?url=https://codeopinion.com/clean-up-bloated-cqrs-handlers/))
@@ -29,7 +30,7 @@ description: DotNet Updates
 - The Critter Stack Gets Even Better at Testing ([6 days ago](https://dotnetkicks.com/r/734378?url=https://jeremydmiller.com/2025/11/05/critter-stack-gets-better-for-testing/))
 - The Critter Stack Gets Even Better at Testing ([6 days ago](https://dotnetkicks.com/r/734367?url=https://jeremydmiller.com/2025/11/05/critter-stack-gets-better-for-testing/))
 - How Copilot Studio uses .NET and WebAssembly for performance and innovation - .NET Blog ([6 days ago](https://dotnetkicks.com/r/734333?url=https://devblogs.microsoft.com/dotnet/copilot-studio-dotnet-wasm/))
-- How Copilot Studio uses .NET and WebAssembly for performance and innovation ([6 days ago](https://devblogs.microsoft.com/dotnet/copilot-studio-dotnet-wasm/))
+- How Copilot Studio uses .NET and WebAssembly for performance and innovation ([7 days ago](https://devblogs.microsoft.com/dotnet/copilot-studio-dotnet-wasm/))
 - The Rider 2025.3 Release Candidate Is Now Available ([7 days ago](https://blog.jetbrains.com/dotnet/2025/11/05/the-rider-2025-3-release-candidate/))
 - The ReSharper, .NET Tools, and ReSharper C++ 2025.3 Release Candidates Are Now Available ([7 days ago](https://blog.jetbrains.com/dotnet/2025/11/05/the-resharper-dotnet-tools-2025-3-release-candidate/))
 - Introducing Agent HQ: Any agent, any way you work ([7 days ago](https://dotnetkicks.com/r/734289?url=https://github.blog/news-insights/company-news/welcome-home-agents/))
@@ -37,7 +38,7 @@ description: DotNet Updates
 - dotInsights  -  November 2025 ([7 days ago](https://blog.jetbrains.com/dotnet/2025/11/05/dotinsights-november-2025/))
 - Get Ready for .NET Conf 2025! - .NET Blog ([7 days ago](https://dotnetkicks.com/r/734139?url=https://devblogs.microsoft.com/dotnet/get-ready-for-dotnet-conf-2025/))
 - Get Ready for .NET Conf 2025! - .NET Blog ([7 days ago](https://dotnetkicks.com/r/734124?url=https://devblogs.microsoft.com/dotnet/get-ready-for-dotnet-conf-2025/))
-- Get Ready for .NET Conf 2025! ([7 days ago](https://devblogs.microsoft.com/dotnet/get-ready-for-dotnet-conf-2025/))
+- Get Ready for .NET Conf 2025! ([8 days ago](https://devblogs.microsoft.com/dotnet/get-ready-for-dotnet-conf-2025/))
 - Taming the Billion Dollar Mistake: Maarten Balliauw’s Guide to C# Nullable Reference Types ([8 days ago](https://blog.jetbrains.com/dotnet/2025/11/04/maarten-balliauws-guide-to-csharp-nullable-reference-types/))
 - F# Advent Calendar in English 2025 ([8 days ago](https://dotnetkicks.com/r/734090?url=https://sergeytihon.com/2025/11/03/f-advent-calendar-in-english-2025/))
 - Easier reflection with [UnsafeAccessorType] in .NET 10: Exploring the .NET 10 preview - Part 9 ([8 days ago](https://andrewlock.net/exploring-dotnet-10-preview-features-9-easier-reflection-with-unsafeaccessortype/))
@@ -49,7 +50,6 @@ description: DotNet Updates
 - F# Weekly #44, 2025 - .NET Conf - Nov 11-13 ([9 days ago](https://dotnetkicks.com/r/733904?url=https://sergeytihon.com/2025/11/02/f-weekly-44-2025-net-conf-nov-11-13/))
 - F# Weekly #44, 2025 - .NET Conf - Nov 11-13 ([9 days ago](https://dotnetkicks.com/r/733897?url=https://sergeytihon.com/2025/11/02/f-weekly-44-2025-net-conf-nov-11-13/))
 - Defensive Programming Rule #2: Always Validate Method Parameters ([10 days ago](https://dotnettips.wordpress.com/2025/11/02/defensive-programming-rule-2-always-validate-method-parameters/))
-- Join us at .NET Conf: Dive into the future of development with Visual Studio 2026 - Visual Studio Blog ([12 days ago](https://dotnetkicks.com/r/733805?url=https://devblogs.microsoft.com/visualstudio/join-us-at-net-conf-dive-into-the-future-of-development-with-visual-studio-2026/))
 - Simplifying Distributed Systems: Jason Taylor Shows How .NET Aspire Makes the Complex Feel Effortless ([14 days ago](https://blog.jetbrains.com/dotnet/2025/10/29/simplifying-distributed-systems-dotnet-aspire-jason-taylor/))
 - Introducing Custom Agents for .NET Developers: C# Expert & WinForms Expert ([14 days ago](https://devblogs.microsoft.com/dotnet/introducing-custom-agents-for-dotnet-developers-csharp-expert-winforms-expert/))
 - Understanding the worst .NET vulnerability ever: request smuggling and CVE-2025-55315 ([15 days ago](https://andrewlock.net/understanding-the-worst-dotnet-vulnerability-request-smuggling-and-cve-2025-55315/))
