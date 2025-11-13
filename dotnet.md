@@ -8,6 +8,7 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
+- A first look at the all‑new UX in Visual Studio 2026 - Visual Studio Blog ([14 minutes ago](https://dotnetkicks.com/r/734933?url=https://devblogs.microsoft.com/visualstudio/a-first-look-at-the-all%E2%80%91new-ux-in-visual-studio-2026/))
 - Introducing Copilot auto model selection (preview) - Visual Studio Blog ([21 hours ago](https://dotnetkicks.com/r/734911?url=https://devblogs.microsoft.com/visualstudio/introducing-copilot-auto-model-selection-preview/))
 - Cake v6.0.0 released ([1 days ago](https://dotnetkicks.com/r/734797?url=https://cakebuild.net/blog/2025/11/cake-v6.0.0-released))
 - Clean Up Bloated CQRS Handlers ([1 days ago](https://dotnetkicks.com/r/734785?url=https://codeopinion.com/clean-up-bloated-cqrs-handlers/))
@@ -23,7 +24,7 @@ description: DotNet Updates
 - .NET and .NET Framework November 2025 servicing releases updates - .NET Blog ([1 days ago](https://dotnetkicks.com/r/734707?url=https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-november-2025-servicing-updates/))
 - .NET and .NET Framework November 2025 servicing releases updates - .NET Blog ([1 days ago](https://dotnetkicks.com/r/734693?url=https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-november-2025-servicing-updates/))
 - Announcing .NET 10 ([1 days ago](https://devblogs.microsoft.com/dotnet/announcing-dotnet-10/))
-- .NET and .NET Framework November 2025 servicing releases updates ([1 days ago](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-november-2025-servicing-updates/))
+- .NET and .NET Framework November 2025 servicing releases updates ([2 days ago](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-november-2025-servicing-updates/))
 - Implement MFA using swiyu, the Swiss E-ID with Duende IdentityServer, ASP.NET Core Identity and .NET Aspire ([2 days ago](https://dotnetkicks.com/r/734650?url=https://damienbod.com/2025/11/10/implement-mfa-using-swiyu-the-swiss-e-id-with-duende-identityserver-asp-net-core-identity-and-net-aspire/))
 - dotNetDave Rocks Austin .NET User Group November 2025 Meeting ([2 days ago](https://dotnettips.wordpress.com/2025/11/10/dotnetdave-rocks-austin-net-user-group-november-2025-meeting/))
 - Defensive Programming Rule #3: Validate Your Enums (Every Time) ([4 days ago](https://dotnettips.wordpress.com/2025/11/09/defensive-programming-rule-3-validate-your-enums-every-time/))
@@ -46,9 +47,8 @@ description: DotNet Updates
 - AutoMapper 15.1 and MediatR 13.1 Released ([9 days ago](https://dotnetkicks.com/r/734021?url=https://www.jimmybogard.com/automapper-15-1-and-mediatr-13-1-released/))
 - Interesting new C# 14 features coming with .NET 10 ([9 days ago](https://dotnetkicks.com/r/734015?url=https://thomaslevesque.com/2025/10/07/interesting-new-csharp-14-features-coming-with-net-10/))
 - Reflections on Current 2025 -Streaming, AI, Beignets, and The Buffalo Bills? ([9 days ago](https://dotnetkicks.com/r/733982?url=https://rion.io/2025/11/03/reflections-on-current-2025-streaming-ai-beignets-and-the-buffalo-bills/))
-- Implement a secure MCP server using OAuth DPoP and Duende identity provider ([9 days ago](https://dotnetkicks.com/r/733972?url=https://damienbod.com/2025/11/03/implement-a-secure-mcp-server-using-oauth-dpop-and-duende-identity-provider/))
+- Implement a secure MCP server using OAuth DPoP and Duende identity provider ([10 days ago](https://dotnetkicks.com/r/733972?url=https://damienbod.com/2025/11/03/implement-a-secure-mcp-server-using-oauth-dpop-and-duende-identity-provider/))
 - F# Weekly #44, 2025 - .NET Conf - Nov 11-13 ([10 days ago](https://dotnetkicks.com/r/733904?url=https://sergeytihon.com/2025/11/02/f-weekly-44-2025-net-conf-nov-11-13/))
-- F# Weekly #44, 2025 - .NET Conf - Nov 11-13 ([10 days ago](https://dotnetkicks.com/r/733897?url=https://sergeytihon.com/2025/11/02/f-weekly-44-2025-net-conf-nov-11-13/))
 - Defensive Programming Rule #2: Always Validate Method Parameters ([11 days ago](https://dotnettips.wordpress.com/2025/11/02/defensive-programming-rule-2-always-validate-method-parameters/))
 - Simplifying Distributed Systems: Jason Taylor Shows How .NET Aspire Makes the Complex Feel Effortless ([15 days ago](https://blog.jetbrains.com/dotnet/2025/10/29/simplifying-distributed-systems-dotnet-aspire-jason-taylor/))
 - Introducing Custom Agents for .NET Developers: C# Expert & WinForms Expert ([15 days ago](https://devblogs.microsoft.com/dotnet/introducing-custom-agents-for-dotnet-developers-csharp-expert-winforms-expert/))
