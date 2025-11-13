@@ -8,7 +8,7 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Introducing Copilot auto model selection (preview) - Visual Studio Blog ([19 hours ago](https://dotnetkicks.com/r/734911?url=https://devblogs.microsoft.com/visualstudio/introducing-copilot-auto-model-selection-preview/))
+- Introducing Copilot auto model selection (preview) - Visual Studio Blog ([20 hours ago](https://dotnetkicks.com/r/734911?url=https://devblogs.microsoft.com/visualstudio/introducing-copilot-auto-model-selection-preview/))
 - Cake v6.0.0 released ([1 days ago](https://dotnetkicks.com/r/734797?url=https://cakebuild.net/blog/2025/11/cake-v6.0.0-released))
 - Clean Up Bloated CQRS Handlers ([1 days ago](https://dotnetkicks.com/r/734785?url=https://codeopinion.com/clean-up-bloated-cqrs-handlers/))
 - Clean Up Bloated CQRS Handlers ([1 days ago](https://dotnetkicks.com/r/734772?url=https://codeopinion.com/clean-up-bloated-cqrs-handlers/))
@@ -34,8 +34,8 @@ description: DotNet Updates
 - The Rider 2025.3 Release Candidate Is Now Available ([7 days ago](https://blog.jetbrains.com/dotnet/2025/11/05/the-rider-2025-3-release-candidate/))
 - The ReSharper, .NET Tools, and ReSharper C++ 2025.3 Release Candidates Are Now Available ([7 days ago](https://blog.jetbrains.com/dotnet/2025/11/05/the-resharper-dotnet-tools-2025-3-release-candidate/))
 - Introducing Agent HQ: Any agent, any way you work ([7 days ago](https://dotnetkicks.com/r/734289?url=https://github.blog/news-insights/company-news/welcome-home-agents/))
-- Exploring Dynamic Sink Routing in Apache Flink via DemultiplexingSink ([7 days ago](https://dotnetkicks.com/r/734253?url=https://rion.io/2025/11/05/exploring-dynamic-sink-routing-in-apache-flink-via-demultiplexingsink/))
-- dotInsights  -  November 2025 ([7 days ago](https://blog.jetbrains.com/dotnet/2025/11/05/dotinsights-november-2025/))
+- Exploring Dynamic Sink Routing in Apache Flink via DemultiplexingSink ([8 days ago](https://dotnetkicks.com/r/734253?url=https://rion.io/2025/11/05/exploring-dynamic-sink-routing-in-apache-flink-via-demultiplexingsink/))
+- dotInsights  -  November 2025 ([8 days ago](https://blog.jetbrains.com/dotnet/2025/11/05/dotinsights-november-2025/))
 - Get Ready for .NET Conf 2025! - .NET Blog ([8 days ago](https://dotnetkicks.com/r/734139?url=https://devblogs.microsoft.com/dotnet/get-ready-for-dotnet-conf-2025/))
 - Get Ready for .NET Conf 2025! - .NET Blog ([8 days ago](https://dotnetkicks.com/r/734124?url=https://devblogs.microsoft.com/dotnet/get-ready-for-dotnet-conf-2025/))
 - Get Ready for .NET Conf 2025! ([8 days ago](https://devblogs.microsoft.com/dotnet/get-ready-for-dotnet-conf-2025/))
