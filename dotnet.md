@@ -8,11 +8,12 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- A first look at the all‑new UX in Visual Studio 2026 - Visual Studio Blog ([4 hours ago](https://dotnetkicks.com/r/734933?url=https://devblogs.microsoft.com/visualstudio/a-first-look-at-the-all%E2%80%91new-ux-in-visual-studio-2026/))
+- Latest progress update on Microsoft's Secure Future Initiative  -  Microsoft Security Blog ([6 minutes ago](https://dotnetkicks.com/r/734962?url=https://www.microsoft.com/en-us/security/blog/2025/11/10/securing-our-future-november-2025-progress-report-on-microsofts-secure-future-initiative/))
+- A first look at the all‑new UX in Visual Studio 2026 - Visual Studio Blog ([5 hours ago](https://dotnetkicks.com/r/734933?url=https://devblogs.microsoft.com/visualstudio/a-first-look-at-the-all%E2%80%91new-ux-in-visual-studio-2026/))
 - Introducing Copilot auto model selection (preview) - Visual Studio Blog ([1 days ago](https://dotnetkicks.com/r/734911?url=https://devblogs.microsoft.com/visualstudio/introducing-copilot-auto-model-selection-preview/))
 - Cake v6.0.0 released ([1 days ago](https://dotnetkicks.com/r/734797?url=https://cakebuild.net/blog/2025/11/cake-v6.0.0-released))
-- Clean Up Bloated CQRS Handlers ([1 days ago](https://dotnetkicks.com/r/734785?url=https://codeopinion.com/clean-up-bloated-cqrs-handlers/))
-- Clean Up Bloated CQRS Handlers ([1 days ago](https://dotnetkicks.com/r/734772?url=https://codeopinion.com/clean-up-bloated-cqrs-handlers/))
+- Clean Up Bloated CQRS Handlers ([2 days ago](https://dotnetkicks.com/r/734785?url=https://codeopinion.com/clean-up-bloated-cqrs-handlers/))
+- Clean Up Bloated CQRS Handlers ([2 days ago](https://dotnetkicks.com/r/734772?url=https://codeopinion.com/clean-up-bloated-cqrs-handlers/))
 - Visual Studio 2026 is here: faster, smarter, and a hit with early adopters - Visual Studio Blog ([2 days ago](https://dotnetkicks.com/r/734754?url=https://devblogs.microsoft.com/visualstudio/visual-studio-2026-is-here-faster-smarter-and-a-hit-with-early-adopters/))
 - C# 14 Language Features in ReSharper and Rider 2025.3 ([2 days ago](https://blog.jetbrains.com/dotnet/2025/11/11/csharp-14-language-features-in-resharper-and-rider-2025-3/))
 - Announcing .NET 10 - .NET Blog ([2 days ago](https://dotnetkicks.com/r/734719?url=https://devblogs.microsoft.com/dotnet/announcing-dotnet-10/))
@@ -48,7 +49,6 @@ description: DotNet Updates
 - Interesting new C# 14 features coming with .NET 10 ([9 days ago](https://dotnetkicks.com/r/734015?url=https://thomaslevesque.com/2025/10/07/interesting-new-csharp-14-features-coming-with-net-10/))
 - Reflections on Current 2025 -Streaming, AI, Beignets, and The Buffalo Bills? ([10 days ago](https://dotnetkicks.com/r/733982?url=https://rion.io/2025/11/03/reflections-on-current-2025-streaming-ai-beignets-and-the-buffalo-bills/))
 - Implement a secure MCP server using OAuth DPoP and Duende identity provider ([10 days ago](https://dotnetkicks.com/r/733972?url=https://damienbod.com/2025/11/03/implement-a-secure-mcp-server-using-oauth-dpop-and-duende-identity-provider/))
-- F# Weekly #44, 2025 - .NET Conf - Nov 11-13 ([10 days ago](https://dotnetkicks.com/r/733904?url=https://sergeytihon.com/2025/11/02/f-weekly-44-2025-net-conf-nov-11-13/))
 - Defensive Programming Rule #2: Always Validate Method Parameters ([11 days ago](https://dotnettips.wordpress.com/2025/11/02/defensive-programming-rule-2-always-validate-method-parameters/))
 - Simplifying Distributed Systems: Jason Taylor Shows How .NET Aspire Makes the Complex Feel Effortless ([15 days ago](https://blog.jetbrains.com/dotnet/2025/10/29/simplifying-distributed-systems-dotnet-aspire-jason-taylor/))
 - Introducing Custom Agents for .NET Developers: C# Expert & WinForms Expert ([15 days ago](https://devblogs.microsoft.com/dotnet/introducing-custom-agents-for-dotnet-developers-csharp-expert-winforms-expert/))
