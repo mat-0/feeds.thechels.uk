@@ -28,7 +28,7 @@ description: DotNet Updates
 - .NET and .NET Framework November 2025 servicing releases updates ([2 days ago](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-november-2025-servicing-updates/))
 - Implement MFA using swiyu, the Swiss E-ID with Duende IdentityServer, ASP.NET Core Identity and .NET Aspire ([3 days ago](https://dotnetkicks.com/r/734650?url=https://damienbod.com/2025/11/10/implement-mfa-using-swiyu-the-swiss-e-id-with-duende-identityserver-asp-net-core-identity-and-net-aspire/))
 - dotNetDave Rocks Austin .NET User Group November 2025 Meeting ([3 days ago](https://dotnettips.wordpress.com/2025/11/10/dotnetdave-rocks-austin-net-user-group-november-2025-meeting/))
-- Defensive Programming Rule #3: Validate Your Enums (Every Time) ([4 days ago](https://dotnettips.wordpress.com/2025/11/09/defensive-programming-rule-3-validate-your-enums-every-time/))
+- Defensive Programming Rule #3: Validate Your Enums (Every Time) ([5 days ago](https://dotnettips.wordpress.com/2025/11/09/defensive-programming-rule-3-validate-your-enums-every-time/))
 - The Critter Stack Gets Even Better at Testing ([8 days ago](https://dotnetkicks.com/r/734378?url=https://jeremydmiller.com/2025/11/05/critter-stack-gets-better-for-testing/))
 - The Critter Stack Gets Even Better at Testing ([8 days ago](https://dotnetkicks.com/r/734367?url=https://jeremydmiller.com/2025/11/05/critter-stack-gets-better-for-testing/))
 - How Copilot Studio uses .NET and WebAssembly for performance and innovation - .NET Blog ([8 days ago](https://dotnetkicks.com/r/734333?url=https://devblogs.microsoft.com/dotnet/copilot-studio-dotnet-wasm/))
