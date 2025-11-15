@@ -9,10 +9,10 @@ description: Insurance Updates
 
 <!-- news_marker starts -->
 - Courier/Delivery Insurance: London Data and Trends in Focus ([8 hours ago](https://insurance-edge.net/2025/11/15/courier-delivery-insurance-london-data-and-trends-in-focus/))
-- Chartered Trading Standards Welcomes High St Crackdown ([10 hours ago](https://insurance-edge.net/2025/11/15/chartered-trading-standards-welcome-high-st-crackdown/))
-- John Lupica Retires From Chubb ([22 hours ago](https://insurance-edge.net/2025/11/14/john-lupica-retires-from-chubb/))
-- Fraud Awareness Week: Comment and Analysis ([22 hours ago](https://insurance-edge.net/2025/11/14/fraud-awareness-week-comment-and-analysis/))
-- Comprehensive House Insurance: Why Coverage Depth Matters ([22 hours ago](https://insurance-edge.net/2025/11/14/comprehensive-house-insurance-why-coverage-depth-matters/))
+- Chartered Trading Standards Welcomes High St Crackdown ([11 hours ago](https://insurance-edge.net/2025/11/15/chartered-trading-standards-welcome-high-st-crackdown/))
+- John Lupica Retires From Chubb ([23 hours ago](https://insurance-edge.net/2025/11/14/john-lupica-retires-from-chubb/))
+- Fraud Awareness Week: Comment and Analysis ([23 hours ago](https://insurance-edge.net/2025/11/14/fraud-awareness-week-comment-and-analysis/))
+- Comprehensive House Insurance: Why Coverage Depth Matters ([23 hours ago](https://insurance-edge.net/2025/11/14/comprehensive-house-insurance-why-coverage-depth-matters/))
 - BHP ruling jolts mining liability market as London court finds group liable for Brazil dam collapse ([1 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/bhp-ruling-jolts-mining-liability-market-as-london-court-finds-group-liable-for-brazil-dam-collapse-556701.aspx))
 - Lloyd’s announces Council membership elections ([1 days ago](https://www.reinsurancene.ws/lloyds-announces-council-membership-elections/))
 - IJ Q&A: Fortegra on the Grow Path for MGAs ([1 days ago](https://www.insurancejournal.com/news/national/2025/11/14/847689.htm))
@@ -129,6 +129,6 @@ description: Insurance Updates
 - Amwins Launches Cyber+ to Address SME Cyber Insurance Gaps ([16 days ago](https://www.insurtechinsights.com/amwins-launches-cyber-to-address-sme-cyber-insurance-gaps/))
 - Zurich Launches AI Lab ([16 days ago](https://www.insurtechinsights.com/zurich-launches-ai-lab/))
 - Acrisure Appoints Benjamin Funk as Chief Technology and Chief AI Officer ([16 days ago](https://www.insurtechinsights.com/acrisure-appoints-benjamin-funk-as-chief-technology-and-chief-ai-officer/))
-- Pyq Launches ‘Mulligan’ Platform to Automate Commercial Insurance Operations ([16 days ago](https://thefintechtimes.com/pyq-launches-mulligan-platform-to-automate-commercial-insurance-operations/))
+- Pyq Launches ‘Mulligan’ Platform to Automate Commercial Insurance Operations ([17 days ago](https://thefintechtimes.com/pyq-launches-mulligan-platform-to-automate-commercial-insurance-operations/))
 
 <!-- news_marker ends -->
