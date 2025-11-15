@@ -8,11 +8,11 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Courier/Delivery Insurance: London Data and Trends in Focus ([7 hours ago](https://insurance-edge.net/2025/11/15/courier-delivery-insurance-london-data-and-trends-in-focus/))
-- Chartered Trading Standards Welcomes High St Crackdown ([9 hours ago](https://insurance-edge.net/2025/11/15/chartered-trading-standards-welcome-high-st-crackdown/))
-- John Lupica Retires From Chubb ([21 hours ago](https://insurance-edge.net/2025/11/14/john-lupica-retires-from-chubb/))
-- Fraud Awareness Week: Comment and Analysis ([21 hours ago](https://insurance-edge.net/2025/11/14/fraud-awareness-week-comment-and-analysis/))
-- Comprehensive House Insurance: Why Coverage Depth Matters ([21 hours ago](https://insurance-edge.net/2025/11/14/comprehensive-house-insurance-why-coverage-depth-matters/))
+- Courier/Delivery Insurance: London Data and Trends in Focus ([8 hours ago](https://insurance-edge.net/2025/11/15/courier-delivery-insurance-london-data-and-trends-in-focus/))
+- Chartered Trading Standards Welcomes High St Crackdown ([10 hours ago](https://insurance-edge.net/2025/11/15/chartered-trading-standards-welcome-high-st-crackdown/))
+- John Lupica Retires From Chubb ([22 hours ago](https://insurance-edge.net/2025/11/14/john-lupica-retires-from-chubb/))
+- Fraud Awareness Week: Comment and Analysis ([22 hours ago](https://insurance-edge.net/2025/11/14/fraud-awareness-week-comment-and-analysis/))
+- Comprehensive House Insurance: Why Coverage Depth Matters ([22 hours ago](https://insurance-edge.net/2025/11/14/comprehensive-house-insurance-why-coverage-depth-matters/))
 - BHP ruling jolts mining liability market as London court finds group liable for Brazil dam collapse ([1 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/bhp-ruling-jolts-mining-liability-market-as-london-court-finds-group-liable-for-brazil-dam-collapse-556701.aspx))
 - Lloyd’s announces Council membership elections ([1 days ago](https://www.reinsurancene.ws/lloyds-announces-council-membership-elections/))
 - IJ Q&A: Fortegra on the Grow Path for MGAs ([1 days ago](https://www.insurancejournal.com/news/national/2025/11/14/847689.htm))
