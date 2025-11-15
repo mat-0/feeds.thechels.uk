@@ -8,7 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Courier/Delivery Insurance: London Data and Trends in Focus ([9 hours ago](https://insurance-edge.net/2025/11/15/courier-delivery-insurance-london-data-and-trends-in-focus/))
+- Courier/Delivery Insurance: London Data and Trends in Focus ([10 hours ago](https://insurance-edge.net/2025/11/15/courier-delivery-insurance-london-data-and-trends-in-focus/))
 - Chartered Trading Standards Welcomes High St Crackdown ([12 hours ago](https://insurance-edge.net/2025/11/15/chartered-trading-standards-welcome-high-st-crackdown/))
 - John Lupica Retires From Chubb ([1 days ago](https://insurance-edge.net/2025/11/14/john-lupica-retires-from-chubb/))
 - Fraud Awareness Week: Comment and Analysis ([1 days ago](https://insurance-edge.net/2025/11/14/fraud-awareness-week-comment-and-analysis/))
@@ -93,7 +93,7 @@ description: Insurance Updates
 - Q&A: Rob Kemp, Aon ([2 days ago](https://www.postonline.co.uk/broker/7958929/qa-rob-kemp-aon))
 - Gallagher reshapes UK retail operations following AssuredPartners acquisition ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/gallagher-reshapes-uk-retail-operations-following-assuredpartners-acquisition-556397.aspx))
 - ABI backs UK Cyber Security Bill as insurers brace for rising demand ([2 days ago](https://www.insurancebusinessmag.com/uk/news/cyber/abi-backs-uk-cyber-security-bill-as-insurers-brace-for-rising-demand-556402.aspx))
-- TransUnion: Nearly half of consumers buy insurance via digital channels ([2 days ago](https://www.dig-in.com/news/transunion-nearly-half-of-consumers-buy-insurance-via-digital-channels))
+- TransUnion: Nearly half of consumers buy insurance via digital channels ([3 days ago](https://www.dig-in.com/news/transunion-nearly-half-of-consumers-buy-insurance-via-digital-channels))
 - Gallagher shifts retail structure following AssuredPartners deal ([3 days ago](https://www.postonline.co.uk/broker/7959374/gallagher-introduces-new-retail-structure-following-assuredpartners-deal))
 - Government introduces Bill to bolster cyber resilience ([3 days ago](https://www.postonline.co.uk/news/7959371/government-introduces-bill-to-bolster-cyber-resilience))
 - Motor premiums decrease for third straight quarter ([3 days ago](https://www.postonline.co.uk/personal/7959369/motor-premiums-decrease-for-third-straight-quarter))
@@ -102,7 +102,7 @@ description: Insurance Updates
 - How insurance fuels the global shift to cleaner energy ([3 days ago](https://www.postonline.co.uk/commercial/7959164/how-insurance-fuels-the-global-shift-to-cleaner-energy))
 - Which? names and shames insurers with low claims acceptance rates ([3 days ago](https://www.postonline.co.uk/news/7959363/which-names-and-shames-insurers-with-low-claims-acceptance-rates))
 - State Farm Illinois rate increase filing lacks catastrophe data ([3 days ago](https://www.dig-in.com/news/state-farm-ill-rate-increase-filing-lacks-catastrophe-data))
-- Why insurers need accurate weather data ([3 days ago](https://www.dig-in.com/news/why-insurers-need-accurate-weather-data))
+- Why insurers need accurate weather data ([4 days ago](https://www.dig-in.com/news/why-insurers-need-accurate-weather-data))
 - Flood insurance retroactive restoration bill introduced ([4 days ago](https://www.dig-in.com/news/flood-insurance-retroactive-restoration-bill-introduced))
 - Mortgage insurers have strong 3Q for new policies written ([4 days ago](https://www.dig-in.com/news/mgic-radian-arch-enact-essent-national-mi-3q25-profits))
 - Biba welcomes government’s signposting initiative ([4 days ago](https://www.postonline.co.uk/broker/7959366/biba-welcomes-governments-signposting-initiative))
