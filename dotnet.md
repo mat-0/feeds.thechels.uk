@@ -8,7 +8,7 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- JetBrains Is Heading to VSLive! Orlando ([1 hours ago](https://blog.jetbrains.com/dotnet/2025/11/15/jetbrains-is-heading-to-vslive-orlando/))
+- JetBrains Is Heading to VSLive! Orlando ([2 hours ago](https://blog.jetbrains.com/dotnet/2025/11/15/jetbrains-is-heading-to-vslive-orlando/))
 - Azure MCP Server Now Built-In with Visual Studio 2026: A New Era for Agentic Workflows - Visual Studio Blog ([13 hours ago](https://dotnetkicks.com/r/735014?url=https://devblogs.microsoft.com/visualstudio/azure-mcp-server-now-built-in-with-visual-studio-2026-a-new-era-for-agentic-workflows/))
 - Latest progress update on Microsoft's Secure Future Initiative  -  Microsoft Security Blog ([1 days ago](https://dotnetkicks.com/r/734962?url=https://www.microsoft.com/en-us/security/blog/2025/11/10/securing-our-future-november-2025-progress-report-on-microsofts-secure-future-initiative/))
 - A first look at the all‑new UX in Visual Studio 2026 - Visual Studio Blog ([1 days ago](https://dotnetkicks.com/r/734933?url=https://devblogs.microsoft.com/visualstudio/a-first-look-at-the-all%E2%80%91new-ux-in-visual-studio-2026/))
