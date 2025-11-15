@@ -8,7 +8,7 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- JetBrains Is Heading to VSLive! Orlando ([20 hours ago](https://blog.jetbrains.com/dotnet/2025/11/15/jetbrains-is-heading-to-vslive-orlando/))
+- JetBrains Is Heading to VSLive! Orlando ([21 hours ago](https://blog.jetbrains.com/dotnet/2025/11/15/jetbrains-is-heading-to-vslive-orlando/))
 - C# 14 Language Features in ReSharper and Rider 2025.3 ([4 days ago](https://blog.jetbrains.com/dotnet/2025/11/11/csharp-14-language-features-in-resharper-and-rider-2025-3/))
 - What’s Been Fixed in Rider 2025.3 ([4 days ago](https://blog.jetbrains.com/dotnet/2025/11/11/what-s-been-fixed-in-rider-2025-3/))
 - ReSharper C++ 2025.3: C++26 Language Support, Faster Unreal Engine Startup, and Visual Studio 2026 Compatibility ([4 days ago](https://blog.jetbrains.com/rscpp/2025/11/11/resharper-cpp-2025-3/))
@@ -31,7 +31,7 @@ description: DotNet Updates
 - Understanding the worst .NET vulnerability ever: request smuggling and CVE-2025-55315 ([18 days ago](https://andrewlock.net/understanding-the-worst-dotnet-vulnerability-request-smuggling-and-cve-2025-55315/))
 - ReSharper and Rider 2025.2.4: Another Set of Updates Released ([18 days ago](https://blog.jetbrains.com/dotnet/2025/10/28/resharper-and-rider-2025-1-4-2/))
 - Defensive Programming Rule #1: Anticipate Errors and Eliminate Bugs ([20 days ago](https://dotnettips.wordpress.com/2025/10/26/defensive-programming-rule-1-anticipate-errors-and-eliminate-bugs/))
-- Announcing Sponsorship on NuGet.org ([22 days ago](https://devblogs.microsoft.com/dotnet/announcing-sponsorship-on-nugetdotorg-for-maintainer-appreciation/))
+- Announcing Sponsorship on NuGet.org ([23 days ago](https://devblogs.microsoft.com/dotnet/announcing-sponsorship-on-nugetdotorg-for-maintainer-appreciation/))
 - Upgrading to Microsoft Agent Framework in Your .NET AI Chat App ([23 days ago](https://devblogs.microsoft.com/dotnet/upgrading-to-microsoft-agent-framework-in-your-dotnet-ai-chat-app/))
 - Adding metadata to fallback endpoints in ASP.NET Core ([24 days ago](https://andrewlock.net/adding-metadata-to-fallback-endpoints-in-aspnetcore/))
 - Mastering the Art of Public Speaking: Lessons from a Lifetime of Teaching and Sharing ([27 days ago](https://dotnettips.wordpress.com/2025/10/19/mastering-the-art-of-public-speaking-lessons-from-a-lifetime-of-teaching-and-sharing/))
