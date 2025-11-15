@@ -8,7 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Courier/Delivery Insurance: London Data and Trends in Focus ([8 hours ago](https://insurance-edge.net/2025/11/15/courier-delivery-insurance-london-data-and-trends-in-focus/))
+- Courier/Delivery Insurance: London Data and Trends in Focus ([9 hours ago](https://insurance-edge.net/2025/11/15/courier-delivery-insurance-london-data-and-trends-in-focus/))
 - Chartered Trading Standards Welcomes High St Crackdown ([11 hours ago](https://insurance-edge.net/2025/11/15/chartered-trading-standards-welcome-high-st-crackdown/))
 - John Lupica Retires From Chubb ([23 hours ago](https://insurance-edge.net/2025/11/14/john-lupica-retires-from-chubb/))
 - Fraud Awareness Week: Comment and Analysis ([23 hours ago](https://insurance-edge.net/2025/11/14/fraud-awareness-week-comment-and-analysis/))
@@ -69,8 +69,8 @@ description: Insurance Updates
 - Amiga Specialty secures multi-year capacity ([1 days ago](https://www.insurancebusinessmag.com/uk/news/professional-liability/amiga-specialty-secures-multiyear-capacity-556567.aspx))
 - AXA signs three-year cultural partnership with Grand Egyptian Museum ([1 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/axa-signs-threeyear-cultural-partnership-with-grand-egyptian-museum-556563.aspx))
 - CFC Underwriting joins ABI ([1 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/cfc-underwriting-joins-abi-556561.aspx))
-- Understanding what insurers really need from technology ([1 days ago](https://www.dig-in.com/opinion/understanding-what-insurers-really-need-from-technology))
-- How tech can elevate people and experiences ([1 days ago](https://www.dig-in.com/opinion/how-tech-can-elevate-people-and-experiences))
+- Understanding what insurers really need from technology ([2 days ago](https://www.dig-in.com/opinion/understanding-what-insurers-really-need-from-technology))
+- How tech can elevate people and experiences ([2 days ago](https://www.dig-in.com/opinion/how-tech-can-elevate-people-and-experiences))
 - Singapore and UK regulators launch AI finance partnership ([2 days ago](https://www.insurancebusinessmag.com/uk/news/technology/singapore-and-uk-regulators-launch-ai-finance-partnership-556516.aspx))
 - Zurich Retail Protection launches learning hub to support advisers ([2 days ago](https://ifamagazine.com/zurich-retail-protection-launches-learning-hub-to-support-advisers/))
 - Markel names MD for new London Market business ([2 days ago](https://www.postonline.co.uk/news/7959378/markel-names-md-for-new-london-market-business))
