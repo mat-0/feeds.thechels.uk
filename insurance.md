@@ -8,7 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Courier/Delivery Insurance: London Data and Trends in Focus ([10 hours ago](https://insurance-edge.net/2025/11/15/courier-delivery-insurance-london-data-and-trends-in-focus/))
+- Courier/Delivery Insurance: London Data and Trends in Focus ([11 hours ago](https://insurance-edge.net/2025/11/15/courier-delivery-insurance-london-data-and-trends-in-focus/))
 - Chartered Trading Standards Welcomes High St Crackdown ([13 hours ago](https://insurance-edge.net/2025/11/15/chartered-trading-standards-welcome-high-st-crackdown/))
 - John Lupica Retires From Chubb ([1 days ago](https://insurance-edge.net/2025/11/14/john-lupica-retires-from-chubb/))
 - Fraud Awareness Week: Comment and Analysis ([1 days ago](https://insurance-edge.net/2025/11/14/fraud-awareness-week-comment-and-analysis/))
@@ -113,8 +113,8 @@ description: Insurance Updates
 - CIExpert’s Paul Roberts explains how critical illness cover is evolving for 2025 ([4 days ago](https://ifamagazine.com/ciexperts-paul-roberts-explains-how-critical-illness-cover-is-evolving-for-2025/))
 - 60 Seconds With… Trium’s Hanna Metsanvirta ([4 days ago](https://www.postonline.co.uk/lloydslondon/7958248/60-seconds-with-triums-hanna-metsanvirta))
 - Is claims service the new battleground in a softening market? ([4 days ago](https://www.postonline.co.uk/claims/7959277/is-claims-service-the-new-battleground-in-a-softening-market))
-- Catastrophe bonds absorb trigger event dealt by Melissa ([4 days ago](https://www.dig-in.com/articles/catastrophe-bonds-absorb-trigger-event-dealt-by-melissa))
-- Small businesses are underinsured: Hiscox ([4 days ago](https://www.dig-in.com/news/small-businesses-are-underinsured-hiscox))
+- Catastrophe bonds absorb trigger event dealt by Melissa ([5 days ago](https://www.dig-in.com/articles/catastrophe-bonds-absorb-trigger-event-dealt-by-melissa))
+- Small businesses are underinsured: Hiscox ([5 days ago](https://www.dig-in.com/news/small-businesses-are-underinsured-hiscox))
 - Experts warn workplace life insurance may fall short of average mortgage ([5 days ago](https://ifamagazine.com/experts-warn-workplace-life-insurance-may-fall-short-of-average-mortgage/))
 - How CI bridges the gap between life and income protection – Scottish Widows ([5 days ago](https://ifamagazine.com/how-ci-bridges-the-gap-between-life-and-income-protection-scottish-widows/))
 - How advisers can strengthen financial resilience through critical illness protection – L&G ([5 days ago](https://ifamagazine.com/how-advisers-can-strengthen-financial-resilience-through-critical-illness-protection/))
