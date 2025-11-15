@@ -8,6 +8,7 @@ description: SecOps News
 [Get this as an RSS feed](/secops.rss)
 
 <!-- news_marker starts -->
+- Decades-old ‘Finger’ protocol abused in ClickFix malware attacks ([21 minutes ago](https://www.bleepingcomputer.com/news/security/decades-old-finger-protocol-abused-in-clickfix-malware-attacks/))
 - RondoDox Exploits Unpatched XWiki Servers to Pull More Devices Into Its Botnet ([2 hours ago](https://thehackernews.com/2025/11/rondodox-exploits-unpatched-xwiki.html))
 - Jaguar Land Rover cyberattack cost the company over $220 million ([3 hours ago](https://www.bleepingcomputer.com/news/security/jaguar-land-rover-cyberattack-cost-the-company-over-220-million/))
 - Five Plead Guilty in U.S. for Helping North Korean IT Workers Infiltrate 136 Companies ([8 hours ago](https://thehackernews.com/2025/11/five-us-citizens-plead-guilty-to.html))
@@ -61,7 +62,6 @@ description: SecOps News
 - Kubernetes overlords decide Ingress NGINX isn’t worth saving ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2025/11/14/nginx_retirement/))
 - Chinese spies told Claude to break into about 30 critical orgs. Some attacks succeeded ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2025/11/13/chinese_spies_claude_attacks/))
 - Kraken ransomware benchmarks systems for optimal encryption choice ([1 days ago](https://www.bleepingcomputer.com/news/security/kraken-ransomware-benchmarks-systems-for-optimal-encryption-choice/))
-- CISA warns of Akira ransomware Linux encryptor targeting Nutanix VMs ([1 days ago](https://www.bleepingcomputer.com/news/security/cisa-warns-of-akira-ransomware-linux-encryptor-targeting-nutanix-vms/))
 - Happy holidays: AI-enabled toys teach kids how to play with fire, sharp objects ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2025/11/13/ai_toys_fmatches_knives_kink/))
 - Firefox adds AI Window, users want AI wall to keep it out ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2025/11/13/firefox_adds_ai_window/))
 - Russian Hackers Create 4,300 Fake Travel Sites to Steal Hotel Guests' Payment Data ([1 days ago](https://thehackernews.com/2025/11/russian-hackers-create-4300-fake-travel.html))
