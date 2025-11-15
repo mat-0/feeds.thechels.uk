@@ -9,10 +9,10 @@ description: Insurance Updates
 
 <!-- news_marker starts -->
 - Courier/Delivery Insurance: London Data and Trends in Focus ([9 hours ago](https://insurance-edge.net/2025/11/15/courier-delivery-insurance-london-data-and-trends-in-focus/))
-- Chartered Trading Standards Welcomes High St Crackdown ([11 hours ago](https://insurance-edge.net/2025/11/15/chartered-trading-standards-welcome-high-st-crackdown/))
-- John Lupica Retires From Chubb ([23 hours ago](https://insurance-edge.net/2025/11/14/john-lupica-retires-from-chubb/))
-- Fraud Awareness Week: Comment and Analysis ([23 hours ago](https://insurance-edge.net/2025/11/14/fraud-awareness-week-comment-and-analysis/))
-- Comprehensive House Insurance: Why Coverage Depth Matters ([23 hours ago](https://insurance-edge.net/2025/11/14/comprehensive-house-insurance-why-coverage-depth-matters/))
+- Chartered Trading Standards Welcomes High St Crackdown ([12 hours ago](https://insurance-edge.net/2025/11/15/chartered-trading-standards-welcome-high-st-crackdown/))
+- John Lupica Retires From Chubb ([1 days ago](https://insurance-edge.net/2025/11/14/john-lupica-retires-from-chubb/))
+- Fraud Awareness Week: Comment and Analysis ([1 days ago](https://insurance-edge.net/2025/11/14/fraud-awareness-week-comment-and-analysis/))
+- Comprehensive House Insurance: Why Coverage Depth Matters ([1 days ago](https://insurance-edge.net/2025/11/14/comprehensive-house-insurance-why-coverage-depth-matters/))
 - BHP ruling jolts mining liability market as London court finds group liable for Brazil dam collapse ([1 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/bhp-ruling-jolts-mining-liability-market-as-london-court-finds-group-liable-for-brazil-dam-collapse-556701.aspx))
 - Lloyd’s announces Council membership elections ([1 days ago](https://www.reinsurancene.ws/lloyds-announces-council-membership-elections/))
 - IJ Q&A: Fortegra on the Grow Path for MGAs ([1 days ago](https://www.insurancejournal.com/news/national/2025/11/14/847689.htm))
@@ -103,7 +103,7 @@ description: Insurance Updates
 - Which? names and shames insurers with low claims acceptance rates ([3 days ago](https://www.postonline.co.uk/news/7959363/which-names-and-shames-insurers-with-low-claims-acceptance-rates))
 - State Farm Illinois rate increase filing lacks catastrophe data ([3 days ago](https://www.dig-in.com/news/state-farm-ill-rate-increase-filing-lacks-catastrophe-data))
 - Why insurers need accurate weather data ([3 days ago](https://www.dig-in.com/news/why-insurers-need-accurate-weather-data))
-- Flood insurance retroactive restoration bill introduced ([3 days ago](https://www.dig-in.com/news/flood-insurance-retroactive-restoration-bill-introduced))
+- Flood insurance retroactive restoration bill introduced ([4 days ago](https://www.dig-in.com/news/flood-insurance-retroactive-restoration-bill-introduced))
 - Mortgage insurers have strong 3Q for new policies written ([4 days ago](https://www.dig-in.com/news/mgic-radian-arch-enact-essent-national-mi-3q25-profits))
 - Biba welcomes government’s signposting initiative ([4 days ago](https://www.postonline.co.uk/broker/7959366/biba-welcomes-governments-signposting-initiative))
 - Beyond health benefits: Pet benefits expansion reflects changing culture ([4 days ago](https://www.dig-in.com/advisers/news/pet-benefits-expansion-reflects-changing-culture))
