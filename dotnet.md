@@ -57,7 +57,7 @@ description: DotNet Updates
 - ReSharper and Rider 2025.2.4: Another Set of Updates Released ([18 days ago](https://blog.jetbrains.com/dotnet/2025/10/28/resharper-and-rider-2025-1-4-2/))
 - Defensive Programming Rule #1: Anticipate Errors and Eliminate Bugs ([20 days ago](https://dotnettips.wordpress.com/2025/10/26/defensive-programming-rule-1-anticipate-errors-and-eliminate-bugs/))
 - Announcing Sponsorship on NuGet.org ([22 days ago](https://devblogs.microsoft.com/dotnet/announcing-sponsorship-on-nugetdotorg-for-maintainer-appreciation/))
-- Upgrading to Microsoft Agent Framework in Your .NET AI Chat App ([22 days ago](https://devblogs.microsoft.com/dotnet/upgrading-to-microsoft-agent-framework-in-your-dotnet-ai-chat-app/))
+- Upgrading to Microsoft Agent Framework in Your .NET AI Chat App ([23 days ago](https://devblogs.microsoft.com/dotnet/upgrading-to-microsoft-agent-framework-in-your-dotnet-ai-chat-app/))
 - Adding metadata to fallback endpoints in ASP.NET Core ([24 days ago](https://andrewlock.net/adding-metadata-to-fallback-endpoints-in-aspnetcore/))
 - Mastering the Art of Public Speaking: Lessons from a Lifetime of Teaching and Sharing ([27 days ago](https://dotnettips.wordpress.com/2025/10/19/mastering-the-art-of-public-speaking-lessons-from-a-lifetime-of-teaching-and-sharing/))
 
