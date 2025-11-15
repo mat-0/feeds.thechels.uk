@@ -8,8 +8,8 @@ description: SecOps News
 [Get this as an RSS feed](/secops.rss)
 
 <!-- news_marker starts -->
-- Microsoft: Windows 10 KB5068781 ESU update may fail with 0x800f0922 errors ([1 hours ago](https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-10-kb5068781-esu-update-may-fail-with-0x800f0922-errors/))
-- Decades-old ‘Finger’ protocol abused in ClickFix malware attacks ([3 hours ago](https://www.bleepingcomputer.com/news/security/decades-old-finger-protocol-abused-in-clickfix-malware-attacks/))
+- Microsoft: Windows 10 KB5068781 ESU update may fail with 0x800f0922 errors ([2 hours ago](https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-10-kb5068781-esu-update-may-fail-with-0x800f0922-errors/))
+- Decades-old ‘Finger’ protocol abused in ClickFix malware attacks ([4 hours ago](https://www.bleepingcomputer.com/news/security/decades-old-finger-protocol-abused-in-clickfix-malware-attacks/))
 - RondoDox Exploits Unpatched XWiki Servers to Pull More Devices Into Its Botnet ([6 hours ago](https://thehackernews.com/2025/11/rondodox-exploits-unpatched-xwiki.html))
 - Jaguar Land Rover cyberattack cost the company over $220 million ([7 hours ago](https://www.bleepingcomputer.com/news/security/jaguar-land-rover-cyberattack-cost-the-company-over-220-million/))
 - Five Plead Guilty in U.S. for Helping North Korean IT Workers Infiltrate 136 Companies ([12 hours ago](https://thehackernews.com/2025/11/five-us-citizens-plead-guilty-to.html))
@@ -90,7 +90,7 @@ description: SecOps News
 - Google to allow Android users with high pain tolerance to sideload unverified apps ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2025/11/13/google_keep_android_open_response/))
 - Microsoft is building datacenter superclusters that span continents ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2025/11/13/microsoft_fairwater_dataceter_superclusters/))
 - OpenAI GPT-5.1 adds more personalities, loses inhibitions ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2025/11/13/openai_gpt51_adds_more_personalities/))
-- Disruption with some GitHub services ([2 days ago](https://www.githubstatus.com/incidents/br7kz68t38cl))
+- Disruption with some GitHub services ([3 days ago](https://www.githubstatus.com/incidents/br7kz68t38cl))
 - Google sues 25 China-based scammers behind Lighthouse 'phishing for dummies' kit ([3 days ago](https://go.theregister.com/feed/www.theregister.com/2025/11/12/google_sues_25_chinabased_scammers/))
 - OpenAI’s viability called into question by reported inference spending with Microsoft ([3 days ago](https://go.theregister.com/feed/www.theregister.com/2025/11/12/openai_spending_report/))
 - Google apes Apple, swears cloud-based AI will keep your info private ([3 days ago](https://go.theregister.com/feed/www.theregister.com/2025/11/12/google_touts_private_ai_compute/))
@@ -160,7 +160,7 @@ description: SecOps News
 - Ukrainian Conti Ransomware Suspect Extradited to US from Ireland ([15 days ago](https://databreaches.net/2025/10/31/ukrainian-conti-ransomware-suspect-extradited-to-us-from-ireland/?pk_campaign=feed&pk_kwd=ukrainian-conti-ransomware-suspect-extradited-to-us-from-ireland))
 - Legal Aid Agency chief admits difficulties understanding impact of cyberattack ([15 days ago](https://databreaches.net/2025/10/31/legal-aid-agency-chief-admits-difficulties-understanding-impact-of-cyberattack/?pk_campaign=feed&pk_kwd=legal-aid-agency-chief-admits-difficulties-understanding-impact-of-cyberattack))
 - What DORA Means for ICT Suppliers: MSPs, SaaS and Cloud in Scope ([15 days ago](https://www.itgovernance.co.uk/blog/what-dora-means-for-ict-suppliers-msps-saas-and-cloud-in-scope))
-- Disruption with some GitHub services ([15 days ago](https://www.githubstatus.com/incidents/6hygvwpw2vr3))
+- Disruption with some GitHub services ([16 days ago](https://www.githubstatus.com/incidents/6hygvwpw2vr3))
 - Experiencing connection issues across Actions, Codespaces, and possibly other services ([16 days ago](https://www.githubstatus.com/incidents/4jxdz4m769gy))
 - Disruption with Copilot Bing search tool ([17 days ago](https://www.githubstatus.com/incidents/pch0flk719dj))
 - Aisuru Botnet Shifts from DDoS to Residential Proxies ([17 days ago](https://krebsonsecurity.com/2025/10/aisuru-botnet-shifts-from-ddos-to-residential-proxies/))

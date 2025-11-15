@@ -8,7 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Courier/Delivery Insurance: London Data and Trends in Focus ([11 hours ago](https://insurance-edge.net/2025/11/15/courier-delivery-insurance-london-data-and-trends-in-focus/))
+- Courier/Delivery Insurance: London Data and Trends in Focus ([12 hours ago](https://insurance-edge.net/2025/11/15/courier-delivery-insurance-london-data-and-trends-in-focus/))
 - Chartered Trading Standards Welcomes High St Crackdown ([14 hours ago](https://insurance-edge.net/2025/11/15/chartered-trading-standards-welcome-high-st-crackdown/))
 - John Lupica Retires From Chubb ([1 days ago](https://insurance-edge.net/2025/11/14/john-lupica-retires-from-chubb/))
 - Fraud Awareness Week: Comment and Analysis ([1 days ago](https://insurance-edge.net/2025/11/14/fraud-awareness-week-comment-and-analysis/))
