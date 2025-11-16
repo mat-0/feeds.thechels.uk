@@ -17,7 +17,7 @@ description: Insurance Updates
 - BHP ruling jolts mining liability market as London court finds group liable for Brazil dam collapse ([1 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/bhp-ruling-jolts-mining-liability-market-as-london-court-finds-group-liable-for-brazil-dam-collapse-556701.aspx))
 - Lloyd’s announces Council membership elections ([1 days ago](https://www.reinsurancene.ws/lloyds-announces-council-membership-elections/))
 - IJ Q&A: Fortegra on the Grow Path for MGAs ([1 days ago](https://www.insurancejournal.com/news/national/2025/11/14/847689.htm))
-- California Revokes 17,000 Commercial Driver’s Licenses for Immigrants ([1 days ago](https://www.insurancejournal.com/news/west/2025/11/14/847691.htm))
+- California Revokes 17,000 Commercial Driver’s Licenses for Immigrants ([2 days ago](https://www.insurancejournal.com/news/west/2025/11/14/847691.htm))
 - All 14 Victims Identified in UPS Cargo Plane Crash in Louisville ([2 days ago](https://www.insurancejournal.com/news/southeast/2025/11/14/847680.htm))
 - Amiga Specialty secures multi-year, multi-product capacity with Accelerant Risk Exchange ([2 days ago](https://www.reinsurancene.ws/amiga-specialty-secures-multi-year-multi-product-capacity-with-accelerant-risk-exchange/))
 - Coal Miners’ Respirator Claims Barred by Statute of Limitations, WV Supreme Court Finds ([2 days ago](https://www.insurancejournal.com/news/southeast/2025/11/14/847669.htm))
