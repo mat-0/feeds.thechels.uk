@@ -8,9 +8,9 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Anthropic AI used in state backed hacking ([14 minutes ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/anthropic-ai-used-in-state-backed-hacking-556749.aspx))
+- Anthropic AI used in state backed hacking ([43 minutes ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/anthropic-ai-used-in-state-backed-hacking-556749.aspx))
 - Agentic AI poised for growth in 2026 ([2 hours ago](https://www.dig-in.com/news/agentic-ai-poised-for-growth-in-2026))
-- 5 Technologies impacting insurance heading into 2026 ([2 hours ago](https://www.dig-in.com/opinion/5-technologies-impacting-insurance-in-2026))
+- 5 Technologies impacting insurance heading into 2026 ([3 hours ago](https://www.dig-in.com/opinion/5-technologies-impacting-insurance-in-2026))
 - Shall We Delve Deeper into The Instagram `Quick Money’ Scams? ([11 hours ago](https://insurance-edge.net/2025/11/16/shall-we-delve-deeper-into-the-instagram-quick-money-scams/))
 - Courier/Delivery Insurance: London Data and Trends in Focus ([1 days ago](https://insurance-edge.net/2025/11/15/courier-delivery-insurance-london-data-and-trends-in-focus/))
 - Chartered Trading Standards Welcomes High St Crackdown ([1 days ago](https://insurance-edge.net/2025/11/15/chartered-trading-standards-welcome-high-st-crackdown/))
