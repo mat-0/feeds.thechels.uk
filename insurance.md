@@ -8,7 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Shall We Delve Deeper into The Instagram `Quick Money’ Scams? ([25 minutes ago](https://insurance-edge.net/2025/11/16/shall-we-delve-deeper-into-the-instagram-quick-money-scams/))
+- Shall We Delve Deeper into The Instagram `Quick Money’ Scams? ([1 hours ago](https://insurance-edge.net/2025/11/16/shall-we-delve-deeper-into-the-instagram-quick-money-scams/))
 - Courier/Delivery Insurance: London Data and Trends in Focus ([1 days ago](https://insurance-edge.net/2025/11/15/courier-delivery-insurance-london-data-and-trends-in-focus/))
 - Chartered Trading Standards Welcomes High St Crackdown ([1 days ago](https://insurance-edge.net/2025/11/15/chartered-trading-standards-welcome-high-st-crackdown/))
 - John Lupica Retires From Chubb ([1 days ago](https://insurance-edge.net/2025/11/14/john-lupica-retires-from-chubb/))
@@ -27,7 +27,7 @@ description: Insurance Updates
 - War risks return to the seas as reinsurance faces a new era of uncertainty: Willis Re ([1 days ago](https://www.reinsurancene.ws/war-risks-return-to-the-seas-as-reinsurance-faces-a-new-era-of-uncertainty-willis-re/))
 - Insurers Paid Nearly £200 Million in Cyber Claims for UK Businesses in 2024 ([1 days ago](https://www.insurancejournal.com/news/international/2025/11/14/847636.htm))
 - Insurers as enablers of climate resilience through long-term partnerships: HDI Global ([1 days ago](https://www.reinsurancene.ws/insurers-as-enablers-of-climate-resilience-through-long-term-partnerships-hdi-global/))
-- AIG cancels John Neal’s president appointment ([1 days ago](https://www.postonline.co.uk/people/7959395/aig-cancels-john-neals-president-appointment))
+- AIG cancels John Neal’s president appointment ([2 days ago](https://www.postonline.co.uk/people/7959395/aig-cancels-john-neals-president-appointment))
 - IRB(Re) posts dip in Q3’25 net income but 9M result up 39% ([2 days ago](https://www.reinsurancene.ws/irbre-posts-dip-in-q325-net-income-but-9m-result-up-39/))
 - Jensten buys broker; Pen's renewables product; Zurich UK's head of compliance ([2 days ago](https://www.postonline.co.uk/news/7959387/jensten-buys-broker-pens-renewables-product-zurich-uks-head-of-compliance))
 - BBC Apologizes to Trump, Says No Basis for Defamation Claim ([2 days ago](https://www.insurancejournal.com/news/international/2025/11/14/847632.htm))
@@ -72,7 +72,7 @@ description: Insurance Updates
 - Understanding what insurers really need from technology ([2 days ago](https://www.dig-in.com/opinion/understanding-what-insurers-really-need-from-technology))
 - How tech can elevate people and experiences ([2 days ago](https://www.dig-in.com/opinion/how-tech-can-elevate-people-and-experiences))
 - Singapore and UK regulators launch AI finance partnership ([2 days ago](https://www.insurancebusinessmag.com/uk/news/technology/singapore-and-uk-regulators-launch-ai-finance-partnership-556516.aspx))
-- Zurich Retail Protection launches learning hub to support advisers ([2 days ago](https://ifamagazine.com/zurich-retail-protection-launches-learning-hub-to-support-advisers/))
+- Zurich Retail Protection launches learning hub to support advisers ([3 days ago](https://ifamagazine.com/zurich-retail-protection-launches-learning-hub-to-support-advisers/))
 - Markel names MD for new London Market business ([3 days ago](https://www.postonline.co.uk/news/7959378/markel-names-md-for-new-london-market-business))
 - Loss adjusting redefined: CILA sets new course for claims professionalism in the UK ([3 days ago](https://www.insurancebusinessmag.com/uk/news/claims/loss-adjusting-redefined-cila-sets-new-course-for-claims-professionalism-in-the-uk-556476.aspx))
 - Red sky at night, the telegraph lines are alight ([3 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/red-sky-at-night-the-telegraph-lines-are-alight-556472.aspx))
