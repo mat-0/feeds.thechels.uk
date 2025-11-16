@@ -8,9 +8,10 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Agentic AI poised for growth in 2026 ([1 hours ago](https://www.dig-in.com/news/agentic-ai-poised-for-growth-in-2026))
+- Anthropic AI used in state backed hacking ([14 minutes ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/anthropic-ai-used-in-state-backed-hacking-556749.aspx))
+- Agentic AI poised for growth in 2026 ([2 hours ago](https://www.dig-in.com/news/agentic-ai-poised-for-growth-in-2026))
 - 5 Technologies impacting insurance heading into 2026 ([2 hours ago](https://www.dig-in.com/opinion/5-technologies-impacting-insurance-in-2026))
-- Shall We Delve Deeper into The Instagram `Quick Money’ Scams? ([10 hours ago](https://insurance-edge.net/2025/11/16/shall-we-delve-deeper-into-the-instagram-quick-money-scams/))
+- Shall We Delve Deeper into The Instagram `Quick Money’ Scams? ([11 hours ago](https://insurance-edge.net/2025/11/16/shall-we-delve-deeper-into-the-instagram-quick-money-scams/))
 - Courier/Delivery Insurance: London Data and Trends in Focus ([1 days ago](https://insurance-edge.net/2025/11/15/courier-delivery-insurance-london-data-and-trends-in-focus/))
 - Chartered Trading Standards Welcomes High St Crackdown ([1 days ago](https://insurance-edge.net/2025/11/15/chartered-trading-standards-welcome-high-st-crackdown/))
 - John Lupica Retires From Chubb ([2 days ago](https://insurance-edge.net/2025/11/14/john-lupica-retires-from-chubb/))
@@ -94,7 +95,6 @@ description: Insurance Updates
 - Throwback Thursday: Lifeguard in difficulty ([3 days ago](https://www.postonline.co.uk/broker/7956776/throwback-thursday-lifeguard-in-difficulty))
 - Q&A: Rob Kemp, Aon ([3 days ago](https://www.postonline.co.uk/broker/7958929/qa-rob-kemp-aon))
 - Gallagher reshapes UK retail operations following AssuredPartners acquisition ([3 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/gallagher-reshapes-uk-retail-operations-following-assuredpartners-acquisition-556397.aspx))
-- ABI backs UK Cyber Security Bill as insurers brace for rising demand ([3 days ago](https://www.insurancebusinessmag.com/uk/news/cyber/abi-backs-uk-cyber-security-bill-as-insurers-brace-for-rising-demand-556402.aspx))
 - TransUnion: Nearly half of consumers buy insurance via digital channels ([4 days ago](https://www.dig-in.com/news/transunion-nearly-half-of-consumers-buy-insurance-via-digital-channels))
 - Gallagher shifts retail structure following AssuredPartners deal ([4 days ago](https://www.postonline.co.uk/broker/7959374/gallagher-introduces-new-retail-structure-following-assuredpartners-deal))
 - Government introduces Bill to bolster cyber resilience ([4 days ago](https://www.postonline.co.uk/news/7959371/government-introduces-bill-to-bolster-cyber-resilience))

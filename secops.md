@@ -8,7 +8,7 @@ description: SecOps News
 [Get this as an RSS feed](/secops.rss)
 
 <!-- news_marker starts -->
-- Microsoft Patch Tuesday, November 2025 Edition ([49 minutes ago](https://krebsonsecurity.com/2025/11/microsoft-patch-tuesday-november-2025-edition/))
+- Microsoft Patch Tuesday, November 2025 Edition ([1 hours ago](https://krebsonsecurity.com/2025/11/microsoft-patch-tuesday-november-2025-edition/))
 - Google to flag Android apps with excessive battery use on the Play Store ([7 hours ago](https://www.bleepingcomputer.com/news/security/google-to-flag-android-apps-with-excessive-battery-use-on-the-play-store/))
 - Weekly Update 478 ([14 hours ago](https://www.troyhunt.com/weekly-update-478/))
 - Microsoft: Windows 10 KB5068781 ESU update may fail with 0x800f0922 errors ([1 days ago](https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-10-kb5068781-esu-update-may-fail-with-0x800f0922-errors/))
@@ -91,7 +91,7 @@ description: SecOps News
 - Google to allow Android users with high pain tolerance to sideload unverified apps ([3 days ago](https://go.theregister.com/feed/www.theregister.com/2025/11/13/google_keep_android_open_response/))
 - Microsoft is building datacenter superclusters that span continents ([3 days ago](https://go.theregister.com/feed/www.theregister.com/2025/11/13/microsoft_fairwater_dataceter_superclusters/))
 - OpenAI GPT-5.1 adds more personalities, loses inhibitions ([3 days ago](https://go.theregister.com/feed/www.theregister.com/2025/11/13/openai_gpt51_adds_more_personalities/))
-- Disruption with some GitHub services ([3 days ago](https://www.githubstatus.com/incidents/br7kz68t38cl))
+- Disruption with some GitHub services ([4 days ago](https://www.githubstatus.com/incidents/br7kz68t38cl))
 - Google sues 25 China-based scammers behind Lighthouse 'phishing for dummies' kit ([4 days ago](https://go.theregister.com/feed/www.theregister.com/2025/11/12/google_sues_25_chinabased_scammers/))
 - OpenAI’s viability called into question by reported inference spending with Microsoft ([4 days ago](https://go.theregister.com/feed/www.theregister.com/2025/11/12/openai_spending_report/))
 - Google apes Apple, swears cloud-based AI will keep your info private ([4 days ago](https://go.theregister.com/feed/www.theregister.com/2025/11/12/google_touts_private_ai_compute/))
@@ -161,7 +161,7 @@ description: SecOps News
 - Ukrainian Conti Ransomware Suspect Extradited to US from Ireland ([16 days ago](https://databreaches.net/2025/10/31/ukrainian-conti-ransomware-suspect-extradited-to-us-from-ireland/?pk_campaign=feed&pk_kwd=ukrainian-conti-ransomware-suspect-extradited-to-us-from-ireland))
 - Legal Aid Agency chief admits difficulties understanding impact of cyberattack ([16 days ago](https://databreaches.net/2025/10/31/legal-aid-agency-chief-admits-difficulties-understanding-impact-of-cyberattack/?pk_campaign=feed&pk_kwd=legal-aid-agency-chief-admits-difficulties-understanding-impact-of-cyberattack))
 - What DORA Means for ICT Suppliers: MSPs, SaaS and Cloud in Scope ([16 days ago](https://www.itgovernance.co.uk/blog/what-dora-means-for-ict-suppliers-msps-saas-and-cloud-in-scope))
-- Disruption with some GitHub services ([16 days ago](https://www.githubstatus.com/incidents/6hygvwpw2vr3))
+- Disruption with some GitHub services ([17 days ago](https://www.githubstatus.com/incidents/6hygvwpw2vr3))
 - Experiencing connection issues across Actions, Codespaces, and possibly other services ([17 days ago](https://www.githubstatus.com/incidents/4jxdz4m769gy))
 - Disruption with Copilot Bing search tool ([18 days ago](https://www.githubstatus.com/incidents/pch0flk719dj))
 - Aisuru Botnet Shifts from DDoS to Residential Proxies ([18 days ago](https://krebsonsecurity.com/2025/10/aisuru-botnet-shifts-from-ddos-to-residential-proxies/))

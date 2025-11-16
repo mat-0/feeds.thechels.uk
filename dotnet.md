@@ -8,7 +8,7 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Defensive Programming Rule #4: Safe and Efficient Type Casting ([15 hours ago](https://dotnettips.wordpress.com/2025/11/16/defensive-programming-rule-4-safe-and-efficient-type-casting/))
+- Defensive Programming Rule #4: Safe and Efficient Type Casting ([16 hours ago](https://dotnettips.wordpress.com/2025/11/16/defensive-programming-rule-4-safe-and-efficient-type-casting/))
 - JetBrains Is Heading to VSLive! Orlando ([1 days ago](https://blog.jetbrains.com/dotnet/2025/11/15/jetbrains-is-heading-to-vslive-orlando/))
 - Azure MCP Server Now Built-In with Visual Studio 2026: A New Era for Agentic Workflows - Visual Studio Blog ([2 days ago](https://dotnetkicks.com/r/735014?url=https://devblogs.microsoft.com/visualstudio/azure-mcp-server-now-built-in-with-visual-studio-2026-a-new-era-for-agentic-workflows/))
 - Latest progress update on Microsoft's Secure Future Initiative  -  Microsoft Security Blog ([3 days ago](https://dotnetkicks.com/r/734962?url=https://www.microsoft.com/en-us/security/blog/2025/11/10/securing-our-future-november-2025-progress-report-on-microsofts-secure-future-initiative/))
@@ -47,8 +47,8 @@ description: DotNet Updates
 - Taming the Billion Dollar Mistake: Maarten Balliauw’s Guide to C# Nullable Reference Types ([12 days ago](https://blog.jetbrains.com/dotnet/2025/11/04/maarten-balliauws-guide-to-csharp-nullable-reference-types/))
 - F# Advent Calendar in English 2025 ([12 days ago](https://dotnetkicks.com/r/734090?url=https://sergeytihon.com/2025/11/03/f-advent-calendar-in-english-2025/))
 - Easier reflection with [UnsafeAccessorType] in .NET 10: Exploring the .NET 10 preview - Part 9 ([12 days ago](https://andrewlock.net/exploring-dotnet-10-preview-features-9-easier-reflection-with-unsafeaccessortype/))
-- AutoMapper 15.1 and MediatR 13.1 Released ([12 days ago](https://dotnetkicks.com/r/734032?url=https://www.jimmybogard.com/automapper-15-1-and-mediatr-13-1-released/))
-- AutoMapper 15.1 and MediatR 13.1 Released ([12 days ago](https://dotnetkicks.com/r/734021?url=https://www.jimmybogard.com/automapper-15-1-and-mediatr-13-1-released/))
+- AutoMapper 15.1 and MediatR 13.1 Released ([13 days ago](https://dotnetkicks.com/r/734032?url=https://www.jimmybogard.com/automapper-15-1-and-mediatr-13-1-released/))
+- AutoMapper 15.1 and MediatR 13.1 Released ([13 days ago](https://dotnetkicks.com/r/734021?url=https://www.jimmybogard.com/automapper-15-1-and-mediatr-13-1-released/))
 - Interesting new C# 14 features coming with .NET 10 ([13 days ago](https://dotnetkicks.com/r/734015?url=https://thomaslevesque.com/2025/10/07/interesting-new-csharp-14-features-coming-with-net-10/))
 - Reflections on Current 2025 -Streaming, AI, Beignets, and The Buffalo Bills? ([13 days ago](https://dotnetkicks.com/r/733982?url=https://rion.io/2025/11/03/reflections-on-current-2025-streaming-ai-beignets-and-the-buffalo-bills/))
 - Defensive Programming Rule #2: Always Validate Method Parameters ([14 days ago](https://dotnettips.wordpress.com/2025/11/02/defensive-programming-rule-2-always-validate-method-parameters/))
