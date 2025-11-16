@@ -8,7 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Courier/Delivery Insurance: London Data and Trends in Focus ([16 hours ago](https://insurance-edge.net/2025/11/15/courier-delivery-insurance-london-data-and-trends-in-focus/))
+- Courier/Delivery Insurance: London Data and Trends in Focus ([17 hours ago](https://insurance-edge.net/2025/11/15/courier-delivery-insurance-london-data-and-trends-in-focus/))
 - Chartered Trading Standards Welcomes High St Crackdown ([19 hours ago](https://insurance-edge.net/2025/11/15/chartered-trading-standards-welcome-high-st-crackdown/))
 - John Lupica Retires From Chubb ([1 days ago](https://insurance-edge.net/2025/11/14/john-lupica-retires-from-chubb/))
 - Fraud Awareness Week: Comment and Analysis ([1 days ago](https://insurance-edge.net/2025/11/14/fraud-awareness-week-comment-and-analysis/))
@@ -65,7 +65,7 @@ description: Insurance Updates
 - Five insurance trailblazers to celebrate on International Men’s Day ([1 days ago](https://www.postonline.co.uk/people/7959356/five-insurance-trailblazers-to-celebrate-on-international-mens-day))
 - Penny Black’s Social Diary: Axa’s therapy; Acini’s shots ([1 days ago](https://www.postonline.co.uk/people/7959207/penny-blacks-social-diary-axas-therapy-acinis-shots))
 - Softening energy insurance market in 2026 reshapes risk-buying strategy: WTW ([1 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/softening-energy-insurance-market-in-2026-reshapes-riskbuying-strategy-wtw-556617.aspx))
-- Insurers on the frontline of emerging global risks - report ([1 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/insurers-on-the-frontline-of-emerging-global-risks--report-556569.aspx))
+- Insurers on the frontline of emerging global risks - report ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/insurers-on-the-frontline-of-emerging-global-risks--report-556569.aspx))
 - Amiga Specialty secures multi-year capacity ([2 days ago](https://www.insurancebusinessmag.com/uk/news/professional-liability/amiga-specialty-secures-multiyear-capacity-556567.aspx))
 - AXA signs three-year cultural partnership with Grand Egyptian Museum ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/axa-signs-threeyear-cultural-partnership-with-grand-egyptian-museum-556563.aspx))
 - CFC Underwriting joins ABI ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/cfc-underwriting-joins-abi-556561.aspx))
