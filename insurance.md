@@ -104,7 +104,7 @@ description: Insurance Updates
 - State Farm Illinois rate increase filing lacks catastrophe data ([4 days ago](https://www.dig-in.com/news/state-farm-ill-rate-increase-filing-lacks-catastrophe-data))
 - Why insurers need accurate weather data ([4 days ago](https://www.dig-in.com/news/why-insurers-need-accurate-weather-data))
 - Flood insurance retroactive restoration bill introduced ([4 days ago](https://www.dig-in.com/news/flood-insurance-retroactive-restoration-bill-introduced))
-- Mortgage insurers have strong 3Q for new policies written ([4 days ago](https://www.dig-in.com/news/mgic-radian-arch-enact-essent-national-mi-3q25-profits))
+- Mortgage insurers have strong 3Q for new policies written ([5 days ago](https://www.dig-in.com/news/mgic-radian-arch-enact-essent-national-mi-3q25-profits))
 - Biba welcomes government’s signposting initiative ([5 days ago](https://www.postonline.co.uk/broker/7959366/biba-welcomes-governments-signposting-initiative))
 - Beyond health benefits: Pet benefits expansion reflects changing culture ([5 days ago](https://www.dig-in.com/advisers/news/pet-benefits-expansion-reflects-changing-culture))
 - Vitality AI’s Managing Director Emile Stipp reveals AI’s transformative role in healthcare and insurance ([5 days ago](https://ifamagazine.com/emile-stipp-vitality-ai-managing-director-on-ais-transformative-role-in-healthcare-and-insurance/))
