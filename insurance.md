@@ -8,8 +8,8 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Courier/Delivery Insurance: London Data and Trends in Focus ([14 hours ago](https://insurance-edge.net/2025/11/15/courier-delivery-insurance-london-data-and-trends-in-focus/))
-- Chartered Trading Standards Welcomes High St Crackdown ([17 hours ago](https://insurance-edge.net/2025/11/15/chartered-trading-standards-welcome-high-st-crackdown/))
+- Courier/Delivery Insurance: London Data and Trends in Focus ([16 hours ago](https://insurance-edge.net/2025/11/15/courier-delivery-insurance-london-data-and-trends-in-focus/))
+- Chartered Trading Standards Welcomes High St Crackdown ([18 hours ago](https://insurance-edge.net/2025/11/15/chartered-trading-standards-welcome-high-st-crackdown/))
 - John Lupica Retires From Chubb ([1 days ago](https://insurance-edge.net/2025/11/14/john-lupica-retires-from-chubb/))
 - Fraud Awareness Week: Comment and Analysis ([1 days ago](https://insurance-edge.net/2025/11/14/fraud-awareness-week-comment-and-analysis/))
 - Comprehensive House Insurance: Why Coverage Depth Matters ([1 days ago](https://insurance-edge.net/2025/11/14/comprehensive-house-insurance-why-coverage-depth-matters/))
@@ -68,7 +68,7 @@ description: Insurance Updates
 - Insurers on the frontline of emerging global risks - report ([1 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/insurers-on-the-frontline-of-emerging-global-risks--report-556569.aspx))
 - Amiga Specialty secures multi-year capacity ([1 days ago](https://www.insurancebusinessmag.com/uk/news/professional-liability/amiga-specialty-secures-multiyear-capacity-556567.aspx))
 - AXA signs three-year cultural partnership with Grand Egyptian Museum ([1 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/axa-signs-threeyear-cultural-partnership-with-grand-egyptian-museum-556563.aspx))
-- CFC Underwriting joins ABI ([1 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/cfc-underwriting-joins-abi-556561.aspx))
+- CFC Underwriting joins ABI ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/cfc-underwriting-joins-abi-556561.aspx))
 - Understanding what insurers really need from technology ([2 days ago](https://www.dig-in.com/opinion/understanding-what-insurers-really-need-from-technology))
 - How tech can elevate people and experiences ([2 days ago](https://www.dig-in.com/opinion/how-tech-can-elevate-people-and-experiences))
 - Singapore and UK regulators launch AI finance partnership ([2 days ago](https://www.insurancebusinessmag.com/uk/news/technology/singapore-and-uk-regulators-launch-ai-finance-partnership-556516.aspx))
@@ -119,16 +119,6 @@ description: Insurance Updates
 - How CI bridges the gap between life and income protection – Scottish Widows ([5 days ago](https://ifamagazine.com/how-ci-bridges-the-gap-between-life-and-income-protection-scottish-widows/))
 - How advisers can strengthen financial resilience through critical illness protection – L&G ([5 days ago](https://ifamagazine.com/how-advisers-can-strengthen-financial-resilience-through-critical-illness-protection/))
 - Group critical illness cover comes of age – insight from Canada Life’s Chris Morgan ([8 days ago](https://ifamagazine.com/group-critical-illness-cover-comes-of-age-insight-from-canada-lifes-chris-morgan/))
-- Post-VIP Roundtable Thoughts: Unpacking the (false) paradox of efficiency vs experience trade offs in insurance by Rory Yates ([9 days ago](https://www.insurtechinsights.com/post-vip-roundtable-thoughts-unpacking-the-false-paradox-of-efficiency-vs-experience-trade-offs-in-insurance-by-rory-yates/))
-- Zurich Strengthens Its Fraud Defences with Quantexa Real-Time AI, Connecting Industry-Wide Claims Data ([9 days ago](https://www.insurtechinsights.com/zurich-strengthens-its-fraud-defences-with-quantexa-real-time-ai-connecting-industry-wide-claims-data-2/))
-- Allianz Joins The Spark as Member; Sirma Boshnakova Appointed to Global Advisory Board ([9 days ago](https://www.insurtechinsights.com/allianz-joins-the-spark-as-member-sirma-boshnakova-appointed-to-global-advisory-board/))
-- FWD Group Reports Strong New Business Growth and Strengthened Financial Position ([10 days ago](https://www.insurtechinsights.com/fwd-group-reports-strong-new-business-growth-and-strengthened-financial-position/))
-- Starr Announces Acquisition of IQUW Group ([16 days ago](https://www.insurtechinsights.com/starr-announces-acquisition-of-iquw-group/))
-- AA Ireland Partners with Abry ([16 days ago](https://www.insurtechinsights.com/aa-ireland-partners-with-abry/))
-- Pacific Life Announces Footprint Expansion to Charlotte, North Carolina ([16 days ago](https://www.insurtechinsights.com/pacific-life-announces-footprint-expansion-to-charlotte-north-carolina/))
-- Amwins Launches Cyber+ to Address SME Cyber Insurance Gaps ([16 days ago](https://www.insurtechinsights.com/amwins-launches-cyber-to-address-sme-cyber-insurance-gaps/))
-- Zurich Launches AI Lab ([16 days ago](https://www.insurtechinsights.com/zurich-launches-ai-lab/))
-- Acrisure Appoints Benjamin Funk as Chief Technology and Chief AI Officer ([16 days ago](https://www.insurtechinsights.com/acrisure-appoints-benjamin-funk-as-chief-technology-and-chief-ai-officer/))
 - Pyq Launches ‘Mulligan’ Platform to Automate Commercial Insurance Operations ([17 days ago](https://thefintechtimes.com/pyq-launches-mulligan-platform-to-automate-commercial-insurance-operations/))
 
 <!-- news_marker ends -->
