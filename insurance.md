@@ -8,9 +8,9 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Agentic AI poised for growth in 2026 ([35 minutes ago](https://www.dig-in.com/news/agentic-ai-poised-for-growth-in-2026))
+- Agentic AI poised for growth in 2026 ([1 hours ago](https://www.dig-in.com/news/agentic-ai-poised-for-growth-in-2026))
 - 5 Technologies impacting insurance heading into 2026 ([1 hours ago](https://www.dig-in.com/opinion/5-technologies-impacting-insurance-in-2026))
-- Shall We Delve Deeper into The Instagram `Quick Money’ Scams? ([9 hours ago](https://insurance-edge.net/2025/11/16/shall-we-delve-deeper-into-the-instagram-quick-money-scams/))
+- Shall We Delve Deeper into The Instagram `Quick Money’ Scams? ([10 hours ago](https://insurance-edge.net/2025/11/16/shall-we-delve-deeper-into-the-instagram-quick-money-scams/))
 - Courier/Delivery Insurance: London Data and Trends in Focus ([1 days ago](https://insurance-edge.net/2025/11/15/courier-delivery-insurance-london-data-and-trends-in-focus/))
 - Chartered Trading Standards Welcomes High St Crackdown ([1 days ago](https://insurance-edge.net/2025/11/15/chartered-trading-standards-welcome-high-st-crackdown/))
 - John Lupica Retires From Chubb ([2 days ago](https://insurance-edge.net/2025/11/14/john-lupica-retires-from-chubb/))
@@ -103,7 +103,7 @@ description: Insurance Updates
 - Solvency II inconsistencies put pet insurance on uneven footing ([4 days ago](https://www.postonline.co.uk/personal/7959122/solvency-ii-inconsistencies-put-pet-insurance-on-uneven-footing))
 - How insurance fuels the global shift to cleaner energy ([4 days ago](https://www.postonline.co.uk/commercial/7959164/how-insurance-fuels-the-global-shift-to-cleaner-energy))
 - Which? names and shames insurers with low claims acceptance rates ([4 days ago](https://www.postonline.co.uk/news/7959363/which-names-and-shames-insurers-with-low-claims-acceptance-rates))
-- State Farm Illinois rate increase filing lacks catastrophe data ([4 days ago](https://www.dig-in.com/news/state-farm-ill-rate-increase-filing-lacks-catastrophe-data))
+- State Farm Illinois rate increase filing lacks catastrophe data ([5 days ago](https://www.dig-in.com/news/state-farm-ill-rate-increase-filing-lacks-catastrophe-data))
 - Why insurers need accurate weather data ([5 days ago](https://www.dig-in.com/news/why-insurers-need-accurate-weather-data))
 - Flood insurance retroactive restoration bill introduced ([5 days ago](https://www.dig-in.com/news/flood-insurance-retroactive-restoration-bill-introduced))
 - Mortgage insurers have strong 3Q for new policies written ([5 days ago](https://www.dig-in.com/news/mgic-radian-arch-enact-essent-national-mi-3q25-profits))
