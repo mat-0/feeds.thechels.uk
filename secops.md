@@ -8,11 +8,11 @@ description: SecOps News
 [Get this as an RSS feed](/secops.rss)
 
 <!-- news_marker starts -->
-- Microsoft: Windows 10 KB5068781 ESU update may fail with 0x800f0922 errors ([5 hours ago](https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-10-kb5068781-esu-update-may-fail-with-0x800f0922-errors/))
-- Decades-old ‘Finger’ protocol abused in ClickFix malware attacks ([7 hours ago](https://www.bleepingcomputer.com/news/security/decades-old-finger-protocol-abused-in-clickfix-malware-attacks/))
+- Microsoft: Windows 10 KB5068781 ESU update may fail with 0x800f0922 errors ([6 hours ago](https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-10-kb5068781-esu-update-may-fail-with-0x800f0922-errors/))
+- Decades-old ‘Finger’ protocol abused in ClickFix malware attacks ([8 hours ago](https://www.bleepingcomputer.com/news/security/decades-old-finger-protocol-abused-in-clickfix-malware-attacks/))
 - RondoDox Exploits Unpatched XWiki Servers to Pull More Devices Into Its Botnet ([10 hours ago](https://thehackernews.com/2025/11/rondodox-exploits-unpatched-xwiki.html))
-- Jaguar Land Rover cyberattack cost the company over $220 million ([11 hours ago](https://www.bleepingcomputer.com/news/security/jaguar-land-rover-cyberattack-cost-the-company-over-220-million/))
-- Five Plead Guilty in U.S. for Helping North Korean IT Workers Infiltrate 136 Companies ([16 hours ago](https://thehackernews.com/2025/11/five-us-citizens-plead-guilty-to.html))
+- Jaguar Land Rover cyberattack cost the company over $220 million ([12 hours ago](https://www.bleepingcomputer.com/news/security/jaguar-land-rover-cyberattack-cost-the-company-over-220-million/))
+- Five Plead Guilty in U.S. for Helping North Korean IT Workers Infiltrate 136 Companies ([17 hours ago](https://thehackernews.com/2025/11/five-us-citizens-plead-guilty-to.html))
 - Logitech confirms data breach after Clop extortion attack ([1 days ago](https://www.bleepingcomputer.com/news/security/logitech-confirms-data-breach-after-clop-extortion-attack/))
 - Researchers find hole in AI guardrails by using strings like =coffee ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2025/11/14/ai_guardrails_prompt_injections_echogram_tokens/))
 - Fortinet finally cops to critical make-me-admin bug under active exploitation ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2025/11/14/fortinet_active_exploit_cve_2025_64446/))
