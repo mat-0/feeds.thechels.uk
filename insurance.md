@@ -8,8 +8,8 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Courier/Delivery Insurance: London Data and Trends in Focus ([19 hours ago](https://insurance-edge.net/2025/11/15/courier-delivery-insurance-london-data-and-trends-in-focus/))
-- Chartered Trading Standards Welcomes High St Crackdown ([21 hours ago](https://insurance-edge.net/2025/11/15/chartered-trading-standards-welcome-high-st-crackdown/))
+- Courier/Delivery Insurance: London Data and Trends in Focus ([20 hours ago](https://insurance-edge.net/2025/11/15/courier-delivery-insurance-london-data-and-trends-in-focus/))
+- Chartered Trading Standards Welcomes High St Crackdown ([22 hours ago](https://insurance-edge.net/2025/11/15/chartered-trading-standards-welcome-high-st-crackdown/))
 - John Lupica Retires From Chubb ([1 days ago](https://insurance-edge.net/2025/11/14/john-lupica-retires-from-chubb/))
 - Fraud Awareness Week: Comment and Analysis ([1 days ago](https://insurance-edge.net/2025/11/14/fraud-awareness-week-comment-and-analysis/))
 - Comprehensive House Insurance: Why Coverage Depth Matters ([1 days ago](https://insurance-edge.net/2025/11/14/comprehensive-house-insurance-why-coverage-depth-matters/))
@@ -87,7 +87,7 @@ description: Insurance Updates
 - Aviva reports strong growth as it closes in on financial targets ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/aviva-reports-strong-growth-as-it-closes-in-on-financial-targets-556433.aspx))
 - Chubb launches AI optimisation engine for embedded insurance ([2 days ago](https://www.insurancebusinessmag.com/uk/news/technology/chubb-launches-ai-optimisation-engine-for-embedded-insurance-556418.aspx))
 - Markerstudy reportedly preparing for London IPO amid sector shake-up ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/markerstudy-reportedly-preparing-for-london-ipo-amid-sector-shakeup-556413.aspx))
-- UK to block insurers from underwriting Russian LNG shipping ([2 days ago](https://www.insurancebusinessmag.com/uk/news/marine/uk-to-block-insurers-from-underwriting-russian-lng-shipping-556409.aspx))
+- UK to block insurers from underwriting Russian LNG shipping ([3 days ago](https://www.insurancebusinessmag.com/uk/news/marine/uk-to-block-insurers-from-underwriting-russian-lng-shipping-556409.aspx))
 - How insurers should navigate a market in flux ([3 days ago](https://www.postonline.co.uk/commercial/7959278/how-insurers-should-navigate-a-market-in-flux))
 - Throwback Thursday: Lifeguard in difficulty ([3 days ago](https://www.postonline.co.uk/broker/7956776/throwback-thursday-lifeguard-in-difficulty))
 - Q&A: Rob Kemp, Aon ([3 days ago](https://www.postonline.co.uk/broker/7958929/qa-rob-kemp-aon))
