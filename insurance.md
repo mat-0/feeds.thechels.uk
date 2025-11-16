@@ -53,7 +53,7 @@ description: Insurance Updates
 - Young Supercar Collectors Aren’t Afraid to Risk Their Investments ([1 days ago](https://www.insurancejournal.com/news/national/2025/11/14/847329.htm))
 - Big Russian Port Operator Says its Systems Were Targeted by Foreign Hackers ([1 days ago](https://www.insurancejournal.com/news/international/2025/11/14/847603.htm))
 - AI Is Writing Performance Reviews. What Could Go Wrong? ([1 days ago](https://www.insurancejournal.com/news/national/2025/11/14/847592.htm))
-- AM Best Revises Outlooks to Positive for Members of Kansas Medical Mutual Group ([1 days ago](https://www.insurancejournal.com/news/midwest/2025/11/14/847573.htm))
+- AM Best Revises Outlooks to Positive for Members of Kansas Medical Mutual Group ([2 days ago](https://www.insurancejournal.com/news/midwest/2025/11/14/847573.htm))
 - Carbon Dioxide Emissions Are Set to Reach a New High This Year ([2 days ago](https://www.insurancejournal.com/news/international/2025/11/14/847386.htm))
 - PwC: Insurance Execs Say Agentic AI Leading Industry Transformation ([2 days ago](https://www.insurancejournal.com/news/national/2025/11/14/847326.htm))
 - Parkland Shooting Wasn’t Multiple Incidents With Multiple Deductibles, Court Says ([2 days ago](https://www.insurancejournal.com/news/southeast/2025/11/14/847556.htm))

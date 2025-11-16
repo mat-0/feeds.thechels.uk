@@ -8,6 +8,7 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
+- Defensive Programming Rule #4: Safe and Efficient Type Casting ([8 minutes ago](https://dotnettips.wordpress.com/2025/11/16/defensive-programming-rule-4-safe-and-efficient-type-casting/))
 - JetBrains Is Heading to VSLive! Orlando ([1 days ago](https://blog.jetbrains.com/dotnet/2025/11/15/jetbrains-is-heading-to-vslive-orlando/))
 - C# 14 Language Features in ReSharper and Rider 2025.3 ([4 days ago](https://blog.jetbrains.com/dotnet/2025/11/11/csharp-14-language-features-in-resharper-and-rider-2025-3/))
 - What’s Been Fixed in Rider 2025.3 ([4 days ago](https://blog.jetbrains.com/dotnet/2025/11/11/what-s-been-fixed-in-rider-2025-3/))
@@ -17,7 +18,7 @@ description: DotNet Updates
 - Announcing .NET 10 ([4 days ago](https://devblogs.microsoft.com/dotnet/announcing-dotnet-10/))
 - .NET and .NET Framework November 2025 servicing releases updates ([4 days ago](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-november-2025-servicing-updates/))
 - dotNetDave Rocks Austin .NET User Group November 2025 Meeting ([5 days ago](https://dotnettips.wordpress.com/2025/11/10/dotnetdave-rocks-austin-net-user-group-november-2025-meeting/))
-- Defensive Programming Rule #3: Validate Your Enums (Every Time) ([6 days ago](https://dotnettips.wordpress.com/2025/11/09/defensive-programming-rule-3-validate-your-enums-every-time/))
+- Defensive Programming Rule #3: Validate Your Enums (Every Time) ([7 days ago](https://dotnettips.wordpress.com/2025/11/09/defensive-programming-rule-3-validate-your-enums-every-time/))
 - How Copilot Studio uses .NET and WebAssembly for performance and innovation ([10 days ago](https://devblogs.microsoft.com/dotnet/copilot-studio-dotnet-wasm/))
 - The Rider 2025.3 Release Candidate Is Now Available ([10 days ago](https://blog.jetbrains.com/dotnet/2025/11/05/the-rider-2025-3-release-candidate/))
 - The ReSharper, .NET Tools, and ReSharper C++ 2025.3 Release Candidates Are Now Available ([10 days ago](https://blog.jetbrains.com/dotnet/2025/11/05/the-resharper-dotnet-tools-2025-3-release-candidate/))
