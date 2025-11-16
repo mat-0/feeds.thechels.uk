@@ -8,7 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Shall We Delve Deeper into The Instagram `Quick Money’ Scams? ([1 hours ago](https://insurance-edge.net/2025/11/16/shall-we-delve-deeper-into-the-instagram-quick-money-scams/))
+- Shall We Delve Deeper into The Instagram `Quick Money’ Scams? ([2 hours ago](https://insurance-edge.net/2025/11/16/shall-we-delve-deeper-into-the-instagram-quick-money-scams/))
 - Courier/Delivery Insurance: London Data and Trends in Focus ([1 days ago](https://insurance-edge.net/2025/11/15/courier-delivery-insurance-london-data-and-trends-in-focus/))
 - Chartered Trading Standards Welcomes High St Crackdown ([1 days ago](https://insurance-edge.net/2025/11/15/chartered-trading-standards-welcome-high-st-crackdown/))
 - John Lupica Retires From Chubb ([1 days ago](https://insurance-edge.net/2025/11/14/john-lupica-retires-from-chubb/))
@@ -23,8 +23,8 @@ description: Insurance Updates
 - Coal Miners’ Respirator Claims Barred by Statute of Limitations, WV Supreme Court Finds ([1 days ago](https://www.insurancejournal.com/news/southeast/2025/11/14/847669.htm))
 - Captives can help advance ESG commitments, says FERMA report ([1 days ago](https://www.reinsurancene.ws/captives-can-help-advance-esg-commitments-says-ferma-report/))
 - John Neal no longer joining AIG ([1 days ago](https://www.reinsurancene.ws/john-neal-no-longer-joining-aig/))
-- Former Lloyd’s CEO Neal Will Not Join AIG; Hancock to Be General Insurance CEO ([1 days ago](https://www.insurancejournal.com/news/national/2025/11/14/847643.htm))
-- War risks return to the seas as reinsurance faces a new era of uncertainty: Willis Re ([1 days ago](https://www.reinsurancene.ws/war-risks-return-to-the-seas-as-reinsurance-faces-a-new-era-of-uncertainty-willis-re/))
+- Former Lloyd’s CEO Neal Will Not Join AIG; Hancock to Be General Insurance CEO ([2 days ago](https://www.insurancejournal.com/news/national/2025/11/14/847643.htm))
+- War risks return to the seas as reinsurance faces a new era of uncertainty: Willis Re ([2 days ago](https://www.reinsurancene.ws/war-risks-return-to-the-seas-as-reinsurance-faces-a-new-era-of-uncertainty-willis-re/))
 - Insurers Paid Nearly £200 Million in Cyber Claims for UK Businesses in 2024 ([2 days ago](https://www.insurancejournal.com/news/international/2025/11/14/847636.htm))
 - Insurers as enablers of climate resilience through long-term partnerships: HDI Global ([2 days ago](https://www.reinsurancene.ws/insurers-as-enablers-of-climate-resilience-through-long-term-partnerships-hdi-global/))
 - AIG cancels John Neal’s president appointment ([2 days ago](https://www.postonline.co.uk/people/7959395/aig-cancels-john-neals-president-appointment))
@@ -94,7 +94,7 @@ description: Insurance Updates
 - Gallagher reshapes UK retail operations following AssuredPartners acquisition ([3 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/gallagher-reshapes-uk-retail-operations-following-assuredpartners-acquisition-556397.aspx))
 - ABI backs UK Cyber Security Bill as insurers brace for rising demand ([3 days ago](https://www.insurancebusinessmag.com/uk/news/cyber/abi-backs-uk-cyber-security-bill-as-insurers-brace-for-rising-demand-556402.aspx))
 - TransUnion: Nearly half of consumers buy insurance via digital channels ([3 days ago](https://www.dig-in.com/news/transunion-nearly-half-of-consumers-buy-insurance-via-digital-channels))
-- Gallagher shifts retail structure following AssuredPartners deal ([3 days ago](https://www.postonline.co.uk/broker/7959374/gallagher-introduces-new-retail-structure-following-assuredpartners-deal))
+- Gallagher shifts retail structure following AssuredPartners deal ([4 days ago](https://www.postonline.co.uk/broker/7959374/gallagher-introduces-new-retail-structure-following-assuredpartners-deal))
 - Government introduces Bill to bolster cyber resilience ([4 days ago](https://www.postonline.co.uk/news/7959371/government-introduces-bill-to-bolster-cyber-resilience))
 - Motor premiums decrease for third straight quarter ([4 days ago](https://www.postonline.co.uk/personal/7959369/motor-premiums-decrease-for-third-straight-quarter))
 - MPs call for more clarity on leasehold insurance fees ([4 days ago](https://www.postonline.co.uk/news/7959368/mps-call-for-more-clarity-on-leasehold-insurance-fees))
