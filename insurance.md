@@ -8,8 +8,8 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Courier/Delivery Insurance: London Data and Trends in Focus ([12 hours ago](https://insurance-edge.net/2025/11/15/courier-delivery-insurance-london-data-and-trends-in-focus/))
-- Chartered Trading Standards Welcomes High St Crackdown ([15 hours ago](https://insurance-edge.net/2025/11/15/chartered-trading-standards-welcome-high-st-crackdown/))
+- Courier/Delivery Insurance: London Data and Trends in Focus ([13 hours ago](https://insurance-edge.net/2025/11/15/courier-delivery-insurance-london-data-and-trends-in-focus/))
+- Chartered Trading Standards Welcomes High St Crackdown ([16 hours ago](https://insurance-edge.net/2025/11/15/chartered-trading-standards-welcome-high-st-crackdown/))
 - John Lupica Retires From Chubb ([1 days ago](https://insurance-edge.net/2025/11/14/john-lupica-retires-from-chubb/))
 - Fraud Awareness Week: Comment and Analysis ([1 days ago](https://insurance-edge.net/2025/11/14/fraud-awareness-week-comment-and-analysis/))
 - Comprehensive House Insurance: Why Coverage Depth Matters ([1 days ago](https://insurance-edge.net/2025/11/14/comprehensive-house-insurance-why-coverage-depth-matters/))
@@ -100,7 +100,7 @@ description: Insurance Updates
 - MPs call for more clarity on leasehold insurance fees ([3 days ago](https://www.postonline.co.uk/news/7959368/mps-call-for-more-clarity-on-leasehold-insurance-fees))
 - Solvency II inconsistencies put pet insurance on uneven footing ([3 days ago](https://www.postonline.co.uk/personal/7959122/solvency-ii-inconsistencies-put-pet-insurance-on-uneven-footing))
 - How insurance fuels the global shift to cleaner energy ([3 days ago](https://www.postonline.co.uk/commercial/7959164/how-insurance-fuels-the-global-shift-to-cleaner-energy))
-- Which? names and shames insurers with low claims acceptance rates ([3 days ago](https://www.postonline.co.uk/news/7959363/which-names-and-shames-insurers-with-low-claims-acceptance-rates))
+- Which? names and shames insurers with low claims acceptance rates ([4 days ago](https://www.postonline.co.uk/news/7959363/which-names-and-shames-insurers-with-low-claims-acceptance-rates))
 - State Farm Illinois rate increase filing lacks catastrophe data ([4 days ago](https://www.dig-in.com/news/state-farm-ill-rate-increase-filing-lacks-catastrophe-data))
 - Why insurers need accurate weather data ([4 days ago](https://www.dig-in.com/news/why-insurers-need-accurate-weather-data))
 - Flood insurance retroactive restoration bill introduced ([4 days ago](https://www.dig-in.com/news/flood-insurance-retroactive-restoration-bill-introduced))
