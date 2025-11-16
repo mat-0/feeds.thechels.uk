@@ -8,7 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Shall We Delve Deeper into The Instagram `Quick Money’ Scams? ([2 hours ago](https://insurance-edge.net/2025/11/16/shall-we-delve-deeper-into-the-instagram-quick-money-scams/))
+- Shall We Delve Deeper into The Instagram `Quick Money’ Scams? ([3 hours ago](https://insurance-edge.net/2025/11/16/shall-we-delve-deeper-into-the-instagram-quick-money-scams/))
 - Courier/Delivery Insurance: London Data and Trends in Focus ([1 days ago](https://insurance-edge.net/2025/11/15/courier-delivery-insurance-london-data-and-trends-in-focus/))
 - Chartered Trading Standards Welcomes High St Crackdown ([1 days ago](https://insurance-edge.net/2025/11/15/chartered-trading-standards-welcome-high-st-crackdown/))
 - John Lupica Retires From Chubb ([1 days ago](https://insurance-edge.net/2025/11/14/john-lupica-retires-from-chubb/))
@@ -21,7 +21,7 @@ description: Insurance Updates
 - All 14 Victims Identified in UPS Cargo Plane Crash in Louisville ([1 days ago](https://www.insurancejournal.com/news/southeast/2025/11/14/847680.htm))
 - Amiga Specialty secures multi-year, multi-product capacity with Accelerant Risk Exchange ([1 days ago](https://www.reinsurancene.ws/amiga-specialty-secures-multi-year-multi-product-capacity-with-accelerant-risk-exchange/))
 - Coal Miners’ Respirator Claims Barred by Statute of Limitations, WV Supreme Court Finds ([1 days ago](https://www.insurancejournal.com/news/southeast/2025/11/14/847669.htm))
-- Captives can help advance ESG commitments, says FERMA report ([1 days ago](https://www.reinsurancene.ws/captives-can-help-advance-esg-commitments-says-ferma-report/))
+- Captives can help advance ESG commitments, says FERMA report ([2 days ago](https://www.reinsurancene.ws/captives-can-help-advance-esg-commitments-says-ferma-report/))
 - John Neal no longer joining AIG ([2 days ago](https://www.reinsurancene.ws/john-neal-no-longer-joining-aig/))
 - Former Lloyd’s CEO Neal Will Not Join AIG; Hancock to Be General Insurance CEO ([2 days ago](https://www.insurancejournal.com/news/national/2025/11/14/847643.htm))
 - War risks return to the seas as reinsurance faces a new era of uncertainty: Willis Re ([2 days ago](https://www.reinsurancene.ws/war-risks-return-to-the-seas-as-reinsurance-faces-a-new-era-of-uncertainty-willis-re/))
