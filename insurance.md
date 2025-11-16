@@ -9,7 +9,7 @@ description: Insurance Updates
 
 <!-- news_marker starts -->
 - Courier/Delivery Insurance: London Data and Trends in Focus ([20 hours ago](https://insurance-edge.net/2025/11/15/courier-delivery-insurance-london-data-and-trends-in-focus/))
-- Chartered Trading Standards Welcomes High St Crackdown ([22 hours ago](https://insurance-edge.net/2025/11/15/chartered-trading-standards-welcome-high-st-crackdown/))
+- Chartered Trading Standards Welcomes High St Crackdown ([23 hours ago](https://insurance-edge.net/2025/11/15/chartered-trading-standards-welcome-high-st-crackdown/))
 - John Lupica Retires From Chubb ([1 days ago](https://insurance-edge.net/2025/11/14/john-lupica-retires-from-chubb/))
 - Fraud Awareness Week: Comment and Analysis ([1 days ago](https://insurance-edge.net/2025/11/14/fraud-awareness-week-comment-and-analysis/))
 - Comprehensive House Insurance: Why Coverage Depth Matters ([1 days ago](https://insurance-edge.net/2025/11/14/comprehensive-house-insurance-why-coverage-depth-matters/))
@@ -52,7 +52,7 @@ description: Insurance Updates
 - Congressional THC Ban Threatens Texas’ $8 Billion Hemp Industry ([1 days ago](https://www.insurancejournal.com/news/southcentral/2025/11/14/847547.htm))
 - Young Supercar Collectors Aren’t Afraid to Risk Their Investments ([1 days ago](https://www.insurancejournal.com/news/national/2025/11/14/847329.htm))
 - Big Russian Port Operator Says its Systems Were Targeted by Foreign Hackers ([1 days ago](https://www.insurancejournal.com/news/international/2025/11/14/847603.htm))
-- AI Is Writing Performance Reviews. What Could Go Wrong? ([1 days ago](https://www.insurancejournal.com/news/national/2025/11/14/847592.htm))
+- AI Is Writing Performance Reviews. What Could Go Wrong? ([2 days ago](https://www.insurancejournal.com/news/national/2025/11/14/847592.htm))
 - AM Best Revises Outlooks to Positive for Members of Kansas Medical Mutual Group ([2 days ago](https://www.insurancejournal.com/news/midwest/2025/11/14/847573.htm))
 - Carbon Dioxide Emissions Are Set to Reach a New High This Year ([2 days ago](https://www.insurancejournal.com/news/international/2025/11/14/847386.htm))
 - PwC: Insurance Execs Say Agentic AI Leading Industry Transformation ([2 days ago](https://www.insurancejournal.com/news/national/2025/11/14/847326.htm))
@@ -86,7 +86,7 @@ description: Insurance Updates
 - Talanx lifts 2025 outlook once again after record earnings surge in Q3 ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/talanx-lifts-2025-outlook-once-again-after-record-earnings-surge-in-q3-556436.aspx))
 - Aviva reports strong growth as it closes in on financial targets ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/aviva-reports-strong-growth-as-it-closes-in-on-financial-targets-556433.aspx))
 - Chubb launches AI optimisation engine for embedded insurance ([2 days ago](https://www.insurancebusinessmag.com/uk/news/technology/chubb-launches-ai-optimisation-engine-for-embedded-insurance-556418.aspx))
-- Markerstudy reportedly preparing for London IPO amid sector shake-up ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/markerstudy-reportedly-preparing-for-london-ipo-amid-sector-shakeup-556413.aspx))
+- Markerstudy reportedly preparing for London IPO amid sector shake-up ([3 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/markerstudy-reportedly-preparing-for-london-ipo-amid-sector-shakeup-556413.aspx))
 - UK to block insurers from underwriting Russian LNG shipping ([3 days ago](https://www.insurancebusinessmag.com/uk/news/marine/uk-to-block-insurers-from-underwriting-russian-lng-shipping-556409.aspx))
 - How insurers should navigate a market in flux ([3 days ago](https://www.postonline.co.uk/commercial/7959278/how-insurers-should-navigate-a-market-in-flux))
 - Throwback Thursday: Lifeguard in difficulty ([3 days ago](https://www.postonline.co.uk/broker/7956776/throwback-thursday-lifeguard-in-difficulty))
