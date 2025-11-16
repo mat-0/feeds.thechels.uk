@@ -30,7 +30,7 @@ description: DotNet Updates
 - Simplifying Distributed Systems: Jason Taylor Shows How .NET Aspire Makes the Complex Feel Effortless ([17 days ago](https://blog.jetbrains.com/dotnet/2025/10/29/simplifying-distributed-systems-dotnet-aspire-jason-taylor/))
 - Introducing Custom Agents for .NET Developers: C# Expert & WinForms Expert ([18 days ago](https://devblogs.microsoft.com/dotnet/introducing-custom-agents-for-dotnet-developers-csharp-expert-winforms-expert/))
 - Understanding the worst .NET vulnerability ever: request smuggling and CVE-2025-55315 ([18 days ago](https://andrewlock.net/understanding-the-worst-dotnet-vulnerability-request-smuggling-and-cve-2025-55315/))
-- ReSharper and Rider 2025.2.4: Another Set of Updates Released ([18 days ago](https://blog.jetbrains.com/dotnet/2025/10/28/resharper-and-rider-2025-1-4-2/))
+- ReSharper and Rider 2025.2.4: Another Set of Updates Released ([19 days ago](https://blog.jetbrains.com/dotnet/2025/10/28/resharper-and-rider-2025-1-4-2/))
 - Defensive Programming Rule #1: Anticipate Errors and Eliminate Bugs ([21 days ago](https://dotnettips.wordpress.com/2025/10/26/defensive-programming-rule-1-anticipate-errors-and-eliminate-bugs/))
 - Announcing Sponsorship on NuGet.org ([23 days ago](https://devblogs.microsoft.com/dotnet/announcing-sponsorship-on-nugetdotorg-for-maintainer-appreciation/))
 - Upgrading to Microsoft Agent Framework in Your .NET AI Chat App ([23 days ago](https://devblogs.microsoft.com/dotnet/upgrading-to-microsoft-agent-framework-in-your-dotnet-ai-chat-app/))
