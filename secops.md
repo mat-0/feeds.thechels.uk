@@ -10,8 +10,8 @@ description: SecOps News
 <!-- news_marker starts -->
 - Google to flag Android apps with excessive battery use on the Play Store ([3 hours ago](https://www.bleepingcomputer.com/news/security/google-to-flag-android-apps-with-excessive-battery-use-on-the-play-store/))
 - Weekly Update 478 ([10 hours ago](https://www.troyhunt.com/weekly-update-478/))
-- Microsoft: Windows 10 KB5068781 ESU update may fail with 0x800f0922 errors ([21 hours ago](https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-10-kb5068781-esu-update-may-fail-with-0x800f0922-errors/))
-- Decades-old ‘Finger’ protocol abused in ClickFix malware attacks ([23 hours ago](https://www.bleepingcomputer.com/news/security/decades-old-finger-protocol-abused-in-clickfix-malware-attacks/))
+- Microsoft: Windows 10 KB5068781 ESU update may fail with 0x800f0922 errors ([22 hours ago](https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-10-kb5068781-esu-update-may-fail-with-0x800f0922-errors/))
+- Decades-old ‘Finger’ protocol abused in ClickFix malware attacks ([1 days ago](https://www.bleepingcomputer.com/news/security/decades-old-finger-protocol-abused-in-clickfix-malware-attacks/))
 - RondoDox Exploits Unpatched XWiki Servers to Pull More Devices Into Its Botnet ([1 days ago](https://thehackernews.com/2025/11/rondodox-exploits-unpatched-xwiki.html))
 - Jaguar Land Rover cyberattack cost the company over $220 million ([1 days ago](https://www.bleepingcomputer.com/news/security/jaguar-land-rover-cyberattack-cost-the-company-over-220-million/))
 - Five Plead Guilty in U.S. for Helping North Korean IT Workers Infiltrate 136 Companies ([1 days ago](https://thehackernews.com/2025/11/five-us-citizens-plead-guilty-to.html))

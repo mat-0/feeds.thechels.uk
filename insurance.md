@@ -8,7 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Shall We Delve Deeper into The Instagram `Quick Money’ Scams? ([6 hours ago](https://insurance-edge.net/2025/11/16/shall-we-delve-deeper-into-the-instagram-quick-money-scams/))
+- Shall We Delve Deeper into The Instagram `Quick Money’ Scams? ([7 hours ago](https://insurance-edge.net/2025/11/16/shall-we-delve-deeper-into-the-instagram-quick-money-scams/))
 - Courier/Delivery Insurance: London Data and Trends in Focus ([1 days ago](https://insurance-edge.net/2025/11/15/courier-delivery-insurance-london-data-and-trends-in-focus/))
 - Chartered Trading Standards Welcomes High St Crackdown ([1 days ago](https://insurance-edge.net/2025/11/15/chartered-trading-standards-welcome-high-st-crackdown/))
 - John Lupica Retires From Chubb ([1 days ago](https://insurance-edge.net/2025/11/14/john-lupica-retires-from-chubb/))
