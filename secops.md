@@ -8,9 +8,9 @@ description: SecOps News
 [Get this as an RSS feed](/secops.rss)
 
 <!-- news_marker starts -->
-- Jaguar Land Rover hack cost India's Tata Motors around $2.4 billion and counting ([1 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/11/17/asia_tech_news_roundup/))
+- Jaguar Land Rover hack cost India's Tata Motors around $2.4 billion and counting ([2 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/11/17/asia_tech_news_roundup/))
 - Logitech leaks data after zero-day attack ([4 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/11/16/infosec_news_in_brief/))
-- Microsoft Patch Tuesday, November 2025 Edition ([5 hours ago](https://krebsonsecurity.com/2025/11/microsoft-patch-tuesday-november-2025-edition/))
+- Microsoft Patch Tuesday, November 2025 Edition ([6 hours ago](https://krebsonsecurity.com/2025/11/microsoft-patch-tuesday-november-2025-edition/))
 - Google to flag Android apps with excessive battery use on the Play Store ([12 hours ago](https://www.bleepingcomputer.com/news/security/google-to-flag-android-apps-with-excessive-battery-use-on-the-play-store/))
 - Weekly Update 478 ([19 hours ago](https://www.troyhunt.com/weekly-update-478/))
 - Microsoft: Windows 10 KB5068781 ESU update may fail with 0x800f0922 errors ([1 days ago](https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-10-kb5068781-esu-update-may-fail-with-0x800f0922-errors/))
@@ -90,7 +90,7 @@ description: SecOps News
 - CISA Flags Critical WatchGuard Fireware Flaw Exposing 54,000 Fireboxes to No-Login Attacks ([3 days ago](https://thehackernews.com/2025/11/cisa-flags-critical-watchguard-fireware.html))
 - Over 67,000 Fake npm Packages Flood Registry in Worm-Like Spam Attack ([3 days ago](https://thehackernews.com/2025/11/over-46000-fake-npm-packages-flood.html))
 - Russia’s first autonomous humanoid robot staggers and falls on debut ([3 days ago](https://go.theregister.com/feed/www.theregister.com/2025/11/13/aidol_russia_robot_fail/))
-- Google to allow Android users with high pain tolerance to sideload unverified apps ([3 days ago](https://go.theregister.com/feed/www.theregister.com/2025/11/13/google_keep_android_open_response/))
+- Google to allow Android users with high pain tolerance to sideload unverified apps ([4 days ago](https://go.theregister.com/feed/www.theregister.com/2025/11/13/google_keep_android_open_response/))
 - Microsoft is building datacenter superclusters that span continents ([4 days ago](https://go.theregister.com/feed/www.theregister.com/2025/11/13/microsoft_fairwater_dataceter_superclusters/))
 - OpenAI GPT-5.1 adds more personalities, loses inhibitions ([4 days ago](https://go.theregister.com/feed/www.theregister.com/2025/11/13/openai_gpt51_adds_more_personalities/))
 - Disruption with some GitHub services ([4 days ago](https://www.githubstatus.com/incidents/br7kz68t38cl))
