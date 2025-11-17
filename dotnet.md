@@ -8,10 +8,10 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Introducing C# 14 - .NET Blog ([3 hours ago](https://dotnetkicks.com/r/735110?url=https://devblogs.microsoft.com/dotnet/introducing-csharp-14/))
+- Introducing C# 14 - .NET Blog ([4 hours ago](https://dotnetkicks.com/r/735110?url=https://devblogs.microsoft.com/dotnet/introducing-csharp-14/))
 - Introducing F# 10 ([4 hours ago](https://devblogs.microsoft.com/dotnet/introducing-fsharp-10/))
 - Introducing C# 14 ([4 hours ago](https://devblogs.microsoft.com/dotnet/introducing-csharp-14/))
-- Database Features in Rider ([7 hours ago](https://blog.jetbrains.com/dotnet/2025/11/17/database-features-in-rider/))
+- Database Features in Rider ([8 hours ago](https://blog.jetbrains.com/dotnet/2025/11/17/database-features-in-rider/))
 - Defensive Programming Rule #4: Safe and Efficient Type Casting ([1 days ago](https://dotnettips.wordpress.com/2025/11/16/defensive-programming-rule-4-safe-and-efficient-type-casting/))
 - JetBrains Is Heading to VSLive! Orlando ([2 days ago](https://blog.jetbrains.com/dotnet/2025/11/15/jetbrains-is-heading-to-vslive-orlando/))
 - Azure MCP Server Now Built-In with Visual Studio 2026: A New Era for Agentic Workflows - Visual Studio Blog ([3 days ago](https://dotnetkicks.com/r/735014?url=https://devblogs.microsoft.com/visualstudio/azure-mcp-server-now-built-in-with-visual-studio-2026-a-new-era-for-agentic-workflows/))
@@ -59,7 +59,7 @@ description: DotNet Updates
 - Introducing Custom Agents for .NET Developers: C# Expert & WinForms Expert ([20 days ago](https://devblogs.microsoft.com/dotnet/introducing-custom-agents-for-dotnet-developers-csharp-expert-winforms-expert/))
 - Understanding the worst .NET vulnerability ever: request smuggling and CVE-2025-55315 ([20 days ago](https://andrewlock.net/understanding-the-worst-dotnet-vulnerability-request-smuggling-and-cve-2025-55315/))
 - Defensive Programming Rule #1: Anticipate Errors and Eliminate Bugs ([22 days ago](https://dotnettips.wordpress.com/2025/10/26/defensive-programming-rule-1-anticipate-errors-and-eliminate-bugs/))
-- Announcing Sponsorship on NuGet.org ([24 days ago](https://devblogs.microsoft.com/dotnet/announcing-sponsorship-on-nugetdotorg-for-maintainer-appreciation/))
+- Announcing Sponsorship on NuGet.org ([25 days ago](https://devblogs.microsoft.com/dotnet/announcing-sponsorship-on-nugetdotorg-for-maintainer-appreciation/))
 - Upgrading to Microsoft Agent Framework in Your .NET AI Chat App ([25 days ago](https://devblogs.microsoft.com/dotnet/upgrading-to-microsoft-agent-framework-in-your-dotnet-ai-chat-app/))
 - Adding metadata to fallback endpoints in ASP.NET Core ([26 days ago](https://andrewlock.net/adding-metadata-to-fallback-endpoints-in-aspnetcore/))
 - Mastering the Art of Public Speaking: Lessons from a Lifetime of Teaching and Sharing ([29 days ago](https://dotnettips.wordpress.com/2025/10/19/mastering-the-art-of-public-speaking-lessons-from-a-lifetime-of-teaching-and-sharing/))
