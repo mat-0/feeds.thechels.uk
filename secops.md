@@ -8,10 +8,11 @@ description: SecOps News
 [Get this as an RSS feed](/secops.rss)
 
 <!-- news_marker starts -->
-- Server virtualization market heats up as VMware rivals try to create alluring alternatives ([59 minutes ago](https://go.theregister.com/feed/www.theregister.com/2025/11/17/gartner_server_virtualization_guide/))
+- Rust Adoption Drives Android Memory Safety Bugs Below 20% for First Time ([1 hours ago](https://thehackernews.com/2025/11/rust-adoption-drives-android-memory.html))
+- Server virtualization market heats up as VMware rivals try to create alluring alternatives ([1 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/11/17/gartner_server_virtualization_guide/))
 - Jaguar Land Rover hack cost India's Tata Motors around $2.4 billion and counting ([5 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/11/17/asia_tech_news_roundup/))
-- Logitech leaks data after zero-day attack ([7 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/11/16/infosec_news_in_brief/))
-- Microsoft Patch Tuesday, November 2025 Edition ([8 hours ago](https://krebsonsecurity.com/2025/11/microsoft-patch-tuesday-november-2025-edition/))
+- Logitech leaks data after zero-day attack ([8 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/11/16/infosec_news_in_brief/))
+- Microsoft Patch Tuesday, November 2025 Edition ([9 hours ago](https://krebsonsecurity.com/2025/11/microsoft-patch-tuesday-november-2025-edition/))
 - Google to flag Android apps with excessive battery use on the Play Store ([15 hours ago](https://www.bleepingcomputer.com/news/security/google-to-flag-android-apps-with-excessive-battery-use-on-the-play-store/))
 - Weekly Update 478 ([22 hours ago](https://www.troyhunt.com/weekly-update-478/))
 - Microsoft: Windows 10 KB5068781 ESU update may fail with 0x800f0922 errors ([1 days ago](https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-10-kb5068781-esu-update-may-fail-with-0x800f0922-errors/))
@@ -119,7 +120,6 @@ description: SecOps News
 - OWASP Top 10: Broken access control still tops app security list ([5 days ago](https://go.theregister.com/feed/www.theregister.com/2025/11/11/new_owasp_top_ten_broken/))
 - Hitachi-owned GlobalLogic admits data stolen on 10k current and former staff ([5 days ago](https://go.theregister.com/feed/www.theregister.com/2025/11/11/hitachiowned_globallogic_admits_data_stolen/))
 - CISO's Expert Guide To AI Supply Chain Attacks ([5 days ago](https://thehackernews.com/2025/11/cisos-expert-guide-to-ai-supply-chain.html))
-- Npm Package Targeting GitHub-Owned Repositories Flagged as Red Team Exercise ([5 days ago](https://thehackernews.com/2025/11/researchers-detect-malicious-npm.html))
 - Drilling Down on Uncle Sam’s Proposed TP-Link Ban ([7 days ago](https://krebsonsecurity.com/2025/11/drilling-down-on-uncle-sams-proposed-tp-link-ban/))
 - TISZA Világ - 198,520 breached accounts ([8 days ago](https://haveibeenpwned.com/Breach/Tisza))
 - Re: [FD]	: "Glass Cage" – Zero-Click iMessage → Persistent iOS Compromise + Bricking (CVE-2025-24085 / 24201, CNVD-2025-07885) ([9 days ago](https://seclists.org/fulldisclosure/2025/Nov/15))
