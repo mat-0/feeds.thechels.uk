@@ -9,10 +9,10 @@ description: SecOps News
 
 <!-- news_marker starts -->
 - Jaguar Land Rover hack cost India's Tata Motors around $2.4 billion and counting ([2 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/11/17/asia_tech_news_roundup/))
-- Logitech leaks data after zero-day attack ([4 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/11/16/infosec_news_in_brief/))
+- Logitech leaks data after zero-day attack ([5 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/11/16/infosec_news_in_brief/))
 - Microsoft Patch Tuesday, November 2025 Edition ([6 hours ago](https://krebsonsecurity.com/2025/11/microsoft-patch-tuesday-november-2025-edition/))
 - Google to flag Android apps with excessive battery use on the Play Store ([12 hours ago](https://www.bleepingcomputer.com/news/security/google-to-flag-android-apps-with-excessive-battery-use-on-the-play-store/))
-- Weekly Update 478 ([19 hours ago](https://www.troyhunt.com/weekly-update-478/))
+- Weekly Update 478 ([20 hours ago](https://www.troyhunt.com/weekly-update-478/))
 - Microsoft: Windows 10 KB5068781 ESU update may fail with 0x800f0922 errors ([1 days ago](https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-10-kb5068781-esu-update-may-fail-with-0x800f0922-errors/))
 - Decades-old ‘Finger’ protocol abused in ClickFix malware attacks ([1 days ago](https://www.bleepingcomputer.com/news/security/decades-old-finger-protocol-abused-in-clickfix-malware-attacks/))
 - RondoDox Exploits Unpatched XWiki Servers to Pull More Devices Into Its Botnet ([1 days ago](https://thehackernews.com/2025/11/rondodox-exploits-unpatched-xwiki.html))
