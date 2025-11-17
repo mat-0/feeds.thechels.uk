@@ -8,9 +8,9 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Introducing C# 14 - .NET Blog ([29 minutes ago](https://dotnetkicks.com/r/735110?url=https://devblogs.microsoft.com/dotnet/introducing-csharp-14/))
-- Introducing F# 10 ([38 minutes ago](https://devblogs.microsoft.com/dotnet/introducing-fsharp-10/))
-- Introducing C# 14 ([38 minutes ago](https://devblogs.microsoft.com/dotnet/introducing-csharp-14/))
+- Introducing C# 14 - .NET Blog ([52 minutes ago](https://dotnetkicks.com/r/735110?url=https://devblogs.microsoft.com/dotnet/introducing-csharp-14/))
+- Introducing F# 10 ([1 hours ago](https://devblogs.microsoft.com/dotnet/introducing-fsharp-10/))
+- Introducing C# 14 ([1 hours ago](https://devblogs.microsoft.com/dotnet/introducing-csharp-14/))
 - Database Features in Rider ([4 hours ago](https://blog.jetbrains.com/dotnet/2025/11/17/database-features-in-rider/))
 - Defensive Programming Rule #4: Safe and Efficient Type Casting ([1 days ago](https://dotnettips.wordpress.com/2025/11/16/defensive-programming-rule-4-safe-and-efficient-type-casting/))
 - JetBrains Is Heading to VSLive! Orlando ([2 days ago](https://blog.jetbrains.com/dotnet/2025/11/15/jetbrains-is-heading-to-vslive-orlando/))
