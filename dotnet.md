@@ -9,7 +9,7 @@ description: DotNet Updates
 
 <!-- news_marker starts -->
 - Implement forgot your password using swiyu, ASP.NET Core Identity and Aspire ([2 hours ago](https://dotnetkicks.com/r/735160?url=https://damienbod.com/2025/11/17/implement-forgot-your-password-using-swiyu-asp-net-core-identity-and-aspire/))
-- Introducing C# 14 - .NET Blog ([14 hours ago](https://dotnetkicks.com/r/735110?url=https://devblogs.microsoft.com/dotnet/introducing-csharp-14/))
+- Introducing C# 14 - .NET Blog ([15 hours ago](https://dotnetkicks.com/r/735110?url=https://devblogs.microsoft.com/dotnet/introducing-csharp-14/))
 - Introducing F# 10 ([15 hours ago](https://devblogs.microsoft.com/dotnet/introducing-fsharp-10/))
 - Introducing C# 14 ([15 hours ago](https://devblogs.microsoft.com/dotnet/introducing-csharp-14/))
 - Database Features in Rider ([19 hours ago](https://blog.jetbrains.com/dotnet/2025/11/17/database-features-in-rider/))
