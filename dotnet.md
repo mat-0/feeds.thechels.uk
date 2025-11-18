@@ -8,7 +8,7 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Introducing C# 14 - .NET Blog ([9 hours ago](https://dotnetkicks.com/r/735110?url=https://devblogs.microsoft.com/dotnet/introducing-csharp-14/))
+- Introducing C# 14 - .NET Blog ([10 hours ago](https://dotnetkicks.com/r/735110?url=https://devblogs.microsoft.com/dotnet/introducing-csharp-14/))
 - Introducing F# 10 ([10 hours ago](https://devblogs.microsoft.com/dotnet/introducing-fsharp-10/))
 - Introducing C# 14 ([10 hours ago](https://devblogs.microsoft.com/dotnet/introducing-csharp-14/))
 - Database Features in Rider ([14 hours ago](https://blog.jetbrains.com/dotnet/2025/11/17/database-features-in-rider/))
