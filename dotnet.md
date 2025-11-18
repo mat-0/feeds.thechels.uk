@@ -9,9 +9,9 @@ description: DotNet Updates
 
 <!-- news_marker starts -->
 - Introducing C# 14 - .NET Blog ([9 hours ago](https://dotnetkicks.com/r/735110?url=https://devblogs.microsoft.com/dotnet/introducing-csharp-14/))
-- Introducing F# 10 ([9 hours ago](https://devblogs.microsoft.com/dotnet/introducing-fsharp-10/))
-- Introducing C# 14 ([9 hours ago](https://devblogs.microsoft.com/dotnet/introducing-csharp-14/))
-- Database Features in Rider ([13 hours ago](https://blog.jetbrains.com/dotnet/2025/11/17/database-features-in-rider/))
+- Introducing F# 10 ([10 hours ago](https://devblogs.microsoft.com/dotnet/introducing-fsharp-10/))
+- Introducing C# 14 ([10 hours ago](https://devblogs.microsoft.com/dotnet/introducing-csharp-14/))
+- Database Features in Rider ([14 hours ago](https://blog.jetbrains.com/dotnet/2025/11/17/database-features-in-rider/))
 - Defensive Programming Rule #4: Safe and Efficient Type Casting ([1 days ago](https://dotnettips.wordpress.com/2025/11/16/defensive-programming-rule-4-safe-and-efficient-type-casting/))
 - JetBrains Is Heading to VSLive! Orlando ([3 days ago](https://blog.jetbrains.com/dotnet/2025/11/15/jetbrains-is-heading-to-vslive-orlando/))
 - Azure MCP Server Now Built-In with Visual Studio 2026: A New Era for Agentic Workflows - Visual Studio Blog ([3 days ago](https://dotnetkicks.com/r/735014?url=https://devblogs.microsoft.com/visualstudio/azure-mcp-server-now-built-in-with-visual-studio-2026-a-new-era-for-agentic-workflows/))
