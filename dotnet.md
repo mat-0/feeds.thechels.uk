@@ -9,9 +9,9 @@ description: DotNet Updates
 
 <!-- news_marker starts -->
 - Introducing C# 14 - .NET Blog ([11 hours ago](https://dotnetkicks.com/r/735110?url=https://devblogs.microsoft.com/dotnet/introducing-csharp-14/))
-- Introducing F# 10 ([11 hours ago](https://devblogs.microsoft.com/dotnet/introducing-fsharp-10/))
-- Introducing C# 14 ([11 hours ago](https://devblogs.microsoft.com/dotnet/introducing-csharp-14/))
-- Database Features in Rider ([15 hours ago](https://blog.jetbrains.com/dotnet/2025/11/17/database-features-in-rider/))
+- Introducing F# 10 ([12 hours ago](https://devblogs.microsoft.com/dotnet/introducing-fsharp-10/))
+- Introducing C# 14 ([12 hours ago](https://devblogs.microsoft.com/dotnet/introducing-csharp-14/))
+- Database Features in Rider ([16 hours ago](https://blog.jetbrains.com/dotnet/2025/11/17/database-features-in-rider/))
 - Defensive Programming Rule #4: Safe and Efficient Type Casting ([1 days ago](https://dotnettips.wordpress.com/2025/11/16/defensive-programming-rule-4-safe-and-efficient-type-casting/))
 - JetBrains Is Heading to VSLive! Orlando ([3 days ago](https://blog.jetbrains.com/dotnet/2025/11/15/jetbrains-is-heading-to-vslive-orlando/))
 - Azure MCP Server Now Built-In with Visual Studio 2026: A New Era for Agentic Workflows - Visual Studio Blog ([3 days ago](https://dotnetkicks.com/r/735014?url=https://devblogs.microsoft.com/visualstudio/azure-mcp-server-now-built-in-with-visual-studio-2026-a-new-era-for-agentic-workflows/))
@@ -54,14 +54,13 @@ description: DotNet Updates
 - AutoMapper 15.1 and MediatR 13.1 Released ([14 days ago](https://dotnetkicks.com/r/734032?url=https://www.jimmybogard.com/automapper-15-1-and-mediatr-13-1-released/))
 - AutoMapper 15.1 and MediatR 13.1 Released ([14 days ago](https://dotnetkicks.com/r/734021?url=https://www.jimmybogard.com/automapper-15-1-and-mediatr-13-1-released/))
 - Interesting new C# 14 features coming with .NET 10 ([14 days ago](https://dotnetkicks.com/r/734015?url=https://thomaslevesque.com/2025/10/07/interesting-new-csharp-14-features-coming-with-net-10/))
-- Defensive Programming Rule #2: Always Validate Method Parameters ([15 days ago](https://dotnettips.wordpress.com/2025/11/02/defensive-programming-rule-2-always-validate-method-parameters/))
+- Defensive Programming Rule #2: Always Validate Method Parameters ([16 days ago](https://dotnettips.wordpress.com/2025/11/02/defensive-programming-rule-2-always-validate-method-parameters/))
 - Simplifying Distributed Systems: Jason Taylor Shows How .NET Aspire Makes the Complex Feel Effortless ([19 days ago](https://blog.jetbrains.com/dotnet/2025/10/29/simplifying-distributed-systems-dotnet-aspire-jason-taylor/))
 - Introducing Custom Agents for .NET Developers: C# Expert & WinForms Expert ([20 days ago](https://devblogs.microsoft.com/dotnet/introducing-custom-agents-for-dotnet-developers-csharp-expert-winforms-expert/))
 - Understanding the worst .NET vulnerability ever: request smuggling and CVE-2025-55315 ([20 days ago](https://andrewlock.net/understanding-the-worst-dotnet-vulnerability-request-smuggling-and-cve-2025-55315/))
-- Defensive Programming Rule #1: Anticipate Errors and Eliminate Bugs ([22 days ago](https://dotnettips.wordpress.com/2025/10/26/defensive-programming-rule-1-anticipate-errors-and-eliminate-bugs/))
+- Defensive Programming Rule #1: Anticipate Errors and Eliminate Bugs ([23 days ago](https://dotnettips.wordpress.com/2025/10/26/defensive-programming-rule-1-anticipate-errors-and-eliminate-bugs/))
 - Announcing Sponsorship on NuGet.org ([25 days ago](https://devblogs.microsoft.com/dotnet/announcing-sponsorship-on-nugetdotorg-for-maintainer-appreciation/))
 - Upgrading to Microsoft Agent Framework in Your .NET AI Chat App ([25 days ago](https://devblogs.microsoft.com/dotnet/upgrading-to-microsoft-agent-framework-in-your-dotnet-ai-chat-app/))
 - Adding metadata to fallback endpoints in ASP.NET Core ([26 days ago](https://andrewlock.net/adding-metadata-to-fallback-endpoints-in-aspnetcore/))
-- Mastering the Art of Public Speaking: Lessons from a Lifetime of Teaching and Sharing ([29 days ago](https://dotnettips.wordpress.com/2025/10/19/mastering-the-art-of-public-speaking-lessons-from-a-lifetime-of-teaching-and-sharing/))
 
 <!-- news_marker ends -->
