@@ -8,11 +8,11 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Implement forgot your password using swiyu, ASP.NET Core Identity and Aspire ([32 minutes ago](https://dotnetkicks.com/r/735160?url=https://damienbod.com/2025/11/17/implement-forgot-your-password-using-swiyu-asp-net-core-identity-and-aspire/))
-- Introducing C# 14 - .NET Blog ([13 hours ago](https://dotnetkicks.com/r/735110?url=https://devblogs.microsoft.com/dotnet/introducing-csharp-14/))
-- Introducing F# 10 ([13 hours ago](https://devblogs.microsoft.com/dotnet/introducing-fsharp-10/))
-- Introducing C# 14 ([13 hours ago](https://devblogs.microsoft.com/dotnet/introducing-csharp-14/))
-- Database Features in Rider ([17 hours ago](https://blog.jetbrains.com/dotnet/2025/11/17/database-features-in-rider/))
+- Implement forgot your password using swiyu, ASP.NET Core Identity and Aspire ([1 hours ago](https://dotnetkicks.com/r/735160?url=https://damienbod.com/2025/11/17/implement-forgot-your-password-using-swiyu-asp-net-core-identity-and-aspire/))
+- Introducing C# 14 - .NET Blog ([14 hours ago](https://dotnetkicks.com/r/735110?url=https://devblogs.microsoft.com/dotnet/introducing-csharp-14/))
+- Introducing F# 10 ([14 hours ago](https://devblogs.microsoft.com/dotnet/introducing-fsharp-10/))
+- Introducing C# 14 ([14 hours ago](https://devblogs.microsoft.com/dotnet/introducing-csharp-14/))
+- Database Features in Rider ([18 hours ago](https://blog.jetbrains.com/dotnet/2025/11/17/database-features-in-rider/))
 - Defensive Programming Rule #4: Safe and Efficient Type Casting ([2 days ago](https://dotnettips.wordpress.com/2025/11/16/defensive-programming-rule-4-safe-and-efficient-type-casting/))
 - JetBrains Is Heading to VSLive! Orlando ([3 days ago](https://blog.jetbrains.com/dotnet/2025/11/15/jetbrains-is-heading-to-vslive-orlando/))
 - Azure MCP Server Now Built-In with Visual Studio 2026: A New Era for Agentic Workflows - Visual Studio Blog ([3 days ago](https://dotnetkicks.com/r/735014?url=https://devblogs.microsoft.com/visualstudio/azure-mcp-server-now-built-in-with-visual-studio-2026-a-new-era-for-agentic-workflows/))
