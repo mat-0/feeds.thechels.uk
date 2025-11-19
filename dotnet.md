@@ -8,8 +8,8 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Supercharge Your Test Coverage with GitHub Copilot Testing for .NET - .NET Blog ([27 minutes ago](https://dotnetkicks.com/r/735284?url=https://devblogs.microsoft.com/dotnet/github-copilot-testing-for-dotnet/))
-- Supercharge Your Test Coverage with GitHub Copilot Testing for .NET ([37 minutes ago](https://devblogs.microsoft.com/dotnet/github-copilot-testing-for-dotnet/))
+- Supercharge Your Test Coverage with GitHub Copilot Testing for .NET - .NET Blog ([51 minutes ago](https://dotnetkicks.com/r/735284?url=https://devblogs.microsoft.com/dotnet/github-copilot-testing-for-dotnet/))
+- Supercharge Your Test Coverage with GitHub Copilot Testing for .NET ([1 hours ago](https://devblogs.microsoft.com/dotnet/github-copilot-testing-for-dotnet/))
 - A step-by-step guide to modernizing .NET applications with GitHub Copilot agent mode - .NET Blog ([1 days ago](https://dotnetkicks.com/r/735216?url=https://devblogs.microsoft.com/dotnet/modernizing-dotnet-with-github-copilot-agent-mode/))
 - A step-by-step guide to modernizing .NET applications with GitHub Copilot agent mode ([1 days ago](https://devblogs.microsoft.com/dotnet/modernizing-dotnet-with-github-copilot-agent-mode/))
 - Spend Less Time Upgrading, More Time Coding in Visual Studio 2026 - Visual Studio Blog ([1 days ago](https://dotnetkicks.com/r/735202?url=https://devblogs.microsoft.com/visualstudio/spend-less-time-upgrading-more-time-coding-in-visual-studio-2026/))
