@@ -9,11 +9,11 @@ description: DotNet Updates
 
 <!-- news_marker starts -->
 - A step-by-step guide to modernizing .NET applications with GitHub Copilot agent mode - .NET Blog ([16 hours ago](https://dotnetkicks.com/r/735216?url=https://devblogs.microsoft.com/dotnet/modernizing-dotnet-with-github-copilot-agent-mode/))
-- A step-by-step guide to modernizing .NET applications with GitHub Copilot agent mode ([16 hours ago](https://devblogs.microsoft.com/dotnet/modernizing-dotnet-with-github-copilot-agent-mode/))
-- Spend Less Time Upgrading, More Time Coding in Visual Studio 2026 - Visual Studio Blog ([17 hours ago](https://dotnetkicks.com/r/735202?url=https://devblogs.microsoft.com/visualstudio/spend-less-time-upgrading-more-time-coding-in-visual-studio-2026/))
+- A step-by-step guide to modernizing .NET applications with GitHub Copilot agent mode ([17 hours ago](https://devblogs.microsoft.com/dotnet/modernizing-dotnet-with-github-copilot-agent-mode/))
+- Spend Less Time Upgrading, More Time Coding in Visual Studio 2026 - Visual Studio Blog ([18 hours ago](https://dotnetkicks.com/r/735202?url=https://devblogs.microsoft.com/visualstudio/spend-less-time-upgrading-more-time-coding-in-visual-studio-2026/))
 - Post-Quantum Cryptography in .NET - .NET Blog ([18 hours ago](https://dotnetkicks.com/r/735188?url=https://devblogs.microsoft.com/dotnet/post-quantum-cryptography-in-dotnet/))
 - Ignite 2025: Furthering Windows as the premier platform for developers, governed by security ([18 hours ago](https://dotnetkicks.com/r/735173?url=https://blogs.windows.com/windowsdeveloper/2025/11/18/ignite-2025-furthering-windows-as-the-premier-platform-for-developers-governed-by-security/))
-- Post-Quantum Cryptography in .NET ([18 hours ago](https://devblogs.microsoft.com/dotnet/post-quantum-cryptography-in-dotnet/))
+- Post-Quantum Cryptography in .NET ([19 hours ago](https://devblogs.microsoft.com/dotnet/post-quantum-cryptography-in-dotnet/))
 - Companies complaining .NET moves too fast should just pay for post-EOL support ([1 days ago](https://andrewlock.net/companies-using-dotnet-need-to-suck-it-up-and-pay-for-support/))
 - Implement forgot your password using swiyu, ASP.NET Core Identity and Aspire ([1 days ago](https://dotnetkicks.com/r/735160?url=https://damienbod.com/2025/11/17/implement-forgot-your-password-using-swiyu-asp-net-core-identity-and-aspire/))
 - Introducing C# 14 - .NET Blog ([1 days ago](https://dotnetkicks.com/r/735110?url=https://devblogs.microsoft.com/dotnet/introducing-csharp-14/))
