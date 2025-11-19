@@ -9,7 +9,7 @@ description: DotNet Updates
 
 <!-- news_marker starts -->
 - Supercharge Your Test Coverage with GitHub Copilot Testing for .NET - .NET Blog ([2 hours ago](https://dotnetkicks.com/r/735284?url=https://devblogs.microsoft.com/dotnet/github-copilot-testing-for-dotnet/))
-- Supercharge Your Test Coverage with GitHub Copilot Testing for .NET ([2 hours ago](https://devblogs.microsoft.com/dotnet/github-copilot-testing-for-dotnet/))
+- Supercharge Your Test Coverage with GitHub Copilot Testing for .NET ([3 hours ago](https://devblogs.microsoft.com/dotnet/github-copilot-testing-for-dotnet/))
 - A step-by-step guide to modernizing .NET applications with GitHub Copilot agent mode - .NET Blog ([1 days ago](https://dotnetkicks.com/r/735216?url=https://devblogs.microsoft.com/dotnet/modernizing-dotnet-with-github-copilot-agent-mode/))
 - A step-by-step guide to modernizing .NET applications with GitHub Copilot agent mode ([1 days ago](https://devblogs.microsoft.com/dotnet/modernizing-dotnet-with-github-copilot-agent-mode/))
 - Spend Less Time Upgrading, More Time Coding in Visual Studio 2026 - Visual Studio Blog ([1 days ago](https://dotnetkicks.com/r/735202?url=https://devblogs.microsoft.com/visualstudio/spend-less-time-upgrading-more-time-coding-in-visual-studio-2026/))
