@@ -8,7 +8,7 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- A step-by-step guide to modernizing .NET applications with GitHub Copilot agent mode - .NET Blog ([22 hours ago](https://dotnetkicks.com/r/735216?url=https://devblogs.microsoft.com/dotnet/modernizing-dotnet-with-github-copilot-agent-mode/))
+- A step-by-step guide to modernizing .NET applications with GitHub Copilot agent mode - .NET Blog ([23 hours ago](https://dotnetkicks.com/r/735216?url=https://devblogs.microsoft.com/dotnet/modernizing-dotnet-with-github-copilot-agent-mode/))
 - A step-by-step guide to modernizing .NET applications with GitHub Copilot agent mode ([23 hours ago](https://devblogs.microsoft.com/dotnet/modernizing-dotnet-with-github-copilot-agent-mode/))
 - Spend Less Time Upgrading, More Time Coding in Visual Studio 2026 - Visual Studio Blog ([1 days ago](https://dotnetkicks.com/r/735202?url=https://devblogs.microsoft.com/visualstudio/spend-less-time-upgrading-more-time-coding-in-visual-studio-2026/))
 - Post-Quantum Cryptography in .NET - .NET Blog ([1 days ago](https://dotnetkicks.com/r/735188?url=https://devblogs.microsoft.com/dotnet/post-quantum-cryptography-in-dotnet/))
