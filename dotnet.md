@@ -9,7 +9,7 @@ description: DotNet Updates
 
 <!-- news_marker starts -->
 - Defensive Technology: Ransomware Data Recovery ([17 hours ago](https://dotnetkicks.com/r/735294?url=https://textslashplain.com/2025/11/19/defensive-technology-ransomware-data-recovery/))
-- Supercharge Your Test Coverage with GitHub Copilot Testing for .NET - .NET Blog ([20 hours ago](https://dotnetkicks.com/r/735284?url=https://devblogs.microsoft.com/dotnet/github-copilot-testing-for-dotnet/))
+- Supercharge Your Test Coverage with GitHub Copilot Testing for .NET - .NET Blog ([21 hours ago](https://dotnetkicks.com/r/735284?url=https://devblogs.microsoft.com/dotnet/github-copilot-testing-for-dotnet/))
 - Supercharge Your Test Coverage with GitHub Copilot Testing for .NET ([21 hours ago](https://devblogs.microsoft.com/dotnet/github-copilot-testing-for-dotnet/))
 - A step-by-step guide to modernizing .NET applications with GitHub Copilot agent mode - .NET Blog ([1 days ago](https://dotnetkicks.com/r/735216?url=https://devblogs.microsoft.com/dotnet/modernizing-dotnet-with-github-copilot-agent-mode/))
 - A step-by-step guide to modernizing .NET applications with GitHub Copilot agent mode ([1 days ago](https://devblogs.microsoft.com/dotnet/modernizing-dotnet-with-github-copilot-agent-mode/))
@@ -27,7 +27,7 @@ description: DotNet Updates
 - JetBrains Is Heading to VSLive! Orlando ([5 days ago](https://blog.jetbrains.com/dotnet/2025/11/15/jetbrains-is-heading-to-vslive-orlando/))
 - Azure MCP Server Now Built-In with Visual Studio 2026: A New Era for Agentic Workflows - Visual Studio Blog ([6 days ago](https://dotnetkicks.com/r/735014?url=https://devblogs.microsoft.com/visualstudio/azure-mcp-server-now-built-in-with-visual-studio-2026-a-new-era-for-agentic-workflows/))
 - Latest progress update on Microsoft's Secure Future Initiative  -  Microsoft Security Blog ([6 days ago](https://dotnetkicks.com/r/734962?url=https://www.microsoft.com/en-us/security/blog/2025/11/10/securing-our-future-november-2025-progress-report-on-microsofts-secure-future-initiative/))
-- A first look at the all‑new UX in Visual Studio 2026 - Visual Studio Blog ([6 days ago](https://dotnetkicks.com/r/734933?url=https://devblogs.microsoft.com/visualstudio/a-first-look-at-the-all%E2%80%91new-ux-in-visual-studio-2026/))
+- A first look at the all‑new UX in Visual Studio 2026 - Visual Studio Blog ([7 days ago](https://dotnetkicks.com/r/734933?url=https://devblogs.microsoft.com/visualstudio/a-first-look-at-the-all%E2%80%91new-ux-in-visual-studio-2026/))
 - Introducing Copilot auto model selection (preview) - Visual Studio Blog ([7 days ago](https://dotnetkicks.com/r/734911?url=https://devblogs.microsoft.com/visualstudio/introducing-copilot-auto-model-selection-preview/))
 - Cake v6.0.0 released ([8 days ago](https://dotnetkicks.com/r/734797?url=https://cakebuild.net/blog/2025/11/cake-v6.0.0-released))
 - Clean Up Bloated CQRS Handlers ([8 days ago](https://dotnetkicks.com/r/734785?url=https://codeopinion.com/clean-up-bloated-cqrs-handlers/))
@@ -42,8 +42,8 @@ description: DotNet Updates
 - .NET and .NET Framework November 2025 servicing releases updates - .NET Blog ([8 days ago](https://dotnetkicks.com/r/734718?url=https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-november-2025-servicing-updates/))
 - .NET and .NET Framework November 2025 servicing releases updates - .NET Blog ([8 days ago](https://dotnetkicks.com/r/734707?url=https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-november-2025-servicing-updates/))
 - .NET and .NET Framework November 2025 servicing releases updates - .NET Blog ([8 days ago](https://dotnetkicks.com/r/734693?url=https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-november-2025-servicing-updates/))
-- Announcing .NET 10 ([8 days ago](https://devblogs.microsoft.com/dotnet/announcing-dotnet-10/))
-- .NET and .NET Framework November 2025 servicing releases updates ([8 days ago](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-november-2025-servicing-updates/))
+- Announcing .NET 10 ([9 days ago](https://devblogs.microsoft.com/dotnet/announcing-dotnet-10/))
+- .NET and .NET Framework November 2025 servicing releases updates ([9 days ago](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-november-2025-servicing-updates/))
 - Implement MFA using swiyu, the Swiss E-ID with Duende IdentityServer, ASP.NET Core Identity and .NET Aspire ([9 days ago](https://dotnetkicks.com/r/734650?url=https://damienbod.com/2025/11/10/implement-mfa-using-swiyu-the-swiss-e-id-with-duende-identityserver-asp-net-core-identity-and-net-aspire/))
 - dotNetDave Rocks Austin .NET User Group November 2025 Meeting ([9 days ago](https://dotnettips.wordpress.com/2025/11/10/dotnetdave-rocks-austin-net-user-group-november-2025-meeting/))
 - Defensive Programming Rule #3: Validate Your Enums (Every Time) ([11 days ago](https://dotnettips.wordpress.com/2025/11/09/defensive-programming-rule-3-validate-your-enums-every-time/))
