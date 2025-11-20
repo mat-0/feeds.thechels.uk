@@ -10,7 +10,7 @@ description: DotNet Updates
 <!-- news_marker starts -->
 - More Updates and Fixes for ReSharper and Rider 2025.3 ([1 hours ago](https://blog.jetbrains.com/dotnet/2025/11/20/resharper-rider-2025-3-0-2/))
 - Defensive Technology: Ransomware Data Recovery ([19 hours ago](https://dotnetkicks.com/r/735294?url=https://textslashplain.com/2025/11/19/defensive-technology-ransomware-data-recovery/))
-- Supercharge Your Test Coverage with GitHub Copilot Testing for .NET - .NET Blog ([22 hours ago](https://dotnetkicks.com/r/735284?url=https://devblogs.microsoft.com/dotnet/github-copilot-testing-for-dotnet/))
+- Supercharge Your Test Coverage with GitHub Copilot Testing for .NET - .NET Blog ([23 hours ago](https://dotnetkicks.com/r/735284?url=https://devblogs.microsoft.com/dotnet/github-copilot-testing-for-dotnet/))
 - Supercharge Your Test Coverage with GitHub Copilot Testing for .NET ([23 hours ago](https://devblogs.microsoft.com/dotnet/github-copilot-testing-for-dotnet/))
 - A step-by-step guide to modernizing .NET applications with GitHub Copilot agent mode - .NET Blog ([1 days ago](https://dotnetkicks.com/r/735216?url=https://devblogs.microsoft.com/dotnet/modernizing-dotnet-with-github-copilot-agent-mode/))
 - A step-by-step guide to modernizing .NET applications with GitHub Copilot agent mode ([1 days ago](https://devblogs.microsoft.com/dotnet/modernizing-dotnet-with-github-copilot-agent-mode/))
