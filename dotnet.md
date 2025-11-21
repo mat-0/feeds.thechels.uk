@@ -8,15 +8,15 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Reinventing how .NET Builds and Ships (Again) - .NET Blog ([22 hours ago](https://dotnetkicks.com/r/735363?url=https://devblogs.microsoft.com/dotnet/reinventing-how-dotnet-builds-and-ships-again/))
-- Reinventing how .NET Builds and Ships (Again) ([22 hours ago](https://devblogs.microsoft.com/dotnet/reinventing-how-dotnet-builds-and-ships-again/))
+- Reinventing how .NET Builds and Ships (Again) - .NET Blog ([23 hours ago](https://dotnetkicks.com/r/735363?url=https://devblogs.microsoft.com/dotnet/reinventing-how-dotnet-builds-and-ships-again/))
+- Reinventing how .NET Builds and Ships (Again) ([23 hours ago](https://devblogs.microsoft.com/dotnet/reinventing-how-dotnet-builds-and-ships-again/))
 - More Updates and Fixes for ReSharper and Rider 2025.3 ([1 days ago](https://blog.jetbrains.com/dotnet/2025/11/20/resharper-rider-2025-3-0-2/))
 - Defensive Technology: Ransomware Data Recovery ([1 days ago](https://dotnetkicks.com/r/735294?url=https://textslashplain.com/2025/11/19/defensive-technology-ransomware-data-recovery/))
 - Supercharge Your Test Coverage with GitHub Copilot Testing for .NET - .NET Blog ([1 days ago](https://dotnetkicks.com/r/735284?url=https://devblogs.microsoft.com/dotnet/github-copilot-testing-for-dotnet/))
 - Supercharge Your Test Coverage with GitHub Copilot Testing for .NET ([1 days ago](https://devblogs.microsoft.com/dotnet/github-copilot-testing-for-dotnet/))
 - A step-by-step guide to modernizing .NET applications with GitHub Copilot agent mode - .NET Blog ([2 days ago](https://dotnetkicks.com/r/735216?url=https://devblogs.microsoft.com/dotnet/modernizing-dotnet-with-github-copilot-agent-mode/))
 - A step-by-step guide to modernizing .NET applications with GitHub Copilot agent mode ([2 days ago](https://devblogs.microsoft.com/dotnet/modernizing-dotnet-with-github-copilot-agent-mode/))
-- Spend Less Time Upgrading, More Time Coding in Visual Studio 2026 - Visual Studio Blog ([2 days ago](https://dotnetkicks.com/r/735202?url=https://devblogs.microsoft.com/visualstudio/spend-less-time-upgrading-more-time-coding-in-visual-studio-2026/))
+- Spend Less Time Upgrading, More Time Coding in Visual Studio 2026 - Visual Studio Blog ([3 days ago](https://dotnetkicks.com/r/735202?url=https://devblogs.microsoft.com/visualstudio/spend-less-time-upgrading-more-time-coding-in-visual-studio-2026/))
 - Post-Quantum Cryptography in .NET - .NET Blog ([3 days ago](https://dotnetkicks.com/r/735188?url=https://devblogs.microsoft.com/dotnet/post-quantum-cryptography-in-dotnet/))
 - Ignite 2025: Furthering Windows as the premier platform for developers, governed by security ([3 days ago](https://dotnetkicks.com/r/735173?url=https://blogs.windows.com/windowsdeveloper/2025/11/18/ignite-2025-furthering-windows-as-the-premier-platform-for-developers-governed-by-security/))
 - Post-Quantum Cryptography in .NET ([3 days ago](https://devblogs.microsoft.com/dotnet/post-quantum-cryptography-in-dotnet/))
