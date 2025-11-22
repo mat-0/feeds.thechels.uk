@@ -9,8 +9,8 @@ description: SecOps News
 
 <!-- news_marker starts -->
 - WhatsApp API flaw let researchers scrape 3.5 billion accounts ([3 hours ago](https://www.bleepingcomputer.com/news/security/whatsapp-api-flaw-let-researchers-scrape-35-billion-accounts/))
-- China-Linked APT31 Launches Stealthy Cyberattacks on Russian IT Using Cloud Services ([6 hours ago](https://thehackernews.com/2025/11/china-linked-apt31-launches-stealthy.html))
-- Cox Enterprises discloses Oracle E-Business Suite data breach ([6 hours ago](https://www.bleepingcomputer.com/news/security/cox-enterprises-discloses-oracle-e-business-suite-data-breach/))
+- China-Linked APT31 Launches Stealthy Cyberattacks on Russian IT Using Cloud Services ([7 hours ago](https://thehackernews.com/2025/11/china-linked-apt31-launches-stealthy.html))
+- Cox Enterprises discloses Oracle E-Business Suite data breach ([7 hours ago](https://www.bleepingcomputer.com/news/security/cox-enterprises-discloses-oracle-e-business-suite-data-breach/))
 - Piecing Together the Puzzle: A Qilin Ransomware Investigation ([8 hours ago](https://www.bleepingcomputer.com/news/security/piecing-together-the-puzzle-a-qilin-ransomware-investigation/))
 - It's TEE time for Brave's AI assistant Leo ([10 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/11/22/brave_leo_trusted_execution_environment/))
 - Matrix Push C2 Uses Browser Notifications for Fileless, Cross-Platform Phishing Attacks ([15 hours ago](https://thehackernews.com/2025/11/matrix-push-c2-uses-browser.html))
@@ -53,9 +53,9 @@ description: SecOps News
 - Veeam bets on more VMware alternatives, including Red Hat and China’s Sangfor ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2025/11/21/veeam_13_hypervisor_support/))
 - Disruption with some GitHub services ([1 days ago](https://www.githubstatus.com/incidents/zzl9nl31lb35))
 - SEC drops SolarWinds lawsuit that painted a target on CISOs everywhere ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2025/11/20/sec_bails_on_solarwinds_lawsuit/))
-- International Kiteboarding Organization - 340,349 breached accounts ([1 days ago](https://haveibeenpwned.com/Breach/IKO))
-- Russian Hacking Suspect Wanted by the FBI Arrested on Thai Resort Island ([1 days ago](https://www.securityweek.com/russian-hacking-suspect-wanted-by-the-fbi-arrested-on-thai-resort-island/))
-- Google exposes BadAudio malware used in APT24 espionage campaigns ([1 days ago](https://www.bleepingcomputer.com/news/security/google-exposes-badaudio-malware-used-in-apt24-espionage-campaigns/))
+- International Kiteboarding Organization - 340,349 breached accounts ([2 days ago](https://haveibeenpwned.com/Breach/IKO))
+- Russian Hacking Suspect Wanted by the FBI Arrested on Thai Resort Island ([2 days ago](https://www.securityweek.com/russian-hacking-suspect-wanted-by-the-fbi-arrested-on-thai-resort-island/))
+- Google exposes BadAudio malware used in APT24 espionage campaigns ([2 days ago](https://www.bleepingcomputer.com/news/security/google-exposes-badaudio-malware-used-in-apt24-espionage-campaigns/))
 - Gemini tries to sniff out AI slop images while also making them easier to create ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2025/11/20/google_ai_image_detector/))
 - PHP 8.5 lays down long-awaited pipe operator, adds new URI tools ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2025/11/20/php_85_lays_pipe_operator/))
 - Salesforce-linked data breach claims 200+ victims, has ShinyHunters’ fingerprints all over it ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2025/11/20/salesforce_gainsight_breach/))
