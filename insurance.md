@@ -8,13 +8,13 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Comments On FCA Transaction Reporting Proposals ([19 hours ago](https://insurance-edge.net/2025/11/21/comments-on-fca-transaction-reporting-proposals/))
-- CTSI Calls For More Trading Standards Funding ([21 hours ago](https://insurance-edge.net/2025/11/21/ctsi-calls-for-more-trading-standards-funding/))
-- 5 Crucial Features to Look for in a Contract Management Platform ([21 hours ago](https://insurance-edge.net/2025/11/21/5-crucial-features-to-look-for-in-a-contract-management-platform/))
-- Copart UK Wins People Appreciation Award ([21 hours ago](https://insurance-edge.net/2025/11/21/copart-uk-wins-people-appreciation-award/))
+- Comments On FCA Transaction Reporting Proposals ([20 hours ago](https://insurance-edge.net/2025/11/21/comments-on-fca-transaction-reporting-proposals/))
+- CTSI Calls For More Trading Standards Funding ([22 hours ago](https://insurance-edge.net/2025/11/21/ctsi-calls-for-more-trading-standards-funding/))
+- 5 Crucial Features to Look for in a Contract Management Platform ([22 hours ago](https://insurance-edge.net/2025/11/21/5-crucial-features-to-look-for-in-a-contract-management-platform/))
+- Copart UK Wins People Appreciation Award ([22 hours ago](https://insurance-edge.net/2025/11/21/copart-uk-wins-people-appreciation-award/))
 - It's only rock and roll (but I like it) ([23 hours ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/its-only-rock-and-roll-but-i-like-it-557493.aspx))
 - People Moves: TMK Taps Beresford From CNA Hardy as Life Sciences U/W; Hampden Risk Partners Promotes D’Alessandro as Active U/W, Replacing Sharp ([23 hours ago](https://www.insurancejournal.com/news/international/2025/11/21/848695.htm))
-- Strengthen Oklahoma Homes Program to Expand Statewide by 2026 ([23 hours ago](https://www.insurancejournal.com/news/southcentral/2025/11/21/848691.htm))
+- Strengthen Oklahoma Homes Program to Expand Statewide by 2026 ([1 days ago](https://www.insurancejournal.com/news/southcentral/2025/11/21/848691.htm))
 - European and US P&C markets heading towards “progressively softer” environment: Autonomous ([1 days ago](https://www.reinsurancene.ws/european-and-us-pc-markets-heading-towards-progressively-softer-environment-autonomous/))
 - Tokio Marine Holdings to Acquire Illinois-Based Commodity & Ingredient Hedging ([1 days ago](https://www.insurancejournal.com/news/midwest/2025/11/21/848681.htm))
 - Sea Level Rise Threatens Thousands of US Hazardous Sites, Study Finds ([1 days ago](https://www.insurancejournal.com/news/national/2025/11/21/848671.htm))
