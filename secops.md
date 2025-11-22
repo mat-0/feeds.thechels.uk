@@ -9,14 +9,14 @@ description: SecOps News
 
 <!-- news_marker starts -->
 - WhatsApp API flaw let researchers scrape 3.5 billion accounts ([1 hours ago](https://www.bleepingcomputer.com/news/security/whatsapp-api-flaw-let-researchers-scrape-35-billion-accounts/))
-- China-Linked APT31 Launches Stealthy Cyberattacks on Russian IT Using Cloud Services ([4 hours ago](https://thehackernews.com/2025/11/china-linked-apt31-launches-stealthy.html))
-- Cox Enterprises discloses Oracle E-Business Suite data breach ([4 hours ago](https://www.bleepingcomputer.com/news/security/cox-enterprises-discloses-oracle-e-business-suite-data-breach/))
+- China-Linked APT31 Launches Stealthy Cyberattacks on Russian IT Using Cloud Services ([5 hours ago](https://thehackernews.com/2025/11/china-linked-apt31-launches-stealthy.html))
+- Cox Enterprises discloses Oracle E-Business Suite data breach ([5 hours ago](https://www.bleepingcomputer.com/news/security/cox-enterprises-discloses-oracle-e-business-suite-data-breach/))
 - Piecing Together the Puzzle: A Qilin Ransomware Investigation ([6 hours ago](https://www.bleepingcomputer.com/news/security/piecing-together-the-puzzle-a-qilin-ransomware-investigation/))
 - It's TEE time for Brave's AI assistant Leo ([8 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/11/22/brave_leo_trusted_execution_environment/))
 - Matrix Push C2 Uses Browser Notifications for Fileless, Cross-Platform Phishing Attacks ([13 hours ago](https://thehackernews.com/2025/11/matrix-push-c2-uses-browser.html))
 - CISA Warns of Actively Exploited Critical Oracle Identity Manager Zero-Day Vulnerability ([13 hours ago](https://thehackernews.com/2025/11/cisa-warns-of-actively-exploited.html))
 - CISA warns Oracle Identity Manager RCE flaw is being actively exploited ([20 hours ago](https://www.bleepingcomputer.com/news/security/cisa-warns-oracle-identity-manager-rce-flaw-is-being-actively-exploited/))
-- Researchers get inside the mind of bots, find out what texts they trained on ([22 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/11/21/researchers_better_ai_model_memory_probe/))
+- Researchers get inside the mind of bots, find out what texts they trained on ([23 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/11/21/researchers_better_ai_model_memory_probe/))
 - Nvidia confirms October Windows updates cause gaming issues ([1 days ago](https://www.bleepingcomputer.com/news/technology/nvidia-fixes-gaming-issues-caused-by-october-windows-update/))
 - ShinyHunters 'does not like Salesforce at all,' claims the crew accessed Gainsight 3 months ago ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2025/11/21/shinyhunters_salesforce_gainsight_breach/))
 - Microsoft: Out-of-band update fixes Windows 11 hotpatch install loop ([1 days ago](https://www.bleepingcomputer.com/news/microsoft/microsoft-out-of-band-update-fixes-windows-11-hotpatch-install-loop/))
@@ -58,7 +58,7 @@ description: SecOps News
 - Google exposes BadAudio malware used in APT24 espionage campaigns ([1 days ago](https://www.bleepingcomputer.com/news/security/google-exposes-badaudio-malware-used-in-apt24-espionage-campaigns/))
 - Gemini tries to sniff out AI slop images while also making them easier to create ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2025/11/20/google_ai_image_detector/))
 - PHP 8.5 lays down long-awaited pipe operator, adds new URI tools ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2025/11/20/php_85_lays_pipe_operator/))
-- Salesforce-linked data breach claims 200+ victims, has ShinyHunters’ fingerprints all over it ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2025/11/20/salesforce_gainsight_breach/))
+- Salesforce-linked data breach claims 200+ victims, has ShinyHunters’ fingerprints all over it ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2025/11/20/salesforce_gainsight_breach/))
 - Disruption with some GitHub services ([2 days ago](https://www.githubstatus.com/incidents/cg3wwz9dw5dg))
 - LLM-generated malware is improving, but don't expect autonomous attacks tomorrow ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2025/11/20/llmgenerated_malware_improving/))
 - LLM-generated malware is improving, but don't expect autonomous attacks tomorrow ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2025/11/20/llmgenerated_malware_improving/))
@@ -208,6 +208,5 @@ description: SecOps News
 - Weekly Update 475 ([27 days ago](https://www.troyhunt.com/weekly-update-475/))
 - githubstatus.com was unavailable UTC 2025 Oct 24 02:55 to 03:13 ([29 days ago](https://www.githubstatus.com/incidents/jkll48jj78zv))
 - git operations over ssh seeing increased latency on github.com ([29 days ago](https://www.githubstatus.com/incidents/n7hf73qtpz2l))
-- Incident with Actions - Larger hosted runners ([29 days ago](https://www.githubstatus.com/incidents/8vql81b3xcgq))
 
 <!-- news_marker ends -->
