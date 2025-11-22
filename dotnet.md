@@ -8,7 +8,7 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- How Do You Fix 70% Data Loss Across 1 Million Concurrent Connections? ([10 hours ago](https://dotnetkicks.com/r/735453?url=https://petabridge.com/blog/why-buy-akka.net-support-2025/))
+- How Do You Fix 70% Data Loss Across 1 Million Concurrent Connections? ([11 hours ago](https://dotnetkicks.com/r/735453?url=https://petabridge.com/blog/why-buy-akka.net-support-2025/))
 - Reinventing how .NET Builds and Ships (Again) - .NET Blog ([1 days ago](https://dotnetkicks.com/r/735363?url=https://devblogs.microsoft.com/dotnet/reinventing-how-dotnet-builds-and-ships-again/))
 - Reinventing how .NET Builds and Ships (Again) ([1 days ago](https://devblogs.microsoft.com/dotnet/reinventing-how-dotnet-builds-and-ships-again/))
 - More Updates and Fixes for ReSharper and Rider 2025.3 ([1 days ago](https://blog.jetbrains.com/dotnet/2025/11/20/resharper-rider-2025-3-0-2/))
@@ -56,9 +56,9 @@ description: DotNet Updates
 - How Copilot Studio uses .NET and WebAssembly for performance and innovation ([16 days ago](https://devblogs.microsoft.com/dotnet/copilot-studio-dotnet-wasm/))
 - The Rider 2025.3 Release Candidate Is Now Available ([16 days ago](https://blog.jetbrains.com/dotnet/2025/11/05/the-rider-2025-3-release-candidate/))
 - The ReSharper, .NET Tools, and ReSharper C++ 2025.3 Release Candidates Are Now Available ([16 days ago](https://blog.jetbrains.com/dotnet/2025/11/05/the-resharper-dotnet-tools-2025-3-release-candidate/))
-- dotInsights  -  November 2025 ([16 days ago](https://blog.jetbrains.com/dotnet/2025/11/05/dotinsights-november-2025/))
+- dotInsights  -  November 2025 ([17 days ago](https://blog.jetbrains.com/dotnet/2025/11/05/dotinsights-november-2025/))
 - Get Ready for .NET Conf 2025! ([17 days ago](https://devblogs.microsoft.com/dotnet/get-ready-for-dotnet-conf-2025/))
-- Taming the Billion Dollar Mistake: Maarten Balliauw’s Guide to C# Nullable Reference Types ([17 days ago](https://blog.jetbrains.com/dotnet/2025/11/04/maarten-balliauws-guide-to-csharp-nullable-reference-types/))
+- Taming the Billion Dollar Mistake: Maarten Balliauw’s Guide to C# Nullable Reference Types ([18 days ago](https://blog.jetbrains.com/dotnet/2025/11/04/maarten-balliauws-guide-to-csharp-nullable-reference-types/))
 - Easier reflection with [UnsafeAccessorType] in .NET 10: Exploring the .NET 10 preview - Part 9 ([18 days ago](https://andrewlock.net/exploring-dotnet-10-preview-features-9-easier-reflection-with-unsafeaccessortype/))
 - Defensive Programming Rule #2: Always Validate Method Parameters ([20 days ago](https://dotnettips.wordpress.com/2025/11/02/defensive-programming-rule-2-always-validate-method-parameters/))
 - Understanding the worst .NET vulnerability ever: request smuggling and CVE-2025-55315 ([25 days ago](https://andrewlock.net/understanding-the-worst-dotnet-vulnerability-request-smuggling-and-cve-2025-55315/))
