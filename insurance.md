@@ -8,7 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Comments On FCA Transaction Reporting Proposals ([23 hours ago](https://insurance-edge.net/2025/11/21/comments-on-fca-transaction-reporting-proposals/))
+- Comments On FCA Transaction Reporting Proposals ([1 days ago](https://insurance-edge.net/2025/11/21/comments-on-fca-transaction-reporting-proposals/))
 - CTSI Calls For More Trading Standards Funding ([1 days ago](https://insurance-edge.net/2025/11/21/ctsi-calls-for-more-trading-standards-funding/))
 - 5 Crucial Features to Look for in a Contract Management Platform ([1 days ago](https://insurance-edge.net/2025/11/21/5-crucial-features-to-look-for-in-a-contract-management-platform/))
 - Copart UK Wins People Appreciation Award ([1 days ago](https://insurance-edge.net/2025/11/21/copart-uk-wins-people-appreciation-award/))
@@ -119,7 +119,7 @@ description: Insurance Updates
 - Big Interview: Simon McGinn, CEO of Dual UK ([4 days ago](https://www.postonline.co.uk/commercial/7959275/big-interview-simon-mcginn-ceo-of-dual-uk))
 - Why insurance is still a people business ([4 days ago](https://www.postonline.co.uk/broker/7959364/why-insurance-is-still-a-people-business))
 - Howden buys Church of Scotland insurance scheme ([4 days ago](https://www.postonline.co.uk/commercial/7959404/howden-buys-church-of-scotland-insurance-scheme))
-- Travelers Institute: How aerial imagery and geospatial data have transformed property insurance ([4 days ago](https://www.dig-in.com/news/aerial-imagery-geospatial-data-in-property-insurance))
+- Travelers Institute: How aerial imagery and geospatial data have transformed property insurance ([5 days ago](https://www.dig-in.com/news/aerial-imagery-geospatial-data-in-property-insurance))
 - Post-VIP Roundtable Thoughts: Unpacking the (false) paradox of efficiency vs experience trade offs in insurance by Rory Yates ([16 days ago](https://www.insurtechinsights.com/post-vip-roundtable-thoughts-unpacking-the-false-paradox-of-efficiency-vs-experience-trade-offs-in-insurance-by-rory-yates/))
 - Zurich Strengthens Its Fraud Defences with Quantexa Real-Time AI, Connecting Industry-Wide Claims Data ([16 days ago](https://www.insurtechinsights.com/zurich-strengthens-its-fraud-defences-with-quantexa-real-time-ai-connecting-industry-wide-claims-data-2/))
 - Allianz Joins The Spark as Member; Sirma Boshnakova Appointed to Global Advisory Board ([16 days ago](https://www.insurtechinsights.com/allianz-joins-the-spark-as-member-sirma-boshnakova-appointed-to-global-advisory-board/))
