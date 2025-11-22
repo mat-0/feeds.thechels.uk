@@ -11,7 +11,7 @@ description: Insurance Updates
 - Comments On FCA Transaction Reporting Proposals ([21 hours ago](https://insurance-edge.net/2025/11/21/comments-on-fca-transaction-reporting-proposals/))
 - CTSI Calls For More Trading Standards Funding ([23 hours ago](https://insurance-edge.net/2025/11/21/ctsi-calls-for-more-trading-standards-funding/))
 - 5 Crucial Features to Look for in a Contract Management Platform ([23 hours ago](https://insurance-edge.net/2025/11/21/5-crucial-features-to-look-for-in-a-contract-management-platform/))
-- Copart UK Wins People Appreciation Award ([23 hours ago](https://insurance-edge.net/2025/11/21/copart-uk-wins-people-appreciation-award/))
+- Copart UK Wins People Appreciation Award ([1 days ago](https://insurance-edge.net/2025/11/21/copart-uk-wins-people-appreciation-award/))
 - It's only rock and roll (but I like it) ([1 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/its-only-rock-and-roll-but-i-like-it-557493.aspx))
 - People Moves: TMK Taps Beresford From CNA Hardy as Life Sciences U/W; Hampden Risk Partners Promotes D’Alessandro as Active U/W, Replacing Sharp ([1 days ago](https://www.insurancejournal.com/news/international/2025/11/21/848695.htm))
 - Strengthen Oklahoma Homes Program to Expand Statewide by 2026 ([1 days ago](https://www.insurancejournal.com/news/southcentral/2025/11/21/848691.htm))
