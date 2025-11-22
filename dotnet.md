@@ -8,7 +8,7 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- How Do You Fix 70% Data Loss Across 1 Million Concurrent Connections? ([4 hours ago](https://dotnetkicks.com/r/735453?url=https://petabridge.com/blog/why-buy-akka.net-support-2025/))
+- How Do You Fix 70% Data Loss Across 1 Million Concurrent Connections? ([5 hours ago](https://dotnetkicks.com/r/735453?url=https://petabridge.com/blog/why-buy-akka.net-support-2025/))
 - Reinventing how .NET Builds and Ships (Again) - .NET Blog ([1 days ago](https://dotnetkicks.com/r/735363?url=https://devblogs.microsoft.com/dotnet/reinventing-how-dotnet-builds-and-ships-again/))
 - Reinventing how .NET Builds and Ships (Again) ([1 days ago](https://devblogs.microsoft.com/dotnet/reinventing-how-dotnet-builds-and-ships-again/))
 - More Updates and Fixes for ReSharper and Rider 2025.3 ([1 days ago](https://blog.jetbrains.com/dotnet/2025/11/20/resharper-rider-2025-3-0-2/))
