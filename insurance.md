@@ -93,7 +93,7 @@ description: Insurance Updates
 - Mylo's Belen Tokarski sees leadership as 'confident humility' ([2 days ago](https://www.dig-in.com/news/mylos-belen-tokarski-calls-leadership-confident-humility))
 - Chubb launches AI embedded engine; Trucordia acquires 5: Insurance news ([2 days ago](https://www.dig-in.com/news/chubb-launches-ai-embedded-engine-trucordia-acquires-5-insurance-news))
 - Surge-proofing insurance: The new playbook for catastrophic readiness ([2 days ago](https://www.dig-in.com/opinion/surge-proofing-insurance-and-catastrophic-readiness))
-- Lloyd's launches investigation after AIG drops John Neal over alleged workplace relationship ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/lloyds-launches-investigation-after-aig-drops-john-neal-over-alleged-workplace-relationship-557190.aspx))
+- Lloyd's launches investigation after AIG drops John Neal over alleged workplace relationship ([3 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/lloyds-launches-investigation-after-aig-drops-john-neal-over-alleged-workplace-relationship-557190.aspx))
 - 'Digital friction' impacting employee efficiency ([3 days ago](https://www.insurancebusinessmag.com/uk/business-strategy/digital-friction-impacting-employee-efficiency-557164.aspx))
 - Focusing on growth: Strategies for Chief Operating Officers ([3 days ago](https://www.dig-in.com/podcast/focusing-on-growth-strategies-for-coos))
 - Ripe enters holiday homes market with Schofields acquisition ([3 days ago](https://www.postonline.co.uk/news/7959411/ripe-enters-holiday-homes-market-with-schofields-acquisition))
