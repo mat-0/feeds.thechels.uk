@@ -105,7 +105,7 @@ description: Insurance Updates
 - Asia Pacific Insurance Technology Awards winners revealed ([3 days ago](https://www.postonline.co.uk/technology/7959381/asia-pacific-insurance-technology-awards-winners-revealed))
 - Top 50 Reinsurers of 2025 revealed ([3 days ago](https://www.postonline.co.uk/reinsurance/7959199/top-50-reinsurers-of-2025-revealed))
 - Why Ecclesiastical’s Carey is running to fight dementia ([3 days ago](https://www.postonline.co.uk/commercial/7959140/why-ecclesiasticals-carey-is-running-to-fight-dementia))
-- Diversity & Inclusion in Insurance Award winners revealed ([3 days ago](https://www.postonline.co.uk/commercial/7959362/diversity-inclusion-in-insurance-award-winners-revealed))
+- Diversity & Inclusion in Insurance Award winners revealed ([4 days ago](https://www.postonline.co.uk/commercial/7959362/diversity-inclusion-in-insurance-award-winners-revealed))
 - WIL 2025: Kari Allen ([4 days ago](https://www.dig-in.com/news/wil-2025-kari-allen))
 - Forgery, fraud make up 40% of title insurance losses ([4 days ago](https://www.dig-in.com/news/forgery-fraud-make-up-40-of-title-insurance-losses))
 - The password dilemma: Creating strong passwords to protect your data ([4 days ago](https://www.dig-in.com/news/creating-strong-passwords-to-protect-your-data))
